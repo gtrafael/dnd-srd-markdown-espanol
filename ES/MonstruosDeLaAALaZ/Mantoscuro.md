@@ -1,0 +1,38 @@
+---
+aliases: ["Mantoscuro", "Darkmantle"]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Darkmantle|Darkmantle (EN)]]"
+---
+
+# Mantoscuro
+
+*Aberración Pequeña, sin alineamiento*
+
+**CA:** 11
+
+**Iniciativa:** +3 (13)
+
+**PG:** 22 (5d6 + 5)
+
+**Velocidad:** 3 m, volar 9 m
+
+<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>16</td><td>+3</td><td>+3</td><td>DES</td><td>12</td><td>+1</td><td>+1</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>5</td><td>-3</td><td>-3</td></tr></table>
+
+**Habilidades:** Sigilo +3
+
+**Sentidos:** visión ciega 18 m; Percepción pasiva 10
+
+**Idiomas:** ninguno
+
+**VD:** 1/2 (100 PX; BC +2)
+
+## Acciones
+
+**Aplastar.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 6 (1d6 + 3) de daño contundente y el mantoscuro se engancha al objetivo. Si el objetivo es una criatura Mediana o más pequeña y el mantoscuro tenía ventaja en la tirada de ataque, cubrirá al objetivo, que tendrá el estado de cegado y se asfixiará mientras el mantoscuro esté enganchado de esta forma.
+
+Mientras esté enganchado a un objetivo, el mantoscuro solo podrá atacarlo a él, pero tendrá ventaja en las tiradas de ataque. Su velocidad pasará a ser 0, no podrá beneficiarse de ningún bonificador a su velocidad y se moverá con el objetivo.
+
+Una criatura puede emplear una acción para intentar quitarse de encima al mantoscuro superando una prueba de Fuerza (Atletismo) con CD 13. En su turno, el mantoscuro puede separarse gastando 1,5 m de movimiento.
+
+**Aura de oscuridad (1/día).** Una oscuridad mágica llena una emanación de 4,5 m que se origina en el mantoscuro. Este efecto dura mientras el mantoscuro mantenga la concentración en él, hasta 10 minutos. La visión en la oscuridad no puede penetrar en esta zona y ninguna luz puede alumbrarla.
+

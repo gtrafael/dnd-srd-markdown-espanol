@@ -1,0 +1,24 @@
+---
+aliases: ["Marca del cazador", "Hunters Mark"]
+tags: [srd, espanol, tag_conjuros]
+related_en: "[[Spells/Hunters Mark|Hunters Mark (EN)]]"
+---
+
+# Marca del cazador
+
+*Adivinación de nivel 1 (explorador)*
+
+**Tiempo de lanzamiento:** Acción adicional
+
+**Alcance:** 27 m
+
+**Componentes:** V
+
+**Duración:** Concentración, hasta 1 hora
+
+Marcas mágicamente a una criatura que puedas ver dentro del alcance como tu presa. Hasta que el conjuro termine, infliges 1d6 de daño de fuerza adicional al objetivo siempre que le aciertes con una tirada de ataque. También tendrás ventaja en cualquier prueba de Sabiduría (Percepción o Supervivencia) que realices para buscarlo. 
+
+Si los puntos de golpe del objetivo se reducen a 0 antes de que el conjuro termine, puedes emplear una acción adicional para transferir la marca a una nueva criatura que puedas ver dentro del alcance. 
+
+**Con un espacio de conjuro de nivel superior.** Tu concentración puede durar más si usas un espacio de conjuro de nivel 3 o 4 (hasta 8 horas) o 5 o más (hasta 24 horas). 
+

@@ -1,0 +1,62 @@
+---
+aliases: ["Dragón negro adulto", "Adult Black Dragon"]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Adult Black Dragon|Adult Black Dragon (EN)]]"
+---
+
+# Dragón negro adulto
+
+*Dragón Enorme (cromático), caótico malvado*
+
+**CA:** 19
+
+**Iniciativa:** +12 (22)
+
+**PG:** 195 (17d12 + 85)
+
+**Velocidad:** 12 m, nadar 12 m, volar 24 m
+
+<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>23</td><td>+6</td><td>+6</td><td>DES</td><td>14</td><td>+2</td><td>+7</td><td>CON</td><td>21</td><td>+5</td><td>+5</td></tr><tr><td>INT</td><td>14</td><td>+2</td><td>+2</td><td>SAB</td><td>13</td><td>+1</td><td>+6</td><td>CAR</td><td>19</td><td>+4</td><td>+4</td></tr></table>
+
+**Habilidades:** Percepción +11, Sigilo +7
+
+**Inmunidades:** ácido
+
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 21
+
+**Idiomas:** común, dracónico
+
+**VD:** 14 (11 500 PX o 13 000 en la guarida; BC +5)
+
+## Atributos
+
+**Anfibio.** El dragón puede respirar tanto dentro como fuera del agua.
+
+Resistencia legendaria (3/día o 4/día en la guarida).
+
+El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
+
+## Acciones
+
+**Ataque múltiple.** El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar flecha ácida (versión de nivel 3).
+
+**Desgarro.** Tirada de ataque cuerpo a cuerpo: +11, alcance 3 m. Acierto: 13 (2d6 + 6) de daño cortante más 4 (1d8) de daño de ácido.
+
+**Aliento ácido (recarga 5–6).** *Tirada de salvación de Destreza:* CD 18, todas las criaturas en una línea de 18 m de largo y 1,5 m de ancho. Fallo: 54 (12d8) de daño de ácido. Éxito: la mitad del daño.
+
+**Lanzamiento de conjuros.** El dragón lanza uno de los siguientes conjuros, que no requiere componentes materiales y utiliza el Carisma como aptitud mágica (CD de salvación de conjuros 17, +9 a acertar con ataques de conjuro):
+
+**A voluntad:** detectar magia, flecha ácida (versión de nivel 3), terror
+
+**1/día cada uno:** esfera vitriólica, hablar con los muertos
+
+## Acciones legendarias
+
+**Usos de acciones legendarias:** 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.
+
+**Abalanzarse.** El dragón se mueve hasta la mitad de su velocidad y realiza un ataque de desgarro.
+
+**Nubarrón de insectos.** *Tirada de salvación de Destreza:* CD 17, una criatura que el dragón pueda ver a 36 m o menos. Fallo: 22 (4d10) de daño de veneno y el objetivo tendrá desventaja en las tiradas de salvación para mantener la concentración hasta el final de su siguiente turno. Fallo o éxito: el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
+
+**Presencia aterradora.** El dragón utiliza su lanzamiento de conjuros para lanzar terror. El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
+

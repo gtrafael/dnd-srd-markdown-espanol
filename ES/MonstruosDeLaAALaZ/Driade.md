@@ -1,0 +1,52 @@
+---
+aliases: ["Dríade", "Dryad"]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Dryad|Dryad (EN)]]"
+---
+
+# Dríade
+
+*Feérico Mediano, neutral*
+
+**CA:** 16
+
+**Iniciativa:** +1 (11)
+
+**PG:** 22 (5d8)
+
+**Velocidad:** 9 m
+
+<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>10</td><td>+0</td><td>+0</td><td>DES</td><td>12</td><td>+1</td><td>+1</td><td>CON</td><td>11</td></tr><tr><td>INT</td><td>14</td><td>+2</td><td>+2</td><td>SAB</td><td>15</td><td>+2</td><td>+2</td><td>CAR</td><td>18</td></tr></table>
+
+**Habilidades:** Percepción +4, Sigilo +5
+
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14
+
+**Idiomas:** elfo, silvano
+
+**VD:** 1 (200 PX; BC +2)
+
+## Atributos
+
+**Hablar con las bestias y las plantas.** La dríade puede comunicarse con bestias y plantas como si tuvieran un idioma en común.
+
+**Resistencia mágica.** La dríade tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
+
+## Acciones
+
+**Ataque múltiple.** La dríade realiza un ataque con su latigazo de enredadera o su estallido de espinas y puede utilizar su lanzamiento de conjuros para lanzar hechizar monstruo.
+
+**Latigazo de enredadera.** Tirada de ataque cuerpo a cuerpo: +6, alcance 3 m. Acierto: 8 (1d8 + 4) de daño cortante.
+
+**Estallido de espinas.** Tirada de ataque a distancia: +6, alcance 18 m. Acierto: 7 (1d6 + 4) de daño perforante.
+
+**Lanzamiento de conjuros.** La dríade lanza uno de los siguientes conjuros, que no requiere componentes materiales y utiliza el Carisma como aptitud mágica (CD de salvación de conjuros 14):
+
+**A voluntad:** encantar animal, hechizar monstruo (dura 24 horas; termina antes de tiempo si la dríade vuelve a lanzarlo), saber druídico
+
+**1/día cada uno:** enmarañar, pasar sin rastro
+
+## Acciones adicionales
+
+**Paso arbóreo.** Si se encuentra a 1,5 m o menos de un árbol Grande o de mayor tamaño, la dríade se teletransporta a un espacio sin ocupar a 1,5 m o menos de un segundo árbol Grande o de mayor tamaño que esté a 18 m o menos del otro.
+

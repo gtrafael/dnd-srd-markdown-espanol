@@ -1,0 +1,42 @@
+---
+aliases: ["Remorhaz"]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Remorhaz|Remorhaz (EN)]]"
+---
+
+# Remorhaz
+
+*Monstruosidad Enorme, sin alineamiento*
+
+**CA:** 17
+
+**Iniciativa:** +5 (15)
+
+**PG:** 195 (17d12 + 85)
+
+**Velocidad:** 12 m, excavar 9 m
+
+<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>24</td><td>+7</td><td>+7</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>21</td></tr><tr><td>INT</td><td>4</td><td>-3</td><td>-3</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>5</td></tr></table>
+
+**Inmunidades:** frío, fuego
+
+**Sentidos:** sentir vibraciones 18 m, visión en la oscuridad 18 m; Percepción pasiva 10
+
+**Idiomas:** ninguno
+
+**VD:** 11 (7200 PX; BC +4)
+
+## Atributos
+
+**Aura de calor.** Al final de cada turno del remorhaz, todas las criaturas en una emanación de 1,5 m que se origina en él reciben 16 (3d10) de daño de fuego.
+
+## Acciones
+
+**Mordisco.** Tirada de ataque cuerpo a cuerpo: +11, alcance 3 m. Acierto: 18 (2d10 + 7) de daño perforante más 14 (4d6) de daño de fuego. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 17 para escapar) y el de apresada hasta que el agarre termine.
+
+## Acciones adicionales
+
+**Engullir.** *Tirada de salvación de Fuerza:* CD 19, una criatura Grande o más pequeña agarrada por el remorhaz (puede tener hasta dos criaturas engullidas a la vez). Fallo: el objetivo será engullido por el remorhaz y se pondrá fin al estado de agarrado. Una criatura engullida tendrá los estados de apresada y cegada, tendrá cobertura completa contra los ataques y otros efectos fuera del remorhaz y recibirá 10 (3d6) de daño de ácido más 10 (3d6) de daño de fuego al principio de cada turno del remorhaz.
+
+Si el remorhaz sufre 30 o más de daño en un solo turno por parte de una criatura que esté dentro de él, deberá superar una tirada de salvación de Constitución con CD 15 al final de ese turno o regurgitará a todas las criaturas engullidas, que caerán en espacios a 1,5 m o menos del remorhaz y tendrán el estado de derribadas. Si el remorhaz muere, cualquier criatura engullida dejará de tener el estado de apresada y podrá gastar 4,5 m de movimiento para escapar del cadáver, del que saldrá con el estado de derribada.
+

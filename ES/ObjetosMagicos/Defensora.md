@@ -1,0 +1,14 @@
+---
+aliases: ["Defensora", "Defender"]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Treasure/Defender|Defender (EN)]]"
+---
+
+# Defensora
+
+*Arma (cualquier arma cuerpo a cuerpo), legendaria (requiere sintonización)*
+
+Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma mágica.
+
+La primera vez que ataques con el arma en cada uno de tus turnos, puedes transferir total o parcialmente su bonificador a tu clase de armadura. Por ejemplo, puedes reducir el bonificador a tus tiradas de ataque y de daño a +1 y obtener un bonificador de +2 a la clase de armadura. Los bonificadores ajustados permanecen en vigor hasta el principio de tu siguiente turno, aunque debes empuñar el arma para aprovechar el bonificador a la CA que confiere.
+

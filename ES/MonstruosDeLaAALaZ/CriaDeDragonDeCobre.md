@@ -1,0 +1,38 @@
+---
+aliases: ["Cría de dragón de cobre", "Copper Dragon Wyrmling"]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Copper Dragon Wyrmling|Copper Dragon Wyrmling (EN)]]"
+---
+
+# Cría de dragón de cobre
+
+*Dragón Mediano (metálico), caótico bueno*
+
+**CA:** 16
+
+**Iniciativa:** +3 (13)
+
+**PG:** 22 (4d8 + 4)
+
+**Velocidad:** 9 m, trepar 9 m, volar 18 m
+
+<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>15</td><td>+2</td><td>+2</td><td>DES</td><td>12</td><td>+1</td><td>+3</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>14</td><td>+2</td><td>+2</td><td>SAB</td><td>11</td><td>+0</td><td>+2</td><td>CAR</td><td>13</td><td>+1</td><td>+1</td></tr></table>
+
+**Habilidades:** Percepción +4, Sigilo +3
+
+**Inmunidades:** ácido
+
+**Sentidos:** visión ciega 3 m, visión en la oscuridad 18 m; Percepción pasiva 14
+
+**Idiomas:** dracónico
+
+**VD:** 1 (200 PX; BC +2)
+
+## Acciones
+
+**Desgarro.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 7 (1d10 + 2) de daño cortante.
+
+**Aliento ácido (recarga 5–6).** *Tirada de salvación de Destreza:* CD 11, todas las criaturas en una línea de 6 m de largo y 1,5 m de ancho. Fallo: 18 (4d8) de daño de ácido. Éxito: la mitad del daño.
+
+**Aliento ralentizador.** *Tirada de salvación de Constitución:* CD 11, todas las criaturas en un cono de 4,5 m. Fallo: el objetivo no podrá llevar a cabo reacciones, su velocidad se reducirá a la mitad y podrá realizar una acción o una acción adicional en su turno, pero no ambas. Este efecto durará hasta el final de su siguiente turno.
+

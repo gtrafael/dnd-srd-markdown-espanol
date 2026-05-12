@@ -1,0 +1,15 @@
+---
+aliases: ["Bastón de impacto"]
+tags: [srd, espanol, tag_tesoro, sin-equivalente]
+---
+
+# Bastón de impacto
+
+*Bastón, muy raro (requiere sintonización)*
+
+Este bastón se puede usar a modo de bastón mágico que otorga un bonificador de +3 a las tiradas de ataque y de daño realizadas con él.
+
+El bastón tiene 10 cargas. Cuando aciertes con un ataque cuerpo a cuerpo con él, podrás gastar hasta 3 cargas. Por cada carga empleada, el objetivo recibirá 1d6 de daño de fuerza adicional.
+
+**Recuperar cargas.** El bastón recupera 1d6 + 4 cargas empleadas cada día, al amanecer. Si gastas la última carga, tira 1d20. Si el resultado es 1, el bastón se convierte en un bastón no mágico.
+

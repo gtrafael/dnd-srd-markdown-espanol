@@ -1,0 +1,44 @@
+---
+aliases: ["Troll"]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Troll|Troll (EN)]]"
+---
+
+# Troll
+
+*Gigante Grande, caótico malvado*
+
+**CA:** 15
+
+**Iniciativa:** +1 (11)
+
+**PG:** 94 (9d10 + 45)
+
+**Velocidad:** 9 m
+
+<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON20</td><td>+5</td><td>+5</td><td></td></tr><tr><td>INT</td><td>7</td><td>-2</td><td>-2</td><td>SAB</td><td>9</td><td>-1</td><td>-1</td><td>CAR</td><td>7</td><td>-2</td><td>-2</td></tr></table>
+
+**Habilidades:** Percepción +5
+
+**Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15
+
+**Idiomas:** gigante
+
+**VD:** 5 (1800 PX; BC +3)
+
+## Atributos
+
+**Miembros repugnantes (4/día).** Si el troll termina cualquier turno maltrecho y ha sufrido 15 o más de daño cortante durante ese turno, uno de los miembros del troll será amputado, caerá en el espacio del trol y se convertirá en una extremidad de troll. La extremidad actuará inmediatamente después del turno del troll. El troll tendrá 1 nivel de cansancio por cada extremidad que le falte y le crecerán miembros de repuesto la siguiente vez que recupere puntos de golpe.
+
+**Regeneración.** El troll recupera 15 puntos de golpe al principio de cada uno de sus turnos. Si recibe daño de ácido o de fuego, este atributo no funcionará en su siguiente turno. El troll solo morirá si empieza su turno con 0 puntos de golpe y no se regenera.
+
+## Acciones
+
+**Ataque múltiple.** El troll realiza tres ataques de desgarro.
+
+**Desgarro.** Tirada de ataque cuerpo a cuerpo: +7, alcance 3 m. Acierto: 11 (2d6 + 4) de daño cortante.
+
+## Acciones adicionales
+
+**Carga.** El troll se mueve hasta la mitad de su velocidad en línea recta hacia un enemigo que pueda ver.
+

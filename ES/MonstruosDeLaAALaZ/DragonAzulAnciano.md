@@ -1,0 +1,62 @@
+---
+aliases: ["Dragón azul anciano", "Ancient Blue Dragon"]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Ancient Blue Dragon|Ancient Blue Dragon (EN)]]"
+---
+
+# Dragón azul anciano
+
+*Dragón Gargantuesco (cromático), legal malvado*
+
+**CA:** 22
+
+**Iniciativa:** +14 (24)
+
+**PG:** 481 (26d20 + 208)
+
+**Velocidad:** 12 m, excavar 12 m, volar 24 m
+
+<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE 29</td><td>+9</td><td>+9</td><td>DES 10</td><td>+0</td><td>+7</td><td>CON 27</td><td>+8</td><td>+8</td><td></td><td></td></tr><tr><td>INT 18</td><td>+4</td><td>+4</td><td>SAB 17</td><td>+3</td><td>+10</td><td>CAR 25</td><td>+7</td><td>+7</td><td></td><td></td></tr></table>
+
+**Habilidades:** Percepción +17, Sigilo +7
+
+**Inmunidades:** relámpago
+
+**Sentidos:** visión ciega 18 m, visión en la oscuridad 36 m; Percepción pasiva 27
+
+**Idiomas:** común, dracónico
+
+**VD:** 23 (50 000 PX o 62 000 en la guarida; BC +7)
+
+## Atributos
+
+Resistencia legendaria (4/día o 5/día en la guarida).
+
+El dragón puede elegir tener éxito en una tirada de salvación que haya fallado.
+
+## Acciones
+
+**Ataque múltiple.** El dragón realiza tres ataques de desgarro. Puede sustituir un ataque por un uso de su lanzamiento de conjuros para lanzar hacer añicos (versión de nivel 3).
+
+**Desgarro.** Tirada de ataque cuerpo a cuerpo: +16, alcance 4,5 m. Acierto: 18 (2d8 + 9) de daño cortante más 11 (2d10) de daño de relámpago.
+
+**Aliento de relámpago (recarga 5–6).** *Tirada de salvación de Destreza:* CD 23, todas las criaturas en una línea de 36 m de largo y 3 m de ancho. Fallo: 88 (16d10) de daño de relámpago. Éxito: la mitad del daño.
+
+**Lanzamiento de conjuros.** El dragón lanza uno de los siguientes conjuros, que no requiere componentes materiales y utiliza el Carisma como aptitud mágica (CD de salvación de conjuros 22):
+
+**A voluntad:** detectar magia, hacer añicos (versión de nivel 3), invisibilidad, mano de mago
+
+**1/día cada uno:** escudriñar, recado
+
+## Acciones legendarias
+
+**Usos de acciones legendarias:** 3 (4 en la guarida). Justo después del turno de otra criatura, el dragón puede emplear un uso para llevar a cabo una de las siguientes acciones. El dragón recupera todos los usos al principio de cada uno de sus turnos.
+
+**Coletazo.** El dragón realiza un ataque de desgarro.
+
+**Estallido sónico.** El dragón utiliza su lanzamiento de conjuros para lanzar hacer añicos (versión de nivel 3).
+
+El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
+
+**Vuelo encubierto.** El dragón utiliza su lanzamiento de conjuros para lanzarse invisibilidad a sí mismo y puede volar hasta la mitad de su velocidad volando. El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
+

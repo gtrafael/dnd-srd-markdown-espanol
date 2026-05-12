@@ -1,0 +1,36 @@
+---
+aliases: ["Pirata", "Pirate"]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Pirate|Pirate (EN)]]"
+---
+
+# Pirata
+
+*Humanoide Mediano o Pequeño, neutral*
+
+**CA:** 14
+
+**Iniciativa:** +5 (15)
+
+**PG:** 33 (6d8 + 6)
+
+**Velocidad:** 9 m
+
+<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>10</td><td>+0</td><td>+0</td><td>DES</td><td>16</td><td>+3</td><td>+5</td><td>CON</td><td>12</td></tr><tr><td>INT</td><td>8</td><td>-1</td><td>-1</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>14</td></tr></table>
+
+**Equipo:** armadura de cuero, dagas (6)
+
+**Sentidos:** Percepción pasiva 11
+
+**Idiomas:** común y otro cualquiera
+
+**VD:** 1 (200 PX; BC +2)
+
+## Acciones
+
+**Ataque múltiple.** El pirata realiza dos ataques con sus dagas. Puede sustituir un ataque por un uso de su garbo cautivador.
+
+**Daga.** Tirada de ataque cuerpo a cuerpo o a distancia: +5, alcance 1,5 m o 6/18 m a distancia. Acierto: 5 (1d4 + 3) de daño perforante.
+
+**Garbo cautivador.** *Tirada de salvación de Sabiduría:* CD 12, una criatura que el pirata pueda ver a 9 m o menos. Fallo: el objetivo tendrá el estado de hechizado hasta el principio del siguiente turno del pirata.
+

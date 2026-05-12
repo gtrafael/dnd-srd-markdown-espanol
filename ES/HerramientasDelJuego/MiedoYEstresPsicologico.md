@@ -1,0 +1,54 @@
+---
+aliases: ["MiedoEstresMental", "Fear and Mental Stress"]
+tags: [srd, espanol, tag_herramientasdeljuego]
+related_en: "[[Gamemastering/Fear and Mental Stress|Fear and Mental Stress (EN)]]"
+---
+
+# Miedo y estrés psicológico
+
+Debido a la naturaleza de su vocación, los aventureros tienden a ser menos susceptibles al miedo y al estrés psicológico que el pueblo llano. Mientras que un granjero huiría despavorido ante un oso o una aparición, los aventureros están hechos de otra pasta. Ahora bien, ciertas criaturas y efectos del juego pueden aterrorizar o turbar la mente de los aventureros más firmes.
+
+Si vas a utilizar alguna de estas reglas, habla sobre ellas con tu grupo al principio de la campaña.
+
+## Efectos de miedo
+
+Cuando los personajes se topen con algo sobrenatural y aterrador, emplea el estado de asustado como efecto estándar. Por lo general, los efectos de miedo requieren tiradas de salvación de Sabiduría, cuya CD de salvación dependerá de lo aterradora que sea la situación.En la tabla “Muestras de CD de miedos" encontrarás algunos ejemplos.
+
+
+Muestras de CD de miedos
+
+
+<table><tr><td>Ejemplo</td><td>CD de salvación</td></tr><tr><td>Cuando un personaje abra un sarcófago, de él surge una aparición inofensiva pero aterradora.</td><td>10</td></tr><tr><td>Un personaje activa una trampa mágica que crea una manifestación ilusoria de sus miedos más profundos que solo él puede ver.</td><td>15</td></tr><tr><td>Se abre un portal al Abismo y muestra un reino de tormento, matanzas y pesadillas.</td><td>20</td></tr></table>
+
+Normalmente, una criatura asustada repite la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.
+
+Según consideres, una criatura asustada puede verse sujeta a otros efectos mientras dure el estado de asustada. Plantéate estos ejemplos:
+
+• La criatura asustada debe realizar la acción de correr en cada uno de sus turnos y usa su movimiento para alejarse del origen de su miedo.
+
+• Las tiradas de ataque contra la criatura asustada tienen ventaja.
+
+• La criatura asustada solo podrá hacer una de estas opciones en sus turnos: moverse, realizar una acción o realizar una acción adicional.
+
+## Efectos de estrés psicológico
+
+Cuando un personaje padezca un efecto que le cause un intenso estrés psicológico, la mejor forma de emularlo es mediante daño psíquico.
+
+La tabla “Muestras de efectos de estrés psicológico” proporciona varios ejemplos de esos efectos, junto con sugerencias de CD de tiradas de salvación y daño. El estrés psicológico puede resistirse superando una tirada de salvación de Sabiduría, aunque en ocasiones resulta más adecuada una tirada de salvación de Inteligencia o Carisma. Si la supera, el personaje puede sufrir la mitad de daño en vez de evitarlo por completo, según creas conveniente.
+
+
+Muestras de efectos de estrés psicológico
+
+
+<table><tr><td>Ejemplo</td><td>CD de salvación</td><td>Daño psíquico</td></tr><tr><td>Un personaje ingiere una sustancia alucinógena que distorsiona su percepción de la realidad.</td><td>10</td><td>1d6</td></tr><tr><td>Un personaje toca un ídolo infernal que desgarra su mente y amenaza con hacerla añicos.</td><td>15</td><td>3d6</td></tr><tr><td>Una trampa mágica lanza a un personaje al Reino Lejano hasta el final de su próximo turno.</td><td>20</td><td>9d6</td></tr></table>
+
+## Efectos prolongados
+
+La exposición a un estrés psicológico puede provocar efectos prolongados. Ten en cuenta las siguientes posibilidades:
+
+Efectos a corto plazo. El personaje tiene los estados de asustado, aturdido o incapacitado durante 1d10 minutos, lo que puede venir acompañado de un comportamiento alarmante o alucinaciones. Estos efectos pueden suprimirse con el conjuro calmar emociones o eliminarse mediante un conjuro restablecimiento menor.
+
+Efectos a largo plazo. El personaje tiene desventaja en algunas o todas las pruebas de característica durante 1d10 × 10 horas debido a una falta de voluntad o una incapacidad para llevar a cabo ciertas actividades. Por ejemplo, el personaje puede sentirse débil e incapaz de utilizar toda su Fuerza o desconfiar tanto de los demás que las pruebas de Carisma serán más difíciles. Estos efectos pueden suprimirse con el conjuro calmar emociones o eliminarse mediante un conjuro restablecimiento menor.
+
+Efectos indefinidos. Un efecto indefinido es un efecto a largo plazo (consulta el apartado anterior) que dura hasta que se elimine con un conjuro restablecimiento mayor. También se puede suprimir mediante un conjuro calmar emociones.
+

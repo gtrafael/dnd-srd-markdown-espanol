@@ -1,0 +1,26 @@
+# Spells (Alt)
+
+> Index of **Spells (Alt)** — grouped alphabetically
+
+- [[Spells A]]
+- [[Spells B]]
+- [[Spells C]]
+- [[Spells D]]
+- [[Spells E]]
+- [[Spells F]]
+- [[Spells G]]
+- [[Spells H]]
+- [[Spells I]]
+- [[Spells J]]
+- [[Spells K]]
+- [[Spells L]]
+- [[Spells M]]
+- [[Spells N]]
+- [[Spells P]]
+- [[Spells R]]
+- [[Spells S]]
+- [[Spells T]]
+- [[Spells U]]
+- [[Spells V]]
+- [[Spells W]]
+- [[Spells Z]]

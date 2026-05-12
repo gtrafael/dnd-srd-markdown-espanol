@@ -1,0 +1,11 @@
+---
+aliases: ["Varita del mago de guerra +1, +2 o +3"]
+tags: [srd, espanol, tag_tesoro, sin-equivalente]
+---
+
+# Varita del mago de guerra +1, +2 o +3
+
+*Varita, infrecuente (+1), rara (+2) o muy rara (+3) (requiere sintonización por parte de un lanzador de conjuros)*
+
+Mientras sostengas esta varita, obtendrás un bonificador a las tiradas de ataque de conjuro determinado por la rareza de la varita. Además, ignorarás la cobertura media cuando realices una tirada de ataque de conjuro.
+

@@ -1,0 +1,46 @@
+---
+aliases: ["Semidragón", "Half-Dragon"]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Half-Dragon|Half-Dragon (EN)]]"
+---
+
+# Semidragón
+
+*Dragón Mediano, neutral*
+
+**CA:** 18
+
+**Iniciativa:** +5 (15)
+
+**PG:** 105 (14d8 + 42)
+
+**Velocidad:** 12 m
+
+<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>19</td><td>+4</td><td>+4</td><td>DES</td><td>14</td><td>+2</td><td>+5</td><td>CON</td><td>16</td><td>+3</td><td>+3</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>15</td><td>+2</td><td>+5</td><td>CAR</td><td>14</td><td>+2</td><td>+2</td></tr></table>
+
+**Habilidades:** Atletismo +7, Percepción +5, Sigilo +5
+
+**Resistencias:** tipo de daño elegido para el atributo Origen dracónico más adelante
+
+**Sentidos:** visión ciega 3 m, visión en la oscuridad 18 m; Percepción pasiva 15
+
+**Idiomas:** común, dracónico
+
+**VD:** 5 (1800 PX; BC +3)
+
+## Atributos
+
+**Origen dracónico.** El semidragón está relacionado con un tipo de dragón asociado con uno de los siguientes tipos de daño (a elección de cada GM): ácido, frío, fuego, relámpago o veneno. Esta elección afecta a otros aspectos del perfil.
+
+## Acciones
+
+**Ataque múltiple.** El semidragón realiza dos ataques con sus garras.
+
+**Garra.** Tirada de ataque cuerpo a cuerpo: +7, alcance 3 m. Acierto: 6 (1d4 + 4) de daño cortante más 7 (2d6) de daño del tipo elegido para el atributo Origen dracónico.
+
+**Aliento de dragón (recarga 5–6).** *Tirada de salvación de Destreza:* CD 14, todas las criaturas en un cono de 9 m. Fallo: 28 (8d6) de daño del tipo elegido para el atributo Origen dracónico. Éxito: la mitad del daño.
+
+## Acciones adicionales
+
+**Salto.** El semidragón gasta 3 m de movimiento para saltar hasta 9 m.
+
