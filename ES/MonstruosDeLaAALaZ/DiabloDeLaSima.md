@@ -16,7 +16,14 @@ related_en: "[[Monsters/Pit Fiend|Pit Fiend (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>26</td><td>+8</td><td>+8</td><td>DES</td><td>14</td><td>+2</td><td>+8</td><td>CON</td><td>24</td><td>+7</td><td>+7</td></tr><tr><td>INT</td><td>22</td><td>+6</td><td>+6</td><td>SAB</td><td>18</td><td>+4</td><td>+10</td><td>CAR</td><td>24</td><td>+7</td><td>+7</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 26 | +8 | +8 |
+| DES | 14 | +2 | +8 |
+| CON | 24 | +7 | +7 |
+| INT | 22 | +6 | +6 |
+| SAB | 18 | +4 | +10 |
+| CAR | 24 | +7 | +7 |
 
 **Habilidades:** Percepción +10, Persuasión +19
 

@@ -16,8 +16,14 @@ related_en: "[[Monsters/Shield Guardian|Shield Guardian (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>8</td><td>-1</td><td>-1</td><td>CON</td><td>18</td><td>+4</td><td>+4</td></tr><tr><td>INT</td><td>7</td><td>-2</td><td>-2</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>3</td><td>-4</td><td>-4</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 8 | -1 | -1 |
+| CON | 18 | +4 | +4 |
+| INT | 7 | -2 | -2 |
+| SAB | 10 | +0 | +0 |
+| CAR | 3 | -4 | -4 |
 **Inmunidades:** veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado
 
 **Sentidos:** visión ciega 3 m, visión en la oscuridad 18 m; Percepción pasiva 10

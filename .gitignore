@@ -9,3 +9,8 @@
 .opencode
 .idea
 .obsidian
+/scripts
+
+# MemPalace per-project files
+mempalace.yaml
+entities.json

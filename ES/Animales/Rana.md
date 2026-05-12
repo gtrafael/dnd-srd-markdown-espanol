@@ -16,7 +16,14 @@ related_en: "[[Animals/Frog|Frog (EN)]]"
 
 **Velocidad:** 6 m, nadar 6 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>1</td><td>-5</td><td>-5</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>8</td><td>-1</td><td>-1</td></tr><tr><td>INT</td><td>1</td><td>-5</td><td>-5</td><td>SAB</td><td>8</td><td>-1</td><td>-1</td><td>CAR</td><td>3</td><td>-4</td><td>-4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 1 | -5 | -5 |
+| DES | 13 | +1 | +1 |
+| CON | 8 | -1 | -1 |
+| INT | 1 | -5 | -5 |
+| SAB | 8 | -1 | -1 |
+| CAR | 3 | -4 | -4 |
 
 **Habilidades:** Percepción +1, Sigilo +3
 

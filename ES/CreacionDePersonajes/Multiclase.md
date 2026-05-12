@@ -26,7 +26,12 @@ Tu total de dados de golpe es la suma de los dados de golpe de todas tus clases.
 Equipo inicial a niveles superiores
 
 
-<table><tr><td>Nivel inicial</td><td>Equipo y dinero</td><td>Objetos mágicos</td></tr><tr><td>2–4</td><td>Equipo inicial normal</td><td>1 común</td></tr><tr><td>5–10</td><td>500 po más <eq>1d10 \times 25</eq> po más equipo inicial normal</td><td>1 común y 1 infrecuente</td></tr><tr><td>11–16</td><td>5000 po más <eq>1d10 \times 250</eq> po más equipo inicial normal</td><td>2 comunes, 3 infrecuentes y 1 raro</td></tr><tr><td>17–20</td><td>20 000 po más <eq>1d10 \times 250</eq> po más equipo inicial normal</td><td>2 comunes, 4 infrecuentes, 3 raros y 1 muy raro</td></tr></table>
+| Nivel inicial | Equipo y dinero                                            | Objetos mágicos                                 |
+|---------------|------------------------------------------------------------|-------------------------------------------------|
+| 2–4           | Equipo inicial normal                                      | 1 común                                         |
+| 5–10          | 500 po más 1d10 \times 25 po más equipo inicial normal     | 1 común y 1 infrecuente                         |
+| 11–16         | 5000 po más 1d10 \times 250 po más equipo inicial normal   | 2 comunes, 3 infrecuentes y 1 raro              |
+| 17–20         | 20 000 po más 1d10 \times 250 po más equipo inicial normal | 2 comunes, 4 infrecuentes, 3 raros y 1 muy raro |
 
 por lo que si eres una guerrera de nivel 5/paladín de nivel 5, tus dados de golpe serán 10d10. Si tus clases tienen dados de golpe de distintos tipos, lleva la cuenta de cada uno por separado. Por ejemplo, si eres un clérigo de nivel 5/paladín de nivel 5, tus dados de golpe serán 5d8 y 5d10. 
 
@@ -86,5 +91,26 @@ Lanzador de conjuros multiclase:
 espacios de conjuro por cada nivel de conjuro
 
 
-<table><tr><td>Nivel</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>17</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td></tr></table>
+| Nivel | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|------:|--:|---|---|---|---|---|---|---|---|
+|     1 | 2 | — | — | — | — | — | — | — | — |
+|     2 | 3 | — | — | — | — | — | — | — | — |
+|     3 | 4 | 2 | — | — | — | — | — | — | — |
+|     4 | 4 | 3 | — | — | — | — | — | — | — |
+|     5 | 4 | 3 | 2 | — | — | — | — | — | — |
+|     6 | 4 | 3 | 3 | — | — | — | — | — | — |
+|     7 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+|     8 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+|     9 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+|    10 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+|    11 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+|    12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+|    13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+|    14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+|    15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+|    16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+|    17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+|    18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+|    19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+|    20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 

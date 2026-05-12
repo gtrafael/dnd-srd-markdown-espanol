@@ -16,5 +16,12 @@ related_en: "[[Monsters/Bearded Devil|Bearded Devil (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>16</td><td>+3</td><td>+5</td><td>DES</td><td>15</td><td>+2</td><td>+2</td><td>CON</td><td>15</td><td>+2</td><td>+4</td></tr><tr><td>INT</td><td>9</td><td>-1</td><td>-1</td><td>SAB</td><td>11</td><td>+0</td><td>+0</td><td>CAR</td><td>14</td><td>+2</td><td>+4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 16 | +3 | +5 |
+| DES | 15 | +2 | +2 |
+| CON | 15 | +2 | +4 |
+| INT | 9 | -1 | -1 |
+| SAB | 11 | +0 | +0 |
+| CAR | 14 | +2 | +4 |
 

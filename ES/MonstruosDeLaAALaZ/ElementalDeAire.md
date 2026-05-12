@@ -14,7 +14,14 @@ related_en: "[[Monsters/Air Elemental|Air Elemental (EN)]]"
 
 **Velocidad:** 3 m, volar 27 m (levitar)
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>14</td><td>+2</td><td>+2</td><td>DES</td><td>20</td><td>+5</td><td>+5</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>6</td><td>-2</td><td>-2</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>6</td><td>-2</td><td>-2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 14 | +2 | +2 |
+| DES | 20 | +5 | +5 |
+| CON | 14 | +2 | +2 |
+| INT | 6 | -2 | -2 |
+| SAB | 10 | +0 | +0 |
+| CAR | 6 | -2 | -2 |
 
 **Resistencias:** contundente, cortante, perforante, relámpago
 

@@ -16,7 +16,14 @@ related_en: "[[Animals/Seahorse|Seahorse (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 6 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>1</td><td>-5</td><td>-5</td><td>DES</td><td>12</td><td>+1</td><td>+1</td><td>CON</td><td>8</td><td>-1</td><td>-1</td></tr><tr><td>INT</td><td>1</td><td>-5</td><td>-5</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>2</td><td>-4</td><td>-4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 1 | -5 | -5 |
+| DES | 12 | +1 | +1 |
+| CON | 8 | -1 | -1 |
+| INT | 1 | -5 | -5 |
+| SAB | 10 | +0 | +0 |
+| CAR | 2 | -4 | -4 |
 
 **Habilidades:** Percepción +2, Sigilo +5
 

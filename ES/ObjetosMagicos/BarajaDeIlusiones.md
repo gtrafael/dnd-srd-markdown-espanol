@@ -18,7 +18,41 @@ Cualquier interacción física con la criatura ilusoria revelará que es falsa, 
 Baraja de ilusiones
 
 
-<table><tr><td>1d100</td><td>Ilusión*</td></tr><tr><td>01–03</td><td>Archimago</td></tr><tr><td>04–06</td><td>Asesino</td></tr><tr><td>07–09</td><td>Basilisco</td></tr><tr><td>10–12</td><td>Berserker</td></tr><tr><td>13–15</td><td>Caballero</td></tr><tr><td>16–18</td><td>Capitán bandido</td></tr><tr><td>19–21</td><td>Dragón rojo adulto</td></tr><tr><td>22–24</td><td>Druida</td></tr><tr><td>25–27</td><td>Erinia</td></tr><tr><td>28–30</td><td>Ettin</td></tr><tr><td>31–33</td><td>Gigante de escarcha</td></tr><tr><td>34–36</td><td>Gigante de fuego</td></tr><tr><td>37–39</td><td>Gigante de las colinas</td></tr><tr><td>40–42</td><td>Gigante de las nubes</td></tr><tr><td>43–45</td><td>Gólem de hierro</td></tr><tr><td>46–48</td><td>Guerrero gnoll</td></tr><tr><td>49–51</td><td>Guerrero goblin</td></tr><tr><td>52–54</td><td>Guerrero hobgoblin</td></tr><tr><td>55–57</td><td>Guerrero kobold</td></tr><tr><td>58–60</td><td>Guerrero osgo</td></tr><tr><td>61–63</td><td>Guerrero veterano</td></tr><tr><td>64–66</td><td>Guiverno</td></tr><tr><td>67–69</td><td>Íncubo</td></tr><tr><td>70–72</td><td>Liche</td></tr><tr><td>73–75</td><td>Medusa</td></tr><tr><td>76–78</td><td>Naga guardiana</td></tr><tr><td>79–81</td><td>Ogro</td></tr><tr><td>82–84</td><td>Oni</td></tr><tr><td>85–87</td><td>Sacerdote</td></tr><tr><td>88–90</td><td>Saga de la noche</td></tr><tr><td>91–93</td><td>Súcubo</td></tr><tr><td>94–96</td><td>Troll</td></tr><tr><td>97–00</td><td>El dueño de la baraja</td></tr></table>
+| 1d100 | Ilusión* |
+|---|---|
+| 01–03 | Archimago |
+| 04–06 | Asesino |
+| 07–09 | Basilisco |
+| 10–12 | Berserker |
+| 13–15 | Caballero |
+| 16–18 | Capitán bandido |
+| 19–21 | Dragón rojo adulto |
+| 22–24 | Druida |
+| 25–27 | Erinia |
+| 28–30 | Ettin |
+| 31–33 | Gigante de escarcha |
+| 34–36 | Gigante de fuego |
+| 37–39 | Gigante de las colinas |
+| 40–42 | Gigante de las nubes |
+| 43–45 | Gólem de hierro |
+| 46–48 | Guerrero gnoll |
+| 49–51 | Guerrero goblin |
+| 52–54 | Guerrero hobgoblin |
+| 55–57 | Guerrero kobold |
+| 58–60 | Guerrero osgo |
+| 61–63 | Guerrero veterano |
+| 64–66 | Guiverno |
+| 67–69 | Íncubo |
+| 70–72 | Liche |
+| 73–75 | Medusa |
+| 76–78 | Naga guardiana |
+| 79–81 | Ogro |
+| 82–84 | Oni |
+| 85–87 | Sacerdote |
+| 88–90 | Saga de la noche |
+| 91–93 | Súcubo |
+| 94–96 | Troll |
+| 97–00 | El dueño de la baraja |
 
 
 *Los perfiles de las criaturas (salvo el dueño de la baraja) aparecen en el capítulo “Monstruos”.

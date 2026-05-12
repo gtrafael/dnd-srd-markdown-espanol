@@ -9,5 +9,11 @@ tags: [srd, espanol, tag_tesoro, sin-equivalente]
 
 Mientras lleves puesto este cinturón, tu Fuerza cambiará a una puntuación proporcionada por el cinturón. El tipo de gigante determina la puntuación (consulta la tabla más adelante). No tendrá ningún efecto si tu Fuerza sin el cinturón es igual o superior a la que proporciona.
 
-<table><tr><td>Cinturón</td><td>Fue</td><td>Rareza</td></tr><tr><td>Cinturón de fuerza de gigante (colinas)</td><td>21</td><td>Raro</td></tr><tr><td>Cinturón de fuerza de gigante (escarcha o piedra)</td><td>23</td><td>Muy raro</td></tr><tr><td>Cinturón de fuerza de gigante (fuego)</td><td>25</td><td>Muy raro</td></tr><tr><td>Cinturón de fuerza de gigante (nubes)</td><td>27</td><td>Legendario</td></tr><tr><td>Cinturón de fuerza de gigante (tormentas)</td><td>29</td><td>Legendario</td></tr></table>
+| Cinturón | Fue | Rareza |
+|---|---:|---|
+| Cinturón de fuerza de gigante (colinas) | 21 | Raro |
+| Cinturón de fuerza de gigante (escarcha o piedra) | 23 | Muy raro |
+| Cinturón de fuerza de gigante (fuego) | 25 | Muy raro |
+| Cinturón de fuerza de gigante (nubes) | 27 | Legendario |
+| Cinturón de fuerza de gigante (tormentas) | 29 | Legendario |
 

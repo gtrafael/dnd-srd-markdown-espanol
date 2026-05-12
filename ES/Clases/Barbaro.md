@@ -10,7 +10,14 @@ related_en: "[[Classes/Barbarian|Barbarian (EN)]]"
 Atributos básicos de bárbaro
 
 
-<table><tr><td>Característica principal</td><td>Fuerza</td></tr><tr><td>Dado de puntos de golpe</td><td>1d12 por nivel de bárbaro</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Fuerza y Constitución</td></tr><tr><td>Competencias en habilidades</td><td>Elige dos: Atletismo, Intimidación, Naturaleza, Percepción, Supervivencia o Trato con animales</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas y marciales</td></tr><tr><td>Entrenamiento con armaduras</td><td>Armaduras ligeras y medias y escudos</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) hacha a dos manos, 4 hachas de mano, paquete de explorador y 15 po, o (B) 75 po</td></tr></table>
+| Característica principal             | Fuerza                                                                                           |
+|--------------------------------------|--------------------------------------------------------------------------------------------------|
+| Dado de puntos de golpe              | 1d12 por nivel de bárbaro                                                                        |
+| Competencias en tiradas de salvación | Fuerza y Constitución                                                                            |
+| Competencias en habilidades          | Elige dos: Atletismo, Intimidación, Naturaleza, Percepción, Supervivencia o Trato con animales   |
+| Competencias con armas               | Armas sencillas y marciales                                                                      |
+| Entrenamiento con armaduras          | Armaduras ligeras y medias y escudos                                                             |
+| Equipo inicial                       | Elige A o B: (A) hacha a dos manos, 4 hachas de mano, paquete de explorador y 15 po, o (B) 75 po |
 
 ## Convertirse en bárbaro
 
@@ -38,7 +45,28 @@ Mientras no lleves armadura alguna, tu clase de armadura base será igual a 10 m
 Rasgos de bárbaro
 
 
-<table><tr><td>Nivel</td><td>Bonificador por competencia</td><td>Rasgos de clase</td><td>N.° de furias</td><td>Daño por furia</td><td>Maestría con armas</td></tr><tr><td>1</td><td>+2</td><td>Defensa sin armadura, Furia, Maestría con armas</td><td>2</td><td>+2</td><td>2</td></tr><tr><td>2</td><td>+2</td><td>Ataque temerario, Sentir el peligro</td><td>2</td><td>+2</td><td>2</td></tr><tr><td>3</td><td>+2</td><td>Conocimiento primigenio, subclase de bárbaro</td><td>3</td><td>+2</td><td>2</td></tr><tr><td>4</td><td>+2</td><td>Mejora de característica</td><td>3</td><td>+2</td><td>3</td></tr><tr><td>5</td><td>+3</td><td>Ataque adicional, Movimiento rápido</td><td>3</td><td>+2</td><td>3</td></tr><tr><td>6</td><td>+3</td><td>Rasgo de subclase</td><td>4</td><td>+2</td><td>3</td></tr><tr><td>7</td><td>+3</td><td>Instinto salvaje, Salto instintivo</td><td>4</td><td>+2</td><td>3</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>4</td><td>+2</td><td>3</td></tr><tr><td>9</td><td>+4</td><td>Golpe brutal</td><td>4</td><td>+3</td><td>3</td></tr><tr><td>10</td><td>+4</td><td>Rasgo de subclase</td><td>4</td><td>+3</td><td>4</td></tr><tr><td>11</td><td>+4</td><td>Furia implacable</td><td>4</td><td>+3</td><td>4</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>5</td><td>+3</td><td>4</td></tr><tr><td>13</td><td>+5</td><td>Golpe brutal mejorado</td><td>5</td><td>+3</td><td>4</td></tr><tr><td>14</td><td>+5</td><td>Rasgo de subclase</td><td>5</td><td>+3</td><td>4</td></tr><tr><td>15</td><td>+5</td><td>Furia persistente</td><td>5</td><td>+3</td><td>4</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>5</td><td>+4</td><td>4</td></tr><tr><td>17</td><td>+6</td><td>Golpe brutal mejorado</td><td>6</td><td>+4</td><td>4</td></tr><tr><td>18</td><td>+6</td><td>Poderío indómito</td><td>6</td><td>+4</td><td>4</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>6</td><td>+4</td><td>4</td></tr><tr><td>20</td><td>+6</td><td>Campeón primordial</td><td>6</td><td>+4</td><td>4</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase                                 | N.° de furias | Daño por furia | Maestría con armas |
+|------:|----------------------------:|-------------------------------------------------|--------------:|---------------:|-------------------:|
+|     1 |                          +2 | Defensa sin armadura, Furia, Maestría con armas |             2 |             +2 |                  2 |
+|     2 |                          +2 | Ataque temerario, Sentir el peligro             |             2 |             +2 |                  2 |
+|     3 |                          +2 | Conocimiento primigenio, subclase de bárbaro    |             3 |             +2 |                  2 |
+|     4 |                          +2 | Mejora de característica                        |             3 |             +2 |                  3 |
+|     5 |                          +3 | Ataque adicional, Movimiento rápido             |             3 |             +2 |                  3 |
+|     6 |                          +3 | Rasgo de subclase                               |             4 |             +2 |                  3 |
+|     7 |                          +3 | Instinto salvaje, Salto instintivo              |             4 |             +2 |                  3 |
+|     8 |                          +3 | Mejora de característica                        |             4 |             +2 |                  3 |
+|     9 |                          +4 | Golpe brutal                                    |             4 |             +3 |                  3 |
+|    10 |                          +4 | Rasgo de subclase                               |             4 |             +3 |                  4 |
+|    11 |                          +4 | Furia implacable                                |             4 |             +3 |                  4 |
+|    12 |                          +4 | Mejora de característica                        |             5 |             +3 |                  4 |
+|    13 |                          +5 | Golpe brutal mejorado                           |             5 |             +3 |                  4 |
+|    14 |                          +5 | Rasgo de subclase                               |             5 |             +3 |                  4 |
+|    15 |                          +5 | Furia persistente                               |             5 |             +3 |                  4 |
+|    16 |                          +5 | Mejora de característica                        |             5 |             +4 |                  4 |
+|    17 |                          +6 | Golpe brutal mejorado                           |             6 |             +4 |                  4 |
+|    18 |                          +6 | Poderío indómito                                |             6 |             +4 |                  4 |
+|    19 |                          +6 | Don épico                                       |             6 |             +4 |                  4 |
+|    20 |                          +6 | Campeón primordial                              |             6 |             +4 |                  4 |
 
 ### Nivel 1: Furia
 

@@ -16,7 +16,14 @@ related_en: "[[Monsters/Animated Flying Sword|Animated Flying Sword (EN)]]"
 
 **Velocidad:** 1,5 m, volar 15 m (levitar)
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>12</td><td>+1</td><td>+1</td><td>DES</td><td>15</td><td>+2</td><td>+4</td><td>CON</td><td>11</td><td>+0</td><td>+0</td></tr><tr><td>INT</td><td>1</td><td>-5</td><td>-5</td><td>SAB</td><td>5</td><td>-3</td><td>-3</td><td>CAR</td><td>1</td><td>-5</td><td>-5</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 12 | +1 | +1 |
+| DES | 15 | +2 | +4 |
+| CON | 11 | +0 | +0 |
+| INT | 1 | -5 | -5 |
+| SAB | 5 | -3 | -3 |
+| CAR | 1 | -5 | -5 |
 
 **Inmunidades:** psíquico, veneno; asustado, cansancio, ensordecido, envenenado, hechizado, paralizado, petrificado
 

@@ -16,7 +16,14 @@ related_en: "[[Monsters/Green Hag|Green Hag (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>12</td><td>+1</td><td>+1</td><td>CON</td><td>16</td><td>+3</td><td>+3</td></tr><tr><td>INT</td><td>13</td><td>+1</td><td>+1</td><td>SAB</td><td>14</td><td>+2</td><td>+2</td><td>CAR</td><td>14</td><td>+2</td><td>+2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 12 | +1 | +1 |
+| CON | 16 | +3 | +3 |
+| INT | 13 | +1 | +1 |
+| SAB | 14 | +2 | +2 |
+| CAR | 14 | +2 | +2 |
 
 **Habilidades:** Conocimiento arcano +5, Engaño +4, Percepción +4, Sigilo +3
 

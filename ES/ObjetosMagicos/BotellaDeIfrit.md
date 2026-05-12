@@ -16,5 +16,8 @@ La primera vez que se abra la botella, tu GM tira en la siguiente tabla para det
 1d10 Efecto
 
 
-<table><tr><td>1</td><td>El ifrit te ataca. Tras luchar durante 5 asaltos, el ifrit desaparecerá y la botella perderá su magia.</td></tr><tr><td>2–9</td><td>El ifrit entiende tus idiomas y obedece tus órdenes durante 1 hora, tras lo cual volverá a la botella y un nuevo tapón le impedirá salir. El tapón no se puede quitar durante 24 horas. Las dos siguientes veces que se abra la botella, ocurrirá el mismo efecto. Si la botella se abre una cuarta vez, el ifrit se escapará y desaparecerá, y la botella perderá su magia.</td></tr><tr><td>10</td><td>El ifrit entiende tus idiomas y puede lanzar de-seo una vez para ti. Desaparecerá cuando con-ceda el deseo o después de 1 hora y la botella perderá su magia.</td></tr></table>
+| 1 | El ifrit te ataca. Tras luchar durante 5 asaltos, el ifrit desaparecerá y la botella perderá su magia. |
+|---|---|
+| 2–9 | El ifrit entiende tus idiomas y obedece tus órdenes durante 1 hora, tras lo cual volverá a la botella y un nuevo tapón le impedirá salir. El tapón no se puede quitar durante 24 horas. Las dos siguientes veces que se abra la botella, ocurrirá el mismo efecto. Si la botella se abre una cuarta vez, el ifrit se escapará y desaparecerá, y la botella perderá su magia. |
+| 10 | El ifrit entiende tus idiomas y puede lanzar de-seo una vez para ti. Desaparecerá cuando con-ceda el deseo o después de 1 hora y la botella perderá su magia. |
 

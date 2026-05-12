@@ -25,5 +25,16 @@ Si el conjuro inscrito es un truco, la versión del pergamino funciona como si e
 Costes de pergaminos de conjuro
 
 
-<table><tr><td>Nivel delconjuro</td><td>Tiempo</td><td>Coste</td></tr><tr><td>Truco</td><td>1 día</td><td>15 po</td></tr><tr><td>1</td><td>1 día</td><td>25 po</td></tr><tr><td>2</td><td>3 días</td><td>100 po</td></tr><tr><td>3</td><td>5 días</td><td>150 po</td></tr><tr><td>4</td><td>10 días</td><td>1000 po</td></tr><tr><td>5</td><td>25 días</td><td>1500 po</td></tr><tr><td>6</td><td>40 días</td><td>10 000 po</td></tr><tr><td>7</td><td>50 días</td><td>12 500 po</td></tr><tr><td>8</td><td>60 días</td><td>15 000 po</td></tr><tr><td>9</td><td>120 días</td><td>50 000 po</td></tr></table>
+| Nivel delconjuro | Tiempo | Coste |
+|---|---|---|
+| Truco | 1 día | 15 po |
+| 1 | 1 día | 25 po |
+| 2 | 3 días | 100 po |
+| 3 | 5 días | 150 po |
+| 4 | 10 días | 1000 po |
+| 5 | 25 días | 1500 po |
+| 6 | 40 días | 10 000 po |
+| 7 | 50 días | 12 500 po |
+| 8 | 60 días | 15 000 po |
+| 9 | 120 días | 50 000 po |
 

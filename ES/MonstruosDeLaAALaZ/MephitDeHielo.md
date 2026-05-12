@@ -16,7 +16,14 @@ related_en: "[[Monsters/Ice Mephit|Ice Mephit (EN)]]"
 
 **Velocidad:** 9 m, volar 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>7</td><td>-2</td><td>-2</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>10</td></tr><tr><td>INT</td><td>9</td><td>-1</td><td>-1</td><td>SAB</td><td>11</td><td>+0</td><td>+0</td><td>CAR</td><td>12</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |     7 |  -2 |   -2 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     9 |  -1 |   -1 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Habilidades:** Percepción +2, Sigilo +3
 

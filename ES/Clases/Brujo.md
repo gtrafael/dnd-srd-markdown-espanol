@@ -9,13 +9,41 @@ related_en: "[[Classes/Warlock|Warlock (EN)]]"
 Atributos básicos de brujo
 
 
-<table><tr><td>Característica principal</td><td>Carisma</td></tr><tr><td>Dado de puntos de golpe</td><td>1d8 por nivel de brujo</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Sabiduría y Carisma</td></tr><tr><td>Competencias en habilidades</td><td>Elige dos: Conocimiento arcano, Engaño, Historia, Intimidación, Investigación, Naturaleza o Religión</td></tr><tr><td>Competencias con armas</td><td>Amas sencillas</td></tr><tr><td>Entrenamiento con armaduras</td><td>Armaduras ligeras</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) armadura de cuero, hoz, 2 dagas, canalizador arcano (orbe), libro (de conocimiento oculto), paquete de erudito y 15 po, o (B) 100 po</td></tr></table>
+| Característica principal | Carisma |
+|---|---|
+| Dado de puntos de golpe | 1d8 por nivel de brujo |
+| Competencias en tiradas de salvación | Sabiduría y Carisma |
+| Competencias en habilidades | Elige dos: Conocimiento arcano, Engaño, Historia, Intimidación, Investigación, Naturaleza o Religión |
+| Competencias con armas | Amas sencillas |
+| Entrenamiento con armaduras | Armaduras ligeras |
+| Equipo inicial | Elige A o B: (A) armadura de cuero, hoz, 2 dagas, canalizador arcano (orbe), libro (de conocimiento oculto), paquete de erudito y 15 po, o (B) 100 po |
 
 
 Rasgos de brujo
 
 
-<table><tr><td>Nivel</td><td>Bonificador por competencia</td><td>Rasgos de clase</td><td>Invocaciones sobrenaturales</td><td>Trucos</td><td>Conjuros preparados</td><td>Espacios de conjunto</td><td>Nivel de los espacios</td></tr><tr><td>1</td><td>+2</td><td>Invocaciones sobrenaturales, Magia del pacto</td><td>1</td><td>2</td><td>2</td><td>1</td><td>1</td></tr><tr><td>2</td><td>+2</td><td>Astucia mágica</td><td>3</td><td>2</td><td>3</td><td>2</td><td>1</td></tr><tr><td>3</td><td>+2</td><td>Subclase de brujo</td><td>3</td><td>2</td><td>4</td><td>2</td><td>2</td></tr><tr><td>4</td><td>+2</td><td>Mejora de característica</td><td>3</td><td>3</td><td>5</td><td>2</td><td>2</td></tr><tr><td>5</td><td>+3</td><td>—</td><td>5</td><td>3</td><td>6</td><td>2</td><td>3</td></tr><tr><td>6</td><td>+3</td><td>Rasgo de subclase</td><td>5</td><td>3</td><td>7</td><td>2</td><td>3</td></tr><tr><td>7</td><td>+3</td><td>—</td><td>6</td><td>3</td><td>8</td><td>2</td><td>4</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>6</td><td>3</td><td>9</td><td>2</td><td>4</td></tr><tr><td>9</td><td>+4</td><td>Contactar patrón</td><td>7</td><td>3</td><td>10</td><td>2</td><td>5</td></tr><tr><td>10</td><td>+4</td><td>Rasgo de subclase</td><td>7</td><td>4</td><td>10</td><td>2</td><td>5</td></tr><tr><td>11</td><td>+4</td><td>Arcanum místico (conjuro de nivel 6)</td><td>7</td><td>4</td><td>11</td><td>3</td><td>5</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>8</td><td>4</td><td>11</td><td>3</td><td>5</td></tr><tr><td>13</td><td>+5</td><td>Arcanum místico (conjuro de nivel 7)</td><td>8</td><td>4</td><td>12</td><td>3</td><td>5</td></tr><tr><td>14</td><td>+5</td><td>Rasgo de subclase</td><td>8</td><td>4</td><td>12</td><td>3</td><td>5</td></tr><tr><td>15</td><td>+5</td><td>Arcanum místico (conjuro de nivel 8)</td><td>9</td><td>4</td><td>13</td><td>3</td><td>5</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>9</td><td>4</td><td>13</td><td>3</td><td>5</td></tr><tr><td>17</td><td>+6</td><td>Arcanum místico (conjuro de nivel 9)</td><td>9</td><td>4</td><td>14</td><td>4</td><td>5</td></tr><tr><td>18</td><td>+6</td><td>—</td><td>10</td><td>4</td><td>14</td><td>4</td><td>5</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>10</td><td>4</td><td>15</td><td>4</td><td>5</td></tr><tr><td>20</td><td>+6</td><td>Maestro sobrenatural</td><td>10</td><td>4</td><td>15</td><td>4</td><td>5</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase | Invocaciones sobrenaturales | Trucos | Conjuros preparados | Espacios de conjunto | Nivel de los espacios |
+|---:|---:|---|---:|---:|---:|---:|---:|
+| 1 | +2 | Invocaciones sobrenaturales, Magia del pacto | 1 | 2 | 2 | 1 | 1 |
+| 2 | +2 | Astucia mágica | 3 | 2 | 3 | 2 | 1 |
+| 3 | +2 | Subclase de brujo | 3 | 2 | 4 | 2 | 2 |
+| 4 | +2 | Mejora de característica | 3 | 3 | 5 | 2 | 2 |
+| 5 | +3 | — | 5 | 3 | 6 | 2 | 3 |
+| 6 | +3 | Rasgo de subclase | 5 | 3 | 7 | 2 | 3 |
+| 7 | +3 | — | 6 | 3 | 8 | 2 | 4 |
+| 8 | +3 | Mejora de característica | 6 | 3 | 9 | 2 | 4 |
+| 9 | +4 | Contactar patrón | 7 | 3 | 10 | 2 | 5 |
+| 10 | +4 | Rasgo de subclase | 7 | 4 | 10 | 2 | 5 |
+| 11 | +4 | Arcanum místico (conjuro de nivel 6) | 7 | 4 | 11 | 3 | 5 |
+| 12 | +4 | Mejora de característica | 8 | 4 | 11 | 3 | 5 |
+| 13 | +5 | Arcanum místico (conjuro de nivel 7) | 8 | 4 | 12 | 3 | 5 |
+| 14 | +5 | Rasgo de subclase | 8 | 4 | 12 | 3 | 5 |
+| 15 | +5 | Arcanum místico (conjuro de nivel 8) | 9 | 4 | 13 | 3 | 5 |
+| 16 | +5 | Mejora de característica | 9 | 4 | 13 | 3 | 5 |
+| 17 | +6 | Arcanum místico (conjuro de nivel 9) | 9 | 4 | 14 | 4 | 5 |
+| 18 | +6 | — | 10 | 4 | 14 | 4 | 5 |
+| 19 | +6 | Don épico | 10 | 4 | 15 | 4 | 5 |
+| 20 | +6 | Maestro sobrenatural | 10 | 4 | 15 | 4 | 5 |
 
 ## Convertirse en brujo
 
@@ -317,61 +345,143 @@ Esta sección presenta la lista de conjuros de brujo. Los conjuros se organizan 
 Trucos (conjuros de brujo de nivel 0)
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Descarga sobrenatural</td><td>Evocación</td><td>—</td></tr><tr><td>Ilusión menor</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Impacto certero</td><td>Adivinación</td><td>—</td></tr><tr><td>Mano de mago</td><td>Conjuración</td><td>—</td></tr><tr><td>Prestidigitación</td><td>Transmutación</td><td>—</td></tr><tr><td>Rociada venenosa</td><td>Nigromancia</td><td>—</td></tr><tr><td>Toque helado</td><td>Nigromancia</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Descarga sobrenatural | Evocación | — |
+| Ilusión menor | Ilusionismo | — |
+| Impacto certero | Adivinación | — |
+| Mano de mago | Conjuración | — |
+| Prestidigitación | Transmutación | — |
+| Rociada venenosa | Nigromancia | — |
+| Toque helado | Nigromancia | — |
 
 
 Conjuros de brujo de nivel 1
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Detectar magia</td><td>Adivinación</td><td>C, R</td></tr><tr><td>Entender idiomas</td><td>Adivinación</td><td>R</td></tr><tr><td>Hablar con los animales</td><td>Adivinación</td><td>R</td></tr><tr><td>Hechizar persona</td><td>Encantamiento</td><td>—</td></tr><tr><td>Maleficio</td><td>Encantamiento</td><td>C</td></tr><tr><td>Perdición</td><td>Encantamiento</td><td>C</td></tr><tr><td>Protección contra el bien y el mal</td><td>Abjuración</td><td>C, M</td></tr><tr><td>Reprensión infernal</td><td>Evocación</td><td>—</td></tr><tr><td>Retirada expeditiva</td><td>Transmutación</td><td>C</td></tr><tr><td>Risa horrible</td><td>Encantamiento</td><td>C</td></tr><tr><td>Sirviente invisible</td><td>Conjuración</td><td>R</td></tr><tr><td>Texto ilusorio</td><td>Ilusionismo</td><td>R, M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Detectar magia | Adivinación | C, R |
+| Entender idiomas | Adivinación | R |
+| Hablar con los animales | Adivinación | R |
+| Hechizar persona | Encantamiento | — |
+| Maleficio | Encantamiento | C |
+| Perdición | Encantamiento | C |
+| Protección contra el bien y el mal | Abjuración | C, M |
+| Reprensión infernal | Evocación | — |
+| Retirada expeditiva | Transmutación | C |
+| Risa horrible | Encantamiento | C |
+| Sirviente invisible | Conjuración | R |
+| Texto ilusorio | Ilusionismo | R, M |
 
 
 Conjuros de brujo de nivel 2
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Clavo mental</td><td>Adivinación</td><td>C</td></tr><tr><td>Embelesar</td><td>Encantamiento</td><td>C</td></tr><tr><td>Imagen múltiple</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Inmovilizar persona</td><td>Encantamiento</td><td>C</td></tr><tr><td>Invisibilidad</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Oscuridad</td><td>Evocación</td><td>C</td></tr><tr><td>Paso brumoso</td><td>Conjuración</td><td>—</td></tr><tr><td>Rayo debilitador</td><td>Nigromancia</td><td>C</td></tr><tr><td>Sugestión</td><td>Encantamiento</td><td>C</td></tr><tr><td>Trepar cual arácnido</td><td>Transmutación</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Clavo mental | Adivinación | C |
+| Embelesar | Encantamiento | C |
+| Imagen múltiple | Ilusionismo | — |
+| Inmovilizar persona | Encantamiento | C |
+| Invisibilidad | Ilusionismo | C |
+| Oscuridad | Evocación | C |
+| Paso brumoso | Conjuración | — |
+| Rayo debilitador | Nigromancia | C |
+| Sugestión | Encantamiento | C |
+| Trepar cual arácnido | Transmutación | C |
 
 
 Conjuros de brujo de nivel 3
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Círculo mágico</td><td>Abjuración</td><td>M</td></tr><tr><td>Contrahechizo</td><td>Abjuración</td><td>—</td></tr><tr><td>Disipar magia</td><td>Abjuración</td><td>—</td></tr><tr><td>Don de lenguas</td><td>Adivinación</td><td>—</td></tr><tr><td>Forma gaseosa</td><td>Transmutación</td><td>C</td></tr><tr><td>Imagen mayor</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Levantar maldición</td><td>Abjuración</td><td>—</td></tr><tr><td>Patrón hipnótico</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Terror</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Toque vampírico</td><td>Nigromancia</td><td>C</td></tr><tr><td>Volar</td><td>Transmutación</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Círculo mágico | Abjuración | M |
+| Contrahechizo | Abjuración | — |
+| Disipar magia | Abjuración | — |
+| Don de lenguas | Adivinación | — |
+| Forma gaseosa | Transmutación | C |
+| Imagen mayor | Ilusionismo | C |
+| Levantar maldición | Abjuración | — |
+| Patrón hipnótico | Ilusionismo | C |
+| Terror | Ilusionismo | C |
+| Toque vampírico | Nigromancia | C |
+| Volar | Transmutación | C |
 
 
 Conjuros de brujo de nivel 4
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Destierro</td><td>Abjuración</td><td>C</td></tr><tr><td>Hechizar monstruo</td><td>Encantamiento</td><td>—</td></tr><tr><td>Marchitar</td><td>Nigromancia</td><td>—</td></tr><tr><td>Puerta dimensional</td><td>Conjuración</td><td>—</td></tr><tr><td>Terreno alucinatorio</td><td>Ilusionismo</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Destierro | Abjuración | C |
+| Hechizar monstruo | Encantamiento | — |
+| Marchitar | Nigromancia | — |
+| Puerta dimensional | Conjuración | — |
+| Terreno alucinatorio | Ilusionismo | — |
 
 
 Conjuros de brujo de nivel 5
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Atadura planar</td><td>Abjuración</td><td>M</td></tr><tr><td>Círculo de teletransportación</td><td>Conjuración</td><td>M</td></tr><tr><td>Contactar con otro plano</td><td>Adivinación</td><td>R</td></tr><tr><td>Engañar</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Ensueño</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Escudriñar</td><td>Adivinación</td><td>C, M</td></tr><tr><td>Inmovilizar monstruo</td><td>Encantamiento</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Atadura planar | Abjuración | M |
+| Círculo de teletransportación | Conjuración | M |
+| Contactar con otro plano | Adivinación | R |
+| Engañar | Ilusionismo | C |
+| Ensueño | Ilusionismo | — |
+| Escudriñar | Adivinación | C, M |
+| Inmovilizar monstruo | Encantamiento | C |
 
 
 Conjuros de brujo de nivel 6
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Círculo de muerte</td><td>Nigromancia</td><td>M</td></tr><tr><td>Crear muerto viviente</td><td>Nigromancia</td><td>M</td></tr><tr><td>Mal de ojo</td><td>Nigromancia</td><td>C</td></tr><tr><td>Visión veraz</td><td>Adivinación</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Círculo de muerte | Nigromancia | M |
+| Crear muerto viviente | Nigromancia | M |
+| Mal de ojo | Nigromancia | C |
+| Visión veraz | Adivinación | M |
 
 
 Conjuros de brujo de nivel 7
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Dedo de la muerte</td><td>Nigromancia</td><td>—</td></tr><tr><td>Desplazamiento entre planos</td><td>Conjuración</td><td>M</td></tr><tr><td>Excursión etérea</td><td>Conjuración</td><td>—</td></tr><tr><td>Jaula de fuerza</td><td>Evocación</td><td>C, M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Dedo de la muerte | Nigromancia | — |
+| Desplazamiento entre planos | Conjuración | M |
+| Excursión etérea | Conjuración | — |
+| Jaula de fuerza | Evocación | C, M |
 
 
 Conjuros de brujo de nivel 8
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Dominar monstruo</td><td>Encantamiento</td><td>C</td></tr><tr><td>Labia</td><td>Encantamiento</td><td>—</td></tr><tr><td>Ofuscación</td><td>Encantamiento</td><td>—</td></tr><tr><td>Palabra de poder: aturdir</td><td>Encantamiento</td><td>—</td></tr><tr><td>Semiplano</td><td>Conjuración</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Dominar monstruo | Encantamiento | C |
+| Labia | Encantamiento | — |
+| Ofuscación | Encantamiento | — |
+| Palabra de poder: aturdir | Encantamiento | — |
+| Semiplano | Conjuración | — |
 
 
 Conjuros de brujo de nivel 9
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Cautiverio</td><td>Abjuración</td><td>M</td></tr><tr><td>Palabra de poder: matar</td><td>Encantamiento</td><td>—</td></tr><tr><td>Polimorfar verdadero</td><td>Transmutación</td><td>C</td></tr><tr><td>Portal</td><td>Conjuración</td><td>C, M</td></tr><tr><td>Presciencia</td><td>Adivinación</td><td>—</td></tr><tr><td>Proyección astral</td><td>Nigromancia</td><td>M</td></tr><tr><td>Terror abyecto</td><td>Ilusionismo</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Cautiverio | Abjuración | M |
+| Palabra de poder: matar | Encantamiento | — |
+| Polimorfar verdadero | Transmutación | C |
+| Portal | Conjuración | C, M |
+| Presciencia | Adivinación | — |
+| Proyección astral | Nigromancia | M |
+| Terror abyecto | Ilusionismo | C |
 
 ## Subclase de brujo: Patrón infernal
 
@@ -391,7 +501,12 @@ La magia de tu patrón garantiza que siempre tengas ciertos conjuros preparados.
 Conjuros del infernal
 
 
-<table><tr><td>Nivel de brujo</td><td>Conjuros</td></tr><tr><td>3</td><td>Manos ardientes, orden imperiosa, rayo abrasador, sugestión</td></tr><tr><td>5</td><td>Bola de fuego, nube apestosa</td></tr><tr><td>7</td><td>Escudo de fuego, muro de fuego</td></tr><tr><td>9</td><td>Geas, plaga de insectos</td></tr></table>
+| Nivel de brujo | Conjuros |
+|---:|---|
+| 3 | Manos ardientes, orden imperiosa, rayo abrasador, sugestión |
+| 5 | Bola de fuego, nube apestosa |
+| 7 | Escudo de fuego, muro de fuego |
+| 9 | Geas, plaga de insectos |
 
 ### Nivel 6: La suerte del oscuro
 

@@ -16,9 +16,93 @@ Como acción de utilizar, puedes esparcir los abrojos de tu bolsa para cubrir un
 Equipo de aventureros
 
 
-<table><tr><td>Objeto</td><td>Peso</td><td>Precio</td></tr><tr><td>Abrojos</td><td>1 kg</td><td>1 po</td></tr><tr><td>Aceite</td><td>0,5 kg</td><td>1 pp</td></tr><tr><td>Ácido</td><td>0,5 kg</td><td>25 po</td></tr><tr><td>Agua bendita</td><td>0,5 kg</td><td>25 po</td></tr><tr><td>Aljaba</td><td>0,5 kg</td><td>1 po</td></tr><tr><td>Antitoxina</td><td>—</td><td>50 po</td></tr><tr><td>Antorcha</td><td>0,5 kg</td><td>1 pc</td></tr><tr><td>Ariete portátil</td><td>17,5 kg</td><td>4 po</td></tr><tr><td>Barril</td><td>35 kg</td><td>2 po</td></tr><tr><td>Bolas de metal</td><td>1 kg</td><td>1 po</td></tr><tr><td>Bolsa</td><td>0,5 kg</td><td>5 pp</td></tr><tr><td>Botella de cristal</td><td>1 kg</td><td>2 po</td></tr><tr><td>Cadena</td><td>5 kg</td><td>5 po</td></tr><tr><td>Campana</td><td>—</td><td>1 po</td></tr><tr><td>Canalizador arcano</td><td>Variable</td><td>Variable</td></tr><tr><td>Canalizador druídico</td><td>Variable</td><td>Variable</td></tr><tr><td>Cantimplora</td><td>2,5 kg (llena)</td><td>2 pp</td></tr><tr><td>Catalejo</td><td>0,5 kg</td><td>1000 po</td></tr><tr><td>Cerradura</td><td>0,5 kg</td><td>10 po</td></tr><tr><td>Cesta</td><td>1 kg</td><td>4 pp</td></tr><tr><td>Cofre</td><td>12,5 kg</td><td>5 po</td></tr><tr><td>Cordel</td><td>—</td><td>1 pp</td></tr><tr><td>Cubo</td><td>1 kg</td><td>5 pc</td></tr><tr><td>Cuerda</td><td>2,5 kg</td><td>1 po</td></tr><tr><td>Disfraz</td><td>2 kg</td><td>5 po</td></tr><tr><td>Escalera</td><td>12,5 kg</td><td>1 pp</td></tr><tr><td>Espejo</td><td>250 g</td><td>5 po</td></tr><tr><td>Esposas</td><td>3 kg</td><td>2 po</td></tr><tr><td>Estuche para mapas o pergaminos</td><td>0,5 kg</td><td>1 po</td></tr><tr><td>Estuche para virotes de ballesta</td><td>0,5 kg</td><td>1 po</td></tr><tr><td>Frasco</td><td>0,5 kg</td><td>2 pc</td></tr><tr><td>Fuego de alquimista</td><td>0,5 kg</td><td>50 po</td></tr><tr><td>Garfio de escalada</td><td>2 kg</td><td>2 po</td></tr><tr><td>Jarro</td><td>2 kg</td><td>2 pc</td></tr><tr><td>Lámpara</td><td>0,5 kg</td><td>5 pp</td></tr><tr><td>Libro</td><td>2,5 kg</td><td>25 po</td></tr><tr><td>Linterna de ojo de buey</td><td>1 kg</td><td>10 po</td></tr><tr><td>Linterna sorda</td><td>1 kg</td><td>5 po</td></tr><tr><td>Lupa</td><td>—</td><td>100 po</td></tr><tr><td>Manta</td><td>1,5 kg</td><td>5 pp</td></tr><tr><td>Mapa</td><td>—</td><td>1 po</td></tr></table>
+| Objeto                           | Peso           | Precio   |
+|----------------------------------|----------------|----------|
+| Abrojos                          | 1 kg           | 1 po     |
+| Aceite                           | 0,5 kg         | 1 pp     |
+| Ácido                            | 0,5 kg         | 25 po    |
+| Agua bendita                     | 0,5 kg         | 25 po    |
+| Aljaba                           | 0,5 kg         | 1 po     |
+| Antitoxina                       | —              | 50 po    |
+| Antorcha                         | 0,5 kg         | 1 pc     |
+| Ariete portátil                  | 17,5 kg        | 4 po     |
+| Barril                           | 35 kg          | 2 po     |
+| Bolas de metal                   | 1 kg           | 1 po     |
+| Bolsa                            | 0,5 kg         | 5 pp     |
+| Botella de cristal               | 1 kg           | 2 po     |
+| Cadena                           | 5 kg           | 5 po     |
+| Campana                          | —              | 1 po     |
+| Canalizador arcano               | Variable       | Variable |
+| Canalizador druídico             | Variable       | Variable |
+| Cantimplora                      | 2,5 kg (llena) | 2 pp     |
+| Catalejo                         | 0,5 kg         | 1000 po  |
+| Cerradura                        | 0,5 kg         | 10 po    |
+| Cesta                            | 1 kg           | 4 pp     |
+| Cofre                            | 12,5 kg        | 5 po     |
+| Cordel                           | —              | 1 pp     |
+| Cubo                             | 1 kg           | 5 pc     |
+| Cuerda                           | 2,5 kg         | 1 po     |
+| Disfraz                          | 2 kg           | 5 po     |
+| Escalera                         | 12,5 kg        | 1 pp     |
+| Espejo                           | 250 g          | 5 po     |
+| Esposas                          | 3 kg           | 2 po     |
+| Estuche para mapas o pergaminos  | 0,5 kg         | 1 po     |
+| Estuche para virotes de ballesta | 0,5 kg         | 1 po     |
+| Frasco                           | 0,5 kg         | 2 pc     |
+| Fuego de alquimista              | 0,5 kg         | 50 po    |
+| Garfio de escalada               | 2 kg           | 2 po     |
+| Jarro                            | 2 kg           | 2 pc     |
+| Lámpara                          | 0,5 kg         | 5 pp     |
+| Libro                            | 2,5 kg         | 25 po    |
+| Linterna de ojo de buey          | 1 kg           | 10 po    |
+| Linterna sorda                   | 1 kg           | 5 po     |
+| Lupa                             | —              | 100 po   |
+| Manta                            | 1,5 kg         | 5 pp     |
+| Mapa                             | —              | 1 po     |
 
-<table><tr><td>Objeto</td><td>Peso</td><td>Precio</td></tr><tr><td>Mochila</td><td>2,5 kg</td><td>2 po</td></tr><tr><td>Munición</td><td>Variable</td><td>Variable</td></tr><tr><td>Olla de hierro</td><td>5 kg</td><td>2 po</td></tr><tr><td>Pala</td><td>2,5 kg</td><td>2 po</td></tr><tr><td>Palanqueta</td><td>2,5 kg</td><td>2 po</td></tr><tr><td>Papel</td><td>—</td><td>2 pp</td></tr><tr><td>Paquete de artista</td><td>29,25 kg</td><td>40 po</td></tr><tr><td>Paquete de diplomático</td><td>19,5 kg</td><td>39 po</td></tr><tr><td>Paquete de erudito</td><td>11 kg</td><td>40 po</td></tr><tr><td>Paquete de explorador</td><td>27,5 kg</td><td>10 po</td></tr><tr><td>Paquete de explorador de mazmorras</td><td>27,5 kg</td><td>12 po</td></tr><tr><td>Paquete de ladrón</td><td>21 kg</td><td>16 po</td></tr><tr><td>Paquete de sacerdote</td><td>14,5 kg</td><td>33 po</td></tr><tr><td>Perfume</td><td>—</td><td>5 po</td></tr><tr><td>Pergamino</td><td>—</td><td>1 pp</td></tr><tr><td>Pergamino de conjuro (truco)</td><td>—</td><td>30 po</td></tr><tr><td>Pergamino de conjuro (nivel 1)</td><td>—</td><td>50 po</td></tr><tr><td>Petate</td><td>3,5 kg</td><td>1 po</td></tr><tr><td>Pluma</td><td>—</td><td>2 pc</td></tr><tr><td>Poción de curación</td><td>250 g</td><td>50 po</td></tr><tr><td>Polipasto</td><td>2,5 kg</td><td>1 po</td></tr><tr><td>Puntas de hierro</td><td>2,5 kg</td><td>1 po</td></tr><tr><td>Raciones</td><td>1 kg</td><td>5 pp</td></tr><tr><td>Red</td><td>1,5 kg</td><td>1 po</td></tr><tr><td>Ropas de calidad</td><td>3 kg</td><td>15 po</td></tr><tr><td>Ropas de viaje</td><td>2 kg</td><td>2 po</td></tr><tr><td>Saco</td><td>250 g</td><td>1 pc</td></tr><tr><td>Saquito de componentes</td><td>1 kg</td><td>25 po</td></tr><tr><td>Silbato de supervivencia</td><td>—</td><td>5 pc</td></tr><tr><td>Símbolo sagrado</td><td>Variable</td><td>Variable</td></tr><tr><td>Tienda</td><td>10 kg</td><td>2 po</td></tr><tr><td>Tinta</td><td>—</td><td>10 po</td></tr><tr><td>Trampa para cazar</td><td>12,5 kg</td><td>5 po</td></tr><tr><td>Túnica</td><td>2 kg</td><td>1 po</td></tr><tr><td>Útiles de escalada</td><td>6 kg</td><td>25 po</td></tr><tr><td>Útiles de sanador</td><td>1,5 kg</td><td>5 po</td></tr><tr><td>Vara</td><td>3,5 kg</td><td>5 pc</td></tr><tr><td>Vela</td><td>—</td><td>1 pc</td></tr><tr><td>Veneno básico</td><td>—</td><td>100 po</td></tr><tr><td>Vial</td><td>—</td><td>1 po</td></tr><tr><td>Yesquero</td><td>0,5 kg</td><td>5 pp</td></tr></table>
+| Objeto | Peso | Precio |
+|---|---|---|
+| Mochila | 2,5 kg | 2 po |
+| Munición | Variable | Variable |
+| Olla de hierro | 5 kg | 2 po |
+| Pala | 2,5 kg | 2 po |
+| Palanqueta | 2,5 kg | 2 po |
+| Papel | — | 2 pp |
+| Paquete de artista | 29,25 kg | 40 po |
+| Paquete de diplomático | 19,5 kg | 39 po |
+| Paquete de erudito | 11 kg | 40 po |
+| Paquete de explorador | 27,5 kg | 10 po |
+| Paquete de explorador de mazmorras | 27,5 kg | 12 po |
+| Paquete de ladrón | 21 kg | 16 po |
+| Paquete de sacerdote | 14,5 kg | 33 po |
+| Perfume | — | 5 po |
+| Pergamino | — | 1 pp |
+| Pergamino de conjuro (truco) | — | 30 po |
+| Pergamino de conjuro (nivel 1) | — | 50 po |
+| Petate | 3,5 kg | 1 po |
+| Pluma | — | 2 pc |
+| Poción de curación | 250 g | 50 po |
+| Polipasto | 2,5 kg | 1 po |
+| Puntas de hierro | 2,5 kg | 1 po |
+| Raciones | 1 kg | 5 pp |
+| Red | 1,5 kg | 1 po |
+| Ropas de calidad | 3 kg | 15 po |
+| Ropas de viaje | 2 kg | 2 po |
+| Saco | 250 g | 1 pc |
+| Saquito de componentes | 1 kg | 25 po |
+| Silbato de supervivencia | — | 5 pc |
+| Símbolo sagrado | Variable | Variable |
+| Tienda | 10 kg | 2 po |
+| Tinta | — | 10 po |
+| Trampa para cazar | 12,5 kg | 5 po |
+| Túnica | 2 kg | 1 po |
+| Útiles de escalada | 6 kg | 25 po |
+| Útiles de sanador | 1,5 kg | 5 po |
+| Vara | 3,5 kg | 5 pc |
+| Vela | — | 1 pc |
+| Veneno básico | — | 100 po |
+| Vial | — | 1 po |
+| Yesquero | 0,5 kg | 5 pp |
 
 ## Aceite (1 pp)
 
@@ -86,7 +170,13 @@ Un canalizador arcano puede ser uno de los objetos de la tabla “Canalizadores 
 Canalizadores arcanos
 
 
-<table><tr><td>Canalizador</td><td>Peso</td><td>Precio</td></tr><tr><td>Bastón</td><td>2 kg</td><td>5 po</td></tr><tr><td>Cristal</td><td>0,5 kg</td><td>10 po</td></tr><tr><td>Orbe</td><td>1,5 kg</td><td>20 po</td></tr><tr><td>Vara</td><td>1 kg</td><td>10 po</td></tr><tr><td>Varita</td><td>0,5 kg</td><td>10 po</td></tr></table>
+| Canalizador | Peso | Precio |
+|---|---|---|
+| Bastón | 2 kg | 5 po |
+| Cristal | 0,5 kg | 10 po |
+| Orbe | 1,5 kg | 20 po |
+| Vara | 1 kg | 10 po |
+| Varita | 0,5 kg | 10 po |
 
 ## Canalizador druídico (variable)
 
@@ -96,7 +186,11 @@ Un canalizador druídico puede ser uno de los objetos de la tabla “Canalizador
 Canalizadores druídicos
 
 
-<table><tr><td>Canalizador</td><td>Peso</td><td>Precio</td></tr><tr><td>Bastón de madera (también bastón)</td><td>2 kg</td><td>5 po</td></tr><tr><td>Rama de muérdago</td><td>—</td><td>1 po</td></tr><tr><td>Varita de tejo</td><td>0,5 kg</td><td>10 po</td></tr></table>
+| Canalizador | Peso | Precio |
+|---|---|---|
+| Bastón de madera (también bastón) | 2 kg | 5 po |
+| Rama de muérdago | — | 1 po |
+| Varita de tejo | 0,5 kg | 10 po |
 
 ## Cantimplora (2 pp)
 
@@ -214,7 +308,13 @@ Las armas que tienen la propiedad de munición requieren munición. La descripci
 Munición
 
 
-<table><tr><td>Tipo</td><td>Cantidad</td><td>Recipiente</td><td>Peso</td><td>Precio</td></tr><tr><td>Balas de arma de fuego</td><td>10</td><td>Bolsa</td><td>1 kg</td><td>3 po</td></tr><tr><td>Dardos</td><td>50</td><td>Bolsa</td><td>0,5 kg</td><td>1 po</td></tr><tr><td>Flechas</td><td>20</td><td>Aljaba</td><td>0,5 kg</td><td>1 po</td></tr><tr><td>Proyectiles de honda</td><td>20</td><td>Bolsa</td><td>0,75 kg</td><td>4 pc</td></tr><tr><td>Virotes</td><td>20</td><td>Estuche</td><td>0,75 kg</td><td>1 po</td></tr></table>
+| Tipo | Cantidad | Recipiente | Peso | Precio |
+|---|---:|---|---|---|
+| Balas de arma de fuego | 10 | Bolsa | 1 kg | 3 po |
+| Dardos | 50 | Bolsa | 0,5 kg | 1 po |
+| Flechas | 20 | Aljaba | 0,5 kg | 1 po |
+| Proyectiles de honda | 20 | Bolsa | 0,75 kg | 4 pc |
+| Virotes | 20 | Estuche | 0,75 kg | 1 po |
 
 ## Olla de hierro (2 po)
 
@@ -334,7 +434,11 @@ La tabla indica si un símbolo sagrado se debe sostener, llevar puesto o mostrar
 Símbolos sagrados
 
 
-<table><tr><td>Símbolo</td><td>Peso</td><td>Precio</td></tr><tr><td>Amuleto (puesto o sostenido)</td><td>0,5 kg</td><td>5 po</td></tr><tr><td>Emblema (en tela o en escudo)</td><td>—</td><td>5 po</td></tr><tr><td>Relicario (sostenido)</td><td>1 kg</td><td>5 po</td></tr></table>
+| Símbolo | Peso | Precio |
+|---|---|---|
+| Amuleto (puesto o sostenido) | 0,5 kg | 5 po |
+| Emblema (en tela o en escudo) | — | 5 po |
+| Relicario (sostenido) | 1 kg | 5 po |
 
 ## Tienda (2 po)
 

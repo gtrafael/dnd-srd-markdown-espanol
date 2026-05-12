@@ -104,7 +104,14 @@ El tamaño de un personaje lo determina su especie, mientras que el de un monstr
 Tamaño y espacio de las criaturas
 
 
-<table><tr><td>Tamaño</td><td>Espacio (metros)</td><td>Espacio (casillas)</td></tr><tr><td>Diminuto</td><td>0,75 por 0,75 m</td><td>4 por casilla</td></tr><tr><td>Pequeño</td><td>1,5 por 1,5 m</td><td>1 casilla</td></tr><tr><td>Mediano</td><td>1,5 por 1,5 m</td><td>1 casilla</td></tr><tr><td>Grande</td><td>3 por 3 m</td><td>4 casillas (2 por 2)</td></tr><tr><td>Enorme</td><td>4,5 por 4,5 m</td><td>9 casillas (3 por 3)</td></tr><tr><td>Gargantuesco</td><td>6 por 6 m</td><td>16 casillas (4 por 4)</td></tr></table>
+| Tamaño | Espacio (metros) | Espacio (casillas) |
+|---|---|---|
+| Diminuto | 0,75 por 0,75 m | 4 por casilla |
+| Pequeño | 1,5 por 1,5 m | 1 casilla |
+| Mediano | 1,5 por 1,5 m | 1 casilla |
+| Grande | 3 por 3 m | 4 casillas (2 por 2) |
+| Enorme | 4,5 por 4,5 m | 9 casillas (3 por 3) |
+| Gargantuesco | 6 por 6 m | 16 casillas (4 por 4) |
 
 #### Moverse alrededor de otras criaturas
 
@@ -134,7 +141,11 @@ El objetivo solo puede beneficiarse de la cobertura si el ataque o el efecto pro
 Cobertura
 
 
-<table><tr><td>Nivel</td><td>Beneficio para el objetivo</td><td>Qué lo ofrece</td></tr><tr><td>Media</td><td>Bonificador de +2 a la CA y a las tiradas de salvación de Destreza</td><td>Otra criatura o un objeto que cubra al menos la mitad del objetivo</td></tr><tr><td>Tres cuartos</td><td>Bonificador de +5 a la CA y a las tiradas de salvación de Destreza</td><td>Un objeto que cubra al menos tres cuartos del objetivo</td></tr><tr><td>Completa</td><td>No puede ser objetivo directo de ataques ni conjuros</td><td>Un objeto que cubre todo el objetivo</td></tr></table>
+| Nivel | Beneficio para el objetivo | Qué lo ofrece |
+|---|---|---|
+| Media | Bonificador de +2 a la CA y a las tiradas de salvación de Destreza | Otra criatura o un objeto que cubra al menos la mitad del objetivo |
+| Tres cuartos | Bonificador de +5 a la CA y a las tiradas de salvación de Destreza | Un objeto que cubra al menos tres cuartos del objetivo |
+| Completa | No puede ser objetivo directo de ataques ni conjuros | Un objeto que cubre todo el objetivo |
 
 #### Ataques a distancia
 

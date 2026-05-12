@@ -16,7 +16,14 @@ related_en: "[[Animals/Swarm of Ravens|Swarm of Ravens (EN)]]"
 
 **Velocidad:** 3 m, volar 15 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>6</td><td>-2</td><td>-2</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>12</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>5</td><td>-3</td><td>-3</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>6</td><td>-2</td><td>-2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 6 | -2 | -2 |
+| DES | 14 | +2 | +2 |
+| CON | 12 | +1 | +1 |
+| INT | 5 | -3 | -3 |
+| SAB | 12 | +1 | +1 |
+| CAR | 6 | -2 | -2 |
 
 **Habilidades:** Percepción +5
 

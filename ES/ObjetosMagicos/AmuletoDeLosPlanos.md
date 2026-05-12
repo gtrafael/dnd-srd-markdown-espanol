@@ -14,5 +14,10 @@ Mientras lleves puesto este amuleto, podrás usar una acción de magia para nomb
 1d100 Destino
 
 
-<table><tr><td>01–60</td><td>Un sitio al azar en el plano de existencia nombrado.</td></tr><tr><td>61–70</td><td>Un sitio al azar en un Plano Interior, que se determina tirando 1d6: si sale un 1, el Plano de la Tierra; si sale un 2, el Plano del Agua; si sale un 3, el Plano del Aire; si sale un 4, el Plano del Fuego; si sale un 5, los Parajes Feéricos; si sale un 6, el Páramo Sombrío.</td></tr><tr><td>71–80</td><td>Un sitio al azar en un Plano Exterior, que se determina tirando 1d8: si sale un 1, Arbórea; si sale un 2, Arcadia; si sale un 3, Bitopía; si sale un 4, Elíseo; si sale un 5, Mechanus; si sale un 6, el Monte Celestia; si sale un 7, las Tierras de las Bestias; si sale un 8, Ysgard.</td></tr><tr><td>81–90</td><td>Un sitio al azar en un Plano Exterior, que se determina tirando 1d8: si sale un 1, el Abismo; si sale un 2, Aqueronte; si sale un 3, Carceri; si sale un 4; Gehenna; si sale un 5, Hades; si sale un 6, Limbo; si sale un 7, los Nueve Infiernos; si sale un 8, Pandemónium.</td></tr><tr><td>91–00</td><td>Un sitio al azar en el Plano Astral.</td></tr></table>
+| 01–60 | Un sitio al azar en el plano de existencia nombrado. |
+|---|---|
+| 61–70 | Un sitio al azar en un Plano Interior, que se determina tirando 1d6: si sale un 1, el Plano de la Tierra; si sale un 2, el Plano del Agua; si sale un 3, el Plano del Aire; si sale un 4, el Plano del Fuego; si sale un 5, los Parajes Feéricos; si sale un 6, el Páramo Sombrío. |
+| 71–80 | Un sitio al azar en un Plano Exterior, que se determina tirando 1d8: si sale un 1, Arbórea; si sale un 2, Arcadia; si sale un 3, Bitopía; si sale un 4, Elíseo; si sale un 5, Mechanus; si sale un 6, el Monte Celestia; si sale un 7, las Tierras de las Bestias; si sale un 8, Ysgard. |
+| 81–90 | Un sitio al azar en un Plano Exterior, que se determina tirando 1d8: si sale un 1, el Abismo; si sale un 2, Aqueronte; si sale un 3, Carceri; si sale un 4; Gehenna; si sale un 5, Hades; si sale un 6, Limbo; si sale un 7, los Nueve Infiernos; si sale un 8, Pandemónium. |
+| 91–00 | Un sitio al azar en el Plano Astral. |
 

@@ -16,7 +16,13 @@ Mientras estés hechizado por el orbe, no podrás acabar voluntariamente la sint
 
 **Conjuros.** El orbe tiene 7 cargas y recupera 1d4 +3 cargas empleadas cada día, al amanecer. Si controlas el orbe, puedes lanzar un conjuro de la tabla a continuación desde él. En ella se indica cuántas cargas debes gastar para lanzar el conjuro.
 
-<table><tr><td>Conjuro</td><td>Coste en cargas</td></tr><tr><td>Curar heridas (versión de nivel 9)</td><td>4</td></tr><tr><td>Detector magia</td><td>0</td></tr><tr><td>Escudriñar (CD de salvación 18)</td><td>3</td></tr><tr><td>Guarda contra la muerte</td><td>2</td></tr><tr><td>Luz del día</td><td>1</td></tr></table>
+| Conjuro | Coste en cargas |
+|---|---:|
+| Curar heridas (versión de nivel 9) | 4 |
+| Detector magia | 0 |
+| Escudriñar (CD de salvación 18) | 3 |
+| Guarda contra la muerte | 2 |
+| Luz del día | 1 |
 
 Llamar a los dragones. Mientras controles el orbe, podrás utilizar una acción de magia para que el orbe emita una llamada telepática que se extienda en todas direcciones en un radio de 60 km. Los dragones cromáticos que haya dentro del alcance se verán obligados a acudir hasta el orbe lo antes posible por el camino más directo. Las deidades dragón, como Tiamat, no se ven afectadas por esta llamada. Los dragones cromáticos atraídos por el orbe podrían ser hostiles hacia ti por haber forzado sus acciones en contra de su voluntad. Una vez utilizada esta propiedad, no puede volver a usarse durante 1 hora.
 

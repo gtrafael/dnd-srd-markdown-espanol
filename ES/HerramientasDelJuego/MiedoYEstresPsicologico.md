@@ -18,7 +18,11 @@ Cuando los personajes se topen con algo sobrenatural y aterrador, emplea el esta
 Muestras de CD de miedos
 
 
-<table><tr><td>Ejemplo</td><td>CD de salvación</td></tr><tr><td>Cuando un personaje abra un sarcófago, de él surge una aparición inofensiva pero aterradora.</td><td>10</td></tr><tr><td>Un personaje activa una trampa mágica que crea una manifestación ilusoria de sus miedos más profundos que solo él puede ver.</td><td>15</td></tr><tr><td>Se abre un portal al Abismo y muestra un reino de tormento, matanzas y pesadillas.</td><td>20</td></tr></table>
+| Ejemplo                                                                                                                      | CD de salvación |
+|------------------------------------------------------------------------------------------------------------------------------|----------------:|
+| Cuando un personaje abra un sarcófago, de él surge una aparición inofensiva pero aterradora.                                 |              10 |
+| Un personaje activa una trampa mágica que crea una manifestación ilusoria de sus miedos más profundos que solo él puede ver. |              15 |
+| Se abre un portal al Abismo y muestra un reino de tormento, matanzas y pesadillas.                                           |              20 |
 
 Normalmente, una criatura asustada repite la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.
 
@@ -40,7 +44,11 @@ La tabla “Muestras de efectos de estrés psicológico” proporciona varios ej
 Muestras de efectos de estrés psicológico
 
 
-<table><tr><td>Ejemplo</td><td>CD de salvación</td><td>Daño psíquico</td></tr><tr><td>Un personaje ingiere una sustancia alucinógena que distorsiona su percepción de la realidad.</td><td>10</td><td>1d6</td></tr><tr><td>Un personaje toca un ídolo infernal que desgarra su mente y amenaza con hacerla añicos.</td><td>15</td><td>3d6</td></tr><tr><td>Una trampa mágica lanza a un personaje al Reino Lejano hasta el final de su próximo turno.</td><td>20</td><td>9d6</td></tr></table>
+| Ejemplo | CD de salvación | Daño psíquico |
+|---|---:|---|
+| Un personaje ingiere una sustancia alucinógena que distorsiona su percepción de la realidad. | 10 | 1d6 |
+| Un personaje toca un ídolo infernal que desgarra su mente y amenaza con hacerla añicos. | 15 | 3d6 |
+| Una trampa mágica lanza a un personaje al Reino Lejano hasta el final de su próximo turno. | 20 | 9d6 |
 
 ## Efectos prolongados
 

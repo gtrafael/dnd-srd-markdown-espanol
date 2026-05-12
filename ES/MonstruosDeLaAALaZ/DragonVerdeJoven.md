@@ -16,7 +16,14 @@ related_en: "[[Monsters/Young Green Dragon|Young Green Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>19</td><td>+4</td><td>+4</td><td>DES</td><td>12</td><td>+1</td><td>+4</td><td>CON</td><td>17</td><td>+3</td><td>+3</td></tr><tr><td>INT</td><td>16</td><td>+3</td><td>+3</td><td>SAB</td><td>13</td><td>+1</td><td>+4</td><td>CAR</td><td>15</td><td>+2</td><td>+2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 19 | +4 | +4 |
+| DES | 12 | +1 | +4 |
+| CON | 17 | +3 | +3 |
+| INT | 16 | +3 | +3 |
+| SAB | 13 | +1 | +4 |
+| CAR | 15 | +2 | +2 |
 
 **Habilidades:** Engaño +5, Percepción +7, Sigilo +4
 

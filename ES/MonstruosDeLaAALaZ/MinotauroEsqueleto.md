@@ -16,7 +16,14 @@ related_en: "[[Monsters/Minotaur Skeleton|Minotaur Skeleton (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 18</td><td>+4</td><td>+4</td><td></td><td>DES 11</td><td>+0</td><td>+0</td><td>CON 15</td><td>+2</td><td>+2</td></tr><tr><td>INT 6</td><td>-2</td><td>-2</td><td></td><td>SAB 8</td><td>-1</td><td>-1</td><td>CAR 5</td><td>-3</td><td>-3</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 11 | +0 | +0 |
+| CON | 15 | +2 | +2 |
+| INT | 6 | -2 | -2 |
+| SAB | 8 | -1 | -1 |
+| CAR | 5 | -3 | -3 |
 
 **Vulnerabilidades:** contundente
 

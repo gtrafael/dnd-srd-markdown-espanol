@@ -11,7 +11,12 @@ Estas son las definiciones de diversas reglas.
 
 En tu turno, puedes llevar a cabo una acción. Elige qué acción quieres realizar entre las que aparecen a continuación o entre las acciones especiales que te otorgan tus rasgos. Consulta también el capítulo “Cómo jugar” (“Acciones”). Estas acciones se definen en otras partes del glosario: 
 
-<table><tr><td>Atacar</td><td>Esconderse</td><td>Preparar una</td></tr><tr><td>Ayudar</td><td>Esquivar</td><td>acción</td></tr><tr><td>Buscar</td><td>Estudiar</td><td>Utilizar</td></tr><tr><td>Correr</td><td>Influir</td><td></td></tr><tr><td>Destrabarse</td><td>Magia</td><td></td></tr></table>
+| Atacar      | Esconderse | Preparar una |
+|-------------|------------|--------------|
+| Ayudar      | Esquivar   | acción       |
+| Buscar      | Estudiar   | Utilizar     |
+| Correr      | Influir    |              |
+| Destrabarse | Magia      |              |
 
 ## Acción adicional
 
@@ -187,7 +192,11 @@ Cuando llevas a cabo la acción de buscar, realizas una prueba de Sabiduría par
 Búsqueda
 
 
-<table><tr><td>Habilidad</td><td>Objeto de detección</td></tr><tr><td>Medicina</td><td>Dolencia o causa de la muerte de una criatura</td></tr><tr><td>Percepción</td><td>Criatura u objeto ocultos</td></tr><tr><td>Perspicacia</td><td>Estado mental de una criatura</td></tr></table>
+| Habilidad   | Objeto de detección                           |
+|-------------|-----------------------------------------------|
+| Medicina    | Dolencia o causa de la muerte de una criatura |
+| Percepción  | Criatura u objeto ocultos                     |
+| Perspicacia | Estado mental de una criatura                 |
 
 
 Supervivencia Huellas o alimentos 
@@ -233,7 +242,13 @@ Si arrastras, levantas o empujas un peso que supere el máximo que puedes cargar
 Capacidad de carga
 
 
-<table><tr><td>Tamaño de la criatura</td><td>Máximo</td><td>Arrastrar, levantar o empujar</td></tr><tr><td>Diminuto</td><td>Fue × 3,75 kg</td><td>Fue × 7,5 kg</td></tr><tr><td>Pequeño/Mediano</td><td>Fue × 7,5 kg</td><td>Fue × 15 kg</td></tr><tr><td>Grande</td><td>Fue × 15 kg</td><td>Fue × 30 kg</td></tr><tr><td>Enorme</td><td>Fue × 30 kg</td><td>Fue × 60 kg</td></tr><tr><td>Gargantuesco</td><td>Fue × 60 kg</td><td>Fue × 120 kg</td></tr></table>
+| Tamaño de la criatura | Máximo        | Arrastrar, levantar o empujar |
+|-----------------------|---------------|-------------------------------|
+| Diminuto              | Fue × 3,75 kg | Fue × 7,5 kg                  |
+| Pequeño/Mediano       | Fue × 7,5 kg  | Fue × 15 kg                   |
+| Grande                | Fue × 15 kg   | Fue × 30 kg                   |
+| Enorme                | Fue × 30 kg   | Fue × 60 kg                   |
+| Gargantuesco          | Fue × 60 kg   | Fue × 120 kg                  |
 
 ## Cegado [estado]
 
@@ -387,7 +402,11 @@ Las criaturas requieren cierta cantidad de agua al día en función de su tamañ
 Consumo de agua al día
 
 
-<table><tr><td>Tamaño</td><td>Agua</td><td>Tamaño</td><td>Agua</td></tr><tr><td>Diminuto</td><td>11</td><td>Grande</td><td>161</td></tr><tr><td>Pequeño</td><td>41</td><td>Enorme</td><td>641</td></tr><tr><td>Mediano</td><td>41</td><td>Gargantuesco</td><td>2561</td></tr></table>
+| Tamaño   | Agua | Tamaño       | Agua |
+|----------|-----:|--------------|-----:|
+| Diminuto |   11 | Grande       |  161 |
+| Pequeño  |   41 | Enorme       |  641 |
+| Mediano  |   41 | Gargantuesco | 2561 |
 
 ## Desnutrición [peligro]
 
@@ -399,7 +418,11 @@ El cansancio causado por la desnutrición no puede eliminarse hasta que la criat
 Consumo de alimentos al día
 
 
-<table><tr><td>Tamaño</td><td>Alimentos</td><td>Tamaño</td><td>Alimentos</td></tr><tr><td>Diminuto</td><td>125 g</td><td>Grande</td><td>2 kg</td></tr><tr><td>Pequeño</td><td>0,5 kg</td><td>Enorme</td><td>8 kg</td></tr><tr><td>Mediano</td><td>0,5 kg</td><td>Gargan-tuesco</td><td>32 kg</td></tr></table>
+| Tamaño   | Alimentos | Tamaño        | Alimentos |
+|----------|-----------|---------------|-----------|
+| Diminuto | 125 g     | Grande        | 2 kg      |
+| Pequeño  | 0,5 kg    | Enorme        | 8 kg      |
+| Mediano  | 0,5 kg    | Gargan-tuesco | 32 kg     |
 
 ## Destrabarse [acción]
 
@@ -487,7 +510,12 @@ Una criatura está estable si tiene 0 puntos de golpe pero no debe hacer tiradas
 
 Un estado es una situación temporal que experimenta una criatura en la partida. La definición de un estado indica cómo afecta a su destinatario y diversas reglas explican cómo poner fin a un estado. El glosario define los siguientes estados:
 
-<table><tr><td>Agarrado</td><td>Cegado</td><td>Incapacitado</td></tr><tr><td>Apresado</td><td>Derribado</td><td>Inconsciente</td></tr><tr><td>Asustado</td><td>Ensordecido</td><td>Invisible</td></tr><tr><td>Aturdido</td><td>Envenenado</td><td>Paralizado</td></tr><tr><td>Cansancio</td><td>Hechizado</td><td>Petrificado</td></tr></table>
+| Agarrado  | Cegado      | Incapacitado |
+|-----------|-------------|--------------|
+| Apresado  | Derribado   | Inconsciente |
+| Asustado  | Ensordecido | Invisible    |
+| Aturdido  | Envenenado  | Paralizado   |
+| Cansancio | Hechizado   | Petrificado  |
 
 Un estado no se acumula: el destinatario lo tiene o no lo tiene. El estado de cansancio es una excepción a esta regla.
 
@@ -501,7 +529,13 @@ La tabla “Áreas de conocimiento” sugiere qué habilidades se pueden aplicar
 Áreas de conocimiento
 
 
-<table><tr><td>Habilidad</td><td>Áreas</td></tr><tr><td>Conocimiento arcano</td><td>Conjuros, objetos mágicos, símbolos sobrenaturales, tradiciones mágicas, planos de existencia y determinadas criaturas (aberraciones, autómatas, elementales, feéricos y monstruosidades)</td></tr><tr><td>Historia</td><td>Acontecimientos y personajes históricos, civilizaciones antiguas, guerras y determinadas criaturas (gigantes y humanoides)</td></tr><tr><td>Investigación</td><td>Trampas, códigos, enigmas y artilugios</td></tr><tr><td>Naturaleza</td><td>Terreno, flora, clima y determinadas criaturas (bestias, cienos, dragones y plantas)</td></tr><tr><td>Religión</td><td>Deidades, jerarquías religiosas y ritos, símbolos sagrados, sectas y determinadas criaturas (celestiales, infernales y muertos vivientes)</td></tr></table>
+| Habilidad           | Áreas                                                                                                                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Conocimiento arcano | Conjuros, objetos mágicos, símbolos sobrenaturales, tradiciones mágicas, planos de existencia y determinadas criaturas (aberraciones, autómatas, elementales, feéricos y monstruosidades) |
+| Historia            | Acontecimientos y personajes históricos, civilizaciones antiguas, guerras y determinadas criaturas (gigantes y humanoides)                                                                |
+| Investigación       | Trampas, códigos, enigmas y artilugios                                                                                                                                                    |
+| Naturaleza          | Terreno, flora, clima y determinadas criaturas (bestias, cienos, dragones y plantas)                                                                                                      |
+| Religión            | Deidades, jerarquías religiosas y ritos, símbolos sagrados, sectas y determinadas criaturas (celestiales, infernales y muertos vivientes)                                                 |
 
 ## Fuego [peligro]
 
@@ -581,7 +615,13 @@ Indeciso. Si instas al monstruo a que haga algo sobre lo que siente dudas, deber
 Pruebas de influencia
 
 
-<table><tr><td>Prueba de característica</td><td>Interacción</td></tr><tr><td>Carisma (Engaño)</td><td>Engañar a un monstruo que te entienda.</td></tr><tr><td>Carisma (Interpretación)</td><td>Entretener a un monstruo.</td></tr><tr><td>Carisma (Intimidación)</td><td>Intimidar a un monstruo.</td></tr><tr><td>Carisma (Persuasión)</td><td>Persuadir a un monstruo que te entienda.</td></tr><tr><td>Sabiduría (Trato con animales)</td><td>Convencer poco a poco a una bestia o monstruosidad.</td></tr></table>
+| Prueba de característica | Interacción |
+|---|---|
+| Carisma (Engaño) | Engañar a un monstruo que te entienda. |
+| Carisma (Interpretación) | Entretener a un monstruo. |
+| Carisma (Intimidación) | Intimidar a un monstruo. |
+| Carisma (Persuasión) | Persuadir a un monstruo que te entienda. |
+| Sabiduría (Trato con animales) | Convencer poco a poco a una bestia o monstruosidad. |
 
 ## Iniciativa
 
@@ -849,7 +889,11 @@ Clase de armadura. La tabla “Clase de armadura de objetos” muestra las CA de
 Clase de armadura de objetos
 
 
-<table><tr><td>CA</td><td>Sustancia</td><td>CA</td><td>Sustancia</td></tr><tr><td>11</td><td>Tela, papel, cuerda</td><td>19</td><td>Hierro, acero</td></tr><tr><td>13</td><td>Cristal, vidrio, hielo</td><td>21</td><td>Mithral</td></tr><tr><td>15</td><td>Madera</td><td>23</td><td>Adamantina</td></tr></table>
+| CA | Sustancia              | CA | Sustancia     |
+|---:|------------------------|---:|---------------|
+| 11 | Tela, papel, cuerda    | 19 | Hierro, acero |
+| 13 | Cristal, vidrio, hielo | 21 | Mithral       |
+| 15 | Madera                 | 23 | Adamantina    |
 
 
 17 Piedra
@@ -861,7 +905,12 @@ Puntos de golpe. Un objeto se destruye cuando sus puntos de golpe se reducen a 0
 Puntos de golpe de objetos
 
 
-<table><tr><td>Tamaño</td><td>Frágil</td><td>Resistente</td></tr><tr><td>Diminuto (botella, cerradura)</td><td>2 (1d4)</td><td>5 (2d4)</td></tr><tr><td>Pequeño (cofre, laúd)</td><td>3 (1d6)</td><td>10 (3d6)</td></tr><tr><td>Mediano (barril, candelabro)</td><td>4 (1d8)</td><td>18 (4d8)</td></tr><tr><td>Grande (carreta, mesa de comedor)</td><td>5 (1d10)</td><td>27 (5d10)</td></tr></table>
+| Tamaño                            | Frágil   | Resistente |
+|-----------------------------------|----------|------------|
+| Diminuto (botella, cerradura)     | 2 (1d4)  | 5 (2d4)    |
+| Pequeño (cofre, laúd)             | 3 (1d6)  | 10 (3d6)   |
+| Mediano (barril, candelabro)      | 4 (1d8)  | 18 (4d8)   |
+| Grande (carreta, mesa de comedor) | 5 (1d10) | 27 (5d10)  |
 
 Tipos de daño y objetos. Los objetos tienen inmunidad al daño psíquico y de veneno. Cada GM puede decidir que determinados tipos de daño sean más o menos efectivos contra un objeto. Por ejemplo, el daño contundente sirve para destrozar cosas a golpes, pero no para cortar. Los objetos de papel o tela pueden ser vulnerables al daño de fuego.
 
@@ -949,7 +998,12 @@ Un espacio es terreno difícil si contiene algo de lo siguiente u otro elemento 
 
 Todas las criaturas, incluidos los personajes de los jugadores, tienen una etiqueta en las reglas que identifica su tipo de criatura. La mayoría de los personajes de los jugadores son de tipo humanoide. Estos son los tipos de criaturas del juego:
 
-<table><tr><td>Aberración</td><td>Dragón</td><td>Infernal</td></tr><tr><td>Autómata</td><td>Elemental</td><td>Monstruosidad</td></tr><tr><td>Bestia</td><td>Feérico</td><td>Muerto viviente</td></tr><tr><td>Celestial</td><td>Gigante</td><td>Planta</td></tr><tr><td>Cieno</td><td>Humanoide</td><td></td></tr></table>
+| Aberración | Dragón    | Infernal        |
+|------------|-----------|-----------------|
+| Autómata   | Elemental | Monstruosidad   |
+| Bestia     | Feérico   | Muerto viviente |
+| Celestial  | Gigante   | Planta          |
+| Cieno      | Humanoide |                 |
 
 Estos tipos no tienen reglas en sí mismos, pero hay reglas del juego que afectan de manera distinta a criaturas de ciertos tipos.
 
@@ -961,7 +1015,21 @@ Los ataques y otros efectos dañinos causan diferentes tipos de daño. Los tipos
 Tipos de daño
 
 
-<table><tr><td>Tipo</td><td>Ejemplos</td></tr><tr><td>Ácido</td><td>Enzimas digestivas, líquidos corrosivos</td></tr><tr><td>Contundente</td><td>Aplastamientos, caídas, objetos romos</td></tr><tr><td>Cortante</td><td>Garras, objetos cortantes</td></tr><tr><td>Frío</td><td>Agua gélida, ráfagas heladas</td></tr><tr><td>Fuego</td><td>Calor insoportable, llamas</td></tr><tr><td>Fuerza</td><td>Energía mágica pura</td></tr><tr><td>Necrótico</td><td>Energía que absorbe la vida</td></tr><tr><td>Perforante</td><td>Colmillos, objetos punzantes</td></tr><tr><td>Psíquico</td><td>Energía que desgarra la mente</td></tr><tr><td>Radiante</td><td>Energía sagrada, radiación abrasadora</td></tr><tr><td>Relámpago</td><td>Electricidad</td></tr><tr><td>Trueno</td><td>Sonido conmocionador</td></tr><tr><td>Veneno</td><td>Gas tóxico, veneno</td></tr></table>
+| Tipo        | Ejemplos                                |
+|-------------|-----------------------------------------|
+| Ácido       | Enzimas digestivas, líquidos corrosivos |
+| Contundente | Aplastamientos, caídas, objetos romos   |
+| Cortante    | Garras, objetos cortantes               |
+| Frío        | Agua gélida, ráfagas heladas            |
+| Fuego       | Calor insoportable, llamas              |
+| Fuerza      | Energía mágica pura                     |
+| Necrótico   | Energía que absorbe la vida             |
+| Perforante  | Colmillos, objetos punzantes            |
+| Psíquico    | Energía que desgarra la mente           |
+| Radiante    | Energía sagrada, radiación abrasadora   |
+| Relámpago   | Electricidad                            |
+| Trueno      | Sonido conmocionador                    |
+| Veneno      | Gas tóxico, veneno                      |
 
 ## Tirada de ataque
 

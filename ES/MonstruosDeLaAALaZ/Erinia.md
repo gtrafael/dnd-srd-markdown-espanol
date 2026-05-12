@@ -14,7 +14,14 @@ related_en: "[[Monsters/Erinyes|Erinyes (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>16</td><td>+3</td><td>+7</td><td>CON</td><td>18</td><td>+4</td><td>+8</td></tr><tr><td>INT</td><td>14</td><td>+2</td><td>+2</td><td>SAB</td><td>14</td><td>+2</td><td>+2</td><td>CAR</td><td>18</td><td>+4</td><td>+8</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 16 | +3 | +7 |
+| CON | 18 | +4 | +8 |
+| INT | 14 | +2 | +2 |
+| SAB | 14 | +2 | +2 |
+| CAR | 18 | +4 | +8 |
 
 **Habilidades:** Percepción +6, Persuasión +8
 

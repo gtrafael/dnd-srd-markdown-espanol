@@ -16,8 +16,14 @@ related_en: "[[Monsters/Death Dog|Death Dog (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>15</td><td>+2</td><td>+2</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>3</td><td>-4</td><td>-4</td><td>SAB</td><td>13</td><td>+1</td><td>+1</td><td>CAR</td><td>6</td><td>-2</td><td>-2</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 15 | +2 | +2 |
+| DES | 14 | +2 | +2 |
+| CON | 14 | +2 | +2 |
+| INT | 3 | -4 | -4 |
+| SAB | 13 | +1 | +1 |
+| CAR | 6 | -2 | -2 |
 **Habilidades:** Percepción +5, Sigilo +4
 
 **Inmunidades:** asustado, aturdido, cegado, ensordecido, hechizado, inconsciente

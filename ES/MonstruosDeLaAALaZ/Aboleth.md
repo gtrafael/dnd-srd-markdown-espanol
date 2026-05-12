@@ -14,7 +14,14 @@ related_en: "[[Monsters/Aboleth|Aboleth (EN)]]"
 
 **Velocidad:** 3 m, nadar 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>21</td><td>+5</td><td>+5</td><td>DES</td><td>9</td><td>-1</td><td>+3</td><td>CON</td><td>15</td><td>+2</td><td>+6</td></tr><tr><td>INT</td><td>18</td><td>+4</td><td>+8</td><td>SAB</td><td>15</td><td>+2</td><td>+6</td><td>CAR</td><td>18</td><td>+4</td><td>+4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 21 | +5 | +5 |
+| DES | 9 | -1 | +3 |
+| CON | 15 | +2 | +6 |
+| INT | 18 | +4 | +8 |
+| SAB | 15 | +2 | +6 |
+| CAR | 18 | +4 | +4 |
 
 **Habilidades:** Historia +12, Percepción +10
 

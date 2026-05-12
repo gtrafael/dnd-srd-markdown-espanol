@@ -16,7 +16,14 @@ related_en: "[[Monsters/Specter|Specter (EN)]]"
 
 **Velocidad:** 9 m, volar 15 m (levitar)
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>1</td><td>-5</td><td>-5</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>11</td><td>+0</td><td>+0</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>11</td><td>+0</td><td>+0</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 1 | -5 | -5 |
+| DES | 14 | +2 | +2 |
+| CON | 11 | +0 | +0 |
+| INT | 10 | +0 | +0 |
+| SAB | 10 | +0 | +0 |
+| CAR | 11 | +0 | +0 |
 
 **Resistencias:** ácido, contundente, cortante, frío, fuego, perforante, relámpago, trueno
 

@@ -14,7 +14,14 @@ related_en: "[[Animals/Giant Elk|Giant Elk (EN)]]"
 
 **Velocidad:** 18 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>19</td><td>+4</td><td>+6</td><td>DES</td><td>18</td><td>+4</td><td>+6</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>7</td><td>-2</td><td>-2</td><td>SAB</td><td>14</td><td>+2</td><td>+2</td><td>CAR</td><td>10</td><td>+0</td><td>+0</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 19 | +4 | +6 |
+| DES | 18 | +4 | +6 |
+| CON | 14 | +2 | +2 |
+| INT | 7 | -2 | -2 |
+| SAB | 14 | +2 | +2 |
+| CAR | 10 | +0 | +0 |
 
 **Habilidades:** Percepción +4
 

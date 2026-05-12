@@ -17,5 +17,25 @@ Ningún término obsoleto. El glosario contiene únicamente las definiciones de 
 
 Abreviaciones. Las abreviaciones que se indican a continuación aparecen en este glosario y en otras partes de las reglas. 
 
-<table><tr><td rowspan="2">BC</td><td rowspan="2">Bonificador por competencia</td><td>N</td><td>Neutral</td></tr><tr><td>NB</td><td>Neutral bueno</td></tr><tr><td>C</td><td>Concentración</td><td>NM</td><td>Neutral malvado</td></tr><tr><td>Car</td><td>Carisma</td><td>pc</td><td>Pieza(s) de cobre</td></tr><tr><td>CA</td><td>Clase de armadura</td><td>pe</td><td>Pieza(s) de electro</td></tr><tr><td>CB</td><td>Caótico bueno</td><td>pg</td><td>Punto(s) de golpe</td></tr><tr><td>CD</td><td>Clase de dificultad</td><td>PNJ</td><td>Personaje no jugador</td></tr><tr><td>CM</td><td>Caótico malvado</td><td></td><td></td></tr><tr><td>CN</td><td>Caótico neutral</td><td>po</td><td>Pieza(s) de oro</td></tr><tr><td>Con</td><td>Constitución</td><td>pp</td><td>Pieza(s) de plata</td></tr><tr><td>Des</td><td>Destreza</td><td>ppt</td><td>Pieza(s) de platino</td></tr><tr><td>Fue</td><td>Fuerza</td><td>PX</td><td>Punto(s) de experiencia</td></tr><tr><td>GM</td><td>Game Master</td><td></td><td></td></tr><tr><td>Int</td><td>Inteligencia</td><td>R</td><td>Ritual</td></tr><tr><td>LB</td><td>Legal bueno</td><td>S</td><td>Componente somático</td></tr><tr><td>LM</td><td>Legal malvado</td><td></td><td></td></tr><tr><td>LN</td><td>Legal neutral</td><td>Sab</td><td>Sabiduría</td></tr><tr><td>M</td><td>Componente material</td><td>V</td><td>Componente verbal</td></tr><tr><td></td><td></td><td>VD</td><td>Valor de desafío</td></tr></table>
+| Abreviatura | Significado                 | Abreviatura | Significado             |
+|-------------|-----------------------------|-------------|-------------------------|
+| BC          | Bonificador por competencia | N           | Neutral                 |
+|             |                             | NB          | Neutral bueno           |
+| C           | Concentración               | NM          | Neutral malvado         |
+| Car         | Carisma                     | pc          | Pieza(s) de cobre       |
+| CA          | Clase de armadura           | pe          | Pieza(s) de electro     |
+| CB          | Caótico bueno               | pg          | Punto(s) de golpe       |
+| CD          | Clase de dificultad         | PNJ         | Personaje no jugador    |
+| CM          | Caótico malvado             |             |                         |
+| CN          | Caótico neutral             | po          | Pieza(s) de oro         |
+| Con         | Constitución                | pp          | Pieza(s) de plata       |
+| Des         | Destreza                    | ppt         | Pieza(s) de platino     |
+| Fue         | Fuerza                      | PX          | Punto(s) de experiencia |
+| GM          | Game Master                 |             |                         |
+| Int         | Inteligencia                | R           | Ritual                  |
+| LB          | Legal bueno                 | S           | Componente somático     |
+| LM          | Legal malvado               |             |                         |
+| LN          | Legal neutral               | Sab         | Sabiduría               |
+| M           | Componente material         | V           | Componente verbal       |
+|             |                             | VD          | Valor de desafío        |
 

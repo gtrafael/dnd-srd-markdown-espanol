@@ -16,7 +16,14 @@ related_en: "[[Animals/Mastiff|Mastiff (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>13</td><td>+1</td><td>+1</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>12</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>3</td><td>-4</td><td>-4</td><td>SAB</td><td>12</td><td>+1</td><td>+3</td><td>CAR</td><td>7</td><td>-2</td><td>-2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 13 | +1 | +1 |
+| DES | 14 | +2 | +2 |
+| CON | 12 | +1 | +1 |
+| INT | 3 | -4 | -4 |
+| SAB | 12 | +1 | +3 |
+| CAR | 7 | -2 | -2 |
 
 **Habilidades:** Percepción +5
 

@@ -10,13 +10,42 @@ related_en: "[[Classes/Druid|Druid (EN)]]"
 Atributos básicos de druida
 
 
-<table><tr><td>Característica principal</td><td>Sabiduría</td></tr><tr><td>Dado de puntos de golpe</td><td>1d8 por nivel de druida</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Inteligencia y Sabiduría</td></tr><tr><td>Competencias en habilidades</td><td>Elige dos: Conocimiento arcano, Medicina, Naturaleza, Percepción, Perspicacia, Religión, Supervivencia o Trato con animales</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas</td></tr><tr><td>Competencias con herramientas</td><td>Útiles de herborista</td></tr><tr><td>Entrenamiento con armaduras</td><td>Armaduras ligeras y escudos</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) armadura de cuero, escudo, hoz, canalizador druídico (bastón), paquete de explorador, útiles de herborista y 9 po, o (B) 50 po</td></tr></table>
+| Característica principal | Sabiduría |
+|---|---|
+| Dado de puntos de golpe | 1d8 por nivel de druida |
+| Competencias en tiradas de salvación | Inteligencia y Sabiduría |
+| Competencias en habilidades | Elige dos: Conocimiento arcano, Medicina, Naturaleza, Percepción, Perspicacia, Religión, Supervivencia o Trato con animales |
+| Competencias con armas | Armas sencillas |
+| Competencias con herramientas | Útiles de herborista |
+| Entrenamiento con armaduras | Armaduras ligeras y escudos |
+| Equipo inicial | Elige A o B: (A) armadura de cuero, escudo, hoz, canalizador druídico (bastón), paquete de explorador, útiles de herborista y 9 po, o (B) 50 po |
 
 
 Rasgos de druida
 
 
-<table><tr><td rowspan="2">Nivel</td><td rowspan="2">Bonificador por competencia</td><td rowspan="2">Rasgos de clase</td><td rowspan="2">Forma salvaje</td><td rowspan="2">Trucos</td><td rowspan="2">Conjuros preparados</td><td colspan="9">—Espacios de conjuro por cada nivel de conjuro—</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1</td><td>+2</td><td>Druídico, Lanzamiento de conjuros, Orden primigenia</td><td>—</td><td>2</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>+2</td><td>Compañero salvaje, Forma salvaje</td><td>2</td><td>2</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>+2</td><td>Subclase de druida</td><td>2</td><td>2</td><td>6</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>+2</td><td>Mejora de característica</td><td>2</td><td>3</td><td>7</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>+3</td><td>Resurgimiento salvaje</td><td>2</td><td>3</td><td>9</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>+3</td><td>Rasgo de subclase</td><td>3</td><td>3</td><td>10</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>+3</td><td>Furia elemental</td><td>3</td><td>3</td><td>11</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>3</td><td>3</td><td>12</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>+4</td><td>—</td><td>3</td><td>3</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10</td><td>+4</td><td>Rasgo de subclase</td><td>3</td><td>4</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11</td><td>+4</td><td>—</td><td>3</td><td>4</td><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>3</td><td>4</td><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13</td><td>+5</td><td>—</td><td>3</td><td>4</td><td>17</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>14</td><td>+5</td><td>Rasgo de subclase</td><td>3</td><td>4</td><td>17</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>15</td><td>+5</td><td>Furia elemental mejorada</td><td>3</td><td>4</td><td>18</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>3</td><td>4</td><td>18</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>17</td><td>+6</td><td>—</td><td>4</td><td>4</td><td>19</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18</td><td>+6</td><td>Conjurar como bestia</td><td>4</td><td>4</td><td>20</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>4</td><td>4</td><td>21</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20</td><td>+6</td><td>Archidruida</td><td>4</td><td>4</td><td>22</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase | Forma salvaje | Trucos | Conjuros preparados | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---:|---:|---|---|---:|---:|---:|---|---|---|---|---|---|---|---|
+| 1 | +2 | Druídico, Lanzamiento de conjuros, Orden primigenia | — | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
+| 2 | +2 | Compañero salvaje, Forma salvaje | 2 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
+| 3 | +2 | Subclase de druida | 2 | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
+| 4 | +2 | Mejora de característica | 2 | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
+| 5 | +3 | Resurgimiento salvaje | 2 | 3 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6 | +3 | Rasgo de subclase | 3 | 3 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7 | +3 | Furia elemental | 3 | 3 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8 | +3 | Mejora de característica | 3 | 3 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9 | +4 | — | 3 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10 | +4 | Rasgo de subclase | 3 | 4 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11 | +4 | — | 3 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12 | +4 | Mejora de característica | 3 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13 | +5 | — | 3 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14 | +5 | Rasgo de subclase | 3 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15 | +5 | Furia elemental mejorada | 3 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16 | +5 | Mejora de característica | 3 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17 | +6 | — | 4 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | Conjurar como bestia | 4 | 4 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Don épico | 4 | 4 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Archidruida | 4 | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ## Convertirse en druida
 
@@ -100,7 +129,11 @@ Al escoger las formas conocidas, puedes consultar otras fuentes para buscar más
 Formas de bestia
 
 
-<table><tr><td>Nivel de druida</td><td>Formas conocidas</td><td>VD máx.</td><td>Velocidad volando</td></tr><tr><td>2</td><td>4</td><td>1/4</td><td>No</td></tr><tr><td>4</td><td>6</td><td>1/2</td><td>No</td></tr><tr><td>8</td><td>8</td><td>1</td><td>Sí</td></tr></table>
+| Nivel de druida | Formas conocidas | VD máx. | Velocidad volando |
+|---:|---:|---|---|
+| 2 | 4 | 1/4 | No |
+| 4 | 6 | 1/2 | No |
+| 8 | 8 | 1 | Sí |
 
 Reglas con forma de bestia. Mientras tengas la forma de una bestia, conservas tu personalidad, recuerdos y capacidad de hablar, y se aplican las siguientes normas: 
 
@@ -170,63 +203,198 @@ Esta sección presenta la lista de conjuros de druida. Los conjuros se organizan
 Trucos (conjuros de druida de nivel 0)
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Crear llama</td><td>Conjuración</td><td>—</td></tr><tr><td>Elementalismo</td><td>Transmutación</td><td>—</td></tr><tr><td>Guía</td><td>Adivinación</td><td>C</td></tr><tr><td>Mensaje</td><td>Transmutación</td><td>—</td></tr><tr><td>Piedad con los moribundos</td><td>Nigromancia</td><td>—</td></tr><tr><td>Reparar</td><td>Transmutación</td><td>—</td></tr><tr><td>Resistencia</td><td>Abjuración</td><td>C</td></tr><tr><td>Rociada venenosa</td><td>Nigromancia</td><td>—</td></tr><tr><td>Saber druídico</td><td>Transmutación</td><td>—</td></tr><tr><td>Shillelagh</td><td>Transmutación</td><td>—</td></tr><tr><td>Voluta estelar</td><td>Evocación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Crear llama | Conjuración | — |
+| Elementalismo | Transmutación | — |
+| Guía | Adivinación | C |
+| Mensaje | Transmutación | — |
+| Piedad con los moribundos | Nigromancia | — |
+| Reparar | Transmutación | — |
+| Resistencia | Abjuración | C |
+| Rociada venenosa | Nigromancia | — |
+| Saber druídico | Transmutación | — |
+| Shillelagh | Transmutación | — |
+| Voluta estelar | Evocación | — |
 
 
 Conjuros de druida de nivel 1
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Buenas bayas</td><td>Conjuración</td><td>—</td></tr><tr><td>Crear o destruir agua</td><td>Transmutación</td><td>—</td></tr><tr><td>Cuchillo de hielo</td><td>Conjuración</td><td>—</td></tr><tr><td>Curar heridas</td><td>Abjuración</td><td>—</td></tr><tr><td>Detectar magia</td><td>Adivinación</td><td>C, R</td></tr><tr><td>Detectar venenos y enfermedades</td><td>Adivinación</td><td>C, R</td></tr><tr><td>Encantar animal</td><td>Encantamiento</td><td>—</td></tr><tr><td>Enmarañar</td><td>Conjuración</td><td>C</td></tr><tr><td>Fuego feérico</td><td>Evocación</td><td>C</td></tr><tr><td>Hablar con los animales</td><td>Adivinación</td><td>R</td></tr><tr><td>Hechizar persona</td><td>Encantamiento</td><td>—</td></tr><tr><td>Nube de oscurecimiento</td><td>Conjuración</td><td>C</td></tr><tr><td>Ola atronadora</td><td>Evocación</td><td>—</td></tr><tr><td>Palabra de curación</td><td>Abjuración</td><td>—</td></tr><tr><td>Protección contra el bien y el mal</td><td>Abjuración</td><td>C, M</td></tr><tr><td>Purificar comida y bebida</td><td>Transmutación</td><td>R</td></tr><tr><td>Salto</td><td>Transmutación</td><td>—</td></tr><tr><td>Zancada prodigiosa</td><td>Transmutación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Buenas bayas | Conjuración | — |
+| Crear o destruir agua | Transmutación | — |
+| Cuchillo de hielo | Conjuración | — |
+| Curar heridas | Abjuración | — |
+| Detectar magia | Adivinación | C, R |
+| Detectar venenos y enfermedades | Adivinación | C, R |
+| Encantar animal | Encantamiento | — |
+| Enmarañar | Conjuración | C |
+| Fuego feérico | Evocación | C |
+| Hablar con los animales | Adivinación | R |
+| Hechizar persona | Encantamiento | — |
+| Nube de oscurecimiento | Conjuración | C |
+| Ola atronadora | Evocación | — |
+| Palabra de curación | Abjuración | — |
+| Protección contra el bien y el mal | Abjuración | C, M |
+| Purificar comida y bebida | Transmutación | R |
+| Salto | Transmutación | — |
+| Zancada prodigiosa | Transmutación | — |
 
 
 Conjuros de druida de nivel 2
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Agrandar/reducir</td><td>Transmutación</td><td>C</td></tr><tr><td>Augurio</td><td>Adivinación</td><td>R, M</td></tr><tr><td>Auxilio</td><td>Abjuración</td><td>—</td></tr><tr><td>Calentar metal</td><td>Transmutación</td><td>C</td></tr><tr><td>Crecimiento espinoso</td><td>Transmutación</td><td>C</td></tr><tr><td>Detectar trampas</td><td>Adivinación</td><td>—</td></tr><tr><td>Esfera de llamas</td><td>Evocación</td><td>C</td></tr><tr><td>Hoja de fuego</td><td>Evocación</td><td>C</td></tr><tr><td>Inmovilizar persona</td><td>Encantamiento</td><td>C</td></tr><tr><td>Llama permanente</td><td>Evocación</td><td>M</td></tr><tr><td>Localizar animales o plantas</td><td>Adivinación</td><td>R</td></tr><tr><td>Localizar objeto</td><td>Adivinación</td><td>C</td></tr><tr><td>Mensajero animal</td><td>Encantamiento</td><td>R</td></tr><tr><td>Pasar sin rastro</td><td>Abjuración</td><td>C</td></tr><tr><td>Piel robliza</td><td>Transmutación</td><td>—</td></tr><tr><td>Potenciar característica</td><td>Transmutación</td><td>C</td></tr><tr><td>Protección contra veneno</td><td>Abjuración</td><td>—</td></tr><tr><td>Ráfaga de viento</td><td>Evocación</td><td>C</td></tr><tr><td>Rayo de luna</td><td>Evocación</td><td>C</td></tr><tr><td>Restablecimiento menor</td><td>Abjuración</td><td>—</td></tr><tr><td>Visión en la oscuridad</td><td>Transmutación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Agrandar/reducir | Transmutación | C |
+| Augurio | Adivinación | R, M |
+| Auxilio | Abjuración | — |
+| Calentar metal | Transmutación | C |
+| Crecimiento espinoso | Transmutación | C |
+| Detectar trampas | Adivinación | — |
+| Esfera de llamas | Evocación | C |
+| Hoja de fuego | Evocación | C |
+| Inmovilizar persona | Encantamiento | C |
+| Llama permanente | Evocación | M |
+| Localizar animales o plantas | Adivinación | R |
+| Localizar objeto | Adivinación | C |
+| Mensajero animal | Encantamiento | R |
+| Pasar sin rastro | Abjuración | C |
+| Piel robliza | Transmutación | — |
+| Potenciar característica | Transmutación | C |
+| Protección contra veneno | Abjuración | — |
+| Ráfaga de viento | Evocación | C |
+| Rayo de luna | Evocación | C |
+| Restablecimiento menor | Abjuración | — |
+| Visión en la oscuridad | Transmutación | — |
 
 
 Conjuros de druida de nivel 3
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Caminar sobre el agua</td><td>Transmutación</td><td>R</td></tr><tr><td>Conjurar animales</td><td>Conjuración</td><td>C</td></tr><tr><td>Crecimiento vegetal</td><td>Transmutación</td><td>—</td></tr><tr><td>Disipar magia</td><td>Abjuración</td><td>—</td></tr><tr><td>Fundirse con la piedra</td><td>Transmutación</td><td>R</td></tr><tr><td>Hablar con las plantas</td><td>Transmutación</td><td>—</td></tr><tr><td>Llamar al relámpago</td><td>Conjuración</td><td>C</td></tr><tr><td>Luz del día</td><td>Evocación</td><td>—</td></tr><tr><td>Muro de viento</td><td>Evocación</td><td>C</td></tr><tr><td>Protección contra energía</td><td>Abjuración</td><td>C</td></tr><tr><td>Respirar bajo el agua</td><td>Transmutación</td><td>R</td></tr><tr><td>Revivir</td><td>Nigromancia</td><td>M</td></tr><tr><td>Tormenta de aguanieve</td><td>Conjuración</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Caminar sobre el agua | Transmutación | R |
+| Conjurar animales | Conjuración | C |
+| Crecimiento vegetal | Transmutación | — |
+| Disipar magia | Abjuración | — |
+| Fundirse con la piedra | Transmutación | R |
+| Hablar con las plantas | Transmutación | — |
+| Llamar al relámpago | Conjuración | C |
+| Luz del día | Evocación | — |
+| Muro de viento | Evocación | C |
+| Protección contra energía | Abjuración | C |
+| Respirar bajo el agua | Transmutación | R |
+| Revivir | Nigromancia | M |
+| Tormenta de aguanieve | Conjuración | C |
 
 
 Conjuros de druida de nivel 4
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Adivinación</td><td>Adivinación</td><td>R, M</td></tr><tr><td>Confusión</td><td>Encantamiento</td><td>C</td></tr><tr><td>Conjurar elementales menores</td><td>Conjuración</td><td>C</td></tr><tr><td>Conjurar seres del bosque</td><td>Conjuración</td><td>C</td></tr><tr><td>Controlar agua</td><td>Transmutación</td><td>C</td></tr><tr><td>Dominar bestia</td><td>Encantamiento</td><td>C</td></tr><tr><td>Escudo de fuego</td><td>Evocación</td><td>—</td></tr><tr><td>Hechizar monstruo</td><td>Encantamiento</td><td>—</td></tr><tr><td>Insecto gigante</td><td>Conjuración</td><td>C</td></tr><tr><td>Libertad de movimiento</td><td>Abjuración</td><td>—</td></tr><tr><td>Localizar criatura</td><td>Adivinación</td><td>C</td></tr><tr><td>Marchitar</td><td>Nigromancia</td><td>—</td></tr><tr><td>Moldear la piedra</td><td>Transmutación</td><td>—</td></tr><tr><td>Muro de fuego</td><td>Evocación</td><td>C</td></tr><tr><td>Piel pétrea</td><td>Transmutación</td><td>C, M</td></tr><tr><td>Polimorfar</td><td>Transmutación</td><td>C</td></tr><tr><td>Terreno alucinatorio</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Tormenta de hielo</td><td>Evocación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Adivinación | Adivinación | R, M |
+| Confusión | Encantamiento | C |
+| Conjurar elementales menores | Conjuración | C |
+| Conjurar seres del bosque | Conjuración | C |
+| Controlar agua | Transmutación | C |
+| Dominar bestia | Encantamiento | C |
+| Escudo de fuego | Evocación | — |
+| Hechizar monstruo | Encantamiento | — |
+| Insecto gigante | Conjuración | C |
+| Libertad de movimiento | Abjuración | — |
+| Localizar criatura | Adivinación | C |
+| Marchitar | Nigromancia | — |
+| Moldear la piedra | Transmutación | — |
+| Muro de fuego | Evocación | C |
+| Piel pétrea | Transmutación | C, M |
+| Polimorfar | Transmutación | C |
+| Terreno alucinatorio | Ilusionismo | — |
+| Tormenta de hielo | Evocación | — |
 
 
 Conjuros de druida de nivel 5
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Atadura planar</td><td>Abjuración</td><td>M</td></tr><tr><td>Caparazón antivida</td><td>Abjuración</td><td>C</td></tr><tr><td>Comunión con la naturaleza</td><td>Adivinación</td><td>R</td></tr><tr><td>Conjurar elemental</td><td>Conjuración</td><td>C</td></tr><tr><td>Cono de frío</td><td>Evocación</td><td>—</td></tr><tr><td>Contagio</td><td>Nigromancia</td><td>—</td></tr><tr><td>Curar heridas en masa</td><td>Abjuración</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Atadura planar | Abjuración | M |
+| Caparazón antivida | Abjuración | C |
+| Comunión con la naturaleza | Adivinación | R |
+| Conjurar elemental | Conjuración | C |
+| Cono de frío | Evocación | — |
+| Contagio | Nigromancia | — |
+| Curar heridas en masa | Abjuración | — |
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Despertar</td><td>Transmutación</td><td>M</td></tr><tr><td>Escudriñar</td><td>Adivinación</td><td>C, M</td></tr><tr><td>Geas</td><td>Encantamiento</td><td>—</td></tr><tr><td>Muro de piedra</td><td>Evocación</td><td>C</td></tr><tr><td>Paso arbóreo</td><td>Conjuración</td><td>C</td></tr><tr><td>Plaga de insectos</td><td>Conjuración</td><td>C</td></tr><tr><td>Reencarnar</td><td>Nigromancia</td><td>M</td></tr><tr><td>Restablecimiento mayor</td><td>Abjuración</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Despertar | Transmutación | M |
+| Escudriñar | Adivinación | C, M |
+| Geas | Encantamiento | — |
+| Muro de piedra | Evocación | C |
+| Paso arbóreo | Conjuración | C |
+| Plaga de insectos | Conjuración | C |
+| Reencarnar | Nigromancia | M |
+| Restablecimiento mayor | Abjuración | M |
 
 
 Conjuros de druida de nivel 6
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Conjurar feérico</td><td>Conjuración</td><td>C</td></tr><tr><td>Curar</td><td>Abjuración</td><td>—</td></tr><tr><td>De la carne a la piedra</td><td>Transmutación</td><td>C</td></tr><tr><td>Encontrar el camino</td><td>Adivinación</td><td>C, M</td></tr><tr><td>Festín de héroes</td><td>Conjuración</td><td>M</td></tr><tr><td>Mover la tierra</td><td>Transmutación</td><td>C</td></tr><tr><td>Muro de espinas</td><td>Conjuración</td><td>C</td></tr><tr><td>Rayo solar</td><td>Evocación</td><td>C</td></tr><tr><td>Viajar con el viento</td><td>Transmutación</td><td>—</td></tr><tr><td>Viajar mediante plantas</td><td>Conjuración</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Conjurar feérico | Conjuración | C |
+| Curar | Abjuración | — |
+| De la carne a la piedra | Transmutación | C |
+| Encontrar el camino | Adivinación | C, M |
+| Festín de héroes | Conjuración | M |
+| Mover la tierra | Transmutación | C |
+| Muro de espinas | Conjuración | C |
+| Rayo solar | Evocación | C |
+| Viajar con el viento | Transmutación | — |
+| Viajar mediante plantas | Conjuración | — |
 
 
 Conjuros de druida de nivel 7
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Desplazamiento entre planos</td><td>Conjuración</td><td>M</td></tr><tr><td>Espejismo arcano</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Invertir la gravedad</td><td>Transmutación</td><td>C</td></tr><tr><td>Regenerar</td><td>Transmutación</td><td>—</td></tr><tr><td>Símbolo</td><td>Abjuración</td><td>M</td></tr><tr><td>Tormenta de fuego</td><td>Evocación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Desplazamiento entre planos | Conjuración | M |
+| Espejismo arcano | Ilusionismo | — |
+| Invertir la gravedad | Transmutación | C |
+| Regenerar | Transmutación | — |
+| Símbolo | Abjuración | M |
+| Tormenta de fuego | Evocación | — |
 
 
 Conjuros de druida de nivel 8
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Antipatía/simpatía</td><td>Encantamiento</td><td>—</td></tr><tr><td>Aspectos animales</td><td>Transmutación</td><td>—</td></tr><tr><td>Controlar el clima</td><td>Transmutación</td><td>C</td></tr><tr><td>Explosión solar</td><td>Evocación</td><td>—</td></tr><tr><td>Nube incendiaria</td><td>Conjuración</td><td>C</td></tr><tr><td>Ofuscación</td><td>Encantamiento</td><td>—</td></tr><tr><td>Terremoto</td><td>Transmutación</td><td>C</td></tr><tr><td>Tsunami</td><td>Conjuración</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Antipatía/simpatía | Encantamiento | — |
+| Aspectos animales | Transmutación | — |
+| Controlar el clima | Transmutación | C |
+| Explosión solar | Evocación | — |
+| Nube incendiaria | Conjuración | C |
+| Ofuscación | Encantamiento | — |
+| Terremoto | Transmutación | C |
+| Tsunami | Conjuración | C |
 
 
 Conjuros de druida de nivel 9
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Cambiar de forma</td><td>Transmutación</td><td>C, M</td></tr><tr><td>Presciencia</td><td>Adivinación</td><td>—</td></tr><tr><td>Resurrección verdadera</td><td>Nigromancia</td><td>M</td></tr><tr><td>Tormenta de la venganza</td><td>Conjuración</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Cambiar de forma | Transmutación | C, M |
+| Presciencia | Adivinación | — |
+| Resurrección verdadera | Nigromancia | M |
+| Tormenta de la venganza | Conjuración | C |
 
 ## Subclase de druida: Círculo de la tierra
 
@@ -248,25 +416,45 @@ Tras finalizar un descanso largo, elige un tipo de terreno: árido, polar, templ
 Terreno árido
 
 
-<table><tr><td>Nivel de druida</td><td>Conjuros de círculo</td></tr><tr><td>3</td><td>Contorno borroso, descarga de fuego, manos ardientes</td></tr><tr><td>5</td><td>Bola de fuego</td></tr><tr><td>7</td><td>Marchitar</td></tr><tr><td>9</td><td>Muro de piedra</td></tr></table>
+| Nivel de druida | Conjuros de círculo |
+|---:|---|
+| 3 | Contorno borroso, descarga de fuego, manos ardientes |
+| 5 | Bola de fuego |
+| 7 | Marchitar |
+| 9 | Muro de piedra |
 
 
 Terreno polar
 
 
-<table><tr><td>Nivel de druida</td><td>Conjuros de círculo</td></tr><tr><td>3</td><td>Inmovilizar persona, nube de oscurecimiento, rayo de escarcha</td></tr><tr><td>5</td><td>Tormenta de aguanieve</td></tr><tr><td>7</td><td>Tormenta de hielo</td></tr><tr><td>9</td><td>Cono de frío</td></tr></table>
+| Nivel de druida | Conjuros de círculo |
+|---:|---|
+| 3 | Inmovilizar persona, nube de oscurecimiento, rayo de escarcha |
+| 5 | Tormenta de aguanieve |
+| 7 | Tormenta de hielo |
+| 9 | Cono de frío |
 
 
 Terreno templado
 
 
-<table><tr><td>Nivel de druida</td><td>Conjuros de círculo</td></tr><tr><td>3</td><td>Agarre electrizante, dormir, paso brumoso</td></tr><tr><td>5</td><td>Relámpago</td></tr><tr><td>7</td><td>Libertad de movimiento</td></tr><tr><td>9</td><td>Paso arbóreo</td></tr></table>
+| Nivel de druida | Conjuros de círculo |
+|---:|---|
+| 3 | Agarre electrizante, dormir, paso brumoso |
+| 5 | Relámpago |
+| 7 | Libertad de movimiento |
+| 9 | Paso arbóreo |
 
 
 Terreno tropical
 
 
-<table><tr><td>Nivel de druida</td><td>Conjuros de círculo</td></tr><tr><td>3</td><td>Rayo nauseabundo, salpicadura ácida, telaraña</td></tr><tr><td>5</td><td>Nube apestosa</td></tr><tr><td>7</td><td>Polimorfar</td></tr><tr><td>9</td><td>Plaga de insectos</td></tr></table>
+| Nivel de druida | Conjuros de círculo |
+|---:|---|
+| 3 | Rayo nauseabundo, salpicadura ácida, telaraña |
+| 5 | Nube apestosa |
+| 7 | Polimorfar |
+| 9 | Plaga de insectos |
 
 ### Nivel 6: Recuperación natural
 
@@ -282,7 +470,10 @@ Eres inmune al estado de envenenado y tienes resistencia a un tipo de daño asoc
 Protección de la naturaleza
 
 
-<table><tr><td>Tipo de terreno</td><td>Resistencia</td><td>Tipo de terreno</td><td>Resistencia</td></tr><tr><td>Árido</td><td>Fuego</td><td>Templado</td><td>Relámpago</td></tr><tr><td>Polar</td><td>Frío</td><td>Tropical</td><td>Veneno</td></tr></table>
+| Tipo de terreno | Resistencia | Tipo de terreno | Resistencia |
+|---|---|---|---|
+| Árido | Fuego | Templado | Relámpago |
+| Polar | Frío | Tropical | Veneno |
 
 ### Nivel 14: Santuario de la naturaleza
 

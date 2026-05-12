@@ -16,7 +16,14 @@ related_en: "[[Monsters/Spirit Naga|Spirit Naga (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>17</td><td>+3</td><td>+6</td><td>CON</td><td>14</td><td>+2</td><td>+5</td></tr><tr><td>INT</td><td>16</td><td>+3</td><td>+3</td><td>SAB</td><td>15</td><td>+2</td><td>+5</td><td>CAR</td><td>16</td><td>+3</td><td>+6</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 17 | +3 | +6 |
+| CON | 14 | +2 | +5 |
+| INT | 16 | +3 | +3 |
+| SAB | 15 | +2 | +5 |
+| CAR | 16 | +3 | +6 |
 
 **Inmunidades:** veneno; envenenado, hechizado
 

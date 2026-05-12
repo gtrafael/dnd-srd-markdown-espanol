@@ -12,5 +12,13 @@ Esta munición mágica está pensada para matar criaturas de un tipo concreto, q
 
 En cuanto inflige daño adicional a una criatura, la munición se vuelve no mágica.
 
-<table><tr><td>1d100</td><td>Tipo de criatura</td><td>1d100</td><td>Tipo de criatura</td></tr><tr><td>01–10</td><td>Aberraciones</td><td>51–60</td><td>Feéricos</td></tr><tr><td>11–15</td><td>Autómatas</td><td>61–65</td><td>Gigantes</td></tr><tr><td>16–20</td><td>Bestias</td><td>66–70</td><td>Humanoides</td></tr><tr><td>21–25</td><td>Celestiales</td><td>71–80</td><td>Infernales</td></tr><tr><td>26–30</td><td>Cienos</td><td>81–85</td><td>Monstruosidades</td></tr><tr><td>31–40</td><td>Dragones</td><td>86–95</td><td>Muertos vivientes</td></tr><tr><td>41–50</td><td>Elementales</td><td>96–00</td><td>Plantas</td></tr></table>
+| 1d100 | Tipo de criatura | 1d100 | Tipo de criatura |
+|---|---|---|---|
+| 01–10 | Aberraciones | 51–60 | Feéricos |
+| 11–15 | Autómatas | 61–65 | Gigantes |
+| 16–20 | Bestias | 66–70 | Humanoides |
+| 21–25 | Celestiales | 71–80 | Infernales |
+| 26–30 | Cienos | 81–85 | Monstruosidades |
+| 31–40 | Dragones | 86–95 | Muertos vivientes |
+| 41–50 | Elementales | 96–00 | Plantas |
 

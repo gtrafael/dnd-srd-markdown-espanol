@@ -16,7 +16,14 @@ related_en: "[[Monsters/Iron Golem|Iron Golem (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>24</td><td>+7</td><td>+7</td><td>DES</td><td>9</td><td>-1</td><td>-1</td><td colspan="2">CON20</td><td>+5</td><td>+5</td></tr><tr><td>INT</td><td>3</td><td>-4</td><td>-4</td><td>SAB</td><td>11</td><td>+0</td><td>+0</td><td>CAR</td><td>1</td><td>-5</td><td>-5</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |    24 |  +7 |   +7 |
+| DES   |     9 |  -1 |   -1 |
+| CON   |    20 |  +5 |   +5 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     1 |  -5 |   -5 |
 
 **Inmunidades:** fuego, psíquico, veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado
 

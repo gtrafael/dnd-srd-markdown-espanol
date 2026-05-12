@@ -14,7 +14,14 @@ related_en: "[[Monsters/Dragon Turtle|Dragon Turtle (EN)]]"
 
 **Velocidad:** 6 m, nadar 15 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>25</td><td>+7</td><td>+7</td><td>DES</td><td>10</td><td>+0</td><td>+0</td><td>CON</td><td>20</td><td>+5</td><td>+11</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>12</td><td>+1</td><td>+7</td><td>CAR</td><td>12</td><td>+1</td><td>+1</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 25 | +7 | +7 |
+| DES | 10 | +0 | +0 |
+| CON | 20 | +5 | +11 |
+| INT | 10 | +0 | +0 |
+| SAB | 12 | +1 | +7 |
+| CAR | 12 | +1 | +1 |
 
 **Resistencias:** fuego
 

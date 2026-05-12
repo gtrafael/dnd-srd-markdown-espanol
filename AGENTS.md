@@ -110,13 +110,13 @@ Markdown `[text](url)` links are only for external URLs.
 
 | Feature | EN | ES |
 |---|---|---|
-| Tables | Markdown pipe tables | HTML `<table>` tags |
+| Tables | Markdown pipe tables | Markdown pipe tables |
 | Distances | Feet (ft) | Meters (m), 1 square = 1.5 m |
 | Units | Imperial | Metric |
 | Monster docs | Rules embedded in each file | Separate rules doc (`Monstruos/Monstruos.md`) + individual stat blocks |
 | Cross-reference links | Via frontmatter `related_es` | Via frontmatter `related_en` |
 
-ES files use HTML tables intentionally — this is the format from the official Spanish PDF and should be preserved.
+ES files use Markdown pipe tables. The original HTML tables from the Spanish PDF were converted using `scripts/convertir_tablas.py`.
 
 ### Consolidated (Alt) directories
 
@@ -135,7 +135,7 @@ When making bulk changes, update both the individual file and its corresponding 
 1. **Every ES file must have**: `aliases`, `tags`, `related_en` in frontmatter
 2. **Every EN file must have**: `aliases`, `tags`, `related_es` in frontmatter  
 3. **Wikilinks must match filenames exactly** — Obsidian treats `[[file]]` as case-insensitive but the path must resolve
-4. **Keep HTML tables in ES files** — don't convert them to Markdown tables
+4. **Use Markdown pipe tables in all files** — HTML tables were converted in May 2026
 5. **Keep Imperial in EN, Metric in ES** — don't convert units across languages
 6. **No emojis** anywhere unless the user explicitly requests them
 7. **No comments** in Markdown files — the frontmatter is self-documenting
@@ -177,7 +177,7 @@ For rules lookup, check the glossary first (`ES/GlosarioDeReglas/` or `EN/Rules 
 
 ## Things to never do
 
-- **Don't convert HTML tables to Markdown** in ES files
+- **Don't add HTML tables back** — all tables are now Markdown pipe format. Use `scripts/convertir_tablas.py` if you need to process new HTML tables
 - **Don't convert Metric to Imperial** in ES files (or vice versa)
 - **Don't remove frontmatter** from any file
 - **Don't replace wikilinks with Markdown links** for internal references

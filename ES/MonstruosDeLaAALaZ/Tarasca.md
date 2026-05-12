@@ -16,7 +16,14 @@ related_en: "[[Monsters/Tarrasque|Tarrasque (EN)]]"
 
 **Velocidad:** 18 m, excavar 12 m, trepar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>30</td><td>+10</td><td>+10</td><td>DES</td><td>II</td><td>+0</td><td>+9</td><td>CON</td><td>30</td></tr><tr><td>INT</td><td>3</td><td>-4</td><td>+5</td><td>SAB</td><td>II</td><td>+0</td><td>+9</td><td>CAR</td><td>II</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |    30 | +10 |  +10 |
+| DES   |    11 |  +0 |   +9 |
+| CON   |    30 | +10 |  +10 |
+| INT   |     3 |  -4 |   +5 |
+| SAB   |    11 |  +0 |   +9 |
+| CAR   |    11 |  +0 |   +9 |
 
 **Habilidades:** Percepción +9
 

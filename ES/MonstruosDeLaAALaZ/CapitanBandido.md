@@ -16,7 +16,14 @@ related_en: "[[Monsters/Bandit Captain|Bandit Captain (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>15</td><td>+2</td><td>+4</td><td>DES</td><td>16</td><td>+3</td><td>+5</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>14</td><td>+2</td><td>+2</td><td>SAB</td><td>11</td><td>+0</td><td>+2</td><td>CAR</td><td>14</td><td>+2</td><td>+2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 15 | +2 | +4 |
+| DES | 16 | +3 | +5 |
+| CON | 14 | +2 | +2 |
+| INT | 14 | +2 | +2 |
+| SAB | 11 | +0 | +2 |
+| CAR | 14 | +2 | +2 |
 
 **Habilidades:** Atletismo +4, Engaño +4
 

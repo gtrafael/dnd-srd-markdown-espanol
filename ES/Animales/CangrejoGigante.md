@@ -16,7 +16,14 @@ related_en: "[[Animals/Giant Crab|Giant Crab (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>13</td><td>+1</td><td>+1</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>11</td><td>+0</td><td>+0</td></tr><tr><td>INT</td><td>1</td><td>-5</td><td>-5</td><td>SAB</td><td>9</td><td>-1</td><td>-1</td><td>CAR</td><td>3</td><td>-4</td><td>-4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 13 | +1 | +1 |
+| DES | 13 | +1 | +1 |
+| CON | 11 | +0 | +0 |
+| INT | 1 | -5 | -5 |
+| SAB | 9 | -1 | -1 |
+| CAR | 3 | -4 | -4 |
 
 **Habilidades:** Sigilo +3
 

@@ -20,5 +20,10 @@ Susurras una palabra imbuida con el poder de los Planos Superiores. Todas las cr
 
 **Efectos de palabra divina**
 
-<table><tr><td>Puntos de golpe</td><td>Efecto</td></tr><tr><td>0–20</td><td>El objetivo muere.</td></tr><tr><td>21–30</td><td>El objetivo tiene los estados de aturdido, cegado y ensordecido durante 1 hora.</td></tr><tr><td>31–40</td><td>El objetivo tiene los estados de cegado y ensordecido durante 10 minutos.</td></tr><tr><td>41–50</td><td>El objetivo tiene el estado de ensordecido durante 1 minuto.</td></tr></table>
+| Puntos de golpe | Efecto                                                                          |
+|-----------------|---------------------------------------------------------------------------------|
+| 0–20            | El objetivo muere.                                                              |
+| 21–30           | El objetivo tiene los estados de aturdido, cegado y ensordecido durante 1 hora. |
+| 31–40           | El objetivo tiene los estados de cegado y ensordecido durante 10 minutos.       |
+| 41–50           | El objetivo tiene el estado de ensordecido durante 1 minuto.                    |
 

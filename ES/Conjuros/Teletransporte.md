@@ -23,7 +23,14 @@ Debes conocer el destino que elijas y también debe estar en el mismo plano de e
 
 Resultado del teletransporte
 
-<table><tr><td>Familiaridad</td><td>Percance</td><td>Área similar</td><td>Lejos del objetivo</td><td>En el objetivo</td></tr><tr><td>Círculo permanente</td><td>—</td><td>—</td><td>—</td><td>01–00</td></tr><tr><td>Objeto vinculado</td><td>—</td><td>—</td><td>—</td><td>01–00</td></tr><tr><td>Muy familiar</td><td>01–05</td><td>06–13</td><td>14–24</td><td>25–00</td></tr><tr><td>Visto esporá-dicamente</td><td>01–33</td><td>34–43</td><td>44–53</td><td>54–00</td></tr><tr><td>Visto una vez o descrito</td><td>01–43</td><td>44–53</td><td>54–73</td><td>74–00</td></tr><tr><td>Destino falso</td><td>01–50</td><td>51–00</td><td>—</td><td>—</td></tr></table>
+| Familiaridad             | Percance | Área similar | Lejos del objetivo | En el objetivo |
+|--------------------------|----------|--------------|--------------------|----------------|
+| Círculo permanente       | —        | —            | —                  | 01–00          |
+| Objeto vinculado         | —        | —            | —                  | 01–00          |
+| Muy familiar             | 01–05    | 06–13        | 14–24              | 25–00          |
+| Visto esporá-dicamente   | 01–33    | 34–43        | 44–53              | 54–00          |
+| Visto una vez o descrito | 01–43    | 44–53        | 54–73              | 74–00          |
+| Destino falso            | 01–50    | 51–00        | —                  | —              |
 
 **Familiaridad.** Los términos de la columna "Familiaridad" de la tabla significan lo siguiente: 
 

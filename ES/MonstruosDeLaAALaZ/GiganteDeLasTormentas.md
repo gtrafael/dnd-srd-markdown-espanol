@@ -16,7 +16,14 @@ related_en: "[[Monsters/Storm Giant|Storm Giant (EN)]]"
 
 **Velocidad:** 15 m, nadar 15 m, volar 7,5 m (levitar)
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE 29</td><td>+9</td><td>+14</td><td>DES 14</td><td>+2</td><td>+2</td><td>CON 20</td><td>+5</td><td>+10</td><td></td><td></td></tr><tr><td>INT 16</td><td>+3</td><td>+3</td><td>SAB 20</td><td>+5</td><td>+10</td><td>CAR 18</td><td>+4</td><td>+9</td><td></td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 29 | +9 | +14 |
+| DES | 14 | +2 | +2 |
+| CON | 20 | +5 | +10 |
+| INT | 16 | +3 | +3 |
+| SAB | 20 | +5 | +10 |
+| CAR | 18 | +4 | +9 |
 
 **Habilidades:** Atletismo +14, Conocimiento arcano +8, Historia +8, Percepción +10
 

@@ -16,8 +16,14 @@ related_en: "[[Monsters/White Dragon Wyrmling|White Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, excavar 4,5 m, nadar 9 m, volar 18 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>14</td><td>+2</td><td>+2</td><td>DES</td><td>10</td><td>+0</td><td>+2</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>5</td><td>-3</td><td>-3</td><td>SAB</td><td>10</td><td>+0</td><td>+2</td><td>CAR</td><td>11</td><td>+0</td><td>+0</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 14 | +2 | +2 |
+| DES | 10 | +0 | +2 |
+| CON | 14 | +2 | +2 |
+| INT | 5 | -3 | -3 |
+| SAB | 10 | +0 | +2 |
+| CAR | 11 | +0 | +0 |
 **Habilidades:** Percepción +4, Sigilo +2
 
 **Inmunidades:** frío

@@ -16,8 +16,14 @@ related_en: "[[Monsters/Gargoyle|Gargoyle (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>15</td><td>+2</td><td>+2</td><td>DES</td><td>11</td><td>+0</td><td>+0</td><td>CON</td><td>16</td><td>+3</td><td>+3</td></tr><tr><td>INT</td><td>6</td><td>-2</td><td>-2</td><td>SAB</td><td>11</td><td>+0</td><td>+0</td><td>CAR</td><td>7</td><td>-2</td><td>-2</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 15 | +2 | +2 |
+| DES | 11 | +0 | +0 |
+| CON | 16 | +3 | +3 |
+| INT | 6 | -2 | -2 |
+| SAB | 11 | +0 | +0 |
+| CAR | 7 | -2 | -2 |
 **Habilidades:** Sigilo +4
 
 **Inmunidades:** veneno; cansancio, envenenado, petrificado

@@ -16,7 +16,14 @@ related_en: "[[Monsters/Adult Bronze Dragon|Adult Bronze Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>25</td><td>+7</td><td>+7</td><td>DES</td><td>10</td><td>+0</td><td>+5</td><td>CON</td><td>23</td><td>+6</td><td>+6</td></tr><tr><td>INT</td><td>16</td><td>+3</td><td>+3</td><td>SAB</td><td>15</td><td>+2</td><td>+7</td><td>CAR</td><td>20</td><td>+5</td><td>+5</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 25 | +7 | +7 |
+| DES | 10 | +0 | +5 |
+| CON | 23 | +6 | +6 |
+| INT | 16 | +3 | +3 |
+| SAB | 15 | +2 | +7 |
+| CAR | 20 | +5 | +5 |
 
 **Habilidades:** Percepción +12, Perspicacia +7, Sigilo +5
 

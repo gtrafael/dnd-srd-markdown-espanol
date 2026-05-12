@@ -16,7 +16,14 @@ related_en: "[[Animals/Mammoth|Mammoth (EN)]]"
 
 **Velocidad:** 15 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE 24</td><td>+7</td><td>+10</td><td>DES 9</td><td>-1</td><td>-1</td><td>CON 21</td><td>+5</td><td>+8</td><td></td><td></td></tr><tr><td>INT 3</td><td>-4</td><td>-4</td><td>SAB 11</td><td>+0</td><td>+0</td><td>CAR 6</td><td>-2</td><td>-2</td><td></td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 24 | +7 | +10 |
+| DES | 9 | -1 | -1 |
+| CON | 21 | +5 | +8 |
+| INT | 3 | -4 | -4 |
+| SAB | 11 | +0 | +0 |
+| CAR | 6 | -2 | -2 |
 
 **Sentidos:** Percepción pasiva 10
 

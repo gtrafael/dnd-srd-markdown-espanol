@@ -4372,7 +4372,7 @@ Cada vez que vuelvas a utilizar este rasgo sin haber terminado un descanso largo
 Atributos básicos de monje
 
 
-<table><tr><td>Característica principal</td><td>Destreza y Sabiduría</td></tr><tr><td>Dado de puntos de golpe</td><td>1d8 por nivel de monje</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Fuerza y Destreza</td></tr><tr><td>Competencias en habilidades</td><td>Elige dos: Acrobacias, Atletismo, Historia, Perspicacia, Religión o Sigilo</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas, además de marciales que tengan la propiedad “ligera”</td></tr><tr><td>Competencias con herramientas</td><td>Elige un tipo de herramientas de artesano o instrumento musical (consulta el capítulo “Equipo”)</td></tr><tr><td>Entrenamiento con armaduras</td><td>Ninguna</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) lanza, 5 dagas, herramientas de artesano o instrumento musical que has elegido para la competencia con herramientas, paquete de explorador y II po, o (B) 50 po</td></tr></table>
+<table><tr><td>Característica principal</td><td>Destreza y Sabiduría</td></tr><tr><td>Dado de puntos de golpe</td><td>1d8 por nivel de monje</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Fuerza y Destreza</td></tr><tr><td>Competencias en habilidades</td><td>Elige dos: Acrobacias, Atletismo, Historia, Perspicacia, Religión o Sigilo</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas, además de marciales que tengan la propiedad “ligera”</td></tr><tr><td>Competencias con herramientas</td><td>Elige un tipo de herramientas de artesano o instrumento musical (consulta el capítulo “Equipo”)</td></tr><tr><td>Entrenamiento con armaduras</td><td>Ninguna</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) lanza, 5 dagas, herramientas de artesano o instrumento musical que has elegido para la competencia con herramientas, paquete de explorador y 11 po, o (B) 50 po</td></tr></table>
 
 
 Rasgos de monje
@@ -15980,7 +15980,7 @@ Si sacas una judía de la bolsa, la plantas en tierra o arena y la riegas, la ju
 
 <table><tr><td>02–10</td><td>Un géiser emerge del suelo y expulsa a borbotones agua, cerveza, mayonesa, té, vinagre, vino o aceite (a elección de tu GM). El chorro tiene una altura de 9 m y dura 1d4 minutos.</td></tr></table>
 
-<table><tr><td>II-20</td><td>Un ent brota del suelo. Tira cualquier dado.Si el resultado es impar, el ent es caótico malvado. Si el resultado es par, el ent es caó-tico bueno.</td></tr></table>
+<table><tr><td>11-20</td><td>Un ent brota del suelo. Tira cualquier dado.Si el resultado es impar, el ent es caótico malvado. Si el resultado es par, el ent es caó-tico bueno.</td></tr></table>
 
 <table><tr><td>21–30</td><td>Aparece una estatua de piedra animada e inmóvil con tu apariencia y te amenaza verbalmente. Si la abandonas y otros se acercan, la estatua te describirá como el más vil de los villanos y mandará a los recién llegados a buscarte y atacarte. Si estás en el mismo plano de existencia que la estatua, sabrá donde estás. La estatua se volverá inanimada al cabo de 24 horas.</td></tr><tr><td>1d100</td><td>Efecto</td></tr><tr><td>31–40</td><td>Surge una hoguera de llamas verdes que arderá durante 24 horas o hasta que la apaguen.</td></tr><tr><td>41–50</td><td>Del suelo brotan tres hongos chillones.</td></tr><tr><td>51–60</td><td>De entre la tierra surgen 1d4 + 4 sapos de color rosa intenso. Cuando se toque a uno, este se transforma en un monstruo Grande o más pequeño a elección de tu GM que actúa según su alineamiento y naturaleza. El monstruo permanece durante 1 minuto y luego desaparece en una nube de humo rosa intenso.</td></tr><tr><td>61–70</td><td>Un bulette hambriento sale excavando de la tierra y ataca.</td></tr><tr><td>71–80</td><td>Crece un árbol frutal. Tiene 1d10 + 20 frutas, de las cuales 1d8 se comportan como pociones determinadas al azar. El árbol se desvanece tras 1 hora. La fruta recogida permanece y conserva la magia durante 30 días.</td></tr><tr><td>81–90</td><td>Aparece un nido con 1d4 + 3 huevos de los colores del arcoíris. Cualquier criatura que se coma uno de estos huevos hace una tirada de salvación de Constitución con CD 20. Si la supera, aumentará su puntuación de característica más baja en I de forma permanente (se elegirá al azar la puntuación si hay varias puntuaciones que empatan como la más baja). Si la falla, la criatura recibirá 10d6 de daño de fuerza debido a una explosión interna.</td></tr><tr><td>91–95</td><td>Una pirámide con una base cuadrada de 18 m de lado emerge del suelo. Dentro hay un mausoleo con una momia, un señor de las momias u otro muerto viviente a elección de tu GM. El sarcófago contiene tesoros a elección de tu GM.</td></tr><tr><td>96–00</td><td>Brota un tallo de judías gigante que crece hasta la altura que decida tu GM, que también elige adónde conduce la parte superior. Por ejemplo, podría dar a un hermoso mirador, al castillo de un gigante de las nubes o a otro plano de existencia.</td></tr></table>
 
@@ -19496,7 +19496,7 @@ PG: 52 (8d8 + 16)
 
 Velocidad: 9 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>II</td><td>+0</td><td>+0</td><td>DES</td><td>18</td><td>+4</td><td>+4</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>II</td><td>+0</td><td>+0</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>14</td><td>+2</td><td>+2</td></tr></table>
+<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>11</td><td>+0</td><td>+0</td><td>DES</td><td>18</td><td>+4</td><td>+4</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>11</td><td>+0</td><td>+0</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>14</td><td>+2</td><td>+2</td></tr></table>
 
 Habilidades: Engaño +6, Perspicacia +3
 
@@ -22164,7 +22164,7 @@ PG: 5 (2d4)
 
 Velocidad: 3 m, volar 12 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>4</td><td>-3</td><td>-3</td><td>DES</td><td>16</td><td>+3</td><td>+3</td><td>CON</td><td>II</td><td>+0</td><td>+0</td></tr><tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>SAB</td><td>8</td><td>-1</td><td>-1</td><td>CAR</td><td>6</td><td>-2</td><td>-2</td></tr></table>
+<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>4</td><td>-3</td><td>-3</td><td>DES</td><td>16</td><td>+3</td><td>+3</td><td>CON</td><td>11</td><td>+0</td><td>+0</td></tr><tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>SAB</td><td>8</td><td>-1</td><td>-1</td><td>CAR</td><td>6</td><td>-2</td><td>-2</td></tr></table>
 
 Sentidos: visión en la oscuridad 18 m; Percepción pasiva 9
 
@@ -24492,7 +24492,7 @@ PG: 81 (18d8)
 
 Velocidad: 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>9</td><td>-1</td><td>-1</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>II +0 +0</td></tr><tr><td>INT</td><td>17</td><td>+3</td><td>+6</td><td>SAB</td><td>12</td><td>+1</td><td>+4</td><td>CAR</td><td>II +0 +0</td></tr></table>
+<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>9</td><td>-1</td><td>-1</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>11 +0 +0</td></tr><tr><td>INT</td><td>17</td><td>+3</td><td>+6</td><td>SAB</td><td>12</td><td>+1</td><td>+4</td><td>CAR</td><td>11 +0 +0</td></tr></table>
 
 Habilidades: Conocimiento arcano +6, Historia +6, Percepción +4
 
@@ -26034,7 +26034,7 @@ PG: 10 (3d6)
 
 Velocidad: 6 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>3</td><td>-4</td><td>-4</td><td>DES</td><td>8</td><td>-1</td><td>-1</td><td>CON</td><td>II</td><td>+0</td><td>+0</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>6</td><td>-2</td><td>-2</td></tr></table>
+<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>3</td><td>-4</td><td>-4</td><td>DES</td><td>8</td><td>-1</td><td>-1</td><td>CON</td><td>11</td><td>+0</td><td>+0</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>6</td><td>-2</td><td>-2</td></tr></table>
 
 Vulnerabilidades: fuego
 
@@ -27040,7 +27040,7 @@ PG: 697 (34d20 + 340)
 
 Velocidad: 18 m, excavar 12 m, trepar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>30</td><td>+10</td><td>+10</td><td>DES</td><td>II</td><td>+0</td><td>+9</td><td>CON</td><td>30</td></tr><tr><td>INT</td><td>3</td><td>-4</td><td>+5</td><td>SAB</td><td>II</td><td>+0</td><td>+9</td><td>CAR</td><td>II</td></tr></table>
+<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>30</td><td>+10</td><td>+10</td><td>DES</td><td>11</td><td>+0</td><td>+9</td><td>CON</td><td>30</td></tr><tr><td>INT</td><td>3</td><td>-4</td><td>+5</td><td>SAB</td><td>11</td><td>+0</td><td>+9</td><td>CAR</td><td>11</td></tr></table>
 
 Habilidades: Percepción +9
 

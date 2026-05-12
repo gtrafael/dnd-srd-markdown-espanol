@@ -16,7 +16,14 @@ related_en: "[[Monsters/Knight|Knight (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td></td><td colspan="4">MOD. SALV.</td><td colspan="4">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>16</td><td>+3</td><td>+3</td><td>DES</td><td>11</td><td>+0</td><td>+0</td><td>CON</td><td>14</td><td>+2</td><td>+4</td></tr><tr><td>INT</td><td>11</td><td>+0</td><td>+0</td><td>SAB</td><td>11</td><td>+0</td><td>+2</td><td>CAR</td><td>15</td><td>+2</td><td>+2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 16 | +3 | +3 |
+| DES | 11 | +0 | +0 |
+| CON | 14 | +2 | +4 |
+| INT | 11 | +0 | +0 |
+| SAB | 11 | +0 | +2 |
+| CAR | 15 | +2 | +2 |
 
 **Inmunidades:** asustado
 

@@ -50,7 +50,13 @@ Si arrastras, levantas o empujas un peso que supere el máximo que puedes cargar
 Capacidad de carga
 
 
-<table><tr><td>Tamaño de la criatura</td><td>Máximo</td><td>Arrastrar, levantar o empujar</td></tr><tr><td>Diminuto</td><td>Fue × 3,75 kg</td><td>Fue × 7,5 kg</td></tr><tr><td>Pequeño/Mediano</td><td>Fue × 7,5 kg</td><td>Fue × 15 kg</td></tr><tr><td>Grande</td><td>Fue × 15 kg</td><td>Fue × 30 kg</td></tr><tr><td>Enorme</td><td>Fue × 30 kg</td><td>Fue × 60 kg</td></tr><tr><td>Gargantuesco</td><td>Fue × 60 kg</td><td>Fue × 120 kg</td></tr></table>
+| Tamaño de la criatura | Máximo        | Arrastrar, levantar o empujar |
+|-----------------------|---------------|-------------------------------|
+| Diminuto              | Fue × 3,75 kg | Fue × 7,5 kg                  |
+| Pequeño/Mediano       | Fue × 7,5 kg  | Fue × 15 kg                   |
+| Grande                | Fue × 15 kg   | Fue × 30 kg                   |
+| Enorme                | Fue × 30 kg   | Fue × 60 kg                   |
+| Gargantuesco          | Fue × 60 kg   | Fue × 120 kg                  |
 
 
 # Cegado [estado]

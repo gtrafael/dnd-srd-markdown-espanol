@@ -25,9 +25,23 @@ Elige una clase y anótala en la hoja de personaje. La tabla “Resumen de las c
 Resumen de las clases
 
 
-<table><tr><td>Clase</td><td>Preferencia</td><td>Característica principal</td><td>Complejidad</td></tr><tr><td>Bárbaro</td><td>Batalla</td><td>Fuerza</td><td>Media</td></tr><tr><td>Bardo</td><td>Actuación</td><td>Carisma</td><td>Alta</td></tr><tr><td>Brujo</td><td>Ocultismo</td><td>Carisma</td><td>Alta</td></tr><tr><td>Clérigo</td><td>Dioses</td><td>Sabiduría</td><td>Media</td></tr><tr><td>Druida</td><td>Naturaleza</td><td>Sabiduría</td><td>Alta</td></tr><tr><td>Explora-dor</td><td>Superviven-cia</td><td>Destreza y Sabiduría</td><td>Media</td></tr></table>
+| Clase       | Preferencia    | Característica principal | Complejidad |
+|-------------|----------------|--------------------------|-------------|
+| Bárbaro     | Batalla        | Fuerza                   | Media       |
+| Bardo       | Actuación      | Carisma                  | Alta        |
+| Brujo       | Ocultismo      | Carisma                  | Alta        |
+| Clérigo     | Dioses         | Sabiduría                | Media       |
+| Druida      | Naturaleza     | Sabiduría                | Alta        |
+| Explora-dor | Superviven-cia | Destreza y Sabiduría     | Media       |
 
-<table><tr><td>Clase</td><td>Preferencia</td><td>Característica principal</td><td>Complejidad</td></tr><tr><td>Guerrero</td><td>Armas</td><td>Fuerza o Destreza</td><td>Baja</td></tr><tr><td>Hechi-cero</td><td>Poderes</td><td>Carisma</td><td>Alta</td></tr><tr><td>Mago</td><td>Libros de conjuros</td><td>Inteligencia</td><td>Media</td></tr><tr><td>Monje</td><td>Combate sin armas</td><td>Destreza y Sabiduría</td><td>Alta</td></tr><tr><td>Paladín</td><td>Defensa</td><td>Fuerza y Carisma</td><td>Media</td></tr><tr><td>Pícaro</td><td>Sigilo</td><td>Destreza</td><td>Baja</td></tr></table>
+| Clase      | Preferencia        | Característica principal | Complejidad |
+|------------|--------------------|--------------------------|-------------|
+| Guerrero   | Armas              | Fuerza o Destreza        | Baja        |
+| Hechi-cero | Poderes            | Carisma                  | Alta        |
+| Mago       | Libros de conjuros | Inteligencia             | Media       |
+| Monje      | Combate sin armas  | Destreza y Sabiduría     | Alta        |
+| Paladín    | Defensa            | Fuerza y Carisma         | Media       |
+| Pícaro     | Sigilo             | Destreza                 | Baja        |
 
 ### Anota tu nivel
 
@@ -57,7 +71,14 @@ El trasfondo que elijas influirá en el paso 3, cuando determines las puntuacion
 Puntuaciones de característica y trasfondos
 
 
-<table><tr><td>Característica</td><td>Trasfondo</td></tr><tr><td>Fuerza</td><td>Soldado</td></tr><tr><td>Destreza</td><td>Soldado</td></tr><tr><td>Constitución</td><td>Soldado</td></tr><tr><td>Inteligencia</td><td>Acólito</td></tr><tr><td>Sabiduría</td><td>Acólito</td></tr><tr><td>Carisma</td><td>Acólito</td></tr></table>
+| Característica | Trasfondo |
+|----------------|-----------|
+| Fuerza         | Soldado   |
+| Destreza       | Soldado   |
+| Constitución   | Soldado   |
+| Inteligencia   | Acólito   |
+| Sabiduría      | Acólito   |
+| Carisma        | Acólito   |
 
 Anota tu dote. El trasfondo te proporciona una dote que otorga capacidades específicas a tu personaje. Las dotes se describen en el capítulo “Dotes”. Escribe la dote en la hoja de personaje. 
 
@@ -105,7 +126,18 @@ La tabla “Idiomas estándar” recoge los idiomas más extendidos en el mundo 
 Idiomas estándar
 
 
-<table><tr><td>1d12</td><td>Idioma</td></tr><tr><td>—</td><td>Común</td></tr><tr><td>1</td><td>Dracónico</td></tr><tr><td>2–3</td><td>Elfo</td></tr><tr><td>4–5</td><td>Enano</td></tr><tr><td>6</td><td>Gigante</td></tr><tr><td>7</td><td>Gnomo</td></tr><tr><td>8</td><td>Goblin</td></tr><tr><td>9</td><td>Lengua de signos común</td></tr><tr><td>10–11</td><td>Mediano</td></tr><tr><td>12</td><td>Orco</td></tr></table>
+| 1d12  | Idioma                 |
+|-------|------------------------|
+| —     | Común                  |
+| 1     | Dracónico              |
+| 2–3   | Elfo                   |
+| 4–5   | Enano                  |
+| 6     | Gigante                |
+| 7     | Gnomo                  |
+| 8     | Goblin                 |
+| 9     | Lengua de signos común |
+| 10–11 | Mediano                |
+| 12    | Orco                   |
 
 La tabla “Idiomas inusuales” recoge los idiomas secretos o procedentes de otros planos de existencia y, por tanto, menos generalizados en los mundos del Plano Material. Algunos rasgos permiten a los personajes aprender un idioma inusual. 
 
@@ -113,7 +145,13 @@ La tabla “Idiomas inusuales” recoge los idiomas secretos o procedentes de ot
 Idiomas inusuales
 
 
-<table><tr><td>Idioma</td><td>Idioma</td></tr><tr><td>Abisal</td><td>Infracomún</td></tr><tr><td>Celestial</td><td>Jerga de ladrones</td></tr><tr><td>Druídico</td><td>Primordial*</td></tr><tr><td>Habla de las profundidades</td><td>Silvano</td></tr><tr><td>Infernal</td><td></td></tr></table>
+| Idioma                     | Idioma            |
+|----------------------------|-------------------|
+| Abisal                     | Infracomún        |
+| Celestial                  | Jerga de ladrones |
+| Druídico                   | Primordial*       |
+| Habla de las profundidades | Silvano           |
+| Infernal                   |                   |
 
 
 *El primordial incluye los dialectos acuano, aurano, ígneo y terrano. Las criaturas que saben uno de estos dialectos pueden comunicarse con las que saben otro diferente. 
@@ -137,7 +175,12 @@ Coste en puntos. Tienes 27 puntos para invertir en tus puntuaciones de caracter�
 Costes en puntos de las puntuaciones de característica
 
 
-<table><tr><td>Puntuación</td><td>Coste</td><td>Puntuación</td><td>Coste</td></tr><tr><td>8</td><td>0</td><td>12</td><td>4</td></tr><tr><td>9</td><td>1</td><td>13</td><td>5</td></tr><tr><td>10</td><td>2</td><td>14</td><td>7</td></tr><tr><td>11</td><td>3</td><td>15</td><td>9</td></tr></table>
+| Puntuación | Coste | Puntuación | Coste |
+|-----------:|------:|-----------:|------:|
+|          8 |     0 |         12 |     4 |
+|          9 |     1 |         13 |     5 |
+|         10 |     2 |         14 |     7 |
+|         11 |     3 |         15 |     9 |
 
 ### Asigna las puntuaciones de característica
 
@@ -149,7 +192,20 @@ Si usas el conjunto estándar de puntuaciones, consulta la tabla “Conjunto est
 Conjunto estándar por clase
 
 
-<table><tr><td>Clase</td><td>Fue</td><td>Des</td><td>Con</td><td>Int</td><td>Sab</td><td>Car</td></tr><tr><td>Bárbaro</td><td>15</td><td>13</td><td>14</td><td>10</td><td>12</td><td>8</td></tr><tr><td>Bardo</td><td>8</td><td>14</td><td>12</td><td>13</td><td>10</td><td>15</td></tr><tr><td>Brujo</td><td>8</td><td>14</td><td>13</td><td>12</td><td>10</td><td>15</td></tr><tr><td>Clérigo</td><td>14</td><td>8</td><td>13</td><td>10</td><td>15</td><td>12</td></tr><tr><td>Druida</td><td>8</td><td>12</td><td>14</td><td>13</td><td>15</td><td>10</td></tr><tr><td>Explorador</td><td>12</td><td>15</td><td>13</td><td>8</td><td>14</td><td>10</td></tr><tr><td>Guerrero</td><td>15</td><td>14</td><td>13</td><td>8</td><td>10</td><td>12</td></tr><tr><td>Hechicero</td><td>10</td><td>13</td><td>14</td><td>8</td><td>12</td><td>15</td></tr><tr><td>Mago</td><td>8</td><td>12</td><td>13</td><td>15</td><td>14</td><td>10</td></tr><tr><td>Monje</td><td>12</td><td>15</td><td>13</td><td>10</td><td>14</td><td>8</td></tr><tr><td>Paladín</td><td>15</td><td>10</td><td>13</td><td>8</td><td>12</td><td>14</td></tr><tr><td>Pícaro</td><td>12</td><td>15</td><td>13</td><td>14</td><td>10</td><td>8</td></tr></table>
+| Clase      | Fue | Des | Con | Int | Sab | Car |
+|------------|----:|----:|----:|----:|----:|----:|
+| Bárbaro    |  15 |  13 |  14 |  10 |  12 |   8 |
+| Bardo      |   8 |  14 |  12 |  13 |  10 |  15 |
+| Brujo      |   8 |  14 |  13 |  12 |  10 |  15 |
+| Clérigo    |  14 |   8 |  13 |  10 |  15 |  12 |
+| Druida     |   8 |  12 |  14 |  13 |  15 |  10 |
+| Explorador |  12 |  15 |  13 |   8 |  14 |  10 |
+| Guerrero   |  15 |  14 |  13 |   8 |  10 |  12 |
+| Hechicero  |  10 |  13 |  14 |   8 |  12 |  15 |
+| Mago       |   8 |  12 |  13 |  15 |  14 |  10 |
+| Monje      |  12 |  15 |  13 |  10 |  14 |   8 |
+| Paladín    |  15 |  10 |  13 |   8 |  12 |  14 |
+| Pícaro     |  12 |  15 |  13 |  14 |  10 |   8 |
 
 ## Ajusta las puntuaciones de característica
 
@@ -165,7 +221,13 @@ Por último, determina tus modificadores por característica mediante la tabla �
 Puntuaciones de característica y modificadores
 
 
-<table><tr><td>Puntuación</td><td>Modificador</td><td>Puntuación</td><td>Modificador</td></tr><tr><td>3</td><td>-4</td><td>12–13</td><td>+1</td></tr><tr><td>4–5</td><td>-3</td><td>14–15</td><td>+2</td></tr><tr><td>6–7</td><td>-2</td><td>16–17</td><td>+3</td></tr><tr><td>8–9</td><td>-1</td><td>18–19</td><td>+4</td></tr><tr><td>10–11</td><td>+0</td><td>20</td><td>+5</td></tr></table>
+| Puntuación | Modificador | Puntuación | Modificador |
+|------------|------------:|------------|------------:|
+| 3          |          -4 | 12–13      |          +1 |
+| 4–5        |          -3 | 14–15      |          +2 |
+| 6–7        |          -2 | 16–17      |          +3 |
+| 8–9        |          -1 | 18–19      |          +4 |
+| 10–11      |          +0 | 20         |          +5 |
 
 ## Paso 4: alineamiento
 
@@ -231,7 +293,12 @@ Puntos de golpe. Tu clase y modificador por Constitución determinan tus puntos 
 Puntos de golpe en el nivel 1 por clase
 
 
-<table><tr><td>Clase</td><td>Puntos de golpe máximos</td></tr><tr><td>Bárbaro</td><td>12 + modificador por Con</td></tr><tr><td>Explorador, guerrero o paladín</td><td>10 + modificador por Con</td></tr><tr><td>Bardo, brujo, clérigo, druida, monje o pícaro</td><td>8 + modificador por Con</td></tr><tr><td>Hechicero o mago</td><td>6 + modificador por Con</td></tr></table>
+| Clase                                         | Puntos de golpe máximos  |
+|-----------------------------------------------|--------------------------|
+| Bárbaro                                       | 12 + modificador por Con |
+| Explorador, guerrero o paladín                | 10 + modificador por Con |
+| Bardo, brujo, clérigo, druida, monje o pícaro | 8 + modificador por Con  |
+| Hechicero o mago                              | 6 + modificador por Con  |
 
 La hoja de personaje tiene espacio para anotar tus puntos de golpe actuales cuando sufres daño y los puntos de golpe temporales que obtengas. También hay espacio para anotar las tiradas de salvación contra muerte. 
 

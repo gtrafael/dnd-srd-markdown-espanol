@@ -24,15 +24,37 @@ Una silla viene con un bocado, bridas, riendas y cualquier otro elemento que se 
 Monturas y otros animales
 
 
-<table><tr><td>Animal</td><td>Capacidad de carga</td><td>Precio</td></tr><tr><td>Caballo de guerra</td><td>270 kg</td><td>400 po</td></tr><tr><td>Caballo de monta</td><td>240 kg</td><td>75 po</td></tr><tr><td>Caballo de tiro</td><td>270 kg</td><td>50 po</td></tr><tr><td>Camello</td><td>225 kg</td><td>50 po</td></tr><tr><td>Elefante</td><td>660 kg</td><td>200 po</td></tr><tr><td>Mastín</td><td>97,5 kg</td><td>25 po</td></tr><tr><td>Mula</td><td>210 kg</td><td>8 po</td></tr><tr><td>Poni</td><td>112,5 kg</td><td>30 po</td></tr></table>
+| Animal            | Capacidad de carga | Precio |
+|-------------------|--------------------|--------|
+| Caballo de guerra | 270 kg             | 400 po |
+| Caballo de monta  | 240 kg             | 75 po  |
+| Caballo de tiro   | 270 kg             | 50 po  |
+| Camello           | 225 kg             | 50 po  |
+| Elefante          | 660 kg             | 200 po |
+| Mastín            | 97,5 kg            | 25 po  |
+| Mula              | 210 kg             | 8 po   |
+| Poni              | 112,5 kg           | 30 po  |
 
 
 Arreos, arneses y vehículos tirados por animales
 
 
-<table><tr><td>Animal</td><td>Peso</td><td>Precio</td></tr><tr><td>Alimento por día</td><td>5 kg</td><td>5 pc</td></tr><tr><td>Carreta</td><td>100 kg</td><td>15 po</td></tr><tr><td>Carro</td><td>200 kg</td><td>35 po</td></tr><tr><td>Carro de guerra</td><td>50 kg</td><td>250 po</td></tr></table>
+| Animal           | Peso   | Precio |
+|------------------|--------|--------|
+| Alimento por día | 5 kg   | 5 pc   |
+| Carreta          | 100 kg | 15 po  |
+| Carro            | 200 kg | 35 po  |
+| Carro de guerra  | 50 kg  | 250 po |
 
-<table><tr><td>Animal</td><td>Peso</td><td>Precio</td></tr><tr><td>Carruaje</td><td>300 kg</td><td>100 po</td></tr><tr><td>Estabulado por día</td><td>—</td><td>5 pp</td></tr><tr><td>Silla</td><td></td><td></td></tr><tr><td>De monta</td><td>12,5 kg</td><td>10 po</td></tr><tr><td>Exótica</td><td>20 kg</td><td>60 po</td></tr><tr><td>Militar</td><td>15 kg</td><td>20 po</td></tr><tr><td>Trineo</td><td>150 kg</td><td>20 po</td></tr></table>
+| Animal             | Peso    | Precio |
+|--------------------|---------|--------|
+| Carruaje           | 300 kg  | 100 po |
+| Estabulado por día | —       | 5 pp   |
+| Silla              |         |        |
+| De monta           | 12,5 kg | 10 po  |
+| Exótica            | 20 kg   | 60 po  |
+| Militar            | 15 kg   | 20 po  |
+| Trineo             | 150 kg  | 20 po  |
 
 ## Vehículos grandes
 
@@ -58,7 +80,15 @@ Si un vehículo tiene un umbral de daño (consulta el capítulo “Glosario de r
 Vehículos acuáticos y aéreos
 
 
-<table><tr><td>Vehículo</td><td>Velocidad</td><td>Tripulación</td><td>Pasajeros</td><td>Cargamento (toneladas)</td><td>CA</td><td>PG</td><td>Umbral de daño</td><td>Precio</td></tr><tr><td>Aeronave</td><td>12 km/h</td><td>10</td><td>20</td><td>1</td><td>13</td><td>300</td><td>—</td><td>40 000 po</td></tr><tr><td>Barcaza</td><td>1,5 km/h</td><td>1</td><td>6</td><td>1/2</td><td>15</td><td>100</td><td>10</td><td>3000 po</td></tr><tr><td>Bote de remos</td><td>2,4 km/h</td><td>1</td><td>3</td><td>—</td><td>11</td><td>50</td><td>—</td><td>50 po</td></tr><tr><td>Drakkar</td><td>4,5 km/h</td><td>40</td><td>150</td><td>10</td><td>15</td><td>300</td><td>15</td><td>10 000 po</td></tr><tr><td>Galera</td><td>6 km/h</td><td>80</td><td>—</td><td>150</td><td>15</td><td>500</td><td>20</td><td>30 000 po</td></tr><tr><td>Navío de guerra</td><td>4 km/h</td><td>60</td><td>60</td><td>200</td><td>15</td><td>500</td><td>20</td><td>25 000 po</td></tr><tr><td>Velero</td><td>3 km/h</td><td>20</td><td>20</td><td>100</td><td>15</td><td>300</td><td>15</td><td>10 000 po</td></tr></table>
+| Vehículo        | Velocidad | Tripulación | Pasajeros | Cargamento (toneladas) | CA |  PG | Umbral de daño | Precio    |
+|-----------------|-----------|------------:|-----------|------------------------|---:|----:|----------------|-----------|
+| Aeronave        | 12 km/h   |          10 | 20        | 1                      | 13 | 300 | —              | 40 000 po |
+| Barcaza         | 1,5 km/h  |           1 | 6         | 1/2                    | 15 | 100 | 10             | 3000 po   |
+| Bote de remos   | 2,4 km/h  |           1 | 3         | —                      | 11 |  50 | —              | 50 po     |
+| Drakkar         | 4,5 km/h  |          40 | 150       | 10                     | 15 | 300 | 15             | 10 000 po |
+| Galera          | 6 km/h    |          80 | —         | 150                    | 15 | 500 | 20             | 30 000 po |
+| Navío de guerra | 4 km/h    |          60 | 60        | 200                    | 15 | 500 | 20             | 25 000 po |
+| Velero          | 3 km/h    |          20 | 20        | 100                    | 15 | 300 | 15             | 10 000 po |
 
 ## Reparación de vehículos
 

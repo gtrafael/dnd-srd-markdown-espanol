@@ -15,5 +15,12 @@ El cubo comienza con 10 cargas y recupera 1d6 cargas empleadas cada día, al ama
 
 **Caras del cubo de fuerza**
 
-<table><tr><td>Conjuro</td><td>Coste en cargas</td></tr><tr><td>Armadura de mago</td><td>1</td></tr><tr><td>Escudo</td><td>1</td></tr><tr><td>Pequeña choza</td><td>3</td></tr><tr><td>Esfera elástica</td><td>4</td></tr><tr><td>Sanctasanctórum privado</td><td>4</td></tr><tr><td>Muro de fuerza</td><td>5</td></tr></table>
+| Conjuro | Coste en cargas |
+|---|---:|
+| Armadura de mago | 1 |
+| Escudo | 1 |
+| Pequeña choza | 3 |
+| Esfera elástica | 4 |
+| Sanctasanctórum privado | 4 |
+| Muro de fuerza | 5 |
 

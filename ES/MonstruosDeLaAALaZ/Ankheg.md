@@ -16,7 +16,14 @@ related_en: "[[Monsters/Ankheg|Ankheg (EN)]]"
 
 **Velocidad:** 9 m, excavar 3 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 17</td><td>+3</td><td>+3</td><td>DES 11</td><td>+0</td><td>+0</td><td>CON 14</td><td>+2</td><td>+2</td><td></td></tr><tr><td>INT 1</td><td>-5</td><td>-5</td><td>SAB 13</td><td>+1</td><td>+1</td><td>CAR 6</td><td>-2</td><td>-2</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 17 | +3 | +3 |
+| DES | 11 | +0 | +0 |
+| CON | 14 | +2 | +2 |
+| INT | 1 | -5 | -5 |
+| SAB | 13 | +1 | +1 |
+| CAR | 6 | -2 | -2 |
 
 **Sentidos:** sentir vibraciones 18 m, visión en la oscuridad 18 m; Percepción pasiva 11
 

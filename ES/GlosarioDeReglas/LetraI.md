@@ -61,7 +61,13 @@ Indeciso. Si instas al monstruo a que haga algo sobre lo que siente dudas, deber
 Pruebas de influencia
 
 
-<table><tr><td>Prueba de característica</td><td>Interacción</td></tr><tr><td>Carisma (Engaño)</td><td>Engañar a un monstruo que te entienda.</td></tr><tr><td>Carisma (Interpretación)</td><td>Entretener a un monstruo.</td></tr><tr><td>Carisma (Intimidación)</td><td>Intimidar a un monstruo.</td></tr><tr><td>Carisma (Persuasión)</td><td>Persuadir a un monstruo que te entienda.</td></tr><tr><td>Sabiduría (Trato con animales)</td><td>Convencer poco a poco a una bestia o monstruosidad.</td></tr></table>
+| Prueba de característica       | Interacción                                         |
+|--------------------------------|-----------------------------------------------------|
+| Carisma (Engaño)               | Engañar a un monstruo que te entienda.              |
+| Carisma (Interpretación)       | Entretener a un monstruo.                           |
+| Carisma (Intimidación)         | Intimidar a un monstruo.                            |
+| Carisma (Persuasión)           | Persuadir a un monstruo que te entienda.            |
+| Sabiduría (Trato con animales) | Convencer poco a poco a una bestia o monstruosidad. |
 
 
 # Iniciativa

@@ -16,7 +16,14 @@ related_en: "[[Monsters/Ice Devil|Ice Devil (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 21</td><td>+5</td><td>+5</td><td>DES 14</td><td>+2</td><td>+7</td><td>CON 18</td><td>+4</td><td>+9</td><td></td><td></td><td></td></tr><tr><td>INT 18</td><td>+4</td><td>+4</td><td>SAB 15</td><td>+2</td><td>+7</td><td>CAR 18</td><td>+4</td><td>+9</td><td></td><td></td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 21 | +5 | +5 |
+| DES | 14 | +2 | +7 |
+| CON | 18 | +4 | +9 |
+| INT | 18 | +4 | +4 |
+| SAB | 15 | +2 | +7 |
+| CAR | 18 | +4 | +9 |
 
 **Habilidades:** Percepción +7, Perspicacia +7, Persuasión +9
 

@@ -22,5 +22,16 @@ Una criatura que esté en el compartimento puede emplear una acción de utilizar
 Palancas del aparato del crustáceo
 
 
-<table><tr><td>Palanca</td><td>Subida</td><td>Bajada</td></tr><tr><td>1</td><td>Las patas se extienden, lo que permite que el aparato camine y nade.</td><td>Las patas se retraen, lo que reduce la velocidad y la velocidad nadando del aparato a 0 e impide que se beneficie de ningún bonificador a su velocidad.</td></tr><tr><td>2</td><td>La persiana de la ventana delantera se abre.</td><td>La persiana de la ventana delantera se cierra.</td></tr><tr><td>3</td><td>Las persianas de las ventanas laterales se abren (dos por lado).</td><td>Las persianas de las ventanas laterales se cierran (dos por lado).</td></tr><tr><td>4</td><td>Se extienden dos pinzas desde la parte delantera del aparato.</td><td>Las pinzas se retraen.</td></tr><tr><td>5</td><td>Cada pinza extendida lleva a cabo el siguiente ataque cuerpo a cuerpo: +8 a acertar, alcance 1,5 m. Acierto: 7 (2d6) de daño contundente.</td><td>Cada pinza extendida lleva a cabo el siguiente ataque cuerpo a cuerpo: +8 a acertar, alcance 1,5 m. Acierto: el objetivo tendrá el estado de agarrado (CD 15 para escapar).</td></tr><tr><td>6</td><td>Si las patas están extendidas, el aparato camina o nada hacia delante.</td><td>Si las patas están extendidas, el aparato camina o nada hacia atrás.</td></tr><tr><td>7</td><td>Si las patas están extendidas, el aparato gira 90 grados a la izquierda.</td><td>Si las patas están extendidas, el aparato gira 90 grados a la derecha.</td></tr><tr><td>8</td><td>Unas linternas con forma de ojo emiten luz brillante en un radio de 9 m y luz tenue 9 m más allá.</td><td>La luz se apaga.</td></tr><tr><td>9</td><td>El aparato desciende hasta 6 m en un medio líquido.</td><td>El aparato asciende hasta 6 m en un medio líquido.</td></tr><tr><td>10</td><td>La escotilla trasera se abre.</td><td>La escotilla trasera se cierra.</td></tr></table>
+| Palanca | Subida | Bajada |
+|---:|---|---|
+| 1 | Las patas se extienden, lo que permite que el aparato camine y nade. | Las patas se retraen, lo que reduce la velocidad y la velocidad nadando del aparato a 0 e impide que se beneficie de ningún bonificador a su velocidad. |
+| 2 | La persiana de la ventana delantera se abre. | La persiana de la ventana delantera se cierra. |
+| 3 | Las persianas de las ventanas laterales se abren (dos por lado). | Las persianas de las ventanas laterales se cierran (dos por lado). |
+| 4 | Se extienden dos pinzas desde la parte delantera del aparato. | Las pinzas se retraen. |
+| 5 | Cada pinza extendida lleva a cabo el siguiente ataque cuerpo a cuerpo: +8 a acertar, alcance 1,5 m. Acierto: 7 (2d6) de daño contundente. | Cada pinza extendida lleva a cabo el siguiente ataque cuerpo a cuerpo: +8 a acertar, alcance 1,5 m. Acierto: el objetivo tendrá el estado de agarrado (CD 15 para escapar). |
+| 6 | Si las patas están extendidas, el aparato camina o nada hacia delante. | Si las patas están extendidas, el aparato camina o nada hacia atrás. |
+| 7 | Si las patas están extendidas, el aparato gira 90 grados a la izquierda. | Si las patas están extendidas, el aparato gira 90 grados a la derecha. |
+| 8 | Unas linternas con forma de ojo emiten luz brillante en un radio de 9 m y luz tenue 9 m más allá. | La luz se apaga. |
+| 9 | El aparato desciende hasta 6 m en un medio líquido. | El aparato asciende hasta 6 m en un medio líquido. |
+| 10 | La escotilla trasera se abre. | La escotilla trasera se cierra. |
 

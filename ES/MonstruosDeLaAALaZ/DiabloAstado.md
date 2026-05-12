@@ -16,7 +16,14 @@ related_en: "[[Monsters/Horned Devil|Horned Devil (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>22</td><td>+6</td><td>+10</td><td>DES</td><td>17</td><td>+3</td><td>+7</td><td>CON</td><td>21</td><td>+5</td><td>+5</td></tr><tr><td>INT</td><td>12</td><td>+1</td><td>+1</td><td>SAB</td><td>16</td><td>+3</td><td>+7</td><td>CAR</td><td>18</td><td>+4</td><td>+8</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 22 | +6 | +10 |
+| DES | 17 | +3 | +7 |
+| CON | 21 | +5 | +5 |
+| INT | 12 | +1 | +1 |
+| SAB | 16 | +3 | +7 |
+| CAR | 18 | +4 | +8 |
 
 **Resistencias:** frío
 

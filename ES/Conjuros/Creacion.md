@@ -23,7 +23,13 @@ La duración del conjuro depende del material del objeto, como se muestra en la 
 
 **Materiales**
 
-<table><tr><td>Material</td><td>Duración</td></tr><tr><td>Materia vegetal</td><td>24 horas</td></tr><tr><td>Piedra o cristal</td><td>12 horas</td></tr><tr><td>Metales preciosos</td><td>1 hora</td></tr><tr><td>Gemas</td><td>10 minutos</td></tr><tr><td>Adamantina o mithral</td><td>1 minuto</td></tr></table>
+| Material             | Duración   |
+|----------------------|------------|
+| Materia vegetal      | 24 horas   |
+| Piedra o cristal     | 12 horas   |
+| Metales preciosos    | 1 hora     |
+| Gemas                | 10 minutos |
+| Adamantina o mithral | 1 minuto   |
 
 **Con un espacio de conjuro de nivel superior.**
 

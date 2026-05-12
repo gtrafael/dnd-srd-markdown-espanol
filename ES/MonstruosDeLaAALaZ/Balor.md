@@ -14,7 +14,14 @@ related_en: "[[Monsters/Balor|Balor (EN)]]"
 
 **Velocidad:** 12 m, volar 24 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>26</td><td>+8</td><td>+8</td><td>DES</td><td>15</td><td>+2</td><td>+2</td><td>CON</td><td>22</td><td>+6</td><td>+12</td></tr><tr><td>INT</td><td>20</td><td>+5</td><td>+5</td><td>SAB</td><td>16</td><td>+3</td><td>+9</td><td>CAR</td><td>22</td><td>+6</td><td>+6</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 26 | +8 | +8 |
+| DES | 15 | +2 | +2 |
+| CON | 22 | +6 | +12 |
+| INT | 20 | +5 | +5 |
+| SAB | 16 | +3 | +9 |
+| CAR | 22 | +6 | +6 |
 
 **Habilidades:** Percepción +9
 

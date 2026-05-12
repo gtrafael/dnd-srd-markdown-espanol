@@ -16,7 +16,14 @@ related_en: "[[Monsters/Lich|Lich (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>11</td><td>+0</td><td>+0</td><td>DES</td><td>16</td><td>+3</td><td>+10</td><td>CON</td><td>16</td><td>+3</td><td>+10</td></tr><tr><td>INT</td><td>21</td><td>+5</td><td>+12</td><td>SAB</td><td>14</td><td>+2</td><td>+9</td><td>CAR</td><td>16</td><td>+3</td><td>+3</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 11 | +0 | +0 |
+| DES | 16 | +3 | +10 |
+| CON | 16 | +3 | +10 |
+| INT | 21 | +5 | +12 |
+| SAB | 14 | +2 | +9 |
+| CAR | 16 | +3 | +3 |
 
 **Habilidades:** Conocimiento arcano +19, Historia +12, Percepción +9, Perspicacia +9
 

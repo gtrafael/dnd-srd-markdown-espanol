@@ -14,7 +14,30 @@ Antes de robar una carta, debes declarar cuántas pretendes robar y, a continuac
 
 Cuando robas una carta, desaparece. A menos que sea el Loco o el Bufón, la carta volverá a la baraja, por lo que será posible robarla dos veces (cuando el Loco o el Bufón hayan dejado la baraja, tira de nuevo en la tabla si vuelve a salir una de ellas).
 
-<table><tr><td>1d100(baraja de 13 cartas)</td><td>1d100(baraja de 22 cartas)</td><td>Carta</td></tr><tr><td>01–08</td><td>01–05</td><td>Bufón</td></tr><tr><td>09–16</td><td>06–10</td><td>Caballero</td></tr><tr><td>—</td><td>11–14</td><td>Calabozo</td></tr><tr><td>17–24</td><td>15–18</td><td>Calavera</td></tr><tr><td>25–32</td><td>19–22</td><td>Canalla</td></tr><tr><td>—</td><td>23–27</td><td>Cometa</td></tr><tr><td>33–36</td><td>28–31</td><td>El Vacío</td></tr><tr><td>—</td><td>32–36</td><td>Equilibrio</td></tr><tr><td>—</td><td>37–41</td><td>Erudito</td></tr><tr><td>37–44</td><td>42–46</td><td>Estrella</td></tr><tr><td>45–52</td><td>47–50</td><td>Euríale</td></tr><tr><td>—</td><td>51–54</td><td>Garras</td></tr><tr><td>—</td><td>55–59</td><td>Gema</td></tr><tr><td>—</td><td>60–64</td><td>Hados</td></tr><tr><td>53–60</td><td>65–68</td><td>Llamas</td></tr><tr><td>61–68</td><td>69–73</td><td>Llave</td></tr><tr><td>—</td><td>74–77</td><td>Loco</td></tr><tr><td>69–76</td><td>78–82</td><td>Luna</td></tr><tr><td>—</td><td>83–86</td><td>Rompecabezas</td></tr><tr><td>77–84</td><td>87–90</td><td>Ruina</td></tr><tr><td>85–92</td><td>91–95</td><td>Sol</td></tr><tr><td>93–00</td><td>96–00</td><td>Trono</td></tr></table>
+| 1d100(baraja de 13 cartas) | 1d100(baraja de 22 cartas) | Carta |
+|---|---|---|
+| 01–08 | 01–05 | Bufón |
+| 09–16 | 06–10 | Caballero |
+| — | 11–14 | Calabozo |
+| 17–24 | 15–18 | Calavera |
+| 25–32 | 19–22 | Canalla |
+| — | 23–27 | Cometa |
+| 33–36 | 28–31 | El Vacío |
+| — | 32–36 | Equilibrio |
+| — | 37–41 | Erudito |
+| 37–44 | 42–46 | Estrella |
+| 45–52 | 47–50 | Euríale |
+| — | 51–54 | Garras |
+| — | 55–59 | Gema |
+| — | 60–64 | Hados |
+| 53–60 | 65–68 | Llamas |
+| 61–68 | 69–73 | Llave |
+| — | 74–77 | Loco |
+| 69–76 | 78–82 | Luna |
+| — | 83–86 | Rompecabezas |
+| 77–84 | 87–90 | Ruina |
+| 85–92 | 91–95 | Sol |
+| 93–00 | 96–00 | Trono |
 
 Los efectos de cada carta se describen a continuación.
 
@@ -38,7 +61,14 @@ Muerto viviente Mediano, neutral malvado
 
 **Velocidad:** 18 m, volar 18 m (levitar)
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 16</td><td>+3</td><td>+3</td><td>DES 16</td><td>+3</td><td>+3</td><td>CON 16</td><td>+3</td><td>+3</td><td></td></tr><tr><td>INT 16</td><td>+3</td><td>+3</td><td>SAB 16</td><td>+3</td><td>+3</td><td>CAR 16</td><td>+3</td><td>+3</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 16 | +3 | +3 |
+| DES | 16 | +3 | +3 |
+| CON | 16 | +3 | +3 |
+| INT | 16 | +3 | +3 |
+| SAB | 16 | +3 | +3 |
+| CAR | 16 | +3 | +3 |
 
 **Inmunidades:** necrótico, veneno; asustado, cansancio, envenenado, hechizado, inconsciente, paralizado, petrificado
 

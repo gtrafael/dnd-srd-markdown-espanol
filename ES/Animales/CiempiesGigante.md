@@ -16,7 +16,14 @@ related_en: "[[Animals/Giant Centipede|Giant Centipede (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-<table><tr><td></td><td colspan="2">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE 5</td><td>-3</td><td>-3</td><td>DES 14</td><td>+2</td><td>+2</td><td>CON 12</td><td>+1</td><td>+1</td></tr><tr><td>INT 1</td><td>-5</td><td>-5</td><td>SAB 7</td><td>-2</td><td>-2</td><td>CAR 3</td><td>-4</td><td>-4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 5 | -3 | -3 |
+| DES | 14 | +2 | +2 |
+| CON | 12 | +1 | +1 |
+| INT | 1 | -5 | -5 |
+| SAB | 7 | -2 | -2 |
+| CAR | 3 | -4 | -4 |
 
 **Sentidos:** visión ciega 9 m; Percepción pasiva 8
 

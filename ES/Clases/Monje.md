@@ -10,13 +10,42 @@ related_en: "[[Classes/Monk|Monk (EN)]]"
 Atributos básicos de monje
 
 
-<table><tr><td>Característica principal</td><td>Destreza y Sabiduría</td></tr><tr><td>Dado de puntos de golpe</td><td>1d8 por nivel de monje</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Fuerza y Destreza</td></tr><tr><td>Competencias en habilidades</td><td>Elige dos: Acrobacias, Atletismo, Historia, Perspicacia, Religión o Sigilo</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas, además de marciales que tengan la propiedad “ligera”</td></tr><tr><td>Competencias con herramientas</td><td>Elige un tipo de herramientas de artesano o instrumento musical (consulta el capítulo “Equipo”)</td></tr><tr><td>Entrenamiento con armaduras</td><td>Ninguna</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) lanza, 5 dagas, herramientas de artesano o instrumento musical que has elegido para la competencia con herramientas, paquete de explorador y II po, o (B) 50 po</td></tr></table>
+| Característica principal | Destreza y Sabiduría |
+|---|---|
+| Dado de puntos de golpe | 1d8 por nivel de monje |
+| Competencias en tiradas de salvación | Fuerza y Destreza |
+| Competencias en habilidades | Elige dos: Acrobacias, Atletismo, Historia, Perspicacia, Religión o Sigilo |
+| Competencias con armas | Armas sencillas, además de marciales que tengan la propiedad “ligera” |
+| Competencias con herramientas | Elige un tipo de herramientas de artesano o instrumento musical (consulta el capítulo “Equipo”) |
+| Entrenamiento con armaduras | Ninguna |
+| Equipo inicial | Elige A o B: (A) lanza, 5 dagas, herramientas de artesano o instrumento musical que has elegido para la competencia con herramientas, paquete de explorador y 11 po, o (B) 50 po |
 
 
 Rasgos de monje
 
 
-<table><tr><td>Nivel</td><td>Bonificador por competencia</td><td>Rasgos de clase</td><td>Artes marciales</td><td>Puntos de concentración</td><td>Movimiento sin armadura</td></tr><tr><td>1</td><td>+2</td><td>Artes marciales, Defensa sin armadura</td><td>1d6</td><td>—</td><td>—</td></tr><tr><td>2</td><td>+2</td><td>Concentración de monje, Metabolismo asombroso, Movimiento sin armadura</td><td>1d6</td><td>2</td><td>+3 m</td></tr><tr><td>3</td><td>+2</td><td>Desviar ataques, subclase de monje</td><td>1d6</td><td>3</td><td>+3 m</td></tr><tr><td>4</td><td>+2</td><td>Caída lenta, Mejora de característica</td><td>1d6</td><td>4</td><td>+3 m</td></tr><tr><td>5</td><td>+3</td><td>Ataque adicional, Golpe aturdidor</td><td>1d8</td><td>5</td><td>+3 m</td></tr><tr><td>6</td><td>+3</td><td>Golpes potenciados, rasgo de subclase</td><td>1d8</td><td>6</td><td>+4,5 m</td></tr><tr><td>7</td><td>+3</td><td>Evasión</td><td>1d8</td><td>7</td><td>+4,5 m</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>1d8</td><td>8</td><td>+4,5 m</td></tr><tr><td>9</td><td>+4</td><td>Movimiento acrobático</td><td>1d8</td><td>9</td><td>+4,5 m</td></tr><tr><td>10</td><td>+4</td><td>Autorrestablecimiento, Concentración agudizada</td><td>1d8</td><td>10</td><td>+6 m</td></tr><tr><td>11</td><td>+4</td><td>Rasgo de subclase</td><td>1d10</td><td>11</td><td>+6 m</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>1d10</td><td>12</td><td>+6 m</td></tr><tr><td>13</td><td>+5</td><td>Desviar energía</td><td>1d10</td><td>13</td><td>+6 m</td></tr><tr><td>14</td><td>+5</td><td>Superviviente disciplinado</td><td>1d10</td><td>14</td><td>+7,5 m</td></tr><tr><td>15</td><td>+5</td><td>Concentración perfecta</td><td>1d10</td><td>15</td><td>+7,5 m</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>1d10</td><td>16</td><td>+7,5 m</td></tr><tr><td>17</td><td>+6</td><td>Rasgo de subclase</td><td>1d12</td><td>17</td><td>+7,5 m</td></tr><tr><td>18</td><td>+6</td><td>Defensa superior</td><td>1d12</td><td>18</td><td>+9 m</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>1d12</td><td>19</td><td>+9 m</td></tr><tr><td>20</td><td>+6</td><td>Cuerpo y mente</td><td>1d12</td><td>20</td><td>+9 m</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase | Artes marciales | Puntos de concentración | Movimiento sin armadura |
+|---:|---:|---|---|---|---|
+| 1 | +2 | Artes marciales, Defensa sin armadura | 1d6 | — | — |
+| 2 | +2 | Concentración de monje, Metabolismo asombroso, Movimiento sin armadura | 1d6 | 2 | +3 m |
+| 3 | +2 | Desviar ataques, subclase de monje | 1d6 | 3 | +3 m |
+| 4 | +2 | Caída lenta, Mejora de característica | 1d6 | 4 | +3 m |
+| 5 | +3 | Ataque adicional, Golpe aturdidor | 1d8 | 5 | +3 m |
+| 6 | +3 | Golpes potenciados, rasgo de subclase | 1d8 | 6 | +4,5 m |
+| 7 | +3 | Evasión | 1d8 | 7 | +4,5 m |
+| 8 | +3 | Mejora de característica | 1d8 | 8 | +4,5 m |
+| 9 | +4 | Movimiento acrobático | 1d8 | 9 | +4,5 m |
+| 10 | +4 | Autorrestablecimiento, Concentración agudizada | 1d8 | 10 | +6 m |
+| 11 | +4 | Rasgo de subclase | 1d10 | 11 | +6 m |
+| 12 | +4 | Mejora de característica | 1d10 | 12 | +6 m |
+| 13 | +5 | Desviar energía | 1d10 | 13 | +6 m |
+| 14 | +5 | Superviviente disciplinado | 1d10 | 14 | +7,5 m |
+| 15 | +5 | Concentración perfecta | 1d10 | 15 | +7,5 m |
+| 16 | +5 | Mejora de característica | 1d10 | 16 | +7,5 m |
+| 17 | +6 | Rasgo de subclase | 1d12 | 17 | +7,5 m |
+| 18 | +6 | Defensa superior | 1d12 | 18 | +9 m |
+| 19 | +6 | Don épico | 1d12 | 19 | +9 m |
+| 20 | +6 | Cuerpo y mente | 1d12 | 20 | +9 m |
 
 ## Convertirse en monje
 

@@ -16,7 +16,14 @@ related_en: "[[Animals/Killer Whale|Killer Whale (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>19</td><td>+4</td><td>+4</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>3</td><td>-4</td><td>-4</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>7</td><td>-2</td><td>-2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 19 | +4 | +4 |
+| DES | 14 | +2 | +2 |
+| CON | 13 | +1 | +1 |
+| INT | 3 | -4 | -4 |
+| SAB | 12 | +1 | +1 |
+| CAR | 7 | -2 | -2 |
 
 **Habilidades:** Percepción +3, Sigilo +4
 

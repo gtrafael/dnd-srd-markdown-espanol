@@ -13,7 +13,11 @@ Cuando llevas a cabo la acción de buscar, realizas una prueba de Sabiduría par
 Búsqueda
 
 
-<table><tr><td>Habilidad</td><td>Objeto de detección</td></tr><tr><td>Medicina</td><td>Dolencia o causa de la muerte de una criatura</td></tr><tr><td>Percepción</td><td>Criatura u objeto ocultos</td></tr><tr><td>Perspicacia</td><td>Estado mental de una criatura</td></tr></table>
+| Habilidad   | Objeto de detección                           |
+|-------------|-----------------------------------------------|
+| Medicina    | Dolencia o causa de la muerte de una criatura |
+| Percepción  | Criatura u objeto ocultos                     |
+| Perspicacia | Estado mental de una criatura                 |
 
 
 Supervivencia Huellas o alimentos 

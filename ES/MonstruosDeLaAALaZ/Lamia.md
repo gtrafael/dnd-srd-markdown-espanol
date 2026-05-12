@@ -16,8 +16,14 @@ related_en: "[[Monsters/Lamia|Lamia (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>16</td><td>+3</td><td>+3</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>15</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>14</td><td>+2</td><td>+2</td><td>SAB</td><td>15</td><td>+2</td><td>+2</td><td>CAR</td><td>16</td><td>+3</td><td>+3</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 16 | +3 | +3 |
+| DES | 13 | +1 | +1 |
+| CON | 15 | +2 | +2 |
+| INT | 14 | +2 | +2 |
+| SAB | 15 | +2 | +2 |
+| CAR | 16 | +3 | +3 |
 **Habilidades:** Engaño +7, Perspicacia +4, Sigilo +5
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 12

@@ -13,7 +13,12 @@ Este bonificador se aplica a una prueba con d20 cuando la criatura es competente
 Bonificador por competencia
 
 
-<table><tr><td>Nivel o VD</td><td>Bonificador</td><td>Nivel o VD</td><td>Bonificador</td></tr><tr><td>Hasta 4</td><td>+2</td><td>17–20</td><td>+6</td></tr><tr><td>5–8</td><td>+3</td><td>21–24</td><td>+7</td></tr><tr><td>9–12</td><td>+4</td><td>25–28</td><td>+8</td></tr><tr><td>13–16</td><td>+5</td><td>29–30</td><td>+9</td></tr></table>
+| Nivel o VD | Bonificador | Nivel o VD | Bonificador |
+|---|---:|---|---:|
+| Hasta 4 | +2 | 17–20 | +6 |
+| 5–8 | +3 | 21–24 | +7 |
+| 9–12 | +4 | 25–28 | +8 |
+| 13–16 | +5 | 29–30 | +9 |
 
 ## El bonificador no se acumula
 
@@ -29,7 +34,26 @@ La mayoría de pruebas de característica utilizan una habilidad, que representa
 Habilidades
 
 
-<table><tr><td>Habilidad</td><td>Característica</td><td>Ejemplos de usos</td></tr><tr><td>Acrobacias</td><td>Destreza</td><td>Conservar el equilibrio en situaciones difíciles o realizar una proeza acrobática.</td></tr><tr><td>Atletismo</td><td>Fuerza</td><td>Saltar más lejos de lo normal, mantenerse a flote en aguas revueltas o romper algo.</td></tr><tr><td>Conocimiento arcano</td><td>Inteligencia</td><td>Recordar información acerca de conjuros, objetos mágicos y los planos de existencia.</td></tr><tr><td>Engaño</td><td>Carisma</td><td>Contar una mentira convincente o llevar un disfraz de manera creíble.</td></tr><tr><td>Historia</td><td>Inteligencia</td><td>Recordar información sobre acontecimientos, personas, naciones y culturas de carácter histórico.</td></tr><tr><td>Interpretación</td><td>Carisma</td><td>Actuar, contar una historia, tocar un instrumento o bailar.</td></tr><tr><td>Intimidación</td><td>Carisma</td><td>Asustar o amenazar a alguien para que haga lo que tú quieres.</td></tr><tr><td>Investigación</td><td>Inteligencia</td><td>Encontrar información oculta en libros o deducir cómo funciona algo.</td></tr><tr><td>Juego de manos</td><td>Destreza</td><td>Vaciar los bolsillos a alguien, ocultar un objeto que llevas en la mano o hacer trucos de prestidigitación.</td></tr><tr><td>Medicina</td><td>Sabiduría</td><td>Diagnosticar una enfermedad o determinar de qué ha muerto un fallecido reciente.</td></tr><tr><td>Naturaleza</td><td>Inteligencia</td><td>Recordar información acerca del terreno, la flora, la fauna y el clima.</td></tr><tr><td>Percepción</td><td>Sabiduría</td><td>Mediante una combinación de sentidos, darse cuenta de algo que es fácil pasar por alto.</td></tr><tr><td>Perspicacia</td><td>Sabiduría</td><td>Discernir el estado de ánimo y las intenciones de una persona.</td></tr><tr><td>Persuasión</td><td>Carisma</td><td>Convencer a alguien de algo de una manera sincera y amable.</td></tr><tr><td>Religión</td><td>Inteligencia</td><td>Recordar información sobre dioses, rituales religiosos y símbolos sagrados.</td></tr><tr><td>Sigilo</td><td>Destreza</td><td>Pasar desapercibido al caminar en silencio y ocultarse detrás de las cosas.</td></tr><tr><td>Supervivencia</td><td>Sabiduría</td><td>Seguir huellas, forrajear, encontrar un camino o evitar peligros naturales.</td></tr><tr><td>Trato con animales</td><td>Sabiduría</td><td>Tranquilizar o adiestrar a un animal, o conseguir que se comporte de una determinada forma.</td></tr></table>
+| Habilidad | Característica | Ejemplos de usos |
+|---|---|---|
+| Acrobacias | Destreza | Conservar el equilibrio en situaciones difíciles o realizar una proeza acrobática. |
+| Atletismo | Fuerza | Saltar más lejos de lo normal, mantenerse a flote en aguas revueltas o romper algo. |
+| Conocimiento arcano | Inteligencia | Recordar información acerca de conjuros, objetos mágicos y los planos de existencia. |
+| Engaño | Carisma | Contar una mentira convincente o llevar un disfraz de manera creíble. |
+| Historia | Inteligencia | Recordar información sobre acontecimientos, personas, naciones y culturas de carácter histórico. |
+| Interpretación | Carisma | Actuar, contar una historia, tocar un instrumento o bailar. |
+| Intimidación | Carisma | Asustar o amenazar a alguien para que haga lo que tú quieres. |
+| Investigación | Inteligencia | Encontrar información oculta en libros o deducir cómo funciona algo. |
+| Juego de manos | Destreza | Vaciar los bolsillos a alguien, ocultar un objeto que llevas en la mano o hacer trucos de prestidigitación. |
+| Medicina | Sabiduría | Diagnosticar una enfermedad o determinar de qué ha muerto un fallecido reciente. |
+| Naturaleza | Inteligencia | Recordar información acerca del terreno, la flora, la fauna y el clima. |
+| Percepción | Sabiduría | Mediante una combinación de sentidos, darse cuenta de algo que es fácil pasar por alto. |
+| Perspicacia | Sabiduría | Discernir el estado de ánimo y las intenciones de una persona. |
+| Persuasión | Carisma | Convencer a alguien de algo de una manera sincera y amable. |
+| Religión | Inteligencia | Recordar información sobre dioses, rituales religiosos y símbolos sagrados. |
+| Sigilo | Destreza | Pasar desapercibido al caminar en silencio y ocultarse detrás de las cosas. |
+| Supervivencia | Sabiduría | Seguir huellas, forrajear, encontrar un camino o evitar peligros naturales. |
+| Trato con animales | Sabiduría | Tranquilizar o adiestrar a un animal, o conseguir que se comporte de una determinada forma. |
 
 última palabra sobre la relevancia de una habilidad en una determinada situación. 
 

@@ -11,7 +11,20 @@ Cuando haces algo que no sea moverte o comunicarte, normalmente debes llevar a c
 Acciones
 
 
-<table><tr><td>Acción</td><td>Resumen</td></tr><tr><td>Atacar</td><td>Atacas con un arma o un ataque sin armas.</td></tr><tr><td>Ayudar</td><td>Ayudas a otra criatura en una prueba de característica o tirada de ataque, o administras primeros auxilios.</td></tr><tr><td>Buscar</td><td>Haces una prueba de Sabiduría (Medicina, Percepción, Perspicacia o Supervivencia).</td></tr><tr><td>Correr</td><td>Durante el resto del turno, te concedes movimiento adicional equivalente a tu velocidad.</td></tr><tr><td>Destra-barse</td><td>Tu movimiento no provocará ataques de oportunidad durante el resto del turno.</td></tr><tr><td>Escon-derse</td><td>Haces una prueba de Destreza (Sigilo).</td></tr><tr><td>Esquivar</td><td>Hasta el principio de tu siguiente turno, las tiradas de ataque contra ti tendrán desven-taja y realizarás las tiradas de salvación de Destreza con ventaja. Perderás este beneficio si tienes el estado de incapacitado o si tu velocidad es 0.</td></tr><tr><td>Estudiar</td><td>Haces una prueba de Inteligencia (Conocimiento arcano, Historia, Investigación, Naturaleza o Religión).</td></tr><tr><td>Influir</td><td>Haces una prueba de Carisma (Engaño, Interpretación, Intimidación o Persuasión) o Sabiduría (Trato con animales) para cambiar la actitud de una criatura.</td></tr><tr><td>Magia</td><td>Lanzas un conjuro, utilizas un objeto mágico o empleas un rasgo mágico.</td></tr><tr><td>Preparar una acción</td><td>Te preparas para llevar a cabo una acción en respuesta a un suceso que tú definas.</td></tr><tr><td>Utilizar</td><td>Usas un objeto no mágico.</td></tr></table>
+| Acción | Resumen |
+|---|---|
+| Atacar | Atacas con un arma o un ataque sin armas. |
+| Ayudar | Ayudas a otra criatura en una prueba de característica o tirada de ataque, o administras primeros auxilios. |
+| Buscar | Haces una prueba de Sabiduría (Medicina, Percepción, Perspicacia o Supervivencia). |
+| Correr | Durante el resto del turno, te concedes movimiento adicional equivalente a tu velocidad. |
+| Destra-barse | Tu movimiento no provocará ataques de oportunidad durante el resto del turno. |
+| Escon-derse | Haces una prueba de Destreza (Sigilo). |
+| Esquivar | Hasta el principio de tu siguiente turno, las tiradas de ataque contra ti tendrán desven-taja y realizarás las tiradas de salvación de Destreza con ventaja. Perderás este beneficio si tienes el estado de incapacitado o si tu velocidad es 0. |
+| Estudiar | Haces una prueba de Inteligencia (Conocimiento arcano, Historia, Investigación, Naturaleza o Religión). |
+| Influir | Haces una prueba de Carisma (Engaño, Interpretación, Intimidación o Persuasión) o Sabiduría (Trato con animales) para cambiar la actitud de una criatura. |
+| Magia | Lanzas un conjuro, utilizas un objeto mágico o empleas un rasgo mágico. |
+| Preparar una acción | Te preparas para llevar a cabo una acción en respuesta a un suceso que tú definas. |
+| Utilizar | Usas un objeto no mágico. |
 
 Los personajes de los jugadores y los monstruos pueden hacer otras cosas que no se abarcan en estas acciones. Muchos rasgos de clase y otras características proporcionan opciones adicionales para tus acciones, y también puedes improvisar otras acciones. Para realizar una acción que no aparezca en las reglas, tu Game Master te dirá si esa acción es posible y qué tipo de prueba con d20 tienes que realizar (si fuera necesario). 
 

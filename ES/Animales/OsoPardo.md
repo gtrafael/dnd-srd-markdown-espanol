@@ -16,8 +16,14 @@ related_en: "[[Animals/Brown Bear|Brown Bear (EN)]]"
 
 **Velocidad:** 12 m, trepar 9 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>17</td><td>+3</td><td>+3</td><td>DES</td><td>12</td><td>+1</td><td>+1</td><td>CON</td><td>15</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>SAB</td><td>13</td><td>+1</td><td>+1</td><td>CAR</td><td>7</td><td>-2</td><td>-2</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 17 | +3 | +3 |
+| DES | 12 | +1 | +1 |
+| CON | 15 | +2 | +2 |
+| INT | 2 | -4 | -4 |
+| SAB | 13 | +1 | +1 |
+| CAR | 7 | -2 | -2 |
 **Habilidades:** Percepción +3
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 13

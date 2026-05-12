@@ -16,8 +16,14 @@ related_en: "[[Animals/Pony|Pony (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>15</td><td>+2</td><td>+4</td><td>DES</td><td>10</td><td>+0</td><td>+0</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>SAB</td><td>11</td><td>+0</td><td>+0</td><td>CAR</td><td>7</td><td>-2</td><td>-2</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 15 | +2 | +4 |
+| DES | 10 | +0 | +0 |
+| CON | 13 | +1 | +1 |
+| INT | 2 | -4 | -4 |
+| SAB | 11 | +0 | +0 |
+| CAR | 7 | -2 | -2 |
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno

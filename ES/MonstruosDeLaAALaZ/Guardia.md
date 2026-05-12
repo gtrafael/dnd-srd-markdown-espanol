@@ -16,7 +16,14 @@ related_en: "[[Monsters/Guard|Guard (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>13</td><td>+1</td><td>+1</td><td>DES</td><td>12</td><td>+1</td><td>+1</td><td>CON</td><td>12</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>11</td><td>+0</td><td>+0</td><td>CAR</td><td>10</td><td>+0</td><td>+0</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 13 | +1 | +1 |
+| DES | 12 | +1 | +1 |
+| CON | 12 | +1 | +1 |
+| INT | 10 | +0 | +0 |
+| SAB | 11 | +0 | +0 |
+| CAR | 10 | +0 | +0 |
 
 **Habilidades:** Percepción +2
 

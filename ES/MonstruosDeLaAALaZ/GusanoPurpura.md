@@ -16,7 +16,14 @@ related_en: "[[Monsters/Purple Worm|Purple Worm (EN)]]"
 
 **Velocidad:** 15 m, excavar 15 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>28</td><td>+9</td><td>+9</td><td>DES</td><td>7</td><td>-2</td><td>-2</td><td>CON22</td><td>+6</td><td>+11</td><td></td></tr><tr><td>INT</td><td>1</td><td>-5</td><td>-5</td><td>SAB</td><td>8</td><td>-1</td><td>+4</td><td>CAR</td><td>4</td><td>-3</td><td>-3</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |    28 |  +9 |   +9 |
+| DES   |     7 |  -2 |   -2 |
+| CON   |    22 |  +6 |  +11 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     8 |  -1 |   +4 |
+| CAR   |     4 |  -3 |   -3 |
 
 **Sentidos:** sentir vibraciones 18 m, visión ciega 9 m; Percepción pasiva 9
 

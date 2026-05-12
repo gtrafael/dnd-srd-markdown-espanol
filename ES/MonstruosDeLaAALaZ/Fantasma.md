@@ -16,7 +16,14 @@ related_en: "[[Monsters/Ghost|Ghost (EN)]]"
 
 **Velocidad:** 1,5 m, volar 12 m (levitar)
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>7</td><td>-2</td><td>-2</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>10</td><td>+0</td><td>+0</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>17</td><td>+3</td><td>+3</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 7 | -2 | -2 |
+| DES | 13 | +1 | +1 |
+| CON | 10 | +0 | +0 |
+| INT | 10 | +0 | +0 |
+| SAB | 12 | +1 | +1 |
+| CAR | 17 | +3 | +3 |
 
 **Resistencias:** ácido, contundente, cortante, frío, fuego, perforante, relámpago, trueno
 

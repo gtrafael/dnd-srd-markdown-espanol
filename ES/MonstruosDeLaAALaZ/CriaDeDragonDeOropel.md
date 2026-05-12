@@ -16,8 +16,14 @@ related_en: "[[Monsters/Brass Dragon Wyrmling|Brass Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, excavar 4,5 m, volar 18 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>15</td><td>+2</td><td>+2</td><td>DES</td><td>10</td><td>+0</td><td>+2</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>11</td><td>+0</td><td>+2</td><td>CAR</td><td>13</td><td>+1</td><td>+1</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 15 | +2 | +2 |
+| DES | 10 | +0 | +2 |
+| CON | 13 | +1 | +1 |
+| INT | 10 | +0 | +0 |
+| SAB | 11 | +0 | +2 |
+| CAR | 13 | +1 | +1 |
 **Habilidades:** Percepción +4, Sigilo +2
 
 **Inmunidades:** fuego

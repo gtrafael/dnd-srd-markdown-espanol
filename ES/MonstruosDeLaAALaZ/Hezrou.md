@@ -16,7 +16,14 @@ related_en: "[[Monsters/Hezrou|Hezrou (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>19</td><td>+4</td><td>+7</td><td>DES</td><td>17</td><td>+3</td><td>+3</td><td>CON</td><td>20</td><td>+5</td><td>+8</td></tr><tr><td>INT</td><td>5</td><td>-3</td><td>-3</td><td>SAB</td><td>12</td><td>+1</td><td>+4</td><td>CAR</td><td>13</td><td>+1</td><td>+1</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 19 | +4 | +7 |
+| DES | 17 | +3 | +3 |
+| CON | 20 | +5 | +8 |
+| INT | 5 | -3 | -3 |
+| SAB | 12 | +1 | +4 |
+| CAR | 13 | +1 | +1 |
 
 **Resistencias:** frío, fuego, relámpago
 

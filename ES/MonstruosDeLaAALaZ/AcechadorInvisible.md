@@ -14,7 +14,14 @@ related_en: "[[Monsters/Invisible Stalker|Invisible Stalker (EN)]]"
 
 **Velocidad:** 15 m, volar 15 m (levitar)
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>16</td><td>+3</td><td>+3</td><td>DES</td><td>19</td><td>+4</td><td>+4</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>15</td><td>+2</td><td>+2</td><td>CAR</td><td>11</td><td>+0</td><td>+0</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 16 | +3 | +3 |
+| DES | 19 | +4 | +4 |
+| CON | 14 | +2 | +2 |
+| INT | 10 | +0 | +0 |
+| SAB | 15 | +2 | +2 |
+| CAR | 11 | +0 | +0 |
 
 **Habilidades:** Percepción +8, Sigilo +10
 

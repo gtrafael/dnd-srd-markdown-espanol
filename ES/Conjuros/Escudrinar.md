@@ -18,9 +18,17 @@ related_en: "[[Spells/Scrying|Scrying (EN)]]"
 
 Puedes ver y oír a una criatura de tu elección que esté en el mismo plano de existencia que tú. El objetivo hace una tirada de salvación de Sabiduría, modificada en función de lo bien que conozcas al objetivo y el tipo de conexión física que tengas con él (consulta las tablas más adelante). El objetivo desconoce contra qué hace la tirada de salvación; solo sabe que siente intranquilidad. 
 
-<table><tr><td>Conocimiento sobre el objetivo</td><td>Modificador de la tirada de salvación</td></tr><tr><td>De segundas (has oído hablar del objetivo)</td><td>+5</td></tr><tr><td>De primera mano (has conocido al objetivo)</td><td>+0</td></tr><tr><td>Familiar (conoces bien al objetivo)</td><td>-5</td></tr></table>
+| Conocimiento sobre el objetivo             | Modificador de la tirada de salvación |
+|--------------------------------------------|--------------------------------------:|
+| De segundas (has oído hablar del objetivo) |                                    +5 |
+| De primera mano (has conocido al objetivo) |                                    +0 |
+| Familiar (conoces bien al objetivo)        |                                    -5 |
 
-<table><tr><td>¿Qué tienes del objetivo?</td><td>Modificador de la tirada de salvación</td></tr><tr><td>Dibujo u otro retrato</td><td>-2</td></tr><tr><td>Prenda u otra posesión</td><td>-4</td></tr><tr><td>Parte del cuerpo, mechón de pelo o trozo de uña</td><td>-10</td></tr></table>
+| ¿Qué tienes del objetivo?                       | Modificador de la tirada de salvación |
+|-------------------------------------------------|--------------------------------------:|
+| Dibujo u otro retrato                           |                                    -2 |
+| Prenda u otra posesión                          |                                    -4 |
+| Parte del cuerpo, mechón de pelo o trozo de uña |                                   -10 |
 
 Si supera la tirada de salvación, el objetivo no se verá afectado y no podrás volver a usar este conjuro con él durante 24 horas. 
 

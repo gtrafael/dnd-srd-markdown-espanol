@@ -11,5 +11,9 @@ Los asalariados cualificados serán aquellos que presten un servicio que precise
 Asalariados
 
 
-<table><tr><td>Servicio</td><td>Remuneración</td></tr><tr><td>Asalariado cualificado</td><td>2 po al día</td></tr><tr><td>Asalariado no cualificado</td><td>2 pp al día</td></tr><tr><td>Mensajero</td><td>1 o 2 pc por kilómetro</td></tr></table>
+| Servicio                  | Remuneración           |
+|---------------------------|------------------------|
+| Asalariado cualificado    | 2 po al día            |
+| Asalariado no cualificado | 2 pp al día            |
+| Mensajero                 | 1 o 2 pc por kilómetro |
 

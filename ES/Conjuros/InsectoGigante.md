@@ -33,7 +33,14 @@ Bestia Grande, sin alineamiento
 
 **Velocidad:** 12 m, trepar 12 m, volar 12 m (solo avispa)
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>17</td><td>+3</td><td>+3</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>15</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>4</td><td>-3</td><td>-3</td><td>SAB</td><td>14</td><td>+2</td><td>+2</td><td>CAR</td><td>3</td><td>-4</td><td>-4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     4 |  -3 |   -3 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 12
 

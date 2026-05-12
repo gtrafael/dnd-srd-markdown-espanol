@@ -112,7 +112,11 @@ Ritmo de viaje
 Distancia recorrida por…
 
 
-<table><tr><td>Ritmo</td><td>Minuto</td><td>Hora</td><td>Día</td></tr><tr><td>Rápido</td><td>120 m</td><td>6 km</td><td>45 km</td></tr><tr><td>Normal</td><td>90 m</td><td>4,5 km</td><td>36 km</td></tr><tr><td>Lento</td><td>60 m</td><td>3 km</td><td>27 km</td></tr></table>
+| Ritmo | Minuto | Hora | Día |
+|---|---|---|---|
+| Rápido | 120 m | 6 km | 45 km |
+| Normal | 90 m | 4,5 km | 36 km |
+| Lento | 60 m | 3 km | 27 km |
 
 Cada ritmo de viaje tiene un efecto en el juego, como se describe a continuación. 
 

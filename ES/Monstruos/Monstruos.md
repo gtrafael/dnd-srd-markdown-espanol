@@ -95,7 +95,14 @@ Normalmente, el tamaño del monstruo determina qué dado se usará para calcular
 
 **Dado de golpe por tamaño**
 
-<table><tr><td>Tamaño del monstruo</td><td>Dado de golpe</td><td>PG medios por dado</td></tr><tr><td>Diminuto</td><td>d4</td><td><eq>2\frac{1}{2}</eq></td></tr><tr><td>Pequeño</td><td>d6</td><td><eq>3\frac{1}{2}</eq></td></tr><tr><td>Mediano</td><td>d8</td><td><eq>4\frac{1}{2}</eq></td></tr><tr><td>Grande</td><td>d10</td><td><eq>5\frac{1}{2}</eq></td></tr><tr><td>Enorme</td><td>d12</td><td><eq>6\frac{1}{2}</eq></td></tr><tr><td>Gargantuesco</td><td>d20</td><td><eq>10\frac{1}{2}</eq></td></tr></table>
+| Tamaño del monstruo | Dado de golpe | PG medios por dado |
+|---------------------|---------------|--------------------|
+| Diminuto            | d4            | 2\frac{1}{2}       |
+| Pequeño             | d6            | 3\frac{1}{2}       |
+| Mediano             | d8            | 4\frac{1}{2}       |
+| Grande              | d10           | 5\frac{1}{2}       |
+| Enorme              | d12           | 6\frac{1}{2}       |
+| Gargantuesco        | d20           | 10\frac{1}{2}      |
 
 El modificador por Constitución de un monstruo se multiplica por el número de dados de golpe que posee y el resultado se suma a sus puntos de golpe. Por ejemplo, un monstruo con una Constitución de 12 (modificador de +1) y 2d8 dados de golpe tendrá 2d8 + 2 puntos de golpe (11 de media).
 
@@ -175,7 +182,25 @@ A menos que una regla indique lo contrario, un monstruo invocado mediante un con
 **Puntos de experiencia por valor de desafío**
 
 
-<table><tr><td>VD</td><td>PX</td><td>VD</td><td>PX</td></tr><tr><td>0</td><td>0 o 10</td><td>14</td><td>11 500</td></tr><tr><td>1/8</td><td>25</td><td>15</td><td>13 000</td></tr><tr><td>1/4</td><td>50</td><td>16</td><td>15 000</td></tr><tr><td>1/2</td><td>100</td><td>17</td><td>18 000</td></tr><tr><td>1</td><td>200</td><td>18</td><td>20 000</td></tr><tr><td>2</td><td>450</td><td>19</td><td>22 000</td></tr><tr><td>3</td><td>700</td><td>20</td><td>25 000</td></tr><tr><td>4</td><td>1100</td><td>21</td><td>33 000</td></tr><tr><td>5</td><td>1800</td><td>22</td><td>41 000</td></tr><tr><td>6</td><td>2300</td><td>23</td><td>50 000</td></tr><tr><td>7</td><td>2900</td><td>24</td><td>62 000</td></tr><tr><td>8</td><td>3900</td><td>25</td><td>75 000</td></tr><tr><td>9</td><td>5000</td><td>26</td><td>90 000</td></tr><tr><td>10</td><td>5900</td><td>27</td><td>105 000</td></tr><tr><td>11</td><td>7200</td><td>28</td><td>120 000</td></tr><tr><td>12</td><td>8400</td><td>29</td><td>135 000</td></tr><tr><td>13</td><td>10 000</td><td>30</td><td>155 000</td></tr></table>
+| VD  | PX     | VD | PX      |
+|-----|--------|---:|---------|
+| 0   | 0 o 10 | 14 | 11 500  |
+| 1/8 | 25     | 15 | 13 000  |
+| 1/4 | 50     | 16 | 15 000  |
+| 1/2 | 100    | 17 | 18 000  |
+| 1   | 200    | 18 | 20 000  |
+| 2   | 450    | 19 | 22 000  |
+| 3   | 700    | 20 | 25 000  |
+| 4   | 1100   | 21 | 33 000  |
+| 5   | 1800   | 22 | 41 000  |
+| 6   | 2300   | 23 | 50 000  |
+| 7   | 2900   | 24 | 62 000  |
+| 8   | 3900   | 25 | 75 000  |
+| 9   | 5000   | 26 | 90 000  |
+| 10  | 5900   | 27 | 105 000 |
+| 11  | 7200   | 28 | 120 000 |
+| 12  | 8400   | 29 | 135 000 |
+| 13  | 10 000 | 30 | 155 000 |
 
 ### Bonificador por competencia
 
@@ -185,7 +210,12 @@ El bonificador por competencia (BC) de un monstruo lo determina su VD, como se m
 **Bonificador por competencia por valor de desafío**
 
 
-<table><tr><td>VD</td><td>BC</td><td>VD</td><td>BC</td></tr><tr><td>0–4</td><td>+2</td><td>17–20</td><td>+6</td></tr><tr><td>5–8</td><td>+3</td><td>21–24</td><td>+7</td></tr><tr><td>9–12</td><td>+4</td><td>25–28</td><td>+8</td></tr><tr><td>13–16</td><td>+5</td><td>29–30</td><td>+9</td></tr></table>
+| VD    | BC | VD    | BC |
+|-------|---:|-------|---:|
+| 0–4   | +2 | 17–20 | +6 |
+| 5–8   | +3 | 21–24 | +7 |
+| 9–12  | +4 | 25–28 | +8 |
+| 13–16 | +5 | 29–30 | +9 |
 
 ## Atributos
 

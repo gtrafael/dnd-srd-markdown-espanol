@@ -14,7 +14,14 @@ related_en: "[[Monsters/Vrock|Vrock (EN)]]"
 
 **Velocidad:** 12 m, volar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 17</td><td>+3</td><td>+3</td><td>DES 15</td><td>+2</td><td>+5</td><td>CON 18</td><td>+4</td><td>+4</td><td></td></tr><tr><td>INT 8</td><td>-1</td><td>-1</td><td>SAB 13</td><td>+1</td><td>+4</td><td>CAR 8</td><td>-1</td><td>+2</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 17 | +3 | +3 |
+| DES | 15 | +2 | +5 |
+| CON | 18 | +4 | +4 |
+| INT | 8 | -1 | -1 |
+| SAB | 13 | +1 | +4 |
+| CAR | 8 | -1 | +2 |
 
 **Resistencias:** frío, fuego, relámpago
 

@@ -16,7 +16,14 @@ related_en: "[[Monsters/Sphinx of Wonder|Sphinx of Wonder (EN)]]"
 
 **Velocidad:** 6 m, volar 12 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>6</td><td>-2</td><td>-2</td><td>DES</td><td>17</td><td>+3</td><td>+3</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>15</td><td>+2</td><td>+2</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>11</td><td>+0</td><td>+0</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 6 | -2 | -2 |
+| DES | 17 | +3 | +3 |
+| CON | 13 | +1 | +1 |
+| INT | 15 | +2 | +2 |
+| SAB | 12 | +1 | +1 |
+| CAR | 11 | +0 | +0 |
 
 **Habilidades:** Conocimiento arcano +4, Religión +4, Sigilo +5
 

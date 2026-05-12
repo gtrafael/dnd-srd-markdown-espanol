@@ -16,7 +16,14 @@ related_en: "[[Monsters/Glabrezu|Glabrezu (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>20</td><td>+5</td><td>+9</td><td>DES</td><td>15</td><td>+2</td><td>+2</td><td>CON</td><td>21</td><td>+5</td><td>+9</td></tr><tr><td>INT</td><td>19</td><td>+4</td><td>+4</td><td>SAB</td><td>17</td><td>+3</td><td>+7</td><td>CAR</td><td>16</td><td>+3</td><td>+7</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 20 | +5 | +9 |
+| DES | 15 | +2 | +2 |
+| CON | 21 | +5 | +9 |
+| INT | 19 | +4 | +4 |
+| SAB | 17 | +3 | +7 |
+| CAR | 16 | +3 | +7 |
 
 **Habilidades:** Engaño +7, Percepción +7
 

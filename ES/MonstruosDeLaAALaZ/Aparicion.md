@@ -16,7 +16,14 @@ related_en: "[[Monsters/Wraith|Wraith (EN)]]"
 
 **Velocidad:** 1,5 m, volar 18 m (levitar)
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>6</td><td>-2</td><td>-2</td><td>DES</td><td>16</td><td>+3</td><td>+3</td><td>CON</td><td>16</td></tr><tr><td>INT</td><td>12</td><td>+1</td><td>+1</td><td>SAB</td><td>14</td><td>+2</td><td>+2</td><td>CAR</td><td>15</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 6 | -2 | -2 |
+| DES | 16 | +3 | +3 |
+| CON | 16 | — | — |
+| INT | 12 | +1 | +1 |
+| SAB | 14 | +2 | +2 |
+| CAR | 15 | — | — |
 
 **Resistencias:** ácido, contundente, cortante, frío, fuego, perforante
 

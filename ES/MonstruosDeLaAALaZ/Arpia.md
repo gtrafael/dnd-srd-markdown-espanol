@@ -16,7 +16,14 @@ related_en: "[[Monsters/Harpy|Harpy (EN)]]"
 
 **Velocidad:** 6 m, volar 12 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>12</td><td>+1</td><td>+1</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>12</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>7</td><td>-2</td><td>-2</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>13</td><td>+1</td><td>+1</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 12 | +1 | +1 |
+| DES | 13 | +1 | +1 |
+| CON | 12 | +1 | +1 |
+| INT | 7 | -2 | -2 |
+| SAB | 10 | +0 | +0 |
+| CAR | 13 | +1 | +1 |
 
 **Sentidos:** Percepción pasiva 10
 

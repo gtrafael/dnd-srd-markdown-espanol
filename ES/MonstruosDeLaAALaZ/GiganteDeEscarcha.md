@@ -16,7 +16,14 @@ related_en: "[[Monsters/Frost Giant|Frost Giant (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>23</td><td>+6</td><td>+6</td><td>DES</td><td>9</td><td>-1</td><td>-1</td><td>CON</td><td>21</td><td>+5</td><td>+8</td></tr><tr><td>INT</td><td>9</td><td>-1</td><td>-1</td><td>SAB</td><td>10</td><td>+0</td><td>+3</td><td>CAR</td><td>12</td><td>+1</td><td>+4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 23 | +6 | +6 |
+| DES | 9 | -1 | -1 |
+| CON | 21 | +5 | +8 |
+| INT | 9 | -1 | -1 |
+| SAB | 10 | +0 | +3 |
+| CAR | 12 | +1 | +4 |
 
 **Habilidades:** Atletismo +9, Percepción +3
 

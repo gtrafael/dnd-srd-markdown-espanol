@@ -12,7 +12,17 @@ related_en: "[[Treasure/Magic Items|Magic Items (EN)]]"
 
 Todos los objetos mágicos pertenecen a una categoría. La tabla "Categorías de objetos mágicos" contiene las nueve categorías y proporciona algunos ejemplos. Las reglas para cada categoría se indican tras la tabla.
 
-<table><tr><td>Categoría</td><td>Ejemplos</td></tr><tr><td>Anillos</td><td>Anillo de invisibilidad</td></tr><tr><td>Armaduras</td><td>Armadura de cuero +1, escudo +1</td></tr><tr><td>Armas</td><td>Espada larga +1, munición +1</td></tr><tr><td>Bastones</td><td>Bastón de impacto</td></tr><tr><td>Objetos maravillosos</td><td>Bolsa de contención, botas élficas</td></tr><tr><td>Pergaminos</td><td>Pergamino de conjuro</td></tr><tr><td>Pociones</td><td>Poción de curación</td></tr><tr><td>Varas</td><td>Vara inamovible</td></tr><tr><td>Varitas</td><td>Varita de bolas de fuego</td></tr></table>
+| Categoría            | Ejemplos                           |
+|----------------------|------------------------------------|
+| Anillos              | Anillo de invisibilidad            |
+| Armaduras            | Armadura de cuero +1, escudo +1    |
+| Armas                | Espada larga +1, munición +1       |
+| Bastones             | Bastón de impacto                  |
+| Objetos maravillosos | Bolsa de contención, botas élficas |
+| Pergaminos           | Pergamino de conjuro               |
+| Pociones             | Poción de curación                 |
+| Varas                | Vara inamovible                    |
+| Varitas              | Varita de bolas de fuego           |
 
 ### Anillos
 
@@ -58,7 +68,16 @@ Un objeto de esta categoría puede ser una infusión mágica consumible o un ace
 
 Cuando un personaje mezcle dos pociones, tira en la tabla "Miscibilidad de pociones". Si se juntan más de dos, tira de nuevo por cada poción posterior, combinando los resultados. A menos que los efectos sean obvios de forma inmediata, no los reveles hasta que sean evidentes.
 
-<table><tr><td>1d100</td><td>Resultado</td></tr><tr><td>01</td><td>Ambas pociones pierden sus efectos y la mezcla provoca una explosión mágica en una esfera de 1,5 m de radio centrada en sí misma. Todas las criaturas situadas en esa zona sufren 4d10 de daño de fuerza.</td></tr><tr><td>02–08</td><td>Ambas pociones pierden sus efectos y la mezcla se convierte en un veneno ingerido de tu elección (consulta "Veneno" en "Herramientas del juego").</td></tr><tr><td>09–15</td><td>Ambas pociones pierden sus efectos.</td></tr><tr><td>16–25</td><td>Una poción pierde sus efectos.</td></tr><tr><td>26–35</td><td>Ambas pociones funcionan, pero sus efectos numéricos y duraciones se reducen a la mitad. Una poción que no tenga efecto numérico ni duración perderá sus efectos.</td></tr><tr><td>36–90</td><td>Ambas pociones funcionan con normalidad.</td></tr><tr><td>91–99</td><td>Ambas pociones funcionan, pero se duplican los efectos y la duración de una de ellas. Si ninguna poción tiene nada que se pueda duplicar, funcionan de forma normal.</td></tr><tr><td>00</td><td>Solo funciona una de las pociones, pero su efecto es permanente. Elige el efecto que sea más sencillo hacer permanente o el que parezca más divertido. Por ejemplo, una poción de curación podría incrementar los puntos de golpe máximos de quien la beba en 2d4 + 2, o una poción de invisibilidad podría darle a quien la beba el estado de invisible de forma permanente. Bajo tu criterio, un conjuro como disipar magia u otro efecto mágico similar podría terminar este efecto.</td></tr></table>
+| 1d100 | Resultado                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01    | Ambas pociones pierden sus efectos y la mezcla provoca una explosión mágica en una esfera de 1,5 m de radio centrada en sí misma. Todas las criaturas situadas en esa zona sufren 4d10 de daño de fuerza.                                                                                                                                                                                                                                                                               |
+| 02–08 | Ambas pociones pierden sus efectos y la mezcla se convierte en un veneno ingerido de tu elección (consulta "Veneno" en "Herramientas del juego").                                                                                                                                                                                                                                                                                                                                       |
+| 09–15 | Ambas pociones pierden sus efectos.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 16–25 | Una poción pierde sus efectos.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 26–35 | Ambas pociones funcionan, pero sus efectos numéricos y duraciones se reducen a la mitad. Una poción que no tenga efecto numérico ni duración perderá sus efectos.                                                                                                                                                                                                                                                                                                                       |
+| 36–90 | Ambas pociones funcionan con normalidad.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 91–99 | Ambas pociones funcionan, pero se duplican los efectos y la duración de una de ellas. Si ninguna poción tiene nada que se pueda duplicar, funcionan de forma normal.                                                                                                                                                                                                                                                                                                                    |
+| 00    | Solo funciona una de las pociones, pero su efecto es permanente. Elige el efecto que sea más sencillo hacer permanente o el que parezca más divertido. Por ejemplo, una poción de curación podría incrementar los puntos de golpe máximos de quien la beba en 2d4 + 2, o una poción de invisibilidad podría darle a quien la beba el estado de invisible de forma permanente. Bajo tu criterio, un conjuro como disipar magia u otro efecto mágico similar podría terminar este efecto. |
 
 ### Varas
 
@@ -96,7 +115,11 @@ Los objetos mágicos comunes a menudo se pueden comprar en pueblos o ciudades. L
 
 Si un objeto mágico incluye un objeto que tiene un precio de compra en el capítulo "Equipo" (como un arma o una armadura), suma el precio de ese objeto al valor del objeto mágico. Por ejemplo, una armadura +1 (armadura de placas) tiene un valor de 5500 po, que será la suma del valor de un objeto mágico raro (4000 po) y el coste de una armadura de placas (1500 po).
 
-<table><tr><td>Rareza</td><td>Valor*</td><td>Rareza</td><td>Valor*</td></tr><tr><td>Común</td><td>100 po</td><td>Muy raro</td><td>40 000 po</td></tr><tr><td>Infrecuente</td><td>400 po</td><td>Legendario</td><td>200 000 po</td></tr><tr><td>Raro</td><td>4000 po</td><td>Artefacto</td><td>Incalculable</td></tr></table>
+| Rareza      | Valor*  | Rareza     | Valor*       |
+|-------------|---------|------------|--------------|
+| Común       | 100 po  | Muy raro   | 40 000 po    |
+| Infrecuente | 400 po  | Legendario | 200 000 po   |
+| Raro        | 4000 po | Artefacto  | Incalculable |
 
 *La mitad del valor si es un objeto consumible distinto a un pergamino de conjuro. El valor de un pergamino de conjuro es el doble de lo que cuesta escribir el pergamino (como se indica en el apartado "Elaborar pergaminos de conjuro" del capítulo "Equipo").
 
@@ -150,7 +173,17 @@ Para fabricar un objeto mágico, tus ayudantes y tú debéis tener competencia e
 
 La tabla "Herramientas para objetos mágicos" indica qué herramienta se necesita para fabricar un objeto mágico de cada categoría. Debes utilizar la herramienta necesaria para crear un objeto y ser competente con esa herramienta. Además, cualquiera que te ayude también debe ser competente con ella. Para más información sobre las herramientas, consulta el capítulo "Equipo".
 
-<table><tr><td>Categoría de objetos</td><td>Herramienta necesaria</td></tr><tr><td>Anillo</td><td>Herramientas de joyero</td></tr><tr><td>Armadura</td><td>Herramientas de curtidor, herramientas de herrero o herramientas de tejedor, en función del tipo de armadura, según se indique en la descripción de las herramientas</td></tr><tr><td>Arma</td><td>Herramientas de curtidor, herramientas de ebanista o herramientas de herrero, en función del tipo de arma, según se indique en la descripción de las herramientas</td></tr><tr><td>Bastón</td><td>Herramientas de ebanista</td></tr><tr><td>Objeto maravilloso</td><td>Herramientas de manitas o la herramienta necesaria para crear el objeto no mágico en el que se basa el objeto mágico</td></tr><tr><td>Pergamino</td><td>Suministros de calígrafo</td></tr><tr><td>Poción</td><td>Suministros de alquimista o útiles de herborista</td></tr><tr><td>Vara</td><td>Herramientas de ebanista</td></tr><tr><td>Varita</td><td>Herramientas de ebanista</td></tr></table>
+| Categoría de objetos | Herramienta necesaria                                                                                                                                                |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Anillo               | Herramientas de joyero                                                                                                                                               |
+| Armadura             | Herramientas de curtidor, herramientas de herrero o herramientas de tejedor, en función del tipo de armadura, según se indique en la descripción de las herramientas |
+| Arma                 | Herramientas de curtidor, herramientas de ebanista o herramientas de herrero, en función del tipo de arma, según se indique en la descripción de las herramientas    |
+| Bastón               | Herramientas de ebanista                                                                                                                                             |
+| Objeto maravilloso   | Herramientas de manitas o la herramienta necesaria para crear el objeto no mágico en el que se basa el objeto mágico                                                 |
+| Pergamino            | Suministros de calígrafo                                                                                                                                             |
+| Poción               | Suministros de alquimista o útiles de herborista                                                                                                                     |
+| Vara                 | Herramientas de ebanista                                                                                                                                             |
+| Varita               | Herramientas de ebanista                                                                                                                                             |
 
 ### Conjuros
 
@@ -168,7 +201,13 @@ Fabricar un objeto mágico conlleva una cantidad de tiempo y dinero que depender
 
 Si un objeto mágico incluye un objeto que tenga un precio de compra (como un arma o una armadura), también debes pagar ese coste al completo o fabricar el objeto siguiendo las reglas del capítulo "Equipo". Por ejemplo, para fabricar una armadura +1 (armadura de placas), debes pagar 3500 po o 2000 po y fabricar la armadura.
 
-<table><tr><td>Rareza del objeto</td><td>Tiempo*</td><td>Precio*</td></tr><tr><td>Común</td><td>5 días</td><td>50 po</td></tr><tr><td>Infrecuente</td><td>10 días</td><td>200 po</td></tr><tr><td>Raro</td><td>50 días</td><td>2000 po</td></tr><tr><td>Muy raro</td><td>125 días</td><td>20 000 po</td></tr><tr><td>Legendario</td><td>250 días</td><td>100 000 po</td></tr></table>
+| Rareza del objeto | Tiempo*  | Precio*    |
+|-------------------|----------|------------|
+| Común             | 5 días   | 50 po      |
+| Infrecuente       | 10 días  | 200 po     |
+| Raro              | 50 días  | 2000 po    |
+| Muy raro          | 125 días | 20 000 po  |
+| Legendario        | 250 días | 100 000 po |
 
 *El tiempo y el precio se reducen a la mitad si es un objeto consumible distinto a un pergamino de conjuro, cuyo tiempo y coste de fabricación se indican en el capítulo "Equipo".
 
@@ -192,25 +231,51 @@ Un objeto mágico consciente tiene puntuaciones de Inteligencia, Sabiduría y Ca
 
 Un objeto mágico consciente posee un alineamiento. Su creador o su naturaleza podrían determinar de cuál se trata. En caso contrario, puedes escoger uno o tirar en la tabla «Alineamiento del objeto consciente».
 
-<table><tr><td>1d100</td><td>Alineamiento</td><td>1d100</td><td>Alineamiento</td></tr><tr><td>01–15</td><td>Legal bueno</td><td>74–85</td><td>Caótico neutral</td></tr><tr><td>16–35</td><td>Neutral bueno</td><td>86–89</td><td>Legal malvado</td></tr><tr><td>36–50</td><td>Caótico bueno</td><td>90–96</td><td>Neutral malvado</td></tr><tr><td>51–63</td><td>Legal neutral</td><td>97–00</td><td>Caótico malvado</td></tr><tr><td>64–73</td><td>Neutral</td><td></td><td></td></tr></table>
+| 1d100 | Alineamiento  | 1d100 | Alineamiento    |
+|-------|---------------|-------|-----------------|
+| 01–15 | Legal bueno   | 74–85 | Caótico neutral |
+| 16–35 | Neutral bueno | 86–89 | Legal malvado   |
+| 36–50 | Caótico bueno | 90–96 | Neutral malvado |
+| 51–63 | Legal neutral | 97–00 | Caótico malvado |
+| 64–73 | Neutral       |       |                 |
 
 #### Comunicación
 
 Un objeto consciente se comunica compartiendo sus emociones, emitiendo sus pensamientos telepáticamente o hablando en voz alta. Puedes escoger cómo se comunica o tirar en la tabla «Comunicación del objeto consciente».
 
-<table><tr><td>1d10</td><td>Comunicación</td></tr><tr><td>1–6</td><td>El objeto se comunica transmitiendo emociones a la criatura que lo lleva o empuña.</td></tr><tr><td>7–9</td><td>El objeto habla uno o más idiomas.</td></tr><tr><td>10</td><td>El objeto habla uno o más idiomas. Además, puede comunicarse telepáticamente con cualquier criatura que lo lleve o empuñe.</td></tr></table>
+| 1d10 | Comunicación                                                                                                               |
+|------|----------------------------------------------------------------------------------------------------------------------------|
+| 1–6  | El objeto se comunica transmitiendo emociones a la criatura que lo lleva o empuña.                                         |
+| 7–9  | El objeto habla uno o más idiomas.                                                                                         |
+| 10   | El objeto habla uno o más idiomas. Además, puede comunicarse telepáticamente con cualquier criatura que lo lleve o empuñe. |
 
 #### Sentidos
 
 Un objeto consciente puede apreciar lo que le rodea hasta cierta distancia. Puedes escoger sus sentidos o tirar en la tabla «Sentidos del objeto consciente».
 
-<table><tr><td>1d4</td><td>Sentidos</td></tr><tr><td>1</td><td>Oído y visión estándar hasta 9 m.</td></tr><tr><td>2</td><td>Oído y visión estándar hasta 18 m.</td></tr><tr><td>3</td><td>Oído y visión estándar hasta 36 m.</td></tr><tr><td>4</td><td>Oído y visión en la oscuridad hasta 36 m.</td></tr></table>
+| 1d4 | Sentidos                                  |
+|----:|-------------------------------------------|
+|   1 | Oído y visión estándar hasta 9 m.         |
+|   2 | Oído y visión estándar hasta 18 m.        |
+|   3 | Oído y visión estándar hasta 36 m.        |
+|   4 | Oído y visión en la oscuridad hasta 36 m. |
 
 #### Propósito especial
 
 Puedes darle a un objeto consciente un objetivo que trate de perseguir, quizá por encima de todo lo demás. Mientras el empleo del objeto por parte de su usuario concuerde con dicho propósito, el objeto cooperará. Si deja de concordar, podría haber un conflicto entre el usuario y el objeto (consulta «Conflicto» más adelante). Puedes escoger su propósito especial o tirar en la tabla «Propósito especial del objeto consciente».
 
-<table><tr><td>1d10</td><td>Propósito especial</td></tr><tr><td>1</td><td>Alineado. El objeto quiere derrotar o destruir a aquellos de alineamiento diametralmente opuesto. Un objeto de este tipo nunca es neutral.</td></tr><tr><td>2</td><td>Buscador de alma gemela. El objeto busca otro objeto mágico consciente; por ejemplo, uno similar a él.</td></tr><tr><td>3</td><td>Buscador de conocimiento. El objeto anhela conocimientos o está decidido a resolver un misterio, desvelar un secreto o descifrar una enigmática profecía.</td></tr><tr><td>4</td><td>Buscador de gloria. El objeto quiere ser conocido como el mejor objeto mágico del mundo, por lo que buscará la fama y notoriedad de quien lo porte.</td></tr><tr><td>5</td><td>Buscador del creador. El objeto busca a su creador y quiere saber por qué lo creó.</td></tr><tr><td>6</td><td>Buscador del destino. El objeto está convencido de que tanto él como quien lo posee tendrán papeles clave en sucesos futuros.</td></tr><tr><td>7</td><td>Destructor. El objeto ansía la destrucción e incita a su usuario a luchar de forma arbitraria.</td></tr><tr><td>8</td><td>Perdición. El objeto busca destruir o derrotar criaturas de un cierto tipo, como autómatas, infernales o muertos vivientes.</td></tr><tr><td>9</td><td>Protector. El objeto quiere defender a un tipo de criatura en particular, como elfos u hombres lobo.</td></tr><tr><td>10</td><td>Templario. El objeto quiere defender a los siervos e intereses de una deidad concreta.</td></tr></table>
+| 1d10 | Propósito especial                                                                                                                                        |
+|-----:|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1 | Alineado. El objeto quiere derrotar o destruir a aquellos de alineamiento diametralmente opuesto. Un objeto de este tipo nunca es neutral.                |
+|    2 | Buscador de alma gemela. El objeto busca otro objeto mágico consciente; por ejemplo, uno similar a él.                                                    |
+|    3 | Buscador de conocimiento. El objeto anhela conocimientos o está decidido a resolver un misterio, desvelar un secreto o descifrar una enigmática profecía. |
+|    4 | Buscador de gloria. El objeto quiere ser conocido como el mejor objeto mágico del mundo, por lo que buscará la fama y notoriedad de quien lo porte.       |
+|    5 | Buscador del creador. El objeto busca a su creador y quiere saber por qué lo creó.                                                                        |
+|    6 | Buscador del destino. El objeto está convencido de que tanto él como quien lo posee tendrán papeles clave en sucesos futuros.                             |
+|    7 | Destructor. El objeto ansía la destrucción e incita a su usuario a luchar de forma arbitraria.                                                            |
+|    8 | Perdición. El objeto busca destruir o derrotar criaturas de un cierto tipo, como autómatas, infernales o muertos vivientes.                               |
+|    9 | Protector. El objeto quiere defender a un tipo de criatura en particular, como elfos u hombres lobo.                                                      |
+|   10 | Templario. El objeto quiere defender a los siervos e intereses de una deidad concreta.                                                                    |
 
 #### Conflicto
 
@@ -229,10 +294,3 @@ Si el usuario no cumple con los deseos del objeto, este hará cualquiera de las 
 - Impedir que quien lo porte se sintonice con él.
 - Suprimir una o varias de sus propiedades activadas.
 - Intentar tomar el control de quien lo porte, que deberá hacer una tirada de salvación de Carisma con CD 12 más el modificador por Carisma del objeto. Si la falla, el portador tendrá el estado de hechizado durante 1d12 horas. Mientras esté hechizado de esta forma, deberá intentar seguir las órdenes del objeto. Si el portador recibe daño, repite la tirada y, si tiene éxito, se librará del efecto. Tanto si el intento de controlar a quien lo porta tiene éxito como si no, el objeto no puede volver a usar esta capacidad hasta el siguiente amanecer.
-
----
-
-## Enlaces relacionados
-
-- [[ObjetosMagicos/ObjetosMagicos-Index|Índice completo de objetos mágicos]]
-- [[Treasure/Magic Items|Magic Items (English)]]

@@ -16,7 +16,14 @@ related_en: "[[Monsters/Gelatinous Cube|Gelatinous Cube (EN)]]"
 
 **Velocidad:** 4,5 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>14</td><td>+2</td><td>+2</td><td>DES</td><td>3</td><td>-4</td><td>-4</td><td>CON</td><td>20</td><td>+5</td><td>+5</td></tr><tr><td>INT</td><td>1</td><td>-5</td><td>-5</td><td>SAB</td><td>6</td><td>-2</td><td>-2</td><td>CAR</td><td>1</td><td>-5</td><td>-5</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 14 | +2 | +2 |
+| DES | 3 | -4 | -4 |
+| CON | 20 | +5 | +5 |
+| INT | 1 | -5 | -5 |
+| SAB | 6 | -2 | -2 |
+| CAR | 1 | -5 | -5 |
 
 **Inmunidades:** ácido; asustado, cansancio, cegado, derribado, ensordecido, hechizado
 

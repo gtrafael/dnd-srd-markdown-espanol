@@ -16,8 +16,14 @@ related_en: "[[Monsters/Swarm of Crawling Claws|Swarm of Crawling Claws (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>14</td><td>+2</td><td>+2</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>11</td><td>+0</td><td>+0</td></tr><tr><td>INT</td><td>5</td><td>-3</td><td>-3</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>4</td><td>-3</td><td>-3</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 14 | +2 | +2 |
+| DES | 14 | +2 | +2 |
+| CON | 11 | +0 | +0 |
+| INT | 5 | -3 | -3 |
+| SAB | 10 | +0 | +0 |
+| CAR | 4 | -3 | -3 |
 **Resistencias:** contundente, cortante, perforante
 
 **Inmunidades:** necrótico, veneno; agarrado, apresado, asustado, aturdido, cansancio, derribado, envenenado, hechizado, incapacitado, paralizado, petrificado

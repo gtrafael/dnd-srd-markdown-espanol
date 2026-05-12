@@ -29,9 +29,22 @@ Cuando cambies las condiciones meteorológicas, busca un estado en las tablas si
 
 **Precipitaciones**
 
-<table><tr><td>Nivel</td><td>Estado</td></tr><tr><td>1</td><td>Despejado</td></tr><tr><td>2</td><td>Nubes escasas</td></tr><tr><td>3</td><td>Cielo cubierto o niebla de superficie</td></tr><tr><td>4</td><td>Lluvia, granizo o nieve</td></tr><tr><td>5</td><td>Lluvia torrencial, tormenta de granizo o ventisca</td></tr></table>
+| Nivel | Estado                                            |
+|------:|---------------------------------------------------|
+|     1 | Despejado                                         |
+|     2 | Nubes escasas                                     |
+|     3 | Cielo cubierto o niebla de superficie             |
+|     4 | Lluvia, granizo o nieve                           |
+|     5 | Lluvia torrencial, tormenta de granizo o ventisca |
 
 **Temperatura**
 
-<table><tr><td>Nivel</td><td>Estado</td><td>Nivel</td><td>Estado</td></tr><tr><td>1</td><td>Ola de calor</td><td>1</td><td>Calmo</td></tr><tr><td>2</td><td>Caliente</td><td>2</td><td>Viento moderado</td></tr><tr><td>3</td><td>Templado</td><td>3</td><td>Viento fuerte</td></tr><tr><td>4</td><td>Fresco</td><td>4</td><td>Galerna</td></tr><tr><td>5</td><td>Frío</td><td>5</td><td>Tempestad</td></tr><tr><td>6</td><td>Frío extremo</td><td></td><td></td></tr></table>
+| Nivel | Estado       | Nivel | Estado          |
+|------:|--------------|------:|-----------------|
+|     1 | Ola de calor |     1 | Calmo           |
+|     2 | Caliente     |     2 | Viento moderado |
+|     3 | Templado     |     3 | Viento fuerte   |
+|     4 | Fresco       |     4 | Galerna         |
+|     5 | Frío         |     5 | Tempestad       |
+|     6 | Frío extremo |       |                 |
 

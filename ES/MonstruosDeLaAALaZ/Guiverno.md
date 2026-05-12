@@ -14,7 +14,14 @@ related_en: "[[Monsters/Wyvern|Wyvern (EN)]]"
 
 **Velocidad:** 9 m, volar 24 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>19</td><td>+4</td><td>+4</td><td>DES</td><td>10</td><td>+0</td><td>+0</td><td>CON</td><td>16</td></tr><tr><td>INT</td><td>5</td><td>-3</td><td>-3</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>6</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 19 | +4 | +4 |
+| DES | 10 | +0 | +0 |
+| CON | 16 | — | — |
+| INT | 5 | -3 | -3 |
+| SAB | 12 | +1 | +1 |
+| CAR | 6 | — | — |
 
 **Habilidades:** Percepción +4
 

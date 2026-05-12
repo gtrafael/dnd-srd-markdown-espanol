@@ -16,7 +16,14 @@ related_en: "[[Monsters/Nalfeshnee|Nalfeshnee (EN)]]"
 
 **Velocidad:** 6 m, volar 9 m
 
-<table><tr><td></td><td colspan="5">MOD. SALV.</td><td colspan="5">MOD. SALV.</td><td colspan="5">MOD. SALV.</td></tr><tr><td>FUE</td><td>21</td><td>+5</td><td>+5</td><td>DES</td><td>10</td><td>+0</td><td>+0</td><td>CON</td><td>22</td><td>+6</td><td>+11</td><td></td><td></td><td></td><td></td></tr><tr><td>INT</td><td>19</td><td>+4</td><td>+9</td><td>SAB</td><td>12</td><td>+1</td><td>+6</td><td>CAR</td><td>15</td><td>+2</td><td>+7</td><td></td><td></td><td></td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 21 | +5 | +5 |
+| DES | 10 | +0 | +0 |
+| CON | 22 | +6 | +11 |
+| INT | 19 | +4 | +9 |
+| SAB | 12 | +1 | +6 |
+| CAR | 15 | +2 | +7 |
 
 **Resistencias:** frío, fuego, relámpago
 

@@ -16,8 +16,14 @@ related_en: "[[Animals/Saber-Toothed Tiger|Saber-Toothed Tiger (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+6</td><td>DES</td><td>17</td><td>+3</td><td>+5</td><td>CON</td><td>15</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>3</td><td>-4</td><td>-4</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>8</td><td>-1</td><td>-1</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +6 |
+| DES | 17 | +3 | +5 |
+| CON | 15 | +2 | +2 |
+| INT | 3 | -4 | -4 |
+| SAB | 12 | +1 | +1 |
+| CAR | 8 | -1 | -1 |
 **Habilidades:** Percepción +5, Sigilo +7
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15

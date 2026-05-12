@@ -53,7 +53,12 @@ Un espacio es terreno difícil si contiene algo de lo siguiente u otro elemento 
 
 Todas las criaturas, incluidos los personajes de los jugadores, tienen una etiqueta en las reglas que identifica su tipo de criatura. La mayoría de los personajes de los jugadores son de tipo humanoide. Estos son los tipos de criaturas del juego:
 
-<table><tr><td>Aberración</td><td>Dragón</td><td>Infernal</td></tr><tr><td>Autómata</td><td>Elemental</td><td>Monstruosidad</td></tr><tr><td>Bestia</td><td>Feérico</td><td>Muerto viviente</td></tr><tr><td>Celestial</td><td>Gigante</td><td>Planta</td></tr><tr><td>Cieno</td><td>Humanoide</td><td></td></tr></table>
+| Aberración | Dragón    | Infernal        |
+|------------|-----------|-----------------|
+| Autómata   | Elemental | Monstruosidad   |
+| Bestia     | Feérico   | Muerto viviente |
+| Celestial  | Gigante   | Planta          |
+| Cieno      | Humanoide |                 |
 
 Estos tipos no tienen reglas en sí mismos, pero hay reglas del juego que afectan de manera distinta a criaturas de ciertos tipos.
 
@@ -66,7 +71,21 @@ Los ataques y otros efectos dañinos causan diferentes tipos de daño. Los tipos
 Tipos de daño
 
 
-<table><tr><td>Tipo</td><td>Ejemplos</td></tr><tr><td>Ácido</td><td>Enzimas digestivas, líquidos corrosivos</td></tr><tr><td>Contundente</td><td>Aplastamientos, caídas, objetos romos</td></tr><tr><td>Cortante</td><td>Garras, objetos cortantes</td></tr><tr><td>Frío</td><td>Agua gélida, ráfagas heladas</td></tr><tr><td>Fuego</td><td>Calor insoportable, llamas</td></tr><tr><td>Fuerza</td><td>Energía mágica pura</td></tr><tr><td>Necrótico</td><td>Energía que absorbe la vida</td></tr><tr><td>Perforante</td><td>Colmillos, objetos punzantes</td></tr><tr><td>Psíquico</td><td>Energía que desgarra la mente</td></tr><tr><td>Radiante</td><td>Energía sagrada, radiación abrasadora</td></tr><tr><td>Relámpago</td><td>Electricidad</td></tr><tr><td>Trueno</td><td>Sonido conmocionador</td></tr><tr><td>Veneno</td><td>Gas tóxico, veneno</td></tr></table>
+| Tipo        | Ejemplos                                |
+|-------------|-----------------------------------------|
+| Ácido       | Enzimas digestivas, líquidos corrosivos |
+| Contundente | Aplastamientos, caídas, objetos romos   |
+| Cortante    | Garras, objetos cortantes               |
+| Frío        | Agua gélida, ráfagas heladas            |
+| Fuego       | Calor insoportable, llamas              |
+| Fuerza      | Energía mágica pura                     |
+| Necrótico   | Energía que absorbe la vida             |
+| Perforante  | Colmillos, objetos punzantes            |
+| Psíquico    | Energía que desgarra la mente           |
+| Radiante    | Energía sagrada, radiación abrasadora   |
+| Relámpago   | Electricidad                            |
+| Trueno      | Sonido conmocionador                    |
+| Veneno      | Gas tóxico, veneno                      |
 
 
 # Tirada de ataque

@@ -14,7 +14,14 @@ related_en: "[[Monsters/Stone Golem|Stone Golem (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 22</td><td>+6</td><td>+6</td><td>DES 9</td><td>-1</td><td>-1</td><td>CON 20</td><td>+5</td><td>+5</td><td></td></tr><tr><td>INT 3</td><td>-4</td><td>-4</td><td>SAB 11</td><td>+0</td><td>+0</td><td>CAR 1</td><td>-5</td><td>-5</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 22 | +6 | +6 |
+| DES | 9 | -1 | -1 |
+| CON | 20 | +5 | +5 |
+| INT | 3 | -4 | -4 |
+| SAB | 11 | +0 | +0 |
+| CAR | 1 | -5 | -5 |
 
 **Inmunidades:** psíquico, veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado
 

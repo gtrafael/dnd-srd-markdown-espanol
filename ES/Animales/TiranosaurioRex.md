@@ -16,8 +16,14 @@ related_en: "[[Animals/Tyrannosaurus Rex|Tyrannosaurus Rex (EN)]]"
 
 **Velocidad:** 15 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>25</td><td>+7</td><td>+10</td><td>DES</td><td>10</td><td>+0</td><td>+0</td><td>CON</td><td>19</td><td>+4</td><td>+4</td></tr><tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>SAB</td><td>12</td><td>+1</td><td>+4</td><td>CAR</td><td>9</td><td>-1</td><td>-1</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 25 | +7 | +10 |
+| DES | 10 | +0 | +0 |
+| CON | 19 | +4 | +4 |
+| INT | 2 | -4 | -4 |
+| SAB | 12 | +1 | +4 |
+| CAR | 9 | -1 | -1 |
 **Habilidades:** Percepción +4
 
 **Sentidos:** Percepción pasiva 14

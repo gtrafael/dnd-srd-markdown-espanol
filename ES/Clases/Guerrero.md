@@ -10,7 +10,14 @@ related_en: "[[Classes/Fighter|Fighter (EN)]]"
 Atributos básicos de guerrero
 
 
-<table><tr><td>Característica principal</td><td>Fuerza o Destreza</td></tr><tr><td>Dado de puntos de golpe</td><td>1d10 por nivel de guerrero</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Fuerza y Constitución</td></tr><tr><td>Competencias en habilidades</td><td>Elige dos: Acrobacias, Atletismo, Historia, Intimidación, Percepción, Perspicacia, Persuasión, Supervivencia o Trato con animales</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas y marciales</td></tr><tr><td>Entrenamiento con armaduras</td><td>Armaduras ligeras, medias y pesadas y escudos</td></tr><tr><td>Equipo inicial</td><td>Elige A, B o C: (A) cota de malla, espadón, mangual, 8 jabalinas, paquete de explorador de mazmorras y 4 po; (B) armadura de cuero tachonado, cimitarra, espada corta, arco largo, 20 flechas, aljaba, paquete de explorador de mazmorras y 11 po, o (C) 155 po</td></tr></table>
+| Característica principal | Fuerza o Destreza |
+|---|---|
+| Dado de puntos de golpe | 1d10 por nivel de guerrero |
+| Competencias en tiradas de salvación | Fuerza y Constitución |
+| Competencias en habilidades | Elige dos: Acrobacias, Atletismo, Historia, Intimidación, Percepción, Perspicacia, Persuasión, Supervivencia o Trato con animales |
+| Competencias con armas | Armas sencillas y marciales |
+| Entrenamiento con armaduras | Armaduras ligeras, medias y pesadas y escudos |
+| Equipo inicial | Elige A, B o C: (A) cota de malla, espadón, mangual, 8 jabalinas, paquete de explorador de mazmorras y 4 po; (B) armadura de cuero tachonado, cimitarra, espada corta, arco largo, 20 flechas, aljaba, paquete de explorador de mazmorras y 11 po, o (C) 155 po |
 
 ## Convertirse en guerrero
 
@@ -38,7 +45,28 @@ Has pulido tu destreza marcial y obtienes una dote de estilo de combate de tu el
 Rasgos de guerrero
 
 
-<table><tr><td>Nivel</td><td>Bonificador por competencia</td><td>Rasgos de clase</td><td>Tomar aliento</td><td>Maestría con armas</td></tr><tr><td>1</td><td>+2</td><td>Estilo de combate, Maestría con armas, Tomar aliento</td><td>2</td><td>3</td></tr><tr><td>2</td><td>+2</td><td>Acción súbita (un uso), Mente táctica</td><td>2</td><td>3</td></tr><tr><td>3</td><td>+2</td><td>Subclase de guerrero</td><td>2</td><td>3</td></tr><tr><td>4</td><td>+2</td><td>Mejora de característica</td><td>3</td><td>4</td></tr><tr><td>5</td><td>+3</td><td>Ataque adicional, Desplazamiento táctico</td><td>3</td><td>4</td></tr><tr><td>6</td><td>+3</td><td>Mejora de característica</td><td>3</td><td>4</td></tr><tr><td>7</td><td>+3</td><td>Rasgo de subclase</td><td>3</td><td>4</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>3</td><td>4</td></tr><tr><td>9</td><td>+4</td><td>Indómito (un uso), Maestro táctico</td><td>3</td><td>4</td></tr><tr><td>10</td><td>+4</td><td>Rasgo de subclase</td><td>4</td><td>5</td></tr><tr><td>11</td><td>+4</td><td>Dos ataques adicionales</td><td>4</td><td>5</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>4</td><td>5</td></tr><tr><td>13</td><td>+5</td><td>Indómito (dos usos), Ataques estudiados</td><td>4</td><td>5</td></tr><tr><td>14</td><td>+5</td><td>Mejora de característica</td><td>4</td><td>5</td></tr><tr><td>15</td><td>+5</td><td>Rasgo de subclase</td><td>4</td><td>5</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>4</td><td>6</td></tr><tr><td>17</td><td>+6</td><td>Acción súbita (dos usos), Indómito (tres usos)</td><td>4</td><td>6</td></tr><tr><td>18</td><td>+6</td><td>Rasgo de subclase</td><td>4</td><td>6</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>4</td><td>6</td></tr><tr><td>20</td><td>+6</td><td>Tres ataques adicionales</td><td>4</td><td>6</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase | Tomar aliento | Maestría con armas |
+|---:|---:|---|---:|---:|
+| 1 | +2 | Estilo de combate, Maestría con armas, Tomar aliento | 2 | 3 |
+| 2 | +2 | Acción súbita (un uso), Mente táctica | 2 | 3 |
+| 3 | +2 | Subclase de guerrero | 2 | 3 |
+| 4 | +2 | Mejora de característica | 3 | 4 |
+| 5 | +3 | Ataque adicional, Desplazamiento táctico | 3 | 4 |
+| 6 | +3 | Mejora de característica | 3 | 4 |
+| 7 | +3 | Rasgo de subclase | 3 | 4 |
+| 8 | +3 | Mejora de característica | 3 | 4 |
+| 9 | +4 | Indómito (un uso), Maestro táctico | 3 | 4 |
+| 10 | +4 | Rasgo de subclase | 4 | 5 |
+| 11 | +4 | Dos ataques adicionales | 4 | 5 |
+| 12 | +4 | Mejora de característica | 4 | 5 |
+| 13 | +5 | Indómito (dos usos), Ataques estudiados | 4 | 5 |
+| 14 | +5 | Mejora de característica | 4 | 5 |
+| 15 | +5 | Rasgo de subclase | 4 | 5 |
+| 16 | +5 | Mejora de característica | 4 | 6 |
+| 17 | +6 | Acción súbita (dos usos), Indómito (tres usos) | 4 | 6 |
+| 18 | +6 | Rasgo de subclase | 4 | 6 |
+| 19 | +6 | Don épico | 4 | 6 |
+| 20 | +6 | Tres ataques adicionales | 4 | 6 |
 
 Cada vez que subas un nivel de guerrero, puedes sustituir la dote que hayas elegido por otra dote de estilo de combate. 
 

@@ -16,7 +16,14 @@ related_en: "[[Monsters/Young White Dragon|Young White Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 6 m, nadar 12 m, volar 24 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>10</td><td>+0</td><td>+3</td><td>CON</td><td>18</td><td>+4</td><td>+4</td></tr><tr><td>INT</td><td>6</td><td>-2</td><td>2</td><td>SAB</td><td>11</td><td>+0</td><td>+3</td><td>CAR</td><td>12</td><td>+1</td><td>+1</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 10 | +0 | +3 |
+| CON | 18 | +4 | +4 |
+| INT | 6 | -2 | 2 |
+| SAB | 11 | +0 | +3 |
+| CAR | 12 | +1 | +1 |
 
 **Habilidades:** Percepción +6, Sigilo +3
 

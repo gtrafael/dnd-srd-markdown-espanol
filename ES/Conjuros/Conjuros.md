@@ -16,7 +16,16 @@ Para poder lanzar un conjuro, debes prepararlo en tu mente o tener acceso a él 
 
 Si tienes que preparar una lista de conjuros de nivel 1 o superiores, tu rasgo de lanzamiento de conjuros indica cuándo puedes cambiar la lista y cuántos conjuros puedes cambiar, como se resume en la tabla «Preparación de conjuros según clase».
 
-<table><tr><td>Clase</td><td>¿Cuándo cambia?</td><td>Cantidad de conjuros</td></tr><tr><td>Bardo</td><td>Al subir de nivel</td><td>Uno</td></tr><tr><td>Brujo</td><td>Al subir de nivel</td><td>Uno</td></tr><tr><td>Clérigo</td><td>Al finalizar un descanso largo</td><td>Cualquiera</td></tr><tr><td>Druida</td><td>Al finalizar un descanso largo</td><td>Cualquiera</td></tr><tr><td>Explorador</td><td>Al finalizar un descanso largo</td><td>Uno</td></tr><tr><td>Hechicero</td><td>Al subir de nivel</td><td>Uno</td></tr><tr><td>Mago</td><td>Al finalizar un descanso largo</td><td>Cualquiera</td></tr><tr><td>Paladín</td><td>Al finalizar un descanso largo</td><td>Uno</td></tr></table>
+| Clase      | ¿Cuándo cambia?                | Cantidad de conjuros |
+|------------|--------------------------------|----------------------|
+| Bardo      | Al subir de nivel              | Uno                  |
+| Brujo      | Al subir de nivel              | Uno                  |
+| Clérigo    | Al finalizar un descanso largo | Cualquiera           |
+| Druida     | Al finalizar un descanso largo | Cualquiera           |
+| Explorador | Al finalizar un descanso largo | Uno                  |
+| Hechicero  | Al subir de nivel              | Uno                  |
+| Mago       | Al finalizar un descanso largo | Cualquiera           |
+| Paladín    | Al finalizar un descanso largo | Uno                  |
 
 La mayoría de monstruos que lanzan conjuros no cambian su lista de conjuros preparados, pero cada GM puede modificarla libremente.
 
@@ -66,7 +75,16 @@ Algunos conjuros, como proyectil mágico y curar heridas, se vuelven más podero
 
 Cada conjuro pertenece a una escuela mágica, que se muestran en la tabla «Escuelas mágicas». Estas categorías ayudan a describir conjuros, pero no tienen ninguna regla asociada. No obstante, otras reglas hacen referencia a estas escuelas.
 
-<table><tr><td>Escuela</td><td>Efectos típicos</td></tr><tr><td>Abjuración</td><td>Impide o deshace efectos dañinos.</td></tr><tr><td>Adivinación</td><td>Revela información.</td></tr><tr><td>Conjuración</td><td>Transporta criaturas u objetos.</td></tr><tr><td>Encantamiento</td><td>Influye en las mentes.</td></tr><tr><td>Evocación</td><td>Canaliza la energía para crear efectos a menudo destructivos.</td></tr><tr><td>Ilusionismo</td><td>Engaña a la mente o los sentidos.</td></tr><tr><td>Nigromancia</td><td>Manipula la vida y la muerte.</td></tr><tr><td>Transmutación</td><td>Transforma criaturas u objetos.</td></tr></table>
+| Escuela       | Efectos típicos                                               |
+|---------------|---------------------------------------------------------------|
+| Abjuración    | Impide o deshace efectos dañinos.                             |
+| Adivinación   | Revela información.                                           |
+| Conjuración   | Transporta criaturas u objetos.                               |
+| Encantamiento | Influye en las mentes.                                        |
+| Evocación     | Canaliza la energía para crear efectos a menudo destructivos. |
+| Ilusionismo   | Engaña a la mente o los sentidos.                             |
+| Nigromancia   | Manipula la vida y la muerte.                                 |
+| Transmutación | Transforma criaturas u objetos.                               |
 
 ##### Listas de conjuros de clases
 
@@ -175,11 +193,3 @@ Los efectos de varios conjuros se suman si sus duraciones se solapan. En cambio,
 Las descripciones detalladas de todos los conjuros, organizadas alfabéticamente, se encuentran en el índice completo de conjuros.
 
 - [[Conjuros/Conjuros-Index|Índice completo de conjuros]]
-
----
-
-## Enlaces relacionados
-
-- [[Conjuros/ObtenerConjuros|Obtener conjuros]]
-- [[Conjuros/LanzarConjuros|Lanzar conjuros]]
-- [[Spells/Spellcasting|Spellcasting (English)]]

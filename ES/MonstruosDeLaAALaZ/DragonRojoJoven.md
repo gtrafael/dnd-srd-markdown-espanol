@@ -16,7 +16,14 @@ related_en: "[[Monsters/Young Red Dragon|Young Red Dragon (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>23</td><td>+6</td><td>+6</td><td>DES</td><td>10</td><td>+0</td><td>+4</td><td>CON</td><td>21</td><td>+5</td><td>+5</td></tr><tr><td>INT</td><td>14</td><td>+2</td><td>+2</td><td>SAB</td><td>11</td><td>+0</td><td>+4</td><td>CAR</td><td>19</td><td>+4</td><td>+4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 23 | +6 | +6 |
+| DES | 10 | +0 | +4 |
+| CON | 21 | +5 | +5 |
+| INT | 14 | +2 | +2 |
+| SAB | 11 | +0 | +4 |
+| CAR | 19 | +4 | +4 |
 
 **Habilidades:** Percepción +8, Sigilo +4
 

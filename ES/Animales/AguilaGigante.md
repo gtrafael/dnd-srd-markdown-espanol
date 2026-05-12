@@ -16,7 +16,14 @@ related_en: "[[Animals/Giant Eagle|Giant Eagle (EN)]]"
 
 **Velocidad:** 3 m, volar 24 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>16</td><td>+3</td><td>+3</td><td>DES</td><td>17</td><td>+3</td><td>+3</td><td>CON</td><td>13</td></tr><tr><td>INT</td><td>8</td><td>-1</td><td>-1</td><td>SAB</td><td>14</td><td>+2</td><td>+2</td><td>CAR</td><td>10</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    17 |  +3 |   +3 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     8 |  -1 |   -1 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |    10 |  +0 |   +0 |
 
 **Habilidades:** Percepción +6
 

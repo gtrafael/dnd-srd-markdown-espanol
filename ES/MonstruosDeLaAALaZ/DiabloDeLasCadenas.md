@@ -16,7 +16,14 @@ related_en: "[[Monsters/Chain Devil|Chain Devil (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>15</td><td>+2</td><td>+2</td><td>CON</td><td>18</td><td>+4</td><td>+7</td></tr><tr><td>INT</td><td>11</td><td>+0</td><td>+0</td><td>SAB</td><td>12</td><td>+1</td><td>+4</td><td>CAR</td><td>14</td><td>+2</td><td>+2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 15 | +2 | +2 |
+| CON | 18 | +4 | +7 |
+| INT | 11 | +0 | +0 |
+| SAB | 12 | +1 | +4 |
+| CAR | 14 | +2 | +2 |
 
 **Resistencias:** contundente, cortante, frío, perforante
 

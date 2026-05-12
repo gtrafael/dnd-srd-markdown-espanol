@@ -16,7 +16,14 @@ related_en: "[[Monsters/Efreeti|Efreeti (EN)]]"
 
 **Velocidad:** 12 m, volar 18 m (levitar)
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>22</td><td>+6</td><td>+6</td><td>DES</td><td>12</td><td>+1</td><td>+1</td><td>CON</td><td>24</td><td>+7</td><td>+7</td></tr><tr><td>INT</td><td>16</td><td>+3</td><td>+3</td><td>SAB</td><td>15</td><td>+2</td><td>+6</td><td>CAR</td><td>19</td><td>+4</td><td>+8</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 22 | +6 | +6 |
+| DES | 12 | +1 | +1 |
+| CON | 24 | +7 | +7 |
+| INT | 16 | +3 | +3 |
+| SAB | 15 | +2 | +6 |
+| CAR | 19 | +4 | +8 |
 
 **Inmunidades:** fuego
 

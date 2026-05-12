@@ -14,5 +14,11 @@ Mientras lleves esta armadura, obtendrás un bonificador de +1 a la clase de arm
 
 Además, puedes concentrar tus sentidos como acción de magia y discernir la distancia y la dirección del dragón más cercano que esté a 45 km o menos de ti y sea del mismo tipo que la armadura. Esta acción no puede volver a emplearse hasta el siguiente amanecer.
 
-<table><tr><td>Dragón</td><td>Resistencia</td><td>Dragón</td><td>Resistencia</td></tr><tr><td>Azul</td><td>Relámpago</td><td>Oro</td><td>Fuego</td></tr><tr><td>Blanco</td><td>Frío</td><td>Oropel</td><td>Fuego</td></tr><tr><td>Bronce</td><td>Relámpago</td><td>Plata</td><td>Frío</td></tr><tr><td>Cobre</td><td>Ácido</td><td>Rojo</td><td>Fuego</td></tr><tr><td>Negro</td><td>Ácido</td><td>Verde</td><td>Veneno</td></tr></table>
+| Dragón | Resistencia | Dragón | Resistencia |
+|---|---|---|---|
+| Azul | Relámpago | Oro | Fuego |
+| Blanco | Frío | Oropel | Fuego |
+| Bronce | Relámpago | Plata | Frío |
+| Cobre | Ácido | Rojo | Fuego |
+| Negro | Ácido | Verde | Veneno |
 

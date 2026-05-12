@@ -20,17 +20,32 @@ Una vez que se han extraído tres objetos peludos de la bolsa, no puede volver a
 Bolsa de trucos gris
 
 
-<table><tr><td>1d8</td><td>Criatura</td><td>1d8</td><td>Criatura</td></tr><tr><td>1</td><td>Comadreja</td><td>5</td><td>Pantera</td></tr><tr><td>2</td><td>Rata gigante</td><td>6</td><td>Tejón gigante</td></tr><tr><td>3</td><td>Tejón</td><td>7</td><td>Lobo terrible</td></tr><tr><td>4</td><td>Jabalí</td><td>8</td><td>Alce gigante</td></tr></table>
+| 1d8 | Criatura | 1d8 | Criatura |
+|---:|---|---:|---|
+| 1 | Comadreja | 5 | Pantera |
+| 2 | Rata gigante | 6 | Tejón gigante |
+| 3 | Tejón | 7 | Lobo terrible |
+| 4 | Jabalí | 8 | Alce gigante |
 
 
 Bolsa de trucos rojiza
 
 
-<table><tr><td>1d8</td><td>Criatura</td><td>1d8</td><td>Criatura</td></tr><tr><td>1</td><td>Rata</td><td>5</td><td>Cabra gigante</td></tr><tr><td>2</td><td>Búho</td><td>6</td><td>Jabalí gigante</td></tr><tr><td>3</td><td>Mastín</td><td>7</td><td>León</td></tr><tr><td>4</td><td>Cabra</td><td>8</td><td>Oso pardo</td></tr></table>
+| 1d8 | Criatura | 1d8 | Criatura |
+|---:|---|---:|---|
+| 1 | Rata | 5 | Cabra gigante |
+| 2 | Búho | 6 | Jabalí gigante |
+| 3 | Mastín | 7 | León |
+| 4 | Cabra | 8 | Oso pardo |
 
 
 Bolsa de trucos marrón
 
 
-<table><tr><td>1d8</td><td>Criatura</td><td>1d8</td><td>Criatura</td></tr><tr><td>1</td><td>Chacal</td><td>5</td><td>Oso negro</td></tr><tr><td>2</td><td>Simio</td><td>6</td><td>Comadreja gigante</td></tr><tr><td>3</td><td>Babuino</td><td>7</td><td>Hiena gigante</td></tr><tr><td>4</td><td>Pico de hacha</td><td>8</td><td>Tigre</td></tr></table>
+| 1d8 | Criatura | 1d8 | Criatura |
+|---:|---|---:|---|
+| 1 | Chacal | 5 | Oso negro |
+| 2 | Simio | 6 | Comadreja gigante |
+| 3 | Babuino | 7 | Hiena gigante |
+| 4 | Pico de hacha | 8 | Tigre |
 

@@ -100,7 +100,12 @@ Una criatura está estable si tiene 0 puntos de golpe pero no debe hacer tiradas
 
 Un estado es una situación temporal que experimenta una criatura en la partida. La definición de un estado indica cómo afecta a su destinatario y diversas reglas explican cómo poner fin a un estado. El glosario define los siguientes estados:
 
-<table><tr><td>Agarrado</td><td>Cegado</td><td>Incapacitado</td></tr><tr><td>Apresado</td><td>Derribado</td><td>Inconsciente</td></tr><tr><td>Asustado</td><td>Ensordecido</td><td>Invisible</td></tr><tr><td>Aturdido</td><td>Envenenado</td><td>Paralizado</td></tr><tr><td>Cansancio</td><td>Hechizado</td><td>Petrificado</td></tr></table>
+| Agarrado  | Cegado      | Incapacitado |
+|-----------|-------------|--------------|
+| Apresado  | Derribado   | Inconsciente |
+| Asustado  | Ensordecido | Invisible    |
+| Aturdido  | Envenenado  | Paralizado   |
+| Cansancio | Hechizado   | Petrificado  |
 
 Un estado no se acumula: el destinatario lo tiene o no lo tiene. El estado de cansancio es una excepción a esta regla.
 
@@ -115,6 +120,12 @@ La tabla “Áreas de conocimiento” sugiere qué habilidades se pueden aplicar
 Áreas de conocimiento
 
 
-<table><tr><td>Habilidad</td><td>Áreas</td></tr><tr><td>Conocimiento arcano</td><td>Conjuros, objetos mágicos, símbolos sobrenaturales, tradiciones mágicas, planos de existencia y determinadas criaturas (aberraciones, autómatas, elementales, feéricos y monstruosidades)</td></tr><tr><td>Historia</td><td>Acontecimientos y personajes históricos, civilizaciones antiguas, guerras y determinadas criaturas (gigantes y humanoides)</td></tr><tr><td>Investigación</td><td>Trampas, códigos, enigmas y artilugios</td></tr><tr><td>Naturaleza</td><td>Terreno, flora, clima y determinadas criaturas (bestias, cienos, dragones y plantas)</td></tr><tr><td>Religión</td><td>Deidades, jerarquías religiosas y ritos, símbolos sagrados, sectas y determinadas criaturas (celestiales, infernales y muertos vivientes)</td></tr></table>
+| Habilidad           | Áreas                                                                                                                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Conocimiento arcano | Conjuros, objetos mágicos, símbolos sobrenaturales, tradiciones mágicas, planos de existencia y determinadas criaturas (aberraciones, autómatas, elementales, feéricos y monstruosidades) |
+| Historia            | Acontecimientos y personajes históricos, civilizaciones antiguas, guerras y determinadas criaturas (gigantes y humanoides)                                                                |
+| Investigación       | Trampas, códigos, enigmas y artilugios                                                                                                                                                    |
+| Naturaleza          | Terreno, flora, clima y determinadas criaturas (bestias, cienos, dragones y plantas)                                                                                                      |
+| Religión            | Deidades, jerarquías religiosas y ritos, símbolos sagrados, sectas y determinadas criaturas (celestiales, infernales y muertos vivientes)                                                 |
 
 

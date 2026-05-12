@@ -10,13 +10,42 @@ related_en: "[[Classes/Bard|Bard (EN)]]"
 Atributos básicos de bardo
 
 
-<table><tr><td>Característica principal</td><td>Carisma</td></tr><tr><td>Dado de puntos de golpe</td><td>1d8 por nivel de bardo</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Destreza y Carisma</td></tr><tr><td>Competencias en habilidades</td><td>Elige tres cualesquiera (consulta el capítulo “Cómo jugar”)</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas</td></tr><tr><td>Competencias con herramientas</td><td>Elige tres instrumentos musicales (consulta el capítulo “Equipo”)</td></tr><tr><td>Entrenamiento con armaduras</td><td>Armaduras ligeras</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) armadura de cuero, 2 dagas, instrumento musical de tu elección, paquete de artista y 19 po, o (B) 90 po</td></tr></table>
+| Característica principal             | Carisma                                                                                                                  |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Dado de puntos de golpe              | 1d8 por nivel de bardo                                                                                                   |
+| Competencias en tiradas de salvación | Destreza y Carisma                                                                                                       |
+| Competencias en habilidades          | Elige tres cualesquiera (consulta el capítulo “Cómo jugar”)                                                              |
+| Competencias con armas               | Armas sencillas                                                                                                          |
+| Competencias con herramientas        | Elige tres instrumentos musicales (consulta el capítulo “Equipo”)                                                        |
+| Entrenamiento con armaduras          | Armaduras ligeras                                                                                                        |
+| Equipo inicial                       | Elige A o B: (A) armadura de cuero, 2 dagas, instrumento musical de tu elección, paquete de artista y 19 po, o (B) 90 po |
 
 
 Rasgos de bardo
 
 
-<table><tr><td rowspan="2">Nivel</td><td rowspan="2">Bonificador por competencia</td><td rowspan="2">Rasgos de clase</td><td rowspan="2">Dado bárdico</td><td rowspan="2">Trucos</td><td rowspan="2">Conjuros preparados</td><td colspan="9">Espacios de conjuro por cada nivel de conjuro</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1</td><td>+2</td><td>Inspiración bárdica, Lan-zamiento de conjuros</td><td>d6</td><td>2</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>+2</td><td>Aprendiz de mucho, Pericia</td><td>d6</td><td>2</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>+2</td><td>Subclase de bardo</td><td>d6</td><td>2</td><td>6</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>+2</td><td>Mejora de característica</td><td>d6</td><td>3</td><td>7</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>+3</td><td>Fuente de inspiración</td><td>d8</td><td>3</td><td>9</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>+3</td><td>Rasgo de subclase</td><td>d8</td><td>3</td><td>10</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>+3</td><td>Contraencantamiento</td><td>d8</td><td>3</td><td>11</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>d8</td><td>3</td><td>12</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>+4</td><td>Pericia</td><td>d8</td><td>3</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10</td><td>+4</td><td>Secretos mágicos</td><td>d10</td><td>4</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11</td><td>+4</td><td>—</td><td>d10</td><td>4</td><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>d10</td><td>4</td><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13</td><td>+5</td><td>—</td><td>d10</td><td>4</td><td>17</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>14</td><td>+5</td><td>Rasgo de subclase</td><td>d10</td><td>4</td><td>17</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>15</td><td>+5</td><td>—</td><td>d12</td><td>4</td><td>18</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>d12</td><td>4</td><td>18</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>17</td><td>+6</td><td>—</td><td>d12</td><td>4</td><td>19</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18</td><td>+6</td><td>Inspiración superior</td><td>d12</td><td>4</td><td>20</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>d12</td><td>4</td><td>21</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20</td><td>+6</td><td>Palabras de creación</td><td>d12</td><td>4</td><td>22</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase                              | Dado bárdico | Trucos | Conjuros preparados | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|------:|----------------------------:|----------------------------------------------|--------------|-------:|--------------------:|--:|---|---|---|---|---|---|---|---|
+|     1 |                          +2 | Inspiración bárdica, Lanzamiento de conjuros | d6           |      2 |                   4 | 2 | — | — | — | — | — | — | — | — |
+|     2 |                          +2 | Aprendiz de mucho, Pericia                   | d6           |      2 |                   5 | 3 | — | — | — | — | — | — | — | — |
+|     3 |                          +2 | Subclase de bardo                            | d6           |      2 |                   6 | 4 | 2 | — | — | — | — | — | — | — |
+|     4 |                          +2 | Mejora de característica                     | d6           |      3 |                   7 | 4 | 3 | — | — | — | — | — | — | — |
+|     5 |                          +3 | Fuente de inspiración                        | d8           |      3 |                   9 | 4 | 3 | 2 | — | — | — | — | — | — |
+|     6 |                          +3 | Rasgo de subclase                            | d8           |      3 |                  10 | 4 | 3 | 3 | — | — | — | — | — | — |
+|     7 |                          +3 | Contraencantamiento                          | d8           |      3 |                  11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+|     8 |                          +3 | Mejora de característica                     | d8           |      3 |                  12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+|     9 |                          +4 | Pericia                                      | d8           |      3 |                  14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+|    10 |                          +4 | Secretos mágicos                             | d10          |      4 |                  15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+|    11 |                          +4 | —                                            | d10          |      4 |                  16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+|    12 |                          +4 | Mejora de característica                     | d10          |      4 |                  16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+|    13 |                          +5 | —                                            | d10          |      4 |                  17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+|    14 |                          +5 | Rasgo de subclase                            | d10          |      4 |                  17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+|    15 |                          +5 | —                                            | d12          |      4 |                  18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+|    16 |                          +5 | Mejora de característica                     | d12          |      4 |                  18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+|    17 |                          +6 | —                                            | d12          |      4 |                  19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+|    18 |                          +6 | Inspiración superior                         | d12          |      4 |                  20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+|    19 |                          +6 | Don épico                                    | d12          |      4 |                  21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+|    20 |                          +6 | Palabras de creación                         | d12          |      4 |                  22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ## Convertirse en bardo
 
@@ -128,65 +157,206 @@ Esta sección presenta la lista de conjuros de bardo. Los conjuros se organizan 
 Trucos (conjuros de bardo de nivel 0)
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Burla dañina</td><td>Encantamiento</td><td>—</td></tr><tr><td>Ilusión menor</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Impacto certero</td><td>Adivinación</td><td>—</td></tr><tr><td>Luces danzantes</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Luz</td><td>Evocación</td><td>—</td></tr><tr><td>Mano de mago</td><td>Conjuración</td><td>—</td></tr><tr><td>Mensaje</td><td>Transmutación</td><td>—</td></tr><tr><td>Prestidigitación</td><td>Transmutación</td><td>—</td></tr><tr><td>Reparar</td><td>Transmutación</td><td>—</td></tr><tr><td>Voluta estelar</td><td>Evocación</td><td>—</td></tr></table>
+| Conjuro          | Escuela       | Especial |
+|------------------|---------------|----------|
+| Burla dañina     | Encantamiento | —        |
+| Ilusión menor    | Ilusionismo   | —        |
+| Impacto certero  | Adivinación   | —        |
+| Luces danzantes  | Ilusionismo   | C        |
+| Luz              | Evocación     | —        |
+| Mano de mago     | Conjuración   | —        |
+| Mensaje          | Transmutación | —        |
+| Prestidigitación | Transmutación | —        |
+| Reparar          | Transmutación | —        |
+| Voluta estelar   | Evocación     | —        |
 
 
 Conjuros de bardo de nivel 1
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Caída de pluma</td><td>Transmutación</td><td>—</td></tr><tr><td>Curar heridas</td><td>Abjuración</td><td>—</td></tr><tr><td>Detectar magia</td><td>Adivinación</td><td>C, R</td></tr><tr><td>Disfrazarse</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Dormir</td><td>Encantamiento</td><td>C</td></tr><tr><td>Encantar animal</td><td>Encantamiento</td><td>—</td></tr><tr><td>Entender idiomas</td><td>Adivinación</td><td>R</td></tr><tr><td>Fuego feérico</td><td>Evocación</td><td>C</td></tr><tr><td>Hablar con los animales</td><td>Adivinación</td><td>R</td></tr><tr><td>Hechizar persona</td><td>Encantamiento</td><td>—</td></tr><tr><td>Heroísmo</td><td>Encantamiento</td><td>C</td></tr><tr><td>Identificar</td><td>Adivinación</td><td>R, M</td></tr><tr><td>Imagen silenciosa</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Ola atronadora</td><td>Evocación</td><td>—</td></tr><tr><td>Orden imperiosa</td><td>Encantamiento</td><td>—</td></tr><tr><td>Palabra de curación</td><td>Abjuración</td><td>—</td></tr><tr><td>Perdición</td><td>Encantamiento</td><td>C</td></tr><tr><td>Risa horrible</td><td>Encantamiento</td><td>C</td></tr><tr><td>Rociada de color</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Sirviente invisible</td><td>Conjuración</td><td>R</td></tr><tr><td>Susurros discordantes</td><td>Encantamiento</td><td>—</td></tr><tr><td>Texto ilusorio</td><td>Ilusionismo</td><td>R, M</td></tr><tr><td>Zancada prodigiosa</td><td>Transmutación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Caída de pluma | Transmutación | — |
+| Curar heridas | Abjuración | — |
+| Detectar magia | Adivinación | C, R |
+| Disfrazarse | Ilusionismo | — |
+| Dormir | Encantamiento | C |
+| Encantar animal | Encantamiento | — |
+| Entender idiomas | Adivinación | R |
+| Fuego feérico | Evocación | C |
+| Hablar con los animales | Adivinación | R |
+| Hechizar persona | Encantamiento | — |
+| Heroísmo | Encantamiento | C |
+| Identificar | Adivinación | R, M |
+| Imagen silenciosa | Ilusionismo | C |
+| Ola atronadora | Evocación | — |
+| Orden imperiosa | Encantamiento | — |
+| Palabra de curación | Abjuración | — |
+| Perdición | Encantamiento | C |
+| Risa horrible | Encantamiento | C |
+| Rociada de color | Ilusionismo | — |
+| Sirviente invisible | Conjuración | R |
+| Susurros discordantes | Encantamiento | — |
+| Texto ilusorio | Ilusionismo | R, M |
+| Zancada prodigiosa | Transmutación | — |
 
 
 Conjuros de bardo de nivel 2
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Abrir</td><td>Transmutación</td><td>—</td></tr><tr><td>Agrandar/reducir</td><td>Transmutación</td><td>C</td></tr><tr><td>Auxilio</td><td>Abjuración</td><td>—</td></tr><tr><td>Boca mágica</td><td>Ilusionismo</td><td>R, M</td></tr><tr><td>Calentar metal</td><td>Transmutación</td><td>C</td></tr><tr><td>Calmar emociones</td><td>Encantamiento</td><td>C</td></tr><tr><td>Detectar pensamientos</td><td>Adivinación</td><td>C</td></tr><tr><td>Embelesar</td><td>Encantamiento</td><td>C</td></tr><tr><td>Hacer añicos</td><td>Evocación</td><td>—</td></tr><tr><td>Imagen múltiple</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Inmovilizar persona</td><td>Encantamiento</td><td>C</td></tr><tr><td>Invisibilidad</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Localizar animales o plantas</td><td>Adivinación</td><td>R</td></tr><tr><td>Localizar objeto</td><td>Adivinación</td><td>C</td></tr><tr><td>Mensajero animal</td><td>Encantamiento</td><td>R</td></tr><tr><td>Potenciar característica</td><td>Transmutación</td><td>C</td></tr><tr><td>Restablecimiento menor</td><td>Abjuración</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Abrir | Transmutación | — |
+| Agrandar/reducir | Transmutación | C |
+| Auxilio | Abjuración | — |
+| Boca mágica | Ilusionismo | R, M |
+| Calentar metal | Transmutación | C |
+| Calmar emociones | Encantamiento | C |
+| Detectar pensamientos | Adivinación | C |
+| Embelesar | Encantamiento | C |
+| Hacer añicos | Evocación | — |
+| Imagen múltiple | Ilusionismo | — |
+| Inmovilizar persona | Encantamiento | C |
+| Invisibilidad | Ilusionismo | C |
+| Localizar animales o plantas | Adivinación | R |
+| Localizar objeto | Adivinación | C |
+| Mensajero animal | Encantamiento | R |
+| Potenciar característica | Transmutación | C |
+| Restablecimiento menor | Abjuración | — |
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Silencio</td><td>Ilusionismo</td><td>C, R</td></tr><tr><td>Sordera/ceguera</td><td>Transmutación</td><td>—</td></tr><tr><td>Sugestión</td><td>Encantamiento</td><td>C</td></tr><tr><td>Ver invisibilidad</td><td>Adivinación</td><td>—</td></tr><tr><td>Zona de la verdad</td><td>Encantamiento</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Silencio | Ilusionismo | C, R |
+| Sordera/ceguera | Transmutación | — |
+| Sugestión | Encantamiento | C |
+| Ver invisibilidad | Adivinación | — |
+| Zona de la verdad | Encantamiento | — |
 
 
 Conjuros de bardo de nivel 3
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Clarividencia</td><td>Adivinación</td><td>C, M</td></tr><tr><td>Crecimiento vegetal</td><td>Transmutación</td><td>—</td></tr><tr><td>Disipar magia</td><td>Abjuración</td><td>—</td></tr><tr><td>Don de lenguas</td><td>Adivinación</td><td>—</td></tr><tr><td>Glifo custodio</td><td>Abjuración</td><td>M</td></tr><tr><td>Hablar con las plantas</td><td>Transmutación</td><td>—</td></tr><tr><td>Hablar con los muertos</td><td>Nigromancia</td><td>—</td></tr><tr><td>Imagen mayor</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Imponer maldición</td><td>Nigromancia</td><td>C</td></tr><tr><td>Indetectable</td><td>Abjuración</td><td>M</td></tr><tr><td>Nube apestosa</td><td>Conjuración</td><td>C</td></tr><tr><td>Palabra de curación en masa</td><td>Abjuración</td><td>—</td></tr><tr><td>Patrón hipnótico</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Pequeña choza</td><td>Evocación</td><td>R</td></tr><tr><td>Ralentizar</td><td>Transmutación</td><td>C</td></tr><tr><td>Recado</td><td>Adivinación</td><td>—</td></tr><tr><td>Terror</td><td>Ilusionismo</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Clarividencia | Adivinación | C, M |
+| Crecimiento vegetal | Transmutación | — |
+| Disipar magia | Abjuración | — |
+| Don de lenguas | Adivinación | — |
+| Glifo custodio | Abjuración | M |
+| Hablar con las plantas | Transmutación | — |
+| Hablar con los muertos | Nigromancia | — |
+| Imagen mayor | Ilusionismo | C |
+| Imponer maldición | Nigromancia | C |
+| Indetectable | Abjuración | M |
+| Nube apestosa | Conjuración | C |
+| Palabra de curación en masa | Abjuración | — |
+| Patrón hipnótico | Ilusionismo | C |
+| Pequeña choza | Evocación | R |
+| Ralentizar | Transmutación | C |
+| Recado | Adivinación | — |
+| Terror | Ilusionismo | C |
 
 
 Conjuros de bardo de nivel 4
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Asesino fantasmal</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Compulsión</td><td>Encantamiento</td><td>C</td></tr><tr><td>Confusión</td><td>Encantamiento</td><td>C</td></tr><tr><td>Hechizar monstruo</td><td>Encantamiento</td><td>—</td></tr><tr><td>Invisibilidad mejorada</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Libertad de movimiento</td><td>Abjuración</td><td>—</td></tr><tr><td>Localizar criatura</td><td>Adivinación</td><td>C</td></tr><tr><td>Polimorfar</td><td>Transmutación</td><td>C</td></tr><tr><td>Puerta dimensional</td><td>Conjuración</td><td>—</td></tr><tr><td>Terreno alucinatorio</td><td>Ilusionismo</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Asesino fantasmal | Ilusionismo | C |
+| Compulsión | Encantamiento | C |
+| Confusión | Encantamiento | C |
+| Hechizar monstruo | Encantamiento | — |
+| Invisibilidad mejorada | Ilusionismo | C |
+| Libertad de movimiento | Abjuración | — |
+| Localizar criatura | Adivinación | C |
+| Polimorfar | Transmutación | C |
+| Puerta dimensional | Conjuración | — |
+| Terreno alucinatorio | Ilusionismo | — |
 
 
 Conjuros de bardo de nivel 5
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Alterar los recuerdos</td><td>Encantamiento</td><td>C</td></tr><tr><td>Alzar a los muertos</td><td>Nigromancia</td><td>M</td></tr><tr><td>Animar objetos</td><td>Transmutación</td><td>C</td></tr><tr><td>Apariencia</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Atadura planar</td><td>Abjuración</td><td>M</td></tr><tr><td>Círculo de teletransportación</td><td>Conjuración</td><td>M</td></tr><tr><td>Conocer las leyendas</td><td>Adivinación</td><td>M</td></tr><tr><td>Curar heridas en masa</td><td>Abjuración</td><td>—</td></tr><tr><td>Despertar</td><td>Transmutación</td><td>M</td></tr><tr><td>Dominar persona</td><td>Encantamiento</td><td>C</td></tr><tr><td>Engañar</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Enlace telepático</td><td>Adivinación</td><td>R</td></tr><tr><td>Ensueño</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Escudriñar</td><td>Adivinación</td><td>C, M</td></tr><tr><td>Geas</td><td>Encantamiento</td><td>—</td></tr><tr><td>Inmovilizar monstruo</td><td>Encantamiento</td><td>C</td></tr><tr><td>Restablecimiento mayor</td><td>Abjuración</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Alterar los recuerdos | Encantamiento | C |
+| Alzar a los muertos | Nigromancia | M |
+| Animar objetos | Transmutación | C |
+| Apariencia | Ilusionismo | — |
+| Atadura planar | Abjuración | M |
+| Círculo de teletransportación | Conjuración | M |
+| Conocer las leyendas | Adivinación | M |
+| Curar heridas en masa | Abjuración | — |
+| Despertar | Transmutación | M |
+| Dominar persona | Encantamiento | C |
+| Engañar | Ilusionismo | C |
+| Enlace telepático | Adivinación | R |
+| Ensueño | Ilusionismo | — |
+| Escudriñar | Adivinación | C, M |
+| Geas | Encantamiento | — |
+| Inmovilizar monstruo | Encantamiento | C |
+| Restablecimiento mayor | Abjuración | M |
 
 
 Conjuros de bardo de nivel 6
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Baile irresistible</td><td>Encantamiento</td><td>C</td></tr><tr><td>Encontrar el camino</td><td>Adivinación</td><td>C, M</td></tr><tr><td>Festín de héroes</td><td>Conjuración</td><td>M</td></tr><tr><td>Guardas y guardias</td><td>Abjuración</td><td>M</td></tr><tr><td>Ilusión programada</td><td>Ilusionismo</td><td>M</td></tr><tr><td>Mal de ojo</td><td>Nigromancia</td><td>C</td></tr><tr><td>Sugestión en masa</td><td>Encantamiento</td><td>—</td></tr><tr><td>Visión veraz</td><td>Adivinación</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Baile irresistible | Encantamiento | C |
+| Encontrar el camino | Adivinación | C, M |
+| Festín de héroes | Conjuración | M |
+| Guardas y guardias | Abjuración | M |
+| Ilusión programada | Ilusionismo | M |
+| Mal de ojo | Nigromancia | C |
+| Sugestión en masa | Encantamiento | — |
+| Visión veraz | Adivinación | M |
 
 
 Conjuros de bardo de nivel 7
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Espada arcana</td><td>Evocación</td><td>C, M</td></tr><tr><td>Espejismo arcano</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Excursión etérea</td><td>Conjuración</td><td>—</td></tr><tr><td>Jaula de fuerza</td><td>Evocación</td><td>C, M</td></tr><tr><td>Mansión magnífica</td><td>Conjuración</td><td>M</td></tr><tr><td>Proyectar imagen</td><td>Ilusionismo</td><td>C, M</td></tr><tr><td>Regenerar</td><td>Transmutación</td><td>—</td></tr><tr><td>Resurrección</td><td>Nigromancia</td><td>M</td></tr><tr><td>Rociada prismática</td><td>Evocación</td><td>—</td></tr><tr><td>Símbolo</td><td>Abjuración</td><td>M</td></tr><tr><td>Teletransporte</td><td>Conjuración</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Espada arcana | Evocación | C, M |
+| Espejismo arcano | Ilusionismo | — |
+| Excursión etérea | Conjuración | — |
+| Jaula de fuerza | Evocación | C, M |
+| Mansión magnífica | Conjuración | M |
+| Proyectar imagen | Ilusionismo | C, M |
+| Regenerar | Transmutación | — |
+| Resurrección | Nigromancia | M |
+| Rociada prismática | Evocación | — |
+| Símbolo | Abjuración | M |
+| Teletransporte | Conjuración | — |
 
 
 Conjuros de bardo de nivel 8
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Antipatía/simpatía</td><td>Encantamiento</td><td>—</td></tr><tr><td>Dominar monstruo</td><td>Encantamiento</td><td>C</td></tr><tr><td>Labia</td><td>Encantamiento</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Antipatía/simpatía | Encantamiento | — |
+| Dominar monstruo | Encantamiento | C |
+| Labia | Encantamiento | — |
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Mente en blanco</td><td>Abjuración</td><td>—</td></tr><tr><td>Ofuscación</td><td>Encantamiento</td><td>—</td></tr><tr><td>Palabra de poder: aturdir</td><td>Encantamiento</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Mente en blanco | Abjuración | — |
+| Ofuscación | Encantamiento | — |
+| Palabra de poder: aturdir | Encantamiento | — |
 
 
 Conjuros de bardo de nivel 9
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Muro prismático</td><td>Abjuración</td><td>—</td></tr><tr><td>Palabra de poder: matar</td><td>Encantamiento</td><td>—</td></tr><tr><td>Palabra de poder: sanar</td><td>Encantamiento</td><td>—</td></tr><tr><td>Polimorfar verdadero</td><td>Transmutación</td><td>C</td></tr><tr><td>Presciencia</td><td>Adivinación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Muro prismático | Abjuración | — |
+| Palabra de poder: matar | Encantamiento | — |
+| Palabra de poder: sanar | Encantamiento | — |
+| Polimorfar verdadero | Transmutación | C |
+| Presciencia | Adivinación | — |
 
 ## Subclase de bardo: Colegio del conocimiento
 

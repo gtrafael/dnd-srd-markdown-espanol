@@ -14,7 +14,14 @@ related_en: "[[Monsters/Fire Giant|Fire Giant (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE 25</td><td>+7</td><td>+7</td><td>DES 9</td><td>-1</td><td>+3</td><td>CON 23</td><td>+6</td><td>+10</td><td></td><td></td></tr><tr><td>INT 10</td><td>+0</td><td>+0</td><td>SAB 14</td><td>+2</td><td>+2</td><td>CAR 13</td><td>+1</td><td>+5</td><td></td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 25 | +7 | +7 |
+| DES | 9 | -1 | +3 |
+| CON | 23 | +6 | +10 |
+| INT | 10 | +0 | +0 |
+| SAB | 14 | +2 | +2 |
+| CAR | 13 | +1 | +5 |
 
 **Habilidades:** Atletismo +11, Percepción +6
 

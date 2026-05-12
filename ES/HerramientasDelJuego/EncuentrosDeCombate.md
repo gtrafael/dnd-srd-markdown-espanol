@@ -38,7 +38,28 @@ Mediante la tabla “Presupuesto de PX por personaje”, comprueba el nivel del 
 Presupuesto de PX por personaje
 
 
-<table><tr><td rowspan="2">Nivel del grupo</td><td colspan="3">Dificultad del encuentro</td></tr><tr><td>Baja</td><td>Moderada</td><td>Alta</td></tr><tr><td>1</td><td>50</td><td>75</td><td>100</td></tr><tr><td>2</td><td>100</td><td>150</td><td>200</td></tr><tr><td>3</td><td>150</td><td>225</td><td>400</td></tr><tr><td>4</td><td>250</td><td>375</td><td>500</td></tr><tr><td>5</td><td>500</td><td>750</td><td>1100</td></tr><tr><td>6</td><td>600</td><td>1000</td><td>1400</td></tr><tr><td>7</td><td>750</td><td>1300</td><td>1700</td></tr><tr><td>8</td><td>1000</td><td>1700</td><td>2100</td></tr><tr><td>9</td><td>1300</td><td>2000</td><td>2600</td></tr><tr><td>10</td><td>1600</td><td>2300</td><td>3100</td></tr><tr><td>11</td><td>1900</td><td>2900</td><td>4100</td></tr><tr><td>12</td><td>2200</td><td>3700</td><td>4700</td></tr><tr><td>13</td><td>2600</td><td>4200</td><td>5400</td></tr><tr><td>14</td><td>2900</td><td>4900</td><td>6200</td></tr><tr><td>15</td><td>3300</td><td>5400</td><td>7800</td></tr><tr><td>16</td><td>3800</td><td>6100</td><td>9800</td></tr><tr><td>17</td><td>4500</td><td>7200</td><td>11 700</td></tr><tr><td>18</td><td>5000</td><td>8700</td><td>14 200</td></tr><tr><td>19</td><td>5500</td><td>10 700</td><td>17 200</td></tr><tr><td>20</td><td>6400</td><td>13 200</td><td>22 000</td></tr></table>
+| Nivel del grupo | Baja | Moderada | Alta   |
+|----------------:|------|----------|--------|
+|               1 | 50   | 75       | 100    |
+|               2 | 100  | 150      | 200    |
+|               3 | 150  | 225      | 400    |
+|               4 | 250  | 375      | 500    |
+|               5 | 500  | 750      | 1100   |
+|               6 | 600  | 1000     | 1400   |
+|               7 | 750  | 1300     | 1700   |
+|               8 | 1000 | 1700     | 2100   |
+|               9 | 1300 | 2000     | 2600   |
+|              10 | 1600 | 2300     | 3100   |
+|              11 | 1900 | 2900     | 4100   |
+|              12 | 2200 | 3700     | 4700   |
+|              13 | 2600 | 4200     | 5400   |
+|              14 | 2900 | 4900     | 6200   |
+|              15 | 3300 | 5400     | 7800   |
+|              16 | 3800 | 6100     | 9800   |
+|              17 | 4500 | 7200     | 11 700 |
+|              18 | 5000 | 8700     | 14 200 |
+|              19 | 5500 | 10 700   | 17 200 |
+|              20 | 6400 | 13 200   | 22 000 |
 
 ## Paso 3: gastar el presupuesto
 

@@ -16,7 +16,14 @@ related_en: "[[Monsters/Djinni|Djinni (EN)]]"
 
 **Velocidad:** 9 m, volar 27 m (levitar)
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE 21</td><td>+5</td><td>+5</td><td>DES 15</td><td>+2</td><td>+6</td><td>CON 22</td><td>+6</td><td>+6</td><td></td><td></td></tr><tr><td>INT 15</td><td>+2</td><td>+2</td><td>SAB 16</td><td>+3</td><td>+7</td><td>CAR 20</td><td>+5</td><td>+5</td><td></td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 21 | +5 | +5 |
+| DES | 15 | +2 | +6 |
+| CON | 22 | +6 | +6 |
+| INT | 15 | +2 | +2 |
+| SAB | 16 | +3 | +7 |
+| CAR | 20 | +5 | +5 |
 
 **Inmunidades:** relámpago, trueno
 

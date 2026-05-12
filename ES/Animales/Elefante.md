@@ -16,7 +16,14 @@ related_en: "[[Animals/Elephant|Elephant (EN)]]"
 
 **Velocidad:** 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>22</td><td>+6</td><td>+6</td><td>DES</td><td>9</td><td>-1</td><td>-1</td><td>CON</td><td>17</td><td>+3</td></tr><tr><td>INT</td><td>3</td><td>-4</td><td>-4</td><td>SAB</td><td>11</td><td>+0</td><td>+0</td><td>CAR</td><td>6</td><td>-2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |    22 |  +6 |   +6 |
+| DES   |     9 |  -1 |   -1 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Sentidos:** Percepción pasiva 10
 

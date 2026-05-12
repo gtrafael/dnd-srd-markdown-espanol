@@ -16,7 +16,14 @@ related_en: "[[Monsters/Ancient Brass Dragon|Ancient Brass Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 12 m, volar 24 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 27</td><td>+8</td><td>+8</td><td>DES 10</td><td>+0</td><td>+6</td><td>CON 25</td><td>+7</td><td>+7</td><td></td></tr><tr><td>INT 16</td><td>+3</td><td>+3</td><td>SAB 15</td><td>+2</td><td>+8</td><td>CAR 22</td><td>+6</td><td>+6</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 27 | +8 | +8 |
+| DES | 10 | +0 | +6 |
+| CON | 25 | +7 | +7 |
+| INT | 16 | +3 | +3 |
+| SAB | 15 | +2 | +8 |
+| CAR | 22 | +6 | +6 |
 
 **Habilidades:** Historia +9, Percepción +14, Persuasión +12, Sigilo +6
 

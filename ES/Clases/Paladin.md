@@ -10,7 +10,14 @@ related_en: "[[Classes/Paladin|Paladin (EN)]]"
 Atributos básicos de paladín
 
 
-<table><tr><td>Característica principal</td><td>Fuerza y Carisma</td></tr><tr><td>Dado de puntos de golpe</td><td>1d10 por nivel de Paladín</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Sabiduría y Carisma</td></tr><tr><td>Competencias en habilidades</td><td>Elige dos: Atletismo, Intimidación, Medicina, Perspicacia, Persuasión o Religión</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas y marciales</td></tr><tr><td>Entrenamiento con armaduras</td><td>Armaduras ligeras, medias y pesadas y escudos</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) cota de malla, escudo, espada larga, 6 jabalinas, símbolo sagrado, paquete de sacerdote y 9 po, o (B) 150 po</td></tr></table>
+| Característica principal | Fuerza y Carisma |
+|---|---|
+| Dado de puntos de golpe | 1d10 por nivel de Paladín |
+| Competencias en tiradas de salvación | Sabiduría y Carisma |
+| Competencias en habilidades | Elige dos: Atletismo, Intimidación, Medicina, Perspicacia, Persuasión o Religión |
+| Competencias con armas | Armas sencillas y marciales |
+| Entrenamiento con armaduras | Armaduras ligeras, medias y pesadas y escudos |
+| Equipo inicial | Elige A o B: (A) cota de malla, escudo, espada larga, 6 jabalinas, símbolo sagrado, paquete de sacerdote y 9 po, o (B) 150 po |
 
 ## Convertirse en paladín
 
@@ -30,7 +37,28 @@ Obtienes los rasgos de nivel 1 de paladín, que se muestran en la tabla “Rasgo
 Rasgos de paladín
 
 
-<table><tr><td rowspan="2">Nivel</td><td rowspan="2">Bonificador por competencia</td><td rowspan="2">Rasgos de clase</td><td rowspan="2">Canalizar divinidad</td><td rowspan="2">Conjuros preparados</td><td colspan="5">Espacios de conjuro por cada nivel de conjuro</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>1</td><td>+2</td><td>Imponer las manos, Lanzamiento de conjuros, Maestría con armas</td><td>—</td><td>2</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>+2</td><td>Castigo de paladín, Estilo de combate</td><td>—</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>+2</td><td>Canalizar divinidad, subclase de paladín</td><td>2</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>+2</td><td>Mejora de característica</td><td>2</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>+3</td><td>Ataque adicional, Corcel fiel</td><td>2</td><td>6</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>+3</td><td>Aura de protección</td><td>2</td><td>6</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>+3</td><td>Rasgo de subclase</td><td>2</td><td>7</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>2</td><td>7</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>+4</td><td>Abjurar de los enemigos</td><td>2</td><td>9</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td></tr><tr><td>10</td><td>+4</td><td>Aura de coraje</td><td>2</td><td>9</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td></tr><tr><td>11</td><td>+4</td><td>Golpes radiantes</td><td>3</td><td>10</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>3</td><td>10</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td></tr><tr><td>13</td><td>+5</td><td>—</td><td>3</td><td>11</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td></tr><tr><td>14</td><td>+5</td><td>Toque reparador</td><td>3</td><td>11</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td></tr><tr><td>15</td><td>+5</td><td>Rasgo de subclase</td><td>3</td><td>12</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>3</td><td>12</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr><tr><td>17</td><td>+6</td><td>—</td><td>3</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td></tr><tr><td>18</td><td>+6</td><td>Expansión de aura</td><td>3</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>3</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr><tr><td>20</td><td>+6</td><td>Rasgo de subclase</td><td>3</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase | Canalizar divinidad | Conjuros preparados | 1 | 2 | 3 | 4 | 5 |
+|---:|---:|---|---|---:|---:|---|---|---|---|
+| 1 | +2 | Imponer las manos, Lanzamiento de conjuros, Maestría con armas | — | 2 | 2 | — | — | — | — |
+| 2 | +2 | Castigo de paladín, Estilo de combate | — | 3 | 2 | — | — | — | — |
+| 3 | +2 | Canalizar divinidad, subclase de paladín | 2 | 4 | 3 | — | — | — | — |
+| 4 | +2 | Mejora de característica | 2 | 5 | 3 | — | — | — | — |
+| 5 | +3 | Ataque adicional, Corcel fiel | 2 | 6 | 4 | 2 | — | — | — |
+| 6 | +3 | Aura de protección | 2 | 6 | 4 | 2 | — | — | — |
+| 7 | +3 | Rasgo de subclase | 2 | 7 | 4 | 3 | — | — | — |
+| 8 | +3 | Mejora de característica | 2 | 7 | 4 | 3 | — | — | — |
+| 9 | +4 | Abjurar de los enemigos | 2 | 9 | 4 | 3 | 2 | — | — |
+| 10 | +4 | Aura de coraje | 2 | 9 | 4 | 3 | 2 | — | — |
+| 11 | +4 | Golpes radiantes | 3 | 10 | 4 | 3 | 3 | — | — |
+| 12 | +4 | Mejora de característica | 3 | 10 | 4 | 3 | 3 | — | — |
+| 13 | +5 | — | 3 | 11 | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | Toque reparador | 3 | 11 | 4 | 3 | 3 | 1 | — |
+| 15 | +5 | Rasgo de subclase | 3 | 12 | 4 | 3 | 3 | 2 | — |
+| 16 | +5 | Mejora de característica | 3 | 12 | 4 | 3 | 3 | 2 | — |
+| 17 | +6 | — | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Expansión de aura | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Don épico | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Rasgo de subclase | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ## Rasgos de clase de paladín
 
@@ -156,33 +184,77 @@ Esta sección presenta la lista de conjuros de paladín. Los conjuros se organiz
 Conjuros de paladín de nivel 1
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Bendición</td><td>Encantamiento</td><td>C, M</td></tr><tr><td>Castigo abrasador</td><td>Evocación</td><td>—</td></tr><tr><td>Castigo divino</td><td>Evocación</td><td>—</td></tr><tr><td>Curar heridas</td><td>Abjuración</td><td>—</td></tr><tr><td>Detectar el bien y el mal</td><td>Adivinación</td><td>C</td></tr><tr><td>Detectar magia</td><td>Adivinación</td><td>C, R</td></tr><tr><td>Detectar venenos y enfermedades</td><td>Adivinación</td><td>C, R</td></tr><tr><td>Escudo de fe</td><td>Abjuración</td><td>C</td></tr><tr><td>Favor divino</td><td>Transmutación</td><td>—</td></tr><tr><td>Heroísmo</td><td>Encantamiento</td><td>C</td></tr><tr><td>Orden imperiosa</td><td>Encantamiento</td><td>—</td></tr><tr><td>Protección contra el bien y el mal</td><td>Abjuración</td><td>C, M</td></tr><tr><td>Purificar comida y bebida</td><td>Transmutación</td><td>R</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Bendición | Encantamiento | C, M |
+| Castigo abrasador | Evocación | — |
+| Castigo divino | Evocación | — |
+| Curar heridas | Abjuración | — |
+| Detectar el bien y el mal | Adivinación | C |
+| Detectar magia | Adivinación | C, R |
+| Detectar venenos y enfermedades | Adivinación | C, R |
+| Escudo de fe | Abjuración | C |
+| Favor divino | Transmutación | — |
+| Heroísmo | Encantamiento | C |
+| Orden imperiosa | Encantamiento | — |
+| Protección contra el bien y el mal | Abjuración | C, M |
+| Purificar comida y bebida | Transmutación | R |
 
 
 Conjuros de paladín de nivel 2
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Arma mágica</td><td>Transmutación</td><td>—</td></tr><tr><td>Auxilio</td><td>Abjuración</td><td>—</td></tr><tr><td>Castigo brillante</td><td>Transmutación</td><td>C</td></tr><tr><td>Dulce descanso</td><td>Nigromancia</td><td>R, M</td></tr><tr><td>Hallar corcel</td><td>Conjuración</td><td>—</td></tr><tr><td>Localizar objeto</td><td>Adivinación</td><td>C</td></tr><tr><td>Plegaria de curación</td><td>Abjuración</td><td>—</td></tr><tr><td>Protección contra veneno</td><td>Abjuración</td><td>—</td></tr><tr><td>Restablecimiento menor</td><td>Abjuración</td><td>—</td></tr><tr><td>Vínculo protector</td><td>Abjuración</td><td>M</td></tr><tr><td>Zona de la verdad</td><td>Encantamiento</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Arma mágica | Transmutación | — |
+| Auxilio | Abjuración | — |
+| Castigo brillante | Transmutación | C |
+| Dulce descanso | Nigromancia | R, M |
+| Hallar corcel | Conjuración | — |
+| Localizar objeto | Adivinación | C |
+| Plegaria de curación | Abjuración | — |
+| Protección contra veneno | Abjuración | — |
+| Restablecimiento menor | Abjuración | — |
+| Vínculo protector | Abjuración | M |
+| Zona de la verdad | Encantamiento | — |
 
 
 Conjuros de paladín de nivel 3
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Círculo mágico</td><td>Abjuración</td><td>M</td></tr><tr><td>Crear comida y agua</td><td>Conjuración</td><td>—</td></tr><tr><td>Disipar magia</td><td>Abjuración</td><td>—</td></tr><tr><td>Levantar maldición</td><td>Abjuración</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Círculo mágico | Abjuración | M |
+| Crear comida y agua | Conjuración | — |
+| Disipar magia | Abjuración | — |
+| Levantar maldición | Abjuración | — |
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Luz del día</td><td>Evocación</td><td>—</td></tr><tr><td>Revivir</td><td>Nigromancia</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Luz del día | Evocación | — |
+| Revivir | Nigromancia | M |
 
 
 Conjuros de paladín de nivel 4
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Aura de vida</td><td>Abjuración</td><td>C</td></tr><tr><td>Destierro</td><td>Abjuración</td><td>C</td></tr><tr><td>Guarda contra la muerte</td><td>Abjuración</td><td>—</td></tr><tr><td>Localizar criatura</td><td>Adivinación</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Aura de vida | Abjuración | C |
+| Destierro | Abjuración | C |
+| Guarda contra la muerte | Abjuración | — |
+| Localizar criatura | Adivinación | C |
 
 
 Conjuros de paladín de nivel 5
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Alzar a los muertos</td><td>Nigromancia</td><td>M</td></tr><tr><td>Disipar el bien y el mal</td><td>Abjuración</td><td>C</td></tr><tr><td>Geas</td><td>Encantamiento</td><td>—</td></tr><tr><td>Restablecimiento mayor</td><td>Abjuración</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Alzar a los muertos | Nigromancia | M |
+| Disipar el bien y el mal | Abjuración | C |
+| Geas | Encantamiento | — |
+| Restablecimiento mayor | Abjuración | M |
 
 ## Subclase de paladín: Juramento de entrega
 
@@ -216,7 +288,13 @@ La magia de tu juramento garantiza que siempre tengas ciertos conjuros preparado
 Conjuros del juramento de entrega
 
 
-<table><tr><td>Nivel de paladín</td><td>Conjuros</td></tr><tr><td>3</td><td>Escudo de fe,protección contra el bien y el mal</td></tr><tr><td>5</td><td>Auxilio, zona de la verdad</td></tr><tr><td>9</td><td>Disipar magia, señal de esperanza</td></tr><tr><td>13</td><td>Guardián de la fe,libertad de movimiento</td></tr><tr><td>17</td><td>Comunión, golpe flamígero</td></tr></table>
+| Nivel de paladín | Conjuros |
+|---:|---|
+| 3 | Escudo de fe,protección contra el bien y el mal |
+| 5 | Auxilio, zona de la verdad |
+| 9 | Disipar magia, señal de esperanza |
+| 13 | Guardián de la fe,libertad de movimiento |
+| 17 | Comunión, golpe flamígero |
 
 ### Nivel 7: Aura de entrega
 

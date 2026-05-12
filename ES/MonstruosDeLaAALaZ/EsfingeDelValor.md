@@ -16,7 +16,14 @@ related_en: "[[Monsters/Sphinx of Valor|Sphinx of Valor (EN)]]"
 
 **Velocidad:** 12 m, volar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE 22</td><td>+6</td><td>+6</td><td>DES 10</td><td>+0</td><td>+6</td><td>CON 20</td><td>+5</td><td>+11</td><td></td><td></td></tr><tr><td>INT 16</td><td>+3</td><td>+9</td><td>SAB 23</td><td>+6</td><td>+12</td><td>CAR 18</td><td>+4</td><td>+4</td><td></td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 22 | +6 | +6 |
+| DES | 10 | +0 | +6 |
+| CON | 20 | +5 | +11 |
+| INT | 16 | +3 | +9 |
+| SAB | 23 | +6 | +12 |
+| CAR | 18 | +4 | +4 |
 
 **Habilidades:** Conocimiento arcano +9, Percepción +12, Religión +15
 

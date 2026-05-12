@@ -44,7 +44,11 @@ Detectar y desarmar. Como acción de buscar, una criatura puede examinar la cerr
 
 A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementando el daño y la CD de salvación, como se muestra en la siguiente tabla.
 
-<table><tr><td>Niveles</td><td>Daño de veneno</td><td>CD de salvación</td></tr><tr><td>5–10</td><td>11 (2d10)</td><td>13</td></tr><tr><td>11–16</td><td>22 (4d10)</td><td>15</td></tr><tr><td>17–20</td><td>55 (10d10)</td><td>17</td></tr></table>
+| Niveles | Daño de veneno | CD de salvación |
+|---------|----------------|----------------:|
+| 5–10    | 11 (2d10)      |              13 |
+| 11–16   | 22 (4d10)      |              15 |
+| 17–20   | 55 (10d10)     |              17 |
 
 ## Dardos envenenados
 
@@ -78,7 +82,11 @@ Como acción de buscar, una criatura puede examinar la sección del suelo que co
 
 A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementando el daño y el área de efecto, como se muestra en la siguiente tabla.
 
-<table><tr><td>Niveles</td><td>Daño de fuego</td><td>Área de efecto</td></tr><tr><td>5–10</td><td>22 (4d10)</td><td>Cono de 9 m</td></tr><tr><td>11–16</td><td>55 (10d10)</td><td>Cono de 18 m</td></tr><tr><td>17–20</td><td>99 (18d10)</td><td>Cono de 36 m</td></tr></table>
+| Niveles | Daño de fuego | Área de efecto |
+|---|---|---|
+| 5–10 | 22 (4d10) | Cono de 9 m |
+| 11–16 | 55 (10d10) | Cono de 18 m |
+| 17–20 | 99 (18d10) | Cono de 36 m |
 
 ## Pozo con pinchos
 
@@ -98,7 +106,11 @@ Escapar. Para subir por las paredes lisas del pozo, una criatura necesita una ve
 
 A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementando la profundidad del pozo y el daño, como se muestra en la siguiente tabla.
 
-<table><tr><td>Niveles</td><td>Profundidad del pozo</td><td>Daño</td></tr><tr><td>5–10</td><td>9 m</td><td>10 (3d6) contundente más 13 (3d8) perforante</td></tr><tr><td>11–16</td><td>18 m</td><td>21 (6d6) contundente más 36 (8d8) perforante</td></tr><tr><td>17–20</td><td>36 m</td><td>42 (12d6) contundente más 57 (13d8) perforante</td></tr></table>
+| Niveles | Profundidad del pozo | Daño |
+|---|---|---|
+| 5–10 | 9 m | 10 (3d6) contundente más 13 (3d8) perforante |
+| 11–16 | 18 m | 21 (6d6) contundente más 36 (8d8) perforante |
+| 17–20 | 36 m | 42 (12d6) contundente más 57 (13d8) perforante |
 
 ## Pozo escondido
 
@@ -120,7 +132,11 @@ Escapar. Para subir por las paredes lisas del pozo, una criatura necesita una ve
 
 A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementando la profundidad del pozo y el daño, como se muestra en la siguiente tabla.
 
-<table><tr><td>Niveles</td><td>Profundidad del pozo</td><td>Daño contundente</td></tr><tr><td>5–10</td><td>9 m</td><td>10 (3d6)</td></tr><tr><td>11–16</td><td>18 m</td><td>21 (6d6)</td></tr><tr><td>17–20</td><td>36 m</td><td>42 (12d6)</td></tr></table>
+| Niveles | Profundidad del pozo | Daño contundente |
+|---|---|---|
+| 5–10 | 9 m | 10 (3d6) |
+| 11–16 | 18 m | 21 (6d6) |
+| 17–20 | 36 m | 42 (12d6) |
 
 ## Red que cae
 
@@ -172,5 +188,9 @@ Detectar y desarmar. Como acción de buscar, una criatura puede examinar la zona
 
 A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementando el daño y la CD de salvación, como se muestra en la siguiente tabla.
 
-<table><tr><td>Niveles</td><td>Daño contundente</td><td>CD de salvación</td></tr><tr><td>5–10</td><td>22 (4d10)</td><td>15</td></tr><tr><td>11–16</td><td>55 (10d10)</td><td>17</td></tr><tr><td>17–20</td><td>99 (18d10)</td><td>19</td></tr></table>
+| Niveles | Daño contundente | CD de salvación |
+|---|---|---:|
+| 5–10 | 22 (4d10) | 15 |
+| 11–16 | 55 (10d10) | 17 |
+| 17–20 | 99 (18d10) | 19 |
 

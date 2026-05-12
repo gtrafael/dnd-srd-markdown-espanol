@@ -16,7 +16,14 @@ related_en: "[[Monsters/Imp|Imp (EN)]]"
 
 **Velocidad:** 6 m, volar 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>6</td><td>-2</td><td>-2</td><td>DES</td><td>17</td><td>+3</td><td>+3</td><td>CON</td><td>13</td></tr><tr><td>INT</td><td>11</td><td>+0</td><td>+0</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>14</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 6 | -2 | -2 |
+| DES | 17 | +3 | +3 |
+| CON | 13 | — | — |
+| INT | 11 | +0 | +0 |
+| SAB | 12 | +1 | +1 |
+| CAR | 14 | — | — |
 
 **Habilidades:** Engaño +4, Perspicacia +3, Sigilo +5
 

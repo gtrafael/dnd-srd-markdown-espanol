@@ -10,13 +10,42 @@ related_en: "[[Classes/Rogue|Rogue (EN)]]"
 Atributos básicos de pícaro
 
 
-<table><tr><td>Característica principal</td><td>Destreza</td></tr><tr><td>Dado de puntos de golpe</td><td>1d8 por nivel de pícaro</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Destreza e Inteligencia</td></tr><tr><td>Competencias en habilidades</td><td>Elige cuatro: Acrobacias, Atletismo, Engaño, Intimidación, Investigación, Juego de manos, Percepción, Perspicacia, Persuasión o Sigilo</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas, además de marciales que tengan las propiedades “ligera” o “sutil”</td></tr><tr><td>Competencias con herramientas</td><td>Herramientas de ladrón</td></tr><tr><td>Entrenamiento con armaduras</td><td>Armaduras ligeras</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) armadura de cuero, 2 dagas, espada corta, arco corto, 20 flechas, aljaba, herramientas de ladrón, paquete de ladrón y 8 po, o (B) 100 po</td></tr></table>
+| Característica principal | Destreza |
+|---|---|
+| Dado de puntos de golpe | 1d8 por nivel de pícaro |
+| Competencias en tiradas de salvación | Destreza e Inteligencia |
+| Competencias en habilidades | Elige cuatro: Acrobacias, Atletismo, Engaño, Intimidación, Investigación, Juego de manos, Percepción, Perspicacia, Persuasión o Sigilo |
+| Competencias con armas | Armas sencillas, además de marciales que tengan las propiedades “ligera” o “sutil” |
+| Competencias con herramientas | Herramientas de ladrón |
+| Entrenamiento con armaduras | Armaduras ligeras |
+| Equipo inicial | Elige A o B: (A) armadura de cuero, 2 dagas, espada corta, arco corto, 20 flechas, aljaba, herramientas de ladrón, paquete de ladrón y 8 po, o (B) 100 po |
 
 
 Rasgos de pícaro
 
 
-<table><tr><td>Nivel</td><td>Bonificador por competencia</td><td>Rasgos de clase</td><td>Ataque furtivo</td></tr><tr><td>1</td><td>+2</td><td>Ataque furtivo, Jerga de ladrones, Maestría con armas, Pericia</td><td>1d6</td></tr><tr><td>2</td><td>+2</td><td>Acción astuta</td><td>1d6</td></tr><tr><td>3</td><td>+2</td><td>Puntería certera, subclase de pícaro</td><td>2d6</td></tr><tr><td>4</td><td>+2</td><td>Mejora de característica</td><td>2d6</td></tr><tr><td>5</td><td>+3</td><td>Esquiva asombrosa, Golpe astuto</td><td>3d6</td></tr><tr><td>6</td><td>+3</td><td>Pericia</td><td>3d6</td></tr><tr><td>7</td><td>+3</td><td>Evasión, Talentos fiables</td><td>4d6</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>4d6</td></tr><tr><td>9</td><td>+4</td><td>Rasgo de subclase</td><td>5d6</td></tr><tr><td>10</td><td>+4</td><td>Mejora de característica</td><td>5d6</td></tr><tr><td>11</td><td>+4</td><td>Golpe astuto mejorado</td><td>6d6</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>6d6</td></tr><tr><td>13</td><td>+5</td><td>Rasgo de subclase</td><td>7d6</td></tr><tr><td>14</td><td>+5</td><td>Golpes taimados</td><td>7d6</td></tr><tr><td>15</td><td>+5</td><td>Mente escurridiza</td><td>8d6</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>8d6</td></tr><tr><td>17</td><td>+6</td><td>Rasgo de subclase</td><td>9d6</td></tr><tr><td>18</td><td>+6</td><td>Elusivo</td><td>9d6</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>10d6</td></tr><tr><td>20</td><td>+6</td><td>Golpe de suerte</td><td>10d6</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase | Ataque furtivo |
+|---:|---:|---|---|
+| 1 | +2 | Ataque furtivo, Jerga de ladrones, Maestría con armas, Pericia | 1d6 |
+| 2 | +2 | Acción astuta | 1d6 |
+| 3 | +2 | Puntería certera, subclase de pícaro | 2d6 |
+| 4 | +2 | Mejora de característica | 2d6 |
+| 5 | +3 | Esquiva asombrosa, Golpe astuto | 3d6 |
+| 6 | +3 | Pericia | 3d6 |
+| 7 | +3 | Evasión, Talentos fiables | 4d6 |
+| 8 | +3 | Mejora de característica | 4d6 |
+| 9 | +4 | Rasgo de subclase | 5d6 |
+| 10 | +4 | Mejora de característica | 5d6 |
+| 11 | +4 | Golpe astuto mejorado | 6d6 |
+| 12 | +4 | Mejora de característica | 6d6 |
+| 13 | +5 | Rasgo de subclase | 7d6 |
+| 14 | +5 | Golpes taimados | 7d6 |
+| 15 | +5 | Mente escurridiza | 8d6 |
+| 16 | +5 | Mejora de característica | 8d6 |
+| 17 | +6 | Rasgo de subclase | 9d6 |
+| 18 | +6 | Elusivo | 9d6 |
+| 19 | +6 | Don épico | 10d6 |
+| 20 | +6 | Golpe de suerte | 10d6 |
 
 ## Convertirse en pícaro
 

@@ -13,7 +13,28 @@ La tabla “Progreso de los personajes” indica los PX que necesitas para subir
 Progreso de los personajes
 
 
-<table><tr><td>Nivel</td><td>Puntos de experiencia</td><td>Bonificador por competencia</td></tr><tr><td>1</td><td>0</td><td>+2</td></tr><tr><td>2</td><td>300</td><td>+2</td></tr><tr><td>3</td><td>900</td><td>+2</td></tr><tr><td>4</td><td>2700</td><td>+2</td></tr><tr><td>5</td><td>6500</td><td>+3</td></tr><tr><td>6</td><td>14 000</td><td>+3</td></tr><tr><td>7</td><td>23 000</td><td>+3</td></tr><tr><td>8</td><td>34 000</td><td>+3</td></tr><tr><td>9</td><td>48 000</td><td>+4</td></tr><tr><td>10</td><td>64 000</td><td>+4</td></tr><tr><td>11</td><td>85 000</td><td>+4</td></tr><tr><td>12</td><td>100 000</td><td>+4</td></tr><tr><td>13</td><td>120 000</td><td>+5</td></tr><tr><td>14</td><td>140 000</td><td>+5</td></tr><tr><td>15</td><td>165 000</td><td>+5</td></tr><tr><td>16</td><td>195 000</td><td>+5</td></tr><tr><td>17</td><td>225 000</td><td>+6</td></tr><tr><td>18</td><td>265 000</td><td>+6</td></tr><tr><td>19</td><td>305 000</td><td>+6</td></tr><tr><td>20</td><td>355 000</td><td>+6</td></tr></table>
+| Nivel | Puntos de experiencia | Bonificador por competencia |
+|------:|-----------------------|----------------------------:|
+|     1 | 0                     |                          +2 |
+|     2 | 300                   |                          +2 |
+|     3 | 900                   |                          +2 |
+|     4 | 2700                  |                          +2 |
+|     5 | 6500                  |                          +3 |
+|     6 | 14 000                |                          +3 |
+|     7 | 23 000                |                          +3 |
+|     8 | 34 000                |                          +3 |
+|     9 | 48 000                |                          +4 |
+|    10 | 64 000                |                          +4 |
+|    11 | 85 000                |                          +4 |
+|    12 | 100 000               |                          +4 |
+|    13 | 120 000               |                          +5 |
+|    14 | 140 000               |                          +5 |
+|    15 | 165 000               |                          +5 |
+|    16 | 195 000               |                          +5 |
+|    17 | 225 000               |                          +6 |
+|    18 | 265 000               |                          +6 |
+|    19 | 305 000               |                          +6 |
+|    20 | 355 000               |                          +6 |
 
 ## Subir de nivel
 
@@ -27,7 +48,12 @@ Cuando subas de nivel, sigue estos pasos:
 Puntos de golpe establecidos por clase
 
 
-<table><tr><td>Clase</td><td>Puntos de golpe por nivel</td></tr><tr><td>Bárbaro</td><td>7 + modificador por Con</td></tr><tr><td>Explorador, guerrero o paladín</td><td>6 + modificador por Con</td></tr><tr><td>Bardo, brujo, clérigo, druida, monje o pícaro</td><td>5 + modificador por Con</td></tr><tr><td>Hechicero o mago</td><td>4 + modificador por Con</td></tr></table>
+| Clase                                         | Puntos de golpe por nivel |
+|-----------------------------------------------|---------------------------|
+| Bárbaro                                       | 7 + modificador por Con   |
+| Explorador, guerrero o paladín                | 6 + modificador por Con   |
+| Bardo, brujo, clérigo, druida, monje o pícaro | 5 + modificador por Con   |
+| Hechicero o mago                              | 4 + modificador por Con   |
 
 3: Apuntar los nuevos rasgos de clase. Consulta la tabla de rasgos de tu clase en el capítulo “Clases” y anota los que obtienes al alcanzar un nuevo nivel en ella. Toma las decisiones que te planteen los nuevos rasgos. 
 

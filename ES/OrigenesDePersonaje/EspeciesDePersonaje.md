@@ -52,7 +52,13 @@ Linaje dracónico. Tu linaje proviene de un progenitor dragón. Elige el tipo de
 Ancestros dracónicos
 
 
-<table><tr><td>Dragón</td><td>Tipo de daño</td><td>Dragón</td><td>Tipo de daño</td></tr><tr><td>Azul</td><td>Relámpago</td><td>Oro</td><td>Fuego</td></tr><tr><td>Blanco</td><td>Frío</td><td>Oropel</td><td>Fuego</td></tr><tr><td>Bronce</td><td>Relámpago</td><td>Plata</td><td>Frío</td></tr><tr><td>Cobre</td><td>Ácido</td><td>Rojo</td><td>Fuego</td></tr><tr><td>Negro</td><td>Ácido</td><td>Verde</td><td>Veneno</td></tr></table>
+| Dragón | Tipo de daño | Dragón | Tipo de daño |
+|---|---|---|---|
+| Azul | Relámpago | Oro | Fuego |
+| Blanco | Frío | Oropel | Fuego |
+| Bronce | Relámpago | Plata | Frío |
+| Cobre | Ácido | Rojo | Fuego |
+| Negro | Ácido | Verde | Veneno |
 
 Ataque de aliento. Cuando lleves a cabo la acción de atacar en tu turno, puedes sustituir uno de tus ataques por una exhalación de energía mágica en un cono de 4,5 m o en una línea de 9 m de largo y 1,5 m de ancho (elige la forma cada vez). Todas las criaturas situadas en esa zona deberán hacer una tirada de salvación de Destreza (CD 8 más tu modificador por Constitución y tu bonificador por competencia). Si la fallan, sufrirán 1d10 de daño del tipo determinado por tu atributo Linaje dracónico. Si la superan, sufrirán la mitad de ese daño. El daño aumenta en 1d10 cuando alcanzas los niveles 5 (2d10), 11 (3d10) y 17 (4d10) de personaje. 
 
@@ -82,7 +88,11 @@ Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de nivel sup
 Linajes élficos
 
 
-<table><tr><td>Linaje</td><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr><tr><td>Alto elfo</td><td>Conoces el truco prestidigitación. Tras finalizar un descanso largo, puedes sustituir ese truco por otro truco diferente de la lista de conjuros de mago.</td><td>Detectar magia</td><td>Paso brumoso</td></tr><tr><td>Drow</td><td>El alcance de tu visión en la oscuridad aumenta a 36 m. También conoces el truco luces danzantes.</td><td>Fuego feérico</td><td>Oscuridad</td></tr><tr><td>Elfo de los bosques</td><td>Tu velocidad aumenta a 10,5 m. También conoces el truco saber druídico.</td><td>Zancada prodigiosa</td><td>Pasar sin rastro</td></tr></table>
+| Linaje | Nivel 1 | Nivel 3 | Nivel 5 |
+|---|---|---|---|
+| Alto elfo | Conoces el truco prestidigitación. Tras finalizar un descanso largo, puedes sustituir ese truco por otro truco diferente de la lista de conjuros de mago. | Detectar magia | Paso brumoso |
+| Drow | El alcance de tu visión en la oscuridad aumenta a 36 m. También conoces el truco luces danzantes. | Fuego feérico | Oscuridad |
+| Elfo de los bosques | Tu velocidad aumenta a 10,5 m. También conoces el truco saber druídico. | Zancada prodigiosa | Pasar sin rastro |
 
 La Inteligencia, la Sabiduría o el Carisma es tu aptitud mágica para los conjuros que lances con este atributo (elige la característica al seleccionar el linaje). 
 
@@ -248,5 +258,9 @@ Visión en la oscuridad. Tienes visión en la oscuridad hasta 18 m.
 Legados infernales
 
 
-<table><tr><td>Legado</td><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr><tr><td>Abisal</td><td>Tienes resistencia al daño de veneno.También conoces el truco rociada venenosa.</td><td>Rayo nauseabundo</td><td>Inmovilizar persona</td></tr><tr><td>Ctónico</td><td>Tienes resistencia al daño necrótico.También conoces el truco toque helado.</td><td>Falsa vida</td><td>Rayo debilitador</td></tr><tr><td>Infernal</td><td>Tienes resistencia al daño de fuego.También conoces el truco descarga de fuego.</td><td>Reprensión infernal</td><td>Oscuridad</td></tr></table>
+| Legado | Nivel 1 | Nivel 3 | Nivel 5 |
+|---|---|---|---|
+| Abisal | Tienes resistencia al daño de veneno.También conoces el truco rociada venenosa. | Rayo nauseabundo | Inmovilizar persona |
+| Ctónico | Tienes resistencia al daño necrótico.También conoces el truco toque helado. | Falsa vida | Rayo debilitador |
+| Infernal | Tienes resistencia al daño de fuego.También conoces el truco descarga de fuego. | Reprensión infernal | Oscuridad |
 

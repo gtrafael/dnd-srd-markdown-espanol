@@ -12,7 +12,19 @@ El trasfondo de un personaje representa lo que hacía antes de convertirse en av
 Terreno de viaje
 
 
-<table><tr><td>Terreno</td><td>Ritmo máximo</td><td>Distancia en encuentros</td><td>CD para forrajear</td><td>CD para orientarse</td><td>CD de búsqueda</td></tr><tr><td>Acuático</td><td>Especial†</td><td>6d6 × 3 m</td><td>15</td><td>10</td><td>15</td></tr><tr><td>Bosque</td><td>Normal</td><td>2d8 × 3 m</td><td>10</td><td>15</td><td>15</td></tr><tr><td>Colina</td><td>Normal</td><td>2d10 × 3 m</td><td>15</td><td>10</td><td>15</td></tr><tr><td>Costa</td><td>Normal</td><td>2d10 × 3 m</td><td>10</td><td>5</td><td>15</td></tr><tr><td>Desierto</td><td>Normal</td><td>6d6 × 3 m</td><td>20</td><td>10</td><td>10</td></tr><tr><td>Glacial</td><td>Rápido*</td><td>6d6 × 3 m</td><td>20</td><td>10</td><td>10</td></tr><tr><td>Infraoscuridad</td><td>Normal</td><td>2d6 × 3 m</td><td>20</td><td>10</td><td>20</td></tr><tr><td>Localidad</td><td>Normal</td><td>2d6 × 3 m</td><td>20</td><td>15</td><td>15</td></tr><tr><td>Montaña</td><td>Lento</td><td>4d10 × 3 m</td><td>20</td><td>15</td><td>20</td></tr><tr><td>Pantano</td><td>Lento</td><td>2d8 × 3 m</td><td>10</td><td>15</td><td>20</td></tr><tr><td>Pradera</td><td>Rápido</td><td>6d6 × 3 m</td><td>15</td><td>5</td><td>15</td></tr></table>
+| Terreno        | Ritmo máximo | Distancia en encuentros | CD para forrajear | CD para orientarse | CD de búsqueda |
+|----------------|--------------|-------------------------|------------------:|-------------------:|---------------:|
+| Acuático       | Especial†    | 6d6 × 3 m               |                15 |                 10 |             15 |
+| Bosque         | Normal       | 2d8 × 3 m               |                10 |                 15 |             15 |
+| Colina         | Normal       | 2d10 × 3 m              |                15 |                 10 |             15 |
+| Costa          | Normal       | 2d10 × 3 m              |                10 |                  5 |             15 |
+| Desierto       | Normal       | 6d6 × 3 m               |                20 |                 10 |             10 |
+| Glacial        | Rápido*      | 6d6 × 3 m               |                20 |                 10 |             10 |
+| Infraoscuridad | Normal       | 2d6 × 3 m               |                20 |                 10 |             20 |
+| Localidad      | Normal       | 2d6 × 3 m               |                20 |                 15 |             15 |
+| Montaña        | Lento        | 4d10 × 3 m              |                20 |                 15 |             20 |
+| Pantano        | Lento        | 2d8 × 3 m               |                10 |                 15 |             20 |
+| Pradera        | Rápido       | 6d6 × 3 m               |                15 |                  5 |             15 |
 
 
 *Se necesita un equipo adecuado (como unos esquís) para mantener un ritmo rápido en el terreno glacial.

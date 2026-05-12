@@ -24,7 +24,12 @@ Tu GM elige el presagio de la siguiente tabla.
 Presagios
 
 
-<table><tr><td>Presagio</td><td>Para los resultados que sean...</td></tr><tr><td>Fortuna</td><td>Buenos</td></tr><tr><td>Desdicha</td><td>Malos</td></tr><tr><td>Fortuna y desdicha</td><td>Buenos y malos</td></tr><tr><td>Indiferencia</td><td>Ni buenos ni malos</td></tr></table>
+| Presagio           | Para los resultados que sean... |
+|--------------------|---------------------------------|
+| Fortuna            | Buenos                          |
+| Desdicha           | Malos                           |
+| Fortuna y desdicha | Buenos y malos                  |
+| Indiferencia       | Ni buenos ni malos              |
 
 El conjuro no tiene en cuenta las circunstancias que puedan alterar los resultados, como lanzar otros conjuros. 
 

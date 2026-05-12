@@ -16,7 +16,14 @@ related_en: "[[Monsters/Marilith|Marilith (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 18</td><td>+4</td><td>+9</td><td>DES 20</td><td>+5</td><td>+5</td><td>CON 20</td><td>+5</td><td>+10</td><td></td></tr><tr><td>INT 18</td><td>+4</td><td>+4</td><td>SAB 16</td><td>+3</td><td>+8</td><td>CAR 20</td><td>+5</td><td>+10</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +9 |
+| DES | 20 | +5 | +5 |
+| CON | 20 | +5 | +10 |
+| INT | 18 | +4 | +4 |
+| SAB | 16 | +3 | +8 |
+| CAR | 20 | +5 | +10 |
 
 **Habilidades:** Percepción +8
 

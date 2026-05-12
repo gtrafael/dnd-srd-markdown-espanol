@@ -16,7 +16,14 @@ related_en: "[[Monsters/Ancient Gold Dragon|Ancient Gold Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-<table><tr><td></td><td colspan="4">MOD. SALV.</td><td colspan="4">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>30</td><td>+10</td><td>+10</td><td>DES</td><td>14</td><td>+2</td><td>+9</td><td>CON</td><td>29</td><td>+9</td><td>+9</td></tr><tr><td>INT</td><td>18</td><td>+4</td><td>+4</td><td>SAB</td><td>17</td><td>+3</td><td>+10</td><td>CAR</td><td>28</td><td>+9</td><td>+9</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 30 | +10 | +10 |
+| DES | 14 | +2 | +9 |
+| CON | 29 | +9 | +9 |
+| INT | 18 | +4 | +4 |
+| SAB | 17 | +3 | +10 |
+| CAR | 28 | +9 | +9 |
 
 **Habilidades:** Percepción +17, Perspicacia +10, Persuasión +16, Sigilo +9
 

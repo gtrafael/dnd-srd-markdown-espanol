@@ -16,7 +16,14 @@ related_en: "[[Monsters/Ochre Jelly|Ochre Jelly (EN)]]"
 
 **Velocidad:** 6 m, trepar 6 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>15</td><td>+2</td><td>+2</td><td>DES</td><td>6</td><td>-2</td><td>-2</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>SAB</td><td>6</td><td>-2</td><td>-2</td><td>CAR</td><td>1</td><td>-5</td><td>-5</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 15 | +2 | +2 |
+| DES | 6 | -2 | -2 |
+| CON | 14 | +2 | +2 |
+| INT | 2 | -4 | -4 |
+| SAB | 6 | -2 | -2 |
+| CAR | 1 | -5 | -5 |
 
 **Resistencias:** ácido
 

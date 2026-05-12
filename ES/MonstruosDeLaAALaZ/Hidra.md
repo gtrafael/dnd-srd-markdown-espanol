@@ -16,7 +16,14 @@ related_en: "[[Monsters/Hydra|Hydra (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 20</td><td>+5</td><td>+5</td><td>DES 12</td><td>+1</td><td>+1</td><td>CON 20</td><td>+5</td><td>+5</td><td></td></tr><tr><td>INT 2</td><td>-4</td><td>-4</td><td>SAB 10</td><td>+0</td><td>+0</td><td>CAR 7</td><td>-2</td><td>-2</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 20 | +5 | +5 |
+| DES | 12 | +1 | +1 |
+| CON | 20 | +5 | +5 |
+| INT | 2 | -4 | -4 |
+| SAB | 10 | +0 | +0 |
+| CAR | 7 | -2 | -2 |
 
 **Habilidades:** Percepción +6
 

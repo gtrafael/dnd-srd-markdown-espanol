@@ -14,5 +14,11 @@ Una moneda pesa aproximadamente 10 g, por lo que 50 monedas pesan 0,5 kg.
 Valores de monedas
 
 
-<table><tr><td>Moneda</td><td>Valor en po</td></tr><tr><td>Pieza de cobre (pc)</td><td>1/100</td></tr><tr><td>Pieza de plaza (pp)</td><td>1/10</td></tr><tr><td>Pieza de electro (pe)</td><td>1/2</td></tr><tr><td>Pieza de oro (po)</td><td>1</td></tr><tr><td>Pieza de platino (ppt)</td><td>10</td></tr></table>
+| Moneda                 | Valor en po |
+|------------------------|-------------|
+| Pieza de cobre (pc)    | 1/100       |
+| Pieza de plaza (pp)    | 1/10        |
+| Pieza de electro (pe)  | 1/2         |
+| Pieza de oro (po)      | 1           |
+| Pieza de platino (ppt) | 10          |
 

@@ -16,7 +16,14 @@ related_en: "[[Animals/Reef Shark|Reef Shark (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 9 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>14</td><td>+2</td><td>+2</td><td>DES</td><td>15</td><td>+2</td><td>+2</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>1</td><td>-5</td><td>-5</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>4</td><td>-3</td><td>-3</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 14 | +2 | +2 |
+| DES | 15 | +2 | +2 |
+| CON | 13 | +1 | +1 |
+| INT | 1 | -5 | -5 |
+| SAB | 10 | +0 | +0 |
+| CAR | 4 | -3 | -3 |
 
 **Habilidades:** Percepción +2
 

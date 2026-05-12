@@ -9,13 +9,41 @@ related_en: "[[Classes/Ranger|Ranger (EN)]]"
 Atributos básicos de explorador
 
 
-<table><tr><td>Característica principal</td><td>Destreza y Sabiduría</td></tr><tr><td>Dado de puntos de golpe</td><td>1d10 por nivel de explorador</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Fuerza y Destreza</td></tr><tr><td>Competencias en habilidades</td><td>Elige tres: Atletismo, Investigación, Naturaleza, Percepción, Perspicacia, Sigilo, Supervivencia o Trato con animales</td></tr><tr><td>Competencias con armas</td><td>Armas sencillas y marciales</td></tr><tr><td>Entrenamiento con armaduras</td><td>Armaduras ligeras y medias y escudos</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) armadura de cuero tachonado, cimitarra, espada corta, arco largo, 20 flechas, aljaba, canalizador druídico (rama de muérdago), paquete de explorador y 7 po, o (B) 150 po</td></tr></table>
+| Característica principal | Destreza y Sabiduría |
+|---|---|
+| Dado de puntos de golpe | 1d10 por nivel de explorador |
+| Competencias en tiradas de salvación | Fuerza y Destreza |
+| Competencias en habilidades | Elige tres: Atletismo, Investigación, Naturaleza, Percepción, Perspicacia, Sigilo, Supervivencia o Trato con animales |
+| Competencias con armas | Armas sencillas y marciales |
+| Entrenamiento con armaduras | Armaduras ligeras y medias y escudos |
+| Equipo inicial | Elige A o B: (A) armadura de cuero tachonado, cimitarra, espada corta, arco largo, 20 flechas, aljaba, canalizador druídico (rama de muérdago), paquete de explorador y 7 po, o (B) 150 po |
 
 
 Rasgos de explorador
 
 
-<table><tr><td rowspan="2">Nivel</td><td rowspan="2">Bonificador por competencia</td><td rowspan="2">Rasgos de clase</td><td rowspan="2">Enemigo predilecto</td><td rowspan="2">Conjuros preparados</td><td colspan="5">Espacios de conjuro por cada nivel de conjuro</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>1</td><td>+2</td><td>Lanzamiento de conjuros, Enemigo predilecto, Maestría con armas</td><td>2</td><td>2</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>+2</td><td>Estilo de combate, Explorador hábil</td><td>2</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>+2</td><td>Subclase de explorador</td><td>2</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>+2</td><td>Mejora de característica</td><td>2</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>+3</td><td>Ataque adicional</td><td>3</td><td>6</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>+3</td><td>Errante</td><td>3</td><td>6</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>+3</td><td>Rasgo de subclase</td><td>3</td><td>7</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>3</td><td>7</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>+4</td><td>Pericia</td><td>4</td><td>9</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td></tr><tr><td>10</td><td>+4</td><td>Infatigable</td><td>4</td><td>9</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td></tr><tr><td>11</td><td>+4</td><td>Rasgo de subclase</td><td>4</td><td>10</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>4</td><td>10</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td></tr><tr><td>13</td><td>+5</td><td>Cazador persistente</td><td>5</td><td>11</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td></tr><tr><td>14</td><td>+5</td><td>Velo de la naturaleza</td><td>5</td><td>11</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td></tr><tr><td>15</td><td>+5</td><td>Rasgo de subclase</td><td>5</td><td>12</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>5</td><td>12</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr><tr><td>17</td><td>+6</td><td>Cazador preciso</td><td>6</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td></tr><tr><td>18</td><td>+6</td><td>Sentidos salvajes</td><td>6</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr><tr><td>20</td><td>+6</td><td>Azote de enemigos</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase | Enemigo predilecto | Conjuros preparados | 1 | 2 | 3 | 4 | 5 |
+|---:|---:|---|---:|---:|---:|---|---|---|---|
+| 1 | +2 | Lanzamiento de conjuros, Enemigo predilecto, Maestría con armas | 2 | 2 | 2 | — | — | — | — |
+| 2 | +2 | Estilo de combate, Explorador hábil | 2 | 3 | 2 | — | — | — | — |
+| 3 | +2 | Subclase de explorador | 2 | 4 | 3 | — | — | — | — |
+| 4 | +2 | Mejora de característica | 2 | 5 | 3 | — | — | — | — |
+| 5 | +3 | Ataque adicional | 3 | 6 | 4 | 2 | — | — | — |
+| 6 | +3 | Errante | 3 | 6 | 4 | 2 | — | — | — |
+| 7 | +3 | Rasgo de subclase | 3 | 7 | 4 | 3 | — | — | — |
+| 8 | +3 | Mejora de característica | 3 | 7 | 4 | 3 | — | — | — |
+| 9 | +4 | Pericia | 4 | 9 | 4 | 3 | 2 | — | — |
+| 10 | +4 | Infatigable | 4 | 9 | 4 | 3 | 2 | — | — |
+| 11 | +4 | Rasgo de subclase | 4 | 10 | 4 | 3 | 3 | — | — |
+| 12 | +4 | Mejora de característica | 4 | 10 | 4 | 3 | 3 | — | — |
+| 13 | +5 | Cazador persistente | 5 | 11 | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | Velo de la naturaleza | 5 | 11 | 4 | 3 | 3 | 1 | — |
+| 15 | +5 | Rasgo de subclase | 5 | 12 | 4 | 3 | 3 | 2 | — |
+| 16 | +5 | Mejora de característica | 5 | 12 | 4 | 3 | 3 | 2 | — |
+| 17 | +6 | Cazador preciso | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Sentidos salvajes | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Don épico | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Azote de enemigos | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ## Convertirse en explorador
 
@@ -143,31 +171,84 @@ Esta sección presenta la lista de conjuros de explorador. Los conjuros se organ
 Conjuros de explorador de nivel 1
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Alarma</td><td>Abjuración</td><td>R</td></tr><tr><td>Buenas bayas</td><td>Conjuración</td><td>—</td></tr><tr><td>Curar heridas</td><td>Abjuración</td><td>—</td></tr><tr><td>Detectar magia</td><td>Adivinación</td><td>C, R</td></tr><tr><td>Detectar venenos y enfermedades</td><td>Adivinación</td><td>C, R</td></tr><tr><td>Encantar animal</td><td>Encantamiento</td><td>—</td></tr><tr><td>Enmarañar</td><td>Conjuración</td><td>C</td></tr><tr><td>Golpe apresador</td><td>Conjuración</td><td>C</td></tr><tr><td>Hablar con los animales</td><td>Adivinación</td><td>R</td></tr><tr><td>Marca del cazador</td><td>Adivinación</td><td>C</td></tr><tr><td>Nube de oscurecimiento</td><td>Conjuración</td><td>C</td></tr><tr><td>Salto</td><td>Transmutación</td><td>—</td></tr><tr><td>Zancada prodigiosa</td><td>Transmutación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Alarma | Abjuración | R |
+| Buenas bayas | Conjuración | — |
+| Curar heridas | Abjuración | — |
+| Detectar magia | Adivinación | C, R |
+| Detectar venenos y enfermedades | Adivinación | C, R |
+| Encantar animal | Encantamiento | — |
+| Enmarañar | Conjuración | C |
+| Golpe apresador | Conjuración | C |
+| Hablar con los animales | Adivinación | R |
+| Marca del cazador | Adivinación | C |
+| Nube de oscurecimiento | Conjuración | C |
+| Salto | Transmutación | — |
+| Zancada prodigiosa | Transmutación | — |
 
 
 Conjuros de explorador de nivel 2
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Arma mágica</td><td>Transmutación</td><td>—</td></tr><tr><td>Auxilio</td><td>Abjuración</td><td>—</td></tr><tr><td>Crecimiento espinoso</td><td>Transmutación</td><td>C</td></tr><tr><td>Detectar trampas</td><td>Adivinación</td><td>—</td></tr><tr><td>Localizar animales o plantas</td><td>Adivinación</td><td>R</td></tr><tr><td>Localizar objeto</td><td>Adivinación</td><td>C</td></tr><tr><td>Mensajero animal</td><td>Encantamiento</td><td>R</td></tr><tr><td>Pasar sin rastro</td><td>Abjuración</td><td>C</td></tr><tr><td>Piel robliza</td><td>Transmutación</td><td>—</td></tr><tr><td>Potenciar característica</td><td>Transmutación</td><td>C</td></tr><tr><td>Protección contra veneno</td><td>Abjuración</td><td>—</td></tr><tr><td>Ráfaga de viento</td><td>Evocación</td><td>C</td></tr><tr><td>Restablecimiento menor</td><td>Abjuración</td><td>—</td></tr><tr><td>Silencio</td><td>Ilusionismo</td><td>C, R</td></tr><tr><td>Visión en la oscuridad</td><td>Transmutación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Arma mágica | Transmutación | — |
+| Auxilio | Abjuración | — |
+| Crecimiento espinoso | Transmutación | C |
+| Detectar trampas | Adivinación | — |
+| Localizar animales o plantas | Adivinación | R |
+| Localizar objeto | Adivinación | C |
+| Mensajero animal | Encantamiento | R |
+| Pasar sin rastro | Abjuración | C |
+| Piel robliza | Transmutación | — |
+| Potenciar característica | Transmutación | C |
+| Protección contra veneno | Abjuración | — |
+| Ráfaga de viento | Evocación | C |
+| Restablecimiento menor | Abjuración | — |
+| Silencio | Ilusionismo | C, R |
+| Visión en la oscuridad | Transmutación | — |
 
 
 Conjuros de explorador de nivel 3
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Caminar sobre el agua</td><td>Transmutación</td><td>R</td></tr><tr><td>Conjurar animales</td><td>Conjuración</td><td>C</td></tr><tr><td>Crecimiento vegetal</td><td>Transmutación</td><td>—</td></tr><tr><td>Disipar magia</td><td>Abjuración</td><td>—</td></tr><tr><td>Fundirse con la piedra</td><td>Transmutación</td><td>R</td></tr><tr><td>Hablar con las plantas</td><td>Transmutación</td><td>—</td></tr><tr><td>Indetectable</td><td>Abjuración</td><td>M</td></tr><tr><td>Luz del día</td><td>Evocación</td><td>—</td></tr><tr><td>Muro de viento</td><td>Evocación</td><td>C</td></tr><tr><td>Protección contra energía</td><td>Abjuración</td><td>C</td></tr><tr><td>Respirar bajo el agua</td><td>Transmutación</td><td>R</td></tr><tr><td>Revivir</td><td>Nigromancia</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Caminar sobre el agua | Transmutación | R |
+| Conjurar animales | Conjuración | C |
+| Crecimiento vegetal | Transmutación | — |
+| Disipar magia | Abjuración | — |
+| Fundirse con la piedra | Transmutación | R |
+| Hablar con las plantas | Transmutación | — |
+| Indetectable | Abjuración | M |
+| Luz del día | Evocación | — |
+| Muro de viento | Evocación | C |
+| Protección contra energía | Abjuración | C |
+| Respirar bajo el agua | Transmutación | R |
+| Revivir | Nigromancia | M |
 
 
 Conjuros de explorador de nivel 4
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Conjurar seres del bosque</td><td>Conjuración</td><td>C</td></tr><tr><td>Dominar bestia</td><td>Encantamiento</td><td>C</td></tr><tr><td>Libertad de movimiento</td><td>Abjuración</td><td>—</td></tr><tr><td>Localizar criatura</td><td>Adivinación</td><td>C</td></tr><tr><td>Piel pétrea</td><td>Transmutación</td><td>C, M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Conjurar seres del bosque | Conjuración | C |
+| Dominar bestia | Encantamiento | C |
+| Libertad de movimiento | Abjuración | — |
+| Localizar criatura | Adivinación | C |
+| Piel pétrea | Transmutación | C, M |
 
 
 Conjuros de explorador de nivel 5
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Comunión con la naturaleza</td><td>Adivinación</td><td>R</td></tr><tr><td>Paso arbóreo</td><td>Conjuración</td><td>C</td></tr><tr><td>Restablecimiento mayor</td><td>Abjuración</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Comunión con la naturaleza | Adivinación | R |
+| Paso arbóreo | Conjuración | C |
+| Restablecimiento mayor | Abjuración | M |
 
 ## Subclase de explorador: Cazador
 

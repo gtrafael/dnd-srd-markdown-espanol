@@ -16,7 +16,14 @@ related_en: "[[Animals/Rat|Rat (EN)]]"
 
 **Velocidad:** 6 m, trepar 6 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 2</td><td>-4</td><td>-4</td><td>DES 11</td><td>+0</td><td>+0</td><td>CON 9</td><td>-1</td><td>-1</td><td></td></tr><tr><td>INT 2</td><td>-4</td><td>-4</td><td>SAB 10</td><td>+0</td><td>+0</td><td>CAR 4</td><td>-3</td><td>-3</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 2 | -4 | -4 |
+| DES | 11 | +0 | +0 |
+| CON | 9 | -1 | -1 |
+| INT | 2 | -4 | -4 |
+| SAB | 10 | +0 | +0 |
+| CAR | 4 | -3 | -3 |
 
 **Habilidades:** Percepción +2
 

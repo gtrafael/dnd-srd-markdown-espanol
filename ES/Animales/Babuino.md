@@ -16,7 +16,14 @@ related_en: "[[Animals/Baboon|Baboon (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>8</td><td>-1</td><td>-1</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>11</td></tr><tr><td>INT</td><td>4</td><td>-3</td><td>-3</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>6</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |     8 |  -1 |   -1 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     4 |  -3 |   -3 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Sentidos:** Percepción pasiva 11
 

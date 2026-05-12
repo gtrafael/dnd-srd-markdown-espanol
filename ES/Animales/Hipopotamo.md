@@ -16,7 +16,14 @@ related_en: "[[Animals/Hippopotamus|Hippopotamus (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 21</td><td>+5</td><td>+7</td><td>DES 7</td><td>-2</td><td>-2</td><td>CON 15</td><td>+2</td><td>+2</td><td></td></tr><tr><td>INT 2</td><td>-4</td><td>-4</td><td>SAB 12</td><td>+1</td><td>+1</td><td>CAR 4</td><td>-3</td><td>-3</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 21 | +5 | +7 |
+| DES | 7 | -2 | -2 |
+| CON | 15 | +2 | +2 |
+| INT | 2 | -4 | -4 |
+| SAB | 12 | +1 | +1 |
+| CAR | 4 | -3 | -3 |
 
 **Habilidades:** Percepción +3
 

@@ -14,7 +14,14 @@ related_en: "[[Monsters/Black Dragon Wyrmling|Black Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>15</td><td>+2</td><td>+2</td><td>DES</td><td>14</td><td>+2</td><td>+4</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>10</td><td>+0</td><td>+0</td><td>SAB</td><td>11</td><td>+0</td><td>+2</td><td>CAR</td><td>13</td><td>+1</td><td>+1</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 15 | +2 | +2 |
+| DES | 14 | +2 | +4 |
+| CON | 13 | +1 | +1 |
+| INT | 10 | +0 | +0 |
+| SAB | 11 | +0 | +2 |
+| CAR | 13 | +1 | +1 |
 
 **Habilidades:** Percepción +4, Sigilo +4
 

@@ -16,7 +16,14 @@ related_en: "[[Monsters/Vampire Spawn|Vampire Spawn (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>16</td><td>+3</td><td>+3</td><td>DES</td><td>16</td><td>+3</td><td>+6</td><td>CON</td><td>16</td><td>+3</td><td>+3</td></tr><tr><td>INT</td><td>11</td><td>+0</td><td>+0</td><td>SAB</td><td>10</td><td>+0</td><td>+3</td><td>CAR</td><td>12</td><td>+1</td><td>+1</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 16 | +3 | +3 |
+| DES | 16 | +3 | +6 |
+| CON | 16 | +3 | +3 |
+| INT | 11 | +0 | +0 |
+| SAB | 10 | +0 | +3 |
+| CAR | 12 | +1 | +1 |
 
 **Habilidades:** Percepción +3, Sigilo +6
 

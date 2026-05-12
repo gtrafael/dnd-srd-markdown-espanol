@@ -16,7 +16,14 @@ related_en: "[[Monsters/Mummy|Mummy (EN)]]"
 
 **Velocidad:** 6 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>16</td><td>+3</td><td>+3</td><td>DES</td><td>8</td><td>-1</td><td>-1</td><td>CON</td><td>15</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>6</td><td>-2</td><td>-2</td><td>SAB</td><td>12</td><td>+1</td><td>+3</td><td>CAR</td><td>12</td><td>+1</td><td>+1</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 16 | +3 | +3 |
+| DES | 8 | -1 | -1 |
+| CON | 15 | +2 | +2 |
+| INT | 6 | -2 | -2 |
+| SAB | 12 | +1 | +3 |
+| CAR | 12 | +1 | +1 |
 
 **Vulnerabilidades:** fuego
 

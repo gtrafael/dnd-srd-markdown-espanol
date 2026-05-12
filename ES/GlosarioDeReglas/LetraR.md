@@ -35,7 +35,11 @@ Clase de armadura. La tabla “Clase de armadura de objetos” muestra las CA de
 Clase de armadura de objetos
 
 
-<table><tr><td>CA</td><td>Sustancia</td><td>CA</td><td>Sustancia</td></tr><tr><td>11</td><td>Tela, papel, cuerda</td><td>19</td><td>Hierro, acero</td></tr><tr><td>13</td><td>Cristal, vidrio, hielo</td><td>21</td><td>Mithral</td></tr><tr><td>15</td><td>Madera</td><td>23</td><td>Adamantina</td></tr></table>
+| CA | Sustancia              | CA | Sustancia     |
+|---:|------------------------|---:|---------------|
+| 11 | Tela, papel, cuerda    | 19 | Hierro, acero |
+| 13 | Cristal, vidrio, hielo | 21 | Mithral       |
+| 15 | Madera                 | 23 | Adamantina    |
 
 
 17 Piedra
@@ -47,7 +51,12 @@ Puntos de golpe. Un objeto se destruye cuando sus puntos de golpe se reducen a 0
 Puntos de golpe de objetos
 
 
-<table><tr><td>Tamaño</td><td>Frágil</td><td>Resistente</td></tr><tr><td>Diminuto (botella, cerradura)</td><td>2 (1d4)</td><td>5 (2d4)</td></tr><tr><td>Pequeño (cofre, laúd)</td><td>3 (1d6)</td><td>10 (3d6)</td></tr><tr><td>Mediano (barril, candelabro)</td><td>4 (1d8)</td><td>18 (4d8)</td></tr><tr><td>Grande (carreta, mesa de comedor)</td><td>5 (1d10)</td><td>27 (5d10)</td></tr></table>
+| Tamaño                            | Frágil   | Resistente |
+|-----------------------------------|----------|------------|
+| Diminuto (botella, cerradura)     | 2 (1d4)  | 5 (2d4)    |
+| Pequeño (cofre, laúd)             | 3 (1d6)  | 10 (3d6)   |
+| Mediano (barril, candelabro)      | 4 (1d8)  | 18 (4d8)   |
+| Grande (carreta, mesa de comedor) | 5 (1d10) | 27 (5d10)  |
 
 Tipos de daño y objetos. Los objetos tienen inmunidad al daño psíquico y de veneno. Cada GM puede decidir que determinados tipos de daño sean más o menos efectivos contra un objeto. Por ejemplo, el daño contundente sirve para destrozar cosas a golpes, pero no para cortar. Los objetos de papel o tela pueden ser vulnerables al daño de fuego.
 

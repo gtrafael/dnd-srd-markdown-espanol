@@ -16,7 +16,14 @@ related_en: "[[Monsters/Gold Dragon Wyrmling|Gold Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 19</td><td>+4</td><td>+4</td><td>DES 14</td><td>+2</td><td>+4</td><td>CON 17</td><td>+3</td><td>+3</td><td></td></tr><tr><td>INT 14</td><td>+2</td><td>+2</td><td>SAB 11</td><td>+0</td><td>+2</td><td>CAR 16</td><td>+3</td><td>+3</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 19 | +4 | +4 |
+| DES | 14 | +2 | +4 |
+| CON | 17 | +3 | +3 |
+| INT | 14 | +2 | +2 |
+| SAB | 11 | +0 | +2 |
+| CAR | 16 | +3 | +3 |
 
 **Habilidades:** Percepción +4, Sigilo +4
 

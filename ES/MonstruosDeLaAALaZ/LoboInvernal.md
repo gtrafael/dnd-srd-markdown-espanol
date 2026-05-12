@@ -16,7 +16,14 @@ related_en: "[[Monsters/Winter Wolf|Winter Wolf (EN)]]"
 
 **Velocidad:** 15 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>14</td></tr><tr><td>INT</td><td>7</td><td>-2</td><td>-2</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>8</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 13 | +1 | +1 |
+| CON | 14 | — | — |
+| INT | 7 | -2 | -2 |
+| SAB | 12 | +1 | +1 |
+| CAR | 8 | — | — |
 
 **Habilidades:** Percepción +5, Sigilo +5
 

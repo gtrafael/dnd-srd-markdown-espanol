@@ -33,7 +33,14 @@ El nombre de una prueba de característica depende del modificador por caracter�
 Ejemplos de pruebas de característica
 
 
-<table><tr><td>Característica</td><td>Haz una prueba para...</td></tr><tr><td>Fuerza</td><td>Levantar, empujar, tirar o romper algo.</td></tr><tr><td>Destreza</td><td>Moverte de forma ágil, rápida o silenciosa.</td></tr><tr><td>Constitución</td><td>Rebasar tus capacidades físicas normales.</td></tr><tr><td>Inteligencia</td><td>Razonar o recordar algo.</td></tr><tr><td>Sabiduría</td><td>Percatarte de algo en tu entorno o en la conducta de las criaturas.</td></tr><tr><td>Carisma</td><td>Influir, entretener o engañar.</td></tr></table>
+| Característica | Haz una prueba para... |
+|---|---|
+| Fuerza | Levantar, empujar, tirar o romper algo. |
+| Destreza | Moverte de forma ágil, rápida o silenciosa. |
+| Constitución | Rebasar tus capacidades físicas normales. |
+| Inteligencia | Razonar o recordar algo. |
+| Sabiduría | Percatarte de algo en tu entorno o en la conducta de las criaturas. |
+| Carisma | Influir, entretener o engañar. |
 
 ## Bonificador por competencia
 
@@ -47,7 +54,11 @@ La clase de dificultad de una prueba de característica representa la dificultad
 Clases de dificultad típicas
 
 
-<table><tr><td>Dificultad de la tarea</td><td>CD</td><td>Dificultad de la tarea</td><td>CD</td></tr><tr><td>Muy fácil</td><td>5</td><td>Difícil</td><td>20</td></tr><tr><td>Fácil</td><td>10</td><td>Muy difícil</td><td>25</td></tr><tr><td>Dificultad media</td><td>15</td><td>Casi imposible</td><td>30</td></tr></table>
+| Dificultad de la tarea | CD | Dificultad de la tarea | CD |
+|---|---:|---|---:|
+| Muy fácil | 5 | Difícil | 20 |
+| Fácil | 10 | Muy difícil | 25 |
+| Dificultad media | 15 | Casi imposible | 30 |
 
 #### Tiradas de salvación
 
@@ -63,7 +74,14 @@ Las tiradas de salvación usan el nombre de los modificadores por característic
 Ejemplos de tiradas de salvación
 
 
-<table><tr><td>Característica</td><td>Haz una tirada de salvación para...</td></tr><tr><td>Fuerza</td><td>Resistir físicamente una fuerza directa.</td></tr><tr><td>Destreza</td><td>Esquivar una amenaza.</td></tr><tr><td>Constitución</td><td>Resistir un peligro tóxico.</td></tr><tr><td>Inteligencia</td><td>Identificar una ilusión como falsa.</td></tr><tr><td>Sabiduría</td><td>Resistir una agresión mental.</td></tr><tr><td>Carisma</td><td>Reafirmar tu identidad.</td></tr></table>
+| Característica | Haz una tirada de salvación para... |
+|---|---|
+| Fuerza | Resistir físicamente una fuerza directa. |
+| Destreza | Esquivar una amenaza. |
+| Constitución | Resistir un peligro tóxico. |
+| Inteligencia | Identificar una ilusión como falsa. |
+| Sabiduría | Resistir una agresión mental. |
+| Carisma | Reafirmar tu identidad. |
 
 ### Bonificador por competencia
 
@@ -85,7 +103,11 @@ La tabla “Características de las tiradas de ataque” muestra qué modificado
 Características de las tiradas de ataque
 
 
-<table><tr><td>Característica</td><td>Tipo de ataque</td></tr><tr><td>Fuerza</td><td>Ataque cuerpo a cuerpo con un arma o un ataque sin armas (consulta el capítulo “Glosario de reglas”).</td></tr><tr><td>Destreza</td><td>Ataque a distancia con un arma.</td></tr><tr><td>Variable</td><td>Ataque de conjuro (el rasgo de lanzamiento de conjuros del lanzador determina la característica empleada, como se explica en el capítulo “Conjuros”).</td></tr></table>
+| Característica | Tipo de ataque |
+|---|---|
+| Fuerza | Ataque cuerpo a cuerpo con un arma o un ataque sin armas (consulta el capítulo “Glosario de reglas”). |
+| Destreza | Ataque a distancia con un arma. |
+| Variable | Ataque de conjuro (el rasgo de lanzamiento de conjuros del lanzador determina la característica empleada, como se explica en el capítulo “Conjuros”). |
 
 Algunos rasgos o propiedades te permiten usar modificadores por característica distintos a los que se indican. Por ejemplo, la propiedad “sutil” (consulta el capítulo “Equipo”) te permite utilizar la Fuerza o la Destreza con un arma que tenga esa propiedad. 
 

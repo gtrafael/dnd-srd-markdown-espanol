@@ -36,8 +36,14 @@ Celestial, feérico o infernal Grande (a tu elección), neutral
 
 **Velocidad:** 18 m, volar 18 m (requiere un conjuro de nivel 4 o superior)
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>12</td><td>+1</td><td>+1</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>6</td><td>-2</td><td>-2</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>8</td><td>-1</td><td>-1</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |     6 |  -2 |   -2 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     8 |  -1 |   -1 |
 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** telepatía 1,5 km (solo funciona contigo)

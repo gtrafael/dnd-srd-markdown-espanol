@@ -14,7 +14,14 @@ related_en: "[[Monsters/Vampire|Vampire (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>18</td><td>+4</td><td>+9</td><td>CON</td><td>18</td><td>+4</td><td>+9</td></tr><tr><td>INT</td><td>17</td><td>+3</td><td>+3</td><td>SAB</td><td>15</td><td>+2</td><td>+7</td><td>CAR</td><td>18</td><td>+4</td><td>+9</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 18 | +4 | +9 |
+| CON | 18 | +4 | +9 |
+| INT | 17 | +3 | +3 |
+| SAB | 15 | +2 | +7 |
+| CAR | 18 | +4 | +9 |
 
 **Habilidades:** Percepción +7, Sigilo +9
 

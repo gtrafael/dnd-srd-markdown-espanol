@@ -10,7 +10,14 @@ related_en: "[[Classes/Wizard|Wizard (EN)]]"
 Atributos básicos de mago
 
 
-<table><tr><td>Característica principal</td><td>Inteligencia</td></tr><tr><td>Dado de puntos de golpe</td><td>1d6 por nivel de mago</td></tr><tr><td>Competencias en tiradas de salvación</td><td>Inteligencia y Sabiduría</td></tr><tr><td>Competencias en habilidades</td><td>Elige dos: Conocimiento arcano, Historia, Investigación, Medicina, Naturaleza, Perspicacia o Religión</td></tr><tr><td>Competencias con armas</td><td>Amas sencillas</td></tr><tr><td>Entrenamiento con armaduras</td><td>Ninguna</td></tr><tr><td>Equipo inicial</td><td>Elige A o B: (A) 2 dagas, canalizador arcano (bastón), libro de conjuros, paquete de erudito, túnica y 5 po, o (B) 55 po</td></tr></table>
+| Característica principal | Inteligencia |
+|---|---|
+| Dado de puntos de golpe | 1d6 por nivel de mago |
+| Competencias en tiradas de salvación | Inteligencia y Sabiduría |
+| Competencias en habilidades | Elige dos: Conocimiento arcano, Historia, Investigación, Medicina, Naturaleza, Perspicacia o Religión |
+| Competencias con armas | Amas sencillas |
+| Entrenamiento con armaduras | Ninguna |
+| Equipo inicial | Elige A o B: (A) 2 dagas, canalizador arcano (bastón), libro de conjuros, paquete de erudito, túnica y 5 po, o (B) 55 po |
 
 ## Convertirse en mago
 
@@ -34,7 +41,28 @@ Como mago, obtienes los siguientes rasgos de clase cuando alcanzas los niveles d
 Rasgos de mago
 
 
-<table><tr><td rowspan="2">Nivel</td><td rowspan="2">Bonificador por competencia</td><td rowspan="2">Rasgos de clase</td><td rowspan="2">Trucos</td><td rowspan="2">Conjuros preparados</td><td colspan="9">Espacios de conjuro por cada nivel de conjuro</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1</td><td>+2</td><td>Lanzamiento de conjuros, Adepto en rituales, Recuperación arcana</td><td>3</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>+2</td><td>Académico</td><td>3</td><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>+2</td><td>Subclase de mago</td><td>3</td><td>6</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>+2</td><td>Mejora de característica</td><td>4</td><td>7</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>+3</td><td>Memorizar conjuro</td><td>4</td><td>9</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>+3</td><td>Rasgo de subclase</td><td>4</td><td>10</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>+3</td><td>—</td><td>4</td><td>11</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>+3</td><td>Mejora de característica</td><td>4</td><td>12</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>+4</td><td>—</td><td>4</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10</td><td>+4</td><td>Rasgo de subclase</td><td>5</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11</td><td>+4</td><td>—</td><td>5</td><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12</td><td>+4</td><td>Mejora de característica</td><td>5</td><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13</td><td>+5</td><td>—</td><td>5</td><td>17</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>14</td><td>+5</td><td>Rasgo de subclase</td><td>5</td><td>18</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>15</td><td>+5</td><td>—</td><td>5</td><td>19</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>16</td><td>+5</td><td>Mejora de característica</td><td>5</td><td>21</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>17</td><td>+6</td><td>—</td><td>5</td><td>22</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18</td><td>+6</td><td>Maestría sobre conjuros</td><td>5</td><td>23</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19</td><td>+6</td><td>Don épico</td><td>5</td><td>24</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20</td><td>+6</td><td>Conjuros característicos</td><td>5</td><td>25</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td></tr></table>
+| Nivel | Bonificador por competencia | Rasgos de clase | Trucos | Conjuros preparados | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---:|---:|---|---:|---:|---:|---|---|---|---|---|---|---|---|
+| 1 | +2 | Lanzamiento de conjuros, Adepto en rituales, Recuperación arcana | 3 | 4 | 2 | — | — | — | — | — | — | — | — |
+| 2 | +2 | Académico | 3 | 5 | 3 | — | — | — | — | — | — | — | — |
+| 3 | +2 | Subclase de mago | 3 | 6 | 4 | 2 | — | — | — | — | — | — | — |
+| 4 | +2 | Mejora de característica | 4 | 7 | 4 | 3 | — | — | — | — | — | — | — |
+| 5 | +3 | Memorizar conjuro | 4 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6 | +3 | Rasgo de subclase | 4 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7 | +3 | — | 4 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8 | +3 | Mejora de característica | 4 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9 | +4 | — | 4 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10 | +4 | Rasgo de subclase | 5 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11 | +4 | — | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12 | +4 | Mejora de característica | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13 | +5 | — | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14 | +5 | Rasgo de subclase | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15 | +5 | — | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16 | +5 | Mejora de característica | 5 | 21 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17 | +6 | — | 5 | 22 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | Maestría sobre conjuros | 5 | 23 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Don épico | 5 | 24 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Conjuros característicos | 5 | 25 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ### Nivel 1: Lanzamiento de conjuros
 
@@ -124,67 +152,297 @@ Esta sección presenta la lista de conjuros de mago. Los conjuros se organizan p
 Trucos (conjuros de mago de nivel 0)
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Agarre electrizante</td><td>Evocación</td><td>—</td></tr><tr><td>Descarga de fuego</td><td>Evocación</td><td>—</td></tr><tr><td>Elementalismo</td><td>Transmutación</td><td>—</td></tr><tr><td>Ilusión menor</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Impacto certero</td><td>Adivinación</td><td>—</td></tr><tr><td>Luces danzantes</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Luz</td><td>Evocación</td><td>—</td></tr><tr><td>Mano de mago</td><td>Conjuración</td><td>—</td></tr><tr><td>Mensaje</td><td>Transmutación</td><td>—</td></tr><tr><td>Prestidigitación</td><td>Transmutación</td><td>—</td></tr><tr><td>Rayo de escarcha</td><td>Evocación</td><td>—</td></tr><tr><td>Reparar</td><td>Transmutación</td><td>—</td></tr><tr><td>Rociada venenosa</td><td>Nigromancia</td><td>—</td></tr><tr><td>Salpicadura ácida</td><td>Evocación</td><td>—</td></tr><tr><td>Toque helado</td><td>Nigromancia</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Agarre electrizante | Evocación | — |
+| Descarga de fuego | Evocación | — |
+| Elementalismo | Transmutación | — |
+| Ilusión menor | Ilusionismo | — |
+| Impacto certero | Adivinación | — |
+| Luces danzantes | Ilusionismo | C |
+| Luz | Evocación | — |
+| Mano de mago | Conjuración | — |
+| Mensaje | Transmutación | — |
+| Prestidigitación | Transmutación | — |
+| Rayo de escarcha | Evocación | — |
+| Reparar | Transmutación | — |
+| Rociada venenosa | Nigromancia | — |
+| Salpicadura ácida | Evocación | — |
+| Toque helado | Nigromancia | — |
 
 
 Conjuros de mago de nivel 1
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Alarma</td><td>Abjuración</td><td>R</td></tr><tr><td>Armadura de mago</td><td>Abjuración</td><td>—</td></tr><tr><td>Caída de pluma</td><td>Transmutación</td><td>—</td></tr><tr><td>Cuchillo de hielo</td><td>Conjuración</td><td>—</td></tr><tr><td>Detectar magia</td><td>Adivinación</td><td>C, R</td></tr><tr><td>Disco flotante</td><td>Conjuración</td><td>R</td></tr><tr><td>Disfrazarse</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Dormir</td><td>Encantamiento</td><td>C</td></tr><tr><td>Encontrar familiar</td><td>Conjuración</td><td>R, M</td></tr><tr><td>Entender idiomas</td><td>Adivinación</td><td>R</td></tr><tr><td>Escudo</td><td>Abjuración</td><td>—</td></tr><tr><td>Falsa vida</td><td>Nigromancia</td><td>—</td></tr><tr><td>Grasa</td><td>Conjuración</td><td>—</td></tr><tr><td>Hechizar persona</td><td>Encantamiento</td><td>—</td></tr><tr><td>Identificar</td><td>Adivinación</td><td>R, M</td></tr><tr><td>Imagen silenciosa</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Manos ardientes</td><td>Evocación</td><td>—</td></tr><tr><td>Nube de oscurecimiento</td><td>Conjuración</td><td>C</td></tr><tr><td>Ola atronadora</td><td>Evocación</td><td>—</td></tr><tr><td>Orbe cromático</td><td>Evocación</td><td>M</td></tr><tr><td>Protección contra el bien y el mal</td><td>Abjuración</td><td>C, M</td></tr><tr><td>Proyectil mágico</td><td>Evocación</td><td>—</td></tr><tr><td>Rayo nauseabundo</td><td>Nigromancia</td><td>—</td></tr><tr><td>Retirada expeditiva</td><td>Transmutación</td><td>C</td></tr><tr><td>Risa horrible</td><td>Encantamiento</td><td>C</td></tr><tr><td>Rociada de color</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Salto</td><td>Transmutación</td><td>—</td></tr><tr><td>Sirviente invisible</td><td>Conjuración</td><td>R</td></tr><tr><td>Texto ilusorio</td><td>Ilusionismo</td><td>R, M</td></tr><tr><td>Zancada prodigiosa</td><td>Transmutación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Alarma | Abjuración | R |
+| Armadura de mago | Abjuración | — |
+| Caída de pluma | Transmutación | — |
+| Cuchillo de hielo | Conjuración | — |
+| Detectar magia | Adivinación | C, R |
+| Disco flotante | Conjuración | R |
+| Disfrazarse | Ilusionismo | — |
+| Dormir | Encantamiento | C |
+| Encontrar familiar | Conjuración | R, M |
+| Entender idiomas | Adivinación | R |
+| Escudo | Abjuración | — |
+| Falsa vida | Nigromancia | — |
+| Grasa | Conjuración | — |
+| Hechizar persona | Encantamiento | — |
+| Identificar | Adivinación | R, M |
+| Imagen silenciosa | Ilusionismo | C |
+| Manos ardientes | Evocación | — |
+| Nube de oscurecimiento | Conjuración | C |
+| Ola atronadora | Evocación | — |
+| Orbe cromático | Evocación | M |
+| Protección contra el bien y el mal | Abjuración | C, M |
+| Proyectil mágico | Evocación | — |
+| Rayo nauseabundo | Nigromancia | — |
+| Retirada expeditiva | Transmutación | C |
+| Risa horrible | Encantamiento | C |
+| Rociada de color | Ilusionismo | — |
+| Salto | Transmutación | — |
+| Sirviente invisible | Conjuración | R |
+| Texto ilusorio | Ilusionismo | R, M |
+| Zancada prodigiosa | Transmutación | — |
 
 
 Conjuros de mago de nivel 2
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Abrir</td><td>Transmutación</td><td>—</td></tr><tr><td>Agrandar/reducir</td><td>Transmutación</td><td>C</td></tr><tr><td>Aliento de dragón</td><td>Transmutación</td><td>C</td></tr><tr><td>Alterar el propio aspecto</td><td>Transmutación</td><td>C</td></tr><tr><td>Arma mágica</td><td>Transmutación</td><td>—</td></tr><tr><td>Augurio</td><td>Adivinación</td><td>R, M</td></tr><tr><td>Aura mágica de arcanista</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Boca mágica</td><td>Ilusionismo</td><td>R, M</td></tr><tr><td>Cerradura arcana</td><td>Abjuración</td><td>M</td></tr><tr><td>Clavo mental</td><td>Adivinación</td><td>C</td></tr><tr><td>Contorno borroso</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Detectar pensamientos</td><td>Adivinación</td><td>C</td></tr><tr><td>Dulce descanso</td><td>Nigromancia</td><td>R, M</td></tr><tr><td>Esfera de llamas</td><td>Evocación</td><td>C</td></tr><tr><td>Flecha ácida</td><td>Evocación</td><td>—</td></tr><tr><td>Hacer añicos</td><td>Evocación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Abrir | Transmutación | — |
+| Agrandar/reducir | Transmutación | C |
+| Aliento de dragón | Transmutación | C |
+| Alterar el propio aspecto | Transmutación | C |
+| Arma mágica | Transmutación | — |
+| Augurio | Adivinación | R, M |
+| Aura mágica de arcanista | Ilusionismo | — |
+| Boca mágica | Ilusionismo | R, M |
+| Cerradura arcana | Abjuración | M |
+| Clavo mental | Adivinación | C |
+| Contorno borroso | Ilusionismo | C |
+| Detectar pensamientos | Adivinación | C |
+| Dulce descanso | Nigromancia | R, M |
+| Esfera de llamas | Evocación | C |
+| Flecha ácida | Evocación | — |
+| Hacer añicos | Evocación | — |
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Imagen múltiple</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Inmovilizar persona</td><td>Encantamiento</td><td>C</td></tr><tr><td>Invisibilidad</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Levitar</td><td>Transmutación</td><td>C</td></tr><tr><td>Llama permanente</td><td>Evocación</td><td>M</td></tr><tr><td>Localizar objeto</td><td>Adivinación</td><td>C</td></tr><tr><td>Oscuridad</td><td>Evocación</td><td>C</td></tr><tr><td>Paso brumoso</td><td>Conjuración</td><td>—</td></tr><tr><td>Potenciar característica</td><td>Transmutación</td><td>C</td></tr><tr><td>Ráfaga de viento</td><td>Evocación</td><td>C</td></tr><tr><td>Rayo abrasador</td><td>Evocación</td><td>—</td></tr><tr><td>Rayo debilitador</td><td>Nigromancia</td><td>C</td></tr><tr><td>Sordera/ceguera</td><td>Transmutación</td><td>—</td></tr><tr><td>Sugestión</td><td>Encantamiento</td><td>C</td></tr><tr><td>Telaraña</td><td>Conjuración</td><td>C</td></tr><tr><td>Trepar cual arácnido</td><td>Transmutación</td><td>C</td></tr><tr><td>Truco de la cuerda</td><td>Transmutación</td><td>—</td></tr><tr><td>Ver invisibilidad</td><td>Adivinación</td><td>—</td></tr><tr><td>Visión en la oscuridad</td><td>Transmutación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Imagen múltiple | Ilusionismo | — |
+| Inmovilizar persona | Encantamiento | C |
+| Invisibilidad | Ilusionismo | C |
+| Levitar | Transmutación | C |
+| Llama permanente | Evocación | M |
+| Localizar objeto | Adivinación | C |
+| Oscuridad | Evocación | C |
+| Paso brumoso | Conjuración | — |
+| Potenciar característica | Transmutación | C |
+| Ráfaga de viento | Evocación | C |
+| Rayo abrasador | Evocación | — |
+| Rayo debilitador | Nigromancia | C |
+| Sordera/ceguera | Transmutación | — |
+| Sugestión | Encantamiento | C |
+| Telaraña | Conjuración | C |
+| Trepar cual arácnido | Transmutación | C |
+| Truco de la cuerda | Transmutación | — |
+| Ver invisibilidad | Adivinación | — |
+| Visión en la oscuridad | Transmutación | — |
 
 
 Conjuros de mago de nivel 3
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Acelerar</td><td>Transmutación</td><td>C</td></tr><tr><td>Animar a los muertos</td><td>Nigromancia</td><td>—</td></tr><tr><td>Bola de fuego</td><td>Evocación</td><td>—</td></tr><tr><td>Círculo mágico</td><td>Abjuración</td><td>M</td></tr><tr><td>Clarividencia</td><td>Adivinación</td><td>C, M</td></tr><tr><td>Contrahechizo</td><td>Abjuración</td><td>—</td></tr><tr><td>Corcel fantasma</td><td>Ilusionismo</td><td>R</td></tr><tr><td>Desplazamiento</td><td>Transmutación</td><td>—</td></tr><tr><td>Disipar magia</td><td>Abjuración</td><td>—</td></tr><tr><td>Don de lenguas</td><td>Adivinación</td><td>—</td></tr><tr><td>Forma gaseosa</td><td>Transmutación</td><td>C</td></tr><tr><td>Glifo custodio</td><td>Abjuración</td><td>M</td></tr><tr><td>Hablar con los muertos</td><td>Nigromancia</td><td>—</td></tr><tr><td>Imagen mayor</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Imponer maldición</td><td>Nigromancia</td><td>C</td></tr><tr><td>Indetectable</td><td>Abjuración</td><td>M</td></tr><tr><td>Levantar maldición</td><td>Abjuración</td><td>—</td></tr><tr><td>Nube apestosa</td><td>Conjuración</td><td>C</td></tr><tr><td>Patrón hipnótico</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Pequeña choza</td><td>Evocación</td><td>R</td></tr><tr><td>Protección contra energía</td><td>Abjuración</td><td>C</td></tr><tr><td>Ralentizar</td><td>Transmutación</td><td>C</td></tr><tr><td>Recado</td><td>Adivinación</td><td>—</td></tr><tr><td>Relámpago</td><td>Evocación</td><td>—</td></tr><tr><td>Respirar bajo el agua</td><td>Transmutación</td><td>R</td></tr><tr><td>Terror</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Toque vampírico</td><td>Nigromancia</td><td>C</td></tr><tr><td>Tormenta de aguanieve</td><td>Conjuración</td><td>C</td></tr><tr><td>Volar</td><td>Transmutación</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Acelerar | Transmutación | C |
+| Animar a los muertos | Nigromancia | — |
+| Bola de fuego | Evocación | — |
+| Círculo mágico | Abjuración | M |
+| Clarividencia | Adivinación | C, M |
+| Contrahechizo | Abjuración | — |
+| Corcel fantasma | Ilusionismo | R |
+| Desplazamiento | Transmutación | — |
+| Disipar magia | Abjuración | — |
+| Don de lenguas | Adivinación | — |
+| Forma gaseosa | Transmutación | C |
+| Glifo custodio | Abjuración | M |
+| Hablar con los muertos | Nigromancia | — |
+| Imagen mayor | Ilusionismo | C |
+| Imponer maldición | Nigromancia | C |
+| Indetectable | Abjuración | M |
+| Levantar maldición | Abjuración | — |
+| Nube apestosa | Conjuración | C |
+| Patrón hipnótico | Ilusionismo | C |
+| Pequeña choza | Evocación | R |
+| Protección contra energía | Abjuración | C |
+| Ralentizar | Transmutación | C |
+| Recado | Adivinación | — |
+| Relámpago | Evocación | — |
+| Respirar bajo el agua | Transmutación | R |
+| Terror | Ilusionismo | C |
+| Toque vampírico | Nigromancia | C |
+| Tormenta de aguanieve | Conjuración | C |
+| Volar | Transmutación | C |
 
 
 Conjuros de mago de nivel 4
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Adivinación</td><td>Adivinación</td><td>R, M</td></tr><tr><td>Asesino fantasmal</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Cofre oculto</td><td>Conjuración</td><td>M</td></tr><tr><td>Confusión</td><td>Encantamiento</td><td>C</td></tr><tr><td>Conjurar elementales menores</td><td>Conjuración</td><td>C</td></tr><tr><td>Controlar agua</td><td>Transmutación</td><td>C</td></tr><tr><td>Destierro</td><td>Abjuración</td><td>C</td></tr><tr><td>Escudo de fuego</td><td>Evocación</td><td>—</td></tr><tr><td>Esfera elástica</td><td>Abjuración</td><td>C</td></tr><tr><td>Esfera vitriólica</td><td>Evocación</td><td>—</td></tr><tr><td>Fabricar</td><td>Transmutación</td><td>—</td></tr><tr><td>Hechizar monstruo</td><td>Encantamiento</td><td>—</td></tr><tr><td>Invisibilidad mejorada</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Localizar criatura</td><td>Adivinación</td><td>C</td></tr><tr><td>Marchitar</td><td>Nigromancia</td><td>—</td></tr><tr><td>Mastín fiel</td><td>Conjuración</td><td>—</td></tr><tr><td>Moldear la piedra</td><td>Transmutación</td><td>—</td></tr><tr><td>Muro de fuego</td><td>Evocación</td><td>C</td></tr><tr><td>Ojo arcano</td><td>Adivinación</td><td>C</td></tr><tr><td>Piel pétrea</td><td>Transmutación</td><td>C, M</td></tr><tr><td>Polimorfar</td><td>Transmutación</td><td>C</td></tr><tr><td>Puerta dimensional</td><td>Conjuración</td><td>—</td></tr><tr><td>Sanctasanctórum privado</td><td>Abjuración</td><td>—</td></tr><tr><td>Tentáculos negros</td><td>Conjuración</td><td>C</td></tr><tr><td>Terreno alucinatorio</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Tormenta de hielo</td><td>Evocación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Adivinación | Adivinación | R, M |
+| Asesino fantasmal | Ilusionismo | C |
+| Cofre oculto | Conjuración | M |
+| Confusión | Encantamiento | C |
+| Conjurar elementales menores | Conjuración | C |
+| Controlar agua | Transmutación | C |
+| Destierro | Abjuración | C |
+| Escudo de fuego | Evocación | — |
+| Esfera elástica | Abjuración | C |
+| Esfera vitriólica | Evocación | — |
+| Fabricar | Transmutación | — |
+| Hechizar monstruo | Encantamiento | — |
+| Invisibilidad mejorada | Ilusionismo | C |
+| Localizar criatura | Adivinación | C |
+| Marchitar | Nigromancia | — |
+| Mastín fiel | Conjuración | — |
+| Moldear la piedra | Transmutación | — |
+| Muro de fuego | Evocación | C |
+| Ojo arcano | Adivinación | C |
+| Piel pétrea | Transmutación | C, M |
+| Polimorfar | Transmutación | C |
+| Puerta dimensional | Conjuración | — |
+| Sanctasanctórum privado | Abjuración | — |
+| Tentáculos negros | Conjuración | C |
+| Terreno alucinatorio | Ilusionismo | — |
+| Tormenta de hielo | Evocación | — |
 
 
 Conjuros de mago de nivel 5
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Alterar los recuerdos</td><td>Encantamiento</td><td>C</td></tr><tr><td>Animar objetos</td><td>Transmutación</td><td>C</td></tr><tr><td>Apariencia</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Atadura planar</td><td>Abjuración</td><td>M</td></tr><tr><td>Círculo de teletransportación</td><td>Conjuración</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Alterar los recuerdos | Encantamiento | C |
+| Animar objetos | Transmutación | C |
+| Apariencia | Ilusionismo | — |
+| Atadura planar | Abjuración | M |
+| Círculo de teletransportación | Conjuración | M |
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Conjurar elemental</td><td>Conjuración</td><td>C</td></tr><tr><td>Cono de frío</td><td>Evocación</td><td>—</td></tr><tr><td>Conocer las leyendas</td><td>Adivinación</td><td>M</td></tr><tr><td>Contactar con otro plano</td><td>Adivinación</td><td>R</td></tr><tr><td>Creación</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Dominar persona</td><td>Encantamiento</td><td>C</td></tr><tr><td>Engañar</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Enlace telepático</td><td>Adivinación</td><td>R</td></tr><tr><td>Ensueño</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Escudriñar</td><td>Adivinación</td><td>C, M</td></tr><tr><td>Geas</td><td>Encantamiento</td><td>—</td></tr><tr><td>Inmovilizar monstruo</td><td>Encantamiento</td><td>C</td></tr><tr><td>Invocar dragón</td><td>Conjuración</td><td>C, M</td></tr><tr><td>Mano arcana</td><td>Evocación</td><td>C</td></tr><tr><td>Muro de fuerza</td><td>Evocación</td><td>C</td></tr><tr><td>Muro de piedra</td><td>Evocación</td><td>C</td></tr><tr><td>Nube aniquiladora</td><td>Conjuración</td><td>C</td></tr><tr><td>Pasamuros</td><td>Transmutación</td><td>—</td></tr><tr><td>Telequinesis</td><td>Transmutación</td><td>C</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Conjurar elemental | Conjuración | C |
+| Cono de frío | Evocación | — |
+| Conocer las leyendas | Adivinación | M |
+| Contactar con otro plano | Adivinación | R |
+| Creación | Ilusionismo | — |
+| Dominar persona | Encantamiento | C |
+| Engañar | Ilusionismo | C |
+| Enlace telepático | Adivinación | R |
+| Ensueño | Ilusionismo | — |
+| Escudriñar | Adivinación | C, M |
+| Geas | Encantamiento | — |
+| Inmovilizar monstruo | Encantamiento | C |
+| Invocar dragón | Conjuración | C, M |
+| Mano arcana | Evocación | C |
+| Muro de fuerza | Evocación | C |
+| Muro de piedra | Evocación | C |
+| Nube aniquiladora | Conjuración | C |
+| Pasamuros | Transmutación | — |
+| Telequinesis | Transmutación | C |
 
 
 Conjuros de mago de nivel 6
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Baile irresistible</td><td>Encantamiento</td><td>C</td></tr><tr><td>Círculo de muerte</td><td>Nigromancia</td><td>M</td></tr><tr><td>Contingencia</td><td>Abjuración</td><td>M</td></tr><tr><td>Crear muerto viviente</td><td>Nigromancia</td><td>M</td></tr><tr><td>De la carne a la piedra</td><td>Transmutación</td><td>C</td></tr><tr><td>Desintegrar</td><td>Transmutación</td><td>—</td></tr><tr><td>Esfera congelante</td><td>Evocación</td><td>—</td></tr><tr><td>Globo de invulnerabilidad</td><td>Abjuración</td><td>C</td></tr><tr><td>Guardas y guardias</td><td>Abjuración</td><td>M</td></tr><tr><td>Ilusión programada</td><td>Ilusionismo</td><td>M</td></tr><tr><td>Invocación instantánea</td><td>Conjuración</td><td>R, M</td></tr><tr><td>Mal de ojo</td><td>Nigromancia</td><td>C</td></tr><tr><td>Mover la tierra</td><td>Transmutación</td><td>C</td></tr><tr><td>Muro de hielo</td><td>Evocación</td><td>C</td></tr><tr><td>Rayo solar</td><td>Evocación</td><td>C</td></tr><tr><td>Relámpago en cadena</td><td>Evocación</td><td>—</td></tr><tr><td>Sugestión en masa</td><td>Encantamiento</td><td>—</td></tr><tr><td>Urna mágica</td><td>Nigromancia</td><td>M</td></tr><tr><td>Visión veraz</td><td>Adivinación</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Baile irresistible | Encantamiento | C |
+| Círculo de muerte | Nigromancia | M |
+| Contingencia | Abjuración | M |
+| Crear muerto viviente | Nigromancia | M |
+| De la carne a la piedra | Transmutación | C |
+| Desintegrar | Transmutación | — |
+| Esfera congelante | Evocación | — |
+| Globo de invulnerabilidad | Abjuración | C |
+| Guardas y guardias | Abjuración | M |
+| Ilusión programada | Ilusionismo | M |
+| Invocación instantánea | Conjuración | R, M |
+| Mal de ojo | Nigromancia | C |
+| Mover la tierra | Transmutación | C |
+| Muro de hielo | Evocación | C |
+| Rayo solar | Evocación | C |
+| Relámpago en cadena | Evocación | — |
+| Sugestión en masa | Encantamiento | — |
+| Urna mágica | Nigromancia | M |
+| Visión veraz | Adivinación | M |
 
 
 Conjuros de mago de nivel 7
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Bola de fuego de explosión retardada</td><td>Evocación</td><td>C</td></tr><tr><td>Dedo de la muerte</td><td>Nigromancia</td><td>—</td></tr><tr><td>Desplazamiento entre planos</td><td>Conjuración</td><td>M</td></tr><tr><td>Espada arcana</td><td>Evocación</td><td>C, M</td></tr><tr><td>Espejismo arcano</td><td>Ilusionismo</td><td>—</td></tr><tr><td>Excursión etérea</td><td>Conjuración</td><td>—</td></tr><tr><td>Invertir la gravedad</td><td>Transmutación</td><td>C</td></tr><tr><td>Jaula de fuerza</td><td>Evocación</td><td>C, M</td></tr><tr><td>Mansión magnífica</td><td>Conjuración</td><td>M</td></tr><tr><td>Proyectar imagen</td><td>Ilusionismo</td><td>C, M</td></tr><tr><td>Recluir</td><td>Transmutación</td><td>M</td></tr><tr><td>Rociada prismática</td><td>Evocación</td><td>—</td></tr><tr><td>Símbolo</td><td>Abjuración</td><td>M</td></tr><tr><td>Simulacro</td><td>Ilusionismo</td><td>M</td></tr><tr><td>Teletransporte</td><td>Conjuración</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Bola de fuego de explosión retardada | Evocación | C |
+| Dedo de la muerte | Nigromancia | — |
+| Desplazamiento entre planos | Conjuración | M |
+| Espada arcana | Evocación | C, M |
+| Espejismo arcano | Ilusionismo | — |
+| Excursión etérea | Conjuración | — |
+| Invertir la gravedad | Transmutación | C |
+| Jaula de fuerza | Evocación | C, M |
+| Mansión magnífica | Conjuración | M |
+| Proyectar imagen | Ilusionismo | C, M |
+| Recluir | Transmutación | M |
+| Rociada prismática | Evocación | — |
+| Símbolo | Abjuración | M |
+| Simulacro | Ilusionismo | M |
+| Teletransporte | Conjuración | — |
 
 
 Conjuros de mago de nivel 8
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Antipatía/simpatía</td><td>Encantamiento</td><td>—</td></tr><tr><td>Campo antimagia</td><td>Abjuración</td><td>C</td></tr><tr><td>Clon</td><td>Nigromancia</td><td>M</td></tr><tr><td>Controlar el clima</td><td>Transmutación</td><td>C</td></tr><tr><td>Dominar monstruo</td><td>Encantamiento</td><td>C</td></tr><tr><td>Explosión solar</td><td>Evocación</td><td>—</td></tr><tr><td>Laberinto</td><td>Conjuración</td><td>C</td></tr><tr><td>Mente en blanco</td><td>Abjuración</td><td>—</td></tr><tr><td>Nube incendiaria</td><td>Conjuración</td><td>C</td></tr><tr><td>Ofuscación</td><td>Encantamiento</td><td>—</td></tr><tr><td>Palabra de poder: aturdir</td><td>Encantamiento</td><td>—</td></tr><tr><td>Semiplano</td><td>Conjuración</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Antipatía/simpatía | Encantamiento | — |
+| Campo antimagia | Abjuración | C |
+| Clon | Nigromancia | M |
+| Controlar el clima | Transmutación | C |
+| Dominar monstruo | Encantamiento | C |
+| Explosión solar | Evocación | — |
+| Laberinto | Conjuración | C |
+| Mente en blanco | Abjuración | — |
+| Nube incendiaria | Conjuración | C |
+| Ofuscación | Encantamiento | — |
+| Palabra de poder: aturdir | Encantamiento | — |
+| Semiplano | Conjuración | — |
 
 
 Conjuros de mago de nivel 9
 
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Cambiar de forma</td><td>Transmutación</td><td>C, M</td></tr><tr><td>Cautiverio</td><td>Abjuración</td><td>M</td></tr><tr><td>Deseo</td><td>Conjuración</td><td>—</td></tr><tr><td>Muro prismático</td><td>Abjuración</td><td>—</td></tr><tr><td>Palabra de poder: matar</td><td>Encantamiento</td><td>—</td></tr><tr><td>Parar el tiempo</td><td>Transmutación</td><td>—</td></tr><tr><td>Polimorfar verdadero</td><td>Transmutación</td><td>C</td></tr><tr><td>Portal</td><td>Conjuración</td><td>C, M</td></tr><tr><td>Presciencia</td><td>Adivinación</td><td>—</td></tr><tr><td>Proyección astral</td><td>Nigromancia</td><td>M</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Cambiar de forma | Transmutación | C, M |
+| Cautiverio | Abjuración | M |
+| Deseo | Conjuración | — |
+| Muro prismático | Abjuración | — |
+| Palabra de poder: matar | Encantamiento | — |
+| Parar el tiempo | Transmutación | — |
+| Polimorfar verdadero | Transmutación | C |
+| Portal | Conjuración | C, M |
+| Presciencia | Adivinación | — |
+| Proyección astral | Nigromancia | M |
 
-<table><tr><td>Conjuro</td><td>Escuela</td><td>Especial</td></tr><tr><td>Terror abyecto</td><td>Ilusionismo</td><td>C</td></tr><tr><td>Tormenta de meteoritos</td><td>Evocación</td><td>—</td></tr></table>
+| Conjuro | Escuela | Especial |
+|---|---|---|
+| Terror abyecto | Ilusionismo | C |
+| Tormenta de meteoritos | Evocación | — |
 
 ## Subclase de mago: Evocador
 

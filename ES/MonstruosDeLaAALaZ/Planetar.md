@@ -14,7 +14,14 @@ related_en: "[[Monsters/Planetar|Planetar (EN)]]"
 
 **Velocidad:** 12 m, volar 36 m (levitar)
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>24</td><td>+7</td><td>+12</td><td>DES</td><td>20</td><td>+5</td><td>+5</td><td>CON</td><td>24</td><td>+7</td><td>+12</td></tr><tr><td>INT</td><td>19</td><td>+4</td><td>+4</td><td>SAB</td><td>22</td><td>+6</td><td>+11</td><td>CAR</td><td>25</td><td>+7</td><td>+12</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 24 | +7 | +12 |
+| DES | 20 | +5 | +5 |
+| CON | 24 | +7 | +12 |
+| INT | 19 | +4 | +4 |
+| SAB | 22 | +6 | +11 |
+| CAR | 25 | +7 | +12 |
 
 **Habilidades:** Percepción +11
 

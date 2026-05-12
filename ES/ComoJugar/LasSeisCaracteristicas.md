@@ -12,7 +12,14 @@ Todas las criaturas (personajes y monstruos) tienen seis características que de
 Descripciones de las características
 
 
-<table><tr><td>Característica</td><td>La puntuación mide...</td></tr><tr><td>Fuerza</td><td>Poderío físico</td></tr><tr><td>Destreza</td><td>Agilidad, reflejos y equilibrio</td></tr><tr><td>Constitución</td><td>Salud y aguante</td></tr><tr><td>Inteligencia</td><td>Raciocinio y memoria</td></tr><tr><td>Sabiduría</td><td>Perspicacia y fortaleza mental</td></tr><tr><td>Carisma</td><td>Confianza, aplomo y encanto</td></tr></table>
+| Característica | La puntuación mide... |
+|---|---|
+| Fuerza | Poderío físico |
+| Destreza | Agilidad, reflejos y equilibrio |
+| Constitución | Salud y aguante |
+| Inteligencia | Raciocinio y memoria |
+| Sabiduría | Perspicacia y fortaleza mental |
+| Carisma | Confianza, aplomo y encanto |
 
 ## Puntuaciones de característica
 
@@ -22,7 +29,15 @@ Cada característica tiene una puntuación de 1 a 20, aunque las de algunos mons
 Puntuaciones de característica
 
 
-<table><tr><td>Puntuación</td><td>Significado</td></tr><tr><td>1</td><td>Este es, por lo general, el mínimo que puede tener una puntuación. Si un efecto la reduce a 0, explica lo que ocurre.</td></tr><tr><td>2–9</td><td>Representa una capacidad débil.</td></tr><tr><td>10–11</td><td>Representa la media humana.</td></tr><tr><td>12–19</td><td>Representa una capacidad fuerte.</td></tr><tr><td>20</td><td>Este es el máximo que pueden tener las puntuaciones de los aventureros salvo que un rasgo indique lo contrario.</td></tr><tr><td>21–29</td><td>Representa una capacidad extraordinaria.</td></tr><tr><td>30</td><td>Este es el máximo que pueden tener las puntuaciones.</td></tr></table>
+| Puntuación | Significado |
+|---|---|
+| 1 | Este es, por lo general, el mínimo que puede tener una puntuación. Si un efecto la reduce a 0, explica lo que ocurre. |
+| 2–9 | Representa una capacidad débil. |
+| 10–11 | Representa la media humana. |
+| 12–19 | Representa una capacidad fuerte. |
+| 20 | Este es el máximo que pueden tener las puntuaciones de los aventureros salvo que un rasgo indique lo contrario. |
+| 21–29 | Representa una capacidad extraordinaria. |
+| 30 | Este es el máximo que pueden tener las puntuaciones. |
 
 ### Redondear hacia abajo
 
@@ -36,5 +51,14 @@ Cada característica posee un modificador que aplicas al realizar una prueba con
 Modificadores por característica
 
 
-<table><tr><td>Puntuación</td><td>Modificador</td><td>Puntuación</td><td>Modificador</td></tr><tr><td>1</td><td>-5</td><td>16–17</td><td>+3</td></tr><tr><td>2–3</td><td>-4</td><td>18–19</td><td>+4</td></tr><tr><td>4–5</td><td>-3</td><td>20–21</td><td>+5</td></tr><tr><td>6–7</td><td>-2</td><td>22–23</td><td>+6</td></tr><tr><td>8–9</td><td>-1</td><td>24–25</td><td>+7</td></tr><tr><td>10–11</td><td>+0</td><td>26–27</td><td>+8</td></tr><tr><td>12–13</td><td>+1</td><td>28–29</td><td>+9</td></tr><tr><td>14–15</td><td>+2</td><td>30</td><td>+10</td></tr></table>
+| Puntuación | Modificador | Puntuación | Modificador |
+|---|---:|---|---:|
+| 1 | -5 | 16–17 | +3 |
+| 2–3 | -4 | 18–19 | +4 |
+| 4–5 | -3 | 20–21 | +5 |
+| 6–7 | -2 | 22–23 | +6 |
+| 8–9 | -1 | 24–25 | +7 |
+| 10–11 | +0 | 26–27 | +8 |
+| 12–13 | +1 | 28–29 | +9 |
+| 14–15 | +2 | 30 | +10 |
 

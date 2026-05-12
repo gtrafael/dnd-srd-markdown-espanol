@@ -50,7 +50,16 @@ Cada conjuro pertenece a una escuela mágica, que se muestran en la tabla “Esc
 Escuelas mágicas
 
 
-<table><tr><td>Escuela</td><td>Efectos típicos</td></tr><tr><td>Abjuración</td><td>Impide o deshace efectos dañinos.</td></tr><tr><td>Adivinación</td><td>Revela información.</td></tr><tr><td>Conjuración</td><td>Transporta criaturas u objetos.</td></tr><tr><td>Encantamiento</td><td>Influye en las mentes.</td></tr><tr><td>Evocación</td><td>Canaliza la energía para crear efectos a menudo destructivos.</td></tr><tr><td>Ilusionismo</td><td>Engaña a la mente o los sentidos.</td></tr><tr><td>Nigromancia</td><td>Manipula la vida y la muerte.</td></tr><tr><td>Transmutación</td><td>Transforma criaturas u objetos.</td></tr></table>
+| Escuela       | Efectos típicos                                               |
+|---------------|---------------------------------------------------------------|
+| Abjuración    | Impide o deshace efectos dañinos.                             |
+| Adivinación   | Revela información.                                           |
+| Conjuración   | Transporta criaturas u objetos.                               |
+| Encantamiento | Influye en las mentes.                                        |
+| Evocación     | Canaliza la energía para crear efectos a menudo destructivos. |
+| Ilusionismo   | Engaña a la mente o los sentidos.                             |
+| Nigromancia   | Manipula la vida y la muerte.                                 |
+| Transmutación | Transforma criaturas u objetos.                               |
 
 ##### Listas de conjuros de clases
 

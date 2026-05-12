@@ -16,8 +16,14 @@ related_en: "[[Monsters/Night Hag|Night Hag (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>15</td><td>+2</td><td>+2</td><td>CON</td><td>16</td><td>+3</td><td>+3</td></tr><tr><td>INT</td><td>16</td><td>+3</td><td>+3</td><td>SAB</td><td>14</td><td>+2</td><td>+2</td><td>CAR</td><td>16</td><td>+3</td><td>+3</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 15 | +2 | +2 |
+| CON | 16 | +3 | +3 |
+| INT | 16 | +3 | +3 |
+| SAB | 14 | +2 | +2 |
+| CAR | 16 | +3 | +3 |
 **Habilidades:** Engaño +6, Percepción +5, Perspicacia +5, Sigilo +5
 
 **Resistencias:** frío, fuego

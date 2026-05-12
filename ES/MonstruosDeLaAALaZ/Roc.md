@@ -16,7 +16,14 @@ related_en: "[[Monsters/Roc|Roc (EN)]]"
 
 **Velocidad:** 6 m, volar 36 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 28</td><td>+9</td><td>+9</td><td>DES 10</td><td>+0</td><td>+4</td><td>CON 20</td><td>+5</td><td>+5</td><td></td></tr><tr><td>INT 3</td><td>-4</td><td>-4</td><td>SAB 10</td><td>+0</td><td>+4</td><td>CAR 9</td><td>-1</td><td>-1</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 28 | +9 | +9 |
+| DES | 10 | +0 | +4 |
+| CON | 20 | +5 | +5 |
+| INT | 3 | -4 | -4 |
+| SAB | 10 | +0 | +4 |
+| CAR | 9 | -1 | -1 |
 
 **Habilidades:** Percepción +8
 

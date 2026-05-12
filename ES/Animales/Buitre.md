@@ -16,7 +16,14 @@ related_en: "[[Animals/Vulture|Vulture (EN)]]"
 
 **Velocidad:** 3 m, volar 15 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>7</td><td>-2</td><td>-2</td><td>DES</td><td>10</td><td>+0</td><td>+0</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>SAB</td><td>12</td><td>+1</td><td>+1</td><td>CAR</td><td>4</td><td>-3</td><td>-3</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 7 | -2 | -2 |
+| DES | 10 | +0 | +0 |
+| CON | 13 | +1 | +1 |
+| INT | 2 | -4 | -4 |
+| SAB | 12 | +1 | +1 |
+| CAR | 4 | -3 | -3 |
 
 **Habilidades:** Percepción +3
 

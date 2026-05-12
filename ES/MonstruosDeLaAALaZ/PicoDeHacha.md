@@ -16,7 +16,14 @@ related_en: "[[Monsters/Axe Beak|Axe Beak (EN)]]"
 
 **Velocidad:** 15 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE 14</td><td>+2</td><td>+2</td><td>DES 12</td><td>+1</td><td>+1</td><td>CON 12</td><td>+1</td><td>+1</td><td></td></tr><tr><td>INT 2</td><td>-4</td><td>-4</td><td>SAB 10</td><td>+0</td><td>+0</td><td>CAR 5</td><td>-3</td><td>-3</td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 14 | +2 | +2 |
+| DES | 12 | +1 | +1 |
+| CON | 12 | +1 | +1 |
+| INT | 2 | -4 | -4 |
+| SAB | 10 | +0 | +0 |
+| CAR | 5 | -3 | -3 |
 
 **Sentidos:** Percepción pasiva 10
 

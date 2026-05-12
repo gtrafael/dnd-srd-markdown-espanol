@@ -16,7 +16,14 @@ related_en: "[[Animals/Archelon|Archelon (EN)]]"
 
 **Velocidad:** 6 m, nadar 24 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>18</td><td>+4</td><td>+4</td><td>DES</td><td>16</td><td>+3</td><td>+3</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr><tr><td>INT</td><td>4</td><td>-3</td><td>-3</td><td>SAB</td><td>14</td><td>+2</td><td>+2</td><td>CAR</td><td>6</td><td>-2</td><td>-2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 18 | +4 | +4 |
+| DES | 16 | +3 | +3 |
+| CON | 13 | +1 | +1 |
+| INT | 4 | -3 | -3 |
+| SAB | 14 | +2 | +2 |
+| CAR | 6 | -2 | -2 |
 
 **Habilidades:** Sigilo +5
 

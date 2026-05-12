@@ -16,7 +16,14 @@ related_en: "[[Animals/Piranha|Piranha (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 12 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>2</td><td>-4</td><td>-4</td><td>DES</td><td>16</td><td>+3</td><td>+3</td><td>CON</td><td>9</td></tr><tr><td>INT</td><td>1</td><td>-5</td><td>-5</td><td>SAB</td><td>7</td><td>-2</td><td>-2</td><td>CAR</td><td>2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |     2 |  -4 |   -4 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |     9 |  -1 |   -1 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     7 |  -2 |   -2 |
+| CAR   |     2 |  -4 |   -4 |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 8 **Idiomas:** ninguno
 

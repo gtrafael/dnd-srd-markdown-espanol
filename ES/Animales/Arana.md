@@ -14,7 +14,14 @@ related_en: "[[Animals/Spider|Spider (EN)]]"
 
 **Velocidad:** 6 m, trepar 6 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>2</td><td>-4</td><td>-4</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>8</td></tr><tr><td>INT</td><td>1</td><td>-5</td><td>-5</td><td>SAB</td><td>10</td><td>+0</td><td>+0</td><td>CAR</td><td>2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|-------|------:|----:|-----:|
+| FUE   |     2 |  -4 |   -4 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |     8 |  -1 |   -1 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     2 |  -4 |   -4 |
 
 **Habilidades:** Sigilo +4
 

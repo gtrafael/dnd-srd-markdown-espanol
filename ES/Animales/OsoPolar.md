@@ -16,7 +16,14 @@ related_en: "[[Animals/Polar Bear|Polar Bear (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m
 
-<table><tr><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td><td colspan="2"></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE</td><td>20</td><td>+5</td><td>+5</td><td>DES</td><td>14</td><td>+2</td><td>+2</td><td>CON</td><td>16</td><td>+3</td><td>+3</td></tr><tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>SAB</td><td>13</td><td>+1</td><td>+1</td><td>CAR</td><td>7</td><td>-2</td><td>-2</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 20 | +5 | +5 |
+| DES | 14 | +2 | +2 |
+| CON | 16 | +3 | +3 |
+| INT | 2 | -4 | -4 |
+| SAB | 13 | +1 | +1 |
+| CAR | 7 | -2 | -2 |
 
 **Habilidades:** Percepción +5, Sigilo +4
 

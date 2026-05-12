@@ -16,8 +16,14 @@ related_en: "[[Monsters/Barbed Devil|Barbed Devil (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-<table><tr><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td><td colspan="2"></td><td>MOD.</td><td>SALV.</td></tr><tr><td>FUE</td><td>16</td><td>+3</td><td>+6</td><td>DES</td><td>17</td><td>+3</td><td>+3</td><td>CON</td><td>18</td><td>+4</td><td>+7</td></tr><tr><td>INT</td><td>12</td><td>+1</td><td>+1</td><td>SAB</td><td>14</td><td>+2</td><td>+5</td><td>CAR</td><td>14</td><td>+2</td><td>+5</td></tr></table>
-
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 16 | +3 | +6 |
+| DES | 17 | +3 | +3 |
+| CON | 18 | +4 | +7 |
+| INT | 12 | +1 | +1 |
+| SAB | 14 | +2 | +5 |
+| CAR | 14 | +2 | +5 |
 **Habilidades:** Engaño +5, Percepción +8, Perspicacia +5
 
 **Resistencias:** frío

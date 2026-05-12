@@ -15,7 +15,16 @@ Si tienes que preparar una lista de conjuros de nivel 1 o superiores, tu rasgo d
 Preparación de conjuros según clase
 
 
-<table><tr><td>Clase</td><td>¿Cuándo cambia?</td><td>Cantidad de conjuros</td></tr><tr><td>Bardo</td><td>Al subir de nivel</td><td>Uno</td></tr><tr><td>Brujo</td><td>Al subir de nivel</td><td>Uno</td></tr><tr><td>Clérigo</td><td>Al finalizar un descanso largo</td><td>Cualquiera</td></tr><tr><td>Druida</td><td>Al finalizar un descanso largo</td><td>Cualquiera</td></tr><tr><td>Explorador</td><td>Al finalizar un descanso largo</td><td>Uno</td></tr><tr><td>Hechicero</td><td>Al subir de nivel</td><td>Uno</td></tr><tr><td>Mago</td><td>Al finalizar un descanso largo</td><td>Cualquiera</td></tr><tr><td>Paladín</td><td>Al finalizar un descanso largo</td><td>Uno</td></tr></table>
+| Clase      | ¿Cuándo cambia?                | Cantidad de conjuros |
+|------------|--------------------------------|----------------------|
+| Bardo      | Al subir de nivel              | Uno                  |
+| Brujo      | Al subir de nivel              | Uno                  |
+| Clérigo    | Al finalizar un descanso largo | Cualquiera           |
+| Druida     | Al finalizar un descanso largo | Cualquiera           |
+| Explorador | Al finalizar un descanso largo | Uno                  |
+| Hechicero  | Al subir de nivel              | Uno                  |
+| Mago       | Al finalizar un descanso largo | Cualquiera           |
+| Paladín    | Al finalizar un descanso largo | Uno                  |
 
 La mayoría de monstruos que lanzan conjuros no cambian su lista de conjuros preparados, pero cada GM puede modificarla libremente. 
 

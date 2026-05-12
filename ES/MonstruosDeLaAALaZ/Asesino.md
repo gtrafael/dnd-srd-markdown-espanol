@@ -16,7 +16,14 @@ related_en: "[[Monsters/Assassin|Assassin (EN)]]"
 
 **Velocidad:** 9 m
 
-<table><tr><td></td><td colspan="4">MOD. SALV.</td><td colspan="4">MOD. SALV.</td><td colspan="3">MOD. SALV.</td></tr><tr><td>FUE</td><td>11</td><td>+0</td><td>+0</td><td>DES</td><td>18</td><td>+4</td><td>+7</td><td>CON</td><td>14</td><td>+2</td><td>+2</td></tr><tr><td>INT</td><td>16</td><td>+3</td><td>+6</td><td>SAB</td><td>11</td><td>+0</td><td>+0</td><td>CAR</td><td>10</td><td>+0</td><td>+0</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 11 | +0 | +0 |
+| DES | 18 | +4 | +7 |
+| CON | 14 | +2 | +2 |
+| INT | 16 | +3 | +6 |
+| SAB | 11 | +0 | +0 |
+| CAR | 10 | +0 | +0 |
 
 **Habilidades:** Acrobacias +7, Percepción +6, Sigilo +10
 

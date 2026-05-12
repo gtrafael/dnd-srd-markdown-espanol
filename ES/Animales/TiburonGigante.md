@@ -16,7 +16,14 @@ related_en: "[[Animals/Giant Shark|Giant Shark (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 18 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE 23</td><td>+6</td><td>+6</td><td>DES 11</td><td>+0</td><td>+0</td><td>CON 21</td><td>+5</td><td>+5</td><td></td><td></td></tr><tr><td>INT 1</td><td>-5</td><td>-5</td><td>SAB 10</td><td>+0</td><td>+0</td><td>CAR 5</td><td>-3</td><td>-3</td><td></td><td></td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 23 | +6 | +6 |
+| DES | 11 | +0 | +0 |
+| CON | 21 | +5 | +5 |
+| INT | 1 | -5 | -5 |
+| SAB | 10 | +0 | +0 |
+| CAR | 5 | -3 | -3 |
 
 **Habilidades:** Percepción +3
 

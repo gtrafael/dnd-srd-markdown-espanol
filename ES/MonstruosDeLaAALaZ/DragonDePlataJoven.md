@@ -16,7 +16,14 @@ related_en: "[[Monsters/Young Silver Dragon|Young Silver Dragon (EN)]]"
 
 **Velocidad:** 12 m, volar 24 m
 
-<table><tr><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="3">MOD. SALV.</td><td></td><td colspan="2">MOD. SALV.</td></tr><tr><td>FUE 23</td><td>+6</td><td>+6</td><td></td><td>DES 10</td><td>+0</td><td>+4</td><td></td><td>CON 21</td><td>+5</td><td>+5</td></tr><tr><td>INT 14</td><td>+2</td><td>+2</td><td></td><td>SAB 11</td><td>+0</td><td>+4</td><td></td><td>CAR 19</td><td>+4</td><td>+4</td></tr></table>
+| Stats | Valor | Mod | Salv |
+|---|---:|---:|---:|
+| FUE | 23 | +6 | +6 |
+| DES | 10 | +0 | +4 |
+| CON | 21 | +5 | +5 |
+| INT | 14 | +2 | +2 |
+| SAB | 11 | +0 | +4 |
+| CAR | 19 | +4 | +4 |
 
 **Habilidades:** Historia +6, Percepción +8, Sigilo +4
 

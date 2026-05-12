@@ -27,5 +27,10 @@ Cada anillo de comandar elementales tiene las dos siguientes propiedades:
 
 **Lanzamiento de conjuros.** El anillo tiene 5 cargas y recupera 1d4 + 1 cargas empleadas cada día, al amanecer. Mientras lleves puesto el anillo, puedes lanzar un conjuro desde él. Elige el conjuro de la lista de conjuros disponibles según el Plano Elemental vinculado al anillo, como se muestra en la tabla a continuación. En ella se indica cuántas cargas debes gastar para lanzar el conjuro, que tiene una CD de salvación de 18.
 
-<table><tr><td>Plano</td><td>Conjuros (cargas)</td></tr><tr><td>Agua</td><td>Caminar sobre el agua (2 cargas), crear o destruir agua (1 carga), muro de hielo (3 cargas), tormenta de hielo (2 cargas), tsunami (5 cargas)</td></tr><tr><td>Aire</td><td>Caída de pluma (0 cargas), muro de viento (1 carga), ráfaga de viento (2 cargas), relámpago en cadena (3 cargas)</td></tr><tr><td>Fuego</td><td>Bola de fuego (2 cargas), manos ardientes (1 carga), muro de fuego (3 cargas), tormenta de fuego (4 cargas)</td></tr><tr><td>Tierra</td><td>Moldear la piedra (2 cargas), muro de piedra (3 cargas), piel pétrea (3 cargas), terremoto (5 cargas)</td></tr></table>
+| Plano | Conjuros (cargas) |
+|---|---|
+| Agua | Caminar sobre el agua (2 cargas), crear o destruir agua (1 carga), muro de hielo (3 cargas), tormenta de hielo (2 cargas), tsunami (5 cargas) |
+| Aire | Caída de pluma (0 cargas), muro de viento (1 carga), ráfaga de viento (2 cargas), relámpago en cadena (3 cargas) |
+| Fuego | Bola de fuego (2 cargas), manos ardientes (1 carga), muro de fuego (3 cargas), tormenta de fuego (4 cargas) |
+| Tierra | Moldear la piedra (2 cargas), muro de piedra (3 cargas), piel pétrea (3 cargas), terremoto (5 cargas) |
 
