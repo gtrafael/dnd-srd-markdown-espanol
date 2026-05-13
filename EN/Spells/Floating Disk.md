@@ -3,6 +3,7 @@ aliases: ["Floating Disk"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DiscoFlotante|Disco flotante (Español)]]"
 ---
+
 ### Floating Disk
 
 *Level 1 Conjuration* (Wizard)

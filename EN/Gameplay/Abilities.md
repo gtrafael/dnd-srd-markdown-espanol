@@ -3,57 +3,58 @@ aliases: ["Abilities"]
 tags: [srd, english, tag_gameplay]
 related_es: "[[ComoJugar/LasSeisCaracteristicas|Habilidades (Español)]]"
 ---
+
 # The Six Abilities
 
 All creatures—characters and monsters—have six abilities that measure physical and mental characteristics, as shown on the Ability Descriptions table.
 
 ## Ability Descriptions
 
-| Ability | Score Measures ... |
-|---|---|
-| Strength | Physical might |
-| Dexterity | Agility, reflexes, and balance |
-| Constitution | Health and stamina |
-| Intelligence | Reasoning and memory |
-| Wisdom | Perceptiveness and mental fortitude |
-| Charisma | Confidence, poise, and charm |
+| Ability      | Score Measures ...                  |
+|--------------|-------------------------------------|
+| Strength     | Physical might                      |
+| Dexterity    | Agility, reflexes, and balance      |
+| Constitution | Health and stamina                  |
+| Intelligence | Reasoning and memory                |
+| Wisdom       | Perceptiveness and mental fortitude |
+| Charisma     | Confidence, poise, and charm        |
 
 ## Ability Scores
 
 Each ability has a score from 1 to 20, although some monsters have a score as high as 30. The score represents the magnitude of an ability. The Ability Scores table summarises what the scores mean.
 
-| Score | Meaning |
-|---|---|
-| 1 | This is the lowest a score can normally go. If an effect reduces a score to 0, that effect explains what happens. |
-| 2–9 | This represents a weak capability. |
-| 10–11 | This represents the human average. |
-| 12–19 | This represents a strong capability. |
-| 20 | This is the highest an adventurer's score can go unless a feature says otherwise. |
-| 21–29 | This represents an extraordinary capability. |
-| 30 | This is the highest a score can go. |
+| Score | Meaning                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------|
+| 1     | This is the lowest a score can normally go. If an effect reduces a score to 0, that effect explains what happens. |
+| 2–9   | This represents a weak capability.                                                                                |
+| 10–11 | This represents the human average.                                                                                |
+| 12–19 | This represents a strong capability.                                                                              |
+| 20    | This is the highest an adventurer's score can go unless a feature says otherwise.                                 |
+| 21–29 | This represents an extraordinary capability.                                                                      |
+| 30    | This is the highest a score can go.                                                                               |
 
 ## Ability Modifiers
 
 Each ability has a modifier that you apply whenever you make a D20 Test with that ability (explained in "D20 Tests"). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
 
 | Score | Modifier |
-|---|---|
-| 1 | −5 |
-| 2–3 | −4 |
-| 4–5 | −3 |
-| 6–7 | −2 |
-| 8–9 | −1 |
-| 10–11 | +0 |
-| 12–13 | +1 |
-| 14–15 | +2 |
-| 16–17 | +3 |
-| 18–19 | +4 |
-| 20–21 | +5 |
-| 22–23 | +6 |
-| 24–25 | +7 |
-| 26–27 | +8 |
-| 28–29 | +9 |
-| 30 | +10 |
+|-------|----------|
+| 1     | −5       |
+| 2–3   | −4       |
+| 4–5   | −3       |
+| 6–7   | −2       |
+| 8–9   | −1       |
+| 10–11 | +0       |
+| 12–13 | +1       |
+| 14–15 | +2       |
+| 16–17 | +3       |
+| 18–19 | +4       |
+| 20–21 | +5       |
+| 22–23 | +6       |
+| 24–25 | +7       |
+| 26–27 | +8       |
+| 28–29 | +9       |
+| 30    | +10      |
 
 # D20 Tests
 
@@ -77,14 +78,14 @@ An ability check represents a creature using talent and training to try to overc
 
 An ability check is named for the ability modifier it uses: a Strength check, an Intelligence check, and so on. Different ability checks are called for in different situations, depending on which ability is most relevant. See the Ability Check Examples table for examples of each check's use.
 
-| Ability | Make a Check To ... |
-|---|---|
-| Strength | Lift, push, pull, or break something |
-| Dexterity | Move nimbly, quickly, or quietly |
-| Constitution | Push your body beyond normal limits |
-| Intelligence | Reason or remember |
-| Wisdom | Notice things in the environment or in creatures' behaviour |
-| Charisma | Influence, entertain, or deceive |
+| Ability      | Make a Check To ...                                         |
+|--------------|-------------------------------------------------------------|
+| Strength     | Lift, push, pull, or break something                        |
+| Dexterity    | Move nimbly, quickly, or quietly                            |
+| Constitution | Push your body beyond normal limits                         |
+| Intelligence | Reason or remember                                          |
+| Wisdom       | Notice things in the environment or in creatures' behaviour |
+| Charisma     | Influence, entertain, or deceive                            |
 
 ### Proficiency Bonus
 
@@ -94,13 +95,13 @@ Add your Proficiency Bonus to an ability check when the GM determines that a ski
 
 The Difficulty Class of an ability check represents the task's difficulty. The more difficult the task, the higher its DC. The rules provide DCs for certain checks, but the GM ultimately sets them. The Typical Difficulty Classes table presents a range of possible DCs for ability checks.
 
-| Task Difficulty | DC |
-|---|---|
-| Very easy | 5 |
-| Easy | 10 |
-| Medium | 15 |
-| Hard | 20 |
-| Very hard | 25 |
+| Task Difficulty   | DC |
+|-------------------|----|
+| Very easy         | 5  |
+| Easy              | 10 |
+| Medium            | 15 |
+| Hard              | 20 |
+| Very hard         | 25 |
 | Nearly impossible | 30 |
 
 ## Saving Throws
@@ -113,14 +114,14 @@ If you don't want to resist the effect, you can choose to fail the save without 
 
 Saving throws are named for the ability modifiers they use: a Constitution saving throw, a Wisdom saving throw, and so on. Different saving throws are used to resist different kinds of effects, as shown on the Saving Throw Examples table.
 
-| Ability | Make a Save To ... |
-|---|---|
-| Strength | Physically resist direct force |
-| Dexterity | Dodge out of harm's way |
-| Constitution | Endure a toxic hazard |
-| Intelligence | Recognise an illusion as fake |
-| Wisdom | Resist a mental assault |
-| Charisma | Assert your identity |
+| Ability      | Make a Save To ...             |
+|--------------|--------------------------------|
+| Strength     | Physically resist direct force |
+| Dexterity    | Dodge out of harm's way        |
+| Constitution | Endure a toxic hazard          |
+| Intelligence | Recognise an illusion as fake  |
+| Wisdom       | Resist a mental assault        |
+| Charisma     | Assert your identity           |
 
 ### Proficiency Bonus
 
@@ -138,11 +139,11 @@ An attack roll determines whether an attack hits a target. An attack roll hits i
 
 The Attack Roll Abilities table shows which ability modifier to use for different types of attack rolls.
 
-| Ability | Attack Type |
-|---|---|
-| Strength | Melee attack with a weapon or an Unarmed Strike (see "Rules Glossary") |
-| Dexterity | Ranged attack with a weapon |
-| Varies | Spell attack (the ability used is determined by the spellcaster's spellcasting feature, as explained in "Spells") |
+| Ability   | Attack Type                                                                                                       |
+|-----------|-------------------------------------------------------------------------------------------------------------------|
+| Strength  | Melee attack with a weapon or an Unarmed Strike (see "Rules Glossary")                                            |
+| Dexterity | Ranged attack with a weapon                                                                                       |
+| Varies    | Spell attack (the ability used is determined by the spellcaster's spellcasting feature, as explained in "Spells") |
 
 Some features let you use different ability modifiers from those listed. For example, the Finesse property (see "Equipment") lets you use Strength or Dexterity with a weapon that has that property.
 
@@ -199,15 +200,15 @@ This bonus is applied to a D20 Test when the creature has proficiency in a skill
 ## Proficiency Bonus
 
 | Level or CR | Bonus |
-|---|---|
-| Up to 4 | +2 |
-| 5–8 | +3 |
-| 9–12 | +4 |
-| 13–16 | +5 |
-| 17–20 | +6 |
-| 21–24 | +7 |
-| 25–28 | +8 |
-| 29–30 | +9 |
+|-------------|-------|
+| Up to 4     | +2    |
+| 5–8         | +3    |
+| 9–12        | +4    |
+| 13–16       | +5    |
+| 17–20       | +6    |
+| 21–24       | +7    |
+| 25–28       | +8    |
+| 29–30       | +9    |
 
 ## The Bonus Doesn't Stack
 
@@ -223,26 +224,26 @@ If a creature is proficient in a skill, the creature applies its Proficiency Bon
 
 ### Skill List
 
-| Skill | Ability | Example Uses |
-|---|---|---|
-| Acrobatics | Dexterity | Stay on your feet in a tricky situation, or perform an acrobatic stunt. |
-| Animal Handling | Wisdom | Calm or train an animal, or get an animal to behave in a certain way. |
-| Arcana | Intelligence | Recall lore about spells, magic items, and the planes of existence. |
-| Athletics | Strength | Jump farther than normal, stay afloat in rough water, or break something. |
-| Deception | Charisma | Tell a convincing lie, or wear a disguise convincingly. |
-| History | Intelligence | Recall lore about historical events, people, nations, and cultures. |
-| Insight | Wisdom | Discern a person's mood and intentions. |
-| Intimidation | Charisma | Awe or threaten someone into doing what you want. |
-| Investigation | Intelligence | Find obscure information in books, or deduce how something works. |
-| Medicine | Wisdom | Diagnose an illness, or determine what killed the recently slain. |
-| Nature | Intelligence | Recall lore about terrain, plants, animals, and weather. |
-| Perception | Wisdom | Using a combination of senses, notice something that's easy to miss. |
-| Performance | Charisma | Act, tell a story, perform music, or dance. |
-| Persuasion | Charisma | Honestly and graciously convince someone of something. |
-| Religion | Intelligence | Recall lore about gods, religious rituals, and holy symbols. |
-| Sleight of Hand | Dexterity | Pick a pocket, conceal a handheld object, or perform legerdemain. |
-| Stealth | Dexterity | Escape notice by moving quietly and hiding behind things. |
-| Survival | Wisdom | Follow tracks, forage, find a trail, or avoid natural hazards. |
+| Skill           | Ability      | Example Uses                                                              |
+|-----------------|--------------|---------------------------------------------------------------------------|
+| Acrobatics      | Dexterity    | Stay on your feet in a tricky situation, or perform an acrobatic stunt.   |
+| Animal Handling | Wisdom       | Calm or train an animal, or get an animal to behave in a certain way.     |
+| Arcana          | Intelligence | Recall lore about spells, magic items, and the planes of existence.       |
+| Athletics       | Strength     | Jump farther than normal, stay afloat in rough water, or break something. |
+| Deception       | Charisma     | Tell a convincing lie, or wear a disguise convincingly.                   |
+| History         | Intelligence | Recall lore about historical events, people, nations, and cultures.       |
+| Insight         | Wisdom       | Discern a person's mood and intentions.                                   |
+| Intimidation    | Charisma     | Awe or threaten someone into doing what you want.                         |
+| Investigation   | Intelligence | Find obscure information in books, or deduce how something works.         |
+| Medicine        | Wisdom       | Diagnose an illness, or determine what killed the recently slain.         |
+| Nature          | Intelligence | Recall lore about terrain, plants, animals, and weather.                  |
+| Perception      | Wisdom       | Using a combination of senses, notice something that's easy to miss.      |
+| Performance     | Charisma     | Act, tell a story, perform music, or dance.                               |
+| Persuasion      | Charisma     | Honestly and graciously convince someone of something.                    |
+| Religion        | Intelligence | Recall lore about gods, religious rituals, and holy symbols.              |
+| Sleight of Hand | Dexterity    | Pick a pocket, conceal a handheld object, or perform legerdemain.         |
+| Stealth         | Dexterity    | Escape notice by moving quietly and hiding behind things.                 |
+| Survival        | Wisdom       | Follow tracks, forage, find a trail, or avoid natural hazards.            |
 
 ### Determining Skills
 

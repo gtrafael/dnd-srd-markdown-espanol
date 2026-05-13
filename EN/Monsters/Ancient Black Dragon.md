@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonNegroAnciano|Dragón negro anciano (Espa
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 14 | +2 | +9 | **Con** 25 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +9 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 14 | +2  |  +9  | **Con** 25 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +9  | **Cha** 22 | +6 | +6 |
 
 **Skills Perception +16, Stealth +9**
 

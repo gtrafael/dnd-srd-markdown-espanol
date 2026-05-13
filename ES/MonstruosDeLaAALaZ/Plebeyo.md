@@ -17,13 +17,13 @@ related_en: "[[Monsters/Commoner|Commoner (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 10 | +0 | +0 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    10 |  +0 |   +0 |
 
 **Equipo:** garrote
 

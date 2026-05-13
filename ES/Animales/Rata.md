@@ -17,13 +17,13 @@ related_en: "[[Animals/Rat|Rat (EN)]]"
 **Velocidad:** 6 m, trepar 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 2 | -4 | -4 |
-| DES | 11 | +0 | +0 |
-| CON | 9 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 4 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |     2 |  -4 |   -4 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |     9 |  -1 |   -1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     4 |  -3 |   -3 |
 
 **Habilidades:** Percepción +2
 

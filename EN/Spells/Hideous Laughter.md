@@ -3,6 +3,7 @@ aliases: ["Hideous Laughter"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RisaHorrible|Risa horrible (Español)]]"
 ---
+
 ### Hideous Laughter
 
 *Level 1 Enchantment* (Bard, Warlock, Wizard)

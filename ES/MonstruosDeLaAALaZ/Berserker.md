@@ -17,13 +17,13 @@ related_en: "[[Monsters/Berserker|Berserker (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 12 | +1 | +1 |
-| CON | 17 | — | — |
-| INT | 9 | -1 | -1 |
-| SAB | 11 | +0 | +0 |
-| CAR | 9 | — | — |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    17 |   — |    — |
+| INT   |     9 |  -1 |   -1 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     9 |   — |    — |
 
 **Equipo:** armadura de pieles, hacha a dos manos
 

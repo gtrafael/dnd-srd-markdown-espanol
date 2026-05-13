@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Basilisco|Basilisco (Español)]]"
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 8 | −1 | −1 | **Con** 15 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 8 | −1  |  −1  | **Con** 15 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 8 | −1  |  −1  | **Cha** 7 | −2 | −2 |
 
 **Senses Darkvision 60 ft.; Passive Perception 9**
 

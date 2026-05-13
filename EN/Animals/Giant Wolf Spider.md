@@ -2,6 +2,7 @@
 aliases: ["Giant Wolf Spider"]
 tags: [srd, english, tag_animals]
 ---
+
 ## Giant Wolf Spider
 
 *Medium Beast, Unaligned*
@@ -12,11 +13,10 @@ tags: [srd, english, tag_animals]
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 16 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 16 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +3, Stealth +7**
 

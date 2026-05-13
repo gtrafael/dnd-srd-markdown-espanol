@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/EnjambreDeGarrasReptantes|Enjambre de garras r
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

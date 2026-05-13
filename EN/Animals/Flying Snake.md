@@ -3,6 +3,7 @@ aliases: ["Flying Snake"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/SerpienteVoladora|Serpiente voladora (Español)]]"
 ---
+
 ## Flying Snake
 
 *Tiny Monstrosity, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/SerpienteVoladora|Serpiente voladora (Español)]]"
 
 **Speed 30 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 4 | −3 | −3 | **Dex** 15 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 4 | −3  |  −3  | **Dex** 15 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 2 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Senses Blindsight 10 ft.; Passive Perception 11**
 

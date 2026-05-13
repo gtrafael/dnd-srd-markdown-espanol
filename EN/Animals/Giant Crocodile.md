@@ -3,6 +3,7 @@ aliases: ["Giant Crocodile"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/CocodriloGigante|Cocodrilo gigante (Español)]]"
 ---
+
 ## Giant Crocodile
 
 *Huge Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/CocodriloGigante|Cocodrilo gigante (Español)]]"
 
 **Speed 30 ft., Swim 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 9 | −1 | −1 | **Con** 17 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 9  | −1  |  −1  | **Con** 17 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Skills Stealth +5**
 

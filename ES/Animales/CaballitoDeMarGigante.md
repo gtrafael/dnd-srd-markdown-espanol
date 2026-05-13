@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Seahorse|Giant Seahorse (EN)]]"
 **Velocidad:** 1,5 m, nadar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Sentidos:** Percepción pasiva 11
 

@@ -3,6 +3,7 @@ aliases: ["Eldritch Blast"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescargaSobrenatural|Descarga sobrenatural (Español)]]"
 ---
+
 ### Eldritch Blast
 
 *Evocation Cantrip* (Warlock)

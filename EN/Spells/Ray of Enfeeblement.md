@@ -3,6 +3,7 @@ aliases: ["Ray of Enfeeblement"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RayoDebilitador|Rayo debilitador (Español)]]"
 ---
+
 ### Ray of Enfeeblement
 
 *Level 2 Necromancy* (Warlock, Wizard)

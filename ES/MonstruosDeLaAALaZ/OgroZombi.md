@@ -17,13 +17,13 @@ related_en: "[[Monsters/Ogre Zombie|Ogre Zombie (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 6 | -2 | -2 |
-| CON | 18 | +4 | +4 |
-| INT | 3 | -4 | -4 |
-| SAB | 6 | -2 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |     6 |  -2 |   -2 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |     6 |  -2 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Inmunidades:** veneno; cansancio, envenenado
 

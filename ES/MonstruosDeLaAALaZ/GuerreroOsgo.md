@@ -17,13 +17,13 @@ related_en: "[[Monsters/Bugbear Warrior|Bugbear Warrior (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 14 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 8 | -1 | -1 |
-| SAB | 11 | +0 | +0 |
-| CAR | 9 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     8 |  -1 |   -1 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     9 |  -1 |   -1 |
 
 **Habilidades:** Sigilo +6, Supervivencia +2
 

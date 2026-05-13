@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Pesadilla|Pesadilla (Español)]]"
 
 **Speed 60 ft., Fly 90 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 15 | +2 | +2 |
 
 **Immunities Fire**
 

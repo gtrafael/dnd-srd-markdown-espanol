@@ -3,6 +3,7 @@ aliases: ["Swarm of Rats"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EnjambreDeRatas|Enjambre de ratas (Español)]]"
 ---
+
 ## Swarm of Rats
 
 *Medium Swarm of Tiny Beasts, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/EnjambreDeRatas|Enjambre de ratas (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 9 | −1 | −1 | **Dex** 11 | +0 | +2 | **Con** 9 | −1 | −1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 9 | −1  |  −1  | **Dex** 11 | +0  |  +2  | **Con** 9 | −1 | −1 |
+| **Int** 2 | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

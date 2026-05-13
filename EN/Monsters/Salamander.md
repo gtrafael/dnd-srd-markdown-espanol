@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Salamandra|Salamandra (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 15 | +2 | +2 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 15 | +2 | +2 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 12 | +1 | +1 |
 
 Vulnerabilities Cold Immunities Fire
 

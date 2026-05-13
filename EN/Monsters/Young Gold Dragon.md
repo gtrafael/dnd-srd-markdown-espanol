@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeOroJoven|Dragón de oro joven (Españo
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 14 | +2 | +6 | **Con** 21 | +5 | +5 |
-| **Int** 16 | +3 | +3 | **Wis** 13 | +1 | +5 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 14 | +2  |  +6  | **Con** 21 | +5 | +5 |
+| **Int** 16 | +3  |  +3  | **Wis** 13 | +1  |  +5  | **Cha** 20 | +5 | +5 |
 
 **Skills Insight +5, Perception +9, Persuasion +9, Stealth +6**
 

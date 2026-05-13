@@ -3,6 +3,7 @@ aliases: ["Burning Hands"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ManosArdientes|Manos ardientes (Español)]]"
 ---
+
 ### Burning Hands
 
 *Level 1 Evocation* (Sorcerer, Wizard)

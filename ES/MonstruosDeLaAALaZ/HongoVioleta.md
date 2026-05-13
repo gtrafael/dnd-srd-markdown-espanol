@@ -17,13 +17,14 @@ related_en: "[[Monsters/Violet Fungus|Violet Fungus (EN)]]"
 **Velocidad:** 1,5 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 3 | -4 | -4 |
-| DES | 1 | -5 | -5 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| SAB | 3 | -4 | -4 |
-| CAR | 1 | -5 | -5 |
+|-------|------:|----:|-----:|
+| FUE   |     3 |  -4 |   -4 |
+| DES   |     1 |  -5 |   -5 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     3 |  -4 |   -4 |
+| CAR   |     1 |  -5 |   -5 |
+
 **Inmunidades:** asustado, cegado, ensordecido, hechizado
 
 **Sentidos:** visión ciega 9 m; Percepción pasiva 6

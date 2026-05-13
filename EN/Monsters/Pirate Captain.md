@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CapitanPirata|Capitán pirata (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +3 | **Dex** 18 | +4 | +7 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +5 | **Cha** 17 | +3 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +3  | **Dex** 18 | +4  |  +7  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 14 | +2  |  +5  | **Cha** 17 | +3 | +6 |
 
 **Skills Acrobatics +7, Perception +5**
 

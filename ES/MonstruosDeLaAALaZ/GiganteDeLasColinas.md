@@ -15,13 +15,13 @@ related_en: "[[Monsters/Hill Giant|Hill Giant (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 21 | +5 | +5 |
-| DES | 8 | -1 | -1 |
-| CON | 19 | +4 | +4 |
-| INT | 5 | -3 | -3 |
-| SAB | 9 | -1 | -1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    21 |  +5 |   +5 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    19 |  +4 |   +4 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |     9 |  -1 |   -1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Percepción +2
 

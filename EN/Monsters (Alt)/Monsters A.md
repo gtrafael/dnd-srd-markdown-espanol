@@ -8,11 +8,10 @@
 
 **Speed 10 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 9 | −1 | +3 | **Con** 15 | +2 | +6 |
-| **Int** 18 | +4 | +8 | **Wis** 15 | +2 | +6 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 9  | −1  |  +3  | **Con** 15 | +2 | +6 |
+| **Int** 18 | +4  |  +8  | **Wis** 15 | +2  |  +6  | **Cha** 18 | +4 | +4 |
 
 **Skills History +12, Perception +10**
 
@@ -60,11 +59,10 @@ Psychic Drain. If the aboleth has at least one creature Charmed or Grappled, it 
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 14 | +2 | +7 | **Con** 21 | +5 | +5 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +6 | **Cha** 19 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 14 | +2  |  +7  | **Con** 21 | +5 | +5 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +6  | **Cha** 19 | +4 | +4 |
 
 **Skills Perception +11, Stealth +7**
 
@@ -114,11 +112,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
 
 **Speed 40 ft., Burrow 30 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 25 | +7 | +7 | **Dex** 10 | +0 | +5 | **Con** 23 | +6 | +6 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +7 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 25 | +7  |  +7  | **Dex** 10 | +0  |  +5  | **Con** 23 | +6 | +6 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +7  | **Cha** 20 | +5 | +5 |
 
 **Skills Perception +12, Stealth +5**
 
@@ -162,11 +159,10 @@ Tail Swipe. The dragon makes one Rend attack.
 
 **Speed 40 ft., Burrow 30 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 10 | +0 | +5 | **Con** 21 | +5 | +5 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +6 | **Cha** 17 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 10 | +0  |  +5  | **Con** 21 | +5 | +5 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +6  | **Cha** 17 | +3 | +3 |
 
 **Skills History +7, Perception +11, Persuasion +8, Stealth +5**
 
@@ -216,11 +212,10 @@ Scorching Sands. Dexterity Saving Throw: DC 16, one creature the dragon can see 
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 25 | +7 | +7 | **Dex** 10 | +0 | +5 | **Con** 23 | +6 | +6 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +7 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 25 | +7  |  +7  | **Dex** 10 | +0  |  +5  | **Con** 23 | +6 | +6 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +7  | **Cha** 20 | +5 | +5 |
 
 **Skills Insight +7, Perception +12, Stealth +5**
 
@@ -270,11 +265,10 @@ Thunderclap. Constitution Saving Throw: DC 17, each creature in a 20-foot-radius
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 12 | +1 | +6 | **Con** 21 | +5 | +5 |
-| **Int** 18 | +4 | +4 | **Wis** 15 | +2 | +7 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 12 | +1  |  +6  | **Con** 21 | +5 | +5 |
+| **Int** 18 | +4  |  +4  | **Wis** 15 | +2  |  +7  | **Cha** 18 | +4 | +4 |
 
 **Skills Deception +9, Perception +12, Stealth +6**
 
@@ -328,11 +322,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 14 | +2 | +8 | **Con** 25 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +8 | **Cha** 24 | +7 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 14 | +2  |  +8  | **Con** 25 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +8  | **Cha** 24 | +7 | +7 |
 
 **Skills Insight +8, Perception +14, Persuasion +13, Stealth**
 
@@ -380,11 +373,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 12 | +1 | +6 | **Con** 21 | +5 | +5 |
-| **Int** 18 | +4 | +4 | **Wis** 15 | +2 | +7 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 12 | +1  |  +6  | **Con** 21 | +5 | +5 |
+| **Int** 18 | +4  |  +4  | **Wis** 15 | +2  |  +7  | **Cha** 18 | +4 | +4 |
 
 **Skills Deception +9, Perception +12, Persuasion +9,**
 
@@ -432,11 +424,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 10 | +0 | +6 | **Con** 25 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 13 | +1 | +7 | **Cha** 23 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 10 | +0  |  +6  | **Con** 25 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 13 | +1  |  +7  | **Cha** 23 | +6 | +6 |
 
 **Skills Perception +13, Stealth +6**
 
@@ -482,11 +473,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
 
 **Speed 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 10 | +0 | +5 | **Con** 25 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 13 | +1 | +6 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 10 | +0  |  +5  | **Con** 25 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 13 | +1  |  +6  | **Cha** 22 | +6 | +6 |
 
 **Skills History +8, Perception +11, Stealth +5**
 
@@ -534,11 +524,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
 
 **Speed 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 10 | +0 | +5 | **Con22** +6 | +6 |  |
-| **Int** 8 | −1 | −1 | **Wis** 12 | +1 | +6 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 10 | +0  |  +5  | **Con22** +6 | +6 |  |
+| **Int** 8  | −1  |  −1  | **Wis** 12 | +1  |  +6  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +11, Stealth +5**
 
@@ -582,11 +571,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
 
 **Speed 10 ft., Fly 90 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 20 | +5 | +5 | **Con** 14 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 20 | +5  |  +5  | **Con** 14 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Resistances Bludgeoning, Lightning, Piercing, Slashing**
 
@@ -622,11 +610,10 @@ Thunderous Slam. Melee Attack Roll: +8, reach 10 ft. Hit: 14 (2d8 + 5) Thunder d
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 14 | +2 | +9 | **Con** 25 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +9 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 14 | +2  |  +9  | **Con** 25 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +9  | **Cha** 22 | +6 | +6 |
 
 **Skills Perception +16, Stealth +9**
 
@@ -676,11 +663,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack. Bla
 
 **Speed 40 ft., Burrow 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 29 | +9 | +9 | **Dex** 10 | +0 | +7 | **Con** 27 | +8 | +8 |
-| **Int** 18 | +4 | +4 | **Wis** 17 | +3 | +10 | **Cha** 25 | +7 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 29 | +9  |  +9  | **Dex** 10 | +0  |  +7  | **Con** 27 | +8 | +8 |
+| **Int** 18 | +4  |  +4  | **Wis** 17 | +3  | +10  | **Cha** 25 | +7 | +7 |
 
 **Skills Perception +17, Stealth +7**
 
@@ -726,11 +712,10 @@ Tail Swipe. The dragon makes one Rend attack. Bone Devil
 
 **Speed 40 ft., Burrow 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 10 | +0 | +6 | **Con** 25 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +8 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 10 | +0  |  +6  | **Con** 25 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +8  | **Cha** 22 | +6 | +6 |
 
 **Skills History +9, Perception +14, Persuasion +12, Stealth**
 
@@ -780,11 +765,10 @@ Scorching Sands. Dexterity Saving Throw: DC 20, one creature the dragon can see 
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 29 | +9 | +9 | **Dex** 10 | +0 | +7 | **Con** 27 | +8 | +8 |
-| **Int** 18 | +4 | +4 | **Wis** 17 | +3 | +10 | **Cha** 25 | +7 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 29 | +9  |  +9  | **Dex** 10 | +0  |  +7  | **Con** 27 | +8 | +8 |
+| **Int** 18 | +4  |  +4  | **Wis** 17 | +3  | +10  | **Cha** 25 | +7 | +7 |
 
 **Skills Insight +10, Perception +17, Stealth +7**
 
@@ -834,11 +818,10 @@ Thunderclap. Constitution Saving Throw: DC 22, each creature in a 20-foot-radius
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 12 | +1 | +8 | **Con** 25 | +7 | +7 |
-| **Int** 20 | +5 | +5 | **Wis** 17 | +3 | +10 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 12 | +1  |  +8  | **Con** 25 | +7 | +7 |
+| **Int** 20 | +5  |  +5  | **Wis** 17 | +3  | +10  | **Cha** 22 | +6 | +6 |
 
 **Skills Deception +13, Perception +17, Stealth +8**
 
@@ -892,11 +875,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack. Cou
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 30 | +10 | +10 | **Dex** 14 | +2 | +9 | **Con** 29 | +9 | +9 |
-| **Int** 18 | +4 | +4 | **Wis** 17 | +3 | +10 | **Cha** 28 | +9 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 30 | +10 | +10  | **Dex** 14 | +2  |  +9  | **Con** 29 | +9 | +9 |
+| **Int** 18 | +4  |  +4  | **Wis** 17 | +3  | +10  | **Cha** 28 | +9 | +9 |
 
 **Skills Insight +10, Perception +17, Persuasion +16, Stealth**
 
@@ -944,11 +926,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack. Gor
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 12 | +1 | +8 | **Con** 25 | +7 | +7 |
-| **Int** 20 | +5 | +5 | **Wis** 17 | +3 | +10 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 12 | +1  |  +8  | **Con** 25 | +7 | +7 |
+| **Int** 20 | +5  |  +5  | **Wis** 17 | +3  | +10  | **Cha** 22 | +6 | +6 |
 
 **Skills Deception +13, Perception +17, Persuasion +13,**
 
@@ -996,11 +977,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack. Gre
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 30 | +10 | +10 | **Dex** 10 | +0 | +7 | **Con** 29 | +9 | +9 |
-| **Int** 18 | +4 | +4 | **Wis** 15 | +2 | +9 | **Cha** 27 | +8 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 30 | +10 | +10  | **Dex** 10 | +0  |  +7  | **Con** 29 | +9 | +9 |
+| **Int** 18 | +4  |  +4  | **Wis** 15 | +2  |  +9  | **Cha** 27 | +8 | +8 |
 
 **Skills Perception +16, Stealth +7**
 
@@ -1046,11 +1026,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack. Rem
 
 **Speed 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 30 | +10 | +10 | **Dex** 10 | +0 | +7 | **Con** 29 | +9 | +9 |
-| **Int** 18 | +4 | +4 | **Wis** 15 | +2 | +9 | **Cha** 26 | +8 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 30 | +10 | +10  | **Dex** 10 | +0  |  +7  | **Con** 29 | +9 | +9 |
+| **Int** 18 | +4  |  +4  | **Wis** 15 | +2  |  +9  | **Cha** 26 | +8 | +8 |
 
 **Skills History +11, Perception +16, Stealth +7**
 
@@ -1096,11 +1075,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack. Ske
 
 **Speed 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 26 | +8 | +8 | **Dex** 10 | +0 | +6 | **Con** 26 | +8 | +8 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +7 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 26 | +8  |  +8  | **Dex** 10 | +0  |  +6  | **Con** 26 | +8 | +8 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +7  | **Cha** 18 | +4 | +4 |
 
 **Skills Perception +13, Stealth +6**
 
@@ -1144,11 +1122,10 @@ Pounce. The dragon moves up to half its Speed, and it makes one Rend attack. Wig
 
 **Speed 25 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 11 | +0 | +0 | **Con** 13 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 3 | −4 | −4 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 11 | +0  |  +0  | **Con** 13 | +1 | +1 |
+| **Int** 1  | −5  |  −5  | **Wis** 3  | −4  |  −4  | **Cha** 1 | −5 | −5 |
 
 **Immunities Poison, Psychic; Charmed, Deafened,**
 
@@ -1178,11 +1155,10 @@ Bludgeoning damage.
 
 **Speed 5 ft., Fly 50 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 15 | +2 | +4 | **Con** 11 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 5 | −3 | −3 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 15 | +2  |  +4  | **Con** 11 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 5  | −3  |  −3  | **Cha** 1 | −5 | −5 |
 
 **Immunities Poison, Psychic; Charmed, Deafened,**
 
@@ -1210,11 +1186,10 @@ Slashing damage.
 
 **Speed 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 14 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 3 | −4 | −4 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 14 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 3  | −4  |  −4  | **Cha** 1 | −5 | −5 |
 
 **Immunities Poison, Psychic; Charmed, Deafened,**
 
@@ -1242,11 +1217,10 @@ The rug can smother only one creature at a time. While grappling the target, the
 
 **Speed 30 ft., Burrow 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 11 | +0 | +0 | **Con** 14 | +2 | +2 |
-| **Int** 1 | −5 | −5 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 11 | +0  |  +0  | **Con** 14 | +2 | +2 |
+| **Int** 1  | −5  |  −5  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Darkvision 60 ft., Tremorsense 60 ft.;**
 
@@ -1276,11 +1250,10 @@ Acid Spray (Recharge 6). Dexterity Saving Throw: DC 12, each creature in a 30-fo
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 20 | +5 | +9 | **Wis** 15 | +2 | +6 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 20 | +5  |  +9  | **Wis** 15 | +2  |  +6  | **Cha** 16 | +3 | +3 |
 
 **Skills Arcana +13, History +9, Perception +6**
 
@@ -1326,11 +1299,10 @@ Protective Magic (3/Day). The archmage casts Counterspell or Shield in response 
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 18 | +4 | +7 | **Con** 14 | +2 | +2 |
-| **Int** 16 | +3 | +6 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 18 | +4  |  +7  | **Con** 14 | +2 | +2 |
+| **Int** 16 | +3  |  +6  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Acrobatics +7, Perception +6, Stealth +10**
 
@@ -1372,11 +1344,10 @@ Cunning Action. The assassin takes the Dash, Disengage, or Hide action. Awakened
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 8 | −1 | −1 | **Con** 11 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3  | −4  |  −4  | **Dex** 8  | −1  |  −1  | **Con** 11 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 Vulnerabilities Fire Resistances Piercing Senses Passive Perception 10 Languages Common plus one other language
 
@@ -1396,11 +1367,10 @@ Rake. Melee Attack Roll: +1, reach 5 ft. Hit: 1 Slashing damage.
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 6 | −2 | −2 | **Con** 15 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 6  | −2  |  −2  | **Con** 15 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 Vulnerabilities Fire Resistances Bludgeoning, Piercing Senses Passive Perception 10 Languages Common plus one other language
 
@@ -1420,11 +1390,10 @@ Slam. Melee Attack Roll: +6, reach 10 ft. Hit: 14 (3d6 + 4) Bludgeoning damage. 
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Senses Passive Perception 10**
 
@@ -1448,11 +1417,10 @@ Slashing damage. Azer
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 15 | +2 | +4 |
-| **Int** 12 | +1 | +1 | **Wis** 13 | +1 | +1 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 15 | +2 | +4 |
+| **Int** 12 | +1  |  +1  | **Wis** 13 | +1  |  +1  | **Cha** 10 | +0 | +0 |
 
 **Immunities Fire, Poison; Poisoned**
 

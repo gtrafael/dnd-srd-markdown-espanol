@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DiabloBarbado|Diablo barbado (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +5 | **Dex** 15 | +2 | +2 | **Con** 15 | +2 | +4 |
-| **Int** 9 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 14 | +2 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +5  | **Dex** 15 | +2  |  +2  | **Con** 15 | +2 | +4 |
+| **Int** 9  | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 14 | +2 | +4 |
 
 **Resistances Cold**
 

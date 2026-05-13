@@ -3,6 +3,7 @@ aliases: ["Vitriolic Sphere"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/EsferaVitriolica|Esfera vitriólica (Español)]]"
 ---
+
 ### Vitriolic Sphere
 
 *Level 4 Evocation* (Sorcerer, Wizard)

@@ -9,7 +9,6 @@ tags: [srd, espanol, tag_glosariodereglas, sin-equivalente]
 
 Cada criatura u objeto pertenece a una categoría de tamaño: Diminuto, Pequeño, Mediano, Grande, Enorme o Gargantuesco. El tamaño de una criatura determina el espacio que ocupa en combate. El tamaño de un objeto afecta a sus puntos de golpe. Consulta también “Romper objetos” y el capítulo “Cómo jugar” (“Combate”).
 
-
 # Telepatía
 
 La telepatía es una facultad mágica que permite a una criatura comunicarse mentalmente con otra criatura que esté dentro del alcance indicado. Salvo que una regla indique algo distinto, no es necesario que la criatura contactada tenga un idioma en común con el telépata para entender esta comunicación, pero deberá poder entender al menos un idioma o ejercer ella misma la telepatía para poder entenderse.
@@ -17,7 +16,6 @@ La telepatía es una facultad mágica que permite a una criatura comunicarse men
 Un telépata no necesita ver a la criatura contactada y puede comenzar o terminar la conexión telepática cuando quiera (no requiere acción). La conexión telepática no puede iniciarse y se interrumpe de inmediato si el telépata o la otra criatura tiene el estado de incapacitado. La conexión telepática se interrumpe también si la criatura contactada deja de estar al alcance del telépata o si el telépata contacta con otra criatura a su alcance.
 
 Las criaturas sin telepatía pueden recibir mensajes telepáticos, pero no pueden iniciar una conversación telepática. En cuanto comienza una conversación telepática, la criatura que no sea telépata podrá comunicarse mentalmente con el telépata hasta que se interrumpa la conexión.
-
 
 # Teletransporte
 
@@ -28,7 +26,6 @@ Cuando te teletransportas, todo el equipo que vistas o lleves se teletransporta 
 Si el lugar de destino del teletransporte está ocupado por otra criatura o bloqueado por un obstáculo sólido, aparecerás en el espacio sin ocupar más cercano que elijas.
 
 La descripción de un efecto de teletransporte indica si debes ver el destino del teletransporte.
-
 
 # Terreno difícil
 
@@ -48,7 +45,6 @@ Un espacio es terreno difícil si contiene algo de lo siguiente u otro elemento 
 
 • una pendiente de 20 grados o más.
 
-
 # Tipo de criatura
 
 Todas las criaturas, incluidos los personajes de los jugadores, tienen una etiqueta en las reglas que identifica su tipo de criatura. La mayoría de los personajes de los jugadores son de tipo humanoide. Estos son los tipos de criaturas del juego:
@@ -62,14 +58,11 @@ Todas las criaturas, incluidos los personajes de los jugadores, tienen una etiqu
 
 Estos tipos no tienen reglas en sí mismos, pero hay reglas del juego que afectan de manera distinta a criaturas de ciertos tipos.
 
-
 # Tipos de daño
 
 Los ataques y otros efectos dañinos causan diferentes tipos de daño. Los tipos de daño no tienen reglas propias, pero otras reglas, como la resistencia, dependen de ellos. La tabla “Tipos de daño” plantea ejemplos para que cada GM sepa qué tipo puede asignar a los efectos nuevos.
 
-
 Tipos de daño
-
 
 | Tipo        | Ejemplos                                |
 |-------------|-----------------------------------------|
@@ -87,16 +80,13 @@ Tipos de daño
 | Trueno      | Sonido conmocionador                    |
 | Veneno      | Gas tóxico, veneno                      |
 
-
 # Tirada de ataque
 
 Una tirada de ataque es una prueba con d20 que representa hacer un ataque con un arma, un ataque sin armas o un conjuro. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).
 
-
 # Tirada de daño
 
 Una tirada de daño es una tirada de dados a la que se le aplican los modificadores que correspondan y que causa daño a un objetivo. Consulta también el capítulo “Cómo jugar” (“Daño y curación”).
-
 
 # Tirada de salvación
 
@@ -104,18 +94,15 @@ Una tirada de salvación, o simplemente salvación, representa un intento de evi
 
 característica empleada en ella, la fallará automáticamente. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).
 
-
 # Tirada de salvación contra muerte
 
 Si un personaje jugador comienza su turno con 0 puntos de golpe, deberá realizar una tirada de salvación contra muerte (también llamada salvación contra muerte). Consulta también el capítulo “Cómo jugar” (“Daño y curación”).
-
 
 # Trepar
 
 Cuando trepas, cada metro de movimiento te cuesta 1 m adicional (2 m adicionales en terreno difícil). Ignoras este coste adicional si tienes una velocidad trepando y la usas para trepar.
 
 A discreción de cada GM, trepar por una superficie resbaladiza o con pocos agarres podría requerir superar una prueba de Fuerza (Atletismo) con CD 15.
-
 
 # Truco
 

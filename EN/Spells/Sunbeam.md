@@ -3,6 +3,7 @@ aliases: ["Sunbeam"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RayoSolar|Rayo solar (Español)]]"
 ---
+
 ### Sunbeam
 
 *Level 6 Evocation* (Cleric, Druid, Sorcerer, Wizard)

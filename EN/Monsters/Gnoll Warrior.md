@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GuerreroGnoll|Guerrero gnoll (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 12 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Senses Darkvision 60 ft.; Passive Perception 10**
 

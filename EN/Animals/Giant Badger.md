@@ -3,6 +3,7 @@ aliases: ["Giant Badger"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TejonGigante|Tejón gigante (Español)]]"
 ---
+
 ## Giant Badger
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/TejonGigante|Tejón gigante (Español)]]"
 
 **Speed 30 ft., Burrow 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 10 | +0 | +0 | **Con** 17 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 10 | +0  |  +0  | **Con** 17 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +3**
 

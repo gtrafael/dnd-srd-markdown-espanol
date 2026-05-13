@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeOropelAnciano|Dragón de oropel ancian
 
 **Speed 40 ft., Burrow 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 10 | +0 | +6 | **Con** 25 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +8 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 10 | +0  |  +6  | **Con** 25 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +8  | **Cha** 22 | +6 | +6 |
 
 **Skills History +9, Perception +14, Persuasion +12, Stealth**
 

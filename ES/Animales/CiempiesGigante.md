@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Centipede|Giant Centipede (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 5 | -3 | -3 |
-| DES | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| SAB | 7 | -2 | -2 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |     5 |  -3 |   -3 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     7 |  -2 |   -2 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Sentidos:** visión ciega 9 m; Percepción pasiva 8
 

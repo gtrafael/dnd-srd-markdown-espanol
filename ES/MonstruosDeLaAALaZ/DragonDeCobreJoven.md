@@ -17,13 +17,14 @@ related_en: "[[Monsters/Young Copper Dragon|Young Copper Dragon (EN)]]"
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 12 | +1 | +4 |
-| CON | 17 | +3 | +3 |
-| INT | 16 | +3 | +3 |
-| SAB | 13 | +1 | +4 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    12 |  +1 |   +4 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |    16 |  +3 |   +3 |
+| SAB   |    13 |  +1 |   +4 |
+| CAR   |    15 |  +2 |   +2 |
+
 **Habilidades:** Engaño +5, Percepción +7, Sigilo +4
 
 **Inmunidades:** ácido

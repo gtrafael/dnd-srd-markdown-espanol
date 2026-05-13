@@ -3,6 +3,7 @@ aliases: ["Scorpion"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Escorpion|Escorpión (Español)]]"
 ---
+
 ## Scorpion
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Escorpion|Escorpión (Español)]]"
 
 **Speed 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 11 | +0 | +0 | **Con** 8 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 8 | −1 | −1 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 11 | +0  |  +0  | **Con** 8 | −1 | −1 |
+| **Int** 1 | −5  |  −5  | **Wis** 8  | −1  |  −1  | **Cha** 2 | −4 | −4 |
 
 **Senses Blindsight 10 ft.; Passive Perception 9**
 

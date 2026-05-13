@@ -17,13 +17,14 @@ related_en: "[[Monsters/Merrow|Merrow (EN)]]"
 **Velocidad:** 3 m, nadar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 15 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 8 | -1 | -1 |
-| SAB | 10 | +0 | +0 |
-| CAR | 9 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     8 |  -1 |   -1 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     9 |  -1 |   -1 |
+
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** abisal, primordial (acuano)

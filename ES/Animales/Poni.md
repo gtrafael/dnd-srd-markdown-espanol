@@ -17,13 +17,14 @@ related_en: "[[Animals/Pony|Pony (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +4 |
-| DES | 10 | +0 | +0 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| SAB | 11 | +0 | +0 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +4 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     7 |  -2 |   -2 |
+
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno

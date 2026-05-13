@@ -17,13 +17,13 @@ related_en: "[[Monsters/Rust Monster|Rust Monster (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 13 | +1 | +1 |
-| DES | 12 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| SAB | 13 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    13 |  +1 |   +1 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11
 

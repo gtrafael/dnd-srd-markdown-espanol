@@ -14,9 +14,7 @@ Si vas a utilizar alguna de estas reglas, habla sobre ellas con tu grupo al prin
 
 Cuando los personajes se topen con algo sobrenatural y aterrador, emplea el estado de asustado como efecto estándar. Por lo general, los efectos de miedo requieren tiradas de salvación de Sabiduría, cuya CD de salvación dependerá de lo aterradora que sea la situación.En la tabla “Muestras de CD de miedos" encontrarás algunos ejemplos.
 
-
 Muestras de CD de miedos
-
 
 | Ejemplo                                                                                                                      | CD de salvación |
 |------------------------------------------------------------------------------------------------------------------------------|----------------:|
@@ -40,15 +38,13 @@ Cuando un personaje padezca un efecto que le cause un intenso estrés psicológi
 
 La tabla “Muestras de efectos de estrés psicológico” proporciona varios ejemplos de esos efectos, junto con sugerencias de CD de tiradas de salvación y daño. El estrés psicológico puede resistirse superando una tirada de salvación de Sabiduría, aunque en ocasiones resulta más adecuada una tirada de salvación de Inteligencia o Carisma. Si la supera, el personaje puede sufrir la mitad de daño en vez de evitarlo por completo, según creas conveniente.
 
-
 Muestras de efectos de estrés psicológico
 
-
-| Ejemplo | CD de salvación | Daño psíquico |
-|---|---:|---|
-| Un personaje ingiere una sustancia alucinógena que distorsiona su percepción de la realidad. | 10 | 1d6 |
-| Un personaje toca un ídolo infernal que desgarra su mente y amenaza con hacerla añicos. | 15 | 3d6 |
-| Una trampa mágica lanza a un personaje al Reino Lejano hasta el final de su próximo turno. | 20 | 9d6 |
+| Ejemplo                                                                                      | CD de salvación | Daño psíquico |
+|----------------------------------------------------------------------------------------------|----------------:|---------------|
+| Un personaje ingiere una sustancia alucinógena que distorsiona su percepción de la realidad. |              10 | 1d6           |
+| Un personaje toca un ídolo infernal que desgarra su mente y amenaza con hacerla añicos.      |              15 | 3d6           |
+| Una trampa mágica lanza a un personaje al Reino Lejano hasta el final de su próximo turno.   |              20 | 9d6           |
 
 ## Efectos prolongados
 

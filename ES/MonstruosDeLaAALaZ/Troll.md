@@ -17,13 +17,14 @@ related_en: "[[Monsters/Troll|Troll (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 13 | +1 | +1 |
-| CON | — | — | — |
-| INT | 7 | -2 | -2 |
-| SAB | 9 | -1 | -1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |     — |   — |    — |
+| INT   |     7 |  -2 |   -2 |
+| SAB   |     9 |  -1 |   -1 |
+| CAR   |     7 |  -2 |   -2 |
+
 **Habilidades:** Percepción +5
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 15

@@ -3,6 +3,7 @@ aliases: ["Harm"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Danar|Dañar (Español)]]"
 ---
+
 ### Harm
 
 *Level 6 Necromancy* (Cleric)

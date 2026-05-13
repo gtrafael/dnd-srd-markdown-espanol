@@ -17,13 +17,13 @@ related_en: "[[Monsters/Cloaker|Cloaker (EN)]]"
 **Velocidad:** 3 m, volar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 13 | +1 | +1 |
-| SAB | 14 | +2 | +2 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    13 |  +1 |   +1 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Sigilo +5
 

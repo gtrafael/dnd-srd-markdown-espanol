@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.0] — 2026-05-13
+
+### Reformateo y Limpieza automática, conversión tablas a Markdown
+
+- **Reformateo y limpieza automática completa** del proyecto
+- **Conversión de tablas HTML a Markdown** en archivos de estadísticas
+  - Completar valores faltantes de CON y CAR en tablas de monstruos y animales
+  - Actualizado [AGENTS.md](AGENTS.md) para reflejar el cambio a Markdown pipe tables
+
 ## [1.0.0] — 2026-05-12
 
 ### Spanish SRD — First complete release

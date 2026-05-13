@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonBlanco|Cría de dragón blanco (Es
 
 **Speed 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 10 | +0 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +2 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 10 | +0  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +2  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +4, Stealth +2**
 

@@ -3,6 +3,7 @@ aliases: ["Reef Shark"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TiburonDeArrecife|Tiburón de arrecife (Español)]]"
 ---
+
 ## Reef Shark
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/TiburonDeArrecife|Tiburón de arrecife (Español)]]"
 
 **Speed 5 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 15 | +2 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 15 | +2  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 1  | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +2**
 

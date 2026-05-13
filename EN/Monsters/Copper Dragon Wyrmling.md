@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonDeCobre|Cría de dragón de cobre 
 
 **Speed 30 ft., Climb 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +2 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 12 | +1  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 14 | +2  |  +2  | **Wis** 11 | +0  |  +2  | **Cha** 13 | +1 | +1 |
 
 **Skills Perception +4, Stealth +3**
 

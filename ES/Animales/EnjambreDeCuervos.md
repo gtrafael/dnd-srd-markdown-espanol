@@ -17,13 +17,13 @@ related_en: "[[Animals/Swarm of Ravens|Swarm of Ravens (EN)]]"
 **Velocidad:** 3 m, volar 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 6 | -2 | -2 |
-| DES | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 5 | -3 | -3 |
-| SAB | 12 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |     6 |  -2 |   -2 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Percepción +5
 

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Rakshasa|Rakshasa (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 17 | +3 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 13 | +1 | +1 |
-| SAB | 16 | +3 | +3 |
-| CAR | 20 | +5 | +5 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    17 |  +3 |   +3 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |    13 |  +1 |   +1 |
+| SAB   |    16 |  +3 |   +3 |
+| CAR   |    20 |  +5 |   +5 |
 
 **Habilidades:** Engaño +10, Percepción +8, Perspicacia +8
 

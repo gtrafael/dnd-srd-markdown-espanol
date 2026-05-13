@@ -3,6 +3,7 @@ aliases: ["Storm of Vengeance"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/TormentaDeLaVenganza|Tormenta de la venganza (Español)]]"
 ---
+
 ### Storm of Vengeance
 
 *Level 9 Conjuration* (Druid)

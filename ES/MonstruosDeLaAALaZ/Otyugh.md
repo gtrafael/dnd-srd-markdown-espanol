@@ -17,13 +17,13 @@ related_en: "[[Monsters/Otyugh|Otyugh (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 11 | +0 | +0 |
-| CON | 19 | +4 | +7 |
-| INT | 6 | -2 | -2 |
-| SAB | 13 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    19 |  +4 |   +7 |
+| INT   |     6 |  -2 |   -2 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Sentidos:** visión en la oscuridad 36 m; Percepción pasiva 11
 

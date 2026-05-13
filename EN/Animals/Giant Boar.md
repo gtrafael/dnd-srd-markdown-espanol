@@ -3,6 +3,7 @@ aliases: ["Giant Boar"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/JabaliGigante|Jabalí gigante (Español)]]"
 ---
+
 ## Giant Boar
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/JabaliGigante|Jabalí gigante (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +5 | **Dex** 10 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 7 | −2 | −2 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +5  | **Dex** 10 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 7  | −2  |  −2  | **Cha** 5 | −3 | −3 |
 
 **Senses Passive Perception 8**
 

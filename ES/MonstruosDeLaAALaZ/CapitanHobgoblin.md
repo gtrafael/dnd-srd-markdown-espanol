@@ -17,13 +17,13 @@ related_en: "[[Monsters/Hobgoblin Captain|Hobgoblin Captain (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 12 | +1 | +1 |
-| SAB | 10 | +0 | +0 |
-| CAR | 13 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    13 |  +1 |   +1 |
 
 **Equipo:** arco largo, espadón, media armadura
 

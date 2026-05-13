@@ -3,6 +3,7 @@ aliases: ["Giant Octopus"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/PulpoGigante|Pulpo gigante (Español)]]"
 ---
+
 ## Giant Octopus
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/PulpoGigante|Pulpo gigante (Español)]]"
 
 **Speed 10 ft., Swim 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +4, Stealth +5**
 

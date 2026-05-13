@@ -2,6 +2,7 @@
 aliases: ["Confusion"]
 tags: [srd, english, tag_spells]
 ---
+
 ### Confusion
 
 *Level 4 Enchantment* (Bard, Druid, Sorcerer, Wizard)

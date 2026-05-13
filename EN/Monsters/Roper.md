@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Lacero|Lacero (Español)]]"
 
 **Speed 10 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 17 | +3 | +3 |
-| **Int** 7 | −2 | −2 | **Wis** 16 | +3 | +3 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 8  | −1  |  −1  | **Con** 17 | +3 | +3 |
+| **Int** 7  | −2  |  −2  | **Wis** 16 | +3  |  +3  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +6, Stealth +5**
 

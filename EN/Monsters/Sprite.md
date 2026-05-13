@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Duende|Duende (Español)]]"
 
 **Speed 10 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 18 | +4 | +4 | **Con** 10 | +0 | +0 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3  | −4  |  −4  | **Dex** 18 | +4  |  +4  | **Con** 10 | +0 | +0 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +3, Stealth +8**
 

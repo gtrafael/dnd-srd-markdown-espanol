@@ -5,11 +5,9 @@ tags: [srd, espanol, tag_equipo, sin-equivalente]
 
 # Comida, bebida y alojamiento
 
-La tabla “Comida, bebida y alojamiento” contiene los precios tanto de alimentos concretos como de alojarse una noche en una posada. Los precios del alojamiento y las comidas diarias se incluyen en los gastos de tu nivel de vida. 
-
+La tabla “Comida, bebida y alojamiento” contiene los precios tanto de alimentos concretos como de alojarse una noche en una posada. Los precios del alojamiento y las comidas diarias se incluyen en los gastos de tu nivel de vida.
 
 Comida, bebida y alojamiento
-
 
 | Elemento                   | Precio | Elemento       | Precio |
 |----------------------------|--------|----------------|--------|

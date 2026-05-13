@@ -16,9 +16,9 @@ related_en: "[[Spells/Hex|Hex (EN)]]"
 
 **Duración:** Concentración, hasta 1 hora
 
-Impones una maldición a una criatura que puedas ver dentro del alcance. Hasta que el conjuro termine, infliges 1d6 de daño necrótico adicional al objetivo siempre que le aciertes con una tirada de ataque. Además, elige una característica cuando lances el conjuro. El objetivo tendrá desventaja en las pruebas que haga con la característica elegida. 
+Impones una maldición a una criatura que puedas ver dentro del alcance. Hasta que el conjuro termine, infliges 1d6 de daño necrótico adicional al objetivo siempre que le aciertes con una tirada de ataque. Además, elige una característica cuando lances el conjuro. El objetivo tendrá desventaja en las pruebas que haga con la característica elegida.
 
-Si los puntos de golpe del objetivo se reducen a 0 antes de que el conjuro termine, puedes usar una acción adicional en un turno posterior para maldecir a una nueva criatura. 
+Si los puntos de golpe del objetivo se reducen a 0 antes de que el conjuro termine, puedes usar una acción adicional en un turno posterior para maldecir a una nueva criatura.
 
 **Con un espacio de conjuro de nivel superior.**
 

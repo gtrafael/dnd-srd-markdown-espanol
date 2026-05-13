@@ -17,13 +17,13 @@ related_en: "[[Monsters/Ettin|Ettin (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 21 | +5 | +5 |
-| DES | 8 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| SAB | 10 | +0 | +0 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    21 |  +5 |   +5 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |     6 |  -2 |   -2 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Habilidades:** Percepción +4
 

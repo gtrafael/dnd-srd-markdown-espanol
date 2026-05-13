@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GuerreroVeterano|Guerrero veterano (Español)]
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Athletics +5, Perception +2**
 

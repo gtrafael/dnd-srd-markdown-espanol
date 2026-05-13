@@ -3,6 +3,7 @@ aliases: ["Mage Hand"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ManoDeMago|Mano de mago (Español)]]"
 ---
+
 ### Mage Hand
 
 *Conjuration Cantrip* (Bard, Sorcerer, Warlock, Wizard)

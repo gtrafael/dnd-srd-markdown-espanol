@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/HombreLobo|Hombre lobo (Español)]]"
 
 **Speed 30 ft., 40 ft. (wolf form only)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +4, Stealth +4**
 

@@ -3,6 +3,7 @@ aliases: ["Curses"]
 tags: [srd, english, tag_gamemastering]
 related_es: "[[HerramientasDelJuego/MaldicionesYEnfermedadesMagicas|Maldiciones (Español)]]"
 ---
+
 # Curses
 
 A curse is a magical burden that lasts for a specified time or until it is ended by some means.

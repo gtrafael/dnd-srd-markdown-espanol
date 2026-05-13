@@ -17,13 +17,13 @@ related_en: "[[Monsters/Adult Brass Dragon|Adult Brass Dragon (EN)]]"
 **Velocidad:** 12 m, excavar 9 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 23 | +6 | +6 |
-| DES | 10 | +0 | +5 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| SAB | 13 | +1 | +6 |
-| CAR | 17 | +3 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    23 |  +6 |   +6 |
+| DES   |    10 |  +0 |   +5 |
+| CON   |    21 |  +5 |   +5 |
+| INT   |    14 |  +2 |   +2 |
+| SAB   |    13 |  +1 |   +6 |
+| CAR   |    17 |  +3 |   +3 |
 
 **Habilidades:** Historia +7, Percepción +11, Persuasión +8, Sigilo +5
 

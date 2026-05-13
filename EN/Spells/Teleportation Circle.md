@@ -3,6 +3,7 @@ aliases: ["Teleportation Circle"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CirculoDeTeletransportacion|Círculo de teletransportación (Español)]]"
 ---
+
 ### Teleportation Circle
 
 *Level 5 Conjuration* (Bard, Sorcerer, Warlock, Wizard)

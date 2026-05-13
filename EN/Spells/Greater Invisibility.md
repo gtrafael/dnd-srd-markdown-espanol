@@ -3,6 +3,7 @@ aliases: ["Greater Invisibility"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/InvisibilidadMejorada|Invisibilidad mejorada (Español)]]"
 ---
+
 ### Greater Invisibility
 
 *Level 4 Illusion* (Bard, Sorcerer, Wizard)

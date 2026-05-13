@@ -8,11 +8,10 @@
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 15 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 15 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +3, Stealth +4**
 
@@ -48,11 +47,10 @@ Roar. Wisdom Saving Throw: DC 11, one creature within 15 feet. Failure: The targ
 
 **Speed 20 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 11 | +0 | +0 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 8 | −1 | −1 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 11 | +0  |  +0  | **Con** 10 | +0 | +0 |
+| **Int** 1 | −5  |  −5  | **Wis** 8  | −1  |  −1  | **Cha** 3 | −4 | −4 |
 
 **Senses Darkvision 30 ft.; Passive Perception 9**
 

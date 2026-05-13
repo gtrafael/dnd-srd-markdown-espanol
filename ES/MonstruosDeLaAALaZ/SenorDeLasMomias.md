@@ -15,13 +15,13 @@ related_en: "[[Monsters/Mummy Lord|Mummy Lord (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 10 | +0 | +0 |
-| CON | 17 | +3 | +3 |
-| INT | 11 | +0 | +5 |
-| SAB | 19 | +4 | +9 |
-| CAR | 16 | +3 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |    11 |  +0 |   +5 |
+| SAB   |    19 |  +4 |   +9 |
+| CAR   |    16 |  +3 |   +3 |
 
 **Habilidades:** Historia +5, Percepción +9, Religión +5
 

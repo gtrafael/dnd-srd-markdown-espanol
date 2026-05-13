@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Diablillo|Diablillo (Español)]]"
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6  | −2  |  −2  | **Dex** 17 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 14 | +2 | +2 |
 
 **Skills Deception +4, Insight +3, Stealth +5**
 

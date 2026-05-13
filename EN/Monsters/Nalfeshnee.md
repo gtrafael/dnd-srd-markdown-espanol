@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Nalfeshnee|Nalfeshnee (Español)]]"
 
 **Speed 20 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 10 | +0 | +0 | **Con** 22 | +6 | +11 |
-| **Int** 19 | +4 | +9 | **Wis** 12 | +1 | +6 | **Cha** 15 | +2 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 10 | +0  |  +0  | **Con** 22 | +6 | +11 |
+| **Int** 19 | +4  |  +9  | **Wis** 12 | +1  |  +6  | **Cha** 15 | +2 | +7 |
 
 **Resistances Cold, Fire, Lightning**
 

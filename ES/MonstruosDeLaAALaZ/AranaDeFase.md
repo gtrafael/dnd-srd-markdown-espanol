@@ -17,13 +17,13 @@ related_en: "[[Monsters/Phase Spider|Phase Spider (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 16 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 6 | -2 | -2 |
-| SAB | 10 | +0 | +0 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     6 |  -2 |   -2 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Sigilo +7
 

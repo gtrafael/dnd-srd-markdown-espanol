@@ -3,6 +3,7 @@ aliases: ["Greater Restoration"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor (Español)]]"
 ---
+
 ### Greater Restoration
 
 *Level 5 Abjuration* (Bard, Cleric, Druid, Paladin, Ranger)

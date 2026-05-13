@@ -3,6 +3,7 @@ aliases: ["Rhinoceros"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Rinoceronte|Rinoceronte (Español)]]"
 ---
+
 ## Rhinoceros
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Rinoceronte|Rinoceronte (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 15 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 8  | −1  |  −1  | **Con** 15 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Passive Perception 11**
 

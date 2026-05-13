@@ -3,6 +3,7 @@ aliases: ["Goodberry"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/BuenasBayas|Buenas bayas (Español)]]"
 ---
+
 ### Goodberry
 
 *Level 1 Conjuration* (Druid, Ranger)

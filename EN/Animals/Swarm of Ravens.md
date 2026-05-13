@@ -3,6 +3,7 @@ aliases: ["Swarm of Ravens"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EnjambreDeCuervos|Enjambre de cuervos (Español)]]"
 ---
+
 ## Swarm of Ravens
 
 *Medium Swarm of Tiny Beasts, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/EnjambreDeCuervos|Enjambre de cuervos (Español)]]"
 
 **Speed 10 ft., Fly 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 5 | −3 | −3 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6 | −2  |  −2  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 5 | −3  |  −3  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +5**
 

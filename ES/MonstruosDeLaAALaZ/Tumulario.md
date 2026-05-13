@@ -17,13 +17,13 @@ related_en: "[[Monsters/Wight|Wight (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 14 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| SAB | 13 | +1 | +1 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |    15 |  +2 |   +2 |
 
 **Habilidades:** Percepción +3, Sigilo +4
 

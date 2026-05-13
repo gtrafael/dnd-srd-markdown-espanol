@@ -3,6 +3,7 @@ aliases: ["Giant Scorpion"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EscorpionGigante|Escorpión gigante (Español)]]"
 ---
+
 ## Giant Scorpion
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/EscorpionGigante|Escorpión gigante (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 15 | +2 | +2 |
-| **Int** 1 | −5 | −5 | **Wis** 9 | −1 | −1 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 15 | +2 | +2 |
+| **Int** 1  | −5  |  −5  | **Wis** 9  | −1  |  −1  | **Cha** 3 | −4 | −4 |
 
 **Senses Blindsight 60 ft.; Passive Perception 9**
 

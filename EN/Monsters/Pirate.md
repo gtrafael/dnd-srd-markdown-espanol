@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Pirata|Pirata (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 16 | +3 | +5 | **Con** 12 | +1 | +1 |
-| **Int** 8 | −1 | −1 | **Wis** 12 | +1 | +1 | **Cha** 14 | +2 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 16 | +3  |  +5  | **Con** 12 | +1 | +1 |
+| **Int** 8  | −1  |  −1  | **Wis** 12 | +1  |  +1  | **Cha** 14 | +2 | +4 |
 
 **Gear Daggers (6), Leather Armor**
 

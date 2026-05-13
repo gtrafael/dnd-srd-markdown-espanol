@@ -16,7 +16,7 @@ related_en: "[[Spells/Mass Healing Word|Mass Healing Word (EN)]]"
 
 **Duración:** Instantáneo
 
-Hasta seis criaturas de tu elección que puedas ver dentro del alcance recuperan una cantidad de puntos de golpe igual a 2d4 más tu modificador por aptitud mágica. 
+Hasta seis criaturas de tu elección que puedas ver dentro del alcance recuperan una cantidad de puntos de golpe igual a 2d4 más tu modificador por aptitud mágica.
 
 **Con un espacio de conjuro de nivel superior.**
 

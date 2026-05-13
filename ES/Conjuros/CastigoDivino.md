@@ -16,7 +16,7 @@ related_en: "[[Spells/Divine Smite|Divine Smite (EN)]]"
 
 **Duración:** Instantáneo
 
-El objetivo sufre 2d8 de daño radiante adicional del ataque. Este daño aumenta en 1d8 si el objetivo es un infernal o un muerto viviente. 
+El objetivo sufre 2d8 de daño radiante adicional del ataque. Este daño aumenta en 1d8 si el objetivo es un infernal o un muerto viviente.
 
 **Con un espacio de conjuro de nivel superior.**
 

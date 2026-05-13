@@ -15,13 +15,13 @@ related_en: "[[Monsters/Wererat|Wererat (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 16 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Habilidades:** Percepción +4, Sigilo +5
 

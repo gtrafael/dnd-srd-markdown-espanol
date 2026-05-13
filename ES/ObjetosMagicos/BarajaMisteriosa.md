@@ -14,30 +14,30 @@ Antes de robar una carta, debes declarar cuántas pretendes robar y, a continuac
 
 Cuando robas una carta, desaparece. A menos que sea el Loco o el Bufón, la carta volverá a la baraja, por lo que será posible robarla dos veces (cuando el Loco o el Bufón hayan dejado la baraja, tira de nuevo en la tabla si vuelve a salir una de ellas).
 
-| 1d100(baraja de 13 cartas) | 1d100(baraja de 22 cartas) | Carta |
-|---|---|---|
-| 01–08 | 01–05 | Bufón |
-| 09–16 | 06–10 | Caballero |
-| — | 11–14 | Calabozo |
-| 17–24 | 15–18 | Calavera |
-| 25–32 | 19–22 | Canalla |
-| — | 23–27 | Cometa |
-| 33–36 | 28–31 | El Vacío |
-| — | 32–36 | Equilibrio |
-| — | 37–41 | Erudito |
-| 37–44 | 42–46 | Estrella |
-| 45–52 | 47–50 | Euríale |
-| — | 51–54 | Garras |
-| — | 55–59 | Gema |
-| — | 60–64 | Hados |
-| 53–60 | 65–68 | Llamas |
-| 61–68 | 69–73 | Llave |
-| — | 74–77 | Loco |
-| 69–76 | 78–82 | Luna |
-| — | 83–86 | Rompecabezas |
-| 77–84 | 87–90 | Ruina |
-| 85–92 | 91–95 | Sol |
-| 93–00 | 96–00 | Trono |
+| 1d100(baraja de 13 cartas) | 1d100(baraja de 22 cartas) | Carta        |
+|----------------------------|----------------------------|--------------|
+| 01–08                      | 01–05                      | Bufón        |
+| 09–16                      | 06–10                      | Caballero    |
+| —                          | 11–14                      | Calabozo     |
+| 17–24                      | 15–18                      | Calavera     |
+| 25–32                      | 19–22                      | Canalla      |
+| —                          | 23–27                      | Cometa       |
+| 33–36                      | 28–31                      | El Vacío     |
+| —                          | 32–36                      | Equilibrio   |
+| —                          | 37–41                      | Erudito      |
+| 37–44                      | 42–46                      | Estrella     |
+| 45–52                      | 47–50                      | Euríale      |
+| —                          | 51–54                      | Garras       |
+| —                          | 55–59                      | Gema         |
+| —                          | 60–64                      | Hados        |
+| 53–60                      | 65–68                      | Llamas       |
+| 61–68                      | 69–73                      | Llave        |
+| —                          | 74–77                      | Loco         |
+| 69–76                      | 78–82                      | Luna         |
+| —                          | 83–86                      | Rompecabezas |
+| 77–84                      | 87–90                      | Ruina        |
+| 85–92                      | 91–95                      | Sol          |
+| 93–00                      | 96–00                      | Trono        |
 
 Los efectos de cada carta se describen a continuación.
 
@@ -62,13 +62,13 @@ Muerto viviente Mediano, neutral malvado
 **Velocidad:** 18 m, volar 18 m (levitar)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 16 | +3 | +3 |
-| CON | 16 | +3 | +3 |
-| INT | 16 | +3 | +3 |
-| SAB | 16 | +3 | +3 |
-| CAR | 16 | +3 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |    16 |  +3 |   +3 |
+| SAB   |    16 |  +3 |   +3 |
+| CAR   |    16 |  +3 |   +3 |
 
 **Inmunidades:** necrótico, veneno; asustado, cansancio, envenenado, hechizado, inconsciente, paralizado, petrificado
 
@@ -77,7 +77,6 @@ Muerto viviente Mediano, neutral malvado
 **Idiomas:** todos los que conozca su invocador
 
 **VD:** ninguno (0 PX; BC igual al de su invocador)
-
 
 ## Atributos
 

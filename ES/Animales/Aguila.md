@@ -17,13 +17,14 @@ related_en: "[[Animals/Eagle|Eagle (EN)]]"
 **Velocidad:** 3 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 6 | -2 | -2 |
-| DES | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| SAB | 14 | +2 | +2 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |     6 |  -2 |   -2 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |     7 |  -2 |   -2 |
+
 **Habilidades:** Percepción +6
 
 **Sentidos:** Percepción pasiva 16

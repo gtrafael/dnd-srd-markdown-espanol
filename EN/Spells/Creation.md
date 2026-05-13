@@ -3,6 +3,7 @@ aliases: ["Creation"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Creacion|Creación (Español)]]"
 ---
+
 ### Creation
 
 *Level 5 Illusion* (Sorcerer, Wizard)

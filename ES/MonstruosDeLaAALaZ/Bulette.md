@@ -17,13 +17,14 @@ related_en: "[[Monsters/Bulette|Bulette (EN)]]"
 **Velocidad:** 12 m, excavar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 11 | +0 | +0 |
-| CON | 21 | +5 | +5 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    21 |  +5 |   +5 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
+
 **Habilidades:** Percepción +6
 
 **Sentidos:** sentir vibraciones 36 m, visión en la oscuridad 18 m; Percepción pasiva 16

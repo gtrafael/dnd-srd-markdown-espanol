@@ -16,11 +16,11 @@ related_en: "[[Spells/Resurrection|Resurrection (EN)]]"
 
 **Duración:** Instantáneo
 
-Con un toque, revives a una criatura que no lleve más de un siglo muerta, que no muriera de vieja y que no fuera un muerto viviente cuando falleció. 
+Con un toque, revives a una criatura que no lleve más de un siglo muerta, que no muriera de vieja y que no fuera un muerto viviente cuando falleció.
 
-La criatura vuelve a la vida con todos sus puntos de golpe. El conjuro también neutraliza cualquier veneno que afectase a la criatura en el momento de su muerte. Este conjuro cierra todas las heridas mortales y devuelve las partes del cuerpo que falten. 
+La criatura vuelve a la vida con todos sus puntos de golpe. El conjuro también neutraliza cualquier veneno que afectase a la criatura en el momento de su muerte. Este conjuro cierra todas las heridas mortales y devuelve las partes del cuerpo que falten.
 
-Regresar de entre los muertos es una experiencia complicada.El objetivo tendrä un penalizador de −4 a las pruebas con d20. Cada vez que finalice un descanso largo, el penalizador se reduce en 1 hasta desaparecer. 
+Regresar de entre los muertos es una experiencia complicada.El objetivo tendrä un penalizador de −4 a las pruebas con d20. Cada vez que finalice un descanso largo, el penalizador se reduce en 1 hasta desaparecer.
 
 Lanzar el conjuro para revivir a una criatura que lleve muerta 365 días o más te exige un gran esfuerzo. Hasta que finalices un descanso largo, no podrás volver a lanzar conjuros y tendrás desventaja en las pruebas con d20. 
 

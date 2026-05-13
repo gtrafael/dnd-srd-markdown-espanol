@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/SagaDeLaNoche|Saga de la noche (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 16 | +3 | +3 | **Wis** 14 | +2 | +2 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 16 | +3  |  +3  | **Wis** 14 | +2  |  +2  | **Cha** 16 | +3 | +3 |
 
 **Skills Deception +6, Insight +5, Perception +5, Stealth +5**
 

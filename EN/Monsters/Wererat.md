@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/HombreRata|Hombre rata (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 16 | +3 | +3 | **Con** 12 | +1 | +1 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 16 | +3  |  +3  | **Con** 12 | +1 | +1 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +4, Stealth +5**
 

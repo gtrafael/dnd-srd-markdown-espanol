@@ -3,6 +3,7 @@ aliases: ["See Invisibility"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/VerInvisibilidad|Ver invisibilidad (Español)]]"
 ---
+
 ### See Invisibility
 
 *Level 2 Divination* (Bard, Sorcerer, Wizard)

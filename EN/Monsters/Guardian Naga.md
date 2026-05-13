@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/NagaGuardiana|Naga guardiana (Español)]]"
 
 **Speed 40 ft., Climb 40 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 18 | +4 | +8 | **Con** 16 | +3 | +7 |
-| **Int** 16 | +3 | +7 | **Wis** 19 | +4 | +8 | **Cha** 18 | +4 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 18 | +4  |  +8  | **Con** 16 | +3 | +7 |
+| **Int** 16 | +3  |  +7  | **Wis** 19 | +4  |  +8  | **Cha** 18 | +4 | +8 |
 
 **Skills Arcana +11, History +11, Religion +11**
 

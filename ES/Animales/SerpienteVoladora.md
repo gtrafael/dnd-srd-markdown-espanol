@@ -17,13 +17,13 @@ related_en: "[[Animals/Flying Snake|Flying Snake (EN)]]"
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 4 | -3 | -3 |
-| DES | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |     4 |  -3 |   -3 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Sentidos:** visión ciega 3 m; Percepción pasiva 11
 

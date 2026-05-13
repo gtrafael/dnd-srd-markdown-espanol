@@ -17,13 +17,13 @@ related_en: "[[Monsters/Bronze Dragon Wyrmling|Bronze Dragon Wyrmling (EN)]]"
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 10 | +0 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 12 | +1 | +1 |
-| SAB | 11 | +0 | +2 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    10 |  +0 |   +2 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    11 |  +0 |   +2 |
+| CAR   |    15 |  +2 |   +2 |
 
 **Habilidades:** Percepción +4, Sigilo +2
 

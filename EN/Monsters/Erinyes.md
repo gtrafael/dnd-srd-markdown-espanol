@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Erinia|Erinia (Español)]]"
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 16 | +3 | +7 | **Con** 18 | +4 | +8 |
-| **Int** 14 | +2 | +2 | **Wis** 14 | +2 | +2 | **Cha** 18 | +4 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 16 | +3  |  +7  | **Con** 18 | +4 | +8 |
+| **Int** 14 | +2  |  +2  | **Wis** 14 | +2  |  +2  | **Cha** 18 | +4 | +8 |
 
 **Skills Perception +6, Persuasion +8**
 

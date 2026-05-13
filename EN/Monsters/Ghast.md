@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Ghast|Ghast (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 17 | +3 | +3 | **Con** 10 | +0 | +0 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +2 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 17 | +3  |  +3  | **Con** 10 | +0 | +0 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +2  | **Cha** 8 | −1 | −1 |
 
 **Resistances Necrotic**
 

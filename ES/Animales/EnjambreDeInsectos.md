@@ -17,13 +17,13 @@ related_en: "[[Animals/Swarm of Insects|Swarm of Insects (EN)]]"
 **Velocidad:** 6 m, trepar o volar 6 m (a elección de cada GM)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 3 | -4 | -4 |
-| DES | 13 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 1 | -5 | -5 |
-| SAB | 7 | -2 | -2 |
-| CAR | 1 | -5 | -5 |
+|-------|------:|----:|-----:|
+| FUE   |     3 |  -4 |   -4 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     7 |  -2 |   -2 |
+| CAR   |     1 |  -5 |   -5 |
 
 **Resistencias:** contundente, cortante, perforante
 

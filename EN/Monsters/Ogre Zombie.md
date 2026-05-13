@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/OgroZombi|Ogro zombi (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 6 | −2 | −2 | **Con** 18 | +4 | +4 |
-| **Int** 3 | −4 | −4 | **Wis** 6 | −2 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 6 | −2  |  −2  | **Con** 18 | +4 | +4 |
+| **Int** 3  | −4  |  −4  | **Wis** 6 | −2  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Immunities Poison; Exhaustion, Poisoned**
 

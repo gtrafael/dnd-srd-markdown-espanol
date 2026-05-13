@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Unicornio|Unicornio (Español)]]"
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 15 | +2 | +2 |
-| **Int** 11 | +0 | +0 | **Wis** 17 | +3 | +3 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 15 | +2 | +2 |
+| **Int** 11 | +0  |  +0  | **Wis** 17 | +3  |  +3  | **Cha** 16 | +3 | +3 |
 
 **Immunities Poison; Charmed, Paralyzed, Poisoned**
 

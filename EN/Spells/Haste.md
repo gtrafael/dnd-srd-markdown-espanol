@@ -3,6 +3,7 @@ aliases: ["Haste"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Acelerar|Acelerar (Español)]]"
 ---
+
 ### Haste
 
 *Level 3 Transmutation* (Sorcerer, Wizard)

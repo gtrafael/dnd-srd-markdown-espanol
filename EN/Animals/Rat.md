@@ -3,6 +3,7 @@ aliases: ["Rat"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Rata|Rata (Español)]]"
 ---
+
 ## Rat
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Rata|Rata (Español)]]"
 
 **Speed 20 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 11 | +0 | +0 | **Con** 9 | −1 | −1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 11 | +0  |  +0  | **Con** 9 | −1 | −1 |
+| **Int** 2 | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +2**
 

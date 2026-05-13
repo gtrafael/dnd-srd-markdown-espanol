@@ -17,13 +17,13 @@ related_en: "[[Animals/Swarm of Bats|Swarm of Bats (EN)]]"
 **Velocidad:** 1,5 m, volar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 5 | -3 | -3 |
-| DES | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 4 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |     5 |  -3 |   -3 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     4 |  -3 |   -3 |
 
 **Resistencias:** contundente, cortante, perforante
 

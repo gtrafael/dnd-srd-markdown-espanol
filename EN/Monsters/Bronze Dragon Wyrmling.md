@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonDeBronce|Cría de dragón de bronc
 
 **Speed 30 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 10 | +0 | +2 | **Con** 15 | +2 | +2 |
-| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +2 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 10 | +0  |  +2  | **Con** 15 | +2 | +2 |
+| **Int** 12 | +1  |  +1  | **Wis** 11 | +0  |  +2  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +4, Stealth +2**
 

@@ -3,6 +3,7 @@ aliases: ["Banishment"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Destierro|Destierro (Español)]]"
 ---
+
 ### Banishment
 
 *Level 4 Abjuration* (Cleric, Paladin, Sorcerer, Warlock, Wizard)

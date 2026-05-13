@@ -3,6 +3,7 @@ aliases: ["Contact Other Plane"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ContactarConOtroPlano|Contactar con otro plano (Español)]]"
 ---
+
 ### Contact Other Plane
 
 *Level 5 Divination* (Warlock, Wizard)

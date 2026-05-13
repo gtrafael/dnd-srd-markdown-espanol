@@ -16,9 +16,9 @@ related_en: "[[Spells/Shatter|Shatter (EN)]]"
 
 **Duración:** Instantáneo
 
-Un fuerte ruido surge de un punto de tu elección dentro del alcance. Todas las criaturas situadas en una esfera de 3 m de radio centrada en ese punto hacen una tirada de salvación de Constitución; sufrirán 3d8 de daño de trueno si la fallan o la mitad del daño si la superan. Los autómatas tienen desventaja en esta tirada. 
+Un fuerte ruido surge de un punto de tu elección dentro del alcance. Todas las criaturas situadas en una esfera de 3 m de radio centrada en ese punto hacen una tirada de salvación de Constitución; sufrirán 3d8 de daño de trueno si la fallan o la mitad del daño si la superan. Los autómatas tienen desventaja en esta tirada.
 
-Los objetos no mágicos que se encuentren dentro del área del conjuro también recibirán el daño, salvo si los lleva o viste una criatura. 
+Los objetos no mágicos que se encuentren dentro del área del conjuro también recibirán el daño, salvo si los lleva o viste una criatura.
 
 **Con un espacio de conjuro de nivel superior.**
 

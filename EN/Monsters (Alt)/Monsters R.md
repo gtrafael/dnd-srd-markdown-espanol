@@ -8,11 +8,10 @@
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 17 | +3 | +3 | **Con** 18 | +4 | +4 |
-| **Int** 13 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 17 | +3  |  +3  | **Con** 18 | +4 | +4 |
+| **Int** 13 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 20 | +5 | +5 |
 
 **Skills Deception +10, Insight +8, Perception +8**
 
@@ -52,11 +51,10 @@ Spellcasting. The rakshasa casts one of the following spells, requiring no Mater
 
 **Speed 30 ft., Climb 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +2 | **Con** 17 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +2 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 10 | +0  |  +2  | **Con** 17 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 11 | +0  |  +2  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +4, Stealth +2**
 
@@ -84,11 +82,10 @@ Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage plus 
 
 **Speed 40 ft., Burrow 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 24 | +7 | +7 | **Dex** 13 | +1 | +1 | **Con** 21 | +5 | +5 |
-| **Int** 4 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 24 | +7  |  +7  | **Dex** 13 | +1  |  +1  | **Con** 21 | +5 | +5 |
+| **Int** 4  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Immunities Cold, Fire**
 
@@ -120,11 +117,10 @@ Swallow. Strength Saving Throw: DC 19, one Large or smaller creature Grappled by
 
 **Speed 20 ft., Fly 120 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 28 | +9 | +9 | **Dex** 10 | +0 | +4 | **Con** 20 | +5 | +5 |
-| **Int** 3 | −4 | −4 | **Wis** 10 | +0 | +4 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 28 | +9  |  +9  | **Dex** 10 | +0  |  +4  | **Con** 20 | +5 | +5 |
+| **Int** 3  | −4  |  −4  | **Wis** 10 | +0  |  +4  | **Cha** 9 | −1 | −1 |
 
 **Skills Perception +8**
 
@@ -156,11 +152,10 @@ Swoop (Recharge 5–6). If the roc has a creature Grappled, the roc flies up to 
 
 **Speed 10 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 17 | +3 | +3 |
-| **Int** 7 | −2 | −2 | **Wis** 16 | +3 | +3 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 8  | −1  |  −1  | **Con** 17 | +3 | +3 |
+| **Int** 7  | −2  |  −2  | **Wis** 16 | +3  |  +3  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +6, Stealth +5**
 
@@ -198,11 +193,10 @@ Reel. The roper pulls each creature Grappled by it up to 30 feet straight toward
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 12 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 12 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Darkvision 60 ft.; Passive Perception 11**
 

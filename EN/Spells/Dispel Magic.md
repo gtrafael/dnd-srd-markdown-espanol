@@ -3,6 +3,7 @@ aliases: ["Dispel Magic"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DisiparMagia|Disipar magia (Español)]]"
 ---
+
 ### Dispel Magic
 
 *Level 3 Abjuration* (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)

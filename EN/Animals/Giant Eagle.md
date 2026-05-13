@@ -3,6 +3,7 @@ aliases: ["Giant Eagle"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/AguilaGigante|Águila gigante (Español)]]"
 ---
+
 ## Giant Eagle
 
 *Large Celestial, Neutral Good*
@@ -13,11 +14,10 @@ related_es: "[[Animales/AguilaGigante|Águila gigante (Español)]]"
 
 **Speed 10 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 8 | −1 | −1 | **Wis** 14 | +2 | +2 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 17 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 8  | −1  |  −1  | **Wis** 14 | +2  |  +2  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +6**
 

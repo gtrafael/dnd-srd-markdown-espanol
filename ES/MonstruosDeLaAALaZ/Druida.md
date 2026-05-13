@@ -17,13 +17,13 @@ related_en: "[[Monsters/Druid|Druid (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 12 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 12 | +1 | +1 |
-| SAB | 16 | +3 | +3 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    16 |  +3 |   +3 |
+| CAR   |    11 |  +0 |   +0 |
 
 **Habilidades:** Medicina +5, Naturaleza +3, Percepción +5
 

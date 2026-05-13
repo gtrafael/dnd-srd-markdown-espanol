@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Sacerdote|Sacerdote (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 10 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 13 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 10 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 13 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 13 | +1 | +1 |
 
 **Skills Medicine +7, Perception +5, Religion +5**
 

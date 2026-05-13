@@ -17,13 +17,13 @@ related_en: "[[Animals/Goat|Goat (EN)]]"
 **Velocidad:** 12 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 11 | +0 | +2 |
-| DES | 10 | +0 | +0 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    11 |  +0 |   +2 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Habilidades:** Percepción +2
 

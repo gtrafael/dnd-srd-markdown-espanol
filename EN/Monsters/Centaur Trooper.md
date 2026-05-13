@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/SoldadoCentauro|Soldado centauro (Español)]]"
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 9 | −1 | −1 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 9  | −1  |  −1  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Athletics +6, Perception +3**
 

@@ -8,11 +8,10 @@
 
 **Speed 30 ft., Burrow 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 20 | +5 | +5 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 8  | −1  |  −1  | **Con** 20 | +5 | +5 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 Vulnerabilities Thunder Immunities Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
 
@@ -48,11 +47,10 @@ Rock Launch. Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning d
 
 **Speed 40 ft., Fly 60 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 12 | +1 | +1 | **Con** 24 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +6 | **Cha** 19 | +4 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 12 | +1  |  +1  | **Con** 24 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +6  | **Cha** 19 | +4 | +8 |
 
 **Immunities Fire**
 
@@ -96,11 +94,10 @@ Spellcasting. The efreeti casts one of the following spells, requiring no Materi
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 16 | +3 | +7 | **Con** 18 | +4 | +8 |
-| **Int** 14 | +2 | +2 | **Wis** 14 | +2 | +2 | **Cha** 18 | +4 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 16 | +3  |  +7  | **Con** 18 | +4 | +8 |
+| **Int** 14 | +2  |  +2  | **Wis** 14 | +2  |  +2  | **Cha** 18 | +4 | +8 |
 
 **Skills Perception +6, Persuasion +8**
 
@@ -146,11 +143,10 @@ Parry. Trigger: The erinyes is hit by a melee attack roll while holding a weapon
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 15 | +2 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 7 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 15 | +2  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 7  | −2  |  −2  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +3, Stealth +4, Survival +3**
 
@@ -190,11 +186,10 @@ Reel. The ettercap pulls one creature within 30 feet of itself that is Restraine
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 17 | +3 | +3 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 8  | −1  |  −1  | **Con** 17 | +3 | +3 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +4**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonNegroJoven|Dragón negro joven (Español
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 14 | +2 | +5 | **Con** 17 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +3 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 14 | +2  |  +5  | **Con** 17 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 11 | +0  |  +3  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +6, Stealth +5**
 

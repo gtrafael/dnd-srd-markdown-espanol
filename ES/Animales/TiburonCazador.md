@@ -17,13 +17,14 @@ related_en: "[[Animals/Hunter Shark|Hunter Shark (EN)]]"
 **Velocidad:** 1,5 m, nadar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 14 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 1 | -5 | -5 |
-| SAB | 10 | +0 | +0 |
-| CAR | 4 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     4 |  -3 |   -3 |
+
 **Habilidades:** Percepción +2
 
 **Sentidos:** visión ciega 18 m; Percepción pasiva 12

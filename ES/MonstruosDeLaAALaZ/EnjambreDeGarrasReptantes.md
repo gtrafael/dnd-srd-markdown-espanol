@@ -17,13 +17,14 @@ related_en: "[[Monsters/Swarm of Crawling Claws|Swarm of Crawling Claws (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 5 | -3 | -3 |
-| SAB | 10 | +0 | +0 |
-| CAR | 4 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     4 |  -3 |   -3 |
+
 **Resistencias:** contundente, cortante, perforante
 
 **Inmunidades:** necrótico, veneno; agarrado, apresado, asustado, aturdido, cansancio, derribado, envenenado, hechizado, incapacitado, paralizado, petrificado

@@ -3,6 +3,7 @@ aliases: ["Passwall"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Pasamuros|Pasamuros (Español)]]"
 ---
+
 ### Passwall
 
 *Level 5 Transmutation* (Wizard)

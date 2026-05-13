@@ -3,6 +3,7 @@ aliases: ["Seeming"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Apariencia|Apariencia (Español)]]"
 ---
+
 ### Seeming
 
 *Level 5 Illusion* (Bard, Sorcerer, Wizard)

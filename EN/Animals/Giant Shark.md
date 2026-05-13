@@ -3,6 +3,7 @@ aliases: ["Giant Shark"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TiburonGigante|Tiburón gigante (Español)]]"
 ---
+
 ## Giant Shark
 
 *Huge Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/TiburonGigante|Tiburón gigante (Español)]]"
 
 **Speed 5 ft., Swim 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 11 | +0 | +0 | **Con** 21 | +5 | +5 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 11 | +0  |  +0  | **Con** 21 | +5 | +5 |
+| **Int** 1  | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +3**
 

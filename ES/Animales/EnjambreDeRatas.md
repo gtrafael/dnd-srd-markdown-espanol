@@ -17,13 +17,13 @@ related_en: "[[Animals/Swarm of Rats|Swarm of Rats (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 9 | -1 | -1 |
-| DES | 11 | +0 | +2 |
-| CON | 9 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |     9 |  -1 |   -1 |
+| DES   |    11 |  +0 |   +2 |
+| CON   |     9 |  -1 |   -1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Resistencias:** contundente, cortante, perforante
 

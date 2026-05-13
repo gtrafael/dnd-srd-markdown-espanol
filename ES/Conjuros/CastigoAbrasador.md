@@ -16,9 +16,9 @@ related_en: "[[Spells/Searing Smite|Searing Smite (EN)]]"
 
 **Duración:** 1 minuto
 
-Al golpear al objetivo, sufre 1d6 de daño de fuego adicional del ataque. Al principio de cada uno de sus turnos hasta que el conjuro termine, el objetivo sufrirá 1d6 de daño de fuego y luego hará una tirada de salvación de Constitución. Si la falla, el conjuro seguirá activo. Si la supera, el conjuro terminará. 
+Al golpear al objetivo, sufre 1d6 de daño de fuego adicional del ataque. Al principio de cada uno de sus turnos hasta que el conjuro termine, el objetivo sufrirá 1d6 de daño de fuego y luego hará una tirada de salvación de Constitución. Si la falla, el conjuro seguirá activo. Si la supera, el conjuro terminará.
 
-**Con un espacio de conjuro de nivel superior.** 
+**Con un espacio de conjuro de nivel superior.**
 
 Todo el daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio. 
 

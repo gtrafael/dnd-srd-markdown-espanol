@@ -17,13 +17,13 @@ related_en: "[[Animals/Rhinoceros|Rhinoceros (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 21 | +5 | +5 |
-| DES | 8 | -1 | -1 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    21 |  +5 |   +5 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Sentidos:** Percepción pasiva 11
 

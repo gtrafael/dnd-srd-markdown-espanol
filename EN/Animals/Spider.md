@@ -3,6 +3,7 @@ aliases: ["Spider"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Arana|Araña (Español)]]"
 ---
+
 ## Spider
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Arana|Araña (Español)]]"
 
 **Speed 20 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 14 | +2 | +2 | **Con** 8 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 14 | +2  |  +2  | **Con** 8 | −1 | −1 |
+| **Int** 1 | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 2 | −4 | −4 |
 
 **Skills Stealth +4**
 

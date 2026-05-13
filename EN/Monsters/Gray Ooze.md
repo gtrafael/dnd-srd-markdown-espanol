@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CienoGris|Cieno gris (Español)]]"
 
 **Speed 10 ft., Climb 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 6 | −2 | −2 | **Con** 16 | +3 | +3 |
-| **Int** 1 | −5 | −5 | **Wis** 6 | −2 | −2 | **Cha** 2 | −4 | −4 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 6 | −2  |  −2  | **Con** 16 | +3 | +3 |
+| **Int** 1  | −5  |  −5  | **Wis** 6 | −2  |  −2  | **Cha** 2 | −4 | −4 |
 
 **Skills Stealth +2**
 

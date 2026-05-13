@@ -17,13 +17,13 @@ related_en: "[[Monsters/Young Bronze Dragon|Young Bronze Dragon (EN)]]"
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 21 | +5 | +5 |
-| DES | 10 | +0 | +3 |
-| CON | 19 | +4 | +4 |
-| INT | 14 | +2 | +2 |
-| SAB | 13 | +1 | +4 |
-| CAR | 17 | +3 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    21 |  +5 |   +5 |
+| DES   |    10 |  +0 |   +3 |
+| CON   |    19 |  +4 |   +4 |
+| INT   |    14 |  +2 |   +2 |
+| SAB   |    13 |  +1 |   +4 |
+| CAR   |    17 |  +3 |   +3 |
 
 **Habilidades:** Percepción +7, Perspicacia +4, Sigilo +3
 

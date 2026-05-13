@@ -3,6 +3,7 @@ aliases: ["Revivify"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Revivir|Revivir (Español)]]"
 ---
+
 ### Revivify
 
 *Level 3 Necromancy* (Cleric, Druid, Paladin, Ranger)

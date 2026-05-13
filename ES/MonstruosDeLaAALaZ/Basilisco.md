@@ -17,13 +17,13 @@ related_en: "[[Monsters/Basilisk|Basilisk (EN)]]"
 **Velocidad:** 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 8 | -1 | -1 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| SAB | 8 | -1 | -1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 9
 

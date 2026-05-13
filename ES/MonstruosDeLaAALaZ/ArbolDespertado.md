@@ -15,13 +15,14 @@ related_en: "[[Monsters/Awakened Tree|Awakened Tree (EN)]]"
 **Velocidad:** 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 6 | -2 | -2 |
-| CON | 15 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |     6 |  -2 |   -2 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     7 |  -2 |   -2 |
+
 **Vulnerabilidades:** fuego
 
 **Resistencias:** contundente, perforante

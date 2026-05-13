@@ -6,13 +6,11 @@ related_en: "[[Equipment/Coinage|Coinage (EN)]]"
 
 # Monedas
 
-Los personajes suelen encontrar monedas durante sus aventuras y pueden gastarlas en tiendas, tabernas y otros negocios. Las monedas tienen distintas denominaciones, que se basan en el valor relativo de sus materiales. La tabla “Valores de monedas” recoge las monedas y lo que valen en relación con la pieza de oro, que es la moneda principal del juego. Por ejemplo, 100 piezas de cobre equivalen a 1 pieza de oro. 
+Los personajes suelen encontrar monedas durante sus aventuras y pueden gastarlas en tiendas, tabernas y otros negocios. Las monedas tienen distintas denominaciones, que se basan en el valor relativo de sus materiales. La tabla “Valores de monedas” recoge las monedas y lo que valen en relación con la pieza de oro, que es la moneda principal del juego. Por ejemplo, 100 piezas de cobre equivalen a 1 pieza de oro.
 
-Una moneda pesa aproximadamente 10 g, por lo que 50 monedas pesan 0,5 kg. 
-
+Una moneda pesa aproximadamente 10 g, por lo que 50 monedas pesan 0,5 kg.
 
 Valores de monedas
-
 
 | Moneda                 | Valor en po |
 |------------------------|-------------|

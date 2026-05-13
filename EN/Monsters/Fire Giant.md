@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GiganteDeFuego|Gigante de fuego (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 25 | +7 | +7 | **Dex** 9 | −1 | +3 | **Con** 23 | +6 | +10 |
-| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +2 | **Cha** 13 | +1 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 25 | +7  |  +7  | **Dex** 9  | −1  |  +3  | **Con** 23 | +6 | +10 |
+| **Int** 10 | +0  |  +0  | **Wis** 14 | +2  |  +2  | **Cha** 13 | +1 | +5 |
 
 **Skills Athletics +11, Perception +6**
 

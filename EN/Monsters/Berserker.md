@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Berserker|Berserker (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 17 | +3 | +3 |
-| **Int** 9 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 17 | +3 | +3 |
+| **Int** 9  | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 9 | −1 | −1 |
 
 **Gear Greataxe, Hide Armor**
 

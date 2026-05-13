@@ -3,6 +3,7 @@ aliases: ["Mind Blank"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/MenteEnBlanco|Mente en blanco (Español)]]"
 ---
+
 ### Mind Blank
 
 *Level 8 Abjuration* (Bard, Wizard)

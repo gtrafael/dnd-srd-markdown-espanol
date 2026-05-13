@@ -3,24 +3,25 @@ aliases: ["Combat"]
 tags: [srd, english, tag_gameplay]
 related_es: "[[ComoJugar/Combate|Combate (Español)]]"
 ---
+
 # Actions
 
 When you do something other than moving or communicating, you typically take an action. The Action table lists the game's main actions, which are defined in more detail in "Rules Glossary."
 
-| Action | Summary |
-|---|---|
-| Attack | Attack with a weapon or an Unarmed Strike. |
-| Dash | For the rest of the turn, give yourself extra movement equal to your Speed. |
-| Disengage | Your movement doesn't provoke Opportunity Attacks for the rest of the turn. |
-| Dodge | Until the start of your next turn, attack rolls against you have Disadvantage, and you make Dexterity saving throws with Advantage. You lose this benefit if you have the Incapacitated condition or if your Speed is 0. |
-| Help | Help another creature's ability check or attack roll, or administer first aid. |
-| Hide | Make a Dexterity (Stealth) check. |
-| Influence | Make a Charisma (Deception, Intimidation, Performance, or Persuasion) or Wisdom (Animal Handling) check to alter a creature's attitude. |
-| Magic | Cast a spell, use a magic item, or use a magical feature. |
-| Ready | Prepare to take an action in response to a trigger you define. |
-| Search | Make a Wisdom (Insight, Medicine, Perception, or Survival) check. |
-| Study | Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check. |
-| Utilize | Use a nonmagical object. |
+| Action    | Summary                                                                                                                                                                                                                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Attack    | Attack with a weapon or an Unarmed Strike.                                                                                                                                                                               |
+| Dash      | For the rest of the turn, give yourself extra movement equal to your Speed.                                                                                                                                              |
+| Disengage | Your movement doesn't provoke Opportunity Attacks for the rest of the turn.                                                                                                                                              |
+| Dodge     | Until the start of your next turn, attack rolls against you have Disadvantage, and you make Dexterity saving throws with Advantage. You lose this benefit if you have the Incapacitated condition or if your Speed is 0. |
+| Help      | Help another creature's ability check or attack roll, or administer first aid.                                                                                                                                           |
+| Hide      | Make a Dexterity (Stealth) check.                                                                                                                                                                                        |
+| Influence | Make a Charisma (Deception, Intimidation, Performance, or Persuasion) or Wisdom (Animal Handling) check to alter a creature's attitude.                                                                                  |
+| Magic     | Cast a spell, use a magic item, or use a magical feature.                                                                                                                                                                |
+| Ready     | Prepare to take an action in response to a trigger you define.                                                                                                                                                           |
+| Search    | Make a Wisdom (Insight, Medicine, Perception, or Survival) check.                                                                                                                                                        |
+| Study     | Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check.                                                                                                                                        |
+| Utilize   | Use a nonmagical object.                                                                                                                                                                                                 |
 
 Player characters and monsters can also do things not covered by these actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Game Master tells you whether that action is possible and what kind of D20 Test you need to make, if any.
 
@@ -124,13 +125,13 @@ A creature belongs to a size category, which determines the width of the square 
 
 A character's size is determined by species, and a monster's size is specified in the monster's stat block.
 
-| Size | Space (Feet) | Space (Squares) |
-|---|---|---|
-| Tiny | 2½ by 2½ feet | 4 per square |
-| Small | 5 by 5 feet | 1 square |
-| Medium | 5 by 5 feet | 1 square |
-| Large | 10 by 10 feet | 4 squares (2 by 2) |
-| Huge | 15 by 15 feet | 9 squares (3 by 3) |
+| Size       | Space (Feet)  | Space (Squares)     |
+|------------|---------------|---------------------|
+| Tiny       | 2½ by 2½ feet | 4 per square        |
+| Small      | 5 by 5 feet   | 1 square            |
+| Medium     | 5 by 5 feet   | 1 square            |
+| Large      | 10 by 10 feet | 4 squares (2 by 2)  |
+| Huge       | 15 by 15 feet | 9 squares (3 by 3)  |
 | Gargantuan | 20 by 20 feet | 16 squares (4 by 4) |
 
 ### Moving around Other Creatures
@@ -163,11 +164,11 @@ Walls, trees, creatures, and other obstacles can provide cover, making a target 
 
 A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives Half Cover and a tree trunk that gives Three-Quarters Cover, the target has Three-Quarters Cover.
 
-| Degree | Benefit to Target | Offered By ... |
-|---|---|---|
-| Half | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
-| Three-Quarters | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
-| Total | Can't be targeted directly | An object that covers the whole target |
+| Degree         | Benefit to Target                          | Offered By ...                                                        |
+|----------------|--------------------------------------------|-----------------------------------------------------------------------|
+| Half           | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
+| Three-Quarters | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target           |
+| Total          | Can't be targeted directly                 | An object that covers the whole target                                |
 
 ## Ranged Attacks
 

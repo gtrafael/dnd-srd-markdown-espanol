@@ -3,6 +3,7 @@ aliases: ["Arcane Lock"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CerraduraArcana|Cerradura arcana (Español)]]"
 ---
+
 ### Arcane Lock
 
 *Level 2 Abjuration* (Wizard)

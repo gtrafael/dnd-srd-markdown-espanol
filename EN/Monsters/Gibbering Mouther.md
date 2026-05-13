@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/BoconBarbotante|Bocón barbotante (Español)]]
 
 **Speed 20 ft., Swim 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
-| **Int** 3 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 8  | −1  |  −1  | **Con** 16 | +3 | +3 |
+| **Int** 3  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Immunities Prone**
 

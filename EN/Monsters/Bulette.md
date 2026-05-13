@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Bulette|Bulette (Español)]]"
 
 **Speed 40 ft., Burrow 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 21 | +5 | +5 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 11 | +0  |  +0  | **Con** 21 | +5 | +5 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +6**
 

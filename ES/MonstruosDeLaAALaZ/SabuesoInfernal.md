@@ -17,13 +17,13 @@ related_en: "[[Monsters/Hell Hound|Hell Hound (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 12 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| SAB | 13 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |     6 |  -2 |   -2 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Percepción +5
 

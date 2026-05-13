@@ -8,11 +8,10 @@
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 14 | +2 | +7 | **Con** 18 | +4 | +9 |
-| **Int** 18 | +4 | +4 | **Wis** 15 | +2 | +7 | **Cha** 18 | +4 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 14 | +2  |  +7  | **Con** 18 | +4 | +9 |
+| **Int** 18 | +4  |  +4  | **Wis** 15 | +2  |  +7  | **Cha** 18 | +4 | +9 |
 
 **Skills Insight +7, Perception +7, Persuasion +9**
 
@@ -52,11 +51,10 @@ Ice Wall (Recharge 6). The devil casts Wall of Ice (level 8 version), requiring 
 
 **Speed 30 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 7 | −2 | −2 | **Dex** 13 | +1 | +1 | **Con** 10 | +0 | +0 |
-| **Int** 9 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 12 | +1 | +1 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 7 | −2  |  −2  | **Dex** 13 | +1  |  +1  | **Con** 10 | +0 | +0 |
+| **Int** 9 | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +2, Stealth +3**
 
@@ -98,11 +96,10 @@ Cold damage. Success: Half damage.
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6  | −2  |  −2  | **Dex** 17 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 14 | +2 | +2 |
 
 **Skills Deception +4, Insight +3, Stealth +5**
 
@@ -138,11 +135,10 @@ Invisibility. The imp casts Invisibility on itself, requiring no spell component
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 15 | +2 | +2 | **Wis** 12 | +1 | +1 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8  | −1  |  −1  | **Dex** 17 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 15 | +2  |  +2  | **Wis** 12 | +1  |  +1  | **Cha** 20 | +5 | +5 |
 
 **Skills Deception +9, Insight +5, Perception +5, Persuasion**
 
@@ -186,11 +182,10 @@ Psychic damage. Invisible Stalker
 
 **Speed 50 ft., Fly 50 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 19 | +4 | +4 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 15 | +2 | +2 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 19 | +4  |  +4  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 15 | +2  |  +2  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +8, Stealth +10**
 
@@ -230,11 +225,10 @@ Vortex. Constitution Saving Throw: DC 14, one Large or smaller creature in the s
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 24 | +7 | +7 | **Dex** 9 | −1 | −1 | **Con** 20 | +5 | +5 |
-| **Int** 3 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 24 | +7  |  +7  | **Dex** 9  | −1  |  −1  | **Con** 20 | +5 | +5 |
+| **Int** 3  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 1 | −5 | −5 |
 
 **Immunities Fire, Poison, Psychic; Charmed, Exhaustion,**
 

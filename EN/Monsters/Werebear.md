@@ -16,11 +16,10 @@ related_es: "[[MonstruosDeLaAALaZ/HombreOso|Hombre oso (Español)]]"
 
 form only)
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 17 | +3 | +3 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 17 | +3 | +3 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +7**
 

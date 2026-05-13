@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/ArbustoDespertado|Arbusto despertado (Español
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 8 | −1 | −1 | **Con** 11 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3  | −4  |  −4  | **Dex** 8  | −1  |  −1  | **Con** 11 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 Vulnerabilities Fire Resistances Piercing Senses Passive Perception 10 Languages Common plus one other language
 

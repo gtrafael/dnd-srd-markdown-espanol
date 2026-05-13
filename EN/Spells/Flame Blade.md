@@ -3,6 +3,7 @@ aliases: ["Flame Blade"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/HojaDeFuego|Hoja de fuego (Español)]]"
 ---
+
 ### Flame Blade
 
 *Level 2 Evocation* (Druid, Sorcerer)

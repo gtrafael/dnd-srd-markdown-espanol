@@ -17,13 +17,14 @@ related_en: "[[Animals/Deer|Deer (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 11 | +0 | +0 |
-| DES | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 14 | +2 | +2 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    11 |  +0 |   +0 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |     5 |  -3 |   -3 |
+
 **Habilidades:** Percepción +4
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 14

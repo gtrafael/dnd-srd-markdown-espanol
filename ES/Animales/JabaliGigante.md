@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Boar|Giant Boar (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +5 |
-| DES | 10 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| SAB | 7 | -2 | -2 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +5 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |     7 |  -2 |   -2 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Sentidos:** Percepción pasiva 8
 

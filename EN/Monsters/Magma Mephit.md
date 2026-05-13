@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/MephitDeMagma|Mephit de magma (Español)]]"
 
 **Speed 30 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8 | −1  |  −1  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 7 | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Stealth +3**
 

@@ -16,15 +16,15 @@ related_en: "[[Spells/Conjure Celestial|Conjure Celestial (EN)]]"
 
 **Duración:** Concentración, hasta 10 minutos
 
-Conjuras un espíritu de los Planos Superiores, que se manifiesta como un pilar de luz de 3 m de radio y 12 m de alto centrado en un punto dentro del alcance. Por cada criatura que puedas ver en el cilindro, elige qué tipo de luz brilla sobre ella: 
+Conjuras un espíritu de los Planos Superiores, que se manifiesta como un pilar de luz de 3 m de radio y 12 m de alto centrado en un punto dentro del alcance. Por cada criatura que puedas ver en el cilindro, elige qué tipo de luz brilla sobre ella:
 
-Luz abrasadora. vación de Destreza; sufrirá 6d12 de daño radiante si la falla o la mitad del daño si la supera. 
+Luz abrasadora. vación de Destreza; sufrirá 6d12 de daño radiante si la falla o la mitad del daño si la supera.
 
-Luz sanadora. El objetivo recupera una cantidad de puntos de golpe igual a 4d12 más tu modificador por aptitud mágica. 
+Luz sanadora. El objetivo recupera una cantidad de puntos de golpe igual a 4d12 más tu modificador por aptitud mágica.
 
-Hasta que el conjuro termine, una luz brillante llena el cilindro y, cuando te muevas en tu turno, también puedes mover el cilindro hasta 9 m. 
+Hasta que el conjuro termine, una luz brillante llena el cilindro y, cuando te muevas en tu turno, también puedes mover el cilindro hasta 9 m.
 
-Siempre que el cilindro entre en el espacio de una criatura que puedas ver y siempre que una criatura que puedas ver entre en el cilindro o termine su turno en él, puedes bañar a la criatura con una de las luces. Una criatura puede verse afectada por este conjuro solo una vez por turno. 
+Siempre que el cilindro entre en el espacio de una criatura que puedas ver y siempre que una criatura que puedas ver entre en el cilindro o termine su turno en él, puedes bañar a la criatura con una de las luces. Una criatura puede verse afectada por este conjuro solo una vez por turno.
 
 **Con un espacio de conjuro de nivel superior.**
 

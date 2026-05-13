@@ -3,6 +3,7 @@ aliases: ["Detect Magic"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DetectarMagia|Detectar magia (Español)]]"
 ---
+
 ### Detect Magic
 
 *Level 1 Divination* (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)

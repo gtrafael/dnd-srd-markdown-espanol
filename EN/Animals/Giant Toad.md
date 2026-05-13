@@ -3,6 +3,7 @@ aliases: ["Giant Toad"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/SapoGigante|Sapo gigante (Español)]]"
 ---
+
 ## Giant Toad
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/SapoGigante|Sapo gigante (Español)]]"
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 13 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 13 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Senses Darkvision 60 ft.; Passive Perception 10**
 

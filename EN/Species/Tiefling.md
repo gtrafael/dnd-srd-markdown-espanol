@@ -24,10 +24,10 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 ### Fiendish Legacies
 
-| Legacy | Level 1 | Level 3 | Level 5 |
-|--------|---------|---------|---------|
-| Abyssal | You have Resistance to Poison damage. You also know the Poison Spray cantrip. | Ray of Sickness | Hold Person |
-| Chthonic | You have Resistance to Necrotic damage. You also know the Chill Touch cantrip. | False Life | Ray of Enfeeblement |
-| Infernal | You have Resistance to Fire damage. You also know the Fire Bolt cantrip. | Hellish Rebuke | Darkness |
+| Legacy   | Level 1                                                                        | Level 3         | Level 5             |
+|----------|--------------------------------------------------------------------------------|-----------------|---------------------|
+| Abyssal  | You have Resistance to Poison damage. You also know the Poison Spray cantrip.  | Ray of Sickness | Hold Person         |
+| Chthonic | You have Resistance to Necrotic damage. You also know the Chill Touch cantrip. | False Life      | Ray of Enfeeblement |
+| Infernal | You have Resistance to Fire damage. You also know the Fire Bolt cantrip.       | Hellish Rebuke  | Darkness            |
 
 ***Otherworldly Presence.*** You know the Thaumaturgy cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy trait.

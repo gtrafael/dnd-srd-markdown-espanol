@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CuboGelatinoso|Cubo gelatinoso (Español)]]"
 
 **Speed 15 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 3 | −4 | −4 | **Con** 20 | +5 | +5 |
-| **Int** 1 | −5 | −5 | **Wis** 6 | −2 | −2 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 3 | −4  |  −4  | **Con** 20 | +5 | +5 |
+| **Int** 1  | −5  |  −5  | **Wis** 6 | −2  |  −2  | **Cha** 1 | −5 | −5 |
 
 **Immunities Acid; Blinded, Charmed, Deafened,**
 

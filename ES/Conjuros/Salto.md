@@ -16,9 +16,9 @@ related_en: "[[Spells/Jump|Jump (EN)]]"
 
 **Duración:** 1 minuto
 
-Tocas a una criatura voluntaria. Una vez en cada uno de sus turnos hasta que el conjuro termine, la criatura puede saltar hasta 9 m usando 3 m de movimiento. 
+Tocas a una criatura voluntaria. Una vez en cada uno de sus turnos hasta que el conjuro termine, la criatura puede saltar hasta 9 m usando 3 m de movimiento.
 
-**Con un espacio de conjuro de nivel superior.** 
+**Con un espacio de conjuro de nivel superior.**
 
 Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio. 
 

@@ -3,6 +3,7 @@ aliases: ["Vulture"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Buitre|Buitre (Español)]]"
 ---
+
 ## Vulture
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Buitre|Buitre (Español)]]"
 
 **Speed 10 ft., Fly 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 7 | −2 | −2 | **Dex** 10 | +0 | +0 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 4 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 7 | −2  |  −2  | **Dex** 10 | +0  |  +0  | **Con** 13 | +1 | +1 |
+| **Int** 2 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +3**
 

@@ -34,9 +34,7 @@ Dificultad alta. Un encuentro de dificultad alta podría resultar letal para uno
 
 Mediante la tabla “Presupuesto de PX por personaje”, comprueba el nivel del grupo y la dificultad deseada para el encuentro. Multiplica la cifra de la tabla por el número de personajes que componen el grupo para obtener tu presupuesto de PX para el encuentro.
 
-
 Presupuesto de PX por personaje
-
 
 | Nivel del grupo | Baja | Moderada | Alta   |
 |----------------:|------|----------|--------|

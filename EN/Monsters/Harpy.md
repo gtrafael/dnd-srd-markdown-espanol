@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Arpia|Arpía (Español)]]"
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 13 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 13 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 7  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 13 | +1 | +1 |
 
 **Senses Passive Perception 10**
 

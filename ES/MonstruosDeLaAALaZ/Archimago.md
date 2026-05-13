@@ -17,13 +17,13 @@ related_en: "[[Monsters/Archmage|Archmage (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 20 | +5 | +9 |
-| SAB | 15 | +2 | +6 |
-| CAR | 16 | +3 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    20 |  +5 |   +9 |
+| SAB   |    15 |  +2 |   +6 |
+| CAR   |    16 |  +3 |   +3 |
 
 **Habilidades:** Conocimiento arcano +13, Historia +9, Percepción +6
 

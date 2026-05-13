@@ -13,16 +13,16 @@ Si el conjuro está en tu lista de conjuros pero es de un nivel superior que no 
 
 El nivel del conjuro del pergamino determina la CD de las tiradas de salvación y el bonificador de ataque del conjuro, además de la rareza del pergamino, como se indica en la siguiente tabla.
 
-| Nivel del conjuro | Rareza | CD de salvación | Bonificador de ataque |
-|---|---|---:|---:|
-| Truco | Común | 13 | +5 |
-| 1 | Común | 13 | +5 |
-| 2 | Infrecuente | 13 | +5 |
-| 3 | Infrecuente | 15 | +7 |
-| 4 | Raro | 15 | +7 |
-| 5 | Raro | 17 | +9 |
-| 6 | Muy raro | 17 | +9 |
-| 7 | Muy raro | 18 | +10 |
-| 8 | Muy raro | 18 | +10 |
-| 9 | Legendario | 19 | +11 |
+| Nivel del conjuro | Rareza      | CD de salvación | Bonificador de ataque |
+|-------------------|-------------|----------------:|----------------------:|
+| Truco             | Común       |              13 |                    +5 |
+| 1                 | Común       |              13 |                    +5 |
+| 2                 | Infrecuente |              13 |                    +5 |
+| 3                 | Infrecuente |              15 |                    +7 |
+| 4                 | Raro        |              15 |                    +7 |
+| 5                 | Raro        |              17 |                    +9 |
+| 6                 | Muy raro    |              17 |                    +9 |
+| 7                 | Muy raro    |              18 |                   +10 |
+| 8                 | Muy raro    |              18 |                   +10 |
+| 9                 | Legendario  |              19 |                   +11 |
 

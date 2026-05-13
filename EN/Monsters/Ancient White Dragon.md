@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonBlancoAnciano|Dragón blanco anciano (Es
 
 **Speed 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 26 | +8 | +8 | **Dex** 10 | +0 | +6 | **Con** 26 | +8 | +8 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +7 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 26 | +8  |  +8  | **Dex** 10 | +0  |  +6  | **Con** 26 | +8 | +8 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +7  | **Cha** 18 | +4 | +4 |
 
 **Skills Perception +13, Stealth +6**
 

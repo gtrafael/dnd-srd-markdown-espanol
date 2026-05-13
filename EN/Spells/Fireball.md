@@ -3,6 +3,7 @@ aliases: ["Fireball"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/BolaDeFuego|Bola de fuego (Español)]]"
 ---
+
 ### Fireball
 
 *Level 3 Evocation* (Sorcerer, Wizard)

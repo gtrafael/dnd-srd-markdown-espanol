@@ -17,13 +17,14 @@ related_en: "[[Animals/Tyrannosaurus Rex|Tyrannosaurus Rex (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 25 | +7 | +10 |
-| DES | 10 | +0 | +0 |
-| CON | 19 | +4 | +4 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +4 |
-| CAR | 9 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    25 |  +7 |  +10 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    19 |  +4 |   +4 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +4 |
+| CAR   |     9 |  -1 |   -1 |
+
 **Habilidades:** Percepción +4
 
 **Sentidos:** Percepción pasiva 14

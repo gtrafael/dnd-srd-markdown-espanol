@@ -3,6 +3,7 @@ aliases: ["Blade Barrier"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/BarreraDeCuchillas|Barrera de cuchillas (Español)]]"
 ---
+
 ### Blade Barrier
 
 *Level 6 Evocation* (Cleric)

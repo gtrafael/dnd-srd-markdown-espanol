@@ -3,6 +3,7 @@ aliases: ["Lion"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Leon|León (Español)]]"
 ---
+
 ## Lion
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Leon|León (Español)]]"
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 15 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 15 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +3, Stealth +4**
 

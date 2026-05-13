@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Noble|Noble (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 12 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 12 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 16 | +3 | +3 |
 
 **Skills Deception +5, Insight +4, Persuasion +5**
 

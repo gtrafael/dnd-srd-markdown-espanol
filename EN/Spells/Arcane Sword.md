@@ -3,6 +3,7 @@ aliases: ["Arcane Sword"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/EspadaArcana|Espada arcana (Español)]]"
 ---
+
 ### Arcane Sword
 
 *Level 7 Evocation* (Bard, Wizard)

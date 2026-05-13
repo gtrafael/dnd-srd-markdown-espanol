@@ -17,13 +17,13 @@ related_en: "[[Monsters/Water Elemental|Water Elemental (EN)]]"
 **Velocidad:** 9 m, nadar 27 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 14 | +2 | +2 |
-| CON | 18 | — | — |
-| INT | 5 | -3 | -3 |
-| SAB | 10 | +0 | +0 |
-| CAR | 8 | — | — |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    18 |   — |    — |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     8 |   — |    — |
 
 **Resistencias:** ácido, fuego
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/JefePendenciero|Jefe pendenciero (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +5 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +5 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +5  | **Dex** 14 | +2  |  +2  | **Con** 16 | +3 | +5 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 11 | +0 | +2 |
 
 **Gear Chain Mail, Heavy Crossbow, Warhammer**
 

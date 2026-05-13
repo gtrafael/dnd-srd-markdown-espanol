@@ -3,6 +3,7 @@ aliases: ["Illusory Script"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/TextoIlusorio|Texto ilusorio (Español)]]"
 ---
+
 ### Illusory Script
 
 *Level 1 Illusion* (Bard, Warlock, Wizard)

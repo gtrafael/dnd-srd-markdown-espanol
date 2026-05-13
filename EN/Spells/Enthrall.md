@@ -3,6 +3,7 @@ aliases: ["Enthrall"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Embelesar|Embelesar (Español)]]"
 ---
+
 ### Enthrall
 
 *Level 2 Enchantment* (Bard, Warlock)

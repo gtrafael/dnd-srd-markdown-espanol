@@ -3,6 +3,7 @@ aliases: ["Raven"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Cuervo|Cuervo (Español)]]"
 ---
+
 ## Raven
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Cuervo|Cuervo (Español)]]"
 
 **Speed 10 ft., Fly 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 14 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 5 | −3 | −3 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 14 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 5 | −3  |  −3  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +3**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Merrow|Merrow (Español)]]"
 
 **Speed 10 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 15 | +2 | +2 |
-| **Int** 8 | −1 | −1 | **Wis** 10 | +0 | +0 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 15 | +2 | +2 |
+| **Int** 8  | −1  |  −1  | **Wis** 10 | +0  |  +0  | **Cha** 9 | −1 | −1 |
 
 **Senses Darkvision 60 ft.; Passive Perception 10**
 

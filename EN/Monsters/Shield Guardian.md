@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GuardianEscudo|Guardián escudo (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 18 | +4 | +4 |
-| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 8  | −1  |  −1  | **Con** 18 | +4 | +4 |
+| **Int** 7  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Immunities Poison; Charmed, Exhaustion, Frightened,**
 

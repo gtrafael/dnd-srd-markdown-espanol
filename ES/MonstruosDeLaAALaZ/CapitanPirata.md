@@ -17,13 +17,13 @@ related_en: "[[Monsters/Pirate Captain|Pirate Captain (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +3 |
-| DES | 18 | +4 | +7 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| SAB | 14 | +2 | +5 |
-| CAR | 17 | +3 | +6 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +3 |
+| DES   |    18 |  +4 |   +7 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    14 |  +2 |   +5 |
+| CAR   |    17 |  +3 |   +6 |
 
 **Habilidades:** Acrobacias +7, Percepción +5
 

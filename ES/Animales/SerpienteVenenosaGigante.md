@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Venomous Snake|Giant Venomous Snake (EN)]]"
 **Velocidad:** 12 m, nadar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 18 | +4 | +4 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    18 |  +4 |   +4 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Habilidades:** Percepción +2
 

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Adult Red Dragon|Adult Red Dragon (EN)]]"
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 27 | +8 | +8 |
-| DES | 10 | +0 | +6 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| SAB | 13 | +1 | +7 |
-| CAR | 23 | +6 | +6 |
+|-------|------:|----:|-----:|
+| FUE   |    27 |  +8 |   +8 |
+| DES   |    10 |  +0 |   +6 |
+| CON   |    25 |  +7 |   +7 |
+| INT   |    16 |  +3 |   +3 |
+| SAB   |    13 |  +1 |   +7 |
+| CAR   |    23 |  +6 |   +6 |
 
 **Habilidades:** Percepción +13, Sigilo +6
 

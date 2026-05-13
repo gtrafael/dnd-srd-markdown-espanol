@@ -3,6 +3,7 @@ aliases: ["Speak with Animals"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/HablarConLosAnimales|Hablar con los animales (Español)]]"
 ---
+
 ### Speak with Animals
 
 *Level 1 Divination* (Bard, Druid, Ranger, Warlock)

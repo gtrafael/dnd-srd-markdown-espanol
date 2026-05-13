@@ -17,13 +17,13 @@ related_en: "[[Monsters/Kobold Warrior|Kobold Warrior (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 7 | -2 | -2 |
-| DES | 15 | +2 | +2 |
-| CON | 9 | -1 | -1 |
-| INT | 8 | -1 | -1 |
-| SAB | 7 | -2 | -2 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |     7 |  -2 |   -2 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |     9 |  -1 |   -1 |
+| INT   |     8 |  -1 |   -1 |
+| SAB   |     7 |  -2 |   -2 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Equipo:** dagas (3)
 

@@ -3,6 +3,7 @@ aliases: ["Geas"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Geas|Geas (Español)]]"
 ---
+
 ### Geas
 
 *Level 5 Enchantment* (Bard, Cleric, Druid, Paladin, Wizard)

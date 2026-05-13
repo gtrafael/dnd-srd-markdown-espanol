@@ -17,13 +17,13 @@ related_en: "[[Monsters/Scout|Scout (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 11 | +0 | +0 |
-| DES | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| SAB | 13 | +1 | +1 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    11 |  +0 |   +0 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |    11 |  +0 |   +0 |
 
 **Habilidades:** Naturaleza +4, Percepción +5, Sigilo +6, Supervivencia +5
 

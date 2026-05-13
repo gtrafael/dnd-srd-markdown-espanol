@@ -3,6 +3,7 @@ aliases: ["Power Word Stun"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/PalabraDePoderAturdir|Palabra de poder_ aturdir (Español)]]"
 ---
+
 ### Power Word Stun
 
 *Level 8 Enchantment* (Bard, Sorcerer, Warlock, Wizard)

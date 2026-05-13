@@ -17,13 +17,13 @@ related_en: "[[Monsters/Troll Limb|Troll Limb (EN)]]"
 **Velocidad:** 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 12 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| SAB | 9 | -1 | -1 |
-| CAR | 1 | -5 | -5 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     9 |  -1 |   -1 |
+| CAR   |     1 |  -5 |   -5 |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 9
 

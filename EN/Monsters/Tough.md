@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Pendenciero|Pendenciero (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 12 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 11 | +0 | +0 |
 
 **Gear Heavy Crossbow, Leather Armor, Mace**
 

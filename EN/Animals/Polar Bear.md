@@ -3,6 +3,7 @@ aliases: ["Polar Bear"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/OsoPolar|Oso polar (Español)]]"
 ---
+
 ## Polar Bear
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/OsoPolar|Oso polar (Español)]]"
 
 **Speed 40 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 14 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +5, Stealth +4**
 

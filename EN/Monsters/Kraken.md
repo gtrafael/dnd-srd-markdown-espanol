@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Kraken|Kraken (Español)]]"
 
 **Speed 30 ft., Swim 120 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 30 | +10 | +17 | **Dex** 11 | +0 | +7 | **Con** 26 | +8 | +15 |
-| **Int** 22 | +6 | +6 | **Wis** 18 | +4 | +11 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 30 | +10 | +17  | **Dex** 11 | +0  |  +7  | **Con** 26 | +8 | +15 |
+| **Int** 22 | +6  |  +6  | **Wis** 18 | +4  | +11  | **Cha** 20 | +5 | +5 |
 
 **Skills History +13, Perception +11**
 

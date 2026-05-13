@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Grimlock|Grimlock (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 9 | −1 | −1 | **Wis** 8 | −1 | −1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 9  | −1  |  −1  | **Wis** 8  | −1  |  −1  | **Cha** 6 | −2 | −2 |
 
 **Skills Athletics +5, Perception +3, Stealth +5**
 

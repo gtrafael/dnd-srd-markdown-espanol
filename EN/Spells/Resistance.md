@@ -3,6 +3,7 @@ aliases: ["Resistance"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Resistencia|Resistencia (Español)]]"
 ---
+
 ### Resistance
 
 *Abjuration Cantrip* (Cleric, Druid)

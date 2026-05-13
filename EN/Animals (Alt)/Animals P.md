@@ -8,11 +8,10 @@
 
 **Speed 50 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 16 | +3 | +3 | **Con** 10 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 16 | +3  |  +3  | **Con** 10 | +0 | +0 |
+| **Int** 3  | −4  |  −4  | **Wis** 14 | +2  |  +2  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +4, Stealth +7**
 
@@ -42,11 +41,10 @@ Nimble Escape. The panther takes the Disengage or Hide action.
 
 **Speed 5 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 16 | +3 | +3 | **Con** 9 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 7 | −2 | −2 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 16 | +3  |  +3  | **Con** 9 | −1 | −1 |
+| **Int** 1 | −5  |  −5  | **Wis** 7  | −2  |  −2  | **Cha** 2 | −4 | −4 |
 
 **Senses Darkvision 60 ft.; Passive Perception 8**
 
@@ -72,11 +70,10 @@ Bite. Melee Attack Roll: +5 (with Advantage if the target doesn’t have all its
 
 **Speed 20 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +3, Stealth +4**
 
@@ -104,11 +101,10 @@ Bite. Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.
 
 **Speed 40 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 14 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +5, Stealth +4**
 
@@ -138,11 +134,10 @@ Slashing damage.
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +4 | **Dex** 10 | +0 | +0 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Senses Passive Perception 10**
 
@@ -164,11 +159,10 @@ Hooves. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
 
 **Speed 10 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 9 | −1 | −1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 9  | −1  |  −1  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +1**
 

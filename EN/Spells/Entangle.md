@@ -3,6 +3,7 @@ aliases: ["Entangle"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Enmaranar|Enmarañar (Español)]]"
 ---
+
 ### Entangle
 
 *Level 1 Conjuration* (Druid, Ranger)

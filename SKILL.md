@@ -16,10 +16,10 @@ Responde siempre en el idioma en que te hable el usuario. Para consultas en espa
 
 ## Puntos de entrada
 
-| Archivo | Propósito |
-|---|---|
+| Archivo         | Propósito                                                           |
+|-----------------|---------------------------------------------------------------------|
 | `ES/Espanol.md` | Índice principal en español — enlaza todos los índices de categoría |
-| `EN/English.md` | Main English index — links all category indexes |
+| `EN/English.md` | Main English index — links all category indexes                     |
 
 ## Estructura — Español (`ES/`)
 
@@ -27,42 +27,43 @@ Cada categoría tiene un archivo `-Index.md` que lista todos los documentos indi
 
 ### Reglas y creación de personaje
 
-| Directorio | Archivos | Contenido |
-|---|---|---|
-| `ComoJugar/` | 9 + index | Reglas básicas: acciones, combate, competencia, daño/curación, exploración, interacciones sociales, pruebas con D20, las seis características, ritmo de juego |
-| `CreacionDePersonajes/` | 6 + index | Crear personaje, progresión de niveles, multiclase, bagatelas, empezar en niveles superiores, hojas de personaje |
-| `OrigenesDePersonaje/` | 2 + index | Orígenes de personaje (trasfondos) |
-| `Dotes/` | 5 + index | Dotes (Origin, General, Fighting Style, Epic Boon) |
-| `GlosarioDeReglas/` | 20 + index | Definiciones alfabéticas de todos los términos, condiciones y reglas |
+| Directorio              | Archivos   | Contenido                                                                                                                                                     |
+|-------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ComoJugar/`            | 9 + index  | Reglas básicas: acciones, combate, competencia, daño/curación, exploración, interacciones sociales, pruebas con D20, las seis características, ritmo de juego |
+| `CreacionDePersonajes/` | 6 + index  | Crear personaje, progresión de niveles, multiclase, bagatelas, empezar en niveles superiores, hojas de personaje                                              |
+| `OrigenesDePersonaje/`  | 2 + index  | Orígenes de personaje (trasfondos)                                                                                                                            |
+| `Dotes/`                | 5 + index  | Dotes (Origin, General, Fighting Style, Epic Boon)                                                                                                            |
+| `GlosarioDeReglas/`     | 20 + index | Definiciones alfabéticas de todos los términos, condiciones y reglas                                                                                          |
 
 ### Clases
 
-| Directorio | Archivos | Contenido |
-|---|---|---|
-| `Clases/` | 12 + index | Bárbaro, Bardo, Brujo, Clérigo, Druida, Explorador, Guerrero, Hechicero, Mago, Monje, Paladín, Pícaro — cada archivo incluye tabla de rasgos, subclases y lista de conjuros |
+| Directorio | Archivos   | Contenido                                                                                                                                                                   |
+|------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Clases/`  | 12 + index | Bárbaro, Bardo, Brujo, Clérigo, Druida, Explorador, Guerrero, Hechicero, Mago, Monje, Paladín, Pícaro — cada archivo incluye tabla de rasgos, subclases y lista de conjuros |
 
 ### Equipo
 
-| Directorio | Archivos | Contenido |
-|---|---|---|
-| `Equipo/` | 16 + index | Armas, armaduras, propiedades de maestría, herramientas, monedas, gastos, monturas/vehículos, equipo de aventureros, comida/bebida/alojamiento, asalariados, fabricar objetos, elaborar pociones, elaborar pergaminos, lanzamiento de conjuros (servicios) |
+| Directorio | Archivos   | Contenido                                                                                                                                                                                                                                                  |
+|------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Equipo/`  | 16 + index | Armas, armaduras, propiedades de maestría, herramientas, monedas, gastos, monturas/vehículos, equipo de aventureros, comida/bebida/alojamiento, asalariados, fabricar objetos, elaborar pociones, elaborar pergaminos, lanzamiento de conjuros (servicios) |
 
 ### Conjuros
 
-| Directorio | Archivos | Contenido |
-|---|---|---|
-| `Conjuros/` | 343 + index | Un archivo por conjuro (ej. `Bola de Fuego.md`, `Abrir.md`). Cada uno incluye: nivel, escuela, clases, tiempo de lanzamiento, alcance, componentes, duración, descripción |
-| `Conjuros (Alt)/` | 8 | Los mismos conjuros agrupados por letra: `Conjuros A-C.md` … `Conjuros V-Z.md` |
+| Directorio        | Archivos    | Contenido                                                                                                                                                                 |
+|-------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Conjuros/`       | 343 + index | Un archivo por conjuro (ej. `Bola de Fuego.md`, `Abrir.md`). Cada uno incluye: nivel, escuela, clases, tiempo de lanzamiento, alcance, componentes, duración, descripción |
+| `Conjuros (Alt)/` | 8           | Los mismos conjuros agrupados por letra: `Conjuros A-C.md` … `Conjuros V-Z.md`                                                                                            |
 
 ### Monstruos
 
-| Directorio | Archivos | Contenido |
-|---|---|---|
-| `Monstruos/Monstruos.md` | 1 | Documento unificado con las reglas de perfiles de monstruo (partes de un perfil, tipos, tamaños, alineamientos) |
-| `MonstruosDeLaAALaZ/` | 236 + index | Un archivo por monstruo (ej. `Aboleth.md`, `Dragon Rojo Adulto.md`). Incluye: tipo/tamaño/alineamiento, CA, Iniciativa, PG, velocidad, características, VD, rasgos, acciones, acciones adicionales, reacciones, acciones legendarias |
-| `MonstruosDeLaAALaZ (Alt)/` | 8 | Agrupados por letra: `MonstruosDeLaAALaZ A-C.md` … `MonstruosDeLaAALaZ V-Z.md` |
+| Directorio                  | Archivos    | Contenido                                                                                                                                                                                                                            |
+|-----------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Monstruos/Monstruos.md`    | 1           | Documento unificado con las reglas de perfiles de monstruo (partes de un perfil, tipos, tamaños, alineamientos)                                                                                                                      |
+| `MonstruosDeLaAALaZ/`       | 236 + index | Un archivo por monstruo (ej. `Aboleth.md`, `Dragon Rojo Adulto.md`). Incluye: tipo/tamaño/alineamiento, CA, Iniciativa, PG, velocidad, características, VD, rasgos, acciones, acciones adicionales, reacciones, acciones legendarias |
+| `MonstruosDeLaAALaZ (Alt)/` | 8           | Agrupados por letra: `MonstruosDeLaAALaZ A-C.md` … `MonstruosDeLaAALaZ V-Z.md`                                                                                                                                                       |
 
 **Convenciones de nombres de monstruos:**
+
 - Estándar: `{Nombre}.md` (ej. `Aboleth.md`, `Gigante de las Colinas.md`)
 - Dragones: `{Edad} {Color}.md` (ej. `Adulto Rojo.md`, `Antiguo Dorado.md`)
 - Dragones jóvenes: `{Color} Joven.md` (ej. `Rojo Joven.md`)
@@ -70,45 +71,45 @@ Cada categoría tiene un archivo `-Index.md` que lista todos los documentos indi
 
 ### Animales
 
-| Directorio | Archivos | Contenido |
-|---|---|---|
-| `Animales/` | 96 + index | Un archivo por animal (ej. `Lobo Terrible.md`, `Alosaurio.md`). Mismo formato de perfil que los monstruos |
-| `Animales (Alt)/` | 7 | Agrupados: `Animales A-C.md` … `Animales S-U.md` |
+| Directorio        | Archivos   | Contenido                                                                                                 |
+|-------------------|------------|-----------------------------------------------------------------------------------------------------------|
+| `Animales/`       | 96 + index | Un archivo por animal (ej. `Lobo Terrible.md`, `Alosaurio.md`). Mismo formato de perfil que los monstruos |
+| `Animales (Alt)/` | 7          | Agrupados: `Animales A-C.md` … `Animales S-U.md`                                                          |
 
 ### Objetos mágicos
 
-| Directorio | Archivos | Contenido |
-|---|---|---|
-| `ObjetosMagicos/` | 262 + index | Un archivo por objeto (ej. `Baston de Poder.md`, `Espada Vorpal.md`). Incluye rareza, sintonización y descripción |
-| `ObjetosMagicos (Alt)/` | 8 | Agrupados: `ObjetosMagicos A-C.md` … `ObjetosMagicos V-Z.md` |
+| Directorio              | Archivos    | Contenido                                                                                                         |
+|-------------------------|-------------|-------------------------------------------------------------------------------------------------------------------|
+| `ObjetosMagicos/`       | 262 + index | Un archivo por objeto (ej. `Baston de Poder.md`, `Espada Vorpal.md`). Incluye rareza, sintonización y descripción |
+| `ObjetosMagicos (Alt)/` | 8           | Agrupados: `ObjetosMagicos A-C.md` … `ObjetosMagicos V-Z.md`                                                      |
 
 ### Herramientas del juego (para el DM)
 
-| Directorio | Archivos | Contenido |
-|---|---|---|
+| Directorio              | Archivos  | Contenido                                                                                                                                                       |
+|-------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `HerramientasDelJuego/` | 8 + index | Crear un trasfondo, efectos ambientales, encuentros de combate, maldiciones y enfermedades mágicas, miedo y estrés psicológico, ritmo de viaje, trampas, veneno |
 
 ## Estructura — Inglés (`EN/`)
 
 El directorio `EN/` contiene la versión original en inglés. Usa estos archivos cuando el usuario pregunte en inglés.
 
-| Directorio EN | Equivalente ES | Archivos | Contenido |
-|---|---|---|---|
-| `Gameplay/` | `ComoJugar/` | 4 | Abilities, combat, adventuring, damage/healing |
-| `Species/` | _(integrado en OrigenesDePersonaje)_ | 10 | Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, index |
-| `Classes/` | `Clases/` | 13 | Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard, index |
-| `Characterizations/` | `CreacionDePersonajes/` + `Dotes/` | 6 | Backgrounds, Feats, Languages, Multiclassing, Trinkets, index |
-| `Equipment/` | `Equipo/` | 11 | Weapons, Armor, Tools, Gear, Coinage, Expenses, Transportation, Crafting, Selling Treasure, Spellcasting services, index |
-| `Spells/` | `Conjuros/` | 341 + index | One file per spell |
-| `Spells (Alt)/` | `Conjuros (Alt)/` | 23 | Grouped A–Z |
-| `Monsters/` | `MonstruosDeLaAALaZ/` | 237 + index | One file per monster (rules embedded, no separate doc) |
-| `Monsters (Alt)/` | `MonstruosDeLaAALaZ (Alt)/` | 26 | Grouped A–Z |
-| `Animals/` | `Animales/` | 96 + index | One file per animal |
-| `Animals (Alt)/` | `Animales (Alt)/` | 20 | Grouped A–Z |
-| `Treasure/` | `ObjetosMagicos/` | 174 + index | One file per magic item |
-| `Treasure (Alt)/` | `ObjetosMagicos (Alt)/` | 23 | Grouped A–Z |
-| `Gamemastering/` | `HerramientasDelJuego/` | 11 | Travel, Curses, Magical Contagions, Environmental Effects, Fear and Mental Stress, Poisons, Traps, Combat Encounters, Creating a Background, NPCs, index |
-| `Rules Glossary/` | `GlosarioDeReglas/` | 2 | Rules glossary + index |
+| Directorio EN        | Equivalente ES                       | Archivos    | Contenido                                                                                                                                                |
+|----------------------|--------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Gameplay/`          | `ComoJugar/`                         | 4           | Abilities, combat, adventuring, damage/healing                                                                                                           |
+| `Species/`           | _(integrado en OrigenesDePersonaje)_ | 10          | Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, index                                                                            |
+| `Classes/`           | `Clases/`                            | 13          | Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard, index                                                  |
+| `Characterizations/` | `CreacionDePersonajes/` + `Dotes/`   | 6           | Backgrounds, Feats, Languages, Multiclassing, Trinkets, index                                                                                            |
+| `Equipment/`         | `Equipo/`                            | 11          | Weapons, Armor, Tools, Gear, Coinage, Expenses, Transportation, Crafting, Selling Treasure, Spellcasting services, index                                 |
+| `Spells/`            | `Conjuros/`                          | 341 + index | One file per spell                                                                                                                                       |
+| `Spells (Alt)/`      | `Conjuros (Alt)/`                    | 23          | Grouped A–Z                                                                                                                                              |
+| `Monsters/`          | `MonstruosDeLaAALaZ/`                | 237 + index | One file per monster (rules embedded, no separate doc)                                                                                                   |
+| `Monsters (Alt)/`    | `MonstruosDeLaAALaZ (Alt)/`          | 26          | Grouped A–Z                                                                                                                                              |
+| `Animals/`           | `Animales/`                          | 96 + index  | One file per animal                                                                                                                                      |
+| `Animals (Alt)/`     | `Animales (Alt)/`                    | 20          | Grouped A–Z                                                                                                                                              |
+| `Treasure/`          | `ObjetosMagicos/`                    | 174 + index | One file per magic item                                                                                                                                  |
+| `Treasure (Alt)/`    | `ObjetosMagicos (Alt)/`              | 23          | Grouped A–Z                                                                                                                                              |
+| `Gamemastering/`     | `HerramientasDelJuego/`              | 11          | Travel, Curses, Magical Contagions, Environmental Effects, Fear and Mental Stress, Poisons, Traps, Combat Encounters, Creating a Background, NPCs, index |
+| `Rules Glossary/`    | `GlosarioDeReglas/`                  | 2           | Rules glossary + index                                                                                                                                   |
 
 ## Formato de archivos y convenciones
 
@@ -131,6 +132,7 @@ Los archivos EN usan `tags: [srd, english, tag_...]` y `related_es` en lugar de 
 ### Wikilinks
 
 Todos los enlaces entre documentos internos usan sintaxis de wikilink de Obsidian:
+
 - `[[Conjuros/Bola de Fuego|Bola de fuego]]` — enlace a nota con texto personalizado
 - `[[Clases/Barbaro]]` — enlace directo (el display text es el nombre del archivo)
 
@@ -139,6 +141,7 @@ No se usan enlaces Markdown estándar `[text](url)` para contenido interno — s
 ### Archivos índice (`-Index.md`)
 
 Cada categoría tiene un archivo `{Categoria}-Index.md` que contiene:
+
 - Título de la categoría
 - Conteo de archivos
 - Lista de wikilinks a cada documento individual

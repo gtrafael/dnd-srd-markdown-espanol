@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Spider|Giant Spider (English)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 16 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| SAB | 11 | +0 | +0 |
-| CAR | 4 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     4 |  -3 |   -3 |
 
 **Habilidades:** Percepción +4, Sigilo +7
 

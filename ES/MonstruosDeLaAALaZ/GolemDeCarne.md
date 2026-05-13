@@ -17,13 +17,13 @@ related_en: "[[Monsters/Flesh Golem|Flesh Golem (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 9 | -1 | -1 |
-| CON | 18 | +4 | +4 |
-| INT | 6 | -2 | -2 |
-| SAB | 10 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |     9 |  -1 |   -1 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |     6 |  -2 |   -2 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Inmunidades:** relámpago, veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado
 

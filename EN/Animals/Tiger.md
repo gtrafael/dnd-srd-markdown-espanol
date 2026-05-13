@@ -3,6 +3,7 @@ aliases: ["Tiger"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Tigre|Tigre (Español)]]"
 ---
+
 ## Tiger
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Tigre|Tigre (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 16 | +3 | +3 | **Con** 14 | +2 | +2 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 16 | +3  |  +3  | **Con** 14 | +2 | +2 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +3, Stealth +7**
 

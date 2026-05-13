@@ -15,13 +15,13 @@ related_en: "[[Monsters/Bandit|Bandit (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 11 | +0 | +0 |
-| DES | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    11 |  +0 |   +0 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    10 |  +0 |   +0 |
 
 **Equipo:** armadura de cuero, ballesta ligera, cimitarra
 

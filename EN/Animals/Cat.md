@@ -3,6 +3,7 @@ aliases: ["Cat"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Gato|Gato (Español)]]"
 ---
+
 ## Cat
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Gato|Gato (Español)]]"
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 15 | +2 | +4 | **Con** 10 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3 | −4  |  −4  | **Dex** 15 | +2  |  +4  | **Con** 10 | +0 | +0 |
+| **Int** 3 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +3, Stealth +4**
 

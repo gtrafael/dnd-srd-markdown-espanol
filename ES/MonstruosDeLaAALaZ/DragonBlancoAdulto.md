@@ -17,13 +17,13 @@ related_en: "[[Monsters/Adult White Dragon|Adult White Dragon (EN)]]"
 **Velocidad:** 12 m, excavar 9 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 22 | +6 | +6 |
-| DES | 10 | +0 | +5 |
-| CON | 22 | +6 | +6 |
-| INT | 8 | -1 | -1 |
-| SAB | 12 | +1 | +6 |
-| CAR | 12 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    22 |  +6 |   +6 |
+| DES   |    10 |  +0 |   +5 |
+| CON   |    22 |  +6 |   +6 |
+| INT   |     8 |  -1 |   -1 |
+| SAB   |    12 |  +1 |   +6 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Habilidades:** Percepción +11, Sigilo +5
 

@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Rat|Giant Rat (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 7 | -2 | -2 |
-| DES | 16 | +3 | +5 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 4 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |     7 |  -2 |   -2 |
+| DES   |    16 |  +3 |   +5 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     4 |  -3 |   -3 |
 
 **Habilidades:** Percepción +2
 

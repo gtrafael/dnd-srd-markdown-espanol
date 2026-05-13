@@ -8,11 +8,10 @@
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 11 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 6 | −2 | −2 | **Wis** 11 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 11 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 6  | −2  |  −2  | **Wis** 11 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Skills Stealth +4**
 
@@ -46,11 +45,10 @@ Slashing damage. Gelatinous Cube
 
 **Speed 15 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 3 | −4 | −4 | **Con** 20 | +5 | +5 |
-| **Int** 1 | −5 | −5 | **Wis** 6 | −2 | −2 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 3 | −4  |  −4  | **Con** 20 | +5 | +5 |
+| **Int** 1  | −5  |  −5  | **Wis** 6 | −2  |  −2  | **Cha** 1 | −5 | −5 |
 
 **Immunities Acid; Blinded, Charmed, Deafened,**
 
@@ -84,11 +82,10 @@ Engulf. The cube moves up to its Speed without provoking Opportunity Attacks. Th
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 17 | +3 | +3 | **Con** 10 | +0 | +0 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +2 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 17 | +3  |  +3  | **Con** 10 | +0 | +0 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +2  | **Cha** 8 | −1 | −1 |
 
 **Resistances Necrotic**
 
@@ -124,11 +121,10 @@ Paralyzed condition until the end of its next turn. Ghost
 
 **Speed 5 ft., Fly 40 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 7 | −2 | −2 | **Dex** 13 | +1 | +1 | **Con** 10 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 17 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 7  | −2  |  −2  | **Dex** 13 | +1  |  +1  | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 17 | +3 | +3 |
 
 **Resistances Acid, Bludgeoning, Cold, Fire, Lightning,**
 
@@ -174,11 +170,10 @@ Points or the ghost leaves as a Bonus Action. When the possession ends, the ghos
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 7  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Immunities Poison; Charmed, Exhaustion, Poisoned**
 
@@ -208,11 +203,10 @@ Claw. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage. If th
 
 **Speed 20 ft., Swim 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
-| **Int** 3 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 8  | −1  |  −1  | **Con** 16 | +3 | +3 |
+| **Int** 3  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Immunities Prone**
 
@@ -244,11 +238,10 @@ Piercing damage. If the target is a Medium or smaller creature, it has the Prone
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +9 | **Dex** 15 | +2 | +2 | **Con** 21 | +5 | +9 |
-| **Int** 19 | +4 | +4 | **Wis** 17 | +3 | +7 | **Cha** 16 | +3 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +9  | **Dex** 15 | +2  |  +2  | **Con** 21 | +5 | +9 |
+| **Int** 19 | +4  |  +4  | **Wis** 17 | +3  |  +7  | **Cha** 16 | +3 | +7 |
 
 **Skills Deception +7, Perception +7**
 
@@ -292,11 +285,10 @@ Spellcasting. The glabrezu casts one of the following spells, requiring no Mater
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +7 | **Dex** 15 | +2 | +5 | **Con** 16 | +3 | +6 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +4 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +7  | **Dex** 15 | +2  |  +5  | **Con** 16 | +3 | +6 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +4  | **Cha** 15 | +2 | +2 |
 
 **Skills Athletics +10, Performance +5**
 
@@ -330,11 +322,10 @@ Parry. Trigger: The gladiator is hit by a melee attack roll while holding a weap
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 12 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Senses Darkvision 60 ft.; Passive Perception 10**
 
@@ -364,11 +355,10 @@ Rampage (1/Day). Immediately after dealing damage to a creature that is already 
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 8 | −1 | −1 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 8  | −1  |  −1  | **Cha** 10 | +0 | +0 |
 
 **Skills Stealth +6**
 
@@ -406,11 +396,10 @@ Redirect Attack. Trigger: A creature the goblin can see makes an attack roll aga
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 8 | −1 | −1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8  | −1  |  −1  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 8  | −1  |  −1  | **Cha** 8 | −1 | −1 |
 
 **Skills Stealth +6**
 
@@ -440,11 +429,10 @@ Nimble Escape. The goblin takes the Disengage or Hide action.
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 8 | −1 | −1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8  | −1  |  −1  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 8  | −1  |  −1  | **Cha** 8 | −1 | −1 |
 
 **Skills Stealth +6**
 
@@ -476,11 +464,10 @@ Nimble Escape. The goblin takes the Disengage or Hide action.
 
 **Speed 30 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 14 | +2 | +4 | **Con** 17 | +3 | +3 |
-| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +2 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 14 | +2  |  +4  | **Con** 17 | +3 | +3 |
+| **Int** 14 | +2  |  +2  | **Wis** 11 | +0  |  +2  | **Cha** 16 | +3 | +3 |
 
 **Skills Perception +4, Stealth +4**
 
@@ -514,11 +501,10 @@ Weakening Breath. Strength Saving Throw: DC 13, each creature that isn’t curre
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 11 | +0 | +0 | **Con** 18 | +4 | +4 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 11 | +0  |  +0  | **Con** 18 | +4 | +4 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +7**
 
@@ -548,11 +534,10 @@ Trample. Dexterity Saving Throw: DC 16, one creature within 5 feet that has the 
 
 **Speed 10 ft., Climb 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 6 | −2 | −2 | **Con** 16 | +3 | +3 |
-| **Int** 1 | −5 | −5 | **Wis** 6 | −2 | −2 | **Cha** 2 | −4 | −4 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 6 | −2  |  −2  | **Con** 16 | +3 | +3 |
+| **Int** 1  | −5  |  −5  | **Wis** 6 | −2  |  −2  | **Cha** 2 | −4 | −4 |
 
 **Skills Stealth +2**
 
@@ -588,11 +573,10 @@ Pseudopod. Melee Attack Roll: +3, reach 5 ft. Hit: 10 (2d8 + 1) Acid damage. Non
 
 **Speed 30 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +2 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 12 | +1  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 14 | +2  |  +2  | **Wis** 11 | +0  |  +2  | **Cha** 13 | +1 | +1 |
 
 **Skills Perception +4, Stealth +3**
 
@@ -624,11 +608,10 @@ Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage plus 
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 16 | +3 | +3 |
-| **Int** 13 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 12 | +1  |  +1  | **Con** 16 | +3 | +3 |
+| **Int** 13 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 14 | +2 | +2 |
 
 **Skills Arcana +5, Deception +4, Perception +4, Stealth +3**
 
@@ -668,11 +651,10 @@ Spellcasting. The hag casts one of the following spells, requiring no Material c
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 3  | −4  |  −4  | **Wis** 14 | +2  |  +2  | **Cha** 5 | −3 | −3 |
 
 **Skills Stealth +4**
 
@@ -706,11 +688,10 @@ DC 12) from all four tentacles. Griffon
 
 **Speed 30 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +5**
 
@@ -738,11 +719,10 @@ Piercing damage. If the target is a Medium or smaller creature, it has the Grapp
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 9 | −1 | −1 | **Wis** 8 | −1 | −1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 9  | −1  |  −1  | **Wis** 8  | −1  |  −1  | **Cha** 6 | −2 | −2 |
 
 **Skills Athletics +5, Perception +3, Stealth +5**
 
@@ -766,11 +746,10 @@ Bone Cudgel. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning dam
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +2**
 
@@ -796,11 +775,10 @@ Spear. Melee or Ranged Attack Roll: +3, reach 5 ft. or range 20/60 ft. Hit: 4 (1
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 13 | +1 | +1 |
 
 **Skills Athletics +6, Perception +4**
 
@@ -830,11 +808,10 @@ Longsword. Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Slashing damage
 
 **Speed 40 ft., Climb 40 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 18 | +4 | +8 | **Con** 16 | +3 | +7 |
-| **Int** 16 | +3 | +7 | **Wis** 19 | +4 | +8 | **Cha** 18 | +4 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 18 | +4  |  +8  | **Con** 16 | +3 | +7 |
+| **Int** 16 | +3  |  +7  | **Wis** 19 | +4  |  +8  | **Cha** 18 | +4 | +8 |
 
 **Skills Arcana +11, History +11, Religion +11**
 

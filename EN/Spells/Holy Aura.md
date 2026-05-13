@@ -3,6 +3,7 @@ aliases: ["Holy Aura"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/AuraSagrada|Aura sagrada (Español)]]"
 ---
+
 ### Holy Aura
 
 *Level 8 Abjuration* (Cleric)

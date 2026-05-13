@@ -17,13 +17,14 @@ related_en: "[[Monsters/Gibbering Mouther|Gibbering Mouther (EN)]]"
 **Velocidad:** 6 m, nadar 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 8 | -1 | -1 |
-| CON | 16 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     6 |  -2 |   -2 |
+
 **Inmunidades:** derribado
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10

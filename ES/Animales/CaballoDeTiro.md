@@ -17,13 +17,14 @@ related_en: "[[Animals/Draft Horse|Draft Horse (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 10 | +0 | +0 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| SAB | 11 | +0 | +0 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     7 |  -2 |   -2 |
+
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno

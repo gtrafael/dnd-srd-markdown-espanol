@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Grifo|Grifo (Español)]]"
 
 **Speed 30 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +5**
 

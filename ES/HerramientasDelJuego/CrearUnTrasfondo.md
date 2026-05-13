@@ -8,9 +8,7 @@ related_en: "[[Gamemastering/Creating a Background|Creating a Background (EN)]]"
 
 El trasfondo de un personaje representa lo que hacía antes de convertirse en aventurero. Crear un trasfondo único o personalizar uno que ya exista puede reflejar la temática concreta de tu campaña o resaltar elementos de tu mundo. También puedes crear trasfondos para ayudar a los jugadores a elaborar las historias que están ideando para sus personajes.
 
-
 Terreno de viaje
-
 
 | Terreno        | Ritmo máximo | Distancia en encuentros | CD para forrajear | CD para orientarse | CD de búsqueda |
 |----------------|--------------|-------------------------|------------------:|-------------------:|---------------:|
@@ -26,13 +24,9 @@ Terreno de viaje
 | Pantano        | Lento        | 2d8 × 3 m               |                10 |                 15 |             20 |
 | Pradera        | Rápido       | 6d6 × 3 m               |                15 |                  5 |             15 |
 
-
 *Se necesita un equipo adecuado (como unos esquís) para mantener un ritmo rápido en el terreno glacial.
 
-
-
 † El ritmo de viaje de los personajes mientras se desplacen por el agua dependerá del vehículo en el que vayan; consulta “Vehículos”.
-
 
 En esta sección se describe paso a paso cómo crear trasfondos propios y adaptarlos para tu mundo y los héroes que lo habitan.
 

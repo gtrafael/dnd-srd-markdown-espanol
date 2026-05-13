@@ -3,6 +3,7 @@ aliases: ["Riding Horse"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/CaballoDeMonta|Caballo de monta (Español)]]"
 ---
+
 ## Riding Horse
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/CaballoDeMonta|Caballo de monta (Español)]]"
 
 **Speed 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Senses Passive Perception 10**
 

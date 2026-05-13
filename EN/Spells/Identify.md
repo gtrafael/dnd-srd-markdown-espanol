@@ -3,6 +3,7 @@ aliases: ["Identify"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Identificar|Identificar (Español)]]"
 ---
+
 ### Identify
 
 *Level 1 Divination* (Bard, Wizard)

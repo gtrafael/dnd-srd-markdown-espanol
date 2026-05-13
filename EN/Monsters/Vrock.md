@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Vrock|Vrock (Español)]]"
 
 **Speed 40 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 15 | +2 | +5 | **Con** 18 | +4 | +4 |
-| **Int** 8 | −1 | −1 | **Wis** 13 | +1 | +4 | **Cha** 8 | −1 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 15 | +2  |  +5  | **Con** 18 | +4 | +4 |
+| **Int** 8  | −1  |  −1  | **Wis** 13 | +1  |  +4  | **Cha** 8 | −1 | +2 |
 
 **Resistances Cold, Fire, Lightning**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GolemDePiedra|Gólem de piedra (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 9 | −1 | −1 | **Con** 20 | +5 | +5 |
-| **Int** 3 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 9  | −1  |  −1  | **Con** 20 | +5 | +5 |
+| **Int** 3  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 1 | −5 | −5 |
 
 **Immunities Poison, Psychic; Charmed, Exhaustion,**
 

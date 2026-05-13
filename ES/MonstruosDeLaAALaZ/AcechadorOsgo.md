@@ -17,13 +17,13 @@ related_en: "[[Monsters/Bugbear Stalker|Bugbear Stalker (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 14 | +2 | +2 |
-| CON | 14 | +2 | +4 |
-| INT | 11 | +0 | +0 |
-| SAB | 12 | +1 | +3 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    14 |  +2 |   +4 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    12 |  +1 |   +3 |
+| CAR   |    11 |  +0 |   +0 |
 
 **Habilidades:** Sigilo +6, Supervivencia +3
 

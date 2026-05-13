@@ -17,13 +17,14 @@ related_en: "[[Animals/Camel|Camel (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 8 | -1 | -1 |
-| CON | 17 | +3 | +5 |
-| INT | 2 | -4 | -4 |
-| SAB | 11 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    17 |  +3 |   +5 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
+
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** ninguno

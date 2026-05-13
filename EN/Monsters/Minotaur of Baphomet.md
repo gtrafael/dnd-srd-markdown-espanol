@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/MinotauroDeBafomet|Minotauro de Bafomet (Espa�
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 6 | −2 | −2 | **Wis** 16 | +3 | +3 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 11 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 6  | −2  |  −2  | **Wis** 16 | +3  |  +3  | **Cha** 9 | −1 | −1 |
 
 **Skills Perception +7, Survival +7**
 

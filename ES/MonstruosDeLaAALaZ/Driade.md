@@ -17,13 +17,13 @@ related_en: "[[Monsters/Dryad|Dryad (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 12 | +1 | +1 |
-| CON | 11 | — | — |
-| INT | 14 | +2 | +2 |
-| SAB | 15 | +2 | +2 |
-| CAR | 18 | — | — |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    11 |   — |    — |
+| INT   |    14 |  +2 |   +2 |
+| SAB   |    15 |  +2 |   +2 |
+| CAR   |    18 |   — |    — |
 
 **Habilidades:** Percepción +4, Sigilo +5
 

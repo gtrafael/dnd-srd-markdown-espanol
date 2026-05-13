@@ -17,13 +17,13 @@ related_en: "[[Monsters/Lemure|Lemure (EN)]]"
 **Velocidad:** 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 5 | -3 | -3 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| SAB | 11 | +0 | +0 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |     5 |  -3 |   -3 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Resistencias:** frío
 

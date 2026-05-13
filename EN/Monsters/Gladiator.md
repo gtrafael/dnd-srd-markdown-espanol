@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Gladiador|Gladiador (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +7 | **Dex** 15 | +2 | +5 | **Con** 16 | +3 | +6 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +4 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +7  | **Dex** 15 | +2  |  +5  | **Con** 16 | +3 | +6 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +4  | **Cha** 15 | +2 | +2 |
 
 **Skills Athletics +10, Performance +5**
 

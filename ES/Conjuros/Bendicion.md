@@ -16,9 +16,9 @@ related_en: "[[Spells/Bless|Bless (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-Bendices hasta tres criaturas dentro del alcance. Siempre que un objetivo haga una tirada de ataque o de salvación antes de que termine el conjuro, sumará 1d4 al resultado de dicha tirada. 
+Bendices hasta tres criaturas dentro del alcance. Siempre que un objetivo haga una tirada de ataque o de salvación antes de que termine el conjuro, sumará 1d4 al resultado de dicha tirada.
 
-**Con un espacio de conjuro de nivel superior.** 
+**Con un espacio de conjuro de nivel superior.**
 
 Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio. 
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Couatl|Couatl (Español)]]"
 
 **Speed 30 ft., Fly 90 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 20 | +5 | +5 | **Con** 17 | +3 | +5 |
-| **Int** 18 | +4 | +4 | **Wis** 20 | +5 | +7 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 20 | +5  |  +5  | **Con** 17 | +3 | +5 |
+| **Int** 18 | +4  |  +4  | **Wis** 20 | +5  |  +7  | **Cha** 18 | +4 | +4 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

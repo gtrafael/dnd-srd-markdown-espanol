@@ -3,6 +3,7 @@ aliases: ["Heal"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Curar|Curar (Español)]]"
 ---
+
 ### Heal
 
 *Level 6 Abjuration* (Cleric, Druid)

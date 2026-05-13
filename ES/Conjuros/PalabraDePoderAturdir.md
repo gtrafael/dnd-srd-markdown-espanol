@@ -16,9 +16,9 @@ related_en: "[[Spells/Power Word Stun|Power Word Stun (EN)]]"
 
 **Duración:** Instantáneo
 
-Abrumas la mente de una criatura que puedas ver dentro del alcance. Si el objetivo tiene 150 puntos de golpe o menos, tendrá el estado de aturdido. 
+Abrumas la mente de una criatura que puedas ver dentro del alcance. Si el objetivo tiene 150 puntos de golpe o menos, tendrá el estado de aturdido.
 
-De lo contrario, su velocidad será 0 hasta el principio de tu siguiente turno. 
+De lo contrario, su velocidad será 0 hasta el principio de tu siguiente turno.
 
 El objetivo aturdido hace una tirada de salvación de Constitución al final de cada uno de sus turnos y, si tiene éxito, se librará del estado. 
 

@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Crocodile|Giant Crocodile (EN)]]"
 **Velocidad:** 9 m, nadar 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 21 | +5 | +5 |
-| DES | 9 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    21 |  +5 |   +5 |
+| DES   |     9 |  -1 |   -1 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Sigilo +5
 

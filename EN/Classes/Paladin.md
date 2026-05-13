@@ -3,19 +3,20 @@ aliases: ["Paladin"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Paladin|Paladin (Español)]]"
 ---
+
 # Paladin
 
 ## Core Paladin Traits
 
-| Trait | Details |
-|---|---|
-| Primary Ability | Strength and Charisma |
-| Hit Point Die | D10 per Paladin level |
-| Saving Throw Proficiencies | Wisdom and Charisma |
-| Skill Proficiencies | Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion |
-| Weapon Proficiencies | Simple and Martial weapons |
-| Armor Training | Light, Medium, and Heavy armor and Shields |
-| Starting Equipment | Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP; or (B) 150 GP |
+| Trait                      | Details                                                                                                           |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Primary Ability            | Strength and Charisma                                                                                             |
+| Hit Point Die              | D10 per Paladin level                                                                                             |
+| Saving Throw Proficiencies | Wisdom and Charisma                                                                                               |
+| Skill Proficiencies        | Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion                                     |
+| Weapon Proficiencies       | Simple and Martial weapons                                                                                        |
+| Armor Training             | Light, Medium, and Heavy armor and Shields                                                                        |
+| Starting Equipment         | Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP; or (B) 150 GP |
 
 ## Becoming a Paladin ...
 
@@ -35,28 +36,28 @@ As a Paladin, you gain the following class features when you reach the specified
 
 ## Paladin Features
 
-| Level | Proficiency Bonus | Class Features | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | +2 | Lay On Hands, Spellcasting, Weapon Mastery | — | 2 | 2 | — | — | — | — |
-| 2 | +2 | Fighting Style, Paladin's Smite | — | 3 | 2 | — | — | — | — |
-| 3 | +2 | Channel Divinity, Paladin Subclass | 2 | 4 | 3 | — | — | — | — |
-| 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
-| 5 | +3 | Extra Attack, Faithful Steed | 2 | 6 | 4 | 2 | — | — | — |
-| 6 | +3 | Aura of Protection | 2 | 6 | 4 | 2 | — | — | — |
-| 7 | +3 | Subclass feature | 2 | 7 | 4 | 3 | — | — | — |
-| 8 | +3 | Ability Score Improvement | 2 | 7 | 4 | 3 | — | — | — |
-| 9 | +4 | Abjure Foes | 2 | 9 | 4 | 3 | 2 | — | — |
-| 10 | +4 | Aura of Courage | 2 | 9 | 4 | 3 | 2 | — | — |
-| 11 | +4 | Radiant Strikes | 3 | 10 | 4 | 3 | 3 | — | — |
-| 12 | +4 | Ability Score Improvement | 3 | 10 | 4 | 3 | 3 | — | — |
-| 13 | +5 | — | 3 | 11 | 4 | 3 | 3 | 1 | — |
-| 14 | +5 | Restoring Touch | 3 | 11 | 4 | 3 | 3 | 1 | — |
-| 15 | +5 | Subclass feature | 3 | 12 | 4 | 3 | 3 | 2 | — |
-| 16 | +5 | Ability Score Improvement | 3 | 12 | 4 | 3 | 3 | 2 | — |
-| 17 | +6 | — | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 18 | +6 | Aura Expansion | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | Epic Boon | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
-| 20 | +6 | Subclass feature | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
+| Level | Proficiency Bonus | Class Features                             | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
+|-------|-------------------|--------------------------------------------|------------------|-----------------|-----|-----|-----|-----|-----|
+| 1     | +2                | Lay On Hands, Spellcasting, Weapon Mastery | —                | 2               | 2   | —   | —   | —   | —   |
+| 2     | +2                | Fighting Style, Paladin's Smite            | —                | 3               | 2   | —   | —   | —   | —   |
+| 3     | +2                | Channel Divinity, Paladin Subclass         | 2                | 4               | 3   | —   | —   | —   | —   |
+| 4     | +2                | Ability Score Improvement                  | 2                | 5               | 3   | —   | —   | —   | —   |
+| 5     | +3                | Extra Attack, Faithful Steed               | 2                | 6               | 4   | 2   | —   | —   | —   |
+| 6     | +3                | Aura of Protection                         | 2                | 6               | 4   | 2   | —   | —   | —   |
+| 7     | +3                | Subclass feature                           | 2                | 7               | 4   | 3   | —   | —   | —   |
+| 8     | +3                | Ability Score Improvement                  | 2                | 7               | 4   | 3   | —   | —   | —   |
+| 9     | +4                | Abjure Foes                                | 2                | 9               | 4   | 3   | 2   | —   | —   |
+| 10    | +4                | Aura of Courage                            | 2                | 9               | 4   | 3   | 2   | —   | —   |
+| 11    | +4                | Radiant Strikes                            | 3                | 10              | 4   | 3   | 3   | —   | —   |
+| 12    | +4                | Ability Score Improvement                  | 3                | 10              | 4   | 3   | 3   | —   | —   |
+| 13    | +5                | —                                          | 3                | 11              | 4   | 3   | 3   | 1   | —   |
+| 14    | +5                | Restoring Touch                            | 3                | 11              | 4   | 3   | 3   | 1   | —   |
+| 15    | +5                | Subclass feature                           | 3                | 12              | 4   | 3   | 3   | 2   | —   |
+| 16    | +5                | Ability Score Improvement                  | 3                | 12              | 4   | 3   | 3   | 2   | —   |
+| 17    | +6                | —                                          | 3                | 14              | 4   | 3   | 3   | 3   | 1   |
+| 18    | +6                | Aura Expansion                             | 3                | 14              | 4   | 3   | 3   | 3   | 1   |
+| 19    | +6                | Epic Boon                                  | 3                | 15              | 4   | 3   | 3   | 3   | 2   |
+| 20    | +6                | Subclass feature                           | 3                | 15              | 4   | 3   | 3   | 3   | 2   |
 
 ### Level 1: Lay On Hands
 
@@ -174,66 +175,66 @@ This section presents the Paladin spell list. The spells are organised by spell 
 
 ### Level 1 Paladin Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Bless | Enchantment | C, M |
-| Command | Enchantment | — |
-| Cure Wounds | Abjuration | — |
-| Detect Evil and Good | Divination | C |
-| Detect Magic | Divination | C, R |
-| Detect Poison and Disease | Divination | C, R |
-| Divine Favor | Transmutation | — |
-| Divine Smite | Evocation | — |
-| Heroism | Enchantment | C |
-| Protection from Evil and Good | Abjuration | C, M |
-| Purify Food and Drink | Transmutation | R |
-| Searing Smite | Evocation | — |
-| Shield of Faith | Abjuration | C |
+| Spell                         | School        | Special |
+|-------------------------------|---------------|---------|
+| Bless                         | Enchantment   | C, M    |
+| Command                       | Enchantment   | —       |
+| Cure Wounds                   | Abjuration    | —       |
+| Detect Evil and Good          | Divination    | C       |
+| Detect Magic                  | Divination    | C, R    |
+| Detect Poison and Disease     | Divination    | C, R    |
+| Divine Favor                  | Transmutation | —       |
+| Divine Smite                  | Evocation     | —       |
+| Heroism                       | Enchantment   | C       |
+| Protection from Evil and Good | Abjuration    | C, M    |
+| Purify Food and Drink         | Transmutation | R       |
+| Searing Smite                 | Evocation     | —       |
+| Shield of Faith               | Abjuration    | C       |
 
 ### Level 2 Paladin Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Aid | Abjuration | — |
-| Find Steed | Conjuration | — |
-| Gentle Repose | Necromancy | R, M |
-| Lesser Restoration | Abjuration | — |
-| Locate Object | Divination | C |
-| Magic Weapon | Transmutation | — |
-| Prayer of Healing | Abjuration | — |
-| Protection from Poison | Abjuration | — |
-| Shining Smite | Transmutation | C |
-| Warding Bond | Abjuration | M |
-| Zone of Truth | Enchantment | — |
+| Spell                  | School        | Special |
+|------------------------|---------------|---------|
+| Aid                    | Abjuration    | —       |
+| Find Steed             | Conjuration   | —       |
+| Gentle Repose          | Necromancy    | R, M    |
+| Lesser Restoration     | Abjuration    | —       |
+| Locate Object          | Divination    | C       |
+| Magic Weapon           | Transmutation | —       |
+| Prayer of Healing      | Abjuration    | —       |
+| Protection from Poison | Abjuration    | —       |
+| Shining Smite          | Transmutation | C       |
+| Warding Bond           | Abjuration    | M       |
+| Zone of Truth          | Enchantment   | —       |
 
 ### Level 3 Paladin Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Create Food and Water | Conjuration | — |
-| Daylight | Evocation | — |
-| Dispel Magic | Abjuration | — |
-| Magic Circle | Abjuration | M |
-| Remove Curse | Abjuration | — |
-| Revivify | Necromancy | M |
+| Spell                 | School      | Special |
+|-----------------------|-------------|---------|
+| Create Food and Water | Conjuration | —       |
+| Daylight              | Evocation   | —       |
+| Dispel Magic          | Abjuration  | —       |
+| Magic Circle          | Abjuration  | M       |
+| Remove Curse          | Abjuration  | —       |
+| Revivify              | Necromancy  | M       |
 
 ### Level 4 Paladin Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Aura of Life | Abjuration | C |
-| Banishment | Abjuration | C |
-| Death Ward | Abjuration | — |
-| Locate Creature | Divination | C |
+| Spell           | School     | Special |
+|-----------------|------------|---------|
+| Aura of Life    | Abjuration | C       |
+| Banishment      | Abjuration | C       |
+| Death Ward      | Abjuration | —       |
+| Locate Creature | Divination | C       |
 
 ### Level 5 Paladin Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Dispel Evil and Good | Abjuration | C |
-| Geas | Enchantment | — |
-| Greater Restoration | Abjuration | M |
-| Raise Dead | Necromancy | M |
+| Spell                | School      | Special |
+|----------------------|-------------|---------|
+| Dispel Evil and Good | Abjuration  | C       |
+| Geas                 | Enchantment | —       |
+| Greater Restoration  | Abjuration  | M       |
+| Raise Dead           | Necromancy  | M       |
 
 ## Paladin Subclass: Oath of Devotion
 
@@ -253,13 +254,13 @@ These paladins share the following tenets:
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Devotion Spells table, you thereafter always have the listed spells prepared.
 
-| Paladin Level | Spells |
-|---|---|
-| 3 | Protection from Evil and Good, Shield of Faith |
-| 5 | Aid, Zone of Truth |
-| 9 | Beacon of Hope, Dispel Magic |
-| 13 | Freedom of Movement, Guardian of Faith |
-| 17 | Commune, Flame Strike |
+| Paladin Level | Spells                                         |
+|---------------|------------------------------------------------|
+| 3             | Protection from Evil and Good, Shield of Faith |
+| 5             | Aid, Zone of Truth                             |
+| 9             | Beacon of Hope, Dispel Magic                   |
+| 13            | Freedom of Movement, Guardian of Faith         |
+| 17            | Commune, Flame Strike                          |
 
 ### Level 3: Sacred Weapon
 

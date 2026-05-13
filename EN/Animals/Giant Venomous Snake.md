@@ -3,6 +3,7 @@ aliases: ["Giant Venomous Snake"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/SerpienteVenenosaGigante|Serpiente venenosa gigante (Español)]]"
 ---
+
 ## Giant Venomous Snake
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/SerpienteVenenosaGigante|Serpiente venenosa gigante (Esp
 
 **Speed 40 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 18 | +4 | +4 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 18 | +4  |  +4  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Skills Perception +2**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Lamia|Lamia (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 15 | +2 | +2 |
-| **Int** 14 | +2 | +2 | **Wis** 15 | +2 | +2 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 15 | +2 | +2 |
+| **Int** 14 | +2  |  +2  | **Wis** 15 | +2  |  +2  | **Cha** 16 | +3 | +3 |
 
 **Skills Deception +7, Insight +4, Stealth +5**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Gul|Gul (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 7  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Immunities Poison; Charmed, Exhaustion, Poisoned**
 

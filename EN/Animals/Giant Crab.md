@@ -3,6 +3,7 @@ aliases: ["Giant Crab"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/CangrejoGigante|Cangrejo gigante (Español)]]"
 ---
+
 ## Giant Crab
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/CangrejoGigante|Cangrejo gigante (Español)]]"
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 13 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 9 | −1 | −1 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 13 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 9  | −1  |  −1  | **Cha** 3 | −4 | −4 |
 
 **Skills Stealth +3**
 

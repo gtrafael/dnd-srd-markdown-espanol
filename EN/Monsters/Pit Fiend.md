@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DiabloDeLaSima|Diablo de la sima (Español)]]"
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 26 | +8 | +8 | **Dex** 14 | +2 | +8 | **Con** 24 | +7 | +7 |
-| **Int** 22 | +6 | +6 | **Wis** 18 | +4 | +10 | **Cha** 24 | +7 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 26 | +8  |  +8  | **Dex** 14 | +2  |  +8  | **Con** 24 | +7 | +7 |
+| **Int** 22 | +6  |  +6  | **Wis** 18 | +4  | +10  | **Cha** 24 | +7 | +7 |
 
 **Skills Perception +10, Persuasion +19**
 

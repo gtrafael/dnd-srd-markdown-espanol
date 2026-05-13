@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDePlataAdulto|Dragón de plata adulto (E
 
 **Speed 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 10 | +0 | +5 | **Con** 25 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 13 | +1 | +6 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 10 | +0  |  +5  | **Con** 25 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 13 | +1  |  +6  | **Cha** 22 | +6 | +6 |
 
 **Skills History +8, Perception +11, Stealth +5**
 

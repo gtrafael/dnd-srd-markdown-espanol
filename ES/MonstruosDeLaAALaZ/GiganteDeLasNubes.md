@@ -15,13 +15,13 @@ related_en: "[[Monsters/Cloud Giant|Cloud Giant (EN)]]"
 **Velocidad:** 12 m, volar 6 m (levitar)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 27 | +8 | +8 |
-| DES | 10 | +0 | +0 |
-| CON | 22 | +6 | +10 |
-| INT | 12 | +1 | +1 |
-| SAB | 16 | +3 | +7 |
-| CAR | 16 | +3 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    27 |  +8 |   +8 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    22 |  +6 |  +10 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    16 |  +3 |   +7 |
+| CAR   |    16 |  +3 |   +3 |
 
 **Habilidades:** Percepción +11, Perspicacia +7
 

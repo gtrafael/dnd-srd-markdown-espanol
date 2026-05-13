@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/ElementalDeFuego|Elemental de fuego (Español)
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 17 | +3 | +3 | **Con** 16 | +3 | +3 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 17 | +3  |  +3  | **Con** 16 | +3 | +3 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

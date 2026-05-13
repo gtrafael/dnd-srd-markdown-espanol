@@ -17,13 +17,13 @@ related_en: "[[Monsters/Warrior Veteran|Warrior Veteran (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 13 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| SAB | 11 | +0 | +0 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |    10 |  +0 |   +0 |
 
 **Habilidades:** Atletismo +5, Percepción +2
 

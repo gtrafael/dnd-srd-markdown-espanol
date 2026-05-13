@@ -16,15 +16,15 @@ related_en: "[[Spells/Bestow Curse|Bestow Curse (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-**Tocas a una criatura, que deberá superar una tirada de salvación de Sabiduría o quedará maldecida hasta que el conjuro termine.** Hasta que se rompa la maldición, el objetivo sufrirá uno de los siguientes efectos a tu elección: 
+**Tocas a una criatura, que deberá superar una tirada de salvación de Sabiduría o quedará maldecida hasta que el conjuro termine.** Hasta que se rompa la maldición, el objetivo sufrirá uno de los siguientes efectos a tu elección:
 
-**Elige una característica.** El objetivo tendrá desventaja en las pruebas de característica y tiradas de salvación hechas con esa característica. 
+**Elige una característica.** El objetivo tendrá desventaja en las pruebas de característica y tiradas de salvación hechas con esa característica.
 
-• El objetivo tendrá desventaja en las tiradas de ataque contra ti. 
+• El objetivo tendrá desventaja en las tiradas de ataque contra ti.
 
-• En combate, el objetivo deberá superar una tirada de salvación de Sabiduría al principio de cada uno de sus turnos o se verá obligado a llevar a cabo la acción de esquivar ese turno. 
+• En combate, el objetivo deberá superar una tirada de salvación de Sabiduría al principio de cada uno de sus turnos o se verá obligado a llevar a cabo la acción de esquivar ese turno.
 
-• Si causas daño al objetivo con una tirada de ataque o un conjuro, recibirá 1d8 de daño necrótico adicional. 
+• Si causas daño al objetivo con una tirada de ataque o un conjuro, recibirá 1d8 de daño necrótico adicional.
 
 **Con un espacio de conjuro de nivel superior.**
 

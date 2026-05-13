@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Estirge|Estirge (Español)]]"
 
 **Speed 10 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 4 | −3 | −3 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 6 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 4 | −3  |  −3  | **Dex** 16 | +3  |  +3  | **Con** 11 | +0 | +0 |
+| **Int** 2 | −4  |  −4  | **Wis** 8  | −1  |  −1  | **Cha** 6 | −2 | −2 |
 
 **Senses Darkvision 60 ft.; Passive Perception 9**
 

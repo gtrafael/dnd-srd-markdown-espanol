@@ -17,13 +17,13 @@ related_en: "[[Monsters/Zombie|Zombie (EN)]]"
 **Velocidad:** 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 13 | +1 | +1 |
-| DES | 6 | -2 | -2 |
-| CON | 16 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| SAB | 6 | -2 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    13 |  +1 |   +1 |
+| DES   |     6 |  -2 |   -2 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |     6 |  -2 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Inmunidades:** veneno; cansancio, envenenado
 

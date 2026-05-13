@@ -3,6 +3,7 @@ aliases: ["Create Food and Water"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CrearComidaYAgua|Crear comida y agua (Español)]]"
 ---
+
 ### Create Food and Water
 
 *Level 3 Conjuration* (Cleric, Paladin)

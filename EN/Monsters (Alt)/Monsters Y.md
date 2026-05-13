@@ -8,11 +8,10 @@
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 14 | +2 | +5 | **Con** 17 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +3 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 14 | +2  |  +5  | **Con** 17 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 11 | +0  |  +3  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +6, Stealth +5**
 
@@ -46,11 +45,10 @@ Half damage.
 
 **Speed 40 ft., Burrow 20 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 10 | +0 | +4 | **Con** 19 | +4 | +4 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +5 | **Cha** 17 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 10 | +0  |  +4  | **Con** 19 | +4 | +4 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +5  | **Cha** 17 | +3 | +3 |
 
 **Skills Perception +9, Stealth +4**
 
@@ -78,11 +76,10 @@ Rend. Melee Attack Roll: +9, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage plus
 
 **Speed 40 ft., Burrow 20 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +3 | **Con** 17 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +3 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 10 | +0  |  +3  | **Con** 17 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 11 | +0  |  +3  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +6, Persuasion +5, Stealth +3**
 
@@ -114,11 +111,10 @@ Sleep Breath. Constitution Saving Throw: DC 14, each creature in a 30-foot Cone.
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 10 | +0 | +3 | **Con** 19 | +4 | +4 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +4 | **Cha** 17 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 10 | +0  |  +3  | **Con** 19 | +4 | +4 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +4  | **Cha** 17 | +3 | +3 |
 
 **Skills Insight +4, Perception +7, Stealth +3**
 
@@ -154,11 +150,10 @@ Prone condition.
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 12 | +1 | +4 | **Con** 17 | +3 | +3 |
-| **Int** 16 | +3 | +3 | **Wis** 13 | +1 | +4 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 12 | +1  |  +4  | **Con** 17 | +3 | +3 |
+| **Int** 16 | +3  |  +3  | **Wis** 13 | +1  |  +4  | **Cha** 15 | +2 | +2 |
 
 **Skills Deception +5, Perception +7, Stealth +4**
 
@@ -192,11 +187,10 @@ This effect lasts until the end of its next turn.
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 14 | +2 | +6 | **Con** 21 | +5 | +5 |
-| **Int** 16 | +3 | +3 | **Wis** 13 | +1 | +5 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 14 | +2  |  +6  | **Con** 21 | +5 | +5 |
+| **Int** 16 | +3  |  +3  | **Wis** 13 | +1  |  +5  | **Cha** 20 | +5 | +5 |
 
 **Skills Insight +5, Perception +9, Persuasion +9, Stealth +6**
 
@@ -230,11 +224,10 @@ Weakening Breath. Strength Saving Throw: DC 17, each creature that isn’t curre
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 12 | +1 | +4 | **Con** 17 | +3 | +3 |
-| **Int** 16 | +3 | +3 | **Wis** 13 | +1 | +4 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 12 | +1  |  +4  | **Con** 17 | +3 | +3 |
+| **Int** 16 | +3  |  +3  | **Wis** 13 | +1  |  +4  | **Cha** 15 | +2 | +2 |
 
 **Skills Deception +5, Perception +7, Stealth +4**
 
@@ -266,11 +259,10 @@ Rend. Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage plus
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 10 | +0 | +4 | **Con** 21 | +5 | +5 |
-| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +4 | **Cha** 19 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 10 | +0  |  +4  | **Con** 21 | +5 | +5 |
+| **Int** 14 | +2  |  +2  | **Wis** 11 | +0  |  +4  | **Cha** 19 | +4 | +4 |
 
 **Skills Perception +8, Stealth +4**
 
@@ -298,11 +290,10 @@ Rend. Melee Attack Roll: +10, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage plu
 
 **Speed 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 10 | +0 | +4 | **Con** 21 | +5 | +5 |
-| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +4 | **Cha** 19 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 10 | +0  |  +4  | **Con** 21 | +5 | +5 |
+| **Int** 14 | +2  |  +2  | **Wis** 11 | +0  |  +4  | **Cha** 19 | +4 | +4 |
 
 **Skills History +6, Perception +8, Stealth +4**
 
@@ -332,11 +323,10 @@ Paralyzing Breath. Constitution Saving Throw: DC 17, each creature in a 30-foot 
 
 **Speed 40 ft., Burrow 20 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 10 | +0 | +3 | **Con** 18 | +4 | +4 |
-| **Int** 6 | −2 | 2 | **Wis** 11 | +0 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 10 | +0  |  +3  | **Con** 18 | +4 | +4 |
+| **Int** 6  | −2  |  2   | **Wis** 11 | +0  |  +3  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +6, Stealth +3**
 

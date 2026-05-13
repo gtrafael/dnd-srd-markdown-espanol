@@ -17,13 +17,13 @@ related_en: "[[Monsters/Homunculus|Homunculus (EN)]]"
 **Velocidad:** 6 m, volar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 4 | -3 | -3 |
-| DES | 15 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| SAB | 10 | +0 | +2 |
-| CAR | 7 | -2 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |     4 |  -3 |   -3 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +2 |
+| CAR   |     7 |  -2 |   +0 |
 
 **Inmunidades:** veneno; envenenado, hechizado
 

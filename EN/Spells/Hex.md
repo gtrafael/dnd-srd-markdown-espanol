@@ -3,6 +3,7 @@ aliases: ["Hex"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Maleficio|Maleficio (Español)]]"
 ---
+
 ### Hex
 
 *Level 1 Enchantment* (Warlock)

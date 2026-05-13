@@ -17,13 +17,13 @@ related_en: "[[Monsters/Dust Mephit|Dust Mephit (EN)]]"
 **Velocidad:** 9 m, volar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 5 | -3 | -3 |
-| DES | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 9 | -1 | -1 |
-| SAB | 11 | +0 | +0 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |     5 |  -3 |   -3 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     9 |  -1 |   -1 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |    10 |  +0 |   +0 |
 
 **Habilidades:** Percepción +2, Sigilo +4
 

@@ -3,6 +3,7 @@ aliases: ["Draft Horse"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/CaballoDeTiro|Caballo de tiro (Español)]]"
 ---
+
 ## Draft Horse
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/CaballoDeTiro|Caballo de tiro (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 15 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 15 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Senses Passive Perception 10**
 

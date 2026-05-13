@@ -17,13 +17,13 @@ related_en: "[[Monsters/Priest Acolyte|Priest Acolyte (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 10 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| SAB | 14 | +2 | +2 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |    11 |  +0 |   +0 |
 
 **Habilidades:** Medicina +4, Religión +2
 

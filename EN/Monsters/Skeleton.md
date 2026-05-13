@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Esqueleto|Esqueleto (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 16 | +3 | +3 | **Con** 15 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 16 | +3  |  +3  | **Con** 15 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 8  | −1  |  −1  | **Cha** 5 | −3 | −3 |
 
 Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned Gear Shortbow, Shortsword
 

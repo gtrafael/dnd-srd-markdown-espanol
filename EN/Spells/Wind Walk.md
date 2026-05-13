@@ -3,6 +3,7 @@ aliases: ["Wind Walk"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ViajarConElViento|Viajar con el viento (Español)]]"
 ---
+
 ### Wind Walk
 
 *Level 6 Transmutation* (Druid)

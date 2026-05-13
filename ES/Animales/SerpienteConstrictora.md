@@ -17,13 +17,13 @@ related_en: "[[Animals/Constrictor Snake|Constrictor Snake (EN)]]"
 **Velocidad:** 9 m, nadar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| SAB | 10 | +0 | +0 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Habilidades:** Percepción +2, Sigilo +4
 

@@ -3,6 +3,7 @@ aliases: ["Mass Suggestion"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/SugestionEnMasa|Sugestión en masa (Español)]]"
 ---
+
 ### Mass Suggestion
 
 *Level 6 Enchantment* (Bard, Sorcerer, Wizard)

@@ -17,13 +17,13 @@ related_en: "[[Animals/Scorpion|Scorpion (EN)]]"
 **Velocidad:** 3 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 2 | -4 | -4 |
-| DES | 11 | +0 | +0 |
-| CON | 8 | -1 | -1 |
-| INT | 1 | -5 | -5 |
-| SAB | 8 | -1 | -1 |
-| CAR | 2 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |     2 |  -4 |   -4 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |     8 |  -1 |   -1 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |     2 |  -4 |   -4 |
 
 **Sentidos:** visión ciega 3 m; Percepción pasiva 9
 

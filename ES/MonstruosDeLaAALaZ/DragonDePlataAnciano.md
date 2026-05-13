@@ -15,13 +15,13 @@ related_en: "[[Monsters/Ancient Silver Dragon|Ancient Silver Dragon (EN)]]"
 **Velocidad:** 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 30 | +10 | +10 |
-| DES | 10 | +0 | +7 |
-| CON | 29 | +9 | +9 |
-| INT | 18 | +4 | +4 |
-| SAB | 15 | +2 | +9 |
-| CAR | 26 | +8 | +8 |
+|-------|------:|----:|-----:|
+| FUE   |    30 | +10 |  +10 |
+| DES   |    10 |  +0 |   +7 |
+| CON   |    29 |  +9 |   +9 |
+| INT   |    18 |  +4 |   +4 |
+| SAB   |    15 |  +2 |   +9 |
+| CAR   |    26 |  +8 |   +8 |
 
 **Habilidades:** Historia +11, Percepción +16, Sigilo +7
 

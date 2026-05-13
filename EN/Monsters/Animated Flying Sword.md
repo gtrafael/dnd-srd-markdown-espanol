@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/EspadaVoladoraAnimada|Espada voladora animada 
 
 **Speed 5 ft., Fly 50 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 15 | +2 | +4 | **Con** 11 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 5 | −3 | −3 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 15 | +2  |  +4  | **Con** 11 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 5  | −3  |  −3  | **Cha** 1 | −5 | −5 |
 
 **Immunities Poison, Psychic; Charmed, Deafened,**
 

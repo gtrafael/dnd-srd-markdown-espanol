@@ -3,6 +3,7 @@ aliases: ["Clone"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Clon|Clon (Español)]]"
 ---
+
 ### Clone
 
 *Level 8 Necromancy* (Wizard)

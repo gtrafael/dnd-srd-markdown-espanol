@@ -17,13 +17,13 @@ related_en: "[[Monsters/Guardian Naga|Guardian Naga (EN)]]"
 **Velocidad:** 12 m, nadar 12 m, trepar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 18 | +4 | +8 |
-| CON | 16 | +3 | +7 |
-| INT | 16 | +3 | +7 |
-| SAB | 19 | +4 | +8 |
-| CAR | 18 | +4 | +8 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    18 |  +4 |   +8 |
+| CON   |    16 |  +3 |   +7 |
+| INT   |    16 |  +3 |   +7 |
+| SAB   |    19 |  +4 |   +8 |
+| CAR   |    18 |  +4 |   +8 |
 
 **Habilidades:** Conocimiento arcano +11, Historia +11, Religión +11
 

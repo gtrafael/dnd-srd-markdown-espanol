@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CapitanBandido|Capitán bandido (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +4 | **Dex** 16 | +3 | +5 | **Con** 14 | +2 | +2 |
-| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +2 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +4  | **Dex** 16 | +3  |  +5  | **Con** 14 | +2 | +2 |
+| **Int** 14 | +2  |  +2  | **Wis** 11 | +0  |  +2  | **Cha** 14 | +2 | +2 |
 
 **Skills Athletics +4, Deception +4**
 

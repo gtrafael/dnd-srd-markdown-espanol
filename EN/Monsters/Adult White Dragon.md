@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonBlancoAdulto|Dragón blanco adulto (Espa
 
 **Speed 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 10 | +0 | +5 | **Con22** +6 | +6 |  |
-| **Int** 8 | −1 | −1 | **Wis** 12 | +1 | +6 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 10 | +0  |  +5  | **Con22** +6 | +6 |  |
+| **Int** 8  | −1  |  −1  | **Wis** 12 | +1  |  +6  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +11, Stealth +5**
 

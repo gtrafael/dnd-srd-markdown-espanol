@@ -3,6 +3,7 @@ aliases: ["Thaumaturgy"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Taumaturgia|Taumaturgia (Español)]]"
 ---
+
 ### Thaumaturgy
 
 *Transmutation Cantrip* (Cleric)

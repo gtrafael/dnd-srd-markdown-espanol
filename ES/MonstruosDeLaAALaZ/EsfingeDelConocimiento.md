@@ -17,13 +17,13 @@ related_en: "[[Monsters/Sphinx of Lore|Sphinx of Lore (EN)]]"
 **Velocidad:** 12 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 18 | +4 | +4 |
-| SAB | 18 | +4 | +4 |
-| CAR | 18 | +4 | +4 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |    18 |  +4 |   +4 |
+| SAB   |    18 |  +4 |   +4 |
+| CAR   |    18 |  +4 |   +4 |
 
 **Habilidades:** Conocimiento arcano +12, Historia +12, Percepción +8, Religión +12
 

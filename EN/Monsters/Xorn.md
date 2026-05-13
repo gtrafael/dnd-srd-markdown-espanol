@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Xorn|Xorn (Español)]]"
 
 **Speed 20 ft., Burrow 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 10 | +0 | +0 | **Con** 22 | +6 | +6 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 10 | +0  |  +0  | **Con** 22 | +6 | +6 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +6, Stealth +6**
 

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Young White Dragon|Young White Dragon (EN)]]"
 **Velocidad:** 12 m, excavar 6 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 10 | +0 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 6 | -2 | 2 |
-| SAB | 11 | +0 | +3 |
-| CAR | 12 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    10 |  +0 |   +3 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |     6 |  -2 |    2 |
+| SAB   |    11 |  +0 |   +3 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Habilidades:** Percepción +6, Sigilo +3
 

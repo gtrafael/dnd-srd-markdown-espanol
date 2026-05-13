@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Ettercap|Ettercap (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 15 | +2 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 7 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 15 | +2  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 7  | −2  |  −2  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +3, Stealth +4, Survival +3**
 

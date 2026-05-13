@@ -17,13 +17,13 @@ related_en: "[[Monsters/Ancient Black Dragon|Ancient Black Dragon (EN)]]"
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 27 | +8 | +8 |
-| DES | 14 | +2 | +9 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| SAB | 15 | +2 | +9 |
-| CAR | 22 | +6 | +6 |
+|-------|------:|----:|-----:|
+| FUE   |    27 |  +8 |   +8 |
+| DES   |    14 |  +2 |   +9 |
+| CON   |    25 |  +7 |   +7 |
+| INT   |    16 |  +3 |   +3 |
+| SAB   |    15 |  +2 |   +9 |
+| CAR   |    22 |  +6 |   +6 |
 
 **Habilidades:** Percepción +16, Sigilo +9
 

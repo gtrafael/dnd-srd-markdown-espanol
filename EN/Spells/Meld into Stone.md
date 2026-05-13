@@ -3,6 +3,7 @@ aliases: ["Meld into Stone"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/FundirseConLaPiedra|Fundirse con la piedra (Español)]]"
 ---
+
 ### Meld into Stone
 
 *Level 3 Transmutation* (Cleric, Druid, Ranger)

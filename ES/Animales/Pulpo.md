@@ -17,13 +17,13 @@ related_en: "[[Animals/Octopus|Octopus (EN)]]"
 **Velocidad:** 1,5 m, nadar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 4 | -3 | -3 |
-| DES | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 4 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |     4 |  -3 |   -3 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     4 |  -3 |   -3 |
 
 **Habilidades:** Percepción +2, Sigilo +6
 

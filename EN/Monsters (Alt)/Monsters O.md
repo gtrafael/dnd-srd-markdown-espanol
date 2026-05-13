@@ -8,11 +8,10 @@
 
 **Speed 20 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 6 | −2 | −2 | **Con** 14 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 6 | −2 | −2 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 6 | −2  |  −2  | **Con** 14 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 6 | −2  |  −2  | **Cha** 1 | −5 | −5 |
 
 **Resistances Acid**
 
@@ -50,11 +49,10 @@ Split. Trigger: While the jelly is Large or Medium and has 10+ Hit Points, it be
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
-| **Int** 5 | −3 | −3 | **Wis** 7 | −2 | −2 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 8 | −1  |  −1  | **Con** 16 | +3 | +3 |
+| **Int** 5  | −3  |  −3  | **Wis** 7 | −2  |  −2  | **Cha** 7 | −2 | −2 |
 
 **Gear Greatclub, Javelins (3)**
 
@@ -80,11 +78,10 @@ Javelin. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit: 1
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 6 | −2 | −2 | **Con** 18 | +4 | +4 |
-| **Int** 3 | −4 | −4 | **Wis** 6 | −2 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 6 | −2  |  −2  | **Con** 18 | +4 | +4 |
+| **Int** 3  | −4  |  −4  | **Wis** 6 | −2  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Immunities Poison; Exhaustion, Poisoned**
 
@@ -114,11 +111,10 @@ Slam. Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.
 
 **Speed 30 ft., Fly 30 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 11 | +0 | +3 | **Con** 16 | +3 | +6 |
-| **Int** 14 | +2 | +2 | **Wis** 12 | +1 | +4 | **Cha** 15 | +2 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 11 | +0  |  +3  | **Con** 16 | +3 | +6 |
+| **Int** 14 | +2  |  +2  | **Wis** 12 | +1  |  +4  | **Cha** 15 | +2 | +5 |
 
 **Skills Arcana +5, Deception +8, Perception +4**
 
@@ -162,11 +158,10 @@ Invisibility. The oni casts Invisibility on itself, requiring no spell component
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 11 | +0 | +0 | **Con** 19 | +4 | +7 |
-| **Int** 6 | −2 | −2 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 11 | +0  |  +0  | **Con** 19 | +4 | +7 |
+| **Int** 6  | −2  |  −2  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Darkvision 120 ft.; Passive Perception 11**
 
@@ -200,11 +195,10 @@ Tentacle Slam. Constitution Saving Throw: DC 14, each creature Grappled by the o
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 12 | +1 | +1 | **Con** 17 | +3 | +3 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 12 | +1  |  +1  | **Con** 17 | +3 | +3 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +5**
 

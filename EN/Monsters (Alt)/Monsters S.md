@@ -8,11 +8,10 @@
 
 **Speed 30 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 11 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 12 | +1 | +1 | **Wis** 13 | +1 | +1 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 11 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 12 | +1  |  +1  | **Wis** 13 | +1  |  +1  | **Cha** 9 | −1 | −1 |
 
 **Skills Perception +5**
 
@@ -60,11 +59,10 @@ Salamander
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 15 | +2 | +2 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 15 | +2 | +2 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 12 | +1 | +1 |
 
 Vulnerabilities Cold Immunities Fire
 
@@ -102,11 +100,10 @@ Fire damage. The target has the Grappled condition (escape DC 14), and it has th
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
-| **Int** 12 | +1 | +1 | **Wis** 10 | +0 | +0 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 16 | +3  |  +3  | **Con** 11 | +0 | +0 |
+| **Int** 12 | +1  |  +1  | **Wis** 10 | +0  |  +0  | **Cha** 14 | +2 | +2 |
 
 **Skills Perception +2, Performance +6, Stealth +5**
 
@@ -138,11 +135,10 @@ Psychic damage. Scout
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 11 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 11 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Nature +4, Perception +5, Stealth +6, Survival +5**
 
@@ -172,11 +168,10 @@ Longbow. Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing dam
 
 **Speed 30 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 16 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 12 | +1 | +1 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 12 | +1  |  +1  | **Cha** 13 | +1 | +1 |
 
 **Senses Darkvision 60 ft.; Passive Perception 11**
 
@@ -210,11 +205,10 @@ Illusory Appearance. The hag casts Disguise Self, using Constitution as the spel
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 14 | +2 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6 | −2  |  −2  | **Dex** 14 | +2  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 6 | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Skills Stealth +6**
 
@@ -254,11 +248,10 @@ Shadow Stealth. While in Dim Light or Darkness, the shadow takes the Hide action
 
 **Speed 30 ft., Swim 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 8  | −1  |  −1  | **Con** 16 | +3 | +3 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Stealth +3**
 
@@ -302,11 +295,10 @@ Grappled condition (escape DC 14). Until the grapple ends, the target has the Bl
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 18 | +4 | +4 |
-| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 8  | −1  |  −1  | **Con** 18 | +4 | +4 |
+| **Int** 7  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Immunities Poison; Charmed, Exhaustion, Frightened,**
 
@@ -348,11 +340,10 @@ Protection. Trigger: An attack roll hits the wearer of the guardian’s amulet w
 
 **Speed 5 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 1 | −5 | −5 | **Dex** 1 | −5 | −5 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 3 | −4 | −4 | **Cha** 1 | −5 | −5 |
+|           | MOD | SAVE |           | MOD | SAVE |
+|-----------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 1 | −5  |  −5  | **Dex** 1 | −5  |  −5  | **Con** 10 | +0 | +0 |
+| **Int** 1 | −5  |  −5  | **Wis** 3 | −4  |  −4  | **Cha** 1 | −5 | −5 |
 
 **Immunities Blinded, Charmed, Deafened, Frightened**
 
@@ -376,11 +367,10 @@ Shriek. Trigger: A creature or a source of Bright Light moves within 30 feet of 
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +2 | **Con** 17 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +2 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 10 | +0  |  +2  | **Con** 17 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 11 | +0  |  +2  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +4, Stealth +2**
 
@@ -410,11 +400,10 @@ Paralyzing Breath. Constitution Saving Throw: DC 13, each creature in a 15-foot 
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 16 | +3 | +3 | **Con** 15 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 16 | +3  |  +3  | **Con** 15 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 8  | −1  |  −1  | **Cha** 5 | −3 | −3 |
 
 Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned Gear Shortbow, Shortsword
 
@@ -442,11 +431,10 @@ Shortbow. Ranged Attack Roll: +5, range 80/320 ft. Hit: 6 (1d6 + 3) Piercing dam
 
 **Speed 50 ft., Fly 150 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 26 | +8 | +8 | **Dex** 22 | +6 | +6 | **Con** 26 | +8 | +8 |
-| **Int** 25 | +7 | +7 | **Wis** 25 | +7 | +7 | **Cha** 30 | +10 | +10 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 26 | +8  |  +8  | **Dex** 22 | +6  |  +6  | **Con** 26 | +8 | +8 |
+| **Int** 25 | +7  |  +7  | **Wis** 25 | +7  |  +7  | **Cha** 30 | +10 | +10 |
 
 **Skills Perception +14**
 
@@ -508,11 +496,10 @@ Radiant Teleport. The solar teleports up to 60 feet to an unoccupied space it ca
 
 **Speed 30 ft., Fly 50 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 1 | −5 | −5 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 1  | −5  |  −5  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 11 | +0 | +0 |
 
 **Resistances Acid, Bludgeoning, Cold, Fire, Lightning,**
 
@@ -550,11 +537,10 @@ Life Drain. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d6) Necrotic damage. If 
 
 **Speed 40 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 18 | +4 | +4 | **Wis** 18 | +4 | +4 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 18 | +4  |  +4  | **Wis** 18 | +4  |  +4  | **Cha** 18 | +4 | +4 |
 
 **Skills Arcana +12, History +12, Perception +8,**
 
@@ -600,11 +586,10 @@ The target gains 1 Exhaustion level. While the target has any Exhaustion levels,
 
 **Speed 40 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 10 | +0 | +6 | **Con** 20 | +5 | +11 |
-| **Int** 16 | +3 | +9 | **Wis** 23 | +6 | +12 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 10 | +0  |  +6  | **Con** 20 | +5 | +11 |
+| **Int** 16 | +3  |  +9  | **Wis** 23 | +6  | +12  | **Cha** 18 | +4 | +4 |
 
 **Skills Arcana +9, Perception +12, Religion +15**
 
@@ -660,11 +645,10 @@ The target gains 1 Exhaustion level. While the target has any Exhaustion levels,
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 15 | +2 | +2 | **Wis** 12 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6  | −2  |  −2  | **Dex** 17 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 15 | +2  |  +2  | **Wis** 12 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Arcana +4, Religion +4, Stealth +5**
 
@@ -700,11 +684,10 @@ Burst of Ingenuity (2/Day). Trigger: The sphinx or another creature within 30 fe
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 17 | +3 | +6 | **Con** 14 | +2 | +5 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +5 | **Cha** 16 | +3 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 17 | +3  |  +6  | **Con** 14 | +2 | +5 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +5  | **Cha** 16 | +3 | +6 |
 
 **Immunities Poison; Charmed, Poisoned**
 
@@ -740,11 +723,10 @@ Spellcasting. The naga casts one of the following spells, requiring no Somatic o
 
 **Speed 10 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 18 | +4 | +4 | **Con** 10 | +0 | +0 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3  | −4  |  −4  | **Dex** 18 | +4  |  +4  | **Con** 10 | +0 | +0 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +3, Stealth +8**
 
@@ -774,11 +756,10 @@ Invisibility. The sprite casts Invisibility on itself, requiring no spell compon
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 12 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 16 | +3 | +3 |
 
 **Skills Deception +5, Insight +4, Investigation +5,**
 
@@ -806,11 +787,10 @@ Cunning Action. The spy takes the Dash, Disengage, or Hide action. Stirge
 
 **Speed 30 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 5 | −3 | −3 | **Dex** 11 | +0 | +0 | **Con** 10 | +0 | +0 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 5  | −3  |  −3  | **Dex** 11 | +0  |  +0  | **Con** 10 | +0 | +0 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 12 | +1 | +1 |
 
 **Skills Stealth +2**
 
@@ -852,11 +832,10 @@ Half damage only. Failure or Success: Being underwater doesn’t grant Resistanc
 
 **Speed 10 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 4 | −3 | −3 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 6 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 4 | −3  |  −3  | **Dex** 16 | +3  |  +3  | **Con** 11 | +0 | +0 |
+| **Int** 2 | −4  |  −4  | **Wis** 8  | −1  |  −1  | **Cha** 6 | −2 | −2 |
 
 **Senses Darkvision 60 ft.; Passive Perception 9**
 
@@ -878,11 +857,10 @@ Proboscis. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage, 
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 15 | +2 | +5 | **Con** 20 | +5 | +8 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +4 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 15 | +2  |  +5  | **Con** 20 | +5 | +8 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +4  | **Cha** 9 | −1 | −1 |
 
 **Skills Athletics +12, Perception +4, Stealth +5**
 
@@ -918,11 +896,10 @@ Deflect Missile (Recharge 5–6). Trigger: The giant is hit by a ranged attack r
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 9 | −1 | −1 | **Con** 20 | +5 | +5 |
-| **Int** 3 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 9  | −1  |  −1  | **Con** 20 | +5 | +5 |
+| **Int** 3  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 1 | −5 | −5 |
 
 **Immunities Poison, Psychic; Charmed, Exhaustion,**
 
@@ -964,11 +941,10 @@ Slow (Recharge 5–6). The golem casts the Slow spell, requiring no spell compon
 
 **Speed 50 ft., Fly 25 ft. (hover), Swim 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 29 | +9 | +14 | **Dex** 14 | +2 | +2 | **Con** 20 | +5 | +10 |
-| **Int** 16 | +3 | +3 | **Wis** 20 | +5 | +10 | **Cha** 18 | +4 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 29 | +9  | +14  | **Dex** 14 | +2  |  +2  | **Con** 20 | +5 | +10 |
+| **Int** 16 | +3  |  +3  | **Wis** 20 | +5  | +10  | **Cha** 18 | +4 | +9 |
 
 **Skills Arcana +8, Athletics +14, History +8, Perception +10**
 
@@ -1008,11 +984,10 @@ Spellcasting. The giant casts one of the following spells, requiring no Material
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 15 | +2 | +2 | **Wis** 12 | +1 | +1 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8  | −1  |  −1  | **Dex** 17 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 15 | +2  |  +2  | **Wis** 12 | +1  |  +1  | **Cha** 20 | +5 | +5 |
 
 **Skills Deception +9, Insight +5, Perception +5, Persuasion**
 
@@ -1056,11 +1031,10 @@ it is wearing or carrying isn’t transformed. Tarrasque
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

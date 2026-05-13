@@ -3,6 +3,7 @@ aliases: ["Light"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Luz|Luz (Español)]]"
 ---
+
 ### Light
 
 *Evocation Cantrip* (Bard, Cleric, Sorcerer, Wizard)

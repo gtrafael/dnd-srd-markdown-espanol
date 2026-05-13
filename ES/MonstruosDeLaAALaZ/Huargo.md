@@ -17,13 +17,13 @@ related_en: "[[Monsters/Worg|Worg (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 13 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| SAB | 11 | +0 | +0 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     7 |  -2 |   -2 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Habilidades:** Percepción +4
 

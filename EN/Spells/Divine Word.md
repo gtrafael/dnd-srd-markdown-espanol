@@ -3,6 +3,7 @@ aliases: ["Divine Word"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/PalabraDivina|Palabra divina (Español)]]"
 ---
+
 ### Divine Word
 
 *Level 7 Evocation* (Cleric)

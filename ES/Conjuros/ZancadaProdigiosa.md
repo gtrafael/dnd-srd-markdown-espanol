@@ -16,9 +16,9 @@ related_en: "[[Spells/Longstrider|Longstrider (EN)]]"
 
 **Duración:** 1 hora
 
-Tocas a una criatura y su velocidad aumenta en 3 m hasta que el conjuro termine. 
+Tocas a una criatura y su velocidad aumenta en 3 m hasta que el conjuro termine.
 
-**Con un espacio de conjuro de nivel superior.** 
+**Con un espacio de conjuro de nivel superior.**
 
 Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio. 
 

@@ -3,6 +3,7 @@ aliases: ["Elk"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Alce|Alce (Español)]]"
 ---
+
 ## Elk
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Alce|Alce (Español)]]"
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 10 | +0 | +0 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 10 | +0  |  +0  | **Con** 11 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +2**
 

@@ -3,6 +3,7 @@ aliases: ["Blur"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ContornoBorroso|Contorno borroso (Español)]]"
 ---
+
 ### Blur
 
 *Level 2 Illusion* (Sorcerer, Wizard)

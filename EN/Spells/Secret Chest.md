@@ -3,6 +3,7 @@ aliases: ["Secret Chest"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CofreOculto|Cofre oculto (Español)]]"
 ---
+
 ### Secret Chest
 
 *Level 4 Conjuration* (Wizard)

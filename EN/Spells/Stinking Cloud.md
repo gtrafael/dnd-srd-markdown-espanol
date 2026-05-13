@@ -3,6 +3,7 @@ aliases: ["Stinking Cloud"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/NubeApestosa|Nube apestosa (Español)]]"
 ---
+
 ### Stinking Cloud
 
 *Level 3 Conjuration* (Bard, Sorcerer, Wizard)

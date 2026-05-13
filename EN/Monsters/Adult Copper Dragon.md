@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeCobreAdulto|Dragón de cobre adulto (E
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 12 | +1 | +6 | **Con** 21 | +5 | +5 |
-| **Int** 18 | +4 | +4 | **Wis** 15 | +2 | +7 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 12 | +1  |  +6  | **Con** 21 | +5 | +5 |
+| **Int** 18 | +4  |  +4  | **Wis** 15 | +2  |  +7  | **Cha** 18 | +4 | +4 |
 
 **Skills Deception +9, Perception +12, Stealth +6**
 

@@ -3,6 +3,7 @@ aliases: ["Giant Vulture"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/BuitreGigante|Buitre gigante (Español)]]"
 ---
+
 ## Giant Vulture
 
 *Large Monstrosity, Neutral Evil*
@@ -13,11 +14,10 @@ related_es: "[[Animales/BuitreGigante|Buitre gigante (Español)]]"
 
 **Speed 10 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 10 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 6 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 10 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 6  | −2  |  −2  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +3**
 

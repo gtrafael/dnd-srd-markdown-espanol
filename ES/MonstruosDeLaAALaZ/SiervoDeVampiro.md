@@ -17,13 +17,13 @@ related_en: "[[Monsters/Vampire Familiar|Vampire Familiar (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 16 | +3 | +5 |
-| CON | 15 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| SAB | 10 | +0 | +2 |
-| CAR | 14 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    16 |  +3 |   +5 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +2 |
+| CAR   |    14 |  +2 |   +2 |
 
 **Habilidades:** Percepción +4, Persuasión +4, Sigilo +7
 

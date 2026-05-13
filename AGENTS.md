@@ -74,6 +74,7 @@ This is a **Spanish-first** D&D 5.5E SRD v5.2.1 repository. All content is Markd
 ### Frontmatter (YAML, every file)
 
 **ES files:**
+
 ```yaml
 ---
 aliases: ["Spanish Name", "English Name"]
@@ -83,6 +84,7 @@ related_en: "[[EN-Dir/EN-File|Display (EN)]]"
 ```
 
 **EN files:**
+
 ```yaml
 ---
 aliases: ["English Name", "Spanish Name"]
@@ -92,6 +94,7 @@ related_es: "[[ES-Dir/ES-File|Display (Español)]]"
 ```
 
 **Special cases:**
+
 - Files with no equivalent in the other language get `sin-equivalente` tag and no `related_en`/`related_es`
 - Category tags: `tag_clases`, `tag_conjuros`, `tag_monstruos`, `tag_animales`, `tag_equipo`, `tag_dotes`, `tag_origenes`, `tag_tesoro`, `tag_comojugar`, `tag_creaciondepersonajes`, `tag_glosariodereglas`, `tag_herramientasdeljuego`
 
@@ -108,13 +111,13 @@ Markdown `[text](url)` links are only for external URLs.
 
 ### Markup differences between ES and EN
 
-| Feature | EN | ES |
-|---|---|---|
-| Tables | Markdown pipe tables | Markdown pipe tables |
-| Distances | Feet (ft) | Meters (m), 1 square = 1.5 m |
-| Units | Imperial | Metric |
-| Monster docs | Rules embedded in each file | Separate rules doc (`Monstruos/Monstruos.md`) + individual stat blocks |
-| Cross-reference links | Via frontmatter `related_es` | Via frontmatter `related_en` |
+| Feature               | EN                           | ES                                                                     |
+|-----------------------|------------------------------|------------------------------------------------------------------------|
+| Tables                | Markdown pipe tables         | Markdown pipe tables                                                   |
+| Distances             | Feet (ft)                    | Meters (m), 1 square = 1.5 m                                           |
+| Units                 | Imperial                     | Metric                                                                 |
+| Monster docs          | Rules embedded in each file  | Separate rules doc (`Monstruos/Monstruos.md`) + individual stat blocks |
+| Cross-reference links | Via frontmatter `related_es` | Via frontmatter `related_en`                                           |
 
 ES files use Markdown pipe tables. The original HTML tables from the Spanish PDF were converted using `scripts/convertir_tablas.py`.
 
@@ -133,7 +136,7 @@ When making bulk changes, update both the individual file and its corresponding 
 ### When adding or modifying a file
 
 1. **Every ES file must have**: `aliases`, `tags`, `related_en` in frontmatter
-2. **Every EN file must have**: `aliases`, `tags`, `related_es` in frontmatter  
+2. **Every EN file must have**: `aliases`, `tags`, `related_es` in frontmatter
 3. **Wikilinks must match filenames exactly** — Obsidian treats `[[file]]` as case-insensitive but the path must resolve
 4. **Use Markdown pipe tables in all files** — HTML tables were converted in May 2026
 5. **Keep Imperial in EN, Metric in ES** — don't convert units across languages

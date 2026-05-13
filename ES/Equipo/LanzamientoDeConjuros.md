@@ -5,11 +5,9 @@ tags: [srd, espanol, tag_equipo, sin-equivalente]
 
 # Lanzamiento de conjuros
 
-La mayoría de poblaciones cuentan con individuos que están dispuestos a lanzar conjuros a cambio de dinero. Si un conjuro tiene componentes caros, suma el precio de estos componentes a la remuneración que aparece en la tabla “Servicios de lanzamiento de conjuros”. Cuanto mayor sea el nivel del conjuro deseado, más difícil será encontrar a alguien que lo lance. 
-
+La mayoría de poblaciones cuentan con individuos que están dispuestos a lanzar conjuros a cambio de dinero. Si un conjuro tiene componentes caros, suma el precio de estos componentes a la remuneración que aparece en la tabla “Servicios de lanzamiento de conjuros”. Cuanto mayor sea el nivel del conjuro deseado, más difícil será encontrar a alguien que lo lance.
 
 Servicios de lanzamiento de conjuros
-
 
 | Nivel delconjuro | Disponibilidad         | Remuneración |
 |------------------|------------------------|--------------|

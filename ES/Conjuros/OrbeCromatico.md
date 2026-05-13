@@ -16,9 +16,9 @@ related_en: "[[Spells/Chromatic Orb|Chromatic Orb (EN)]]"
 
 **Duración:** Instantáneo
 
-**Lanzas un orbe de energía a un objetivo dentro del alcance.** Elige entre ácido, frío, fuego, relámpago, trueno o veneno para el tipo de orbe creado y después haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe 3d8 de daño del tipo elegido. 
+**Lanzas un orbe de energía a un objetivo dentro del alcance.** Elige entre ácido, frío, fuego, relámpago, trueno o veneno para el tipo de orbe creado y después haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe 3d8 de daño del tipo elegido.
 
-Si sacas el mismo número en dos o más de los d8, el orbe salta a otro objetivo distinto de tu elección que esté a 9 m o menos del objetivo. Haz una tirada de ataque contra el nuevo objetivo y otra tirada de daño. El orbe no puede volver a saltar, a menos que lances el conjuro con un espacio de nivel 2 o superior. 
+Si sacas el mismo número en dos o más de los d8, el orbe salta a otro objetivo distinto de tu elección que esté a 9 m o menos del objetivo. Haz una tirada de ataque contra el nuevo objetivo y otra tirada de daño. El orbe no puede volver a saltar, a menos que lances el conjuro con un espacio de nivel 2 o superior.
 
 **Con un espacio de conjuro de nivel superior.**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CentinelaAzer|Centinela azer (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 15 | +2 | +4 |
-| **Int** 12 | +1 | +1 | **Wis** 13 | +1 | +1 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 15 | +2 | +4 |
+| **Int** 12 | +1  |  +1  | **Wis** 13 | +1  |  +1  | **Cha** 10 | +0 | +0 |
 
 **Immunities Fire, Poison; Poisoned**
 

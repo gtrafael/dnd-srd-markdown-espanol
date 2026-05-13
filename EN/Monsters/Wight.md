@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Tumulario|Tumulario (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +3, Stealth +4**
 

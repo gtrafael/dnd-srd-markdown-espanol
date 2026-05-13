@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Oni|Oni (Español)]]"
 
 **Speed 30 ft., Fly 30 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 11 | +0 | +3 | **Con** 16 | +3 | +6 |
-| **Int** 14 | +2 | +2 | **Wis** 12 | +1 | +4 | **Cha** 15 | +2 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 11 | +0  |  +3  | **Con** 16 | +3 | +6 |
+| **Int** 14 | +2  |  +2  | **Wis** 12 | +1  |  +4  | **Cha** 15 | +2 | +5 |
 
 **Skills Arcana +5, Deception +8, Perception +4**
 

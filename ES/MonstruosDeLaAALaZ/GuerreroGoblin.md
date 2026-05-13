@@ -17,13 +17,13 @@ related_en: "[[Monsters/Goblin Warrior|Goblin Warrior (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 8 | -1 | -1 |
-| DES | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| SAB | 8 | -1 | -1 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |     8 |  -1 |   -1 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Habilidades:** Sigilo +6
 

@@ -3,19 +3,20 @@ aliases: ["Ranger"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Explorador|Explorador (Español)]]"
 ---
+
 # Ranger
 
 ## Core Ranger Traits
 
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | Dexterity and Wisdom |
-| **Hit Point Die** | D10 per Ranger level |
-| **Saving Throw Proficiencies** | Strength and Dexterity |
-| **Skill Proficiencies** | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival |
-| **Weapon Proficiencies** | Simple and Martial weapons |
-| **Armor Training** | Light and Medium armor and Shields |
-| **Starting Equipment** | Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150 GP |
+| Trait                          | Detail                                                                                                                                                                   |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Primary Ability**            | Dexterity and Wisdom                                                                                                                                                     |
+| **Hit Point Die**              | D10 per Ranger level                                                                                                                                                     |
+| **Saving Throw Proficiencies** | Strength and Dexterity                                                                                                                                                   |
+| **Skill Proficiencies**        | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival                                                                   |
+| **Weapon Proficiencies**       | Simple and Martial weapons                                                                                                                                               |
+| **Armor Training**             | Light and Medium armor and Shields                                                                                                                                       |
+| **Starting Equipment**         | Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150 GP |
 
 ## Becoming a Ranger
 
@@ -33,28 +34,28 @@ related_es: "[[Clases/Explorador|Explorador (Español)]]"
 
 As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
 
-| Level | Proficiency Bonus | Class Features | Favoured Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
-|-------|-------------------|----------------|----------------|-----------------|-----|-----|-----|-----|-----|
-| 1 | +2 | Spellcasting, Favored Enemy, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
-| 2 | +2 | Deft Explorer, Fighting Style | 2 | 3 | 2 | — | — | — | — |
-| 3 | +2 | Ranger Subclass | 2 | 4 | 3 | — | — | — | — |
-| 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
-| 5 | +3 | Extra Attack | 3 | 6 | 4 | 2 | — | — | — |
-| 6 | +3 | Roving | 3 | 6 | 4 | 2 | — | — | — |
-| 7 | +3 | Subclass feature | 3 | 7 | 4 | 3 | — | — | — |
-| 8 | +3 | Ability Score Improvement | 3 | 7 | 4 | 3 | — | — | — |
-| 9 | +4 | Expertise | 4 | 9 | 4 | 3 | 2 | — | — |
-| 10 | +4 | Tireless | 4 | 9 | 4 | 3 | 2 | — | — |
-| 11 | +4 | Subclass feature | 4 | 10 | 4 | 3 | 3 | — | — |
-| 12 | +4 | Ability Score Improvement | 4 | 10 | 4 | 3 | 3 | — | — |
-| 13 | +5 | Relentless Hunter | 5 | 11 | 4 | 3 | 3 | 1 | — |
-| 14 | +5 | Nature's Veil | 5 | 11 | 4 | 3 | 3 | 1 | — |
-| 15 | +5 | Subclass feature | 5 | 12 | 4 | 3 | 3 | 2 | — |
-| 16 | +5 | Ability Score Improvement | 5 | 12 | 4 | 3 | 3 | 2 | — |
-| 17 | +6 | Precise Hunter | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 18 | +6 | Feral Senses | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | Epic Boon | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
-| 20 | +6 | Foe Slayer | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+| Level | Proficiency Bonus | Class Features                              | Favoured Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
+|-------|-------------------|---------------------------------------------|----------------|-----------------|-----|-----|-----|-----|-----|
+| 1     | +2                | Spellcasting, Favored Enemy, Weapon Mastery | 2              | 2               | 2   | —   | —   | —   | —   |
+| 2     | +2                | Deft Explorer, Fighting Style               | 2              | 3               | 2   | —   | —   | —   | —   |
+| 3     | +2                | Ranger Subclass                             | 2              | 4               | 3   | —   | —   | —   | —   |
+| 4     | +2                | Ability Score Improvement                   | 2              | 5               | 3   | —   | —   | —   | —   |
+| 5     | +3                | Extra Attack                                | 3              | 6               | 4   | 2   | —   | —   | —   |
+| 6     | +3                | Roving                                      | 3              | 6               | 4   | 2   | —   | —   | —   |
+| 7     | +3                | Subclass feature                            | 3              | 7               | 4   | 3   | —   | —   | —   |
+| 8     | +3                | Ability Score Improvement                   | 3              | 7               | 4   | 3   | —   | —   | —   |
+| 9     | +4                | Expertise                                   | 4              | 9               | 4   | 3   | 2   | —   | —   |
+| 10    | +4                | Tireless                                    | 4              | 9               | 4   | 3   | 2   | —   | —   |
+| 11    | +4                | Subclass feature                            | 4              | 10              | 4   | 3   | 3   | —   | —   |
+| 12    | +4                | Ability Score Improvement                   | 4              | 10              | 4   | 3   | 3   | —   | —   |
+| 13    | +5                | Relentless Hunter                           | 5              | 11              | 4   | 3   | 3   | 1   | —   |
+| 14    | +5                | Nature's Veil                               | 5              | 11              | 4   | 3   | 3   | 1   | —   |
+| 15    | +5                | Subclass feature                            | 5              | 12              | 4   | 3   | 3   | 2   | —   |
+| 16    | +5                | Ability Score Improvement                   | 5              | 12              | 4   | 3   | 3   | 2   | —   |
+| 17    | +6                | Precise Hunter                              | 6              | 14              | 4   | 3   | 3   | 3   | 1   |
+| 18    | +6                | Feral Senses                                | 6              | 14              | 4   | 3   | 3   | 3   | 1   |
+| 19    | +6                | Epic Boon                                   | 6              | 15              | 4   | 3   | 3   | 3   | 2   |
+| 20    | +6                | Foe Slayer                                  | 6              | 15              | 4   | 3   | 3   | 3   | 2   |
 
 ### Level 1: Spellcasting
 
@@ -160,76 +161,76 @@ This section presents the Ranger spell list. The spells are organized by spell l
 
 ### Level 1 Ranger Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Alarm | Abjuration | R |
-| Animal Friendship | Enchantment | — |
-| Cure Wounds | Abjuration | — |
-| Detect Magic | Divination | C, R |
-| Detect Poison and Disease | Divination | C, R |
-| Ensnaring Strike | Conjuration | C |
-| Entangle | Conjuration | C |
-| Fog Cloud | Conjuration | C |
-| Goodberry | Conjuration | — |
-| Hunter's Mark | Divination | C |
-| Jump | Transmutation | — |
-| Longstrider | Transmutation | — |
-| Speak with Animals | Divination | R |
+| Spell                     | School        | Special |
+|---------------------------|---------------|---------|
+| Alarm                     | Abjuration    | R       |
+| Animal Friendship         | Enchantment   | —       |
+| Cure Wounds               | Abjuration    | —       |
+| Detect Magic              | Divination    | C, R    |
+| Detect Poison and Disease | Divination    | C, R    |
+| Ensnaring Strike          | Conjuration   | C       |
+| Entangle                  | Conjuration   | C       |
+| Fog Cloud                 | Conjuration   | C       |
+| Goodberry                 | Conjuration   | —       |
+| Hunter's Mark             | Divination    | C       |
+| Jump                      | Transmutation | —       |
+| Longstrider               | Transmutation | —       |
+| Speak with Animals        | Divination    | R       |
 
 ### Level 2 Ranger Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Aid | Abjuration | — |
-| Animal Messenger | Enchantment | R |
-| Barkskin | Transmutation | — |
-| Darkvision | Transmutation | — |
-| Enhance Ability | Transmutation | C |
-| Find Traps | Divination | — |
-| Gust of Wind | Evocation | C |
-| Lesser Restoration | Abjuration | — |
-| Locate Animals or Plants | Divination | R |
-| Locate Object | Divination | C |
-| Magic Weapon | Transmutation | — |
-| Pass without Trace | Abjuration | C |
-| Protection from Poison | Abjuration | — |
-| Silence | Illusion | C, R |
-| Spike Growth | Transmutation | C |
+| Spell                    | School        | Special |
+|--------------------------|---------------|---------|
+| Aid                      | Abjuration    | —       |
+| Animal Messenger         | Enchantment   | R       |
+| Barkskin                 | Transmutation | —       |
+| Darkvision               | Transmutation | —       |
+| Enhance Ability          | Transmutation | C       |
+| Find Traps               | Divination    | —       |
+| Gust of Wind             | Evocation     | C       |
+| Lesser Restoration       | Abjuration    | —       |
+| Locate Animals or Plants | Divination    | R       |
+| Locate Object            | Divination    | C       |
+| Magic Weapon             | Transmutation | —       |
+| Pass without Trace       | Abjuration    | C       |
+| Protection from Poison   | Abjuration    | —       |
+| Silence                  | Illusion      | C, R    |
+| Spike Growth             | Transmutation | C       |
 
 ### Level 3 Ranger Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Conjure Animals | Conjuration | C |
-| Daylight | Evocation | — |
-| Dispel Magic | Abjuration | — |
-| Meld into Stone | Transmutation | R |
-| Nondetection | Abjuration | M |
-| Plant Growth | Transmutation | — |
-| Protection from Energy | Abjuration | C |
-| Revivify | Necromancy | M |
-| Speak with Plants | Transmutation | — |
-| Water Breathing | Transmutation | R |
-| Water Walk | Transmutation | R |
-| Wind Wall | Evocation | C |
+| Spell                  | School        | Special |
+|------------------------|---------------|---------|
+| Conjure Animals        | Conjuration   | C       |
+| Daylight               | Evocation     | —       |
+| Dispel Magic           | Abjuration    | —       |
+| Meld into Stone        | Transmutation | R       |
+| Nondetection           | Abjuration    | M       |
+| Plant Growth           | Transmutation | —       |
+| Protection from Energy | Abjuration    | C       |
+| Revivify               | Necromancy    | M       |
+| Speak with Plants      | Transmutation | —       |
+| Water Breathing        | Transmutation | R       |
+| Water Walk             | Transmutation | R       |
+| Wind Wall              | Evocation     | C       |
 
 ### Level 4 Ranger Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Conjure Woodland Beings | Conjuration | C |
-| Dominate Beast | Enchantment | C |
-| Freedom of Movement | Abjuration | — |
-| Locate Creature | Divination | C |
-| Stoneskin | Transmutation | C, M |
+| Spell                   | School        | Special |
+|-------------------------|---------------|---------|
+| Conjure Woodland Beings | Conjuration   | C       |
+| Dominate Beast          | Enchantment   | C       |
+| Freedom of Movement     | Abjuration    | —       |
+| Locate Creature         | Divination    | C       |
+| Stoneskin               | Transmutation | C, M    |
 
 ### Level 5 Ranger Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Commune with Nature | Divination | R |
-| Greater Restoration | Abjuration | M |
-| Tree Stride | Conjuration | C |
+| Spell               | School      | Special |
+|---------------------|-------------|---------|
+| Commune with Nature | Divination  | R       |
+| Greater Restoration | Abjuration  | M       |
+| Tree Stride         | Conjuration | C       |
 
 ## Ranger Subclass: Hunter
 

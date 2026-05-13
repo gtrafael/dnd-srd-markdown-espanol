@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonTortuga|Dragón tortuga (Español)]]"
 
 **Speed 20 ft., Swim 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 25 | +7 | +7 | **Dex** 10 | +0 | +0 | **Con** 20 | +5 | +11 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +7 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 25 | +7  |  +7  | **Dex** 10 | +0  |  +0  | **Con** 20 | +5 | +11 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +7  | **Cha** 12 | +1 | +1 |
 
 **Resistances Fire**
 

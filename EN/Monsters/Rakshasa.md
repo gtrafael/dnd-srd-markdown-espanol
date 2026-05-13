@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Rakshasa|Rakshasa (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 17 | +3 | +3 | **Con** 18 | +4 | +4 |
-| **Int** 13 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 17 | +3  |  +3  | **Con** 18 | +4 | +4 |
+| **Int** 13 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 20 | +5 | +5 |
 
 **Skills Deception +10, Insight +8, Perception +8**
 

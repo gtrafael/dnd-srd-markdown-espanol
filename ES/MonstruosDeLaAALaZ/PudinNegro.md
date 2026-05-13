@@ -17,13 +17,13 @@ related_en: "[[Monsters/Black Pudding|Black Pudding (EN)]]"
 **Velocidad:** 6 m, trepar 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 5 | -3 | -3 |
-| CON | 16 | +3 | +3 |
-| INT | 1 | -5 | -5 |
-| SAB | 6 | -2 | -2 |
-| CAR | 1 | -5 | -5 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |     5 |  -3 |   -3 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     6 |  -2 |   -2 |
+| CAR   |     1 |  -5 |   -5 |
 
 **Inmunidades:** ácido, cortante, frío, relámpago; agarrado, apresado, asustado, cansancio, derribado, ensordecido, hechizado
 

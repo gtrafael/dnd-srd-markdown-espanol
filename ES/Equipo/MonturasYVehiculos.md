@@ -6,23 +6,21 @@ related_en: "[[Equipment/Transportation|Transportation (EN)]]"
 
 # Monturas y vehículos
 
-Una montura puede ayudarte a viajar con mayor celeridad, pero su propósito principal es cargar con el equipo que, de lo contrario, te ralentizaría. La tabla “Monturas y otros animales” muestra la capacidad de carga de cada animal. Consulta los perfiles de los animales en el capítulo “Monstruos”. 
+Una montura puede ayudarte a viajar con mayor celeridad, pero su propósito principal es cargar con el equipo que, de lo contrario, te ralentizaría. La tabla “Monturas y otros animales” muestra la capacidad de carga de cada animal. Consulta los perfiles de los animales en el capítulo “Monstruos”.
 
 ## Monturas y cargamento
 
-Un animal enganchado a una carreta, carro, carro de guerra, carruaje o trineo puede tirar de hasta cinco veces su capacidad de carga base, incluido el peso del vehículo. Si varios animales tiran del mismo vehículo, suma sus capacidades de carga. 
+Un animal enganchado a una carreta, carro, carro de guerra, carruaje o trineo puede tirar de hasta cinco veces su capacidad de carga base, incluido el peso del vehículo. Si varios animales tiran del mismo vehículo, suma sus capacidades de carga.
 
 ## Barda
 
-La barda es una armadura diseñada para una montura. Cualquier tipo de armadura de la tabla “Armaduras” del capítulo “Equipo” puede comprarse en forma de barda. El precio es el cuádruple del normal y pesa el doble. 
+La barda es una armadura diseñada para una montura. Cualquier tipo de armadura de la tabla “Armaduras” del capítulo “Equipo” puede comprarse en forma de barda. El precio es el cuádruple del normal y pesa el doble.
 
 ## Sillas
 
-Una silla viene con un bocado, bridas, riendas y cualquier otro elemento que se necesite para usarla. Una silla militar proporciona ventaja en cualquier prueba de característica que hagas para permanecer montado. Se necesita una silla exótica para montar en una montura acuática o voladora. 
-
+Una silla viene con un bocado, bridas, riendas y cualquier otro elemento que se necesite para usarla. Una silla militar proporciona ventaja en cualquier prueba de característica que hagas para permanecer montado. Se necesita una silla exótica para montar en una montura acuática o voladora.
 
 Monturas y otros animales
-
 
 | Animal            | Capacidad de carga | Precio |
 |-------------------|--------------------|--------|
@@ -35,9 +33,7 @@ Monturas y otros animales
 | Mula              | 210 kg             | 8 po   |
 | Poni              | 112,5 kg           | 30 po  |
 
-
 Arreos, arneses y vehículos tirados por animales
-
 
 | Animal           | Peso   | Precio |
 |------------------|--------|--------|
@@ -58,27 +54,25 @@ Arreos, arneses y vehículos tirados por animales
 
 ## Vehículos grandes
 
-La tabla “Vehículos acuáticos y aéreos” proporciona el perfil de distintos tipos de vehículos grandes. Se aplican las siguientes notas. 
+La tabla “Vehículos acuáticos y aéreos” proporciona el perfil de distintos tipos de vehículos grandes. Se aplican las siguientes notas.
 
 ## Velocidad
 
-Una embarcación que navega contra un viento fuerte se desplaza a mitad de su velocidad. Con calma chicha (sin viento), ninguna embarcación podrá desplazarse con las velas, sino que deberá recurrir a los remos. Los botes de remos y las barcazas se utilizan en lagos y ríos. Si se desplazan siguiendo la corriente, suma la velocidad de esta (normalmente 4,5 km/h) a la del vehículo. Sin embargo, estos vehículos no pueden remar a contracorriente si esta es significativa, aunque podrían ser arrastrados río arriba por animales de tiro desde la orilla. Se puede cargar con un bote de remos, que pesa 50 kg. 
+Una embarcación que navega contra un viento fuerte se desplaza a mitad de su velocidad. Con calma chicha (sin viento), ninguna embarcación podrá desplazarse con las velas, sino que deberá recurrir a los remos. Los botes de remos y las barcazas se utilizan en lagos y ríos. Si se desplazan siguiendo la corriente, suma la velocidad de esta (normalmente 4,5 km/h) a la del vehículo. Sin embargo, estos vehículos no pueden remar a contracorriente si esta es significativa, aunque podrían ser arrastrados río arriba por animales de tiro desde la orilla. Se puede cargar con un bote de remos, que pesa 50 kg.
 
 ## Tripulación
 
-Los vehículos más grandes que una barcaza o un bote de remos necesitan una tripulación de asalariados cualificados (consulta la sección “Asalariados” más adelante en el capítulo “Equipo”) para manejarlos. La cantidad mínima de asalariados cualificados necesarios para tripular un vehículo depende del tipo de vehículo, como se muestra en la tabla. 
+Los vehículos más grandes que una barcaza o un bote de remos necesitan una tripulación de asalariados cualificados (consulta la sección “Asalariados” más adelante en el capítulo “Equipo”) para manejarlos. La cantidad mínima de asalariados cualificados necesarios para tripular un vehículo depende del tipo de vehículo, como se muestra en la tabla.
 
 ## Pasajeros
 
-La tabla indica la cantidad de pasajeros Pequeños y Medianos que el vehículo puede alojar en hamacas. Un vehículo equipado con camarotes privados puede transportar una quinta parte de ese número de pasajeros. Un pasajero suele pagar 5 pp al día por una hamaca, pero los precios pueden variar de un vehículo a otro. Un camarote privado pequeño suele costar 2 po al día. 
+La tabla indica la cantidad de pasajeros Pequeños y Medianos que el vehículo puede alojar en hamacas. Un vehículo equipado con camarotes privados puede transportar una quinta parte de ese número de pasajeros. Un pasajero suele pagar 5 pp al día por una hamaca, pero los precios pueden variar de un vehículo a otro. Un camarote privado pequeño suele costar 2 po al día.
 
 ## Umbral de daño
 
-Si un vehículo tiene un umbral de daño (consulta el capítulo “Glosario de reglas”), aparecerá en la tabla. 
-
+Si un vehículo tiene un umbral de daño (consulta el capítulo “Glosario de reglas”), aparecerá en la tabla.
 
 Vehículos acuáticos y aéreos
-
 
 | Vehículo        | Velocidad | Tripulación | Pasajeros | Cargamento (toneladas) | CA |  PG | Umbral de daño | Precio    |
 |-----------------|-----------|------------:|-----------|------------------------|---:|----:|----------------|-----------|

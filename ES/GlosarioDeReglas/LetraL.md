@@ -11,11 +11,9 @@ Algunas criaturas pueden levitar, como se indica en sus perfiles, y algunos conj
 
 evitarás caerte en determinadas circunstancias. Consulta también
 
-
 # Ligeramente oscuro
 
 Tienes desventaja en las pruebas de Sabiduría (Percepción) para ver algo en un espacio ligeramente oscuro. Consulta también “Luz tenue” y el capítulo “Cómo jugar” (“Exploración”).
-
 
 # Línea [área de efecto]
 
@@ -23,11 +21,9 @@ Una línea es un área de efecto que se extiende desde un punto de origen en una
 
 El punto de origen de una línea no está incluido en el ärea de efecto,salvo que su creador decida lo contrario.
 
-
 # Luz brillante
 
 La luz brillante es la iluminación normal. Consulta también el capítulo “Cómo jugar” (“Exploración”).
-
 
 # Luz tenue
 

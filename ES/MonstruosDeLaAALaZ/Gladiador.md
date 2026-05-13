@@ -17,13 +17,14 @@ related_en: "[[Monsters/Gladiator|Gladiator (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +7 |
-| DES | 15 | +2 | +5 |
-| CON | 16 | +3 | +6 |
-| INT | 10 | +0 | +0 |
-| SAB | 12 | +1 | +4 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +7 |
+| DES   |    15 |  +2 |   +5 |
+| CON   |    16 |  +3 |   +6 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    12 |  +1 |   +4 |
+| CAR   |    15 |  +2 |   +2 |
+
 **Habilidades:** Atletismo +10, Interpretación +5
 
 **Equipo:** armadura de cuero tachonado, escudo, lanzas (3)

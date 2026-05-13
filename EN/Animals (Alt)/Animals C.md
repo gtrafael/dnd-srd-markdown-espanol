@@ -8,11 +8,10 @@
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 8 | −1 | −1 | **Con** 17 | +3 | +5 |
-| **Int** 2 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 8  | −1  |  −1  | **Con** 17 | +3 | +5 |
+| **Int** 2  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Senses Darkvision 60 ft.; Passive Perception 10**
 
@@ -36,11 +35,10 @@ Bludgeoning damage.
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 15 | +2 | +4 | **Con** 10 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3 | −4  |  −4  | **Dex** 15 | +2  |  +4  | **Con** 10 | +0 | +0 |
+| **Int** 3 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +3, Stealth +4**
 
@@ -70,11 +68,10 @@ Scratch. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage.
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 1  | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Skills Perception +2, Stealth +4**
 
@@ -102,11 +99,10 @@ Constrict. Strength Saving Throw: DC 12, one Medium or smaller creature the snak
 
 **Speed 20 ft., Swim 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 11 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 8 | −1 | −1 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6 | −2  |  −2  | **Dex** 11 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 1 | −5  |  −5  | **Wis** 8  | −1  |  −1  | **Cha** 2 | −4 | −4 |
 
 **Skills Stealth +2**
 
@@ -134,11 +130,10 @@ Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage.
 
 **Speed 20 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 10 | +0 | +0 | **Con** 13 | +1 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 10 | +0  |  +0  | **Con** 13 | +1 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Stealth +2**
 

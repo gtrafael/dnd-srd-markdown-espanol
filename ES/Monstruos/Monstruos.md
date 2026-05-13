@@ -2,6 +2,7 @@
 aliases: ["Partes de un perfil"]
 tags: [srd, espanol, tag_monstruos, sin-equivalente]
 ---
+
 # Monstruos
 
 ## Descripción general de los perfiles
@@ -92,7 +93,6 @@ Los puntos de golpe de un monstruo se presentan como un número seguido por un p
 
 Normalmente, el tamaño del monstruo determina qué dado se usará para calcular sus puntos de golpe, tal y como se indica en la tabla “Dado de golpe por tamaño”.
 
-
 **Dado de golpe por tamaño**
 
 | Tamaño del monstruo | Dado de golpe | PG medios por dado |
@@ -178,9 +178,7 @@ La cantidad de puntos de experiencia (PX) que otorga un monstruo se basa en su V
 
 A menos que una regla indique lo contrario, un monstruo invocado mediante un conjuro o cualquier otra capacidad mágica estará valorado en los PX que se indican en su perfil.
 
-
 **Puntos de experiencia por valor de desafío**
-
 
 | VD  | PX     | VD | PX      |
 |-----|--------|---:|---------|
@@ -206,9 +204,7 @@ A menos que una regla indique lo contrario, un monstruo invocado mediante un con
 
 El bonificador por competencia (BC) de un monstruo lo determina su VD, como se muestra en la tabla “Bonificador por competencia por valor de desafío”, y se refleja en las tiradas de salvación, las habilidades y otras estadísticas en las que la aptitud excepcional de ese monstruo es un factor determinante.
 
-
 **Bonificador por competencia por valor de desafío**
-
 
 | VD    | BC | VD    | BC |
 |-------|---:|-------|---:|
@@ -248,7 +244,6 @@ Los perfiles suelen proporcionar un número y la tirada de dados usada con cada 
 #### Ataque múltiple
 
 Algunas criaturas pueden realizar más de un ataque al llevar a cabo la acción de atacar. Dichas criaturas poseen el apartado “Ataque múltiple” en la sección “Acciones” de su perfil. Este apartado informa de los ataques que puede hacer una criatura y de cualquier capacidad adicional que puede usar como parte de la acción de atacar.
-
 
 ### Lanzamiento de conjuros
 

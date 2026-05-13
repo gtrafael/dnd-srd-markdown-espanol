@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Semidragon|Semidragón (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 14 | +2 | +5 | **Con** 16 | +3 | +3 |
-| **Int** 10 | +0 | +0 | **Wis** 15 | +2 | +5 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 14 | +2  |  +5  | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0  |  +0  | **Wis** 15 | +2  |  +5  | **Cha** 14 | +2 | +2 |
 
 **Skills Athletics +7, Perception +5, Stealth +5**
 

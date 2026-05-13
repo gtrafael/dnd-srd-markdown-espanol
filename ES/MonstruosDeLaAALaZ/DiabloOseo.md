@@ -17,13 +17,14 @@ related_en: "[[Monsters/Bone Devil|Bone Devil (EN)]]"
 **Velocidad:** 12 m, volar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +8 |
-| DES | 16 | +3 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 13 | +1 | +5 |
-| SAB | 14 | +2 | +6 |
-| CAR | 16 | +3 | +7 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +8 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |    13 |  +1 |   +5 |
+| SAB   |    14 |  +2 |   +6 |
+| CAR   |    16 |  +3 |   +7 |
+
 **Habilidades:** Engaño +7, Perspicacia +6
 
 **Resistencias:** frío

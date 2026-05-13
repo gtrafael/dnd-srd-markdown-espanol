@@ -3,6 +3,7 @@ aliases: ["Wolf"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Lobo|Lobo (Español)]]"
 ---
+
 ## Wolf
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Lobo|Lobo (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 15 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 15 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +5, Stealth +4**
 

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Werebear|Werebear (EN)]]"
 **Velocidad:** 9 m, 12 m (solo en forma de oso), trepar 9 m (solo en forma de oso)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 10 | +0 | +0 |
-| CON | 17 | +3 | +3 |
-| INT | 11 | +0 | +0 |
-| SAB | 12 | +1 | +1 |
-| CAR | 12 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Habilidades:** Percepción +7
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/EsfingeDelConocimiento|Esfinge del conocimient
 
 **Speed 40 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 18 | +4 | +4 | **Wis** 18 | +4 | +4 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 18 | +4  |  +4  | **Wis** 18 | +4  |  +4  | **Cha** 18 | +4 | +4 |
 
 **Skills Arcana +12, History +12, Perception +8,**
 

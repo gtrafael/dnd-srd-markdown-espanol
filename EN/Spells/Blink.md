@@ -3,6 +3,7 @@ aliases: ["Blink"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Desplazamiento|Desplazamiento (Español)]]"
 ---
+
 ### Blink
 
 *Level 3 Transmutation* (Sorcerer, Wizard)

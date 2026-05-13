@@ -17,13 +17,13 @@ related_en: "[[Monsters/Pegasus|Pegasus (EN)]]"
 **Velocidad:** 18 m, volar 27 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 15 | +2 | +4 |
-| CON | 16 | +3 | +5 |
-| INT | 10 | +0 | +0 |
-| SAB | 15 | +2 | +4 |
-| CAR | 13 | +1 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    15 |  +2 |   +4 |
+| CON   |    16 |  +3 |   +5 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    15 |  +2 |   +4 |
+| CAR   |    13 |  +1 |   +3 |
 
 **Habilidades:** Percepción +6
 

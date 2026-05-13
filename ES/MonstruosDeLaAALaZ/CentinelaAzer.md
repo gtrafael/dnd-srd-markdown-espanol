@@ -15,13 +15,13 @@ related_en: "[[Monsters/Azer Sentinel|Azer Sentinel (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 12 | +1 | +1 |
-| CON | 15 | +2 | +4 |
-| INT | 12 | +1 | +1 |
-| SAB | 13 | +1 | +1 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    15 |  +2 |   +4 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |    10 |  +0 |   +0 |
 
 **Inmunidades:** fuego, veneno; envenenado
 

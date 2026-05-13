@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GolemDeCarne|Gólem de carne (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 9 | −1 | −1 | **Con** 18 | +4 | +4 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 9  | −1  |  −1  | **Con** 18 | +4 | +4 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Immunities Lightning, Poison; Charmed, Exhaustion,**
 

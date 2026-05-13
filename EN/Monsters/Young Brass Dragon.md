@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeOropelJoven|Dragón de oropel joven (E
 
 **Speed 40 ft., Burrow 20 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +3 | **Con** 17 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +3 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 10 | +0  |  +3  | **Con** 17 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 11 | +0  |  +3  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +6, Persuasion +5, Stealth +3**
 

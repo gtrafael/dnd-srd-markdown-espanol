@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonAzulJoven|Dragón azul joven (Español)]
 
 **Speed 40 ft., Burrow 20 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 10 | +0 | +4 | **Con** 19 | +4 | +4 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +5 | **Cha** 17 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 10 | +0  |  +4  | **Con** 19 | +4 | +4 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +5  | **Cha** 17 | +3 | +3 |
 
 **Skills Perception +9, Stealth +4**
 

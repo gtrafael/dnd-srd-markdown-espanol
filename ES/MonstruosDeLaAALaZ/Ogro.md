@@ -17,13 +17,14 @@ related_en: "[[Monsters/Ogre|Ogre (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 8 | -1 | -1 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| SAB | 7 | -2 | -2 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |     7 |  -2 |   -2 |
+| CAR   |     7 |  -2 |   -2 |
+
 **Equipo:** garrote grande, jabalinas (3)
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 8

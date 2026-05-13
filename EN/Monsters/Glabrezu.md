@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Glabrezu|Glabrezu (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +9 | **Dex** 15 | +2 | +2 | **Con** 21 | +5 | +9 |
-| **Int** 19 | +4 | +4 | **Wis** 17 | +3 | +7 | **Cha** 16 | +3 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +9  | **Dex** 15 | +2  |  +2  | **Con** 21 | +5 | +9 |
+| **Int** 19 | +4  |  +4  | **Wis** 17 | +3  |  +7  | **Cha** 16 | +3 | +7 |
 
 **Skills Deception +7, Perception +7**
 

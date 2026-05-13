@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Grick|Grick (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 3  | −4  |  −4  | **Wis** 14 | +2  |  +2  | **Cha** 5 | −3 | −3 |
 
 **Skills Stealth +4**
 

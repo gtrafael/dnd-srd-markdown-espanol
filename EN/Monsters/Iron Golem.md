@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GolemDeHierro|Gólem de hierro (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 24 | +7 | +7 | **Dex** 9 | −1 | −1 | **Con** 20 | +5 | +5 |
-| **Int** 3 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 24 | +7  |  +7  | **Dex** 9  | −1  |  −1  | **Con** 20 | +5 | +5 |
+| **Int** 3  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 1 | −5 | −5 |
 
 **Immunities Fire, Poison, Psychic; Charmed, Exhaustion,**
 

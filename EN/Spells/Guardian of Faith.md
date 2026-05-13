@@ -3,6 +3,7 @@ aliases: ["Guardian of Faith"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/GuardianDeLaFe|Guardián de la fe (Español)]]"
 ---
+
 ### Guardian of Faith
 
 *Level 4 Conjuration* (Cleric)

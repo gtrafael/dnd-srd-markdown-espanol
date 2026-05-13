@@ -3,6 +3,7 @@ aliases: ["Finger of Death"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DedoDeLaMuerte|Dedo de la muerte (Español)]]"
 ---
+
 ### Finger of Death
 
 *Level 7 Necromancy* (Sorcerer, Warlock, Wizard)

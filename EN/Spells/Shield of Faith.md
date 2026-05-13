@@ -3,6 +3,7 @@ aliases: ["Shield of Faith"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/EscudoDeFe|Escudo de fe (Español)]]"
 ---
+
 ### Shield of Faith
 
 *Level 1 Abjuration* (Cleric, Paladin)

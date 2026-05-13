@@ -8,11 +8,10 @@
 
 **Speed 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 26 | +8 | +8 | **Dex** 15 | +2 | +2 | **Con** 22 | +6 | +12 |
-| **Int** 20 | +5 | +5 | **Wis** 16 | +3 | +9 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 26 | +8  |  +8  | **Dex** 15 | +2  |  +2  | **Con** 22 | +6 | +12 |
+| **Int** 20 | +5  |  +5  | **Wis** 16 | +3  |  +9  | **Cha** 22 | +6 | +6 |
 
 **Skills Perception +9**
 
@@ -64,11 +63,10 @@ Teleport. The balor teleports itself or a willing demon within 10 feet of itself
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Gear Leather Armor, Light Crossbow, Scimitar**
 
@@ -94,11 +92,10 @@ Light Crossbow. Ranged Attack Roll: +3, range 80/320 ft. Hit: 5 (1d8 + 1) Pierci
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +4 | **Dex** 16 | +3 | +5 | **Con** 14 | +2 | +2 |
-| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +2 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +4  | **Dex** 16 | +3  |  +5  | **Con** 14 | +2 | +2 |
+| **Int** 14 | +2  |  +2  | **Wis** 11 | +0  |  +2  | **Cha** 14 | +2 | +2 |
 
 **Skills Athletics +4, Deception +4**
 
@@ -132,11 +129,10 @@ Parry. Trigger: The bandit is hit by a melee attack roll while holding a weapon.
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +6 | **Dex** 17 | +3 | +3 | **Con** 18 | +4 | +7 |
-| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +5 | **Cha** 14 | +2 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +6  | **Dex** 17 | +3  |  +3  | **Con** 18 | +4 | +7 |
+| **Int** 12 | +1  |  +1  | **Wis** 14 | +2  |  +5  | **Cha** 14 | +2 | +5 |
 
 **Skills Deception +5, Insight +5, Perception +8**
 
@@ -180,11 +176,10 @@ Hurl Flame. Ranged Attack Roll: +5, range 150 ft. Hit: 17 (5d6) Fire damage. If 
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 8 | −1 | −1 | **Con** 15 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 8 | −1  |  −1  | **Con** 15 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 8 | −1  |  −1  | **Cha** 7 | −2 | −2 |
 
 **Senses Darkvision 60 ft.; Passive Perception 9**
 
@@ -214,11 +209,10 @@ Petrified condition instead of the Restrained condition. Bearded Devil
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +5 | **Dex** 15 | +2 | +2 | **Con** 15 | +2 | +4 |
-| **Int** 9 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 14 | +2 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +5  | **Dex** 15 | +2  |  +2  | **Con** 15 | +2 | +4 |
+| **Int** 9  | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 14 | +2 | +4 |
 
 **Resistances Cold**
 
@@ -256,11 +250,10 @@ Points at the start of each of its turns. The wound closes after 1 minute, after
 
 **Speed 50 ft., Climb 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 16 | +3 | +3 | **Con** 18 | +4 | +4 |
-| **Int** 7 | −2 | −2 | **Wis** 14 | +2 | +2 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 16 | +3  |  +3  | **Con** 18 | +4 | +4 |
+| **Int** 7  | −2  |  −2  | **Wis** 14 | +2  |  +2  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +6, Stealth +7**
 
@@ -296,11 +289,10 @@ Swallow. Dexterity Saving Throw: DC 18, one Large or smaller creature Grappled b
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 17 | +3 | +3 |
-| **Int** 9 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 17 | +3 | +3 |
+| **Int** 9  | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 9 | −1 | −1 |
 
 **Gear Greataxe, Hide Armor**
 
@@ -330,11 +322,10 @@ Greataxe. Melee Attack Roll: +5, reach 5 ft. Hit: 9 (1d12 + 3) Slashing damage. 
 
 **Speed 30 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +4 | **Con** 13 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +2 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +4  | **Con** 13 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +2  | **Cha** 13 | +1 | +1 |
 
 **Skills Perception +4, Stealth +4**
 
@@ -370,11 +361,10 @@ Half damage.
 
 **Speed 20 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 5 | −3 | −3 | **Con** 16 | +3 | +3 |
-| **Int** 1 | −5 | −5 | **Wis** 6 | −2 | −2 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 5 | −3  |  −3  | **Con** 16 | +3 | +3 |
+| **Int** 1  | −5  |  −5  | **Wis** 6 | −2  |  −2  | **Cha** 1 | −5 | −5 |
 
 **Immunities Acid, Cold, Lightning, Slashing; Charmed,**
 
@@ -416,11 +406,10 @@ Split. Trigger: While the pudding is Large or Medium and has 10+ Hit Points, it 
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 17 | +3 | +3 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 17 | +3  |  +3  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +5, Stealth +5**
 
@@ -452,11 +441,10 @@ Teleport (Recharge 4–6). The dog teleports up to 40 feet to an unoccupied spac
 
 **Speed 30 ft., Burrow 15 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 10 | +0 | +2 | **Con** 15 | +2 | +2 |
-| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +2 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 10 | +0  |  +2  | **Con** 15 | +2 | +2 |
+| **Int** 12 | +1  |  +1  | **Wis** 11 | +0  |  +2  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +4, Stealth +2**
 
@@ -486,11 +474,10 @@ Half damage.
 
 **Speed 40 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +8 | **Dex** 16 | +3 | +3 | **Con** 18 | +4 | +4 |
-| **Int** 13 | +1 | +5 | **Wis** 14 | +2 | +6 | **Cha** 16 | +3 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +8  | **Dex** 16 | +3  |  +3  | **Con** 18 | +4 | +4 |
+| **Int** 13 | +1  |  +5  | **Wis** 14 | +2  |  +6  | **Cha** 16 | +3 | +7 |
 
 **Skills Deception +7, Insight +6**
 
@@ -532,11 +519,10 @@ Infernal Sting. Melee Attack Roll: +8, reach 10 ft. Hit: 15 (2d10 + 4) Piercing 
 
 **Speed 30 ft., Burrow 15 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 10 | +0 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +2 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 10 | +0  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +2  | **Cha** 13 | +1 | +1 |
 
 **Skills Perception +4, Stealth +2**
 
@@ -566,11 +552,10 @@ Sleep Breath. Constitution Saving Throw: DC 11, each creature in a 15-foot Cone.
 
 **Speed 30 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 10 | +0 | +2 | **Con** 15 | +2 | +2 |
-| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +2 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 10 | +0  |  +2  | **Con** 15 | +2 | +2 |
+| **Int** 12 | +1  |  +1  | **Wis** 11 | +0  |  +2  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +4, Stealth +2**
 
@@ -606,11 +591,10 @@ Prone condition.
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +4 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +3 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +4 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +3  | **Cha** 11 | +0 | +0 |
 
 **Skills Stealth +6, Survival +3**
 
@@ -648,11 +632,10 @@ Quick Grapple. Dexterity Saving Throw: DC 13, one Medium or smaller creature the
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 8 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 8  | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 9 | −1 | −1 |
 
 **Skills Stealth +6, Survival +2**
 
@@ -684,11 +667,10 @@ Light Hammer. Melee or Ranged Attack Roll: +4 (with Advantage if the target is G
 
 **Speed 40 ft., Burrow 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 21 | +5 | +5 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 11 | +0  |  +0  | **Con** 21 | +5 | +5 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +6**
 

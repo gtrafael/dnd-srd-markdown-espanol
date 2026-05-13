@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Pseudodragon|Pseudodragón (Español)]]"
 
 **Speed 15 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 15 | +2 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6  | −2  |  −2  | **Dex** 15 | +2  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +5, Stealth +4**
 

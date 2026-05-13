@@ -16,7 +16,7 @@ related_en: "[[Spells/Healing Word|Healing Word (EN)]]"
 
 **Duración:** Instantáneo
 
-Una criatura de tu elección que puedas ver dentro del alcance recupera una cantidad de puntos de golpe igual a 2d4 más tu modificador por aptitud mágica. 
+Una criatura de tu elección que puedas ver dentro del alcance recupera una cantidad de puntos de golpe igual a 2d4 más tu modificador por aptitud mágica.
 
 **Con un espacio de conjuro de nivel superior.**
 

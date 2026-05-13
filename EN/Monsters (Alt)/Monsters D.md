@@ -8,11 +8,10 @@
 
 **Speed 10 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Stealth +3**
 
@@ -44,11 +43,10 @@ Emanation originating from the darkmantle. This effect lasts while the darkmantl
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 3 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 3  | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +5, Stealth +4**
 
@@ -78,11 +76,10 @@ Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage. If th
 
 **Speed 30 ft., Fly 90 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 18 | +4 | +4 | **Con** 18 | +4 | +4 |
-| **Int** 17 | +3 | +3 | **Wis** 20 | +5 | +9 | **Cha** 20 | +5 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 18 | +4  |  +4  | **Con** 18 | +4 | +4 |
+| **Int** 17 | +3  |  +3  | **Wis** 20 | +5  |  +9  | **Cha** 20 | +5 | +9 |
 
 **Skills Insight +9, Perception +9**
 
@@ -126,11 +123,10 @@ Divine Aid (2/Day). The deva casts Cure Wounds, Lesser Restoration, or Remove Cu
 
 **Speed 30 ft., Fly 90 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 15 | +2 | +6 | **Con** 22 | +6 | +6 |
-| **Int** 15 | +2 | +2 | **Wis** 16 | +3 | +7 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 15 | +2  |  +6  | **Con** 22 | +6 | +6 |
+| **Int** 15 | +2  |  +2  | **Wis** 16 | +3  |  +7  | **Cha** 20 | +5 | +5 |
 
 **Immunities Lightning, Thunder**
 
@@ -174,11 +170,10 @@ Spellcasting. The djinni casts one of the following spells, requiring no Materia
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 18 | +4 | +4 | **Con** 14 | +2 | +2 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 18 | +4  |  +4  | **Con** 14 | +2 | +2 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 14 | +2 | +2 |
 
 **Skills Deception +6, Insight +3**
 
@@ -218,11 +213,10 @@ Shape-Shift. The doppelganger shape-shifts into a Medium or Small Humanoid, or i
 
 **Speed 20 ft., Swim 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 25 | +7 | +7 | **Dex** 10 | +0 | +0 | **Con** 20 | +5 | +11 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +7 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 25 | +7  |  +7  | **Dex** 10 | +0  |  +0  | **Con** 20 | +5 | +11 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +7  | **Cha** 12 | +1 | +1 |
 
 **Resistances Fire**
 
@@ -256,11 +250,10 @@ Tail. Melee Attack Roll: +13, reach 15 ft. Hit: 18 (2d10 + 7) Bludgeoning damage
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 11 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 5 | −3 | −3 | **Wis** 8 | −1 | −1 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 11 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 5  | −3  |  −3  | **Wis** 8  | −1  |  −1  | **Cha** 3 | −4 | −4 |
 
 **Resistances Cold, Fire, Lightning**
 
@@ -292,11 +285,10 @@ Fetid Cloud (1/Day). Constitution Saving Throw: DC 11, each creature in a 10-foo
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 19 | +4 | +4 | **Con** 18 | +4 | +4 |
-| **Int** 13 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 19 | +4  |  +4  | **Con** 18 | +4 | +4 |
+| **Int** 13 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +6, Stealth +10**
 
@@ -340,11 +332,10 @@ Magic of the Spider Queen (Recharge 5–6). The drider casts Darkness, Faerie Fi
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 12 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 12 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 11 | +0 | +0 |
 
 **Skills Medicine +5, Nature +3, Perception +5**
 
@@ -378,11 +369,10 @@ Spellcasting. The druid casts one of the following spells, using Wisdom as the s
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 14 | +2 | +2 | **Wis** 15 | +2 | +2 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 12 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 14 | +2  |  +2  | **Wis** 15 | +2  |  +2  | **Cha** 18 | +4 | +4 |
 
 **Skills Perception +4, Stealth +5**
 
@@ -424,11 +414,10 @@ Tree Stride. If within 5 feet of a Large or bigger tree, the dryad teleports to 
 
 **Speed 30 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 5 | −3 | −3 | **Dex** 14 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 9 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 5 | −3  |  −3  | **Dex** 14 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 9 | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +2, Stealth +4**
 

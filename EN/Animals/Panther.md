@@ -3,6 +3,7 @@ aliases: ["Panther"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Pantera|Pantera (Español)]]"
 ---
+
 ## Panther
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Pantera|Pantera (Español)]]"
 
 **Speed 50 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 16 | +3 | +3 | **Con** 10 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 16 | +3  |  +3  | **Con** 10 | +0 | +0 |
+| **Int** 3  | −4  |  −4  | **Wis** 14 | +2  |  +2  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +4, Stealth +7**
 

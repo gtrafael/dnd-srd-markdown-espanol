@@ -17,13 +17,14 @@ related_en: "[[Monsters/Couatl|Couatl (EN)]]"
 **Velocidad:** 9 m, volar 27 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 20 | +5 | +5 |
-| CON | 17 | +3 | +5 |
-| INT | 18 | +4 | +4 |
-| SAB | 20 | +5 | +7 |
-| CAR | 18 | +4 | +4 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    20 |  +5 |   +5 |
+| CON   |    17 |  +3 |   +5 |
+| INT   |    18 |  +4 |   +4 |
+| SAB   |    20 |  +5 |   +7 |
+| CAR   |    18 |  +4 |   +4 |
+
 **Resistencias:** contundente, cortante, perforante
 
 **Inmunidades:** psíquico, radiante

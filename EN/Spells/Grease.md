@@ -3,6 +3,7 @@ aliases: ["Grease"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Grasa|Grasa (Español)]]"
 ---
+
 ### Grease
 
 *Level 1 Conjuration* (Sorcerer, Wizard)

@@ -3,6 +3,7 @@ aliases: ["Awaken"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Despertar|Despertar (Español)]]"
 ---
+
 ### Awaken
 
 *Level 5 Transmutation* (Bard, Druid)

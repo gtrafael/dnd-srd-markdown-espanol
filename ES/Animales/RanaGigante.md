@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Frog|Giant Frog (EN)]]"
 **Velocidad:** 9 m, nadar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 12 | +1 | +1 |
-| DES | 13 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |    12 |  +1 |   +1 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Habilidades:** Percepción +2, Sigilo +4
 

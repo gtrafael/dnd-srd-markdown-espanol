@@ -7,38 +7,35 @@ tags: [srd, espanol, tag_glosariodereglas, sin-equivalente]
 
 # Pruebas de característica y ataques afectados.
 
-Tienes desventaja en las pruebas de característica y las tiradas de ataque mientras la fuente de tu miedo esté en tu línea de visión. 
+Tienes desventaja en las pruebas de característica y las tiradas de ataque mientras la fuente de tu miedo esté en tu línea de visión.
 
-No puedes acercarte. No puedes acercarte voluntariamente a la fuente de tu miedo. 
-
+No puedes acercarte. No puedes acercarte voluntariamente a la fuente de tu miedo.
 
 # Puntuaciones de característica restablecidas.
 
-Si alguna de tus puntuaciones de característica se había reducido, vuelve a la normalidad. 
+Si alguna de tus puntuaciones de característica se había reducido, vuelve a la normalidad.
 
-Cansancio reducido. Si tienes el estado de cansancio, su nivel se reduce en 1. 
+Cansancio reducido. Si tienes el estado de cansancio, su nivel se reduce en 1.
 
-Rasgo especial. Algunos rasgos se recargan con un descanso largo. Si tienes uno de estos rasgos, se recargará de la forma que indique su descripción. 
+Rasgo especial. Algunos rasgos se recargan con un descanso largo. Si tienes uno de estos rasgos, se recargará de la forma que indique su descripción.
 
-Interrumpir el descanso. Un descanso largo se puede interrumpir de las siguientes formas: 
+Interrumpir el descanso. Un descanso largo se puede interrumpir de las siguientes formas:
 
-• si se tira iniciativa; 
+• si se tira iniciativa;
 
-• si se lanza un conjuro que no sea un truco; 
+• si se lanza un conjuro que no sea un truco;
 
-• si se sufre daño; 
+• si se sufre daño;
 
-• si se camina o se hace algún otro ejercicio físico durante 1 hora. 
+• si se camina o se hace algún otro ejercicio físico durante 1 hora.
 
-Si logras descansar al menos 1 hora antes de la interrupción, obtienes los beneficios de un descanso corto. Consulta también “Descanso corto”. 
+Si logras descansar al menos 1 hora antes de la interrupción, obtienes los beneficios de un descanso corto. Consulta también “Descanso corto”.
 
-Puedes reanudar un descanso largo inmediatamente después de una interrupción. Si lo haces, el descanso requerirá 1 hora adicional por cada interrupción para finalizarlo. 
-
+Puedes reanudar un descanso largo inmediatamente después de una interrupción. Si lo haces, el descanso requerirá 1 hora adicional por cada interrupción para finalizarlo.
 
 # Pruebas de característica y ataques afectados.
 
 Tienes desventaja en las tiradas de ataque y las pruebas de característica.
-
 
 # Paralizado [estado]
 
@@ -54,18 +51,15 @@ Ataques afectados. Las tiradas de ataque contra ti tienen ventaja.
 
 Críticos automáticos. Cualquier tirada de ataque que te acierte es un crítico si el atacante está a 1,5 m o menos de ti.
 
-
 # Peligro
 
 Un peligro es una situación contextual comprometida. Consulta también “Asfixia”, “Caídas, “Deshidratación”, “Desnutrición” y “Fuego”.
-
 
 # Percepción pasiva
 
 La Percepción pasiva es una puntuación que refleja la atención general de una criatura al entorno. El GM usa esta puntuación para determinar si una criatura se percata de algo sin tener que realizar adrede una prueba de Sabiduría (Percepción).
 
 La Percepción pasiva de una criatura es igual a 10 más su bonificador a las pruebas de Sabiduría (Percepción). Si la criatura tiene ventaja en estas pruebas, aumenta la puntuación en 5. Si la criatura tiene desventaja en ellas, reduce la puntuación en 5. Por ejemplo, un personaje de nivel 1 con una Sabiduría de 15 y competencia en Percepción tiene una Percepción pasiva de 14 (10 + 2 + 2). Si ese personaje tiene ventaja en las pruebas de Sabiduría (Percepción), la puntuación será de 19.
-
 
 # Perfil
 
@@ -111,7 +105,6 @@ Notación de tiradas de salvación. Si un efecto obliga a realizar una tirada de
 
 Notación del daño. Los perfiles suelen proporcionar un número estático y la tirada de dados usada con cada efecto de daño. Por ejemplo, un ataque podría causar 4 (1d4 +2) de daño si acierta. Cada GM determina si se emplea el número estático o la tirada de dados que aparece entre paréntesis: no se usan los dos.
 
-
 # Pericia
 
 La pericia es un rasgo que mejora el uso de tu competencia en una habilidad. Cuando hagas una prueba de característica con una competencia en una habilidad en la que tengas pericia, tu bonificador por competencia se duplica en esa prueba salvo que otro rasgo lo duplique.
@@ -120,16 +113,13 @@ Si ganas pericia, la ganas en una habilidad en la que tengas competencia. No pue
 
 Consulta también el capítulo “Cómo jugar” (“Competencia”).
 
-
 # Personaje jugador
 
 Un personaje jugador (también llamado personaje de un jugador) es un personaje que controla un jugador. Consulta también el capítulo “Creación de personajes”.
 
-
 # Personaje no jugador
 
 Un personaje no jugador (PNJ) es un monstruo que tiene un nombre propio y una personalidad particular. Consulta también “Monstruo”.
-
 
 # Petrificado [estado]
 
@@ -149,11 +139,9 @@ Resistencia al daño. Tienes resistencia a todo el daño.
 
 Inmunidad al veneno. Tienes inmunidad al estado de envenenado.
 
-
 # Posesión
 
 Algunos efectos hacen que una criatura sea poseída por otra criatura o entidad. Un efecto de posesión define cómo funciona la misma. Una posesión se puede prevenir con el conjuro protección contra el bien y el mal y deshacer con el conjuro disipar el bien y el mal.
-
 
 # Preparar una acción [acción]
 
@@ -165,31 +153,25 @@ Cuando se produzca la circunstancia de activación, podrás elegir entre usar tu
 
 Cuando te preparas para lanzar un conjuro, lo lanzas con normalidad (gastando cualquier recurso empleado para lanzarlo), pero retienes su energía y la liberas usando tu reacción cuando se produzca la circunstancia que la desencadene. Solo los conjuros cuyo tiempo de lanzamiento sea de una acción pueden formar parte de una acción preparada. Además, el esfuerzo que implica contener las energías mágicas exige concentración, que podrás mantener hasta el principio de tu siguiente turno. Si pierdes la concentración, el conjuro se disipará sin causar efecto alguno.
 
-
 # Prueba con d20
 
 Las pruebas con d20 abarcan las tres principales tiradas con el d20 en el juego: las pruebas de característica, las tiradas de ataque y las tiradas de salvación. Si algo en el juego afecta a las pruebas con d20, afecta a estas tres tiradas. Cada GM decide si una prueba con d20 está justificada en una circunstancia determinada. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).
-
 
 # Prueba de característica
 
 Una prueba de característica es una prueba con d20 que representa el uso de una de las seis características (o de una habilidad asociada a una característica) para superar un desafío. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20” y “Competencia”).
 
-
 # Puntos de experiencia
 
 A medida que los personajes superan desafíos y completan aventuras, ganan puntos de experiencia (PX) otorgados por su Game Master. Cuando el total de PX de un personaje supera ciertos umbrales, el personaje sube de nivel. Consulta también el apartado “Progresión de niveles”.
-
 
 # Puntos de golpe
 
 Los puntos de golpe (pg) miden lo difícil que resulta matar o destruir a una criatura u objeto. El daño reduce los puntos de golpe y la curación los restaura. No puedes tener más puntos de golpe que tus puntos de golpe máximos ni puedes tener menos de 0. Consulta también “Romper objetos” y el capítulo “Cómo jugar” (“Daño y curación”).
 
-
 # Puntos de golpe temporales
 
 Algunos efectos otorgan puntos de golpe temporales, que evitan la pérdida de puntos de golpe reales. Consulta también el capítulo “Cómo jugar” (“Daño y curación”).
-
 
 # Puntuación de característica y modificador
 

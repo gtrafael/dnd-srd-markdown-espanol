@@ -3,6 +3,7 @@ aliases: ["Ape"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Simio|Simio (Español)]]"
 ---
+
 ## Ape
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Simio|Simio (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Athletics +5, Perception +3**
 

@@ -17,13 +17,13 @@ related_en: "[[Animals/Owl|Owl (EN)]]"
 **Velocidad:** 1,5 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 3 | -4 | -4 |
-| DES | 13 | +1 | +1 |
-| CON | 8 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |     3 |  -4 |   -4 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |     8 |  -1 |   -1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Percepción +5, Sigilo +5
 

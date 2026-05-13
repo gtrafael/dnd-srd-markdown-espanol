@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Bat|Giant Bat (EN)]]"
 **Velocidad:** 3 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Sentidos:** visión ciega 36 m; Percepción pasiva 11
 

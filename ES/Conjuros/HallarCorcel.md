@@ -16,15 +16,15 @@ related_en: "[[Spells/Find Steed|Find Steed (EN)]]"
 
 **Duración:** Instantáneo
 
-**Invocas un ser sobrenatural que asume la forma de un corcel fiel en un espacio sin ocupar de tu elección dentro del alcance.** La criatura utiliza el perfil del corcel sobrenatural. Si ya tienes un corcel gracias a este conjuro, se sustituirá por el nuevo. 
+**Invocas un ser sobrenatural que asume la forma de un corcel fiel en un espacio sin ocupar de tu elección dentro del alcance.** La criatura utiliza el perfil del corcel sobrenatural. Si ya tienes un corcel gracias a este conjuro, se sustituirá por el nuevo.
 
-El corcel se parece a un animal Grande que puedas montar de tu elección, como un caballo, un alce, un camello o un lobo terrible. Siempre que lances el conjuro, elige el tipo de criatura del corcel (celestial, feérico o infernal), lo que determinará ciertos atributos de su perfil. 
+El corcel se parece a un animal Grande que puedas montar de tu elección, como un caballo, un alce, un camello o un lobo terrible. Siempre que lances el conjuro, elige el tipo de criatura del corcel (celestial, feérico o infernal), lo que determinará ciertos atributos de su perfil.
 
-**Combate.** El corcel se considera un aliado para tus aliados y para ti. En combate, la criatura comparte tu orden de iniciativa y funciona como una montura controlada mientras vayas sobre ella (como se describe en las normas del combate montado). Si tienes el estado de incapacitado, su turno irá justo después del tuyo, actuará con independencia de ti y se centrará en protegerte. 
+**Combate.** El corcel se considera un aliado para tus aliados y para ti. En combate, la criatura comparte tu orden de iniciativa y funciona como una montura controlada mientras vayas sobre ella (como se describe en las normas del combate montado). Si tienes el estado de incapacitado, su turno irá justo después del tuyo, actuará con independencia de ti y se centrará en protegerte.
 
-**Desaparición del corcel.** El corcel desaparece si sus puntos de golpe se reducen a 0 o si mueres. Cuando desaparece, deja atrás todo lo que vistiera o llevase. Si vuelves a lanzar este conjuro, decides si invocas al corcel que desapareció u otro distinto. 
+**Desaparición del corcel.** El corcel desaparece si sus puntos de golpe se reducen a 0 o si mueres. Cuando desaparece, deja atrás todo lo que vistiera o llevase. Si vuelves a lanzar este conjuro, decides si invocas al corcel que desapareció u otro distinto.
 
-**Con un espacio de conjuro de nivel superior.** Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil. 
+**Con un espacio de conjuro de nivel superior.** Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil.
 
 # Corcel sobrenatural
 
@@ -44,6 +44,7 @@ Celestial, feérico o infernal Grande (a tu elección), neutral
 | INT   |     6 |  -2 |   -2 |
 | SAB   |    12 |  +1 |   +1 |
 | CAR   |     8 |  -1 |   -1 |
+
 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** telepatía 1,5 km (solo funciona contigo)

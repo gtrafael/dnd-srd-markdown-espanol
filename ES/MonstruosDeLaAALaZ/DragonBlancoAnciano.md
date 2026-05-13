@@ -17,13 +17,13 @@ related_en: "[[Monsters/Ancient White Dragon|Ancient White Dragon (EN)]]"
 **Velocidad:** 12 m, excavar 12 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 26 | +8 | +8 |
-| DES | 10 | +0 | +6 |
-| CON | 26 | +8 | +8 |
-| INT | 10 | +0 | +0 |
-| SAB | 13 | +1 | +7 |
-| CAR | 18 | +4 | +4 |
+|-------|------:|----:|-----:|
+| FUE   |    26 |  +8 |   +8 |
+| DES   |    10 |  +0 |   +6 |
+| CON   |    26 |  +8 |   +8 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    13 |  +1 |   +7 |
+| CAR   |    18 |  +4 |   +4 |
 
 **Habilidades:** Percepción +13, Sigilo +6
 

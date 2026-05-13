@@ -3,6 +3,7 @@ aliases: ["Flesh to Stone"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DeLaCarneALaPiedra|De la carne a la piedra (Español)]]"
 ---
+
 ### Flesh to Stone
 
 *Level 6 Transmutation* (Druid, Sorcerer, Wizard)

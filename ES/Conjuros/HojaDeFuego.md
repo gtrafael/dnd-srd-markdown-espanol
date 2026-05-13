@@ -16,11 +16,11 @@ related_en: "[[Spells/Flame Blade|Flame Blade (EN)]]"
 
 **Duración:** Concentración, hasta 10 minutos
 
-Haces aparecer una hoja ardiente en tu mano libre que es similar en tamaño y forma a una cimitarra y que durará hasta que termine el conjuro. Si sueltas la hoja, desaparece, pero puedes volver a invocarla como acción adicional. 
+Haces aparecer una hoja ardiente en tu mano libre que es similar en tamaño y forma a una cimitarra y que durará hasta que termine el conjuro. Si sueltas la hoja, desaparece, pero puedes volver a invocarla como acción adicional.
 
-Como acción de magia, puedes hacer un ataque de conjuro cuerpo a cuerpo con la hoja ardiente. Si acierta, el objetivo sufrirá una cantidad de daño de fuego igual a 3d6 más tu modificador por aptitud mágica. 
+Como acción de magia, puedes hacer un ataque de conjuro cuerpo a cuerpo con la hoja ardiente. Si acierta, el objetivo sufrirá una cantidad de daño de fuego igual a 3d6 más tu modificador por aptitud mágica.
 
-La hoja llameante emite luz brillante en un radio de 3 m y luz tenue 3 m mas alla. 
+La hoja llameante emite luz brillante en un radio de 3 m y luz tenue 3 m mas alla.
 
 **Con un espacio de conjuro de nivel superior.**
 

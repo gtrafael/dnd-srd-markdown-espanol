@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/FuegoFatuo|Fuego fatuo (Español)]]"
 
 **Speed 5 ft., Fly 50 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 1 | −5 | −5 | **Dex** 28 | +9 | +9 | **Con** 10 | +0 | +0 |
-| **Int** 13 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 1  | −5  |  −5  | **Dex** 28 | +9  |  +9  | **Con** 10 | +0 | +0 |
+| **Int** 13 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 11 | +0 | +0 |
 
 **Resistances Acid, Bludgeoning, Cold, Fire, Necrotic,**
 

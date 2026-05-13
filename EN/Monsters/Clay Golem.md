@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GolemDeArcilla|Gólem de arcilla (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 9 | −1 | −1 | **Con** 18 | +4 | +4 |
-| **Int** 3 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 9 | −1  |  −1  | **Con** 18 | +4 | +4 |
+| **Int** 3  | −4  |  −4  | **Wis** 8 | −1  |  −1  | **Cha** 1 | −5 | −5 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

@@ -3,6 +3,7 @@ aliases: ["Control Water"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ControlarAgua|Controlar agua (Español)]]"
 ---
+
 ### Control Water
 
 *Level 4 Transmutation* (Cleric, Druid, Wizard)

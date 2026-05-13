@@ -3,6 +3,7 @@ aliases: ["Octopus"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Pulpo|Pulpo (Español)]]"
 ---
+
 ## Octopus
 
 *Small Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Pulpo|Pulpo (Español)]]"
 
 **Speed 5 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 4 | −3 | −3 | **Dex** 15 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 4 | −3  |  −3  | **Dex** 15 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 3 | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +2, Stealth +6**
 

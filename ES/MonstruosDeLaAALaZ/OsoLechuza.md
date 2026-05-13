@@ -17,13 +17,13 @@ related_en: "[[Monsters/Owlbear|Owlbear (EN)]]"
 **Velocidad:** 12 m, trepar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 20 | +5 | +5 |
-| DES | 12 | +1 | +1 |
-| CON | 17 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    20 |  +5 |   +5 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Percepción +5
 

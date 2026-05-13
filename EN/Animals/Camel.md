@@ -3,6 +3,7 @@ aliases: ["Camel"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Camello|Camello (Español)]]"
 ---
+
 ## Camel
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Camello|Camello (Español)]]"
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 8 | −1 | −1 | **Con** 17 | +3 | +5 |
-| **Int** 2 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 8  | −1  |  −1  | **Con** 17 | +3 | +5 |
+| **Int** 2  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Senses Darkvision 60 ft.; Passive Perception 10**
 

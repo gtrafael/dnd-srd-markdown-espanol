@@ -17,13 +17,13 @@ related_en: "[[Animals/Venomous Snake|Venomous Snake (EN)]]"
 **Velocidad:** 9 m, nadar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 2 | -4 | -4 |
-| DES | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| SAB | 10 | +0 | +0 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |     2 |  -4 |   -4 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Sentidos:** visión ciega 3 m; Percepción pasiva 10
 

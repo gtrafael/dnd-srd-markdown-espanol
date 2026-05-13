@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Lizard|Giant Lizard (EN)]]"
 **Velocidad:** 12 m, trepar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 12 | +1 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    12 |  +1 |   +3 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 

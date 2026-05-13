@@ -16,7 +16,7 @@ related_en: "[[Spells/Speak with Dead|Speak with Dead (EN)]]"
 
 **Duración:** 10 minutos
 
-Otorgas una apariencia de vida a un cadáver de tu elección dentro del alcance para que pueda responder a tus preguntas. El cadáver debe tener boca y el conjuro falla si la criatura difunta era un muerto viviente cuando falleció. El conjuro también falla si el cadáver ya ha sido el objetivo de este conjuro en los últimos 10 días. 
+Otorgas una apariencia de vida a un cadáver de tu elección dentro del alcance para que pueda responder a tus preguntas. El cadáver debe tener boca y el conjuro falla si la criatura difunta era un muerto viviente cuando falleció. El conjuro también falla si el cadáver ya ha sido el objetivo de este conjuro en los últimos 10 días.
 
 Hasta que el conjuro termine, puedes hacerle al cadáver hasta cinco preguntas. Este solo sabe lo que sabía en vida, incluidos los idiomas. Sus respuestas suelen ser breves, crípticas o repetitivas, y no se siente obligado a darte una respuesta verdadera si eres hostil con él o te reconoce como un enemigo. Este conjuro no devuelve el alma de la criatura a su cuerpo, solo anima su espíritu. Por tanto, el cadáver no puede aprender nueva información, no entiende nada que haya ocurrido después su muerte y no puede especular sobre sucesos futuros. 
 

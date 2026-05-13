@@ -17,13 +17,14 @@ related_en: "[[Animals/Plesiosaurus|Plesiosaurus (EN)]]"
 **Velocidad:** 6 m, nadar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     5 |  -3 |   -3 |
+
 **Habilidades:** Percepción +3, Sigilo +4
 
 **Sentidos:** Percepción pasiva 13

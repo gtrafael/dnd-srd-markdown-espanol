@@ -17,13 +17,14 @@ related_en: "[[Monsters/Gnoll Warrior|Gnoll Warrior (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 6 | -2 | -2 |
-| SAB | 10 | +0 | +0 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     6 |  -2 |   -2 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     7 |  -2 |   -2 |
+
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10
 
 **Idiomas:** gnoll

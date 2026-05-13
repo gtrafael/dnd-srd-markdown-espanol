@@ -17,13 +17,13 @@ related_en: "[[Monsters/Warrior Infantry|Warrior Infantry (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 13 | +1 | +1 |
-| DES | 11 | +0 | +0 |
-| CON | 11 | — | — |
-| INT | 8 | -1 | -1 |
-| SAB | 11 | +0 | +0 |
-| CAR | 8 | — | — |
+|-------|------:|----:|-----:|
+| FUE   |    13 |  +1 |   +1 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    11 |   — |    — |
+| INT   |     8 |  -1 |   -1 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     8 |   — |    — |
 
 **Equipo:** camisa de malla, lanza
 

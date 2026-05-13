@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/MephitDePolvo|Mephit de polvo (Español)]]"
 
 **Speed 30 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 5 | −3 | −3 | **Dex** 14 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 9 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 5 | −3  |  −3  | **Dex** 14 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 9 | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +2, Stealth +4**
 

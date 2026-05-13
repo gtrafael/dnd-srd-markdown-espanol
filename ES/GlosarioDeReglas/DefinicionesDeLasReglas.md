@@ -5,11 +5,11 @@ tags: [srd, espanol, tag_glosariodereglas, sin-equivalente]
 
 # Definiciones de las reglas
 
-Estas son las definiciones de diversas reglas. 
+Estas son las definiciones de diversas reglas.
 
 ## Acción
 
-En tu turno, puedes llevar a cabo una acción. Elige qué acción quieres realizar entre las que aparecen a continuación o entre las acciones especiales que te otorgan tus rasgos. Consulta también el capítulo “Cómo jugar” (“Acciones”). Estas acciones se definen en otras partes del glosario: 
+En tu turno, puedes llevar a cabo una acción. Elige qué acción quieres realizar entre las que aparecen a continuación o entre las acciones especiales que te otorgan tus rasgos. Consulta también el capítulo “Cómo jugar” (“Acciones”). Estas acciones se definen en otras partes del glosario:
 
 | Atacar      | Esconderse | Preparar una |
 |-------------|------------|--------------|
@@ -20,177 +20,175 @@ En tu turno, puedes llevar a cabo una acción. Elige qué acción quieres realiz
 
 ## Acción adicional
 
-Una acción adicional es una acción especial que puedes hacer en el mismo turno en que llevas a cabo una acción. No puedes realizar más de una acción adicional en un turno y solo tienes acciones adicionales a tu disposición si una regla lo indica de forma explícita. Consulta también el capítulo “Cómo jugar” (“Acciones”). 
+Una acción adicional es una acción especial que puedes hacer en el mismo turno en que llevas a cabo una acción. No puedes realizar más de una acción adicional en un turno y solo tienes acciones adicionales a tu disposición si una regla lo indica de forma explícita. Consulta también el capítulo “Cómo jugar” (“Acciones”).
 
 ## Actitud
 
-Los monstruos tienen una actitud inicial hacia un personaje de un jugador, la cual puede ser amistosa, hostil o indiferente. Consulta también “Amistosa”, “Hostil”, “Indiferente” e “Influir”. 
+Los monstruos tienen una actitud inicial hacia un personaje de un jugador, la cual puede ser amistosa, hostil o indiferente. Consulta también “Amistosa”, “Hostil”, “Indiferente” e “Influir”.
 
 ## Agarrado [estado]
 
-Mientras tengas el estado de agarrado, experimentarás los siguientes efectos: 
+Mientras tengas el estado de agarrado, experimentarás los siguientes efectos:
 
-Velocidad 0. Tu velocidad es 0 y no puede aumentar. 
+Velocidad 0. Tu velocidad es 0 y no puede aumentar.
 
-Ataques afectados. Tienes desventaja en las tiradas de ataque contra cualquier objetivo que no sea quien te agarra. 
+Ataques afectados. Tienes desventaja en las tiradas de ataque contra cualquier objetivo que no sea quien te agarra.
 
-Desplazable. Quien te agarra puede arrastrarte o transportarte al moverse, pero cada metro de movimiento le cuesta 1 m adicional, salvo que seas Diminuto o tu tamaño sea dos o más categorías inferior al suyo. 
+Desplazable. Quien te agarra puede arrastrarte o transportarte al moverse, pero cada metro de movimiento le cuesta 1 m adicional, salvo que seas Diminuto o tu tamaño sea dos o más categorías inferior al suyo.
 
 ## Agarrar
 
-Una criatura puede agarrar a otra. Por lo general, los personajes realizan agarres usando un ataque sin armas. Muchos monstruos poseen ataques especiales que les permiten agarrar a sus presas rápidamente. Cuando se inicia un agarre, este sigue las siguientes reglas. Consulta también “Agarrado” y “Ataque sin armas”. 
+Una criatura puede agarrar a otra. Por lo general, los personajes realizan agarres usando un ataque sin armas. Muchos monstruos poseen ataques especiales que les permiten agarrar a sus presas rápidamente. Cuando se inicia un agarre, este sigue las siguientes reglas. Consulta también “Agarrado” y “Ataque sin armas”.
 
-Estado de agarrada. Agarrar a una criatura le impone el estado de agarrada. 
+Estado de agarrada. Agarrar a una criatura le impone el estado de agarrada.
 
-Un agarre por mano. Una criatura debe tener una mano libre para agarrar a otra criatura. Algunos perfiles y efectos del juego permiten que una criatura agarre a otra usando un tentáculo, sus fauces u otra parte del cuerpo. Independientemente de la parte del cuerpo que emplee, podrá agarrar solo a una criatura a la vez con esa parte y no podrá usar esa parte para hacer objetivo a otra criatura salvo que ponga fin al agarre. 
+Un agarre por mano. Una criatura debe tener una mano libre para agarrar a otra criatura. Algunos perfiles y efectos del juego permiten que una criatura agarre a otra usando un tentáculo, sus fauces u otra parte del cuerpo. Independientemente de la parte del cuerpo que emplee, podrá agarrar solo a una criatura a la vez con esa parte y no podrá usar esa parte para hacer objetivo a otra criatura salvo que ponga fin al agarre.
 
-Poner fin a un agarre. Una criatura agarrada puede emplear su acción para hacer una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) contra la CD para escapar del agarre; si la supera, pondrá fin a su estado. El estado también termina si quien agarra tiene el estado de incapacitado o si la distancia entre el objetivo agarrado y quien lo agarra supera el alcance del agarre. Además, quien agarra puede soltar al objetivo en cualquier momento (no requiere acción). 
+Poner fin a un agarre. Una criatura agarrada puede emplear su acción para hacer una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) contra la CD para escapar del agarre; si la supera, pondrá fin a su estado. El estado también termina si quien agarra tiene el estado de incapacitado o si la distancia entre el objetivo agarrado y quien lo agarra supera el alcance del agarre. Además, quien agarra puede soltar al objetivo en cualquier momento (no requiere acción).
 
 ## Al día
 
-Si una regla indica que puedes utilizar algo una cantidad determinada de veces al día, significa que debes finalizar un descanso largo para emplearlo de nuevo tras consumir todos los usos. 
+Si una regla indica que puedes utilizar algo una cantidad determinada de veces al día, significa que debes finalizar un descanso largo para emplearlo de nuevo tras consumir todos los usos.
 
 ## Alcance
 
-Una criatura tiene un alcance de 1,5 m a menos que una regla indique algo distinto. 
+Una criatura tiene un alcance de 1,5 m a menos que una regla indique algo distinto.
 
 ## Aliado
 
-Una criatura es tu aliada si es un miembro de tu grupo de aventureros, si es tu amiga, si combate en tu bando o si las reglas o tu GM determinan que sea tu aliada. 
+Una criatura es tu aliada si es un miembro de tu grupo de aventureros, si es tu amiga, si combate en tu bando o si las reglas o tu GM determinan que sea tu aliada.
 
 ## Alineamiento
 
-El alineamiento de una criatura describe en términos generales su actitud e ideales éticos. El alineamiento es una combinación de dos factores: por una parte, la moralidad (bueno, malvado o neutral) y, por otra, la actitud hacia el orden (legal, caótico o neutral). Estos factores dan pie a nueve combinaciones posibles, como las de legal bueno y neutral malvado. Consulta también el capítulo “Creación de personajes” (“Crear tu personaje”). 
+El alineamiento de una criatura describe en términos generales su actitud e ideales éticos. El alineamiento es una combinación de dos factores: por una parte, la moralidad (bueno, malvado o neutral) y, por otra, la actitud hacia el orden (legal, caótico o neutral). Estos factores dan pie a nueve combinaciones posibles, como las de legal bueno y neutral malvado. Consulta también el capítulo “Creación de personajes” (“Crear tu personaje”).
 
 ## Amistosa [actitud]
 
-Una criatura amistosa te verá con buenos ojos. Tienes ventaja en las pruebas de característica para influir en una criatura amistosa. Consulta también “Influir”. 
+Una criatura amistosa te verá con buenos ojos. Tienes ventaja en las pruebas de característica para influir en una criatura amistosa. Consulta también “Influir”.
 
 ## Apresado [estado]
 
-Mientras tengas el estado de apresado, experimentarás los siguientes efectos: 
+Mientras tengas el estado de apresado, experimentarás los siguientes efectos:
 
-Velocidad 0. Tu velocidad es 0 y no puede aumentar. 
+Velocidad 0. Tu velocidad es 0 y no puede aumentar.
 
-Ataques afectados. Las tiradas de ataque contra ti tienen ventaja y tus tiradas de ataque tienen desventaja. 
+Ataques afectados. Las tiradas de ataque contra ti tienen ventaja y tus tiradas de ataque tienen desventaja.
 
-Tiradas de salvación afectadas. Tienes desventaja en las tiradas de salvación de Destreza. 
+Tiradas de salvación afectadas. Tienes desventaja en las tiradas de salvación de Destreza.
 
 ## Área de efecto
 
-Las descripciones de muchos conjuros y otros rasgos especifican que tienen un área de efecto, que suele tener una de seis formas posibles. Estas formas se definen en otras partes del glosario: 
+Las descripciones de muchos conjuros y otros rasgos especifican que tienen un área de efecto, que suele tener una de seis formas posibles. Estas formas se definen en otras partes del glosario:
 
-Cilindro 
+Cilindro
 
-Esfera 
+Esfera
 
-Cono 
+Cono
 
-Emanación 
+Emanación
 
-Línea 
+Línea
 
-Las áreas de efecto poseen un punto de origen, un lugar desde el que surge la energía del efecto. Las reglas de cada forma especifican cuál es el punto de origen. Si todas las líneas rectas que se extienden desde el punto de origen hasta un lugar del área de efecto están bloqueadas, ese lugar no estará incluido en el área de efecto. Para bloquear una línea, un obstáculo debe proporcionar cobertura completa. Consulta también “Cobertura”. 
+Las áreas de efecto poseen un punto de origen, un lugar desde el que surge la energía del efecto. Las reglas de cada forma especifican cuál es el punto de origen. Si todas las líneas rectas que se extienden desde el punto de origen hasta un lugar del área de efecto están bloqueadas, ese lugar no estará incluido en el área de efecto. Para bloquear una línea, un obstáculo debe proporcionar cobertura completa. Consulta también “Cobertura”.
 
-Si el creador de un área de efecto la sitúa en un punto que no vea y una obstrucción (como un muro) está entre dicho punto y el creador, el origen se moverá hasta el lado de la obstrucción más cercano a él. 
+Si el creador de un área de efecto la sitúa en un punto que no vea y una obstrucción (como un muro) está entre dicho punto y el creador, el origen se moverá hasta el lado de la obstrucción más cercano a él.
 
 ## Arma
 
-Un arma es un objeto que pertenece a la categoría de armas sencillas o marciales. Consulta también el capítulo “Equipo” (“Armas”). 
+Un arma es un objeto que pertenece a la categoría de armas sencillas o marciales. Consulta también el capítulo “Equipo” (“Armas”).
 
 ## Armas improvisadas
 
-Un arma improvisada es cualquier objeto que utilices como arma provisional, como una botella rota, la pata de una mesa o una sartén. Un arma sencilla o marcial también cuenta como arma improvisada si se emplea de un modo contrario a su diseño: por ejemplo, si utilizas un arma a distancia para realizar un ataque cuerpo a cuerpo o lanzas un arma cuerpo a cuerpo sin la propiedad “arrojadiza”, contará como un arma improvisada. Un arma improvisada sigue estas reglas: 
+Un arma improvisada es cualquier objeto que utilices como arma provisional, como una botella rota, la pata de una mesa o una sartén. Un arma sencilla o marcial también cuenta como arma improvisada si se emplea de un modo contrario a su diseño: por ejemplo, si utilizas un arma a distancia para realizar un ataque cuerpo a cuerpo o lanzas un arma cuerpo a cuerpo sin la propiedad “arrojadiza”, contará como un arma improvisada. Un arma improvisada sigue estas reglas:
 
-Competencia. No sumas tu bonificador por competencia a las tiradas de ataque con un arma improvisada. 
+Competencia. No sumas tu bonificador por competencia a las tiradas de ataque con un arma improvisada.
 
-Daño. Si acierta, el arma inflige 1d4 de daño de un tipo que tu GM considere apropiado para el objeto. 
+Daño. Si acierta, el arma inflige 1d4 de daño de un tipo que tu GM considere apropiado para el objeto.
 
-Alcance. Si arrojas el arma, tendrá un alcance normal de 6 m y un alcance largo de 18 m. 
+Alcance. Si arrojas el arma, tendrá un alcance normal de 6 m y un alcance largo de 18 m.
 
-Equivalentes del arma. Si un arma improvisada se parece a un arma sencilla o marcial, tu GM puede decidir que funcione como ella y emplear las reglas que se le aplican. Por ejemplo, tu GM podría tratar la pata de una mesa como un garrote. 
+Equivalentes del arma. Si un arma improvisada se parece a un arma sencilla o marcial, tu GM puede decidir que funcione como ella y emplear las reglas que se le aplican. Por ejemplo, tu GM podría tratar la pata de una mesa como un garrote.
 
 ## Arrastrarse
 
-Cuando te arrastras, cada metro de movimiento te cuesta 1 m adicional (2 m adicionales en terreno Consulta también 
+Cuando te arrastras, cada metro de movimiento te cuesta 1 m adicional (2 m adicionales en terreno Consulta también
 
 ## Asfixia [peligro]
 
-Una criatura puede aguantar la respiración durante una cantidad de minutos igual a 1 más su modificador por Constitución (mínimo de 30 segundos) antes de que empiece a asfixiarse. Cuando una criatura se quede sin aire o se esté ahogando, sumará 1 nivel de cansancio al final de cada uno de sus turnos. Cuando recupere el aliento, perderá todos los niveles de cansancio sumados por la asfixia. 
+Una criatura puede aguantar la respiración durante una cantidad de minutos igual a 1 más su modificador por Constitución (mínimo de 30 segundos) antes de que empiece a asfixiarse. Cuando una criatura se quede sin aire o se esté ahogando, sumará 1 nivel de cansancio al final de cada uno de sus turnos. Cuando recupere el aliento, perderá todos los niveles de cansancio sumados por la asfixia.
 
 ## Asustado [estado]
 
-Mientras tengas el estado de asustado, experimentarás los siguientes efectos: 
+Mientras tengas el estado de asustado, experimentarás los siguientes efectos:
 
 ## Pruebas de característica y ataques afectados.
 
-Tienes desventaja en las pruebas de característica y las tiradas de ataque mientras la fuente de tu miedo esté en tu línea de visión. 
+Tienes desventaja en las pruebas de característica y las tiradas de ataque mientras la fuente de tu miedo esté en tu línea de visión.
 
-No puedes acercarte. No puedes acercarte voluntariamente a la fuente de tu miedo. 
+No puedes acercarte. No puedes acercarte voluntariamente a la fuente de tu miedo.
 
 ## Atacar [acción]
 
-Cuando llevas a cabo la acción de atacar, puedes hacer una tirada de ataque con un arma o un ataque sin armas. 
+Cuando llevas a cabo la acción de atacar, puedes hacer una tirada de ataque con un arma o un ataque sin armas.
 
 ## Equiparse con armas y desequiparse de ellas.
 
-Como parte de la acción de atacar, puedes equiparte con un arma o desequiparte de ella. Puedes hacerlo antes o después del ataque. Si te equipas con un arma antes de un ataque, no tienes por qué usarla en él. Equiparse con un arma incluye desenvainarla o recogerla. Desequiparse de un arma incluye envainarla, guardarla o soltarla. 
+Como parte de la acción de atacar, puedes equiparte con un arma o desequiparte de ella. Puedes hacerlo antes o después del ataque. Si te equipas con un arma antes de un ataque, no tienes por qué usarla en él. Equiparse con un arma incluye desenvainarla o recogerla. Desequiparse de un arma incluye envainarla, guardarla o soltarla.
 
-Moverse entre ataques. Si te mueves en tu turno y tienes un rasgo, como Ataque adicional, que te permite hacer más de un ataque como parte de la acción de atacar, puedes usar parte del movimiento o todo él para moverte entre esos ataques. 
+Moverse entre ataques. Si te mueves en tu turno y tienes un rasgo, como Ataque adicional, que te permite hacer más de un ataque como parte de la acción de atacar, puedes usar parte del movimiento o todo él para moverte entre esos ataques.
 
 ## Ataque con arma
 
-Un ataque con arma es una tirada de ataque realizada con un arma. Consulta también “Arma”. 
+Un ataque con arma es una tirada de ataque realizada con un arma. Consulta también “Arma”.
 
 ## Ataque de conjuro
 
-Un ataque de conjuro es una tirada de ataque que se hace como parte de un conjuro u otro efecto mágico. Consulta también el capítulo “Conjuros” (“Lanzar conjuros”). 
+Un ataque de conjuro es una tirada de ataque que se hace como parte de un conjuro u otro efecto mágico. Consulta también el capítulo “Conjuros” (“Lanzar conjuros”).
 
 ## Ataques de oportunidad
 
-Puedes hacer un ataque de oportunidad cuando una criatura que puedas ver salga de tu alcance usando su acción, acción adicional, reacción o una de sus velocidades. Para ello, usa una reacción para hacer un ataque cuerpo a cuerpo con un arma o un ataque sin armas contra la criatura que lo provoque. Este ataque sucede justo antes de que la criatura se mueva fuera de tu alcance. Consulta también el capítulo “Cómo jugar” (“Combate”). 
+Puedes hacer un ataque de oportunidad cuando una criatura que puedas ver salga de tu alcance usando su acción, acción adicional, reacción o una de sus velocidades. Para ello, usa una reacción para hacer un ataque cuerpo a cuerpo con un arma o un ataque sin armas contra la criatura que lo provoque. Este ataque sucede justo antes de que la criatura se mueva fuera de tu alcance. Consulta también el capítulo “Cómo jugar” (“Combate”).
 
 ## Ataque sin armas
 
-En lugar de utilizar un arma para realizar un ataque cuerpo a cuerpo, puedes dar un puñetazo, una patada, un cabezazo o cualquier otro golpe enérgico. En la terminología del juego, esto se denomina un ataque sin armas: un ataque cuerpo a cuerpo en el que usas tu cuerpo para dañar, agarrar o empujar a un objetivo a 1,5 m o menos de ti. 
+En lugar de utilizar un arma para realizar un ataque cuerpo a cuerpo, puedes dar un puñetazo, una patada, un cabezazo o cualquier otro golpe enérgico. En la terminología del juego, esto se denomina un ataque sin armas: un ataque cuerpo a cuerpo en el que usas tu cuerpo para dañar, agarrar o empujar a un objetivo a 1,5 m o menos de ti.
 
-Cuando uses tu ataque sin armas, elige una de las siguientes opciones para su efecto. 
+Cuando uses tu ataque sin armas, elige una de las siguientes opciones para su efecto.
 
-Daño. Haces una tirada de ataque contra el objetivo. Tu bonificador a la tirada es igual a tu modificador por Fuerza más tu bonificador por competencia. Si acierta, el objetivo sufre una cantidad de daño contundente igual a 1 más tu modificador por Fuerza. 
+Daño. Haces una tirada de ataque contra el objetivo. Tu bonificador a la tirada es igual a tu modificador por Fuerza más tu bonificador por competencia. Si acierta, el objetivo sufre una cantidad de daño contundente igual a 1 más tu modificador por Fuerza.
 
-Agarre. El objetivo deberá superar una tirada de salvación de Fuerza o Destreza (a su elección) o tendrá el estado de agarrado. La CD para la tirada de salvación y cualquier intento de escapar será igual a 8 más tu modificador por Fuerza y tu bonificador por competencia. Solo se puede ejecutar este agarre si el tamaño del objetivo está, como mucho, una categoría por encima de la tuya y si tienes una mano libre para agarrarlo. Consulta también “Agarrar”. 
+Agarre. El objetivo deberá superar una tirada de salvación de Fuerza o Destreza (a su elección) o tendrá el estado de agarrado. La CD para la tirada de salvación y cualquier intento de escapar será igual a 8 más tu modificador por Fuerza y tu bonificador por competencia. Solo se puede ejecutar este agarre si el tamaño del objetivo está, como mucho, una categoría por encima de la tuya y si tienes una mano libre para agarrarlo. Consulta también “Agarrar”.
 
-Empujón. El objetivo deberá superar una tirada de salvación de Fuerza o Destreza (a su elección); de lo contrario, lo empujarás 1,5 m respecto a ti o harás que tenga el estado de derribado. La CD para la tirada de salvación será igual a 8 más tu modificador por Fuerza y tu bonificador por competencia. Solo se puede dar este empujón si el tamaño del objetivo está, como mucho, una categoría por encima de la tuya. 
+Empujón. El objetivo deberá superar una tirada de salvación de Fuerza o Destreza (a su elección); de lo contrario, lo empujarás 1,5 m respecto a ti o harás que tenga el estado de derribado. La CD para la tirada de salvación será igual a 8 más tu modificador por Fuerza y tu bonificador por competencia. Solo se puede dar este empujón si el tamaño del objetivo está, como mucho, una categoría por encima de la tuya.
 
 ## Aturdido [estado]
 
-Mientras tengas el estado de aturdido, experimentarás los siguientes efectos: 
+Mientras tengas el estado de aturdido, experimentarás los siguientes efectos:
 
-Incapacitado. Tienes el estado de incapacitado. 
+Incapacitado. Tienes el estado de incapacitado.
 
-Tiradas de salvación afectadas. Fallas automáticamente las tiradas de salvación de Fuerza y Destreza. 
+Tiradas de salvación afectadas. Fallas automáticamente las tiradas de salvación de Fuerza y Destreza.
 
-Ataques afectados. Las tiradas de ataque contra ti tienen ventaja. 
+Ataques afectados. Las tiradas de ataque contra ti tienen ventaja.
 
 ## Aventura
 
-Una aventura es una serie de encuentros. La histoConsulta también “Encuentro”. 
+Una aventura es una serie de encuentros. La histoConsulta también “Encuentro”.
 
 ## Ayudar [acción]
 
-Cuando llevas a cabo la acción de ayudar, tienes estas opciones: 
+Cuando llevas a cabo la acción de ayudar, tienes estas opciones:
 
-Ayudar en una prueba de característica. Elige una de tus competencias en habilidades o con herramientas y un aliado que esté lo bastante cerca como para ayudarle verbal o físicamente cuando haga una prueba de característica. Ese aliado tendrá ventaja en la siguiente prueba de característica que haga con la habilidad o herramienta elegidas. Este beneficio concluye si el aliado no lo usa antes del principio de tu siguiente turno. Tu GM tiene la última palabra sobre si puedes o no prestar esta ayuda. 
+Ayudar en una prueba de característica. Elige una de tus competencias en habilidades o con herramientas y un aliado que esté lo bastante cerca como para ayudarle verbal o físicamente cuando haga una prueba de característica. Ese aliado tendrá ventaja en la siguiente prueba de característica que haga con la habilidad o herramienta elegidas. Este beneficio concluye si el aliado no lo usa antes del principio de tu siguiente turno. Tu GM tiene la última palabra sobre si puedes o no prestar esta ayuda.
 
-Ayudar en una tirada de ataque. Distraes por un momento a un enemigo que esté a 1,5 m o menos de ti, lo que da ventaja a la siguiente tirada de ataque que uno de tus aliados haga contra ese enemigo. Este beneficio concluye al principio de tu siguiente turno. 
+Ayudar en una tirada de ataque. Distraes por un momento a un enemigo que esté a 1,5 m o menos de ti, lo que da ventaja a la siguiente tirada de ataque que uno de tus aliados haga contra ese enemigo. Este beneficio concluye al principio de tu siguiente turno.
 
 ## Buscar [acción]
 
-Cuando llevas a cabo la acción de buscar, realizas una prueba de Sabiduría para distinguir algo que no resulta evidente. La tabla “Búsqueda” indica las habilidades que se pueden aplicar al usar esta acción, en función de lo que trates de detectar. 
-
+Cuando llevas a cabo la acción de buscar, realizas una prueba de Sabiduría para distinguir algo que no resulta evidente. La tabla “Búsqueda” indica las habilidades que se pueden aplicar al usar esta acción, en función de lo que trates de detectar.
 
 Búsqueda
-
 
 | Habilidad   | Objeto de detección                           |
 |-------------|-----------------------------------------------|
@@ -198,49 +196,45 @@ Búsqueda
 | Percepción  | Criatura u objeto ocultos                     |
 | Perspicacia | Estado mental de una criatura                 |
 
-
-Supervivencia Huellas o alimentos 
-
+Supervivencia Huellas o alimentos
 
 ## Caídas [peligro]
 
-Una criatura que sufra una caída recibirá 1d6 de daño contundente por cada 3 m que haya caído antes de golpearse contra el suelo, hasta un máximo de 20d6. La criatura caerá de bruces y tendrá el estado de derribada salvo que, de alguna forma, evite recibir daño de la caída. 
+Una criatura que sufra una caída recibirá 1d6 de daño contundente por cada 3 m que haya caído antes de golpearse contra el suelo, hasta un máximo de 20d6. La criatura caerá de bruces y tendrá el estado de derribada salvo que, de alguna forma, evite recibir daño de la caída.
 
-Toda criatura que caiga al agua u otro líquido podrá usar su reacción y hacer una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) con CD 15 para entrar al agua de cabeza o de pie. Si la supera, cualquier daño que reciba por la caída se reducirá a la mitad. 
+Toda criatura que caiga al agua u otro líquido podrá usar su reacción y hacer una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) con CD 15 para entrar al agua de cabeza o de pie. Si la supera, cualquier daño que reciba por la caída se reducirá a la mitad.
 
 ## Cambio de forma
 
-Si un efecto, como el rasgo Forma salvaje o el conjuro polimorfar, te permite cambiar de forma, su descripción especifica lo que te ocurre. Salvo que se indique lo contrario, cualquier efecto que te esté afectando (estados, conjuros, maldiciones y similares) se conserva de una forma a otra. Si mueres, recuperas tu forma verdadera. 
+Si un efecto, como el rasgo Forma salvaje o el conjuro polimorfar, te permite cambiar de forma, su descripción especifica lo que te ocurre. Salvo que se indique lo contrario, cualquier efecto que te esté afectando (estados, conjuros, maldiciones y similares) se conserva de una forma a otra. Si mueres, recuperas tu forma verdadera.
 
 ## Campaña
 
-Una campanaes una serie deaventuras.Consulta también 
+Una campanaes una serie deaventuras.Consulta también
 
 ## Canalizador mágico
 
-Un canalizador mágico es un objeto que pueden usar determinadas criaturas en lugar de los componentes materiales de un conjuro si este no los consume y los materiales no tienen un coste especificado. Algunas clases permiten a sus miembros utilizar ciertos tipos de canalizadores mágicos. Consulta también el capítulo “Conjuros” (“Lanzar conjuros”). 
+Un canalizador mágico es un objeto que pueden usar determinadas criaturas en lugar de los componentes materiales de un conjuro si este no los consume y los materiales no tienen un coste especificado. Algunas clases permiten a sus miembros utilizar ciertos tipos de canalizadores mágicos. Consulta también el capítulo “Conjuros” (“Lanzar conjuros”).
 
 ## Cansancio [estado]
 
-Mientras tengas el estado de cansancio, experimentarás los siguientes efectos: 
+Mientras tengas el estado de cansancio, experimentarás los siguientes efectos:
 
-Niveles de cansancio. Este estado es acumulativo. Cada vez que lo recibas, sumas 1 nivel de cansancio. Morirás si tu nivel de cansancio es 6. 
+Niveles de cansancio. Este estado es acumulativo. Cada vez que lo recibas, sumas 1 nivel de cansancio. Morirás si tu nivel de cansancio es 6.
 
-Pruebas con d20 afectadas. Cuando hagas una prueba con d20, el resultado se reduce en 2 × tu nivel de cansancio. 
+Pruebas con d20 afectadas. Cuando hagas una prueba con d20, el resultado se reduce en 2 × tu nivel de cansancio.
 
-Velocidad reducida. Tu velocidad se reduce en 1,5 m × tu nivel de cansancio. 
+Velocidad reducida. Tu velocidad se reduce en 1,5 m × tu nivel de cansancio.
 
-Eliminar niveles de cansancio. Tras finalizar un descanso largo, resta 1 nivel de cansancio. Cuando tus niveles de cansancio se reduzcan a 0, el estado terminara. 
+Eliminar niveles de cansancio. Tras finalizar un descanso largo, resta 1 nivel de cansancio. Cuando tus niveles de cansancio se reduzcan a 0, el estado terminara.
 
 ## Capacidad de carga
 
-Tu tamaño y tu puntuación de Fuerza determinan el peso máximo en kilos que puedes transportar, como se muestra en la tabla “Capacidad de carga”. La tabla indica también el peso máximo que puedes arrastrar, levantar o empujar. 
+Tu tamaño y tu puntuación de Fuerza determinan el peso máximo en kilos que puedes transportar, como se muestra en la tabla “Capacidad de carga”. La tabla indica también el peso máximo que puedes arrastrar, levantar o empujar.
 
-Si arrastras, levantas o empujas un peso que supere el máximo que puedes cargar, tu velocidad no superará los 1,5 m. 
-
+Si arrastras, levantas o empujas un peso que supere el máximo que puedes cargar, tu velocidad no superará los 1,5 m.
 
 Capacidad de carga
-
 
 | Tamaño de la criatura | Máximo        | Arrastrar, levantar o empujar |
 |-----------------------|---------------|-------------------------------|
@@ -252,155 +246,153 @@ Capacidad de carga
 
 ## Cegado [estado]
 
-Mientras tengas el estado de cegado, experimentarás los siguientes efectos: 
+Mientras tengas el estado de cegado, experimentarás los siguientes efectos:
 
-No puedes ver. No puedes ver y fallas automáticamente todas las pruebas de característica que requieran la vista. 
+No puedes ver. No puedes ver y fallas automáticamente todas las pruebas de característica que requieran la vista.
 
-Ataques afectados. Las tiradas de ataque contra ti tienen ventaja y tus tiradas de ataque tienen desventaja. 
+Ataques afectados. Las tiradas de ataque contra ti tienen ventaja y tus tiradas de ataque tienen desventaja.
 
 ## Cilindro [área de efecto]
 
-Un cilindro es un área de efecto que se extiende en líneas rectas desde un punto de origen situado en el centro de la parte superior o inferior circular del cilindro. El efecto que crea un cilindro especifica el radio de la base y la altura del cilindro. 
+Un cilindro es un área de efecto que se extiende en líneas rectas desde un punto de origen situado en el centro de la parte superior o inferior circular del cilindro. El efecto que crea un cilindro especifica el radio de la base y la altura del cilindro.
 
-El punto de origen de un cilindro está incluido en el área de efecto. 
+El punto de origen de un cilindro está incluido en el área de efecto.
 
 ## Clase de armadura
 
-Una clase de armadura (CA) es el número objetivo de una tirada de ataque. La CA representa la dificultad de acertar a un objetivo. 
+Una clase de armadura (CA) es el número objetivo de una tirada de ataque. La CA representa la dificultad de acertar a un objetivo.
 
-El cálculo de tu CA base es 10 más tu modificador por Destreza. Si una regla otorga otro cálculo de tu CA base, elige qué cálculo quieres usar, ya que no puedes usar más de uno. Consulta también “Tirada de ataque”. 
+El cálculo de tu CA base es 10 más tu modificador por Destreza. Si una regla otorga otro cálculo de tu CA base, elige qué cálculo quieres usar, ya que no puedes usar más de uno. Consulta también “Tirada de ataque”.
 
 ## Clase de dificultad
 
-Una clase de dificultad (CD) es el número objetivo de una prueba de característica o de una tirada de salvación. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”). 
+Una clase de dificultad (CD) es el número objetivo de una prueba de característica o de una tirada de salvación. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).
 
 ## Cobertura
 
-La cobertura proporciona un grado de protección a un objetivo situado tras ella. Hay tres niveles de cobertura, cada uno de los cuales otorga un beneficio diferente al objetivo: cobertura media (bonificador de +2 a la CA y las tiradas de salvación de Destreza), cobertura tres cuartos (bonificador de +5 a la CA y las tiradas de salvación de Destreza) y cobertura completa (no puede ser el objetivo directo). Si un objetivo está detrás de más de un grado de cobertura, solo se beneficia del que le proporciona más protección. Consulta también el capítulo “Cómo jugar” (“Combate”). 
+La cobertura proporciona un grado de protección a un objetivo situado tras ella. Hay tres niveles de cobertura, cada uno de los cuales otorga un beneficio diferente al objetivo: cobertura media (bonificador de +2 a la CA y las tiradas de salvación de Destreza), cobertura tres cuartos (bonificador de +5 a la CA y las tiradas de salvación de Destreza) y cobertura completa (no puede ser el objetivo directo). Si un objetivo está detrás de más de un grado de cobertura, solo se beneficia del que le proporciona más protección. Consulta también el capítulo “Cómo jugar” (“Combate”).
 
 ## Competencia
 
-Si tienes competencia en algo o con algo, puedes sumar tu bonificador por competencia a cualquier prueba con d20 que hagas con ese elemento. Una criatura puede tener competencia en una habilidad o tirada de salvación, o con un arma o herramienta. Consulta también el capítulo “Cómo jugar” (“Competencia”). 
+Si tienes competencia en algo o con algo, puedes sumar tu bonificador por competencia a cualquier prueba con d20 que hagas con ese elemento. Una criatura puede tener competencia en una habilidad o tirada de salvación, o con un arma o herramienta. Consulta también el capítulo “Cómo jugar” (“Competencia”).
 
 ## Concentración
 
-Algunos conjuros y otros efectos requieren concentración para permanecer activos, según se especifique en sus descripciones. Si el creador del efecto pierde la concentración, el efecto concluye. Si el efecto tiene una duración máxima, la descripción detalla cuánto tiempo puede concentrarse el creador en él: hasta 1 minuto, 1 hora u otra duración. El creador puede dejar de concentrarse en cualquier momento (no requiere acción). Los siguientes factores rompen la concentración: 
+Algunos conjuros y otros efectos requieren concentración para permanecer activos, según se especifique en sus descripciones. Si el creador del efecto pierde la concentración, el efecto concluye. Si el efecto tiene una duración máxima, la descripción detalla cuánto tiempo puede concentrarse el creador en él: hasta 1 minuto, 1 hora u otra duración. El creador puede dejar de concentrarse en cualquier momento (no requiere acción). Los siguientes factores rompen la concentración:
 
-Otro efecto de concentración. Pierdes la concentración en un efecto en cuanto comienzas a lanzar un conjuro que también requiere concentración o activas otro efecto que requiere concentración. 
+Otro efecto de concentración. Pierdes la concentración en un efecto en cuanto comienzas a lanzar un conjuro que también requiere concentración o activas otro efecto que requiere concentración.
 
-Daño. Si sufres daño, debes superar una tirada de salvación de Constitución para mantener la concentración. La CD es de 10 o la mitad del daño sufrido (redondeando hacia abajo), lo que sea mayor, hasta un máximo de 30. 
+Daño. Si sufres daño, debes superar una tirada de salvación de Constitución para mantener la concentración. La CD es de 10 o la mitad del daño sufrido (redondeando hacia abajo), lo que sea mayor, hasta un máximo de 30.
 
-Incapacitado o muerto. Tu concentración acaba si tienes el estado de incapacitado o mueres. 
+Incapacitado o muerto. Tu concentración acaba si tienes el estado de incapacitado o mueres.
 
 ## Conjuro
 
-Un conjuro es un efecto mágico que tiene las características descritas en el capítulo “Conjuros”. 
+Un conjuro es un efecto mágico que tiene las características descritas en el capítulo “Conjuros”.
 
 ## Cono [área de efecto]
 
-Un cono es un ärea de efecto que se extiende en lineas rectas desde un punto de origen en la dirección que elija su creador. El ancho del cono en un punto cualquiera a lo largo de su extensión es igual a la distancia entre dicho punto y el origen. Por ejemplo, un cono tiene un ancho de 4,5 m en un punto a lo largo de su extensión que esté a 4,5 m del punto de origen. El efecto que crea un cono especifica su extensión máxima. 
+Un cono es un ärea de efecto que se extiende en lineas rectas desde un punto de origen en la dirección que elija su creador. El ancho del cono en un punto cualquiera a lo largo de su extensión es igual a la distancia entre dicho punto y el origen. Por ejemplo, un cono tiene un ancho de 4,5 m en un punto a lo largo de su extensión que esté a 4,5 m del punto de origen. El efecto que crea un cono especifica su extensión máxima.
 
-El punto de origen de un cono no está incluido en el área de efecto, salvo que su creador decida lo contrario. 
+El punto de origen de un cono no está incluido en el área de efecto, salvo que su creador decida lo contrario.
 
 ## Correr [acción]
 
-Cuando llevas a cabo la acción de correr, consigues movimiento adicional para ese turno. Este aumento es igual a tu velocidad tras aplicar cualquier modificador pertinente. Así, si tu velocidad fuera de 9 m, podrías moverte hasta 18 m en un turno en el que corras. Si tu velocidad de 9 m se redujera a 4,5 m, podrías moverte hasta 9 m en un turno en el que realizaras la acción de correr. 
+Cuando llevas a cabo la acción de correr, consigues movimiento adicional para ese turno. Este aumento es igual a tu velocidad tras aplicar cualquier modificador pertinente. Así, si tu velocidad fuera de 9 m, podrías moverte hasta 18 m en un turno en el que corras. Si tu velocidad de 9 m se redujera a 4,5 m, podrías moverte hasta 9 m en un turno en el que realizaras la acción de correr.
 
-Si tienes una velocidad especial, como una velocidad nadando o una velocidad volando, puedes emplearla en lugar de tu velocidad normal cuando llevas a cabo esta acción. Eliges la velocidad que vas a emplear cada vez que realizas la acción. Consulta también “Velocidad”. 
+Si tienes una velocidad especial, como una velocidad nadando o una velocidad volando, puedes emplearla en lugar de tu velocidad normal cuando llevas a cabo esta acción. Eliges la velocidad que vas a emplear cada vez que realizas la acción. Consulta también “Velocidad”.
 
 ## Criatura
 
-Cualquier ser que aparece en el juego, incluidos los personajes de los jugadores, se considera una criatura. Consulta también “Tipo de criatura”. 
+Cualquier ser que aparece en el juego, incluidos los personajes de los jugadores, se considera una criatura. Consulta también “Tipo de criatura”.
 
 ## Crítico
 
-Si sacas un 20 en el d20 al hacer una tirada de ataque, causarás un crítico y el ataque acertará sin tener en cuenta los modificadores ni la CA del objetivo. Un crítico te permite tirar dados de daño adicionales contra el objetivo: tira todos los dados de daño del ataque dos veces, suma los resultados y luego añade los modificadores pertinentes. Consulta también el capítulo “Cómo jugar” (“Daño y curación”). 
+Si sacas un 20 en el d20 al hacer una tirada de ataque, causarás un crítico y el ataque acertará sin tener en cuenta los modificadores ni la CA del objetivo. Un crítico te permite tirar dados de daño adicionales contra el objetivo: tira todos los dados de daño del ataque dos veces, suma los resultados y luego añade los modificadores pertinentes. Consulta también el capítulo “Cómo jugar” (“Daño y curación”).
 
 ## Cubo [área de efecto]
 
-Un cubo es un área de efecto que se extiende en líneas rectas desde un punto de origen situado en cualquier parte de una cara del cubo. El efecto que crea un cubo especifica su tamaño, que es la longitud de cada lado. 
+Un cubo es un área de efecto que se extiende en líneas rectas desde un punto de origen situado en cualquier parte de una cara del cubo. El efecto que crea un cubo especifica su tamaño, que es la longitud de cada lado.
 
-El punto de origen de un cubo no está incluido en el área de efecto, salvo que su creador decida lo contrario. 
+El punto de origen de un cubo no está incluido en el área de efecto, salvo que su creador decida lo contrario.
 
 ## Curación
 
-La curación es el medio para recuperar puntos de golpe. Consulta también el capítulo “Cómo jugar” (“Daño y curación”). 
+La curación es el medio para recuperar puntos de golpe. Consulta también el capítulo “Cómo jugar” (“Daño y curación”).
 
 ## Dados de puntos de golpe
 
-Los dados de puntos de golpe (o “dados de golpe” para abreviar) ayudan a determinar los puntos de golpe máximos de un personaje jugador, como se explica en el capítulo “Creación de personajes”. La mayoría de monstruos tienen también dados de golpe. Durante un descanso corto, una criatura puede gastar dados de golpe para recuperar puntos de golpe. Consulta también “Descanso corto”. 
+Los dados de puntos de golpe (o “dados de golpe” para abreviar) ayudan a determinar los puntos de golpe máximos de un personaje jugador, como se explica en el capítulo “Creación de personajes”. La mayoría de monstruos tienen también dados de golpe. Durante un descanso corto, una criatura puede gastar dados de golpe para recuperar puntos de golpe. Consulta también “Descanso corto”.
 
 ## Daño
 
-Recibir daño hace que una criatura o un objeto pierda puntos de golpe. 
+Recibir daño hace que una criatura o un objeto pierda puntos de golpe.
 
 ## Derribado [estado]
 
-Mientras tengas el estado de derribado, experimentarás los siguientes efectos: 
+Mientras tengas el estado de derribado, experimentarás los siguientes efectos:
 
-Movimiento restringido. Tus únicas opciones de movimiento son arrastrarte o gastar una cantidad de movimiento igual a la mitad de tu velocidad (redondeando hacia abajo) para levantarte y, por tanto, poner fin a este estado. Si tu velocidad es 0, no puedes levantarte. 
+Movimiento restringido. Tus únicas opciones de movimiento son arrastrarte o gastar una cantidad de movimiento igual a la mitad de tu velocidad (redondeando hacia abajo) para levantarte y, por tanto, poner fin a este estado. Si tu velocidad es 0, no puedes levantarte.
 
-Ataques afectados. Tienes desventaja en las tiradas de ataque. Las tiradas de ataque contra ti tienen ventaja si el atacante está a 1,5 m o menos de ti. De lo contrario, las tiradas de ataque tienen desventaja. 
+Ataques afectados. Tienes desventaja en las tiradas de ataque. Las tiradas de ataque contra ti tienen ventaja si el atacante está a 1,5 m o menos de ti. De lo contrario, las tiradas de ataque tienen desventaja.
 
 ## Descanso corto
 
-Un descanso corto es un periodo de inactividad de 1 hora en el que una criatura no hace nada más extenuante que leer, charlar, comer o montar guardia. Para comenzar un descanso corto, debes tener al menos 1 punto de golpe. 
+Un descanso corto es un periodo de inactividad de 1 hora en el que una criatura no hace nada más extenuante que leer, charlar, comer o montar guardia. Para comenzar un descanso corto, debes tener al menos 1 punto de golpe.
 
-Beneficios del descanso. Tras finalizar el descanso obtendrás los siguientes beneficios: 
+Beneficios del descanso. Tras finalizar el descanso obtendrás los siguientes beneficios:
 
-Gastar dados de puntos de golpe. Puedes gastar uno o más dados de puntos de golpe para recuperar puntos de golpe. Por cada dado de puntos de golpe que gastes de esta forma, tira el dado y suma tu modificador por Constitución al resultado. Recuperas una cantidad de puntos de golpe equivalente al total obtenido (con un mínimo de 1). Puedes decidir si gastas otro dado de puntos de golpe tras cada tirada. 
+Gastar dados de puntos de golpe. Puedes gastar uno o más dados de puntos de golpe para recuperar puntos de golpe. Por cada dado de puntos de golpe que gastes de esta forma, tira el dado y suma tu modificador por Constitución al resultado. Recuperas una cantidad de puntos de golpe equivalente al total obtenido (con un mínimo de 1). Puedes decidir si gastas otro dado de puntos de golpe tras cada tirada.
 
-Rasgo especial. Algunos rasgos se recargan con un descanso corto. Si tienes uno de estos rasgos, se recargará de la forma que indique su descripción. 
+Rasgo especial. Algunos rasgos se recargan con un descanso corto. Si tienes uno de estos rasgos, se recargará de la forma que indique su descripción.
 
-Interrumpir el descanso. Un descanso corto se puede interrumpir de las siguientes formas: 
+Interrumpir el descanso. Un descanso corto se puede interrumpir de las siguientes formas:
 
-• si se tira iniciativa; 
+• si se tira iniciativa;
 
-• si se lanza un conjuro que no sea un truco; 
+• si se lanza un conjuro que no sea un truco;
 
-• si se sufre daño. 
+• si se sufre daño.
 
-Un descanso corto interrumpido no otorga ningún beneficio. 
+Un descanso corto interrumpido no otorga ningún beneficio.
 
 ## Descanso largo
 
-Un descanso largo es un periodo de inactividad prolongado (al menos 8 horas) a disposición de cualquier criatura. Durante un descanso largo, duermes durante al menos 6 horas y realizas como máximo 2 horas de actividades ligeras, como leer, hablar, comer o montar guardia. 
+Un descanso largo es un periodo de inactividad prolongado (al menos 8 horas) a disposición de cualquier criatura. Durante un descanso largo, duermes durante al menos 6 horas y realizas como máximo 2 horas de actividades ligeras, como leer, hablar, comer o montar guardia.
 
-Mientras duermes, tienes el estado de inconsciente. Tras finalizar un descanso largo, deberás esperar al menos 16 horas para comenzar otro. 
+Mientras duermes, tienes el estado de inconsciente. Tras finalizar un descanso largo, deberás esperar al menos 16 horas para comenzar otro.
 
-Beneficios del descanso. Para comenzar un descanso largo, debes tener al menos 1 punto de golpe. Tras finalizar el descanso obtendrás los siguientes beneficios: 
+Beneficios del descanso. Para comenzar un descanso largo, debes tener al menos 1 punto de golpe. Tras finalizar el descanso obtendrás los siguientes beneficios:
 
-Puntos de golpe al máximo. Recuperas todos los puntos de golpe perdidos y todos los dados de puntos de golpe gastados. Si tus puntos de golpe máximos se habían reducido, vuelven a la normalidad. 
+Puntos de golpe al máximo. Recuperas todos los puntos de golpe perdidos y todos los dados de puntos de golpe gastados. Si tus puntos de golpe máximos se habían reducido, vuelven a la normalidad.
 
 ## Puntuaciones de característica restablecidas.
 
-Si alguna de tus puntuaciones de característica se había reducido, vuelve a la normalidad. 
+Si alguna de tus puntuaciones de característica se había reducido, vuelve a la normalidad.
 
-Cansancio reducido. Si tienes el estado de cansancio, su nivel se reduce en 1. 
+Cansancio reducido. Si tienes el estado de cansancio, su nivel se reduce en 1.
 
-Rasgo especial. Algunos rasgos se recargan con un descanso largo. Si tienes uno de estos rasgos, se recargará de la forma que indique su descripción. 
+Rasgo especial. Algunos rasgos se recargan con un descanso largo. Si tienes uno de estos rasgos, se recargará de la forma que indique su descripción.
 
-Interrumpir el descanso. Un descanso largo se puede interrumpir de las siguientes formas: 
+Interrumpir el descanso. Un descanso largo se puede interrumpir de las siguientes formas:
 
-• si se tira iniciativa; 
+• si se tira iniciativa;
 
-• si se lanza un conjuro que no sea un truco; 
+• si se lanza un conjuro que no sea un truco;
 
-• si se sufre daño; 
+• si se sufre daño;
 
-• si se camina o se hace algún otro ejercicio físico durante 1 hora. 
+• si se camina o se hace algún otro ejercicio físico durante 1 hora.
 
-Si logras descansar al menos 1 hora antes de la interrupción, obtienes los beneficios de un descanso corto. Consulta también “Descanso corto”. 
+Si logras descansar al menos 1 hora antes de la interrupción, obtienes los beneficios de un descanso corto. Consulta también “Descanso corto”.
 
-Puedes reanudar un descanso largo inmediatamente después de una interrupción. Si lo haces, el descanso requerirá 1 hora adicional por cada interrupción para finalizarlo. 
+Puedes reanudar un descanso largo inmediatamente después de una interrupción. Si lo haces, el descanso requerirá 1 hora adicional por cada interrupción para finalizarlo.
 
 ## Deshidratación [peligro]
 
-Las criaturas requieren cierta cantidad de agua al día en función de su tamaño, como se muestra en la tabla “Consumo de agua al día”. Si una criatura bebe menos de la mitad del agua que necesita al día, sumará 1 nivel de cansancio al final del día. El cansancio causado por la deshidratación no puede eliminarse hasta que la criatura beba la cantidad completa de agua necesaria al día. Consulta también “Cansancio”. 
-
+Las criaturas requieren cierta cantidad de agua al día en función de su tamaño, como se muestra en la tabla “Consumo de agua al día”. Si una criatura bebe menos de la mitad del agua que necesita al día, sumará 1 nivel de cansancio al final del día. El cansancio causado por la deshidratación no puede eliminarse hasta que la criatura beba la cantidad completa de agua necesaria al día. Consulta también “Cansancio”.
 
 Consumo de agua al día
-
 
 | Tamaño   | Agua | Tamaño       | Agua |
 |----------|-----:|--------------|-----:|
@@ -410,13 +402,11 @@ Consumo de agua al día
 
 ## Desnutrición [peligro]
 
-Las criaturas necesitan cierta cantidad de alimentos al día en función de su tamaño, como se muestra en la tabla “Consumo de alimentos al día”. Si una criatura come, pero ingiere menos de la mitad de los alimentos que necesita al día, deberá superar una tirada de salvacion de Constitucion con CD 10 o sumará 1 nivel de cansancio al final del día. Si una criatura no come nada durante 5 días, sumará automáticamente 1 nivel de cansancio al final del quinto día y un nivel adicional al final de cada día posterior sin comer. 
+Las criaturas necesitan cierta cantidad de alimentos al día en función de su tamaño, como se muestra en la tabla “Consumo de alimentos al día”. Si una criatura come, pero ingiere menos de la mitad de los alimentos que necesita al día, deberá superar una tirada de salvacion de Constitucion con CD 10 o sumará 1 nivel de cansancio al final del día. Si una criatura no come nada durante 5 días, sumará automáticamente 1 nivel de cansancio al final del quinto día y un nivel adicional al final de cada día posterior sin comer.
 
-El cansancio causado por la desnutrición no puede eliminarse hasta que la criatura coma la cantidad completa de alimentos necesarios al día. Consulta también 
-
+El cansancio causado por la desnutrición no puede eliminarse hasta que la criatura coma la cantidad completa de alimentos necesarios al día. Consulta también
 
 Consumo de alimentos al día
-
 
 | Tamaño   | Alimentos | Tamaño        | Alimentos |
 |----------|-----------|---------------|-----------|
@@ -426,41 +416,41 @@ Consumo de alimentos al día
 
 ## Destrabarse [acción]
 
-Si llevas a cabo la acción de destrabarse, tu movimiento no provocará ataques de oportunidad durante el resto del turno actual. 
+Si llevas a cabo la acción de destrabarse, tu movimiento no provocará ataques de oportunidad durante el resto del turno actual.
 
 ## Desventaja
 
-Si tienes desventaja en una prueba con d20, tira 2d20 y utiliza el resultado más bajo. Una tirada no puede verse afectada por más de una desventaja, y una ventaja y una desventaja en la misma tirada se anulan entre sí. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”). 
+Si tienes desventaja en una prueba con d20, tira 2d20 y utiliza el resultado más bajo. Una tirada no puede verse afectada por más de una desventaja, y una ventaja y una desventaja en la misma tirada se anulan entre sí. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).
 
 ## Efecto mágico
 
-Un efecto es mágico si lo crea un conjuro, un objeto mágico o un fenómeno que una regla etiquete como mágico. 
+Un efecto es mágico si lo crea un conjuro, un objeto mágico o un fenómeno que una regla etiquete como mágico.
 
 ## Efectos simultáneos
 
-Si ocurren dos o más cosas a la vez en un turno, la persona (jugador o GM) de la partida cuyo turno esté en marcha decidirá el orden en el que ocurren esas cosas. Por ejemplo, si dos efectos ocurren al principio del turno del personaje de un jugador, el jugador decidirá qué efecto ocurre primero. 
+Si ocurren dos o más cosas a la vez en un turno, la persona (jugador o GM) de la partida cuyo turno esté en marcha decidirá el orden en el que ocurren esas cosas. Por ejemplo, si dos efectos ocurren al principio del turno del personaje de un jugador, el jugador decidirá qué efecto ocurre primero.
 
 ## Emanación [área de efecto]
 
-Una emanación es un área de efecto que se extiende en líneas rectas desde una criatura o un objeto en todas las direcciones. El efecto que crea una emanación especifica la distancia que abarca. 
+Una emanación es un área de efecto que se extiende en líneas rectas desde una criatura o un objeto en todas las direcciones. El efecto que crea una emanación especifica la distancia que abarca.
 
-Una emanación se mueve con la criatura o el objeto que sea su origen, salvo que se trate de un efecto instantáneo o estático. 
+Una emanación se mueve con la criatura o el objeto que sea su origen, salvo que se trate de un efecto instantáneo o estático.
 
-El origen de una emanación (criatura u objeto) no se incluye en el área de efecto, salvo que su creador decida lo contrario. 
+El origen de una emanación (criatura u objeto) no se incluye en el área de efecto, salvo que su creador decida lo contrario.
 
 ## Encuentro
 
-Un encuentro es una escena de una aventura que forma parte de al menos uno de los tres pilares del juego: interacciones sociales, exploración o combate. Consulta también el capítulo “Cómo jugar” (“Interacciones sociales”, “Exploración” y “Combate”). 
+Un encuentro es una escena de una aventura que forma parte de al menos uno de los tres pilares del juego: interacciones sociales, exploración o combate. Consulta también el capítulo “Cómo jugar” (“Interacciones sociales”, “Exploración” y “Combate”).
 
 ## Enemigo
 
-Una criatura es tu enemiga si se opone a ti en combate, si tiene intención de perjudicarte o si las reglas o tu GM la designan como tal. 
+Una criatura es tu enemiga si se opone a ti en combate, si tiene intención de perjudicarte o si las reglas o tu GM la designan como tal.
 
 ## Ensordecido [estado]
 
-Mientras tengas el estado de ensordecido, experimentarás el siguiente efecto: 
+Mientras tengas el estado de ensordecido, experimentarás el siguiente efecto:
 
-No puedes oír. No puedes oír y fallas automáticamente las pruebas de característica que requieran el oído. 
+No puedes oír. No puedes oír y fallas automáticamente las pruebas de característica que requieran el oído.
 
 ## Entrenamiento con armaduras
 
@@ -525,9 +515,7 @@ Cuando llevas a cabo la acción de estudiar, haces una prueba de Inteligencia pa
 
 La tabla “Áreas de conocimiento” sugiere qué habilidades se pueden aplicar a diversos ámbitos.
 
-
 Áreas de conocimiento
-
 
 | Habilidad           | Áreas                                                                                                                                                                                     |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -611,16 +599,14 @@ No voluntario. Si tu deseo resulta aversivo para el monstruo u opuesto a su alin
 
 Indeciso. Si instas al monstruo a que haga algo sobre lo que siente dudas, deberás realizar una prueba de característica, en la que influirá la actitud del monstruo: indiferente, amistosa u hostil, todas ellas definidas en este glosario. La tabla “Pruebas de influencia” sugiere qué prueba de característica se debe hacer en funcion de cómo interactuas con el monstruo. Tu GM elegirá la prueba, que tendrá por defecto una CD igual a 15 o la puntuación de Inteligencia del monstruo, la que sea más alta. Si la superas, el monstruo hará lo que le pides. Si la fallas, deberás esperar 24 horas (o el plazo que establezca tu GM) antes de volver a insistir.
 
-
 Pruebas de influencia
 
-
-| Prueba de característica | Interacción |
-|---|---|
-| Carisma (Engaño) | Engañar a un monstruo que te entienda. |
-| Carisma (Interpretación) | Entretener a un monstruo. |
-| Carisma (Intimidación) | Intimidar a un monstruo. |
-| Carisma (Persuasión) | Persuadir a un monstruo que te entienda. |
+| Prueba de característica       | Interacción                                         |
+|--------------------------------|-----------------------------------------------------|
+| Carisma (Engaño)               | Engañar a un monstruo que te entienda.              |
+| Carisma (Interpretación)       | Entretener a un monstruo.                           |
+| Carisma (Intimidación)         | Intimidar a un monstruo.                            |
+| Carisma (Persuasión)           | Persuadir a un monstruo que te entienda.            |
 | Sabiduría (Trato con animales) | Convencer poco a poco a una bestia o monstruosidad. |
 
 ## Iniciativa
@@ -885,9 +871,7 @@ Los objetos pueden dañarse con ataques y algunos conjuros, conforme a las sigui
 
 Clase de armadura. La tabla “Clase de armadura de objetos” muestra las CA de varias sustancias.
 
-
 Clase de armadura de objetos
-
 
 | CA | Sustancia              | CA | Sustancia     |
 |---:|------------------------|---:|---------------|
@@ -895,15 +879,11 @@ Clase de armadura de objetos
 | 13 | Cristal, vidrio, hielo | 21 | Mithral       |
 | 15 | Madera                 | 23 | Adamantina    |
 
-
 17 Piedra
-
 
 Puntos de golpe. Un objeto se destruye cuando sus puntos de golpe se reducen a 0. La tabla “Puntos de golpe de objetos” sugiere puntos de golpe para objetos frágiles y resistentes de tamaño Grande o más pequeño. Para asignar puntos de golpe a un objeto Enorme o Gargantuesco, divídelo en secciones Grandes o más pequeñas y lleva la cuenta de cada una por separado. Cada GM determina si destruir parte de un objeto hará que se desmorone por completo.
 
-
 Puntos de golpe de objetos
-
 
 | Tamaño                            | Frágil   | Resistente |
 |-----------------------------------|----------|------------|
@@ -1011,9 +991,7 @@ Estos tipos no tienen reglas en sí mismos, pero hay reglas del juego que afecta
 
 Los ataques y otros efectos dañinos causan diferentes tipos de daño. Los tipos de daño no tienen reglas propias, pero otras reglas, como la resistencia, dependen de ellos. La tabla “Tipos de daño” plantea ejemplos para que cada GM sepa qué tipo puede asignar a los efectos nuevos.
 
-
 Tipos de daño
-
 
 | Tipo        | Ejemplos                                |
 |-------------|-----------------------------------------|

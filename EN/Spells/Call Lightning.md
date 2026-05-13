@@ -3,6 +3,7 @@ aliases: ["Call Lightning"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/LlamarAlRelampago|Llamar al relámpago (Español)]]"
 ---
+
 ### Call Lightning
 
 *Level 3 Conjuration* (Druid)

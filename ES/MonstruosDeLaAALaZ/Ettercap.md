@@ -17,13 +17,13 @@ related_en: "[[Monsters/Ettercap|Ettercap (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 15 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| SAB | 12 | +1 | +1 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     7 |  -2 |   -2 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Habilidades:** Percepción +3, Sigilo +4, Supervivencia +3
 

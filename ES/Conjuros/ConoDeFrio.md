@@ -16,7 +16,7 @@ related_en: "[[Spells/Cone of Cold|Cone of Cold (EN)]]"
 
 **Duración:** Instantáneo
 
-Emites una ráfaga de aire helado. Todas las criaturas situadas en un cono de 18 m que se origina en ti hacen una tirada de salvación de Constitución; sufrirán 8d8 de daño de frío si la fallan o la mitad de daño si la superan. Si una criatura muere a causa de este conjuro, se convertirá en una estatua congelada hasta que se descongele. 
+Emites una ráfaga de aire helado. Todas las criaturas situadas en un cono de 18 m que se origina en ti hacen una tirada de salvación de Constitución; sufrirán 8d8 de daño de frío si la fallan o la mitad de daño si la superan. Si una criatura muere a causa de este conjuro, se convertirá en una estatua congelada hasta que se descongele.
 
 **Con un espacio de conjuro de nivel superior.**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Chuul|Chuul (Español)]]"
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 5 | −3 | −3 | **Wis** 11 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 5  | −3  |  −3  | **Wis** 11 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +4**
 

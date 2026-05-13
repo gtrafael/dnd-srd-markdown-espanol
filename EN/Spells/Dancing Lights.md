@@ -3,6 +3,7 @@ aliases: ["Dancing Lights"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/LucesDanzantes|Luces danzantes (Español)]]"
 ---
+
 ### Dancing Lights
 
 *Illusion Cantrip* (Bard, Sorcerer, Wizard)

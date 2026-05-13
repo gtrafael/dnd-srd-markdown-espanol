@@ -3,6 +3,7 @@ aliases: ["Animate Objects"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/AnimarObjetos|Animar objetos (Español)]]"
 ---
+
 ### Animate Objects
 
 *Level 5 Transmutation* (Bard, Sorcerer, Wizard)

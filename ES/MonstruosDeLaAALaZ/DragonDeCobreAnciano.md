@@ -15,13 +15,13 @@ related_en: "[[Monsters/Ancient Copper Dragon|Ancient Copper Dragon (EN)]]"
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 27 | +8 | +8 |
-| DES | 12 | +1 | +8 |
-| CON | 25 | +7 | +7 |
-| INT | 20 | +5 | +5 |
-| SAB | 17 | +3 | +10 |
-| CAR | 22 | +6 | +6 |
+|-------|------:|----:|-----:|
+| FUE   |    27 |  +8 |   +8 |
+| DES   |    12 |  +1 |   +8 |
+| CON   |    25 |  +7 |   +7 |
+| INT   |    20 |  +5 |   +5 |
+| SAB   |    17 |  +3 |  +10 |
+| CAR   |    22 |  +6 |   +6 |
 
 **Habilidades:** Engaño +13, Percepción +17, Sigilo +8
 

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Magmin|Magmin (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 7 | -2 | -2 |
-| DES | 15 | +2 | +2 |
-| CON | 12 | — | — |
-| INT | 8 | -1 | -1 |
-| SAB | 11 | +0 | +0 |
-| CAR | 10 | — | — |
+|-------|------:|----:|-----:|
+| FUE   |     7 |  -2 |   -2 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    12 |   — |    — |
+| INT   |     8 |  -1 |   -1 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |    10 |   — |    — |
 
 **Inmunidades:** fuego
 

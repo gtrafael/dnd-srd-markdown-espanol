@@ -3,6 +3,7 @@ aliases: ["Sending"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Recado|Recado (Español)]]"
 ---
+
 ### Sending
 
 *Level 3 Divination* (Bard, Cleric, Wizard)

@@ -24,11 +24,11 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 ### Elven Lineages
 
-| Lineage | Level 1 | Level 3 | Level 5 |
-|---------|---------|---------|---------|
-| Drow | The range of your Darkvision increases to 120 feet. You also know the Dancing Lights cantrip. | Faerie Fire | Darkness |
-| High Elf | You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | Detect Magic | Misty Step |
-| Wood Elf | Your Speed increases to 35 feet. You also know the Druidcraft cantrip. | Longstrider | Pass without Trace |
+| Lineage  | Level 1                                                                                                                                                   | Level 3      | Level 5            |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------|
+| Drow     | The range of your Darkvision increases to 120 feet. You also know the Dancing Lights cantrip.                                                             | Faerie Fire  | Darkness           |
+| High Elf | You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | Detect Magic | Misty Step         |
+| Wood Elf | Your Speed increases to 35 feet. You also know the Druidcraft cantrip.                                                                                    | Longstrider  | Pass without Trace |
 
 ***Fey Ancestry.*** You have Advantage on saving throws you make to avoid or end the Charmed condition.
 

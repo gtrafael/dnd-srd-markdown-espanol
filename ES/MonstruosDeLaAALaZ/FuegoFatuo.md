@@ -17,13 +17,13 @@ related_en: "[[Monsters/Will-o-Wisp|Will-o-Wisp (EN)]]"
 **Velocidad:** 1,5 m, volar 15 m (levitar)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 1 | -5 | -5 |
-| DES | 28 | +9 | +9 |
-| CON | 10 | +0 | +0 |
-| INT | 13 | +1 | +1 |
-| SAB | 14 | +2 | +2 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |     1 |  -5 |   -5 |
+| DES   |    28 |  +9 |   +9 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |    13 |  +1 |   +1 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |    11 |  +0 |   +0 |
 
 **Resistencias:** ácido, contundente, cortante, frío, fuego, necrótico, perforante
 

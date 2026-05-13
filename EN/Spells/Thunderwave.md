@@ -3,6 +3,7 @@ aliases: ["Thunderwave"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/OlaAtronadora|Ola atronadora (Español)]]"
 ---
+
 ### Thunderwave
 
 *Level 1 Evocation* (Bard, Druid, Sorcerer, Wizard)

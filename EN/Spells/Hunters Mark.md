@@ -3,6 +3,7 @@ aliases: ["Hunters Mark"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/MarcaDelCazador|Marca del cazador (Español)]]"
 ---
+
 ### Hunter’s Mark
 
 *Level 1 Divination* (Ranger)

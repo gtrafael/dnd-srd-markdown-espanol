@@ -8,11 +8,10 @@
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 9 | −1 | −1 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 9  | −1  |  −1  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Athletics +6, Perception +3**
 
@@ -46,11 +45,10 @@ Trampling Charge (Recharge 5–6). The centaur moves up to its Speed without pro
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 18 | +4 | +7 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +4 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 18 | +4 | +7 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +4  | **Cha** 14 | +2 | +2 |
 
 **Resistances Bludgeoning, Cold, Piercing, Slashing**
 
@@ -94,11 +92,10 @@ Frightened condition until the end of its turn. Success: The target is immune to
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 19 | +4 | +4 |
-| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 11 | +0  |  +0  | **Con** 19 | +4 | +4 |
+| **Int** 3  | −4  |  −4  | **Wis** 14 | +2  |  +2  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +8**
 
@@ -132,11 +129,10 @@ Ram. Melee Attack Roll: +7, reach 5 ft. Hit: 10 (1d12 + 4) Bludgeoning damage. I
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 5 | −3 | −3 | **Wis** 11 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 5  | −3  |  −3  | **Wis** 11 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +4**
 
@@ -174,11 +170,10 @@ Paralyzing Tentacles. Constitution Saving Throw: DC 13, one creature Grappled by
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 9 | −1 | −1 | **Con** 18 | +4 | +4 |
-| **Int** 3 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 9 | −1  |  −1  | **Con** 18 | +4 | +4 |
+| **Int** 3  | −4  |  −4  | **Wis** 8 | −1  |  −1  | **Cha** 1 | −5 | −5 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 
@@ -222,11 +217,10 @@ Hasten (Recharge 5–6). The golem takes the Dash and Disengage actions. Cloaker
 
 **Speed 10 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 15 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 13 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 15 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 13 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 7 | −2 | −2 |
 
 **Skills Stealth +5**
 
@@ -268,11 +262,10 @@ Phantasms (Recharge after a Short or Long Rest). The cloaker casts the Mirror Im
 
 **Speed 40 ft., Fly 20 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 10 | +0 | +0 | **Con** 22 | +6 | +10 |
-| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +7 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 10 | +0  |  +0  | **Con** 22 | +6 | +10 |
+| **Int** 12 | +1  |  +1  | **Wis** 16 | +3  |  +7  | **Cha** 16 | +3 | +3 |
 
 **Skills Insight +7, Perception +11**
 
@@ -310,11 +303,10 @@ Misty Step. The giant casts the Misty Step spell, using the same spellcasting ab
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6 | −2  |  −2  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 2 | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Immunities Petrified**
 
@@ -340,11 +332,10 @@ Restrained condition. The target repeats the save at the end of its next turn if
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 10 | +0 | +0 | **Con** 10 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 10 | +0  |  +0  | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Gear Club**
 
@@ -374,11 +365,10 @@ Bludgeoning damage. Copper Dragons
 
 **Speed 30 ft., Climb 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +2 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 12 | +1  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 14 | +2  |  +2  | **Wis** 11 | +0  |  +2  | **Cha** 13 | +1 | +1 |
 
 **Skills Perception +4, Stealth +3**
 
@@ -410,11 +400,10 @@ This effect lasts until the end of its next turn.
 
 **Speed 30 ft., Fly 90 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 20 | +5 | +5 | **Con** 17 | +3 | +5 |
-| **Int** 18 | +4 | +4 | **Wis** 20 | +5 | +7 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 20 | +5  |  +5  | **Con** 17 | +3 | +5 |
+| **Int** 18 | +4  |  +4  | **Wis** 20 | +5  |  +7  | **Cha** 18 | +4 | +4 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 
@@ -454,11 +443,10 @@ Divine Aid (2/Day). The couatl casts Bless, Lesser Restoration, or Sanctuary, re
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 10 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +2 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 12 | +1  |  +1  | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +2  | **Cha** 10 | +0 | +0 |
 
 **Skills Deception +2, Religion +2**
 
@@ -484,11 +472,10 @@ Ritual Sickle. Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing dama
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +4 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 14 | +2  |  +4  | **Cha** 13 | +1 | +1 |
 
 **Skills Deception +3, Persuasion +3, Religion +2**
 

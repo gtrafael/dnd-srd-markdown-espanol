@@ -3,6 +3,7 @@ aliases: ["Bestow Curse"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ImponerMaldicion|Imponer maldición (Español)]]"
 ---
+
 ### Bestow Curse
 
 *Level 3 Necromancy* (Bard, Cleric, Wizard)

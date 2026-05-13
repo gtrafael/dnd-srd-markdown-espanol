@@ -15,13 +15,14 @@ related_en: "[[Animals/Ankylosaurus|Ankylosaurus (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +6 |
-| DES | 11 | +0 | +0 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +6 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     5 |  -3 |   -3 |
+
 **Sentidos:** Percepción pasiva 11
 
 **Idiomas:** ninguno

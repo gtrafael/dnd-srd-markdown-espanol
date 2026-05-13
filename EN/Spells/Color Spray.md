@@ -3,6 +3,7 @@ aliases: ["Color Spray"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RociadaDeColor|Rociada de color (Español)]]"
 ---
+
 ### Color Spray
 
 *Level 1 Illusion* (Bard, Sorcerer, Wizard)

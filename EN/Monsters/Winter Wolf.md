@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/LoboInvernal|Lobo invernal (Español)]]"
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 13 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 7 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 13 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 7  | −2  |  −2  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +5, Stealth +5**
 

@@ -3,6 +3,7 @@ aliases: ["Blight"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Marchitar|Marchitar (Español)]]"
 ---
+
 ### Blight
 
 *Level 4 Necromancy* (Druid, Sorcerer, Warlock, Wizard)

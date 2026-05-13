@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Hyena|Giant Hyena (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Percepción +3
 

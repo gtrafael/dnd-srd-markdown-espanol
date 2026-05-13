@@ -3,6 +3,7 @@ aliases: ["Ice Knife"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CuchilloDeHielo|Cuchillo de hielo (Español)]]"
 ---
+
 ### Ice Knife
 
 *Level 1 Conjuration* (Druid, Sorcerer, Wizard)

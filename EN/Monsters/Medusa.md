@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Medusa|Medusa (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 17 | +3 | +3 | **Con** 16 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 13 | +1 | +4 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 17 | +3  |  +3  | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 13 | +1  |  +4  | **Cha** 15 | +2 | +2 |
 
 **Skills Deception +5, Perception +4, Stealth +6**
 

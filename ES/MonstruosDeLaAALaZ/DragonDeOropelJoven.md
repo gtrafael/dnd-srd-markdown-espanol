@@ -17,13 +17,14 @@ related_en: "[[Monsters/Young Brass Dragon|Young Brass Dragon (EN)]]"
 **Velocidad:** 12 m, excavar 6 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 10 | +0 | +3 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| SAB | 11 | +0 | +3 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    10 |  +0 |   +3 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    11 |  +0 |   +3 |
+| CAR   |    15 |  +2 |   +2 |
+
 **Habilidades:** Percepción +6, Persuasión +5, Sigilo +3
 
 **Inmunidades:** fuego

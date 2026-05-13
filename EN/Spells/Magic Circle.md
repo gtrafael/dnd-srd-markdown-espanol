@@ -3,6 +3,7 @@ aliases: ["Magic Circle"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CirculoMagico|Círculo mágico (Español)]]"
 ---
+
 ### Magic Circle
 
 *Level 3 Abjuration* (Cleric, Paladin, Warlock, Wizard)

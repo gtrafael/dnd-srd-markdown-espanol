@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/MonstruoCorrosivo|Monstruo corrosivo (Español
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 12 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 12 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Darkvision 60 ft.; Passive Perception 11**
 

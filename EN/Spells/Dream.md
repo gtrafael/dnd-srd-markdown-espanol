@@ -3,6 +3,7 @@ aliases: ["Dream"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Ensueno|Ensueño (Español)]]"
 ---
+
 ### Dream
 
 *Level 5 Illusion* (Bard, Warlock, Wizard)

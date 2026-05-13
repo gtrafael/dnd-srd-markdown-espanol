@@ -3,6 +3,7 @@ aliases: ["Guiding Bolt"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/SaetaGuia|Saeta guía (Español)]]"
 ---
+
 ### Guiding Bolt
 
 *Level 1 Evocation* (Cleric)

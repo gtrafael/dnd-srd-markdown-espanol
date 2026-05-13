@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Hipogrifo|Hipogrifo (Español)]]"
 
 **Speed 40 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +5**
 

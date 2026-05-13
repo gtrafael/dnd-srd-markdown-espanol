@@ -17,13 +17,13 @@ related_en: "[[Monsters/Hobgoblin Warrior|Hobgoblin Warrior (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 13 | +1 | +1 |
-| DES | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 9 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    13 |  +1 |   +1 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     9 |  -1 |   -1 |
 
 **Equipo:** arco largo, escudo, espada larga, media armadura
 

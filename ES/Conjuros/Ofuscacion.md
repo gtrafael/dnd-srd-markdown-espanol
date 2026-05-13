@@ -16,9 +16,9 @@ related_en: "[[Spells/Blur|Blur (EN)]]"
 
 **Duración:** Instantáneo
 
-**Atacas la mente de una criatura que puedas ver dentro del alcance.** El objetivo hace una tirada de salvación de Inteligencia. 
+**Atacas la mente de una criatura que puedas ver dentro del alcance.** El objetivo hace una tirada de salvación de Inteligencia.
 
-Si la falla, sufrirá 10d12 de daño psíquico y no podrá lanzar conjuros ni realizar acciones de magia. Al final de cada 30 días, el objetivo repite la tirada de salvación y, si tiene éxito, se librará del efecto. También se puede finalizar este efecto mediante un conjuro curar, deseo o restablecimiento mayor. 
+Si la falla, sufrirá 10d12 de daño psíquico y no podrá lanzar conjuros ni realizar acciones de magia. Al final de cada 30 días, el objetivo repite la tirada de salvación y, si tiene éxito, se librará del efecto. También se puede finalizar este efecto mediante un conjuro curar, deseo o restablecimiento mayor.
 
 Si supera la tirada, solo sufrirá la mitad de ese daño. 
 

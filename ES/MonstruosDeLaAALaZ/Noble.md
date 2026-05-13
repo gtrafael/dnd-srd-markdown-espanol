@@ -17,13 +17,13 @@ related_en: "[[Monsters/Noble|Noble (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 11 | +0 | +0 |
-| DES | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 12 | +1 | +1 |
-| SAB | 14 | +2 | +2 |
-| CAR | 16 | +3 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    11 |  +0 |   +0 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |    16 |  +3 |   +3 |
 
 **Habilidades:** Engaño +5, Perspicacia +4, Persuasión +5
 

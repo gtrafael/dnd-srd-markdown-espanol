@@ -17,13 +17,13 @@ related_en: "[[Monsters/Salamander|Salamander (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 14 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 11 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 12 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Vulnerabilidades:** frío
 

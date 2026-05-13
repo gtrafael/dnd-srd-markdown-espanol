@@ -17,13 +17,13 @@ related_en: "[[Animals/Dire Wolf|Dire Wolf (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 15 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 3 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Percepción +5, Sigilo +4
 

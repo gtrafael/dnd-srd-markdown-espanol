@@ -17,13 +17,13 @@ related_en: "[[Animals/Swarm of Venomous Snakes|Swarm of Venomous Snakes (EN)]]"
 **Velocidad:** 9 m, nadar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 8 | -1 | -1 |
-| DES | 18 | +4 | +4 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| SAB | 10 | +0 | +0 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |     8 |  -1 |   -1 |
+| DES   |    18 |  +4 |   +4 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Resistencias:** contundente, cortante, perforante
 

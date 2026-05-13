@@ -3,19 +3,20 @@ aliases: ["Warlock"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Brujo|Brujo (Español)]]"
 ---
+
 # Warlock
 
 ## Core Warlock Traits
 
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | Charisma |
-| **Hit Point Die** | D8 per Warlock level |
-| **Saving Throw Proficiencies** | Wisdom and Charisma |
-| **Skill Proficiencies** | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion |
-| **Weapon Proficiencies** | Simple weapons |
-| **Armor Training** | Light armor |
-| **Starting Equipment** | Choose A or B: (A) Leather Armor, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or (B) 100 GP |
+| Trait                          | Detail                                                                                                                                |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Primary Ability**            | Charisma                                                                                                                              |
+| **Hit Point Die**              | D8 per Warlock level                                                                                                                  |
+| **Saving Throw Proficiencies** | Wisdom and Charisma                                                                                                                   |
+| **Skill Proficiencies**        | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion                                                |
+| **Weapon Proficiencies**       | Simple weapons                                                                                                                        |
+| **Armor Training**             | Light armor                                                                                                                           |
+| **Starting Equipment**         | Choose A or B: (A) Leather Armor, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or (B) 100 GP |
 
 ## Becoming a Warlock...
 
@@ -33,28 +34,28 @@ related_es: "[[Clases/Brujo|Brujo (Español)]]"
 
 As a Warlock, you gain the following class features when you reach the specified Warlock levels. These features are listed in the Warlock Features table.
 
-| Level | Proficiency Bonus | Class Features | Eldritch Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
-|---|---|---|---|---|---|---|---|
-| 1 | +2 | Eldritch Invocations, Pact Magic | 1 | 2 | 2 | 1 | 1 |
-| 2 | +2 | Magical Cunning | 3 | 2 | 3 | 2 | 1 |
-| 3 | +2 | Warlock Subclass | 3 | 2 | 4 | 2 | 2 |
-| 4 | +2 | Ability Score Improvement | 3 | 3 | 5 | 2 | 2 |
-| 5 | +3 | — | 5 | 3 | 6 | 2 | 3 |
-| 6 | +3 | Subclass feature | 5 | 3 | 7 | 2 | 3 |
-| 7 | +3 | — | 6 | 3 | 8 | 2 | 4 |
-| 8 | +3 | Ability Score Improvement | 6 | 3 | 9 | 2 | 4 |
-| 9 | +4 | Contact Patron | 7 | 3 | 10 | 2 | 5 |
-| 10 | +4 | Subclass feature | 7 | 4 | 10 | 2 | 5 |
-| 11 | +4 | Mystic Arcanum (level 6 spell) | 7 | 4 | 11 | 3 | 5 |
-| 12 | +4 | Ability Score Improvement | 8 | 4 | 11 | 3 | 5 |
-| 13 | +5 | Mystic Arcanum (level 7 spell) | 8 | 4 | 12 | 3 | 5 |
-| 14 | +5 | Subclass feature | 8 | 4 | 12 | 3 | 5 |
-| 15 | +5 | Mystic Arcanum (level 8 spell) | 9 | 4 | 13 | 3 | 5 |
-| 16 | +5 | Ability Score Improvement | 9 | 4 | 13 | 3 | 5 |
-| 17 | +6 | Mystic Arcanum (level 9 spell) | 9 | 4 | 14 | 4 | 5 |
-| 18 | +6 | — | 10 | 4 | 14 | 4 | 5 |
-| 19 | +6 | Epic Boon | 10 | 4 | 15 | 4 | 5 |
-| 20 | +6 | Eldritch Master | 10 | 4 | 15 | 4 | 5 |
+| Level | Proficiency Bonus | Class Features                   | Eldritch Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
+|-------|-------------------|----------------------------------|----------------------|----------|-----------------|-------------|------------|
+| 1     | +2                | Eldritch Invocations, Pact Magic | 1                    | 2        | 2               | 1           | 1          |
+| 2     | +2                | Magical Cunning                  | 3                    | 2        | 3               | 2           | 1          |
+| 3     | +2                | Warlock Subclass                 | 3                    | 2        | 4               | 2           | 2          |
+| 4     | +2                | Ability Score Improvement        | 3                    | 3        | 5               | 2           | 2          |
+| 5     | +3                | —                                | 5                    | 3        | 6               | 2           | 3          |
+| 6     | +3                | Subclass feature                 | 5                    | 3        | 7               | 2           | 3          |
+| 7     | +3                | —                                | 6                    | 3        | 8               | 2           | 4          |
+| 8     | +3                | Ability Score Improvement        | 6                    | 3        | 9               | 2           | 4          |
+| 9     | +4                | Contact Patron                   | 7                    | 3        | 10              | 2           | 5          |
+| 10    | +4                | Subclass feature                 | 7                    | 4        | 10              | 2           | 5          |
+| 11    | +4                | Mystic Arcanum (level 6 spell)   | 7                    | 4        | 11              | 3           | 5          |
+| 12    | +4                | Ability Score Improvement        | 8                    | 4        | 11              | 3           | 5          |
+| 13    | +5                | Mystic Arcanum (level 7 spell)   | 8                    | 4        | 12              | 3           | 5          |
+| 14    | +5                | Subclass feature                 | 8                    | 4        | 12              | 3           | 5          |
+| 15    | +5                | Mystic Arcanum (level 8 spell)   | 9                    | 4        | 13              | 3           | 5          |
+| 16    | +5                | Ability Score Improvement        | 9                    | 4        | 13              | 3           | 5          |
+| 17    | +6                | Mystic Arcanum (level 9 spell)   | 9                    | 4        | 14              | 4           | 5          |
+| 18    | +6                | —                                | 10                   | 4        | 14              | 4           | 5          |
+| 19    | +6                | Epic Boon                        | 10                   | 4        | 15              | 4           | 5          |
+| 20    | +6                | Eldritch Master                  | 10                   | 4        | 15              | 4           | 5          |
 
 ### Level 1: Eldritch Invocations
 
@@ -332,125 +333,125 @@ This section presents the Warlock spell list. The spells are organised by spell 
 
 ### Cantrips (Level 0 Warlock Spells)
 
-| Spell | School | Special |
-|---|---|---|
-| Chill Touch | Necromancy | — |
-| Eldritch Blast | Evocation | — |
-| Mage Hand | Conjuration | — |
-| Minor Illusion | Illusion | — |
-| Poison Spray | Necromancy | — |
-| Prestidigitation | Transmutation | — |
-| True Strike | Divination | — |
+| Spell            | School        | Special |
+|------------------|---------------|---------|
+| Chill Touch      | Necromancy    | —       |
+| Eldritch Blast   | Evocation     | —       |
+| Mage Hand        | Conjuration   | —       |
+| Minor Illusion   | Illusion      | —       |
+| Poison Spray     | Necromancy    | —       |
+| Prestidigitation | Transmutation | —       |
+| True Strike      | Divination    | —       |
 
 ### Level 1 Warlock Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Bane | Enchantment | C |
-| Charm Person | Enchantment | — |
-| Comprehend Languages | Divination | R |
-| Detect Magic | Divination | C, R |
-| Expeditious Retreat | Transmutation | C |
-| Hellish Rebuke | Evocation | — |
-| Hex | Enchantment | C |
-| Hideous Laughter | Enchantment | C |
-| Illusory Script | Illusion | R, M |
-| Protection from Evil and Good | Abjuration | C, M |
-| Speak with Animals | Divination | R |
-| Unseen Servant | Conjuration | R |
+| Spell                         | School        | Special |
+|-------------------------------|---------------|---------|
+| Bane                          | Enchantment   | C       |
+| Charm Person                  | Enchantment   | —       |
+| Comprehend Languages          | Divination    | R       |
+| Detect Magic                  | Divination    | C, R    |
+| Expeditious Retreat           | Transmutation | C       |
+| Hellish Rebuke                | Evocation     | —       |
+| Hex                           | Enchantment   | C       |
+| Hideous Laughter              | Enchantment   | C       |
+| Illusory Script               | Illusion      | R, M    |
+| Protection from Evil and Good | Abjuration    | C, M    |
+| Speak with Animals            | Divination    | R       |
+| Unseen Servant                | Conjuration   | R       |
 
 ### Level 2 Warlock Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Darkness | Evocation | C |
-| Enthrall | Enchantment | C |
-| Hold Person | Enchantment | C |
-| Invisibility | Illusion | C |
-| Mind Spike | Divination | C |
-| Mirror Image | Illusion | — |
-| Misty Step | Conjuration | — |
-| Ray of Enfeeblement | Necromancy | C |
-| Spider Climb | Transmutation | C |
-| Suggestion | Enchantment | C |
+| Spell               | School        | Special |
+|---------------------|---------------|---------|
+| Darkness            | Evocation     | C       |
+| Enthrall            | Enchantment   | C       |
+| Hold Person         | Enchantment   | C       |
+| Invisibility        | Illusion      | C       |
+| Mind Spike          | Divination    | C       |
+| Mirror Image        | Illusion      | —       |
+| Misty Step          | Conjuration   | —       |
+| Ray of Enfeeblement | Necromancy    | C       |
+| Spider Climb        | Transmutation | C       |
+| Suggestion          | Enchantment   | C       |
 
 ### Level 3 Warlock Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Counterspell | Abjuration | — |
-| Dispel Magic | Abjuration | — |
-| Fear | Illusion | C |
-| Fly | Transmutation | C |
-| Gaseous Form | Transmutation | C |
-| Hypnotic Pattern | Illusion | C |
-| Magic Circle | Abjuration | M |
-| Major Image | Illusion | C |
-| Remove Curse | Abjuration | — |
-| Tongues | Divination | — |
-| Vampiric Touch | Necromancy | C |
+| Spell            | School        | Special |
+|------------------|---------------|---------|
+| Counterspell     | Abjuration    | —       |
+| Dispel Magic     | Abjuration    | —       |
+| Fear             | Illusion      | C       |
+| Fly              | Transmutation | C       |
+| Gaseous Form     | Transmutation | C       |
+| Hypnotic Pattern | Illusion      | C       |
+| Magic Circle     | Abjuration    | M       |
+| Major Image      | Illusion      | C       |
+| Remove Curse     | Abjuration    | —       |
+| Tongues          | Divination    | —       |
+| Vampiric Touch   | Necromancy    | C       |
 
 ### Level 4 Warlock Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Banishment | Abjuration | C |
-| Blight | Necromancy | — |
-| Charm Monster | Enchantment | — |
-| Dimension Door | Conjuration | — |
-| Hallucinatory Terrain | Illusion | — |
+| Spell                 | School      | Special |
+|-----------------------|-------------|---------|
+| Banishment            | Abjuration  | C       |
+| Blight                | Necromancy  | —       |
+| Charm Monster         | Enchantment | —       |
+| Dimension Door        | Conjuration | —       |
+| Hallucinatory Terrain | Illusion    | —       |
 
 ### Level 5 Warlock Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Contact Other Plane | Divination | R |
-| Dream | Illusion | — |
-| Hold Monster | Enchantment | C |
-| Mislead | Illusion | C |
-| Planar Binding | Abjuration | M |
-| Scrying | Divination | C, M |
-| Teleportation Circle | Conjuration | M |
+| Spell                | School      | Special |
+|----------------------|-------------|---------|
+| Contact Other Plane  | Divination  | R       |
+| Dream                | Illusion    | —       |
+| Hold Monster         | Enchantment | C       |
+| Mislead              | Illusion    | C       |
+| Planar Binding       | Abjuration  | M       |
+| Scrying              | Divination  | C, M    |
+| Teleportation Circle | Conjuration | M       |
 
 ### Level 6 Warlock Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Circle of Death | Necromancy | M |
-| Create Undead | Necromancy | M |
-| Eyebite | Necromancy | C |
-| True Seeing | Divination | M |
+| Spell           | School     | Special |
+|-----------------|------------|---------|
+| Circle of Death | Necromancy | M       |
+| Create Undead   | Necromancy | M       |
+| Eyebite         | Necromancy | C       |
+| True Seeing     | Divination | M       |
 
 ### Level 7 Warlock Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Etherealness | Conjuration | — |
-| Finger of Death | Necromancy | — |
-| Forcecage | Evocation | C, M |
-| Plane Shift | Conjuration | M |
+| Spell           | School      | Special |
+|-----------------|-------------|---------|
+| Etherealness    | Conjuration | —       |
+| Finger of Death | Necromancy  | —       |
+| Forcecage       | Evocation   | C, M    |
+| Plane Shift     | Conjuration | M       |
 
 ### Level 8 Warlock Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Befuddlement | Enchantment | — |
-| Demiplane | Conjuration | — |
-| Dominate Monster | Enchantment | C |
-| Glibness | Enchantment | — |
-| Power Word Stun | Enchantment | — |
+| Spell            | School      | Special |
+|------------------|-------------|---------|
+| Befuddlement     | Enchantment | —       |
+| Demiplane        | Conjuration | —       |
+| Dominate Monster | Enchantment | C       |
+| Glibness         | Enchantment | —       |
+| Power Word Stun  | Enchantment | —       |
 
 ### Level 9 Warlock Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Astral Projection | Necromancy | M |
-| Foresight | Divination | — |
-| Gate | Conjuration | C, M |
-| Imprisonment | Abjuration | M |
-| Power Word Kill | Enchantment | — |
-| True Polymorph | Transmutation | C |
-| Weird | Illusion | C |
+| Spell             | School        | Special |
+|-------------------|---------------|---------|
+| Astral Projection | Necromancy    | M       |
+| Foresight         | Divination    | —       |
+| Gate              | Conjuration   | C, M    |
+| Imprisonment      | Abjuration    | M       |
+| Power Word Kill   | Enchantment   | —       |
+| True Polymorph    | Transmutation | C       |
+| Weird             | Illusion      | C       |
 
 ## Warlock Subclass: Fiend Patron
 
@@ -466,12 +467,12 @@ When you reduce an enemy to 0 Hit Points, you gain Temporary Hit Points equal to
 
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Fiend Spells table, you thereafter always have the listed spells prepared.
 
-| Warlock Level | Spells |
-|---|---|
-| 3 | Burning Hands, Command, Scorching Ray, Suggestion |
-| 5 | Fireball, Stinking Cloud |
-| 7 | Fire Shield, Wall of Fire |
-| 9 | Geas, Insect Plague |
+| Warlock Level | Spells                                            |
+|---------------|---------------------------------------------------|
+| 3             | Burning Hands, Command, Scorching Ray, Suggestion |
+| 5             | Fireball, Stinking Cloud                          |
+| 7             | Fire Shield, Wall of Fire                         |
+| 9             | Geas, Insect Plague                               |
 
 ### Level 6: Dark One's Own Luck
 

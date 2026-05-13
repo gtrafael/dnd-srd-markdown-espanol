@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Driade|Dríade (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 14 | +2 | +2 | **Wis** 15 | +2 | +2 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 12 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 14 | +2  |  +2  | **Wis** 15 | +2  |  +2  | **Cha** 18 | +4 | +4 |
 
 **Skills Perception +4, Stealth +5**
 

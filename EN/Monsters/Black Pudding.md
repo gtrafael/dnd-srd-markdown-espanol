@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/PudinNegro|Pudin negro (Español)]]"
 
 **Speed 20 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 5 | −3 | −3 | **Con** 16 | +3 | +3 |
-| **Int** 1 | −5 | −5 | **Wis** 6 | −2 | −2 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 5 | −3  |  −3  | **Con** 16 | +3 | +3 |
+| **Int** 1  | −5  |  −5  | **Wis** 6 | −2  |  −2  | **Cha** 1 | −5 | −5 |
 
 **Immunities Acid, Cold, Lightning, Slashing; Charmed,**
 

@@ -17,13 +17,14 @@ related_en: "[[Monsters/Silver Dragon Wyrmling|Silver Dragon Wyrmling (EN)]]"
 **Velocidad:** 9 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 10 | +0 | +2 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| SAB | 11 | +0 | +2 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    10 |  +0 |   +2 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    11 |  +0 |   +2 |
+| CAR   |    15 |  +2 |   +2 |
+
 **Habilidades:** Percepción +4, Sigilo +2
 
 **Inmunidades:** frío

@@ -3,6 +3,7 @@ aliases: ["Giant Ape"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/SimioGigante|Simio gigante (Español)]]"
 ---
+
 ## Giant Ape
 
 *Huge Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/SimioGigante|Simio gigante (Español)]]"
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 14 | +2 | +2 | **Con** 18 | +4 | +4 |
-| **Int** 5 | −3 | −3 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 14 | +2  |  +2  | **Con** 18 | +4 | +4 |
+| **Int** 5  | −3  |  −3  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Athletics +9, Perception +4, Survival +4**
 

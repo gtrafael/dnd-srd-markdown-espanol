@@ -3,6 +3,7 @@ aliases: ["Saber-Toothed Tiger"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TigreDientesDeSable|Tigre dientes de sable (Español)]]"
 ---
+
 ## Saber-Toothed Tiger
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/TigreDientesDeSable|Tigre dientes de sable (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +6 | **Dex** 17 | +3 | +5 | **Con** 15 | +2 | +2 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +6  | **Dex** 17 | +3  |  +5  | **Con** 15 | +2 | +2 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +5, Stealth +7**
 

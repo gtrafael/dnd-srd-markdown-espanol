@@ -15,13 +15,13 @@ related_en: "[[Monsters/Treant|Treant (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 23 | +6 | +6 |
-| DES | 8 | -1 | -1 |
-| CON | 21 | +5 | +5 |
-| INT | 12 | +1 | +1 |
-| SAB | 16 | +3 | +3 |
-| CAR | 12 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    23 |  +6 |   +6 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    21 |  +5 |   +5 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    16 |  +3 |   +3 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Vulnerabilidades:** fuego
 

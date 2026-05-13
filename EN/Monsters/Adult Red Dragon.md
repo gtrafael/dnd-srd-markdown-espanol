@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonRojoAdulto|Dragón rojo adulto (Español
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 10 | +0 | +6 | **Con** 25 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 13 | +1 | +7 | **Cha** 23 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 10 | +0  |  +6  | **Con** 25 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 13 | +1  |  +7  | **Cha** 23 | +6 | +6 |
 
 **Skills Perception +13, Stealth +6**
 

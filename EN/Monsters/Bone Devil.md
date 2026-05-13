@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DiabloOseo|Diablo óseo (Español)]]"
 
 **Speed 40 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +8 | **Dex** 16 | +3 | +3 | **Con** 18 | +4 | +4 |
-| **Int** 13 | +1 | +5 | **Wis** 14 | +2 | +6 | **Cha** 16 | +3 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +8  | **Dex** 16 | +3  |  +3  | **Con** 18 | +4 | +4 |
+| **Int** 13 | +1  |  +5  | **Wis** 14 | +2  |  +6  | **Cha** 16 | +3 | +7 |
 
 **Skills Deception +7, Insight +6**
 

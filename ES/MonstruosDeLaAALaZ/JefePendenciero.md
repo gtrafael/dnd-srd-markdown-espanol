@@ -17,13 +17,13 @@ related_en: "[[Monsters/Tough Boss|Tough Boss (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +5 |
-| DES | 14 | +2 | +2 |
-| CON | 16 | +3 | +5 |
-| INT | 11 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 11 | +0 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +5 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    16 |  +3 |   +5 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    11 |  +0 |   +2 |
 
 **Equipo:** ballesta pesada, cota de malla, martillo de guerra
 

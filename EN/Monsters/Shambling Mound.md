@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/BrozaMovediza|Broza movediza (Español)]]"
 
 **Speed 30 ft., Swim 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 8  | −1  |  −1  | **Con** 16 | +3 | +3 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Stealth +3**
 

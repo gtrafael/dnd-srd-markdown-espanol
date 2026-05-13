@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/AranaDeFase|Araña de fase (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 16 | +3 | +3 | **Con** 12 | +1 | +1 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 16 | +3  |  +3  | **Con** 12 | +1 | +1 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Skills Stealth +7**
 

@@ -2,6 +2,7 @@
 aliases: ["Rules Glossary"]
 tags: [srd, english, tag_rulesglossary]
 ---
+
 # Rules Glossary
 
 ## Glossary Conventions
@@ -18,41 +19,41 @@ The glossary uses the following conventions:
 
 **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules.
 
-| Abbreviation | Meaning |
-|---|---|
-| AC | Armor Class |
-| C | Concentration |
-| CE | Chaotic Evil |
-| CG | Chaotic Good |
-| Cha. | Charisma |
-| CN | Chaotic Neutral |
-| Con. | Constitution |
-| CP | Copper Piece(s) |
-| CR | Challenge Rating |
-| DC | Difficulty Class |
-| Dex. | Dexterity |
-| EP | Electrum Piece(s) |
-| GM | Game Master |
-| GP | Gold Piece(s) |
-| HP | Hit Point(s) |
-| Int. | Intelligence |
-| LE | Lawful Evil |
-| LG | Lawful Good |
-| LN | Lawful Neutral |
-| M | Material component |
-| N | Neutral |
-| NE | Neutral Evil |
-| NG | Neutral Good |
-| NPC | Nonplayer character |
-| PB | Proficiency Bonus |
-| PP | Platinum Piece(s) |
-| R | Ritual |
-| S | Somatic component |
-| SP | Silver Piece(s) |
-| Str. | Strength |
-| V | Verbal component |
-| Wis. | Wisdom |
-| XP | Experience Point(s) |
+| Abbreviation | Meaning             |
+|--------------|---------------------|
+| AC           | Armor Class         |
+| C            | Concentration       |
+| CE           | Chaotic Evil        |
+| CG           | Chaotic Good        |
+| Cha.         | Charisma            |
+| CN           | Chaotic Neutral     |
+| Con.         | Constitution        |
+| CP           | Copper Piece(s)     |
+| CR           | Challenge Rating    |
+| DC           | Difficulty Class    |
+| Dex.         | Dexterity           |
+| EP           | Electrum Piece(s)   |
+| GM           | Game Master         |
+| GP           | Gold Piece(s)       |
+| HP           | Hit Point(s)        |
+| Int.         | Intelligence        |
+| LE           | Lawful Evil         |
+| LG           | Lawful Good         |
+| LN           | Lawful Neutral      |
+| M            | Material component  |
+| N            | Neutral             |
+| NE           | Neutral Evil        |
+| NG           | Neutral Good        |
+| NPC          | Nonplayer character |
+| PB           | Proficiency Bonus   |
+| PP           | Platinum Piece(s)   |
+| R            | Ritual              |
+| S            | Somatic component   |
+| SP           | Silver Piece(s)     |
+| Str.         | Strength            |
+| V            | Verbal component    |
+| Wis.         | Wisdom              |
+| XP           | Experience Point(s) |
 
 ## Rules Definitions
 
@@ -172,23 +173,23 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 #### Object Armor Class
 
-| AC | Substance | AC | Substance |
-|---|---|---|---|
-| 11 | Cloth, paper, rope | 19 | Iron, steel |
-| 13 | Crystal, glass, ice | 21 | Mithral |
-| 15 | Wood | 23 | Adamantine |
-| 17 | Stone | | |
+| AC | Substance           | AC | Substance   |
+|----|---------------------|----|-------------|
+| 11 | Cloth, paper, rope  | 19 | Iron, steel |
+| 13 | Crystal, glass, ice | 21 | Mithral     |
+| 15 | Wood                | 23 | Adamantine  |
+| 17 | Stone               |    |             |
 
 **Hit Points.** An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The GM determines whether destroying part of an object causes the whole thing to collapse.
 
 #### Object Hit Points
 
-| Size | Fragile | Resilient |
-|---|---|---|
-| Tiny (bottle, lock) | 2 (1d4) | 5 (2d4) |
-| Small (chest, lute) | 3 (1d6) | 10 (3d6) |
-| Medium (barrel, chandelier) | 4 (1d8) | 18 (4d8) |
-| Large (cart, dining table) | 5 (1d10) | 27 (5d10) |
+| Size                        | Fragile  | Resilient |
+|-----------------------------|----------|-----------|
+| Tiny (bottle, lock)         | 2 (1d4)  | 5 (2d4)   |
+| Small (chest, lute)         | 3 (1d6)  | 10 (3d6)  |
+| Medium (barrel, chandelier) | 4 (1d8)  | 18 (4d8)  |
+| Large (cart, dining table)  | 5 (1d10) | 27 (5d10) |
 
 **Damage Types and Objects.** Objects have Immunity to Poison and Psychic damage. The GM might decide that some damage types are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have Vulnerability to Fire damage.
 
@@ -224,13 +225,13 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 
 #### Carrying Capacity
 
-| Creature Size | Carry | Drag/Lift/Push |
-|---|---|---|
-| Tiny | Str. x 7.5 lb. | Str. x 15 lb. |
-| Small/Medium | Str. x 15 lb. | Str. x 30 lb. |
-| Large | Str. x 30 lb. | Str. x 60 lb. |
-| Huge | Str. x 60 lb. | Str. x 120 lb. |
-| Gargantuan | Str. x 120 lb. | Str. x 240 lb. |
+| Creature Size | Carry          | Drag/Lift/Push |
+|---------------|----------------|----------------|
+| Tiny          | Str. x 7.5 lb. | Str. x 15 lb.  |
+| Small/Medium  | Str. x 15 lb.  | Str. x 30 lb.  |
+| Large         | Str. x 30 lb.  | Str. x 60 lb.  |
+| Huge          | Str. x 60 lb.  | Str. x 120 lb. |
+| Gargantuan    | Str. x 120 lb. | Str. x 240 lb. |
 
 ### Challenge Rating
 
@@ -371,21 +372,21 @@ Attacks and other harmful effects deal different types of damage. Damage types h
 
 #### Damage Types
 
-| Type | Examples |
-|---|---|
-| Acid | Corrosive liquids, digestive enzymes |
+| Type        | Examples                             |
+|-------------|--------------------------------------|
+| Acid        | Corrosive liquids, digestive enzymes |
 | Bludgeoning | Blunt objects, constriction, falling |
-| Cold | Freezing water, icy blasts |
-| Fire | Flames, unbearable heat |
-| Force | Pure magical energy |
-| Lightning | Electricity |
-| Necrotic | Life-draining energy |
-| Piercing | Fangs, puncturing objects |
-| Poison | Toxic gas, venom |
-| Psychic | Mind-rending energy |
-| Radiant | Holy energy, searing radiation |
-| Slashing | Claws, cutting objects |
-| Thunder | Concussive sound |
+| Cold        | Freezing water, icy blasts           |
+| Fire        | Flames, unbearable heat              |
+| Force       | Pure magical energy                  |
+| Lightning   | Electricity                          |
+| Necrotic    | Life-draining energy                 |
+| Piercing    | Fangs, puncturing objects            |
+| Poison      | Toxic gas, venom                     |
+| Psychic     | Mind-rending energy                  |
+| Radiant     | Holy energy, searing radiation       |
+| Slashing    | Claws, cutting objects               |
+| Thunder     | Concussive sound                     |
 
 ### Darkness
 
@@ -423,13 +424,13 @@ A creature requires an amount of water per day based on its size, as shown in th
 
 #### Water Needs per Day
 
-| Size | Water |
-|---|---|
-| Tiny | 1/4 gallon |
-| Small | 1 gallon |
-| Medium | 1 gallon |
-| Large | 4 gallons |
-| Huge | 16 gallons |
+| Size       | Water      |
+|------------|------------|
+| Tiny       | 1/4 gallon |
+| Small      | 1 gallon   |
+| Medium     | 1 gallon   |
+| Large      | 4 gallons  |
+| Huge       | 16 gallons |
 | Gargantuan | 64 gallons |
 
 ### Difficult Terrain
@@ -659,13 +660,13 @@ With the Influence action, you urge a monster to do something. Describe or rolep
 
 #### Influence Checks
 
-| Ability Check | Interaction |
-|---|---|
-| Charisma (Deception) | Deceiving a monster that understands you |
-| Charisma (Intimidation) | Intimidating a monster |
-| Charisma (Performance) | Amusing a monster |
-| Charisma (Persuasion) | Persuading a monster that understands you |
-| Wisdom (Animal Handling) | Gently coaxing a Beast or Monstrosity |
+| Ability Check            | Interaction                               |
+|--------------------------|-------------------------------------------|
+| Charisma (Deception)     | Deceiving a monster that understands you  |
+| Charisma (Intimidation)  | Intimidating a monster                    |
+| Charisma (Performance)   | Amusing a monster                         |
+| Charisma (Persuasion)    | Persuading a monster that understands you |
+| Wisdom (Animal Handling) | Gently coaxing a Beast or Monstrosity     |
 
 ### Initiative
 
@@ -754,13 +755,13 @@ Exhaustion caused by malnutrition can't be removed until the creature eats the f
 
 #### Food Needs per Day
 
-| Size | Food |
-|---|---|
-| Tiny | 1/4 pound |
-| Small | 1 pound |
-| Medium | 1 pound |
-| Large | 4 pounds |
-| Huge | 16 pounds |
+| Size       | Food      |
+|------------|-----------|
+| Tiny       | 1/4 pound |
+| Small      | 1 pound   |
+| Medium     | 1 pound   |
+| Large      | 4 pounds  |
+| Huge       | 16 pounds |
 | Gargantuan | 64 pounds |
 
 ### Monster
@@ -905,12 +906,12 @@ When you take the Search action, you make a Wisdom check to discern something th
 
 #### Search
 
-| Skill | Thing to Detect |
-|---|---|
-| Insight | Creature's state of mind |
-| Medicine | Creature's ailment or cause of death |
-| Perception | Concealed creature or object |
-| Survival | Tracks or food |
+| Skill      | Thing to Detect                      |
+|------------|--------------------------------------|
+| Insight    | Creature's state of mind             |
+| Medicine   | Creature's ailment or cause of death |
+| Perception | Concealed creature or object         |
+| Survival   | Tracks or food                       |
 
 ### Shape-Shifting
 
@@ -1028,13 +1029,13 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 
 #### Areas of Knowledge
 
-| Skill | Areas |
-|---|---|
-| Arcana | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
-| History | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids) |
-| Investigation | Traps, ciphers, riddles, and gadgetry |
-| Nature | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
-| Religion | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
+| Skill         | Areas                                                                                                                                                               |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arcana        | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
+| History       | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids)                                                               |
+| Investigation | Traps, ciphers, riddles, and gadgetry                                                                                                                               |
+| Nature        | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants)                                                                                 |
+| Religion      | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead)                                               |
 
 ### Stunned [Condition]
 

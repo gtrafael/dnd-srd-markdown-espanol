@@ -3,6 +3,7 @@ aliases: ["Reverse Gravity"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/InvertirLaGravedad|Invertir la gravedad (Español)]]"
 ---
+
 ### Reverse Gravity
 
 *Level 7 Transmutation* (Druid, Sorcerer, Wizard)

@@ -3,6 +3,7 @@ aliases: ["Vampiric Touch"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ToqueVampirico|Toque vampírico (Español)]]"
 ---
+
 ### Vampiric Touch
 
 *Level 3 Necromancy* (Sorcerer, Warlock, Wizard)

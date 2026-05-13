@@ -17,13 +17,13 @@ related_en: "[[Monsters/Adult Gold Dragon|Adult Gold Dragon (EN)]]"
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 27 | +8 | +8 |
-| DES | 14 | +2 | +8 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| SAB | 15 | +2 | +8 |
-| CAR | 24 | +7 | +7 |
+|-------|------:|----:|-----:|
+| FUE   |    27 |  +8 |   +8 |
+| DES   |    14 |  +2 |   +8 |
+| CON   |    25 |  +7 |   +7 |
+| INT   |    16 |  +3 |   +3 |
+| SAB   |    15 |  +2 |   +8 |
+| CAR   |    24 |  +7 |   +7 |
 
 **Habilidades:** Percepción +14, Perspicacia +8, Persuasión +13, Sigilo +8
 

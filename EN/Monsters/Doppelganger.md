@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Doppelganger|Doppelganger (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 18 | +4 | +4 | **Con** 14 | +2 | +2 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 18 | +4  |  +4  | **Con** 14 | +2 | +2 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 14 | +2 | +2 |
 
 **Skills Deception +6, Insight +3**
 

@@ -17,13 +17,14 @@ related_en: "[[Animals/Crocodile|Crocodile (EN)]]"
 **Velocidad:** 6 m, nadar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 10 | +0 | +0 |
-| CON | 13 | +1 | +3 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    13 |  +1 |   +3 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
+
 **Habilidades:** Sigilo +2
 
 **Sentidos:** Percepción pasiva 10

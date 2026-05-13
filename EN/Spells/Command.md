@@ -3,6 +3,7 @@ aliases: ["Command"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/OrdenImperiosa|Orden imperiosa (Español)]]"
 ---
+
 ### Command
 
 *Level 1 Enchantment* (Bard, Cleric, Paladin)

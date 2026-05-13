@@ -17,13 +17,13 @@ related_en: "[[Animals/Tiger|Tiger (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 16 | +3 | +3 |
-| CON | 14 | +2 | +2 |
-| INT | 3 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Habilidades:** Percepción +3, Sigilo +7
 

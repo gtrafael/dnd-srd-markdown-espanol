@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/MephitDeHielo|Mephit de hielo (Español)]]"
 
 **Speed 30 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 7 | −2 | −2 | **Dex** 13 | +1 | +1 | **Con** 10 | +0 | +0 |
-| **Int** 9 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 12 | +1 | +1 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 7 | −2  |  −2  | **Dex** 13 | +1  |  +1  | **Con** 10 | +0 | +0 |
+| **Int** 9 | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +2, Stealth +3**
 

@@ -16,13 +16,13 @@ related_en: "[[Spells/Geas|Geas (EN)]]"
 
 **Duración:** 30 días
 
-Das una orden verbal a una criatura que puedas ver dentro del alcance y la obligas a llevar a cabo un cometido o le impides realizar una acción o actividad, según desees. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de hechizado hasta que termine el conjuro. El objetivo la superará automáticamente si no entiende la orden. 
+Das una orden verbal a una criatura que puedas ver dentro del alcance y la obligas a llevar a cabo un cometido o le impides realizar una acción o actividad, según desees. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de hechizado hasta que termine el conjuro. El objetivo la superará automáticamente si no entiende la orden.
 
-Mientras esté hechizada, la criatura sufre 5d10 de daño psíquico si actúa de manera contraria a tus instrucciones, y solo podrá recibir este daño una vez al día. 
+Mientras esté hechizada, la criatura sufre 5d10 de daño psíquico si actúa de manera contraria a tus instrucciones, y solo podrá recibir este daño una vez al día.
 
-Puedes dar cualquier orden que quieras, siempre que no sea una actividad que suponga una muerte segura. Si das una orden suicida, el conjuro termina. 
+Puedes dar cualquier orden que quieras, siempre que no sea una actividad que suponga una muerte segura. Si das una orden suicida, el conjuro termina.
 
-Un conjuro deseo, levantar maldición o restablecimiento mayor también pone fin a este conjuro. 
+Un conjuro deseo, levantar maldición o restablecimiento mayor también pone fin a este conjuro.
 
 **Con un espacio de conjuro de nivel superior.**
 

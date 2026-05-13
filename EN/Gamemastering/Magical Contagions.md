@@ -2,6 +2,7 @@
 aliases: ["Magical Contagions"]
 tags: [srd, english, tag_gamemastering]
 ---
+
 # Magical Contagions
 
 Alchemists, potion brewers, and areas of wild magic are credited with creating the first magical contagions. An outbreak of such a contagion can form the basis of an adventure as characters search for a cure and try to stop the contagion's spread.

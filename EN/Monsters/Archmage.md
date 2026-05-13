@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Archimago|Archimago (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 20 | +5 | +9 | **Wis** 15 | +2 | +6 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 20 | +5  |  +9  | **Wis** 15 | +2  |  +6  | **Cha** 16 | +3 | +3 |
 
 **Skills Arcana +13, History +9, Perception +6**
 

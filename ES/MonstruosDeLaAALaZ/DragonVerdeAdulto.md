@@ -17,13 +17,13 @@ related_en: "[[Monsters/Adult Green Dragon|Adult Green Dragon (EN)]]"
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 23 | +6 | +6 |
-| DES | 12 | +1 | +6 |
-| CON | 21 | +5 | +5 |
-| INT | 18 | +4 | +4 |
-| SAB | 15 | +2 | +7 |
-| CAR | 18 | +4 | +4 |
+|-------|------:|----:|-----:|
+| FUE   |    23 |  +6 |   +6 |
+| DES   |    12 |  +1 |   +6 |
+| CON   |    21 |  +5 |   +5 |
+| INT   |    18 |  +4 |   +4 |
+| SAB   |    15 |  +2 |   +7 |
+| CAR   |    18 |  +4 |   +4 |
 
 **Habilidades:** Engaño +9, Percepción +12, Persuasión +9, Sigilo +6
 

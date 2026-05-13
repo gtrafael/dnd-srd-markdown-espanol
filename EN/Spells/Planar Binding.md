@@ -3,6 +3,7 @@ aliases: ["Planar Binding"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/AtaduraPlanar|Atadura planar (Español)]]"
 ---
+
 ### Planar Binding
 
 *Level 5 Abjuration* (Bard, Cleric, Druid, Warlock, Wizard)

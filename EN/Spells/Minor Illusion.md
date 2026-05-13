@@ -3,6 +3,7 @@ aliases: ["Minor Illusion"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/IlusionMenor|Ilusión menor (Español)]]"
 ---
+
 ### Minor Illusion
 
 *Illusion Cantrip* (Bard, Sorcerer, Warlock, Wizard)

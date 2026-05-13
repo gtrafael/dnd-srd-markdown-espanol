@@ -3,6 +3,7 @@ aliases: ["Araña gigante", "Giant Spider"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/AranaGigante|Araña gigante (Español)]]"
 ---
+
 ## Giant Spider
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/AranaGigante|Araña gigante (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 16 | +3 | +3 | **Con** 12 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 16 | +3  |  +3  | **Con** 12 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +4, Stealth +7**
 

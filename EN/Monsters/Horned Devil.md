@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DiabloAstado|Diablo astado (Español)]]"
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +10 | **Dex** 17 | +3 | +7 | **Con** 21 | +5 | +5 |
-| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +7 | **Cha** 18 | +4 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  | +10  | **Dex** 17 | +3  |  +7  | **Con** 21 | +5 | +5 |
+| **Int** 12 | +1  |  +1  | **Wis** 16 | +3  |  +7  | **Cha** 18 | +4 | +8 |
 
 **Resistances Cold**
 

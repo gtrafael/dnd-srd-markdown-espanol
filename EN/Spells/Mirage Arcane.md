@@ -3,6 +3,7 @@ aliases: ["Mirage Arcane"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/EspejismoArcano|Espejismo arcano (Español)]]"
 ---
+
 ### Mirage Arcane
 
 *Level 7 Illusion* (Bard, Druid, Wizard)

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/ElementalDeAire|Elemental de aire (Español)]]
 
 **Speed 10 ft., Fly 90 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 20 | +5 | +5 | **Con** 14 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 20 | +5  |  +5  | **Con** 14 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Resistances Bludgeoning, Lightning, Piercing, Slashing**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GiganteDePiedra|Gigante de piedra (Español)]]
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 15 | +2 | +5 | **Con** 20 | +5 | +8 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +4 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 15 | +2  |  +5  | **Con** 20 | +5 | +8 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +4  | **Cha** 9 | −1 | −1 |
 
 **Skills Athletics +12, Perception +4, Stealth +5**
 

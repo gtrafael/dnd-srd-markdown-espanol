@@ -17,13 +17,13 @@ related_en: "[[Animals/Weasel|Weasel (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 3 | -4 | -4 |
-| DES | 16 | +3 | +3 |
-| CON | 8 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |     3 |  -4 |   -4 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |     8 |  -1 |   -1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Habilidades:** Acrobacias +5, Percepción +3, Sigilo +5
 

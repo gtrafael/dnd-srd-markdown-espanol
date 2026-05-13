@@ -3,6 +3,7 @@ aliases: ["Simulacrum"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Simulacro|Simulacro (Español)]]"
 ---
+
 ### Simulacrum
 
 *Level 7 Illusion* (Wizard)

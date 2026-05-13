@@ -3,6 +3,7 @@ aliases: ["Constrictor Snake"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/SerpienteConstrictora|Serpiente constrictora (Español)]]"
 ---
+
 ## Constrictor Snake
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/SerpienteConstrictora|Serpiente constrictora (Español)]
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 1  | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Skills Perception +2, Stealth +4**
 

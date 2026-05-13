@@ -17,13 +17,13 @@ related_en: "[[Monsters/Gray Ooze|Gray Ooze (EN)]]"
 **Velocidad:** 3 m, trepar 3 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 12 | +1 | +1 |
-| DES | 6 | -2 | -2 |
-| CON | 16 | +3 | +3 |
-| INT | 1 | -5 | -5 |
-| SAB | 6 | -2 | -2 |
-| CAR | 2 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |    12 |  +1 |   +1 |
+| DES   |     6 |  -2 |   -2 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     6 |  -2 |   -2 |
+| CAR   |     2 |  -4 |   -4 |
 
 **Habilidades:** Sigilo +2
 

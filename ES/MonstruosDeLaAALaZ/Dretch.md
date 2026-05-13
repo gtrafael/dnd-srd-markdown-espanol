@@ -17,13 +17,13 @@ related_en: "[[Monsters/Dretch|Dretch (EN)]]"
 **Velocidad:** 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 12 | +1 | +1 |
-| DES | 11 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 5 | -3 | -3 |
-| SAB | 8 | -1 | -1 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |    12 |  +1 |   +1 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Resistencias:** frío, fuego, relámpago
 

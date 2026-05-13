@@ -3,6 +3,7 @@ aliases: ["Hallucinatory Terrain"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/TerrenoAlucinatorio|Terreno alucinatorio (Español)]]"
 ---
+
 ### Hallucinatory Terrain
 
 *Level 4 Illusion* (Bard, Druid, Warlock, Wizard)

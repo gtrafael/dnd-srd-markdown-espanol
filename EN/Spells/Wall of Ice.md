@@ -3,6 +3,7 @@ aliases: ["Wall of Ice"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/MuroDeHielo|Muro de hielo (Español)]]"
 ---
+
 ### Wall of Ice
 
 *Level 6 Evocation* (Wizard)

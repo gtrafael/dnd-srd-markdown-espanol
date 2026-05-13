@@ -17,13 +17,13 @@ related_en: "[[Monsters/Tough|Tough (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 12 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    11 |  +0 |   +0 |
 
 **Equipo:** armadura de cuero, ballesta pesada, maza
 

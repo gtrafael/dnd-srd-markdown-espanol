@@ -9,13 +9,11 @@ tags: [srd, espanol, tag_glosariodereglas, sin-equivalente]
 
 Cuando saltas, puedes hacer un salto de longitud (horizontal) o un salto de altura (vertical). Consulta también “Salto de altura” y “Salto de longitud”.
 
-
 # Salto de altura
 
 Cuando hagas un salto de altura, ascenderás una distancia de 90 cm + 30 cm × tu modificador por Fuerza (como mínimo 0 m) si te mueves al menos 3 m a pie antes de saltar. Si saltas sin coger carrerilla, solo podrás ascender la mitad de esa distancia. En cualquier caso, cada metro que saltes te costará un metro de tu movimiento.
 
 Mientras saltas, puedes estirar los brazos una distancia equivalente a la mitad de tu altura por encima de ti.De esta forma,podras alcanzar con las manos una distancia igual a la de la altura del salto más una vez y media tu altura.
-
 
 # Salto de longitud
 
@@ -25,11 +23,9 @@ Si aterrizas en terreno difícil, deberás superar una prueba de Destreza (Acrob
 
 La regla de los saltos de longitud da por supuesto que la altura del salto no influye, como cuando se salta para cruzar un río o una grieta. Si tu GM lo cree conveniente, deberás superar una prueba de Fuerza (Atletismo) con CD 10 para superar un obstáculo de una altura no superior a la cuarta parte de la distancia del salto, como puede ser un seto o un muro bajo. De lo contrario, chocarás contra el obstáculo.
 
-
 # Salvación
 
 Salvación es otro nombre para referirse a una Consulta también salvación”.
-
 
 # Sentir vibraciones
 
@@ -37,11 +33,9 @@ Una criatura con la capacidad de sentir vibraciones puede localizar criaturas y 
 
 Sentir vibraciones no sirve para detectar criaturas u objetos en el aire y no cuenta como una forma de visión.
 
-
 # Sintonización
 
 Algunos objetos mágicos requieren que una criatura forme un vínculo llamado sintonización antes de usar sus propiedades mágicas. Una criatura no puede sintonizarse con más de tres objetos mágicos a la vez. Consulta también el capítulo “Equipo” (“Objetos mágicos”).
-
 
 # Sorpresa
 

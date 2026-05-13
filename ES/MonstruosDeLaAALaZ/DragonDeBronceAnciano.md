@@ -17,13 +17,13 @@ related_en: "[[Monsters/Ancient Bronze Dragon|Ancient Bronze Dragon (EN)]]"
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 29 | +9 | +9 |
-| DES | 10 | +0 | +7 |
-| CON | 27 | +8 | +8 |
-| INT | 18 | +4 | +4 |
-| SAB | 17 | +3 | +10 |
-| CAR | 25 | +7 | +7 |
+|-------|------:|----:|-----:|
+| FUE   |    29 |  +9 |   +9 |
+| DES   |    10 |  +0 |   +7 |
+| CON   |    27 |  +8 |   +8 |
+| INT   |    18 |  +4 |   +4 |
+| SAB   |    17 |  +3 |  +10 |
+| CAR   |    25 |  +7 |   +7 |
 
 **Habilidades:** Percepción +17, Perspicacia +10, Sigilo +7
 

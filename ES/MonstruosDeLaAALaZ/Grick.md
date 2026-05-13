@@ -17,13 +17,13 @@ related_en: "[[Monsters/Grick|Grick (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| SAB | 14 | +2 | +2 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Habilidades:** Sigilo +4
 

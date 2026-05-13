@@ -3,6 +3,7 @@ aliases: ["Blood Hawk"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/HalconSangriento|Halcón sangriento (Español)]]"
 ---
+
 ## Blood Hawk
 
 *Small Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/HalconSangriento|Halcón sangriento (Español)]]"
 
 **Speed 10 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 14 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 5 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6 | −2  |  −2  | **Dex** 14 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 3 | −4  |  −4  | **Wis** 14 | +2  |  +2  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +6**
 

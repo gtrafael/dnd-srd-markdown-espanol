@@ -17,13 +17,13 @@ related_en: "[[Monsters/Behir|Behir (EN)]]"
 **Velocidad:** 15 m, trepar 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 23 | +6 | +6 |
-| DES | 16 | +3 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 7 | -2 | -2 |
-| SAB | 14 | +2 | +2 |
-| CAR | 12 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    23 |  +6 |   +6 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |     7 |  -2 |   -2 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Habilidades:** Percepción +6, Sigilo +7
 

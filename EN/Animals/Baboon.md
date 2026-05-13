@@ -3,6 +3,7 @@ aliases: ["Baboon"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Babuino|Babuino (Español)]]"
 ---
+
 ## Baboon
 
 *Small Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Babuino|Babuino (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 4 | −3 | −3 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8 | −1  |  −1  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 4 | −3  |  −3  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Passive Perception 11**
 

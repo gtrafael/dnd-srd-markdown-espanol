@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Weasel|Giant Weasel (EN)]]"
 **Velocidad:** 12 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 11 | +0 | +0 |
-| DES | 17 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 4 | -3 | -3 |
-| SAB | 12 | +1 | +1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    11 |  +0 |   +0 |
+| DES   |    17 |  +3 |   +3 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     4 |  -3 |   -3 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Habilidades:** Acrobacias +5, Percepción +3, Sigilo +5
 

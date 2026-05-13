@@ -8,11 +8,10 @@
 
 **Speed 20 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 10 | +0 | +0 | **Con** 22 | +6 | +11 |
-| **Int** 19 | +4 | +9 | **Wis** 12 | +1 | +6 | **Cha** 15 | +2 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 10 | +0  |  +0  | **Con** 22 | +6 | +11 |
+| **Int** 19 | +4  |  +9  | **Wis** 12 | +1  |  +6  | **Cha** 15 | +2 | +7 |
 
 **Resistances Cold, Fire, Lightning**
 
@@ -56,11 +55,10 @@ Pursuit. Trigger: Another creature the nalfeshnee can see ends its move within 1
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 16 | +3 | +3 | **Wis** 14 | +2 | +2 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 16 | +3  |  +3  | **Wis** 14 | +2  |  +2  | **Cha** 16 | +3 | +3 |
 
 **Skills Deception +6, Insight +5, Perception +5, Stealth +5**
 
@@ -106,11 +104,10 @@ Shape-Shift. The hag shape-shifts into a Small or Medium Humanoid, or it returns
 
 **Speed 60 ft., Fly 90 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 15 | +2 | +2 |
 
 **Immunities Fire**
 
@@ -146,11 +143,10 @@ Plane from the Material Plane or vice versa. Noble
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 12 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 12 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 16 | +3 | +3 |
 
 **Skills Deception +5, Insight +4, Persuasion +5**
 

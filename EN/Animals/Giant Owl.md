@@ -3,6 +3,7 @@ aliases: ["Giant Owl"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/BuhoGigante|Búho gigante (Español)]]"
 ---
+
 ## Giant Owl
 
 *Large Celestial, Neutral*
@@ -13,11 +14,10 @@ related_es: "[[Animales/BuhoGigante|Búho gigante (Español)]]"
 
 **Speed 5 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 15 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +4 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 15 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 14 | +2  |  +4  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +6, Stealth +6**
 

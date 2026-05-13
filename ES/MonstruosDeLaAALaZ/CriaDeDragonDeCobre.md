@@ -17,13 +17,13 @@ related_en: "[[Monsters/Copper Dragon Wyrmling|Copper Dragon Wyrmling (EN)]]"
 **Velocidad:** 9 m, trepar 9 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 12 | +1 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 14 | +2 | +2 |
-| SAB | 11 | +0 | +2 |
-| CAR | 13 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    12 |  +1 |   +3 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |    14 |  +2 |   +2 |
+| SAB   |    11 |  +0 |   +2 |
+| CAR   |    13 |  +1 |   +1 |
 
 **Habilidades:** Percepción +4, Sigilo +3
 

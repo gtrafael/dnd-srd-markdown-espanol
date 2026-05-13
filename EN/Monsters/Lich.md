@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Liche|Liche (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 16 | +3 | +10 | **Con** 16 | +3 | +10 |
-| **Int** 21 | +5 | +12 | **Wis** 14 | +2 | +9 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 16 | +3  | +10  | **Con** 16 | +3 | +10 |
+| **Int** 21 | +5  | +12  | **Wis** 14 | +2  |  +9  | **Cha** 16 | +3 | +3 |
 
 **Skills Arcana +19, History +12, Insight +9, Perception +9**
 

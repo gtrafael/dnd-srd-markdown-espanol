@@ -3,6 +3,7 @@ aliases: ["Pteranodon"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Pteranodon|Pteranodon (Español)]]"
 ---
+
 ## Pteranodon
 
 *Medium Beast (Dinosaur), Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Pteranodon|Pteranodon (Español)]]"
 
 **Speed 10 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 9 | −1 | −1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 9  | −1  |  −1  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +1**
 

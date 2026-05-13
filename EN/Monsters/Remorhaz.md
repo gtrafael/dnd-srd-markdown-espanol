@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Remorhaz|Remorhaz (Español)]]"
 
 **Speed 40 ft., Burrow 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 24 | +7 | +7 | **Dex** 13 | +1 | +1 | **Con** 21 | +5 | +5 |
-| **Int** 4 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 24 | +7  |  +7  | **Dex** 13 | +1  |  +1  | **Con** 21 | +5 | +5 |
+| **Int** 4  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Immunities Cold, Fire**
 

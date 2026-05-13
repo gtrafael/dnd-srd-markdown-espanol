@@ -3,6 +3,7 @@ aliases: ["Remove Curse"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/LevantarMaldicion|Levantar maldición (Español)]]"
 ---
+
 ### Remove Curse
 
 *Level 3 Abjuration* (Cleric, Paladin, Warlock, Wizard)

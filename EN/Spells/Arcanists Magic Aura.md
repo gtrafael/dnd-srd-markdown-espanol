@@ -3,6 +3,7 @@ aliases: ["Arcanists Magic Aura"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/AuraMagicaDeArcanista|Aura mágica de arcanista (Español)]]"
 ---
+
 ### Arcanist’s Magic Aura
 
 *Level 2 Illusion* (Wizard)

@@ -3,19 +3,20 @@ aliases: ["Wizard"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Mago|Mago (Español)]]"
 ---
+
 # Wizard
 
 ## Core Wizard Traits
 
-| Trait | Detail |
-|---|---|
-| **Primary Ability** | Intelligence |
-| **Hit Point Die** | D6 per Wizard level |
-| **Saving Throw Proficiencies** | Intelligence and Wisdom |
-| **Skill Proficiencies** | Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion |
-| **Weapon Proficiencies** | Simple weapons |
-| **Armour Training** | None |
-| **Starting Equipment** | Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or (B) 55 GP |
+| Trait                          | Detail                                                                                                             |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Primary Ability**            | Intelligence                                                                                                       |
+| **Hit Point Die**              | D6 per Wizard level                                                                                                |
+| **Saving Throw Proficiencies** | Intelligence and Wisdom                                                                                            |
+| **Skill Proficiencies**        | Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion                                   |
+| **Weapon Proficiencies**       | Simple weapons                                                                                                     |
+| **Armour Training**            | None                                                                                                               |
+| **Starting Equipment**         | Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or (B) 55 GP |
 
 ### Becoming a Wizard
 
@@ -31,28 +32,28 @@ related_es: "[[Clases/Mago|Mago (Español)]]"
 
 ## Wizard Features
 
-| Level | Proficiency Bonus | Class Features | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-------------------|----------------|----------|-----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1 | +2 | Spellcasting, Ritual Adept, Arcane Recovery | 3 | 4 | 2 | — | — | — | — | — | — | — | — |
-| 2 | +2 | Scholar | 3 | 5 | 3 | — | — | — | — | — | — | — | — |
-| 3 | +2 | Wizard Subclass | 3 | 6 | 4 | 2 | — | — | — | — | — | — | — |
-| 4 | +2 | Ability Score Improvement | 4 | 7 | 4 | 3 | — | — | — | — | — | — | — |
-| 5 | +3 | Memorize Spell | 4 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6 | +3 | Subclass feature | 4 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7 | +3 | — | 4 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8 | +3 | Ability Score Improvement | 4 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9 | +4 | — | 4 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10 | +4 | Subclass feature | 5 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11 | +4 | — | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12 | +4 | Ability Score Improvement | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13 | +5 | — | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14 | +5 | Subclass feature | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15 | +5 | — | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16 | +5 | Ability Score Improvement | 5 | 21 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17 | +6 | — | 5 | 22 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18 | +6 | Spell Mastery | 5 | 23 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19 | +6 | Epic Boon | 5 | 24 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20 | +6 | Signature Spells | 5 | 25 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Level | Proficiency Bonus | Class Features                              | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|-------------------|---------------------------------------------|----------|-----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1     | +2                | Spellcasting, Ritual Adept, Arcane Recovery | 3        | 4               | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +2                | Scholar                                     | 3        | 5               | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +2                | Wizard Subclass                             | 3        | 6               | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +2                | Ability Score Improvement                   | 4        | 7               | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +3                | Memorize Spell                              | 4        | 9               | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6     | +3                | Subclass feature                            | 4        | 10              | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7     | +3                | —                                           | 4        | 11              | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8     | +3                | Ability Score Improvement                   | 4        | 12              | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9     | +4                | —                                           | 4        | 14              | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10    | +4                | Subclass feature                            | 5        | 15              | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11    | +4                | —                                           | 5        | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12    | +4                | Ability Score Improvement                   | 5        | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +5                | —                                           | 5        | 17              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +5                | Subclass feature                            | 5        | 18              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15    | +5                | —                                           | 5        | 19              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16    | +5                | Ability Score Improvement                   | 5        | 21              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17    | +6                | —                                           | 5        | 22              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6                | Spell Mastery                               | 5        | 23              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6                | Epic Boon                                   | 5        | 24              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6                | Signature Spells                            | 5        | 25              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ## Class Features
 
@@ -142,270 +143,270 @@ This section presents the Wizard spell list. The spells are organised by spell l
 
 ### Cantrips (Level 0 Wizard Spells)
 
-| Spell | School | Special |
-|---|---|---|
-| Acid Splash | Evocation | — |
-| Chill Touch | Necromancy | — |
-| Dancing Lights | Illusion | C |
-| Elementalism | Transmutation | — |
-| Fire Bolt | Evocation | — |
-| Light | Evocation | — |
-| Mage Hand | Conjuration | — |
-| Mending | Transmutation | — |
-| Message | Transmutation | — |
-| Minor Illusion | Illusion | — |
-| Poison Spray | Necromancy | — |
-| Prestidigitation | Transmutation | — |
-| Ray of Frost | Evocation | — |
-| Shocking Grasp | Evocation | — |
-| True Strike | Divination | — |
+| Spell            | School        | Special |
+|------------------|---------------|---------|
+| Acid Splash      | Evocation     | —       |
+| Chill Touch      | Necromancy    | —       |
+| Dancing Lights   | Illusion      | C       |
+| Elementalism     | Transmutation | —       |
+| Fire Bolt        | Evocation     | —       |
+| Light            | Evocation     | —       |
+| Mage Hand        | Conjuration   | —       |
+| Mending          | Transmutation | —       |
+| Message          | Transmutation | —       |
+| Minor Illusion   | Illusion      | —       |
+| Poison Spray     | Necromancy    | —       |
+| Prestidigitation | Transmutation | —       |
+| Ray of Frost     | Evocation     | —       |
+| Shocking Grasp   | Evocation     | —       |
+| True Strike      | Divination    | —       |
 
 ### Level 1 Wizard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Alarm | Abjuration | R |
-| Burning Hands | Evocation | — |
-| Charm Person | Enchantment | — |
-| Chromatic Orb | Evocation | M |
-| Color Spray | Illusion | — |
-| Comprehend Languages | Divination | R |
-| Detect Magic | Divination | C, R |
-| Disguise Self | Illusion | — |
-| Expeditious Retreat | Transmutation | C |
-| False Life | Necromancy | — |
-| Feather Fall | Transmutation | — |
-| Find Familiar | Conjuration | R, M |
-| Floating Disk | Conjuration | R |
-| Fog Cloud | Conjuration | C |
-| Grease | Conjuration | — |
-| Hideous Laughter | Enchantment | C |
-| Ice Knife | Conjuration | — |
-| Identify | Divination | R, M |
-| Illusory Script | Illusion | R, M |
-| Jump | Transmutation | — |
-| Longstrider | Transmutation | — |
-| Mage Armor | Abjuration | — |
-| Magic Missile | Evocation | — |
-| Protection from Evil and Good | Abjuration | C, M |
-| Ray of Sickness | Necromancy | — |
-| Shield | Abjuration | — |
-| Silent Image | Illusion | C |
-| Sleep | Enchantment | C |
-| Thunderwave | Evocation | — |
-| Unseen Servant | Conjuration | R |
+| Spell                         | School        | Special |
+|-------------------------------|---------------|---------|
+| Alarm                         | Abjuration    | R       |
+| Burning Hands                 | Evocation     | —       |
+| Charm Person                  | Enchantment   | —       |
+| Chromatic Orb                 | Evocation     | M       |
+| Color Spray                   | Illusion      | —       |
+| Comprehend Languages          | Divination    | R       |
+| Detect Magic                  | Divination    | C, R    |
+| Disguise Self                 | Illusion      | —       |
+| Expeditious Retreat           | Transmutation | C       |
+| False Life                    | Necromancy    | —       |
+| Feather Fall                  | Transmutation | —       |
+| Find Familiar                 | Conjuration   | R, M    |
+| Floating Disk                 | Conjuration   | R       |
+| Fog Cloud                     | Conjuration   | C       |
+| Grease                        | Conjuration   | —       |
+| Hideous Laughter              | Enchantment   | C       |
+| Ice Knife                     | Conjuration   | —       |
+| Identify                      | Divination    | R, M    |
+| Illusory Script               | Illusion      | R, M    |
+| Jump                          | Transmutation | —       |
+| Longstrider                   | Transmutation | —       |
+| Mage Armor                    | Abjuration    | —       |
+| Magic Missile                 | Evocation     | —       |
+| Protection from Evil and Good | Abjuration    | C, M    |
+| Ray of Sickness               | Necromancy    | —       |
+| Shield                        | Abjuration    | —       |
+| Silent Image                  | Illusion      | C       |
+| Sleep                         | Enchantment   | C       |
+| Thunderwave                   | Evocation     | —       |
+| Unseen Servant                | Conjuration   | R       |
 
 ### Level 2 Wizard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Acid Arrow | Evocation | — |
-| Alter Self | Transmutation | C |
-| Arcane Lock | Abjuration | M |
-| Arcanist's Magic Aura | Illusion | — |
-| Augury | Divination | R, M |
-| Blindness/Deafness | Transmutation | — |
-| Blur | Illusion | C |
-| Continual Flame | Evocation | M |
-| Darkness | Evocation | C |
-| Darkvision | Transmutation | — |
-| Detect Thoughts | Divination | C |
-| Dragon's Breath | Transmutation | C |
-| Enhance Ability | Transmutation | C |
-| Enlarge/Reduce | Transmutation | C |
-| Flaming Sphere | Evocation | C |
-| Gentle Repose | Necromancy | R, M |
-| Gust of Wind | Evocation | C |
-| Hold Person | Enchantment | C |
-| Invisibility | Illusion | C |
-| Knock | Transmutation | — |
-| Levitate | Transmutation | C |
-| Locate Object | Divination | C |
-| Magic Mouth | Illusion | R, M |
-| Magic Weapon | Transmutation | — |
-| Mind Spike | Divination | C |
-| Mirror Image | Illusion | — |
-| Misty Step | Conjuration | — |
-| Ray of Enfeeblement | Necromancy | C |
-| Rope Trick | Transmutation | — |
-| Scorching Ray | Evocation | — |
-| See Invisibility | Divination | — |
-| Shatter | Evocation | — |
-| Spider Climb | Transmutation | C |
-| Suggestion | Enchantment | C |
-| Web | Conjuration | C |
+| Spell                 | School        | Special |
+|-----------------------|---------------|---------|
+| Acid Arrow            | Evocation     | —       |
+| Alter Self            | Transmutation | C       |
+| Arcane Lock           | Abjuration    | M       |
+| Arcanist's Magic Aura | Illusion      | —       |
+| Augury                | Divination    | R, M    |
+| Blindness/Deafness    | Transmutation | —       |
+| Blur                  | Illusion      | C       |
+| Continual Flame       | Evocation     | M       |
+| Darkness              | Evocation     | C       |
+| Darkvision            | Transmutation | —       |
+| Detect Thoughts       | Divination    | C       |
+| Dragon's Breath       | Transmutation | C       |
+| Enhance Ability       | Transmutation | C       |
+| Enlarge/Reduce        | Transmutation | C       |
+| Flaming Sphere        | Evocation     | C       |
+| Gentle Repose         | Necromancy    | R, M    |
+| Gust of Wind          | Evocation     | C       |
+| Hold Person           | Enchantment   | C       |
+| Invisibility          | Illusion      | C       |
+| Knock                 | Transmutation | —       |
+| Levitate              | Transmutation | C       |
+| Locate Object         | Divination    | C       |
+| Magic Mouth           | Illusion      | R, M    |
+| Magic Weapon          | Transmutation | —       |
+| Mind Spike            | Divination    | C       |
+| Mirror Image          | Illusion      | —       |
+| Misty Step            | Conjuration   | —       |
+| Ray of Enfeeblement   | Necromancy    | C       |
+| Rope Trick            | Transmutation | —       |
+| Scorching Ray         | Evocation     | —       |
+| See Invisibility      | Divination    | —       |
+| Shatter               | Evocation     | —       |
+| Spider Climb          | Transmutation | C       |
+| Suggestion            | Enchantment   | C       |
+| Web                   | Conjuration   | C       |
 
 ### Level 3 Wizard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Animate Dead | Necromancy | — |
-| Bestow Curse | Necromancy | C |
-| Blink | Transmutation | — |
-| Clairvoyance | Divination | C, M |
-| Counterspell | Abjuration | — |
-| Dispel Magic | Abjuration | — |
-| Fear | Illusion | C |
-| Fireball | Evocation | — |
-| Fly | Transmutation | C |
-| Gaseous Form | Transmutation | C |
-| Glyph of Warding | Abjuration | M |
-| Haste | Transmutation | C |
-| Hypnotic Pattern | Illusion | C |
-| Lightning Bolt | Evocation | — |
-| Magic Circle | Abjuration | M |
-| Major Image | Illusion | C |
-| Nondetection | Abjuration | M |
-| Phantom Steed | Illusion | R |
-| Protection from Energy | Abjuration | C |
-| Remove Curse | Abjuration | — |
-| Sending | Divination | — |
-| Sleet Storm | Conjuration | C |
-| Slow | Transmutation | C |
-| Speak with Dead | Necromancy | — |
-| Stinking Cloud | Conjuration | C |
-| Tiny Hut | Evocation | R |
-| Tongues | Divination | — |
-| Vampiric Touch | Necromancy | C |
-| Water Breathing | Transmutation | R |
+| Spell                  | School        | Special |
+|------------------------|---------------|---------|
+| Animate Dead           | Necromancy    | —       |
+| Bestow Curse           | Necromancy    | C       |
+| Blink                  | Transmutation | —       |
+| Clairvoyance           | Divination    | C, M    |
+| Counterspell           | Abjuration    | —       |
+| Dispel Magic           | Abjuration    | —       |
+| Fear                   | Illusion      | C       |
+| Fireball               | Evocation     | —       |
+| Fly                    | Transmutation | C       |
+| Gaseous Form           | Transmutation | C       |
+| Glyph of Warding       | Abjuration    | M       |
+| Haste                  | Transmutation | C       |
+| Hypnotic Pattern       | Illusion      | C       |
+| Lightning Bolt         | Evocation     | —       |
+| Magic Circle           | Abjuration    | M       |
+| Major Image            | Illusion      | C       |
+| Nondetection           | Abjuration    | M       |
+| Phantom Steed          | Illusion      | R       |
+| Protection from Energy | Abjuration    | C       |
+| Remove Curse           | Abjuration    | —       |
+| Sending                | Divination    | —       |
+| Sleet Storm            | Conjuration   | C       |
+| Slow                   | Transmutation | C       |
+| Speak with Dead        | Necromancy    | —       |
+| Stinking Cloud         | Conjuration   | C       |
+| Tiny Hut               | Evocation     | R       |
+| Tongues                | Divination    | —       |
+| Vampiric Touch         | Necromancy    | C       |
+| Water Breathing        | Transmutation | R       |
 
 ### Level 4 Wizard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Arcane Eye | Divination | C |
-| Banishment | Abjuration | C |
-| Black Tentacles | Conjuration | C |
-| Blight | Necromancy | — |
-| Charm Monster | Enchantment | — |
-| Confusion | Enchantment | C |
-| Conjure Minor Elementals | Conjuration | C |
-| Control Water | Transmutation | C |
-| Dimension Door | Conjuration | — |
-| Divination | Divination | R, M |
-| Fabricate | Transmutation | — |
-| Faithful Hound | Conjuration | — |
-| Fire Shield | Evocation | — |
-| Greater Invisibility | Illusion | C |
-| Hallucinatory Terrain | Illusion | — |
-| Ice Storm | Evocation | — |
-| Locate Creature | Divination | C |
-| Phantasmal Killer | Illusion | C |
-| Polymorph | Transmutation | C |
-| Private Sanctum | Abjuration | — |
-| Resilient Sphere | Abjuration | C |
-| Secret Chest | Conjuration | M |
-| Stone Shape | Transmutation | — |
-| Stoneskin | Transmutation | C, M |
-| Vitriolic Sphere | Evocation | — |
-| Wall of Fire | Evocation | C |
+| Spell                    | School        | Special |
+|--------------------------|---------------|---------|
+| Arcane Eye               | Divination    | C       |
+| Banishment               | Abjuration    | C       |
+| Black Tentacles          | Conjuration   | C       |
+| Blight                   | Necromancy    | —       |
+| Charm Monster            | Enchantment   | —       |
+| Confusion                | Enchantment   | C       |
+| Conjure Minor Elementals | Conjuration   | C       |
+| Control Water            | Transmutation | C       |
+| Dimension Door           | Conjuration   | —       |
+| Divination               | Divination    | R, M    |
+| Fabricate                | Transmutation | —       |
+| Faithful Hound           | Conjuration   | —       |
+| Fire Shield              | Evocation     | —       |
+| Greater Invisibility     | Illusion      | C       |
+| Hallucinatory Terrain    | Illusion      | —       |
+| Ice Storm                | Evocation     | —       |
+| Locate Creature          | Divination    | C       |
+| Phantasmal Killer        | Illusion      | C       |
+| Polymorph                | Transmutation | C       |
+| Private Sanctum          | Abjuration    | —       |
+| Resilient Sphere         | Abjuration    | C       |
+| Secret Chest             | Conjuration   | M       |
+| Stone Shape              | Transmutation | —       |
+| Stoneskin                | Transmutation | C, M    |
+| Vitriolic Sphere         | Evocation     | —       |
+| Wall of Fire             | Evocation     | C       |
 
 ### Level 5 Wizard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Animate Objects | Transmutation | C |
-| Arcane Hand | Evocation | C |
-| Cloudkill | Conjuration | C |
-| Cone of Cold | Evocation | — |
-| Conjure Elemental | Conjuration | C |
-| Contact Other Plane | Divination | R |
-| Creation | Illusion | — |
-| Dominate Person | Enchantment | C |
-| Dream | Illusion | — |
-| Geas | Enchantment | — |
-| Hold Monster | Enchantment | C |
-| Legend Lore | Divination | M |
-| Mislead | Illusion | C |
-| Modify Memory | Enchantment | C |
-| Passwall | Transmutation | — |
-| Planar Binding | Abjuration | M |
-| Scrying | Divination | C, M |
-| Seeming | Illusion | — |
-| Summon Dragon | Conjuration | C, M |
-| Telekinesis | Transmutation | C |
-| Telepathic Bond | Divination | R |
-| Teleportation Circle | Conjuration | M |
-| Wall of Force | Evocation | C |
-| Wall of Stone | Evocation | C |
+| Spell                | School        | Special |
+|----------------------|---------------|---------|
+| Animate Objects      | Transmutation | C       |
+| Arcane Hand          | Evocation     | C       |
+| Cloudkill            | Conjuration   | C       |
+| Cone of Cold         | Evocation     | —       |
+| Conjure Elemental    | Conjuration   | C       |
+| Contact Other Plane  | Divination    | R       |
+| Creation             | Illusion      | —       |
+| Dominate Person      | Enchantment   | C       |
+| Dream                | Illusion      | —       |
+| Geas                 | Enchantment   | —       |
+| Hold Monster         | Enchantment   | C       |
+| Legend Lore          | Divination    | M       |
+| Mislead              | Illusion      | C       |
+| Modify Memory        | Enchantment   | C       |
+| Passwall             | Transmutation | —       |
+| Planar Binding       | Abjuration    | M       |
+| Scrying              | Divination    | C, M    |
+| Seeming              | Illusion      | —       |
+| Summon Dragon        | Conjuration   | C, M    |
+| Telekinesis          | Transmutation | C       |
+| Telepathic Bond      | Divination    | R       |
+| Teleportation Circle | Conjuration   | M       |
+| Wall of Force        | Evocation     | C       |
+| Wall of Stone        | Evocation     | C       |
 
 ### Level 6 Wizard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Chain Lightning | Evocation | — |
-| Circle of Death | Necromancy | M |
-| Contingency | Abjuration | M |
-| Create Undead | Necromancy | M |
-| Disintegrate | Transmutation | — |
-| Eyebite | Necromancy | C |
-| Flesh to Stone | Transmutation | C |
-| Freezing Sphere | Evocation | — |
-| Globe of Invulnerability | Abjuration | C |
-| Guards and Wards | Abjuration | M |
-| Instant Summons | Conjuration | R, M |
-| Irresistible Dance | Enchantment | C |
-| Magic Jar | Necromancy | M |
-| Mass Suggestion | Enchantment | — |
-| Move Earth | Transmutation | C |
-| Programmed Illusion | Illusion | M |
-| Sunbeam | Evocation | C |
-| True Seeing | Divination | M |
-| Wall of Ice | Evocation | C |
+| Spell                    | School        | Special |
+|--------------------------|---------------|---------|
+| Chain Lightning          | Evocation     | —       |
+| Circle of Death          | Necromancy    | M       |
+| Contingency              | Abjuration    | M       |
+| Create Undead            | Necromancy    | M       |
+| Disintegrate             | Transmutation | —       |
+| Eyebite                  | Necromancy    | C       |
+| Flesh to Stone           | Transmutation | C       |
+| Freezing Sphere          | Evocation     | —       |
+| Globe of Invulnerability | Abjuration    | C       |
+| Guards and Wards         | Abjuration    | M       |
+| Instant Summons          | Conjuration   | R, M    |
+| Irresistible Dance       | Enchantment   | C       |
+| Magic Jar                | Necromancy    | M       |
+| Mass Suggestion          | Enchantment   | —       |
+| Move Earth               | Transmutation | C       |
+| Programmed Illusion      | Illusion      | M       |
+| Sunbeam                  | Evocation     | C       |
+| True Seeing              | Divination    | M       |
+| Wall of Ice              | Evocation     | C       |
 
 ### Level 7 Wizard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Arcane Sword | Evocation | C, M |
-| Delayed Blast Fireball | Evocation | C |
-| Etherealness | Conjuration | — |
-| Finger of Death | Necromancy | — |
-| Forcecage | Evocation | C, M |
-| Magnificent Mansion | Conjuration | M |
-| Mirage Arcane | Illusion | — |
-| Plane Shift | Conjuration | M |
-| Prismatic Spray | Evocation | — |
-| Project Image | Illusion | C, M |
-| Reverse Gravity | Transmutation | C |
-| Sequester | Transmutation | M |
-| Simulacrum | Illusion | M |
-| Symbol | Abjuration | M |
-| Teleport | Conjuration | — |
+| Spell                  | School        | Special |
+|------------------------|---------------|---------|
+| Arcane Sword           | Evocation     | C, M    |
+| Delayed Blast Fireball | Evocation     | C       |
+| Etherealness           | Conjuration   | —       |
+| Finger of Death        | Necromancy    | —       |
+| Forcecage              | Evocation     | C, M    |
+| Magnificent Mansion    | Conjuration   | M       |
+| Mirage Arcane          | Illusion      | —       |
+| Plane Shift            | Conjuration   | M       |
+| Prismatic Spray        | Evocation     | —       |
+| Project Image          | Illusion      | C, M    |
+| Reverse Gravity        | Transmutation | C       |
+| Sequester              | Transmutation | M       |
+| Simulacrum             | Illusion      | M       |
+| Symbol                 | Abjuration    | M       |
+| Teleport               | Conjuration   | —       |
 
 ### Level 8 Wizard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Antimagic Field | Abjuration | C |
-| Antipathy/Sympathy | Enchantment | — |
-| Befuddlement | Enchantment | — |
-| Clone | Necromancy | M |
-| Control Weather | Transmutation | C |
-| Demiplane | Conjuration | — |
-| Dominate Monster | Enchantment | C |
-| Incendiary Cloud | Conjuration | C |
-| Maze | Conjuration | C |
-| Mind Blank | Abjuration | — |
-| Power Word Stun | Enchantment | — |
-| Sunburst | Evocation | — |
+| Spell              | School        | Special |
+|--------------------|---------------|---------|
+| Antimagic Field    | Abjuration    | C       |
+| Antipathy/Sympathy | Enchantment   | —       |
+| Befuddlement       | Enchantment   | —       |
+| Clone              | Necromancy    | M       |
+| Control Weather    | Transmutation | C       |
+| Demiplane          | Conjuration   | —       |
+| Dominate Monster   | Enchantment   | C       |
+| Incendiary Cloud   | Conjuration   | C       |
+| Maze               | Conjuration   | C       |
+| Mind Blank         | Abjuration    | —       |
+| Power Word Stun    | Enchantment   | —       |
+| Sunburst           | Evocation     | —       |
 
 ### Level 9 Wizard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Astral Projection | Necromancy | M |
-| Foresight | Divination | — |
-| Gate | Conjuration | C, M |
-| Imprisonment | Abjuration | M |
-| Meteor Swarm | Evocation | — |
-| Power Word Kill | Enchantment | — |
-| Prismatic Wall | Abjuration | — |
-| Shapechange | Transmutation | C, M |
-| Time Stop | Transmutation | — |
-| True Polymorph | Transmutation | C |
-| Weird | Illusion | C |
-| Wish | Conjuration | — |
+| Spell             | School        | Special |
+|-------------------|---------------|---------|
+| Astral Projection | Necromancy    | M       |
+| Foresight         | Divination    | —       |
+| Gate              | Conjuration   | C, M    |
+| Imprisonment      | Abjuration    | M       |
+| Meteor Swarm      | Evocation     | —       |
+| Power Word Kill   | Enchantment   | —       |
+| Prismatic Wall    | Abjuration    | —       |
+| Shapechange       | Transmutation | C, M    |
+| Time Stop         | Transmutation | —       |
+| True Polymorph    | Transmutation | C       |
+| Weird             | Illusion      | C       |
+| Wish              | Conjuration   | —       |
 
 ## Wizard Subclass: Evoker
 

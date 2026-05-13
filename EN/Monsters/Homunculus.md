@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Homunculo|Homúnculo (Español)]]"
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 4 | −3 | −3 | **Dex** 15 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +2 | **Cha** 7 | −2 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 4  | −3  |  −3  | **Dex** 15 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +2  | **Cha** 7 | −2 | +0 |
 
 **Immunities Poison; Charmed, Poisoned**
 

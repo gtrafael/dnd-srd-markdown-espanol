@@ -8,11 +8,10 @@
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 14 | +2 | +5 | **Con** 16 | +3 | +3 |
-| **Int** 10 | +0 | +0 | **Wis** 15 | +2 | +5 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 14 | +2  |  +5  | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0  |  +0  | **Wis** 15 | +2  |  +5  | **Cha** 14 | +2 | +2 |
 
 **Skills Athletics +7, Perception +5, Stealth +5**
 
@@ -52,11 +51,10 @@ Leap. The half-dragon jumps up to 30 feet by spending 10 feet of movement. Harpy
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 13 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 13 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 7  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 13 | +1 | +1 |
 
 **Senses Passive Perception 10**
 
@@ -86,11 +84,10 @@ Song for 24 hours. Hell Hound
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +5**
 
@@ -124,11 +121,10 @@ Piercing damage plus 3 (1d6) Fire damage. Fire Breath (Recharge 5–6). Dexterit
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +7 | **Dex** 17 | +3 | +3 | **Con** 20 | +5 | +8 |
-| **Int** 5 | −3 | −3 | **Wis** 12 | +1 | +4 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +7  | **Dex** 17 | +3  |  +3  | **Con** 20 | +5 | +8 |
+| **Int** 5  | −3  |  −3  | **Wis** 12 | +1  |  +4  | **Cha** 13 | +1 | +1 |
 
 **Resistances Cold, Fire, Lightning**
 
@@ -170,11 +166,10 @@ Leap. The hezrou jumps up to 30 feet by spending 10 feet of movement. Hill Giant
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 19 | +4 | +4 |
-| **Int** 5 | −3 | −3 | **Wis** 9 | −1 | −1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 8 | −1  |  −1  | **Con** 19 | +4 | +4 |
+| **Int** 5  | −3  |  −3  | **Wis** 9 | −1  |  −1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +2**
 
@@ -204,11 +199,10 @@ Trash Lob. Ranged Attack Roll: +8, range 60/240 ft. Hit: 16 (2d10 + 5) Bludgeoni
 
 **Speed 40 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +5**
 
@@ -240,11 +234,10 @@ Slashing damage. Hobgoblins
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 12 | +1 | +1 | **Wis** 10 | +0 | +0 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 12 | +1  |  +1  | **Wis** 10 | +0  |  +0  | **Cha** 13 | +1 | +1 |
 
 **Gear Greatsword, Half Plate Armor, Longbow**
 
@@ -278,11 +271,10 @@ Longbow. Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing dam
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 9 | −1 | −1 |
 
 **Gear Half Plate Armor, Longbow, Longsword, Shield**
 
@@ -312,11 +304,10 @@ Longbow. Ranged Attack Roll: +3, range 150/600 ft. Hit: 5 (1d8 + 1) Piercing dam
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 4 | −3 | −3 | **Dex** 15 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +2 | **Cha** 7 | −2 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 4  | −3  |  −3  | **Dex** 15 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +2  | **Cha** 7 | −2 | +0 |
 
 **Immunities Poison; Charmed, Poisoned**
 
@@ -346,11 +337,10 @@ Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage, and the target 
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +10 | **Dex** 17 | +3 | +7 | **Con** 21 | +5 | +5 |
-| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +7 | **Cha** 18 | +4 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  | +10  | **Dex** 17 | +3  |  +7  | **Con** 21 | +5 | +5 |
+| **Int** 12 | +1  |  +1  | **Wis** 16 | +3  |  +7  | **Cha** 18 | +4 | +8 |
 
 **Resistances Cold**
 
@@ -390,11 +380,10 @@ Infernal Tail. Dexterity Saving Throw: DC 17, one creature the devil can see wit
 
 **Speed 40 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 12 | +1 | +1 | **Con** 20 | +5 | +5 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 12 | +1  |  +1  | **Con** 20 | +5 | +5 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +6**
 

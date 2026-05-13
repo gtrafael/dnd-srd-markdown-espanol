@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Batidor|Batidor (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 11 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 11 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Nature +4, Perception +5, Stealth +6, Survival +5**
 

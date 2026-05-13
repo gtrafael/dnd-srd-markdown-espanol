@@ -3,6 +3,7 @@ aliases: ["Fear"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Terror|Terror (Español)]]"
 ---
+
 ### Fear
 
 *Level 3 Illusion* (Bard, Sorcerer, Warlock, Wizard)

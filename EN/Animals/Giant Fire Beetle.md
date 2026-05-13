@@ -3,6 +3,7 @@ aliases: ["Giant Fire Beetle"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EscarabajoDeFuegoGigante|Escarabajo de fuego gigante (Español)]]"
 ---
+
 ## Giant Fire Beetle
 
 *Small Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/EscarabajoDeFuegoGigante|Escarabajo de fuego gigante (Es
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 10 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 7 | −2 | −2 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8 | −1  |  −1  | **Dex** 10 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 1 | −5  |  −5  | **Wis** 7  | −2  |  −2  | **Cha** 3 | −4 | −4 |
 
 **Resistances Fire**
 

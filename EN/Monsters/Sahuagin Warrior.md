@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GuerreroSahuagin|Guerrero Sahuagin (Español)]
 
 **Speed 30 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 11 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 12 | +1 | +1 | **Wis** 13 | +1 | +1 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 11 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 12 | +1  |  +1  | **Wis** 13 | +1  |  +1  | **Cha** 9 | −1 | −1 |
 
 **Skills Perception +5**
 

@@ -3,6 +3,7 @@ aliases: ["Speak with Plants"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/HablarConLasPlantas|Hablar con las plantas (Español)]]"
 ---
+
 ### Speak with Plants
 
 *Level 3 Transmutation* (Bard, Druid, Ranger)

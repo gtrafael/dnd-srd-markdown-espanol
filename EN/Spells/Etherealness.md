@@ -3,6 +3,7 @@ aliases: ["Etherealness"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ExcursionEterea|Excursión etérea (Español)]]"
 ---
+
 ### Etherealness
 
 *Level 7 Conjuration* (Bard, Cleric, Sorcerer, Warlock, Wizard)

@@ -3,6 +3,7 @@ aliases: ["Owl"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Buho|Búho (Español)]]"
 ---
+
 ## Owl
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Buho|Búho (Español)]]"
 
 **Speed 5 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 13 | +1 | +1 | **Con** 8 | −1 | −1 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3 | −4  |  −4  | **Dex** 13 | +1  |  +1  | **Con** 8 | −1 | −1 |
+| **Int** 2 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +5, Stealth +5**
 

@@ -17,13 +17,14 @@ related_en: "[[Animals/Giant Wasp|Giant Wasp (EN)]]"
 **Velocidad:** 3 m, volar 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| SAB | 10 | +0 | +0 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     3 |  -4 |   -4 |
+
 **Sentidos:** Percepción pasiva 10
 
 **Idiomas:** ninguno

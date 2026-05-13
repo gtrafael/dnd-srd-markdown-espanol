@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Drana|Draña (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 19 | +4 | +4 | **Con** 18 | +4 | +4 |
-| **Int** 13 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 19 | +4  |  +4  | **Con** 18 | +4 | +4 |
+| **Int** 13 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +6, Stealth +10**
 

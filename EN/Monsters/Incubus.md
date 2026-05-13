@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Incubo|Íncubo (Español)]]"
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 15 | +2 | +2 | **Wis** 12 | +1 | +1 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8  | −1  |  −1  | **Dex** 17 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 15 | +2  |  +2  | **Wis** 12 | +1  |  +1  | **Cha** 20 | +5 | +5 |
 
 **Skills Deception +9, Insight +5, Perception +5, Persuasion**
 

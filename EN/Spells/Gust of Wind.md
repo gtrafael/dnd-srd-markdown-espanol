@@ -3,6 +3,7 @@ aliases: ["Gust of Wind"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RafagaDeViento|Ráfaga de viento (Español)]]"
 ---
+
 ### Gust of Wind
 
 *Level 2 Evocation* (Druid, Ranger, Sorcerer, Wizard)

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Wereboar|Wereboar (EN)]]"
 **Velocidad:** 9 m, 12 m (solo en forma de jabalí)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 10 | +0 | +0 |
-| CON | 15 | — | — |
-| INT | 10 | +0 | +0 |
-| SAB | 11 | +0 | +0 |
-| CAR | 8 | — | — |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    15 |   — |    — |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     8 |   — |    — |
 
 **Habilidades:** Percepción +2
 

@@ -8,11 +8,10 @@
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 18 | +4 | +9 | **Con** 18 | +4 | +9 |
-| **Int** 17 | +3 | +3 | **Wis** 15 | +2 | +7 | **Cha** 18 | +4 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 18 | +4  |  +9  | **Con** 18 | +4 | +9 |
+| **Int** 17 | +3  |  +3  | **Wis** 15 | +2  |  +7  | **Cha** 18 | +4 | +9 |
 
 **Skills Perception +7, Stealth +9**
 
@@ -78,11 +77,10 @@ Deathless Strike. The vampire moves up to half its Speed, and it makes one Grave
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 16 | +3 | +5 | **Con** 15 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +2 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 16 | +3  |  +5  | **Con** 15 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +2  | **Cha** 14 | +2 | +2 |
 
 **Skills Perception +4, Persuasion +4, Stealth +7**
 
@@ -122,11 +120,10 @@ Deathless Agility. The familiar takes the Dash or Disengage action.
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 16 | +3 | +6 | **Con** 16 | +3 | +3 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 16 | +3  |  +6  | **Con** 16 | +3 | +3 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +3  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +3, Stealth +6**
 
@@ -176,11 +173,10 @@ Deathless Agility. The vampire takes the Dash or Disengage action.
 
 **Speed 5 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 1 | −5 | −5 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 3 | −4 | −4 | **Cha** 1 | −5 | −5 |
+|           | MOD | SAVE |           | MOD | SAVE |
+|-----------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 3 | −4  |  −4  | **Dex** 1 | −5  |  −5  | **Con** 10 | +0 | +0 |
+| **Int** 1 | −5  |  −5  | **Wis** 3 | −4  |  −4  | **Cha** 1 | −5 | −5 |
 
 **Immunities Blinded, Charmed, Deafened, Frightened**
 
@@ -208,11 +204,10 @@ Rotting Touch. Melee Attack Roll: +2, reach 10 ft. Hit: 4 (1d8) Necrotic damage.
 
 **Speed 40 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 15 | +2 | +5 | **Con** 18 | +4 | +4 |
-| **Int** 8 | −1 | −1 | **Wis** 13 | +1 | +4 | **Cha** 8 | −1 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 15 | +2  |  +5  | **Con** 18 | +4 | +4 |
+| **Int** 8  | −1  |  −1  | **Wis** 13 | +1  |  +4  | **Cha** 8 | −1 | +2 |
 
 **Resistances Cold, Fire, Lightning**
 

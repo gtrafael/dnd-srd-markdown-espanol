@@ -3,6 +3,7 @@ aliases: ["Phantasmal Killer"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/AsesinoFantasmal|Asesino fantasmal (Español)]]"
 ---
+
 ### Phantasmal Killer
 
 *Level 4 Illusion* (Bard, Wizard)

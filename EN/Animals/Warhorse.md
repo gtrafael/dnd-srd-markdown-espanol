@@ -3,6 +3,7 @@ aliases: ["Warhorse"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/CaballoDeGuerra|Caballo de guerra (Español)]]"
 ---
+
 ## Warhorse
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/CaballoDeGuerra|Caballo de guerra (Español)]]"
 
 **Speed 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +3 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 12 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +3  | **Cha** 7 | −2 | −2 |
 
 **Senses Passive Perception 11**
 

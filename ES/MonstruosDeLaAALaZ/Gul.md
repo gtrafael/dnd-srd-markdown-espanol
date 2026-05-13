@@ -17,13 +17,14 @@ related_en: "[[Monsters/Ghoul|Ghoul (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 13 | +1 | +1 |
-| DES | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 7 | -2 | -2 |
-| SAB | 10 | +0 | +0 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    13 |  +1 |   +1 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     7 |  -2 |   -2 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     6 |  -2 |   -2 |
+
 **Inmunidades:** veneno; cansancio, envenenado, hechizado
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 10

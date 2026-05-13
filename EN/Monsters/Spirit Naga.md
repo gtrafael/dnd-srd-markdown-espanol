@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/NagaEspiritual|Naga espiritual (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 17 | +3 | +6 | **Con** 14 | +2 | +5 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +5 | **Cha** 16 | +3 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 17 | +3  |  +6  | **Con** 14 | +2 | +5 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +5  | **Cha** 16 | +3 | +6 |
 
 **Immunities Poison; Charmed, Poisoned**
 

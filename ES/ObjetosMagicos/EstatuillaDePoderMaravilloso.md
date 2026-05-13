@@ -21,7 +21,8 @@ tags: [srd, espanol, tag_tesoro, sin-equivalente]
 
 **Cabra de viaje.** Esta estatuilla se convierte en una cabra Grande con el mismo perfil que un caballo de monta. Tiene 24 cargas y cada hora o porción de hora que pase con forma de cabra cuesta 1 carga. Mientras posea cargas, puedes usarla tantas veces como quieras. Cuando se quede sin cargas, se convertirá de nuevo en estatuilla y no podrá volver a usarse hasta que hayan pasado 7 días, momento en el que recuperará todas sus cargas.
 
-**Cabra del terror.** Esta estatuilla se convierte en una cabra gigante hasta 3 horas. La cabra no puede atacar, pero puedes quitarle los cuernos sin peligro alguno y emplearlos como armas. Un cuerno se convierte en una lanza +1 y el otro se convierte en una espada larga +2. Quitarle un cuerno requiere una acción de magia, y las armas desaparecen y los cuernos regresan a su sitio cuando la cabra recupera su forma de estatuilla. Mientras montes sobre la cabra, cualquier criatura hostil que comience su turno dentro de una emanación de 9 m que se origina en la cabra deberá superar una tirada de salvación de Sabiduría con CD 15 o tendrá el estado de asustada durante 1 minuto, hasta que dejes de montar sobre la cabra o hasta que vuelva a su forma de estatuilla. Una criatura asustada repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto. Cuando la supere, una criatura será inmune a este efecto durante las próximas 24 horas. Una vez que se utilice la estatuilla, no podrá volver a usarse hasta que hayan pasado 15 días.
+**Cabra del terror.
+** Esta estatuilla se convierte en una cabra gigante hasta 3 horas. La cabra no puede atacar, pero puedes quitarle los cuernos sin peligro alguno y emplearlos como armas. Un cuerno se convierte en una lanza +1 y el otro se convierte en una espada larga +2. Quitarle un cuerno requiere una acción de magia, y las armas desaparecen y los cuernos regresan a su sitio cuando la cabra recupera su forma de estatuilla. Mientras montes sobre la cabra, cualquier criatura hostil que comience su turno dentro de una emanación de 9 m que se origina en la cabra deberá superar una tirada de salvación de Sabiduría con CD 15 o tendrá el estado de asustada durante 1 minuto, hasta que dejes de montar sobre la cabra o hasta que vuelva a su forma de estatuilla. Una criatura asustada repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto. Cuando la supere, una criatura será inmune a este efecto durante las próximas 24 horas. Una vez que se utilice la estatuilla, no podrá volver a usarse hasta que hayan pasado 15 días.
 
 **Corcel de obsidiana (muy raro).** Este caballo de obsidiana puede convertirse en una pesadilla durante 24 horas, como máximo. La pesadilla solo luchará para defenderse. Una vez que se utilice, no podrá volver a usarse hasta que hayan pasado 5 días.
 
@@ -48,13 +49,13 @@ Bestia Grande, sin alineamiento
 **Velocidad:** 9 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 13 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| SAB | 10 | +0 | +0 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Sentidos:** visión en la oscuridad 18 m, Percepción pasiva 10
 

@@ -3,19 +3,20 @@ aliases: ["Cleric"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Clerigo|Clerigo (Español)]]"
 ---
+
 # Cleric
 
 ## Core Cleric Traits
 
-| Trait | Detail |
-|---|---|
-| Primary Ability | Wisdom |
-| Hit Point Die | D8 per Cleric level |
-| Saving Throw Proficiencies | Wisdom and Charisma |
-| Skill Proficiencies | Choose 2: History, Insight, Medicine, Persuasion, or Religion |
-| Weapon Proficiencies | Simple weapons |
-| Armor Training | Light and Medium armor and Shields |
-| Starting Equipment | Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, and 7 GP; or (B) 110 GP |
+| Trait                      | Detail                                                                                            |
+|----------------------------|---------------------------------------------------------------------------------------------------|
+| Primary Ability            | Wisdom                                                                                            |
+| Hit Point Die              | D8 per Cleric level                                                                               |
+| Saving Throw Proficiencies | Wisdom and Charisma                                                                               |
+| Skill Proficiencies        | Choose 2: History, Insight, Medicine, Persuasion, or Religion                                     |
+| Weapon Proficiencies       | Simple weapons                                                                                    |
+| Armor Training             | Light and Medium armor and Shields                                                                |
+| Starting Equipment         | Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, and 7 GP; or (B) 110 GP |
 
 ### Becoming a Cleric ...
 
@@ -33,28 +34,28 @@ related_es: "[[Clases/Clerigo|Clerigo (Español)]]"
 
 As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
 
-| Level | Class Features | Proficiency Bonus | Channel Divinity | Prepared Spells | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Spellcasting, Divine Order | +2 | — | 4 | 3 | 2 | — | — | — | — | — | — | — |
-| 2 | Channel Divinity | +2 | 2 | 5 | 3 | 3 | — | — | — | — | — | — | — |
-| 3 | Cleric Subclass | +2 | 2 | 6 | 3 | 4 | 2 | — | — | — | — | — | — |
-| 4 | Ability Score Improvement | +2 | 2 | 7 | 4 | 4 | 3 | — | — | — | — | — | — |
-| 5 | Sear Undead | +3 | 2 | 9 | 4 | 4 | 3 | 2 | — | — | — | — | — |
-| 6 | Subclass feature | +3 | 3 | 10 | 4 | 4 | 3 | 3 | — | — | — | — | — |
-| 7 | Blessed Strikes | +3 | 3 | 11 | 4 | 4 | 3 | 3 | 1 | — | — | — | — |
-| 8 | Ability Score Improvement | +3 | 3 | 12 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
-| 9 | — | +4 | 3 | 14 | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — |
-| 10 | Divine Intervention | +4 | 3 | 15 | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — |
-| 11 | — | +4 | 3 | 16 | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — |
-| 12 | Ability Score Improvement | +4 | 3 | 16 | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — |
-| 13 | — | +5 | 3 | 17 | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — |
-| 14 | Improved Blessed Strikes | +5 | 3 | 17 | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — |
-| 15 | — | +5 | 3 | 18 | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 16 | Ability Score Improvement | +5 | 3 | 18 | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 17 | Subclass feature | +6 | 3 | 19 | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 18 | — | +6 | 4 | 20 | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 |
-| 19 | Epic Boon | +6 | 4 | 21 | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 |
-| 20 | Greater Divine Intervention | +6 | 4 | 22 | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 |
+| Level | Class Features              | Proficiency Bonus | Channel Divinity | Prepared Spells | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|-----------------------------|-------------------|------------------|-----------------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1     | Spellcasting, Divine Order  | +2                | —                | 4               | 3        | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | Channel Divinity            | +2                | 2                | 5               | 3        | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | Cleric Subclass             | +2                | 2                | 6               | 3        | 4   | 2   | —   | —   | —   | —   | —   | —   |
+| 4     | Ability Score Improvement   | +2                | 2                | 7               | 4        | 4   | 3   | —   | —   | —   | —   | —   | —   |
+| 5     | Sear Undead                 | +3                | 2                | 9               | 4        | 4   | 3   | 2   | —   | —   | —   | —   | —   |
+| 6     | Subclass feature            | +3                | 3                | 10              | 4        | 4   | 3   | 3   | —   | —   | —   | —   | —   |
+| 7     | Blessed Strikes             | +3                | 3                | 11              | 4        | 4   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 8     | Ability Score Improvement   | +3                | 3                | 12              | 4        | 4   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 9     | —                           | +4                | 3                | 14              | 4        | 4   | 3   | 3   | 3   | 1   | —   | —   | —   |
+| 10    | Divine Intervention         | +4                | 3                | 15              | 5        | 4   | 3   | 3   | 3   | 2   | —   | —   | —   |
+| 11    | —                           | +4                | 3                | 16              | 5        | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   |
+| 12    | Ability Score Improvement   | +4                | 3                | 16              | 5        | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   |
+| 13    | —                           | +5                | 3                | 17              | 5        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
+| 14    | Improved Blessed Strikes    | +5                | 3                | 17              | 5        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   |
+| 15    | —                           | +5                | 3                | 18              | 5        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 16    | Ability Score Improvement   | +5                | 3                | 18              | 5        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 17    | Subclass feature            | +6                | 3                | 19              | 5        | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 18    | —                           | +6                | 4                | 20              | 5        | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   |
+| 19    | Epic Boon                   | +6                | 4                | 21              | 5        | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   |
+| 20    | Greater Divine Intervention | +6                | 4                | 22              | 5        | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   |
 
 ### Level 1: Spellcasting
 
@@ -148,162 +149,162 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 ### Cantrips (Level 0 Cleric Spells)
 
-| Spell | School | Special |
-|---|---|---|
-| Guidance | Divination | C |
-| Light | Evocation | — |
-| Mending | Transmutation | — |
-| Resistance | Abjuration | C |
-| Sacred Flame | Evocation | — |
-| Spare the Dying | Necromancy | — |
-| Thaumaturgy | Transmutation | — |
+| Spell           | School        | Special |
+|-----------------|---------------|---------|
+| Guidance        | Divination    | C       |
+| Light           | Evocation     | —       |
+| Mending         | Transmutation | —       |
+| Resistance      | Abjuration    | C       |
+| Sacred Flame    | Evocation     | —       |
+| Spare the Dying | Necromancy    | —       |
+| Thaumaturgy     | Transmutation | —       |
 
 ### Level 1 Cleric Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Bane | Enchantment | C |
-| Bless | Enchantment | C, M |
-| Command | Enchantment | — |
-| Create or Destroy Water | Transmutation | — |
-| Cure Wounds | Abjuration | — |
-| Detect Evil and Good | Divination | C |
-| Detect Magic | Divination | C, R |
-| Detect Poison and Disease | Divination | C, R |
-| Guiding Bolt | Evocation | — |
-| Healing Word | Abjuration | — |
-| Inflict Wounds | Necromancy | — |
-| Protection from Evil and Good | Abjuration | C, M |
-| Purify Food and Drink | Transmutation | R |
-| Sanctuary | Abjuration | — |
-| Shield of Faith | Abjuration | C |
+| Spell                         | School        | Special |
+|-------------------------------|---------------|---------|
+| Bane                          | Enchantment   | C       |
+| Bless                         | Enchantment   | C, M    |
+| Command                       | Enchantment   | —       |
+| Create or Destroy Water       | Transmutation | —       |
+| Cure Wounds                   | Abjuration    | —       |
+| Detect Evil and Good          | Divination    | C       |
+| Detect Magic                  | Divination    | C, R    |
+| Detect Poison and Disease     | Divination    | C, R    |
+| Guiding Bolt                  | Evocation     | —       |
+| Healing Word                  | Abjuration    | —       |
+| Inflict Wounds                | Necromancy    | —       |
+| Protection from Evil and Good | Abjuration    | C, M    |
+| Purify Food and Drink         | Transmutation | R       |
+| Sanctuary                     | Abjuration    | —       |
+| Shield of Faith               | Abjuration    | C       |
 
 ### Level 2 Cleric Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Aid | Abjuration | — |
-| Augury | Divination | R, M |
-| Blindness/Deafness | Transmutation | — |
-| Calm Emotions | Enchantment | C |
-| Continual Flame | Evocation | M |
-| Enhance Ability | Transmutation | C |
-| Find Traps | Divination | — |
-| Gentle Repose | Necromancy | R, M |
-| Hold Person | Enchantment | C |
-| Lesser Restoration | Abjuration | — |
-| Locate Object | Divination | C |
-| Prayer of Healing | Abjuration | — |
-| Protection from Poison | Abjuration | — |
-| Silence | Illusion | C, R |
-| Spiritual Weapon | Evocation | C |
-| Warding Bond | Abjuration | M |
-| Zone of Truth | Enchantment | — |
+| Spell                  | School        | Special |
+|------------------------|---------------|---------|
+| Aid                    | Abjuration    | —       |
+| Augury                 | Divination    | R, M    |
+| Blindness/Deafness     | Transmutation | —       |
+| Calm Emotions          | Enchantment   | C       |
+| Continual Flame        | Evocation     | M       |
+| Enhance Ability        | Transmutation | C       |
+| Find Traps             | Divination    | —       |
+| Gentle Repose          | Necromancy    | R, M    |
+| Hold Person            | Enchantment   | C       |
+| Lesser Restoration     | Abjuration    | —       |
+| Locate Object          | Divination    | C       |
+| Prayer of Healing      | Abjuration    | —       |
+| Protection from Poison | Abjuration    | —       |
+| Silence                | Illusion      | C, R    |
+| Spiritual Weapon       | Evocation     | C       |
+| Warding Bond           | Abjuration    | M       |
+| Zone of Truth          | Enchantment   | —       |
 
 ### Level 3 Cleric Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Animate Dead | Necromancy | — |
-| Beacon of Hope | Abjuration | C |
-| Bestow Curse | Necromancy | C |
-| Clairvoyance | Divination | C, M |
-| Create Food and Water | Conjuration | — |
-| Daylight | Evocation | — |
-| Dispel Magic | Abjuration | — |
-| Glyph of Warding | Abjuration | M |
-| Magic Circle | Abjuration | M |
-| Mass Healing Word | Abjuration | — |
-| Meld into Stone | Transmutation | R |
-| Protection from Energy | Abjuration | C |
-| Remove Curse | Abjuration | — |
-| Revivify | Necromancy | M |
-| Sending | Divination | — |
-| Speak with Dead | Necromancy | — |
-| Spirit Guardians | Conjuration | C |
-| Tongues | Divination | — |
-| Water Walk | Transmutation | R |
+| Spell                  | School        | Special |
+|------------------------|---------------|---------|
+| Animate Dead           | Necromancy    | —       |
+| Beacon of Hope         | Abjuration    | C       |
+| Bestow Curse           | Necromancy    | C       |
+| Clairvoyance           | Divination    | C, M    |
+| Create Food and Water  | Conjuration   | —       |
+| Daylight               | Evocation     | —       |
+| Dispel Magic           | Abjuration    | —       |
+| Glyph of Warding       | Abjuration    | M       |
+| Magic Circle           | Abjuration    | M       |
+| Mass Healing Word      | Abjuration    | —       |
+| Meld into Stone        | Transmutation | R       |
+| Protection from Energy | Abjuration    | C       |
+| Remove Curse           | Abjuration    | —       |
+| Revivify               | Necromancy    | M       |
+| Sending                | Divination    | —       |
+| Speak with Dead        | Necromancy    | —       |
+| Spirit Guardians       | Conjuration   | C       |
+| Tongues                | Divination    | —       |
+| Water Walk             | Transmutation | R       |
 
 ### Level 4 Cleric Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Aura of Life | Abjuration | C |
-| Banishment | Abjuration | C |
-| Control Water | Transmutation | C |
-| Death Ward | Abjuration | — |
-| Divination | Divination | R, M |
-| Freedom of Movement | Abjuration | — |
-| Guardian of Faith | Conjuration | — |
-| Locate Creature | Divination | C |
-| Stone Shape | Transmutation | — |
+| Spell               | School        | Special |
+|---------------------|---------------|---------|
+| Aura of Life        | Abjuration    | C       |
+| Banishment          | Abjuration    | C       |
+| Control Water       | Transmutation | C       |
+| Death Ward          | Abjuration    | —       |
+| Divination          | Divination    | R, M    |
+| Freedom of Movement | Abjuration    | —       |
+| Guardian of Faith   | Conjuration   | —       |
+| Locate Creature     | Divination    | C       |
+| Stone Shape         | Transmutation | —       |
 
 ### Level 5 Cleric Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Commune | Divination | R |
-| Contagion | Necromancy | — |
-| Dispel Evil and Good | Abjuration | C |
-| Flame Strike | Evocation | — |
-| Geas | Enchantment | — |
-| Greater Restoration | Abjuration | M |
-| Hallow | Abjuration | M |
-| Insect Plague | Conjuration | C |
-| Legend Lore | Divination | M |
-| Mass Cure Wounds | Abjuration | — |
-| Planar Binding | Abjuration | M |
-| Raise Dead | Necromancy | M |
-| Scrying | Divination | C, M |
+| Spell                | School      | Special |
+|----------------------|-------------|---------|
+| Commune              | Divination  | R       |
+| Contagion            | Necromancy  | —       |
+| Dispel Evil and Good | Abjuration  | C       |
+| Flame Strike         | Evocation   | —       |
+| Geas                 | Enchantment | —       |
+| Greater Restoration  | Abjuration  | M       |
+| Hallow               | Abjuration  | M       |
+| Insect Plague        | Conjuration | C       |
+| Legend Lore          | Divination  | M       |
+| Mass Cure Wounds     | Abjuration  | —       |
+| Planar Binding       | Abjuration  | M       |
+| Raise Dead           | Necromancy  | M       |
+| Scrying              | Divination  | C, M    |
 
 ### Level 6 Cleric Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Blade Barrier | Evocation | C |
-| Create Undead | Necromancy | M |
-| Find the Path | Divination | C, M |
-| Forbiddance | Abjuration | R, M |
-| Harm | Necromancy | — |
-| Heal | Abjuration | — |
-| Heroes' Feast | Conjuration | M |
-| Planar Ally | Conjuration | — |
-| Sunbeam | Evocation | C |
-| True Seeing | Divination | M |
-| Word of Recall | Conjuration | — |
+| Spell          | School      | Special |
+|----------------|-------------|---------|
+| Blade Barrier  | Evocation   | C       |
+| Create Undead  | Necromancy  | M       |
+| Find the Path  | Divination  | C, M    |
+| Forbiddance    | Abjuration  | R, M    |
+| Harm           | Necromancy  | —       |
+| Heal           | Abjuration  | —       |
+| Heroes' Feast  | Conjuration | M       |
+| Planar Ally    | Conjuration | —       |
+| Sunbeam        | Evocation   | C       |
+| True Seeing    | Divination  | M       |
+| Word of Recall | Conjuration | —       |
 
 ### Level 7 Cleric Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Conjure Celestial | Conjuration | C |
-| Divine Word | Evocation | — |
-| Etherealness | Conjuration | — |
-| Fire Storm | Evocation | — |
-| Plane Shift | Conjuration | M |
-| Regenerate | Transmutation | — |
-| Resurrection | Necromancy | M |
-| Symbol | Abjuration | M |
+| Spell             | School        | Special |
+|-------------------|---------------|---------|
+| Conjure Celestial | Conjuration   | C       |
+| Divine Word       | Evocation     | —       |
+| Etherealness      | Conjuration   | —       |
+| Fire Storm        | Evocation     | —       |
+| Plane Shift       | Conjuration   | M       |
+| Regenerate        | Transmutation | —       |
+| Resurrection      | Necromancy    | M       |
+| Symbol            | Abjuration    | M       |
 
 ### Level 8 Cleric Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Antimagic Field | Abjuration | C |
-| Control Weather | Transmutation | C |
-| Earthquake | Transmutation | C |
-| Holy Aura | Abjuration | C, M |
-| Sunburst | Evocation | — |
+| Spell           | School        | Special |
+|-----------------|---------------|---------|
+| Antimagic Field | Abjuration    | C       |
+| Control Weather | Transmutation | C       |
+| Earthquake      | Transmutation | C       |
+| Holy Aura       | Abjuration    | C, M    |
+| Sunburst        | Evocation     | —       |
 
 ### Level 9 Cleric Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Astral Projection | Necromancy | M |
-| Gate | Conjuration | C, M |
-| Mass Heal | Abjuration | — |
-| Power Word Heal | Enchantment | — |
-| True Resurrection | Necromancy | M |
+| Spell             | School      | Special |
+|-------------------|-------------|---------|
+| Astral Projection | Necromancy  | M       |
+| Gate              | Conjuration | C, M    |
+| Mass Heal         | Abjuration  | —       |
+| Power Word Heal   | Enchantment | —       |
+| True Resurrection | Necromancy  | M       |
 
 ## Cleric Subclass: Life Domain
 
@@ -321,12 +322,12 @@ When a spell you cast with a spell slot restores Hit Points to a creature, that 
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
 
-| Cleric Level | Prepared Spells |
-|---|---|
-| 3 | Aid, Bless, Cure Wounds, Lesser Restoration |
-| 5 | Mass Healing Word, Revivify |
-| 7 | Aura of Life, Death Ward |
-| 9 | Greater Restoration, Mass Cure Wounds |
+| Cleric Level | Prepared Spells                             |
+|--------------|---------------------------------------------|
+| 3            | Aid, Bless, Cure Wounds, Lesser Restoration |
+| 5            | Mass Healing Word, Revivify                 |
+| 7            | Aura of Life, Death Ward                    |
+| 9            | Greater Restoration, Mass Cure Wounds       |
 
 ### Level 3: Preserve Life
 

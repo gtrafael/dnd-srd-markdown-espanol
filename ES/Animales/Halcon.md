@@ -17,13 +17,13 @@ related_en: "[[Animals/Hawk|Hawk (EN)]]"
 **Velocidad:** 3 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 5 | -3 | -3 |
-| DES | 16 | +3 | +3 |
-| CON | 8 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| SAB | 14 | +2 | +2 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |     5 |  -3 |   -3 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |     8 |  -1 |   -1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Percepción +6
 

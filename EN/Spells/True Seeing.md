@@ -3,6 +3,7 @@ aliases: ["True Seeing"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/VisionVeraz|Visión veraz (Español)]]"
 ---
+
 ### True Seeing
 
 *Level 6 Divination* (Bard, Cleric, Sorcerer, Warlock, Wizard)

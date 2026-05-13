@@ -3,6 +3,7 @@ aliases: ["Befuddlement"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Confusion|Confusión (Español)]]"
 ---
+
 ### Befuddlement
 
 *Level 8 Enchantment* (Bard, Druid, Warlock, Wizard)

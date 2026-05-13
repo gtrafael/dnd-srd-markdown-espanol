@@ -17,13 +17,13 @@ related_en: "[[Monsters/Half-Dragon|Half-Dragon (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 14 | +2 | +5 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| SAB | 15 | +2 | +5 |
-| CAR | 14 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    14 |  +2 |   +5 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    15 |  +2 |   +5 |
+| CAR   |    14 |  +2 |   +2 |
 
 **Habilidades:** Atletismo +7, Percepción +5, Sigilo +5
 

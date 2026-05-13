@@ -17,13 +17,13 @@ related_en: "[[Monsters/Priest|Priest (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 10 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 13 | +1 | +1 |
-| SAB | 16 | +3 | +3 |
-| CAR | 13 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    13 |  +1 |   +1 |
+| SAB   |    16 |  +3 |   +3 |
+| CAR   |    13 |  +1 |   +1 |
 
 **Habilidades:** Medicina +7, Percepción +5, Religión +5
 

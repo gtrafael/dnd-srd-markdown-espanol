@@ -17,13 +17,13 @@ related_en: "[[Animals/Panther|Panther (EN)]]"
 **Velocidad:** 15 m, trepar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 16 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| SAB | 14 | +2 | +2 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Percepción +4, Sigilo +7
 

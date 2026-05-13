@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Momia|Momia (Español)]]"
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 8 | −1 | −1 | **Con** 15 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 12 | +1 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 8  | −1  |  −1  | **Con** 15 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 12 | +1  |  +3  | **Cha** 12 | +1 | +1 |
 
 Vulnerabilities Fire Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 

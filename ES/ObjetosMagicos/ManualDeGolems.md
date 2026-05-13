@@ -14,10 +14,10 @@ Para crear un gólem, debes dedicar el tiempo mostrado en la tabla, trabajar sin
 
 En cuanto hayas acabado de crear al gólem, el libro arderá en llamas sobrenaturales. El gólem cobrará vida cuando se esparzan sobre él las cenizas del manual. Consulta el capítulo “Monstruos” para conocer el perfil del gólem. Estará bajo tu control, entenderá tus órdenes y las obedecerá.
 
-| 1d20 | Gólem | Tiempo | Precio |
-|---|---|---|---|
-| 1–5 | Gólem de arcilla | 30 días | 65 000 po |
-| 6–17 | Gólem de carne | 60 días | 50 000 po |
-| 18 | Gólem de hierro | 120 días | 100 000 po |
-| 19–20 | Gólem de piedra | 90 días | 80 000 po |
+| 1d20  | Gólem            | Tiempo   | Precio     |
+|-------|------------------|----------|------------|
+| 1–5   | Gólem de arcilla | 30 días  | 65 000 po  |
+| 6–17  | Gólem de carne   | 60 días  | 50 000 po  |
+| 18    | Gólem de hierro  | 120 días | 100 000 po |
+| 19–20 | Gólem de piedra  | 90 días  | 80 000 po  |
 

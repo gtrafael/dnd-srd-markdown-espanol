@@ -25,12 +25,12 @@ Como acción adicional, puedes mover el látigo hasta 6 m y repetir el ataque co
 
 **Fichas de pluma**
 
-| 1d100 | Símbolo | Rareza |
-|---|---|---|
-| 01–15 | Abanico | Infrecuente |
-| 16–35 | Ancla | Infrecuente |
-| 36–60 | Árbol | Infrecuente |
-| 61–75 | Bote cisne | Rara |
-| 76–85 | Látigo | Rara |
-| 86–00 | Pájaro | Rara |
+| 1d100 | Símbolo    | Rareza      |
+|-------|------------|-------------|
+| 01–15 | Abanico    | Infrecuente |
+| 16–35 | Ancla      | Infrecuente |
+| 36–60 | Árbol      | Infrecuente |
+| 61–75 | Bote cisne | Rara        |
+| 76–85 | Látigo     | Rara        |
+| 86–00 | Pájaro     | Rara        |
 

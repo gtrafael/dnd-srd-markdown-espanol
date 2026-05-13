@@ -3,6 +3,7 @@ aliases: ["Bless"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Bendicion|Bendición (Español)]]"
 ---
+
 ### Bless
 
 *Level 1 Enchantment* (Cleric, Paladin)

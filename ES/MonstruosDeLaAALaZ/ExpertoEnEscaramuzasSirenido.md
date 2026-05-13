@@ -17,13 +17,13 @@ related_en: "[[Monsters/Merfolk Skirmisher|Merfolk Skirmisher (EN)]]"
 **Velocidad:** 3 m, nadar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| SAB | 14 | +2 | +2 |
-| CAR | 12 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Sentidos:** Percepción pasiva 12
 

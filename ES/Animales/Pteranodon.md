@@ -17,13 +17,13 @@ related_en: "[[Animals/Pteranodon|Pteranodon (EN)]]"
 **Velocidad:** 3 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 12 | +1 | +1 |
-| DES | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 9 | -1 | -1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    12 |  +1 |   +1 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |     9 |  -1 |   -1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Habilidades:** Percepción +1
 

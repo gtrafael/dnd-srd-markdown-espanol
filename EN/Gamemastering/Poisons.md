@@ -3,6 +3,7 @@ aliases: ["Poisons"]
 tags: [srd, english, tag_gamemastering]
 related_es: "[[HerramientasDelJuego/Veneno|Venenos (Español)]]"
 ---
+
 # Poison
 
 Given their insidious and deadly nature, poisons are a favorite tool among assassins and evil creatures.

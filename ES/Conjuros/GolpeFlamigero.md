@@ -16,7 +16,7 @@ related_en: "[[Spells/Flame Strike|Flame Strike (EN)]]"
 
 **Duración:** Instantáneo
 
-Una columna de fuego brillante ruge desde el cielo. Todas las criaturas en un cilindro de 3 m de radio y 12 m de altura centrado en un punto dentro del alcance realizan una tirada de salvación de Destreza; sufrirán 5d6 de daño de fuego y 5d6 de daño radiante si la fallan o la mitad de daño si la superan. 
+Una columna de fuego brillante ruge desde el cielo. Todas las criaturas en un cilindro de 3 m de radio y 12 m de altura centrado en un punto dentro del alcance realizan una tirada de salvación de Destreza; sufrirán 5d6 de daño de fuego y 5d6 de daño radiante si la fallan o la mitad de daño si la superan.
 
 **Con un espacio de conjuro de nivel superior.**
 

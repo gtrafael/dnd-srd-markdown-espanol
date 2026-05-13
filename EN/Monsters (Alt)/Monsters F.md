@@ -8,11 +8,10 @@
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 17 | +3 | +3 | **Con** 16 | +3 | +3 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 17 | +3  |  +3  | **Con** 16 | +3 | +3 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 
@@ -52,11 +51,10 @@ Burn. Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Fire damage. If the t
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 25 | +7 | +7 | **Dex** 9 | −1 | +3 | **Con** 23 | +6 | +10 |
-| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +2 | **Cha** 13 | +1 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 25 | +7  |  +7  | **Dex** 9  | −1  |  +3  | **Con** 23 | +6 | +10 |
+| **Int** 10 | +0  |  +0  | **Wis** 14 | +2  |  +2  | **Cha** 13 | +1 | +5 |
 
 **Skills Athletics +11, Perception +6**
 
@@ -90,11 +88,10 @@ Hammer Throw. Ranged Attack Roll: +11, range 60/240 ft. Hit: 23 (3d10 + 7) Bludg
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 9 | −1 | −1 | **Con** 18 | +4 | +4 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 9  | −1  |  −1  | **Con** 18 | +4 | +4 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Immunities Lightning, Poison; Charmed, Exhaustion,**
 
@@ -138,11 +135,10 @@ Slam. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage pl
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 9 | −1 | −1 | **Con** 21 | +5 | +8 |
-| **Int** 9 | −1 | −1 | **Wis** 10 | +0 | +3 | **Cha** 12 | +1 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 9  | −1  |  −1  | **Con** 21 | +5 | +8 |
+| **Int** 9  | −1  |  −1  | **Wis** 10 | +0  |  +3  | **Cha** 12 | +1 | +4 |
 
 **Skills Athletics +9, Perception +3**
 

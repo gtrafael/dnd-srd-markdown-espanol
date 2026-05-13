@@ -17,13 +17,14 @@ related_en: "[[Monsters/Spy|Spy (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 12 | +1 | +1 |
-| SAB | 14 | +2 | +2 |
-| CAR | 16 | +3 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |    16 |  +3 |   +3 |
+
 **Habilidades:** Engaño +5, Investigación +5, Juego de manos +4, Percepción +6, Perspicacia +4, Sigilo +6
 
 **Equipo:** ballesta de mano, espada corta, herramientas de ladrón

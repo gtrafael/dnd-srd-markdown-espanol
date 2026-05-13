@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/PerroIntermitente|Perro intermitente (Español
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 17 | +3 | +3 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 17 | +3  |  +3  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +5, Stealth +5**
 

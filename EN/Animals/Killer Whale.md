@@ -3,6 +3,7 @@ aliases: ["Killer Whale"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Orca|Orca (Español)]]"
 ---
+
 ## Killer Whale
 
 *Huge Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Orca|Orca (Español)]]"
 
 **Speed 5 ft., Swim 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +3, Stealth +4**
 

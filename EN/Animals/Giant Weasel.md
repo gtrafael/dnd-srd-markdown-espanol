@@ -3,6 +3,7 @@ aliases: ["Giant Weasel"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/ComadrejaGigante|Comadreja gigante (Español)]]"
 ---
+
 ## Giant Weasel
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/ComadrejaGigante|Comadreja gigante (Español)]]"
 
 **Speed 40 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 17 | +3 | +3 | **Con** 10 | +0 | +0 |
-| **Int** 4 | −3 | −3 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 17 | +3  |  +3  | **Con** 10 | +0 | +0 |
+| **Int** 4  | −3  |  −3  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Skills Acrobatics +5, Perception +3, Stealth +5**
 

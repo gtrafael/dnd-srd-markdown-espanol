@@ -3,6 +3,7 @@ aliases: ["Feather Fall"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CaidaDePluma|Caída de pluma (Español)]]"
 ---
+
 ### Feather Fall
 
 *Level 1 Transmutation* (Bard, Sorcerer, Wizard)

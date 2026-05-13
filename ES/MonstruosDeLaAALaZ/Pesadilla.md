@@ -17,13 +17,13 @@ related_en: "[[Monsters/Nightmare|Nightmare (EN)]]"
 **Velocidad:** 18 m, volar 27 m (levitar)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| SAB | 13 | +1 | +1 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |    15 |  +2 |   +2 |
 
 **Inmunidades:** fuego
 

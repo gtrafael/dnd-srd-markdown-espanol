@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/AcechadorInvisible|Acechador invisible (Españ
 
 **Speed 50 ft., Fly 50 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 19 | +4 | +4 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 15 | +2 | +2 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 19 | +4  |  +4  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 15 | +2  |  +2  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +8, Stealth +10**
 

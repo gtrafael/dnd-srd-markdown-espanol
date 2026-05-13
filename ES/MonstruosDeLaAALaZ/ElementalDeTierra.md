@@ -15,13 +15,13 @@ related_en: "[[Monsters/Earth Elemental|Earth Elemental (EN)]]"
 **Velocidad:** 9 m, excavar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 20 | +5 | +5 |
-| DES | 8 | -1 | -1 |
-| CON | 20 | +5 | +5 |
-| INT | 5 | -3 | -3 |
-| SAB | 10 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    20 |  +5 |   +5 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    20 |  +5 |   +5 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Vulnerabilidades:** trueno
 

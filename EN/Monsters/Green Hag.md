@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/SagaCetrina|Saga cetrina (Español)]]"
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 16 | +3 | +3 |
-| **Int** 13 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 12 | +1  |  +1  | **Con** 16 | +3 | +3 |
+| **Int** 13 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 14 | +2 | +2 |
 
 **Skills Arcana +5, Deception +4, Perception +4, Stealth +3**
 

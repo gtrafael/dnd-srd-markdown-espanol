@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/ArbolDespertado|Árbol despertado (Español)]]
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 6 | −2 | −2 | **Con** 15 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 6  | −2  |  −2  | **Con** 15 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 Vulnerabilities Fire Resistances Bludgeoning, Piercing Senses Passive Perception 10 Languages Common plus one other language
 

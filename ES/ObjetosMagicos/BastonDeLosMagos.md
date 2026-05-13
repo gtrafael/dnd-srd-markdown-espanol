@@ -13,27 +13,27 @@ Este bastón tiene 50 cargas y se puede usar a modo de bastón mágico que otorg
 
 **Conjuros.** Mientras empuñes el bastón, puedes lanzar un conjuro de la tabla a continuación desde él empleando tu CD de salvación de conjuros. En ella se indica cuántas cargas debes gastar para lanzar el conjuro.
 
-| Conjuro | Coste en cargas |
-|---|---:|
-| Abrir | 2 |
-| Agrandar/reducir | 0 |
-| Bola de fuego (versión de nivel 7) | 7 |
-| Cerradura arcana | 0 |
-| Conjurar elemental | 7 |
-| Desplazamiento entre planos | 7 |
-| Detector magia | 0 |
-| Disipar magia | 3 |
-| Esfera de llamas | 2 |
-| Invisibilidad | 2 |
-| Luz | 0 |
-| Mano de mago | 0 |
-| Muro de fuego | 4 |
-| Pasamuros | 5 |
-| Protección contra el bien y el mal | 0 |
-| Relámpago (versión de nivel 7) | 7 |
-| Telaraña | 2 |
-| Telequinesis | 5 |
-| Tormenta de hielo | 4 |
+| Conjuro                            | Coste en cargas |
+|------------------------------------|----------------:|
+| Abrir                              |               2 |
+| Agrandar/reducir                   |               0 |
+| Bola de fuego (versión de nivel 7) |               7 |
+| Cerradura arcana                   |               0 |
+| Conjurar elemental                 |               7 |
+| Desplazamiento entre planos        |               7 |
+| Detector magia                     |               0 |
+| Disipar magia                      |               3 |
+| Esfera de llamas                   |               2 |
+| Invisibilidad                      |               2 |
+| Luz                                |               0 |
+| Mano de mago                       |               0 |
+| Muro de fuego                      |               4 |
+| Pasamuros                          |               5 |
+| Protección contra el bien y el mal |               0 |
+| Relámpago (versión de nivel 7)     |               7 |
+| Telaraña                           |               2 |
+| Telequinesis                       |               5 |
+| Tormenta de hielo                  |               4 |
 
 **Golpe vengador.** Puedes emplear una acción de magia para romper el bastón de un rodillazo o contra una superficie sólida. El bastón se destruye y libera su magia en una explosión que llena una emanación de 9 m que se origina en él. Tienes un 50 % de probabilidad de viajar en ese instante a un plano de existencia aleatorio y evitar la explosión. Si no logras evitar el efecto, sufrirás una cantidad de daño de fuerza igual a 16 veces la cantidad de cargas del bastón.Todas las demas criaturas situadas en la zona harán una tirada de salvación de Destreza con CD 17. Si la fallan, sufrirán un daño de fuerza igual a 6 veces la cantidad de cargas del bastón. Si la superan, sufrirán la mitad de ese daño.
 

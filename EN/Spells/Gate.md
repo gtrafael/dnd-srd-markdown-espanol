@@ -3,6 +3,7 @@ aliases: ["Gate"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Portal|Portal (Español)]]"
 ---
+
 ### Gate
 
 *Level 9 Conjuration* (Cleric, Sorcerer, Warlock, Wizard)

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/SenorDeLasMomias|Señor de las momias (Españo
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 17 | +3 | +3 |
-| **Int** 11 | +0 | +5 | **Wis** 19 | +4 | +9 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 17 | +3 | +3 |
+| **Int** 11 | +0  |  +5  | **Wis** 19 | +4  |  +9  | **Cha** 16 | +3 | +3 |
 
 **Skills History +5, Perception +9, Religion +5**
 

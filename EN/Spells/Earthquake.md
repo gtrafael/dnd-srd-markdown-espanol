@@ -3,6 +3,7 @@ aliases: ["Earthquake"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Terremoto|Terremoto (Español)]]"
 ---
+
 ### Earthquake
 
 *Level 8 Transmutation* (Cleric, Druid, Sorcerer)

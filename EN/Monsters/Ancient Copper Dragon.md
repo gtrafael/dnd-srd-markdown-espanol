@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeCobreAnciano|Dragón de cobre anciano 
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 12 | +1 | +8 | **Con** 25 | +7 | +7 |
-| **Int** 20 | +5 | +5 | **Wis** 17 | +3 | +10 | **Cha** 22 | +6 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 12 | +1  |  +8  | **Con** 25 | +7 | +7 |
+| **Int** 20 | +5  |  +5  | **Wis** 17 | +3  | +10  | **Cha** 22 | +6 | +6 |
 
 **Skills Deception +13, Perception +17, Stealth +8**
 

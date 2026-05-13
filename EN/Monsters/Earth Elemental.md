@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/ElementalDeTierra|Elemental de tierra (Españo
 
 **Speed 30 ft., Burrow 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 20 | +5 | +5 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 8  | −1  |  −1  | **Con** 20 | +5 | +5 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 Vulnerabilities Thunder Immunities Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
 

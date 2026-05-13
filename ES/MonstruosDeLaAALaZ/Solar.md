@@ -17,13 +17,13 @@ related_en: "[[Monsters/Solar|Solar (EN)]]"
 **Velocidad:** 15 m, volar 45 m (levitar)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 26 | +8 | +8 |
-| DES | 22 | +6 | +6 |
-| CON | 26 | +8 | +8 |
-| INT | 25 | +7 | +7 |
-| SAB | 25 | +7 | +7 |
-| CAR | 30 | +10 | +10 |
+|-------|------:|----:|-----:|
+| FUE   |    26 |  +8 |   +8 |
+| DES   |    22 |  +6 |   +6 |
+| CON   |    26 |  +8 |   +8 |
+| INT   |    25 |  +7 |   +7 |
+| SAB   |    25 |  +7 |   +7 |
+| CAR   |    30 | +10 |  +10 |
 
 **Habilidades:** Percepción +14
 

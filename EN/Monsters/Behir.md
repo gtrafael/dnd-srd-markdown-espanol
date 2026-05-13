@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Behir|Behir (Español)]]"
 
 **Speed 50 ft., Climb 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 16 | +3 | +3 | **Con** 18 | +4 | +4 |
-| **Int** 7 | −2 | −2 | **Wis** 14 | +2 | +2 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 16 | +3  |  +3  | **Con** 18 | +4 | +4 |
+| **Int** 7  | −2  |  −2  | **Wis** 14 | +2  |  +2  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +6, Stealth +7**
 

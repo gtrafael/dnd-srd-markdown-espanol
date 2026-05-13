@@ -8,11 +8,10 @@
 
 **Speed 60 ft., Fly 90 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +4 | **Con** 16 | +3 | +5 |
-| **Int** 10 | +0 | +0 | **Wis** 15 | +2 | +4 | **Cha** 13 | +1 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +4  | **Con** 16 | +3 | +5 |
+| **Int** 10 | +0  |  +0  | **Wis** 15 | +2  |  +4  | **Cha** 13 | +1 | +3 |
 
 **Skills Perception +6**
 
@@ -38,11 +37,10 @@ Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage p
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 16 | +3 | +3 | **Con** 12 | +1 | +1 |
-| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 16 | +3  |  +3  | **Con** 12 | +1 | +1 |
+| **Int** 6  | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Skills Stealth +7**
 
@@ -82,11 +80,10 @@ Plane to the Ethereal Plane or vice versa. Pirates
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 16 | +3 | +5 | **Con** 12 | +1 | +1 |
-| **Int** 8 | −1 | −1 | **Wis** 12 | +1 | +1 | **Cha** 14 | +2 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 16 | +3  |  +5  | **Con** 12 | +1 | +1 |
+| **Int** 8  | −1  |  −1  | **Wis** 12 | +1  |  +1  | **Cha** 14 | +2 | +4 |
 
 **Gear Daggers (6), Leather Armor**
 
@@ -116,11 +113,10 @@ Enthralling Panache. Wisdom Saving Throw: DC 12, one creature the pirate can see
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +3 | **Dex** 18 | +4 | +7 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +5 | **Cha** 17 | +3 | +6 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +3  | **Dex** 18 | +4  |  +7  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 14 | +2  |  +5  | **Cha** 17 | +3 | +6 |
 
 **Skills Acrobatics +7, Perception +5**
 
@@ -160,11 +156,10 @@ Riposte. Trigger: The pirate is hit by a melee attack roll while holding a weapo
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 26 | +8 | +8 | **Dex** 14 | +2 | +8 | **Con** 24 | +7 | +7 |
-| **Int** 22 | +6 | +6 | **Wis** 18 | +4 | +10 | **Cha** 24 | +7 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 26 | +8  |  +8  | **Dex** 14 | +2  |  +8  | **Con** 24 | +7 | +7 |
+| **Int** 22 | +6  |  +6  | **Wis** 18 | +4  | +10  | **Cha** 24 | +7 | +7 |
 
 **Skills Perception +10, Persuasion +19**
 
@@ -210,11 +205,10 @@ Fiery Mace. Melee Attack Roll: +14, reach 10 ft. Hit: 22 (4d6 + 8) Force damage 
 
 **Speed 40 ft., Fly 120 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 24 | +7 | +12 | **Dex** 20 | +5 | +5 | **Con** 24 | +7 | +12 |
-| **Int** 19 | +4 | +4 | **Wis** 22 | +6 | +11 | **Cha** 25 | +7 | +12 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 24 | +7  | +12  | **Dex** 20 | +5  |  +5  | **Con** 24 | +7 | +12 |
+| **Int** 19 | +4  |  +4  | **Wis** 22 | +6  | +11  | **Cha** 25 | +7 | +12 |
 
 **Skills Perception +11**
 
@@ -262,11 +256,10 @@ Divine Aid (2/Day). The planetar casts Cure Wounds, Invisibility, Lesser Restora
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 10 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 13 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 10 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 13 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 13 | +1 | +1 |
 
 **Skills Medicine +7, Perception +5, Religion +5**
 
@@ -302,11 +295,10 @@ Divine Aid (3/Day). The priest casts Bless, Dispel Magic, Healing Word, or Lesse
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 10 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +2 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 10 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 14 | +2  |  +2  | **Cha** 11 | +0 | +0 |
 
 **Skills Medicine +4, Religion +2**
 
@@ -340,11 +332,10 @@ Divine Aid (1/Day). The priest casts Bless, Healing Word, or Sanctuary, using th
 
 **Speed 15 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 15 | +2 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6  | −2  |  −2  | **Dex** 15 | +2  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +5, Stealth +4**
 
@@ -378,11 +369,10 @@ Sting. Constitution Saving Throw: DC 12, one creature the pseudodragon can see w
 
 **Speed 50 ft., Burrow 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 28 | +9 | +9 | **Dex** 7 | −2 | −2 | **Con** 22 | +6 | +11 |
-| **Int** 1 | −5 | −5 | **Wis** 8 | −1 | +4 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 28 | +9  |  +9  | **Dex** 7 | −2  |  −2  | **Con** 22 | +6 | +11 |
+| **Int** 1  | −5  |  −5  | **Wis** 8 | −1  |  +4  | **Cha** 4 | −3 | −3 |
 
 **Senses Blindsight 30 ft., Tremorsense 60 ft.;**
 

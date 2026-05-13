@@ -3,6 +3,7 @@ aliases: ["Divine Favor"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/FavorDivino|Favor divino (Español)]]"
 ---
+
 ### Divine Favor
 
 *Level 1 Transmutation* (Paladin)

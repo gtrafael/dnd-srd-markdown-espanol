@@ -3,6 +3,7 @@ aliases: ["Clairvoyance"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Clarividencia|Clarividencia (Español)]]"
 ---
+
 ### Clairvoyance
 
 *Level 3 Divination* (Bard, Cleric, Sorcerer, Wizard)

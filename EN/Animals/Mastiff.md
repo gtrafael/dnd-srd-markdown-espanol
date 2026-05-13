@@ -3,6 +3,7 @@ aliases: ["Mastiff"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Mastin|Mastín (Español)]]"
 ---
+
 ## Mastiff
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Mastin|Mastín (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +3 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +3  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +5**
 

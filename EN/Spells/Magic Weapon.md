@@ -3,6 +3,7 @@ aliases: ["Magic Weapon"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ArmaMagica|Arma mágica (Español)]]"
 ---
+
 ### Magic Weapon
 
 *Level 2 Transmutation* (Paladin, Ranger, Sorcerer, Wizard)

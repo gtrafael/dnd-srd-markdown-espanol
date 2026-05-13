@@ -8,11 +8,10 @@
 
 **Speed 30 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 4 | −3 | −3 | **Dex** 15 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 4 | −3  |  −3  | **Dex** 15 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 2 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Senses Blindsight 10 ft.; Passive Perception 11**
 
@@ -38,11 +37,10 @@ Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 5 (2d4) Poi
 
 **Speed 20 ft., Swim 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 1 | −5 | −5 | **Dex** 13 | +1 | +1 | **Con** 8 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 8 | −1 | −1 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 1 | −5  |  −5  | **Dex** 13 | +1  |  +1  | **Con** 8 | −1 | −1 |
+| **Int** 1 | −5  |  −5  | **Wis** 8  | −1  |  −1  | **Cha** 3 | −4 | −4 |
 
 **Skills Perception +1, Stealth +3**
 

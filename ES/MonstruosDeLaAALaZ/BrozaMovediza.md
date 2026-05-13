@@ -17,13 +17,13 @@ related_en: "[[Monsters/Shambling Mound|Shambling Mound (EN)]]"
 **Velocidad:** 9 m, nadar 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 8 | -1 | -1 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| SAB | 10 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Habilidades:** Sigilo +3
 

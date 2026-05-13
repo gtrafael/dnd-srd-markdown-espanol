@@ -16,7 +16,7 @@ related_en: "[[Spells/Hellish Rebuke|Hellish Rebuke (EN)]]"
 
 **Duración:** Instantáneo
 
-La criatura que te ha dañado se ve rodeada momentáneamente por unas llamas verdes y hará una tirada de salvación de Destreza; sufrirá 2d10 de daño de fuego si la falla o la mitad del daño si la supera. 
+La criatura que te ha dañado se ve rodeada momentáneamente por unas llamas verdes y hará una tirada de salvación de Destreza; sufrirá 2d10 de daño de fuego si la falla o la mitad del daño si la supera.
 
 **Con un espacio de conjuro de nivel superior.**
 

@@ -3,6 +3,7 @@ aliases: ["Venomous Snake"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/SerpienteVenenosa|Serpiente venenosa (Español)]]"
 ---
+
 ## Venomous Snake
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/SerpienteVenenosa|Serpiente venenosa (Español)]]"
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 15 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 15 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 1 | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Senses Blindsight 10 ft.; Passive Perception 10**
 

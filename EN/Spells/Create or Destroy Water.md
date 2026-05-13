@@ -3,6 +3,7 @@ aliases: ["Create or Destroy Water"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CrearODestruirAgua|Crear o destruir agua (Español)]]"
 ---
+
 ### Create or Destroy Water
 
 *Level 1 Transmutation* (Cleric, Druid)

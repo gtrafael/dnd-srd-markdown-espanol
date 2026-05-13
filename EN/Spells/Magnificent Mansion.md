@@ -3,6 +3,7 @@ aliases: ["Magnificent Mansion"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/MansionMagnifica|Mansión magnífica (Español)]]"
 ---
+
 ### Magnificent Mansion
 
 *Level 7 Conjuration* (Bard, Wizard)

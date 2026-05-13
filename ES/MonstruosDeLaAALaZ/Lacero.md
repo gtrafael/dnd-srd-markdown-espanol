@@ -17,13 +17,13 @@ related_en: "[[Monsters/Roper|Roper (EN)]]"
 **Velocidad:** 3 m, trepar 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 8 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 7 | -2 | -2 |
-| SAB | 16 | +3 | +3 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |     7 |  -2 |   -2 |
+| SAB   |    16 |  +3 |   +3 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Percepción +6, Sigilo +5
 

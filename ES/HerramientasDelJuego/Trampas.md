@@ -83,10 +83,10 @@ Como acción de buscar, una criatura puede examinar la sección del suelo que co
 A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementando el daño y el área de efecto, como se muestra en la siguiente tabla.
 
 | Niveles | Daño de fuego | Área de efecto |
-|---|---|---|
-| 5–10 | 22 (4d10) | Cono de 9 m |
-| 11–16 | 55 (10d10) | Cono de 18 m |
-| 17–20 | 99 (18d10) | Cono de 36 m |
+|---------|---------------|----------------|
+| 5–10    | 22 (4d10)     | Cono de 9 m    |
+| 11–16   | 55 (10d10)    | Cono de 18 m   |
+| 17–20   | 99 (18d10)    | Cono de 36 m   |
 
 ## Pozo con pinchos
 
@@ -106,11 +106,11 @@ Escapar. Para subir por las paredes lisas del pozo, una criatura necesita una ve
 
 A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementando la profundidad del pozo y el daño, como se muestra en la siguiente tabla.
 
-| Niveles | Profundidad del pozo | Daño |
-|---|---|---|
-| 5–10 | 9 m | 10 (3d6) contundente más 13 (3d8) perforante |
-| 11–16 | 18 m | 21 (6d6) contundente más 36 (8d8) perforante |
-| 17–20 | 36 m | 42 (12d6) contundente más 57 (13d8) perforante |
+| Niveles | Profundidad del pozo | Daño                                           |
+|---------|----------------------|------------------------------------------------|
+| 5–10    | 9 m                  | 10 (3d6) contundente más 13 (3d8) perforante   |
+| 11–16   | 18 m                 | 21 (6d6) contundente más 36 (8d8) perforante   |
+| 17–20   | 36 m                 | 42 (12d6) contundente más 57 (13d8) perforante |
 
 ## Pozo escondido
 
@@ -133,10 +133,10 @@ Escapar. Para subir por las paredes lisas del pozo, una criatura necesita una ve
 A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementando la profundidad del pozo y el daño, como se muestra en la siguiente tabla.
 
 | Niveles | Profundidad del pozo | Daño contundente |
-|---|---|---|
-| 5–10 | 9 m | 10 (3d6) |
-| 11–16 | 18 m | 21 (6d6) |
-| 17–20 | 36 m | 42 (12d6) |
+|---------|----------------------|------------------|
+| 5–10    | 9 m                  | 10 (3d6)         |
+| 11–16   | 18 m                 | 21 (6d6)         |
+| 17–20   | 36 m                 | 42 (12d6)        |
 
 ## Red que cae
 
@@ -189,8 +189,8 @@ Detectar y desarmar. Como acción de buscar, una criatura puede examinar la zona
 A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementando el daño y la CD de salvación, como se muestra en la siguiente tabla.
 
 | Niveles | Daño contundente | CD de salvación |
-|---|---|---:|
-| 5–10 | 22 (4d10) | 15 |
-| 11–16 | 55 (10d10) | 17 |
-| 17–20 | 99 (18d10) | 19 |
+|---------|------------------|----------------:|
+| 5–10    | 22 (4d10)        |              15 |
+| 11–16   | 55 (10d10)       |              17 |
+| 17–20   | 99 (18d10)       |              19 |
 

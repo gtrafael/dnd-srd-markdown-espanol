@@ -17,13 +17,13 @@ related_en: "[[Monsters/Clay Golem|Clay Golem (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 20 | +5 | +5 |
-| DES | 9 | -1 | -1 |
-| CON | 18 | +4 | +4 |
-| INT | 3 | -4 | -4 |
-| SAB | 8 | -1 | -1 |
-| CAR | 1 | -5 | -5 |
+|-------|------:|----:|-----:|
+| FUE   |    20 |  +5 |   +5 |
+| DES   |     9 |  -1 |   -1 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |     1 |  -5 |   -5 |
 
 **Resistencias:** contundente, cortante, perforante
 

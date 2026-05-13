@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Cocatriz|Cocatriz (Español)]]"
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6 | −2  |  −2  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 2 | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Immunities Petrified**
 

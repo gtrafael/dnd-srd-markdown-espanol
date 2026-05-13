@@ -16,9 +16,9 @@ related_en: "[[Spells/Aid|Aid (EN)]]"
 
 **Duración:** 8 horas
 
-Elige hasta tres criaturas dentro del alcance. 
+Elige hasta tres criaturas dentro del alcance.
 
-Los puntos de golpe máximos y actuales de cada objetivo aumentan en 5 hasta que termine el conjuro. 
+Los puntos de golpe máximos y actuales de cada objetivo aumentan en 5 hasta que termine el conjuro.
 
 **Con un espacio de conjuro de nivel superior.** Los puntos de golpe de cada objetivo aumentan en 5 adicionales por cada nivel por encima de 2 que tenga el espacio. 
 

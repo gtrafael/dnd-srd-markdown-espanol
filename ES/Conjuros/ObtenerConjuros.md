@@ -9,11 +9,9 @@ tags: [srd, espanol, tag_conjuros, sin-equivalente]
 
 ## Preparar conjuros
 
-Si tienes que preparar una lista de conjuros de nivel 1 o superiores, tu rasgo de lanzamiento de conjuros indica cuándo puedes cambiar la lista y cuántos conjuros puedes cambiar, como se resume en la tabla “Preparación de conjuros según clase”. 
-
+Si tienes que preparar una lista de conjuros de nivel 1 o superiores, tu rasgo de lanzamiento de conjuros indica cuándo puedes cambiar la lista y cuántos conjuros puedes cambiar, como se resume en la tabla “Preparación de conjuros según clase”.
 
 Preparación de conjuros según clase
-
 
 | Clase      | ¿Cuándo cambia?                | Cantidad de conjuros |
 |------------|--------------------------------|----------------------|
@@ -26,7 +24,7 @@ Preparación de conjuros según clase
 | Mago       | Al finalizar un descanso largo | Cualquiera           |
 | Paladín    | Al finalizar un descanso largo | Uno                  |
 
-La mayoría de monstruos que lanzan conjuros no cambian su lista de conjuros preparados, pero cada GM puede modificarla libremente. 
+La mayoría de monstruos que lanzan conjuros no cambian su lista de conjuros preparados, pero cada GM puede modificarla libremente.
 
 ### Conjuros siempre preparados
 

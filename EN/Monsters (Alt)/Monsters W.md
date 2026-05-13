@@ -8,11 +8,10 @@
 
 **Speed 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 15 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 12 | +1  |  +1  | **Con** 15 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 8  | −1  |  −1  | **Cha** 5 | −3 | −3 |
 
 Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned
 
@@ -36,11 +35,10 @@ Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage. 
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 11 | +0 | +0 | **Con** 11 | +0 | +0 |
-| **Int** 8 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 11 | +0  |  +0  | **Con** 11 | +0 | +0 |
+| **Int** 8  | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Gear Chain Shirt, Spear**
 
@@ -68,11 +66,10 @@ Spear. Melee or Ranged Attack Roll: +3, reach 5 ft. or range 20/60 ft. Hit: 4 (1
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Athletics +5, Perception +2**
 
@@ -106,11 +103,10 @@ Parry. Trigger: The warrior is hit by a melee attack roll while holding a weapon
 
 **Speed 30 ft., Swim 90 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 18 | +4 | +4 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 18 | +4 | +4 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Resistances Acid, Fire**
 
@@ -150,11 +146,10 @@ DC 14). Until the grapple ends, the target has the Restrained condition, is suff
 
 form only)
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 17 | +3 | +3 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 17 | +3 | +3 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +7**
 
@@ -194,11 +189,10 @@ Shape-Shift. The werebear shape-shifts into a Large bear-humanoid hybrid form or
 
 **Speed 30 ft., 40 ft. (boar form only)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 10 | +0 | +0 | **Con** 15 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 10 | +0  |  +0  | **Con** 15 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +2**
 
@@ -238,11 +232,10 @@ Shape-Shift. The wereboar shape-shifts into a Medium boar-humanoid hybrid or a S
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 16 | +3 | +3 | **Con** 12 | +1 | +1 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 16 | +3  |  +3  | **Con** 12 | +1 | +1 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +4, Stealth +5**
 
@@ -280,11 +273,10 @@ Shape-Shift. The wererat shape-shifts into a Medium rat-humanoid hybrid or a Sma
 
 **Speed 30 ft., 40 ft. (tiger form only)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +5, Stealth +4**
 
@@ -328,11 +320,10 @@ Attacks. At the end of this movement, the weretiger can take the Hide action. Sh
 
 **Speed 30 ft., 40 ft. (wolf form only)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +4, Stealth +4**
 
@@ -378,11 +369,10 @@ Shape-Shift. The werewolf shape-shifts into a Large wolf-humanoid hybrid or a Me
 
 **Speed 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 10 | +0 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +2 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 10 | +0  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +2  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +4, Stealth +2**
 
@@ -416,11 +406,10 @@ Slashing damage plus 2 (1d4) Cold damage. Cold Breath (Recharge 5–6). Constitu
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 15 | +2 | +2 |
 
 **Skills Perception +3, Stealth +4**
 
@@ -462,11 +451,10 @@ Life Drain. Constitution Saving Throw: DC 13, one creature within 5 feet. Failur
 
 **Speed 5 ft., Fly 50 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 1 | −5 | −5 | **Dex** 28 | +9 | +9 | **Con** 10 | +0 | +0 |
-| **Int** 13 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 1  | −5  |  −5  | **Dex** 28 | +9  |  +9  | **Con** 10 | +0 | +0 |
+| **Int** 13 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 11 | +0 | +0 |
 
 **Resistances Acid, Bludgeoning, Cold, Fire, Necrotic,**
 
@@ -510,11 +498,10 @@ Vanish. The wisp and its light have the Invisible condition until the wisp’s C
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 13 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 7 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 13 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 7  | −2  |  −2  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +5, Stealth +5**
 
@@ -546,11 +533,10 @@ Piercing damage. If the target is a Large or smaller creature, it has the Prone 
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 7 | −2 | −2 | **Wis** 11 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 7  | −2  |  −2  | **Wis** 11 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +4**
 
@@ -576,11 +562,10 @@ Advantage. Wraith
 
 **Speed 5 ft., Fly 60 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 16 | +3 | +3 | **Con** 16 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6  | −2  |  −2  | **Dex** 16 | +3  |  +3  | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 15 | +2 | +2 |
 
 **Resistances Acid, Bludgeoning, Cold, Fire, Piercing,**
 
@@ -618,11 +603,10 @@ Create Specter. The wraith targets a Humanoid corpse within 10 feet of itself th
 
 **Speed 30 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 5 | −3 | −3 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 5  | −3  |  −3  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +4**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/FanaticoSectario|Fanático sectario (Español)
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +4 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 14 | +2  |  +4  | **Cha** 13 | +1 | +1 |
 
 **Skills Deception +3, Persuasion +3, Religion +2**
 

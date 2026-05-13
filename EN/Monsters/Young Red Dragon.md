@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonRojoJoven|Dragón rojo joven (Español)]
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 10 | +0 | +4 | **Con** 21 | +5 | +5 |
-| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +4 | **Cha** 19 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 10 | +0  |  +4  | **Con** 21 | +5 | +5 |
+| **Int** 14 | +2  |  +2  | **Wis** 11 | +0  |  +4  | **Cha** 19 | +4 | +4 |
 
 **Skills Perception +8, Stealth +4**
 

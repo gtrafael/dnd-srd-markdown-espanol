@@ -3,6 +3,7 @@ aliases: ["Divine Smite"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CastigoDivino|Castigo divino (Español)]]"
 ---
+
 ### Divine Smite
 
 *Level 1 Evocation* (Paladin)

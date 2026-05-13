@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Asesino|Asesino (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 18 | +4 | +7 | **Con** 14 | +2 | +2 |
-| **Int** 16 | +3 | +6 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 18 | +4  |  +7  | **Con** 14 | +2 | +2 |
+| **Int** 16 | +3  |  +6  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Acrobatics +7, Perception +6, Stealth +10**
 

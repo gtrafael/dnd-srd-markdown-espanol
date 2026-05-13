@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonNegro|Cría de dragón negro (Espa
 
 **Speed 30 ft., Fly 60 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +4 | **Con** 13 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +2 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +4  | **Con** 13 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +2  | **Cha** 13 | +1 | +1 |
 
 **Skills Perception +4, Stealth +4**
 

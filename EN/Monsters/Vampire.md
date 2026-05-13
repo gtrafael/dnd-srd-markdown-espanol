@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Vampiro|Vampiro (Español)]]"
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 18 | +4 | +9 | **Con** 18 | +4 | +9 |
-| **Int** 17 | +3 | +3 | **Wis** 15 | +2 | +7 | **Cha** 18 | +4 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 18 | +4  |  +9  | **Con** 18 | +4 | +9 |
+| **Int** 17 | +3  |  +3  | **Wis** 15 | +2  |  +7  | **Cha** 18 | +4 | +9 |
 
 **Skills Perception +7, Stealth +9**
 

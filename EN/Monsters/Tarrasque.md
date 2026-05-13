@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Tarasca|Tarasca (Español)]]"
 
 **Speed 60 ft., Burrow 40 ft., Climb 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 30 | +10 | +10 | **Dex** 11 | +0 | +9 | **Con** 30 | +10 | +10 |
-| **Int** 3 | −4 | +5 | **Wis** 11 | +0 | +9 | **Cha** 11 | +0 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 30 | +10 | +10  | **Dex** 11 | +0  |  +9  | **Con** 30 | +10 | +10 |
+| **Int** 3  | −4  |  +5  | **Wis** 11 | +0  |  +9  | **Cha** 11 | +0 | +9 |
 
 **Skills Perception +9**
 

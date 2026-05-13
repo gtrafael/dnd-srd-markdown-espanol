@@ -12,15 +12,14 @@ Este cubo mide aproximadamente 2,5 cm de lado. Cada cara tiene un signo específ
 
 El cubo comienza con 10 cargas y recupera 1d6 cargas empleadas cada día, al amanecer.
 
-
 **Caras del cubo de fuerza**
 
-| Conjuro | Coste en cargas |
-|---|---:|
-| Armadura de mago | 1 |
-| Escudo | 1 |
-| Pequeña choza | 3 |
-| Esfera elástica | 4 |
-| Sanctasanctórum privado | 4 |
-| Muro de fuerza | 5 |
+| Conjuro                 | Coste en cargas |
+|-------------------------|----------------:|
+| Armadura de mago        |               1 |
+| Escudo                  |               1 |
+| Pequeña choza           |               3 |
+| Esfera elástica         |               4 |
+| Sanctasanctórum privado |               4 |
+| Muro de fuerza          |               5 |
 

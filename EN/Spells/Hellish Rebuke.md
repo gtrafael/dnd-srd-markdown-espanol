@@ -3,6 +3,7 @@ aliases: ["Hellish Rebuke"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ReprensionInfernal|Reprensión infernal (Español)]]"
 ---
+
 ### Hellish Rebuke
 
 *Level 1 Evocation* (Warlock)

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Deva|Deva (Español)]]"
 
 **Speed 30 ft., Fly 90 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 18 | +4 | +4 | **Con** 18 | +4 | +4 |
-| **Int** 17 | +3 | +3 | **Wis** 20 | +5 | +9 | **Cha** 20 | +5 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 18 | +4  |  +4  | **Con** 18 | +4 | +4 |
+| **Int** 17 | +3  |  +3  | **Wis** 20 | +5  |  +9  | **Cha** 20 | +5 | +9 |
 
 **Skills Insight +9, Perception +9**
 

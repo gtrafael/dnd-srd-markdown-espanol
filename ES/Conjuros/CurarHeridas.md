@@ -16,9 +16,9 @@ related_en: "[[Spells/Cure Wounds|Cure Wounds (EN)]]"
 
 **Duración:** Instantáneo
 
-Una criatura a la que toques recupera una cantidad de puntos de golpe igual a 2d8 más tu modificador por aptitud mágica. 
+Una criatura a la que toques recupera una cantidad de puntos de golpe igual a 2d8 más tu modificador por aptitud mágica.
 
-**Con un espacio de conjuro de nivel superior.** 
+**Con un espacio de conjuro de nivel superior.**
 
 La curación aumenta en 2d8 por cada nivel por encima de 1 que tenga el espacio. 
 

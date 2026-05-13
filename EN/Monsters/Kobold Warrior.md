@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GuerreroKobold|Guerrero Kobold (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 7 | −2 | −2 | **Dex** 15 | +2 | +2 | **Con** 9 | −1 | −1 |
-| **Int** 8 | −1 | −1 | **Wis** 7 | −2 | −2 | **Cha** 8 | −1 | −1 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 7 | −2  |  −2  | **Dex** 15 | +2  |  +2  | **Con** 9 | −1 | −1 |
+| **Int** 8 | −1  |  −1  | **Wis** 7  | −2  |  −2  | **Cha** 8 | −1 | −1 |
 
 **Gear Daggers (3)**
 

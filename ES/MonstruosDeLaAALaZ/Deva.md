@@ -17,13 +17,13 @@ related_en: "[[Monsters/Deva|Deva (EN)]]"
 **Velocidad:** 9 m, volar 27 m (levitar)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 18 | +4 | +4 |
-| CON | 18 | +4 | +4 |
-| INT | 17 | +3 | +3 |
-| SAB | 20 | +5 | +9 |
-| CAR | 20 | +5 | +9 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    18 |  +4 |   +4 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |    17 |  +3 |   +3 |
+| SAB   |    20 |  +5 |   +9 |
+| CAR   |    20 |  +5 |   +9 |
 
 **Habilidades:** Percepción +9, Perspicacia +9
 

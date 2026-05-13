@@ -16,7 +16,7 @@ related_en: "[[Spells/Heal|Heal (EN)]]"
 
 **Duración:** Instantáneo
 
-Elige a una criatura que puedas ver dentro del alcance. Una energía positiva la recorre y hace que recupere 70 puntos de golpe. El conjuro también elimina los estados de cegado, ensordecido y envenenado del objetivo. 
+Elige a una criatura que puedas ver dentro del alcance. Una energía positiva la recorre y hace que recupere 70 puntos de golpe. El conjuro también elimina los estados de cegado, ensordecido y envenenado del objetivo.
 
 **Con un espacio de conjuro de nivel superior.**
 

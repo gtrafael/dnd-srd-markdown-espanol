@@ -3,6 +3,7 @@ aliases: ["Swarm of Venomous Snakes"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EnjambreDeSerpientesVenenosas|Enjambre de serpientes venenosas (Español)]]"
 ---
+
 ## Swarm of Venomous Snakes
 
 *Medium Swarm of Tiny Beasts, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/EnjambreDeSerpientesVenenosas|Enjambre de serpientes ven
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 18 | +4 | +4 | **Con** 11 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8 | −1  |  −1  | **Dex** 18 | +4  |  +4  | **Con** 11 | +0 | +0 |
+| **Int** 1 | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Oni|Oni (EN)]]"
 **Velocidad:** 9 m, volar 9 m (levitar)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 11 | +0 | +3 |
-| CON | 16 | +3 | +6 |
-| INT | 14 | +2 | +2 |
-| SAB | 12 | +1 | +4 |
-| CAR | 15 | +2 | +5 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    11 |  +0 |   +3 |
+| CON   |    16 |  +3 |   +6 |
+| INT   |    14 |  +2 |   +2 |
+| SAB   |    12 |  +1 |   +4 |
+| CAR   |    15 |  +2 |   +5 |
 
 **Habilidades:** Conocimiento arcano +5, Engaño +8, Percepción +4
 

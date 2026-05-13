@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonAzulAdulto|Dragón azul adulto (Español
 
 **Speed 40 ft., Burrow 30 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 25 | +7 | +7 | **Dex** 10 | +0 | +5 | **Con** 23 | +6 | +6 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +7 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 25 | +7  |  +7  | **Dex** 10 | +0  |  +5  | **Con** 23 | +6 | +6 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +7  | **Cha** 20 | +5 | +5 |
 
 **Skills Perception +12, Stealth +5**
 

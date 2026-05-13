@@ -3,6 +3,7 @@ aliases: ["Ice Storm"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/TormentaDeHielo|Tormenta de hielo (Español)]]"
 ---
+
 ### Ice Storm
 
 *Level 4 Evocation* (Druid, Sorcerer, Wizard)

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/SiervoDeVampiro|Siervo de vampiro (Español)]]
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 16 | +3 | +5 | **Con** 15 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +2 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 16 | +3  |  +5  | **Con** 15 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +2  | **Cha** 14 | +2 | +2 |
 
 **Skills Perception +4, Persuasion +4, Stealth +7**
 

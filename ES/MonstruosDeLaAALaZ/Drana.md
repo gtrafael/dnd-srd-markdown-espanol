@@ -17,13 +17,13 @@ related_en: "[[Monsters/Drider|Drider (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 19 | +4 | +4 |
-| CON | 18 | +4 | +4 |
-| INT | 13 | +1 | +1 |
-| SAB | 16 | +3 | +3 |
-| CAR | 12 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    19 |  +4 |   +4 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |    13 |  +1 |   +1 |
+| SAB   |    16 |  +3 |   +3 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Habilidades:** Percepción +6, Sigilo +10
 

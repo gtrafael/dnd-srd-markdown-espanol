@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Ankheg|Ankheg (Español)]]"
 
 **Speed 30 ft., Burrow 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 11 | +0 | +0 | **Con** 14 | +2 | +2 |
-| **Int** 1 | −5 | −5 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 11 | +0  |  +0  | **Con** 14 | +2 | +2 |
+| **Int** 1  | −5  |  −5  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Darkvision 60 ft., Tremorsense 60 ft.;**
 

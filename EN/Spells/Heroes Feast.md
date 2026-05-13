@@ -3,6 +3,7 @@ aliases: ["Heroes Feast"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/FestinDeHeroes|Festín de héroes (Español)]]"
 ---
+
 ### Heroes’ Feast
 
 *Level 6 Conjuration* (Bard, Cleric, Druid)

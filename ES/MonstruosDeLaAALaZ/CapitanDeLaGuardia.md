@@ -17,13 +17,13 @@ related_en: "[[Monsters/Guard Captain|Guard Captain (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 14 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| SAB | 14 | +2 | +2 |
-| CAR | 13 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |    13 |  +1 |   +1 |
 
 **Habilidades:** Atletismo +6, Percepción +4
 

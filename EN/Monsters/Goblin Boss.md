@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/JefeGoblin|Jefe goblin (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 8 | −1 | −1 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 8  | −1  |  −1  | **Cha** 10 | +0 | +0 |
 
 **Skills Stealth +6**
 

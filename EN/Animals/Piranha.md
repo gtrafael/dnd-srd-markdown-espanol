@@ -3,6 +3,7 @@ aliases: ["Piranha"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Pirana|Piraña (Español)]]"
 ---
+
 ## Piranha
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Pirana|Piraña (Español)]]"
 
 **Speed 5 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 16 | +3 | +3 | **Con** 9 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 7 | −2 | −2 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 16 | +3  |  +3  | **Con** 9 | −1 | −1 |
+| **Int** 1 | −5  |  −5  | **Wis** 7  | −2  |  −2  | **Cha** 2 | −4 | −4 |
 
 **Senses Darkvision 60 ft.; Passive Perception 8**
 

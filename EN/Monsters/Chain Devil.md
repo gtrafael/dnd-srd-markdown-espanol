@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DiabloDeLasCadenas|Diablo de las cadenas (Espa
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 18 | +4 | +7 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +4 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 18 | +4 | +7 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +4  | **Cha** 14 | +2 | +2 |
 
 **Resistances Bludgeoning, Cold, Piercing, Slashing**
 

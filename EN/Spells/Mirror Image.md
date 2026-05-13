@@ -3,6 +3,7 @@ aliases: ["Mirror Image"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ImagenMultiple|Imagen múltiple (Español)]]"
 ---
+
 ### Mirror Image
 
 *Level 2 Illusion* (Bard, Sorcerer, Warlock, Wizard)

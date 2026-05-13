@@ -15,13 +15,13 @@ related_en: "[[Monsters/Adult Silver Dragon|Adult Silver Dragon (EN)]]"
 **Velocidad:** 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 27 | +8 | +8 |
-| DES | 10 | +0 | +5 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| SAB | 13 | +1 | +6 |
-| CAR | 22 | +6 | +6 |
+|-------|------:|----:|-----:|
+| FUE   |    27 |  +8 |   +8 |
+| DES   |    10 |  +0 |   +5 |
+| CON   |    25 |  +7 |   +7 |
+| INT   |    16 |  +3 |   +3 |
+| SAB   |    13 |  +1 |   +6 |
+| CAR   |    22 |  +6 |   +6 |
 
 **Habilidades:** Historia +8, Percepción +11, Sigilo +5
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GiganteDeLasColinas|Gigante de las colinas (Es
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 19 | +4 | +4 |
-| **Int** 5 | −3 | −3 | **Wis** 9 | −1 | −1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 8 | −1  |  −1  | **Con** 19 | +4 | +4 |
+| **Int** 5  | −3  |  −3  | **Wis** 9 | −1  |  −1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +2**
 

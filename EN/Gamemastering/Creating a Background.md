@@ -3,6 +3,7 @@ aliases: ["Creating a Background"]
 tags: [srd, english, tag_gamemastering]
 related_es: "[[HerramientasDelJuego/CrearUnTrasfondo|CrearUnTrasfondo (Español)]]"
 ---
+
 # Creating a Background
 
 A character's background represents what the character did prior to becoming an adventurer. Creating a unique background or customizing an existing one can reflect the particular theme of your campaign or elements of your world. You can also create a background to help a player craft the story they have in mind for their character.

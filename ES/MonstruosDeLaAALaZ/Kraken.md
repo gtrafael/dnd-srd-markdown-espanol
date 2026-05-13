@@ -17,13 +17,13 @@ related_en: "[[Monsters/Kraken|Kraken (EN)]]"
 **Velocidad:** 9 m, nadar 36 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 30 | +10 | +17 |
-| DES | 11 | +0 | +7 |
-| CON | 26 | +8 | +15 |
-| INT | 22 | +6 | +6 |
-| SAB | 18 | +4 | +11 |
-| CAR | 20 | +5 | +5 |
+|-------|------:|----:|-----:|
+| FUE   |    30 | +10 |  +17 |
+| DES   |    11 |  +0 |   +7 |
+| CON   |    26 |  +8 |  +15 |
+| INT   |    22 |  +6 |   +6 |
+| SAB   |    18 |  +4 |  +11 |
+| CAR   |    20 |  +5 |   +5 |
 
 **Habilidades:** Historia +13, Percepción +11
 

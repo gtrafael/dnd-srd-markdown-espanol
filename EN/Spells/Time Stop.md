@@ -3,6 +3,7 @@ aliases: ["Time Stop"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/PararElTiempo|Parar el tiempo (Español)]]"
 ---
+
 ### Time Stop
 
 *Level 9 Transmutation* (Sorcerer, Wizard)

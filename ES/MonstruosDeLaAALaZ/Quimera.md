@@ -17,13 +17,14 @@ related_en: "[[Monsters/Chimera|Chimera (EN)]]"
 **Velocidad:** 9 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 11 | +0 | +0 |
-| CON | 19 | +4 | +4 |
-| INT | 3 | -4 | -4 |
-| SAB | 14 | +2 | +2 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    19 |  +4 |   +4 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    14 |  +2 |   +2 |
+| CAR   |    10 |  +0 |   +0 |
+
 **Habilidades:** Percepción +8
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 18

@@ -17,13 +17,13 @@ related_en: "[[Animals/Black Bear|Black Bear (EN)]]"
 **Velocidad:** 9 m, nadar 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 15 | +2 | +2 |
-| DES | 12 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    15 |  +2 |   +2 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Percepción +5
 

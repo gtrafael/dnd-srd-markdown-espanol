@@ -3,6 +3,7 @@ aliases: ["Dissonant Whispers"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/SusurrosDiscordantes|Susurros discordantes (Español)]]"
 ---
+
 ### Dissonant Whispers
 
 *Level 1 Enchantment* (Bard)

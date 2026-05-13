@@ -8,11 +8,10 @@
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 24 | +7 | +10 | **Dex** 9 | −1 | −1 | **Con** 21 | +5 | +8 |
-| **Int** 3 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 24 | +7  | +10  | **Dex** 9  | −1  |  −1  | **Con** 21 | +5 | +8 |
+| **Int** 3  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Senses Passive Perception 10**
 
@@ -42,11 +41,10 @@ Trample. Dexterity Saving Throw: DC 18, one creature within 5 feet that has the 
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +3 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +3  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +5**
 
@@ -72,11 +70,10 @@ Piercing damage. If the target is a Medium or smaller creature, it has the Prone
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +4 | **Dex** 10 | +0 | +0 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Senses Passive Perception 10**
 

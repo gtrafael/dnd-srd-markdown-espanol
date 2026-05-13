@@ -3,6 +3,7 @@ aliases: ["Forbiddance"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Prohibicion|Prohibición (Español)]]"
 ---
+
 ### Forbiddance
 
 *Level 6 Abjuration* (Cleric)

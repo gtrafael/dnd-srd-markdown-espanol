@@ -16,9 +16,9 @@ related_en: "[[Spells/Fog Cloud|Fog Cloud (EN)]]"
 
 **Duración:** Concentración, hasta 1 hora
 
-Creas una esfera de niebla de 6 m de radio centrada en un punto dentro del alcance. La esfera está muy oscura y dura hasta que el conjuro termine o hasta que la disperse un viento fuerte (por ejemplo, el que crea ráfaga de viento). 
+Creas una esfera de niebla de 6 m de radio centrada en un punto dentro del alcance. La esfera está muy oscura y dura hasta que el conjuro termine o hasta que la disperse un viento fuerte (por ejemplo, el que crea ráfaga de viento).
 
-**Con un espacio de conjuro de nivel superior.** 
+**Con un espacio de conjuro de nivel superior.**
 
 El radio de la niebla aumenta en 6 m por cada nivel por encima de 1 que tenga el espacio. 
 

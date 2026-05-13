@@ -3,6 +3,7 @@ aliases: ["Expeditious Retreat"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RetiradaExpeditiva|Retirada expeditiva (Español)]]"
 ---
+
 ### Expeditious Retreat
 
 *Level 1 Transmutation* (Sorcerer, Warlock, Wizard)

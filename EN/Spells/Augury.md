@@ -3,6 +3,7 @@ aliases: ["Augury"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Augurio|Augurio (Español)]]"
 ---
+
 ### Augury
 
 *Level 2 Divination* (Cleric, Druid, Wizard)

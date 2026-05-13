@@ -3,6 +3,7 @@ aliases: ["Hypnotic Pattern"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/PatronHipnotico|Patrón hipnótico (Español)]]"
 ---
+
 ### Hypnotic Pattern
 
 *Level 3 Illusion* (Bard, Sorcerer, Warlock, Wizard)

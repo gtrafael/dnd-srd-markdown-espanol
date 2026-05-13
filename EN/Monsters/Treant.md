@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Ent|Ent (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 8 | −1 | −1 | **Con** 21 | +5 | +5 |
-| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 8  | −1  |  −1  | **Con** 21 | +5 | +5 |
+| **Int** 12 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 12 | +1 | +1 |
 
 Vulnerabilities Fire Resistances Bludgeoning, Piercing Senses Passive Perception 13 Languages Common, Druidic, Elvish, Sylvan
 

@@ -15,13 +15,13 @@ related_en: "[[Monsters/Sea Hag|Sea Hag (EN)]]"
 **Velocidad:** 9 m, nadar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 13 | +1 | +1 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| SAB | 12 | +1 | +1 |
-| CAR | 13 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |    13 |  +1 |   +1 |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11
 

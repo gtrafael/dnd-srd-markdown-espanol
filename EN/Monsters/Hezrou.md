@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Hezrou|Hezrou (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +7 | **Dex** 17 | +3 | +3 | **Con** 20 | +5 | +8 |
-| **Int** 5 | −3 | −3 | **Wis** 12 | +1 | +4 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +7  | **Dex** 17 | +3  |  +3  | **Con** 20 | +5 | +8 |
+| **Int** 5  | −3  |  −3  | **Wis** 12 | +1  |  +4  | **Cha** 13 | +1 | +1 |
 
 **Resistances Cold, Fire, Lightning**
 

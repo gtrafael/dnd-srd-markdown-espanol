@@ -17,13 +17,14 @@ related_en: "[[Monsters/Pseudodragon|Pseudodragon (EN)]]"
 **Velocidad:** 4,5 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 6 | -2 | -2 |
-| DES | 15 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| SAB | 12 | +1 | +1 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |     6 |  -2 |   -2 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |    10 |  +0 |   +0 |
+
 **Habilidades:** Percepción +5, Sigilo +4
 
 **Sentidos:** visión ciega 3 m, visión en la oscuridad 18 m; Percepción pasiva 15

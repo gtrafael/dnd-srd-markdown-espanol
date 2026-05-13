@@ -13,11 +13,10 @@ tags: [srd, english, tag_monsters]
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 10 | +0 | +0 | **Con** 10 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 3 | −4 | −4 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 10 | +0  |  +0  | **Con** 10 | +0 | +0 |
+| **Int** 3  | −4  |  −4  | **Wis** 3  | −4  |  −4  | **Cha** 1 | −5 | −5 |
 
 **Immunities Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned**
 

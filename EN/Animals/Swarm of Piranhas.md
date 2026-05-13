@@ -3,6 +3,7 @@ aliases: ["Swarm of Piranhas"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EnjambreDePiranas|Enjambre de pirañas (Español)]]"
 ---
+
 ## Swarm of Piranhas
 
 *Medium Swarm of Tiny Beasts, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/EnjambreDePiranas|Enjambre de pirañas (Español)]]"
 
 **Speed 5 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 16 | +3 | +3 | **Con** 9 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 7 | −2 | −2 | **Cha** 2 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 16 | +3  |  +3  | **Con** 9 | −1 | −1 |
+| **Int** 1  | −5  |  −5  | **Wis** 7  | −2  |  −2  | **Cha** 2 | −4 | −4 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

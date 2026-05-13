@@ -3,6 +3,7 @@ aliases: ["Dominate Beast"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DominarBestia|Dominar bestia (Español)]]"
 ---
+
 ### Dominate Beast
 
 *Level 4 Enchantment* (Druid, Ranger, Sorcerer)

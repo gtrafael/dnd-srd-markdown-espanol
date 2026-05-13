@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Octopus|Giant Octopus (EN)]]"
 **Velocidad:** 3 m, nadar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 13 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 5 | -3 | -3 |
-| SAB | 10 | +0 | +0 |
-| CAR | 4 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     4 |  -3 |   -3 |
 
 **Habilidades:** Percepción +4, Sigilo +5
 

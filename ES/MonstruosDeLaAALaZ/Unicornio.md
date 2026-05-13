@@ -17,13 +17,13 @@ related_en: "[[Monsters/Unicorn|Unicorn (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 14 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 11 | +0 | +0 |
-| SAB | 17 | +3 | +3 |
-| CAR | 16 | +3 | +3 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    17 |  +3 |   +3 |
+| CAR   |    16 |  +3 |   +3 |
 
 **Inmunidades:** veneno; envenenado, hechizado, paralizado
 

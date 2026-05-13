@@ -17,13 +17,13 @@ related_en: "[[Monsters/Werewolf|Werewolf (EN)]]"
 **Velocidad:** 9 m, 12 m (solo en forma de lobo)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| SAB | 11 | +0 | +0 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |    10 |  +0 |   +0 |
 
 **Habilidades:** Percepción +4, Sigilo +4
 

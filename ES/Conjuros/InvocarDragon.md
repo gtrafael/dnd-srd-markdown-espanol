@@ -16,11 +16,11 @@ related_en: "[[Spells/Summon Dragon|Summon Dragon (EN)]]"
 
 **Duración:** Concentración, hasta 1 hora
 
-**Invocas el espíritu de un dragón, que se manifiesta en un espacio sin ocupar que puedas ver dentro del alcance y usa el perfil del espíritu dracónico.** La criatura desaparecerá si sus puntos de golpe se reducen a 0 o si el conjuro termina. 
+**Invocas el espíritu de un dragón, que se manifiesta en un espacio sin ocupar que puedas ver dentro del alcance y usa el perfil del espíritu dracónico.** La criatura desaparecerá si sus puntos de golpe se reducen a 0 o si el conjuro termina.
 
-La criatura se considera un aliado para tus aliados y para ti. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo, obedece tus órdenes verbales (no requiere acción) y, si no le das ninguna, realiza la acción de esquivar y usa su movimiento para evitar el peligro. 
+La criatura se considera un aliado para tus aliados y para ti. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo, obedece tus órdenes verbales (no requiere acción) y, si no le das ninguna, realiza la acción de esquivar y usa su movimiento para evitar el peligro.
 
-**Con un espacio de conjuro de nivel superior.** Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil. 
+**Con un espacio de conjuro de nivel superior.** Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil.
 
 # Espíritu dracónico
 
@@ -40,6 +40,7 @@ Dragón Grande, neutral
 | INT   |    10 |  +0 |   +0 |
 | SAB   |    14 |  +2 |   +2 |
 | CAR   |    14 |  +2 |   +2 |
+
 **Resistencias:** ácido, frío, fuego, relámpago, veneno
 
 **Inmunidades:** asustado, envenenado, hechizado
@@ -52,8 +53,7 @@ Dragón Grande, neutral
 
 ## Atributos
 
-**Resistencias compartidas.** Cuando invoques al espíritu, elige una de sus resistencias. Tienes resistencia al tipo
-de daño elegido hasta que el conjuro termine.
+**Resistencias compartidas.** Cuando invoques al espíritu, elige una de sus resistencias. Tienes resistencia al tipo de daño elegido hasta que el conjuro termine.
 
 ## Acciones
 
@@ -62,5 +62,4 @@ de daño elegido hasta que el conjuro termine.
 
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: bonificador igual a tu modificador de ataque de conjuros, alcance 3 m. Acierto: 1d6 + 4 + el nivel del conjuro de daño perforante.
 
-**Ataque de aliento.** *Tirada de salvación de Destreza:* CD igual a tu CD de salvación de conjuros, todas las criaturas en un cono de 9 m. Fallo: 2d6 de daño de un tipo al
-que este espíritu tenga resistencia (a tu elección cuando lanzas el conjuro). Éxito: la mitad del daño.
+**Ataque de aliento.** *Tirada de salvación de Destreza:* CD igual a tu CD de salvación de conjuros, todas las criaturas en un cono de 9 m. Fallo: 2d6 de daño de un tipo al que este espíritu tenga resistencia (a tu elección cuando lanzas el conjuro). Éxito: la mitad del daño.

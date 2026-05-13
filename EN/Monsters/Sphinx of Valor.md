@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/EsfingeDelValor|Esfinge del valor (Español)]]
 
 **Speed 40 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 10 | +0 | +6 | **Con** 20 | +5 | +11 |
-| **Int** 16 | +3 | +9 | **Wis** 23 | +6 | +12 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 10 | +0  |  +6  | **Con** 20 | +5 | +11 |
+| **Int** 16 | +3  |  +9  | **Wis** 23 | +6  | +12  | **Cha** 18 | +4 | +4 |
 
 **Skills Arcana +9, Perception +12, Religion +15**
 

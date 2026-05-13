@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/SabuesoInfernal|Sabueso infernal (Español)]]"
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +5**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Aparicion|Aparición (Español)]]"
 
 **Speed 5 ft., Fly 60 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 16 | +3 | +3 | **Con** 16 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6  | −2  |  −2  | **Dex** 16 | +3  |  +3  | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 15 | +2 | +2 |
 
 **Resistances Acid, Bludgeoning, Cold, Fire, Piercing,**
 

@@ -3,6 +3,7 @@ aliases: ["Hunter Shark"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TiburonCazador|Tiburón cazador (Español)]]"
 ---
+
 ## Hunter Shark
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/TiburonCazador|Tiburón cazador (Español)]]"
 
 **Speed 5 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 15 | +2 | +2 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 15 | +2 | +2 |
+| **Int** 1  | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +2**
 

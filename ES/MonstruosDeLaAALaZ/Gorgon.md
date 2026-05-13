@@ -15,13 +15,13 @@ related_en: "[[Monsters/Gorgon|Gorgon (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 20 | +5 | +5 |
-| DES | 11 | +0 | +0 |
-| CON | 18 | +4 | +4 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    20 |  +5 |   +5 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Percepción +7
 

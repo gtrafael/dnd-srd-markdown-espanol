@@ -17,13 +17,13 @@ related_en: "[[Monsters/Quasit|Quasit (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 5 | -3 | -3 |
-| DES | 17 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 7 | -2 | -2 |
-| SAB | 10 | +0 | +0 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |     5 |  -3 |   -3 |
+| DES   |    17 |  +3 |   +3 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     7 |  -2 |   -2 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    10 |  +0 |   +0 |
 
 **Habilidades:** Sigilo +5
 

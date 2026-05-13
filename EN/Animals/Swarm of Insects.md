@@ -3,6 +3,7 @@ aliases: ["Swarm of Insects"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EnjambreDeInsectos|Enjambre de insectos (Español)]]"
 ---
+
 ## Swarm of Insects
 
 *Medium Swarm of Tiny Beasts, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/EnjambreDeInsectos|Enjambre de insectos (Español)]]"
 
 **Speed 20 ft., Climb or Fly 20 ft. (GM’s choice)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 13 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 1 | −5 | −5 | **Wis** 7 | −2 | −2 | **Cha** 1 | −5 | −5 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3 | −4  |  −4  | **Dex** 13 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 1 | −5  |  −5  | **Wis** 7  | −2  |  −2  | **Cha** 1 | −5 | −5 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

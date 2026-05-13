@@ -3,6 +3,7 @@ aliases: ["Giant Bat"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/MurcielagoGigante|Murciélago gigante (Español)]]"
 ---
+
 ## Giant Bat
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/MurcielagoGigante|Murciélago gigante (Español)]]"
 
 **Speed 10 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 16 | +3  |  +3  | **Con** 11 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Blindsight 120 ft.; Passive Perception 11**
 

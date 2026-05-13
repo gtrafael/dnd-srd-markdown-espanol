@@ -17,13 +17,13 @@ related_en: "[[Monsters/Sprite|Sprite (EN)]]"
 **Velocidad:** 3 m, volar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 3 | -4 | -4 |
-| DES | 18 | +4 | +4 |
-| CON | 10 | — | — |
-| INT | 14 | +2 | +2 |
-| SAB | 13 | +1 | +1 |
-| CAR | 11 | — | — |
+|-------|------:|----:|-----:|
+| FUE   |     3 |  -4 |   -4 |
+| DES   |    18 |  +4 |   +4 |
+| CON   |    10 |   — |    — |
+| INT   |    14 |  +2 |   +2 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |    11 |   — |    — |
 
 **Habilidades:** Percepción +3, Sigilo +8
 

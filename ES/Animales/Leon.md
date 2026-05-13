@@ -17,13 +17,13 @@ related_en: "[[Animals/Lion|Lion (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Habilidades:** Percepción +3, Sigilo +4
 

@@ -3,20 +3,21 @@ aliases: ["Rogue"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Picaro|Picaro (Español)]]"
 ---
+
 # Rogue
 
 ## Core Rogue Traits
 
-| Trait | Details |
-|---|---|
-| Primary Ability | Dexterity |
-| Hit Point Die | D8 per Rogue level |
-| Saving Throw Proficiencies | Dexterity and Intelligence |
-| Skill Proficiencies | Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
-| Weapon Proficiencies | Simple weapons and Martial weapons that have the Finesse or Light property |
-| Tool Proficiencies | Thieves' Tools |
-| Armor Training | Light armor |
-| Starting Equipment | Choose A or B: (A) Leather Armor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP |
+| Trait                      | Details                                                                                                                                       |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Primary Ability            | Dexterity                                                                                                                                     |
+| Hit Point Die              | D8 per Rogue level                                                                                                                            |
+| Saving Throw Proficiencies | Dexterity and Intelligence                                                                                                                    |
+| Skill Proficiencies        | Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth         |
+| Weapon Proficiencies       | Simple weapons and Martial weapons that have the Finesse or Light property                                                                    |
+| Tool Proficiencies         | Thieves' Tools                                                                                                                                |
+| Armor Training             | Light armor                                                                                                                                   |
+| Starting Equipment         | Choose A or B: (A) Leather Armor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP |
 
 ## Becoming a Rogue ...
 
@@ -36,28 +37,28 @@ As a Rogue, you gain the following class features when you reach the specified R
 
 ## Rogue Features
 
-| Level | Proficiency Bonus | Class Features | Sneak Attack |
-|---|---|---|---|
-| 1 | +2 | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery | 1d6 |
-| 2 | +2 | Cunning Action | 1d6 |
-| 3 | +2 | Rogue Subclass, Steady Aim | 2d6 |
-| 4 | +2 | Ability Score Improvement | 2d6 |
-| 5 | +3 | Cunning Strike, Uncanny Dodge | 3d6 |
-| 6 | +3 | Expertise | 3d6 |
-| 7 | +3 | Evasion, Reliable Talent | 4d6 |
-| 8 | +3 | Ability Score Improvement | 4d6 |
-| 9 | +4 | Subclass feature | 5d6 |
-| 10 | +4 | Ability Score Improvement | 5d6 |
-| 11 | +4 | Improved Cunning Strike | 6d6 |
-| 12 | +4 | Ability Score Improvement | 6d6 |
-| 13 | +5 | Subclass feature | 7d6 |
-| 14 | +5 | Devious Strikes | 7d6 |
-| 15 | +5 | Slippery Mind | 8d6 |
-| 16 | +5 | Ability Score Improvement | 8d6 |
-| 17 | +6 | Subclass feature | 9d6 |
-| 18 | +6 | Elusive | 9d6 |
-| 19 | +6 | Epic Boon | 10d6 |
-| 20 | +6 | Stroke of Luck | 10d6 |
+| Level | Proficiency Bonus | Class Features                                         | Sneak Attack |
+|-------|-------------------|--------------------------------------------------------|--------------|
+| 1     | +2                | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery | 1d6          |
+| 2     | +2                | Cunning Action                                         | 1d6          |
+| 3     | +2                | Rogue Subclass, Steady Aim                             | 2d6          |
+| 4     | +2                | Ability Score Improvement                              | 2d6          |
+| 5     | +3                | Cunning Strike, Uncanny Dodge                          | 3d6          |
+| 6     | +3                | Expertise                                              | 3d6          |
+| 7     | +3                | Evasion, Reliable Talent                               | 4d6          |
+| 8     | +3                | Ability Score Improvement                              | 4d6          |
+| 9     | +4                | Subclass feature                                       | 5d6          |
+| 10    | +4                | Ability Score Improvement                              | 5d6          |
+| 11    | +4                | Improved Cunning Strike                                | 6d6          |
+| 12    | +4                | Ability Score Improvement                              | 6d6          |
+| 13    | +5                | Subclass feature                                       | 7d6          |
+| 14    | +5                | Devious Strikes                                        | 7d6          |
+| 15    | +5                | Slippery Mind                                          | 8d6          |
+| 16    | +5                | Ability Score Improvement                              | 8d6          |
+| 17    | +6                | Subclass feature                                       | 9d6          |
+| 18    | +6                | Elusive                                                | 9d6          |
+| 19    | +6                | Epic Boon                                              | 10d6         |
+| 20    | +6                | Stroke of Luck                                         | 10d6         |
 
 ### Level 1: Expertise
 

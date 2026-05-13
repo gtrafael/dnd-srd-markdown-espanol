@@ -3,6 +3,7 @@ aliases: ["Enhance Ability"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/PotenciarCaracteristica|Potenciar característica (Español)]]"
 ---
+
 ### Enhance Ability
 
 *Level 2 Transmutation* (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)

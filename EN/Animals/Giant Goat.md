@@ -3,6 +3,7 @@ aliases: ["Giant Goat"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/CabraGigante|Cabra gigante (Español)]]"
 ---
+
 ## Giant Goat
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/CabraGigante|Cabra gigante (Español)]]"
 
 **Speed 40 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +5 | **Dex** 13 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +5  | **Dex** 13 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +3**
 

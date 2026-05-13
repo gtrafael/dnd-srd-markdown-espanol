@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/EngendroVampirico|Engendro vampírico (Españo
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 16 | +3 | +6 | **Con** 16 | +3 | +3 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 16 | +3  |  +6  | **Con** 16 | +3 | +3 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +3  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +3, Stealth +6**
 

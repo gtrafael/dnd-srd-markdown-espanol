@@ -8,11 +8,10 @@
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 9 | −1 | −1 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 17 | +3 | +6 | **Wis** 12 | +1 | +4 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 9  | −1  |  −1  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 17 | +3  |  +6  | **Wis** 12 | +1  |  +4  | **Cha** 11 | +0 | +0 |
 
 **Skills Arcana +6, History +6, Perception +4**
 
@@ -52,11 +51,10 @@ Protective Magic (3/Day). The mage casts Counterspell or Shield in response to t
 
 **Speed 30 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8 | −1  |  −1  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 7 | −2  |  −2  | **Wis** 10 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Stealth +3**
 
@@ -94,11 +92,10 @@ Fire Breath (Recharge 6). Dexterity Saving Throw: DC 11, each creature in a 15-f
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 7 | −2 | −2 | **Dex** 15 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 8 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 7 | −2  |  −2  | **Dex** 15 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 8 | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Immunities Fire**
 
@@ -134,11 +131,10 @@ Ignited Illumination. The magmin sets itself ablaze or extinguishes its flames. 
 
 **Speed 30 ft., Fly 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 16 | +3 | +3 | **Con** 17 | +3 | +3 |
-| **Int** 7 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 16 | +3  |  +3  | **Con** 17 | +3 | +3 |
+| **Int** 7  | −2  |  −2  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Senses Darkvision 60 ft.; Passive Perception 11**
 
@@ -168,11 +164,10 @@ Tail Spike. Ranged Attack Roll: +5, range 100/200 ft. Hit: 7 (1d8 + 3) Piercing 
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +9 | **Dex** 20 | +5 | +5 | **Con** 20 | +5 | +10 |
-| **Int** 18 | +4 | +4 | **Wis** 16 | +3 | +8 | **Cha** 20 | +5 | +10 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +9  | **Dex** 20 | +5  |  +5  | **Con** 20 | +5 | +10 |
+| **Int** 18 | +4  |  +4  | **Wis** 16 | +3  |  +8  | **Cha** 20 | +5 | +10 |
 
 **Skills Perception +8**
 
@@ -220,11 +215,10 @@ Parry. Trigger: The marilith is hit by a melee attack roll while holding a weapo
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 17 | +3 | +3 | **Con** 16 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 13 | +1 | +4 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 17 | +3  |  +3  | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 13 | +1  |  +4  | **Cha** 15 | +2 | +2 |
 
 **Skills Deception +5, Perception +4, Stealth +6**
 
@@ -262,11 +256,10 @@ Petrified condition instead of the Restrained condition. Mephits
 
 **Speed 10 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 13 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 11 | +0 | +0 | **Wis** 14 | +2 | +2 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 13 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 11 | +0  |  +0  | **Wis** 14 | +2  |  +2  | **Cha** 12 | +1 | +1 |
 
 **Senses Passive Perception 12**
 
@@ -292,11 +285,10 @@ Ocean Spear. Melee or Ranged Attack Roll: +2, reach 5 ft. or range 20/60 ft. Hit
 
 **Speed 10 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 15 | +2 | +2 |
-| **Int** 8 | −1 | −1 | **Wis** 10 | +0 | +0 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 15 | +2 | +2 |
+| **Int** 8  | −1  |  −1  | **Wis** 10 | +0  |  +0  | **Cha** 9 | −1 | −1 |
 
 **Senses Darkvision 60 ft.; Passive Perception 10**
 
@@ -330,11 +322,10 @@ Harpoon. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 20/60 ft. Hit: 11
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 15 | +2 | +2 |
-| **Int** 5 | −3 | −3 | **Wis** 13 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 15 | +2 | +2 |
+| **Int** 5  | −3  |  −3  | **Wis** 13 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Stealth +5**
 
@@ -374,11 +365,10 @@ Shape-Shift. The mimic shape-shifts to resemble a Medium or Small object while r
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 15 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 11 | +0  |  +0  | **Con** 15 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 8  | −1  |  −1  | **Cha** 5 | −3 | −3 |
 
 Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned
 
@@ -404,11 +394,10 @@ Slam. Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage. 
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 6 | −2 | −2 | **Wis** 16 | +3 | +3 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 11 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 6  | −2  |  −2  | **Wis** 16 | +3  |  +3  | **Cha** 9 | −1 | −1 |
 
 **Skills Perception +7, Survival +7**
 
@@ -432,11 +421,10 @@ Abyssal Glaive. Melee Attack Roll: +6, reach 10 ft. Hit: 10 (1d12 + 4) Slashing 
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 8 | −1 | −1 | **Con** 15 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 12 | +1 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 8  | −1  |  −1  | **Con** 15 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 12 | +1  |  +3  | **Cha** 12 | +1 | +1 |
 
 Vulnerabilities Fire Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 
@@ -464,11 +452,10 @@ Dreadful Glare. Wisdom Saving Throw: DC 11, one creature the mummy can see withi
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 17 | +3 | +3 |
-| **Int** 11 | +0 | +5 | **Wis** 19 | +4 | +9 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 10 | +0  |  +0  | **Con** 17 | +3 | +3 |
+| **Int** 11 | +0  |  +5  | **Wis** 19 | +4  |  +9  | **Cha** 16 | +3 | +3 |
 
 **Skills History +5, Perception +9, Religion +5**
 

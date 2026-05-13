@@ -3,6 +3,7 @@ aliases: ["Inflict Wounds"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/InfligirHeridas|Infligir heridas (Español)]]"
 ---
+
 ### Inflict Wounds
 
 *Level 1 Necromancy* (Cleric)

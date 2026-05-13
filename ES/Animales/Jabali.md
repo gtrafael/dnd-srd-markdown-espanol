@@ -17,13 +17,13 @@ related_en: "[[Animals/Boar|Boar (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 13 | +1 | +1 |
-| DES | 11 | +0 | +0 |
-| CON | 14 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| SAB | 9 | -1 | -1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    13 |  +1 |   +1 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |     9 |  -1 |   -1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Sentidos:** Percepción pasiva 9
 

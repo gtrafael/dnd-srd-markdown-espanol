@@ -15,13 +15,13 @@ related_en: "[[Monsters/Young Black Dragon|Young Black Dragon (EN)]]"
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 14 | +2 | +5 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| SAB | 11 | +0 | +3 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    14 |  +2 |   +5 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    11 |  +0 |   +3 |
+| CAR   |    15 |  +2 |   +2 |
 
 **Habilidades:** Percepción +6, Sigilo +5
 

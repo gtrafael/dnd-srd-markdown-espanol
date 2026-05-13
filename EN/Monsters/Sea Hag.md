@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/SagaDeLosMares|Saga de los mares (Español)]]"
 
 **Speed 30 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 16 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 12 | +1 | +1 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 12 | +1  |  +1  | **Cha** 13 | +1 | +1 |
 
 **Senses Darkvision 60 ft.; Passive Perception 11**
 

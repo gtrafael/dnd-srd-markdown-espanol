@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Dretch|Dretch (Español)]]"
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 11 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 5 | −3 | −3 | **Wis** 8 | −1 | −1 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 11 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 5  | −3  |  −3  | **Wis** 8  | −1  |  −1  | **Cha** 3 | −4 | −4 |
 
 **Resistances Cold, Fire, Lightning**
 

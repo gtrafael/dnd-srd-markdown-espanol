@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CapitanDeLaGuardia|Capitán de la guardia (Esp
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1  |  +1  | **Wis** 14 | +2  |  +2  | **Cha** 13 | +1 | +1 |
 
 **Skills Athletics +6, Perception +4**
 

@@ -3,6 +3,7 @@ aliases: ["Sacred Flame"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/LlamaSagrada|Llama sagrada (Español)]]"
 ---
+
 ### Sacred Flame
 
 *Evocation Cantrip* (Cleric)

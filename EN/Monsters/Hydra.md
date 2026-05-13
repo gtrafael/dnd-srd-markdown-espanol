@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Hidra|Hidra (Español)]]"
 
 **Speed 40 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 20 | +5 | +5 | **Dex** 12 | +1 | +1 | **Con** 20 | +5 | +5 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 20 | +5  |  +5  | **Dex** 12 | +1  |  +1  | **Con** 20 | +5 | +5 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +6**
 

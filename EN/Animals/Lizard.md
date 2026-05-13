@@ -3,6 +3,7 @@ aliases: ["Lizard"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Lagarto|Lagarto (Español)]]"
 ---
+
 ## Lizard
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Lagarto|Lagarto (Español)]]"
 
 **Speed 20 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 11 | +0 | +0 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 8 | −1 | −1 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 11 | +0  |  +0  | **Con** 10 | +0 | +0 |
+| **Int** 1 | −5  |  −5  | **Wis** 8  | −1  |  −1  | **Cha** 3 | −4 | −4 |
 
 **Senses Darkvision 30 ft.; Passive Perception 9**
 

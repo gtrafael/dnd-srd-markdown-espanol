@@ -17,13 +17,13 @@ related_en: "[[Monsters/Medusa|Medusa (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 17 | +3 | +3 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| SAB | 13 | +1 | +4 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    17 |  +3 |   +3 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    13 |  +1 |   +4 |
+| CAR   |    15 |  +2 |   +2 |
 
 **Habilidades:** Engaño +5, Percepción +4, Sigilo +6
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GusanoPurpura|Gusano púrpura (Español)]]"
 
 **Speed 50 ft., Burrow 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 28 | +9 | +9 | **Dex** 7 | −2 | −2 | **Con** 22 | +6 | +11 |
-| **Int** 1 | −5 | −5 | **Wis** 8 | −1 | +4 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 28 | +9  |  +9  | **Dex** 7 | −2  |  −2  | **Con** 22 | +6 | +11 |
+| **Int** 1  | −5  |  −5  | **Wis** 8 | −1  |  +4  | **Cha** 4 | −3 | −3 |
 
 **Senses Blindsight 30 ft., Tremorsense 60 ft.;**
 

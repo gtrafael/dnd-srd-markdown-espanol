@@ -16,7 +16,7 @@ related_en: "[[Spells/Circle of Death|Circle of Death (EN)]]"
 
 **Duración:** Instantáneo
 
-Una energía negativa se propaga en un radio de 18 m desde un punto que elijas dentro del alcance. Todas las criaturas situadas en la zona realizan una tirada de salvación de Constitución; sufrirán 8d8 de daño necrótico si la fallan o la mitad del daño si la superan. 
+Una energía negativa se propaga en un radio de 18 m desde un punto que elijas dentro del alcance. Todas las criaturas situadas en la zona realizan una tirada de salvación de Constitución; sufrirán 8d8 de daño necrótico si la fallan o la mitad del daño si la superan.
 
 **Con un espacio de conjuro de nivel superior.**
 

@@ -3,6 +3,7 @@ aliases: ["Antilife Shell"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CaparazonAntivida|Caparazón antivida (Español)]]"
 ---
+
 ### Antilife Shell
 
 *Level 5 Abjuration* (Druid)

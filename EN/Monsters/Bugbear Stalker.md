@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/AcechadorOsgo|Acechador osgo (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +4 |
-| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +3 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +4 |
+| **Int** 11 | +0  |  +0  | **Wis** 12 | +1  |  +3  | **Cha** 11 | +0 | +0 |
 
 **Skills Stealth +6, Survival +3**
 

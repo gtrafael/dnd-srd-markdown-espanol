@@ -3,6 +3,7 @@ aliases: ["Aid"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Auxilio|Auxilio (Español)]]"
 ---
+
 ### Aid
 
 *Level 2 Abjuration* (Bard, Cleric, Druid, Paladin, Ranger)

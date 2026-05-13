@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GuerreroOsgo|Guerrero osgo (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 13 | +1 | +1 |
-| **Int** 8 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 13 | +1 | +1 |
+| **Int** 8  | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 9 | −1 | −1 |
 
 **Skills Stealth +6, Survival +2**
 

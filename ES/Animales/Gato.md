@@ -17,13 +17,13 @@ related_en: "[[Animals/Cat|Cat (EN)]]"
 **Velocidad:** 12 m, trepar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 3 | -4 | -4 |
-| DES | 15 | +2 | +4 |
-| CON | 10 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |     3 |  -4 |   -4 |
+| DES   |    15 |  +2 |   +4 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Percepción +3, Sigilo +4
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Zombi|Zombi (Español)]]"
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 6 | −2 | −2 | **Con** 16 | +3 | +3 |
-| **Int** 3 | −4 | −4 | **Wis** 6 | −2 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 6 | −2  |  −2  | **Con** 16 | +3 | +3 |
+| **Int** 3  | −4  |  −4  | **Wis** 6 | −2  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Immunities Poison; Exhaustion, Poisoned**
 

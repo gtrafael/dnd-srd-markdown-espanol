@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Manticora|Mantícora (Español)]]"
 
 **Speed 30 ft., Fly 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 16 | +3 | +3 | **Con** 17 | +3 | +3 |
-| **Int** 7 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 16 | +3  |  +3  | **Con** 17 | +3 | +3 |
+| **Int** 7  | −2  |  −2  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Senses Darkvision 60 ft.; Passive Perception 11**
 

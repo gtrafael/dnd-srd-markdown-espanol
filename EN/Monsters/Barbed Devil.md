@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DiabloPunzante|Diablo punzante (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +6 | **Dex** 17 | +3 | +3 | **Con** 18 | +4 | +7 |
-| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +5 | **Cha** 14 | +2 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +6  | **Dex** 17 | +3  |  +3  | **Con** 18 | +4 | +7 |
+| **Int** 12 | +1  |  +1  | **Wis** 14 | +2  |  +5  | **Cha** 14 | +2 | +5 |
 
 **Skills Deception +5, Insight +5, Perception +8**
 

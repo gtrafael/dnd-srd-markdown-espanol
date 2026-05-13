@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Ogro|Ogro (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
-| **Int** 5 | −3 | −3 | **Wis** 7 | −2 | −2 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |           | MOD | SAVE |
+|------------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 8 | −1  |  −1  | **Con** 16 | +3 | +3 |
+| **Int** 5  | −3  |  −3  | **Wis** 7 | −2  |  −2  | **Cha** 7 | −2 | −2 |
 
 **Gear Greatclub, Javelins (3)**
 

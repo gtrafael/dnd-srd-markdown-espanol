@@ -16,7 +16,7 @@ related_en: "[[Spells/Hold Person|Hold Person (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-Elige a un humanoide que puedas ver dentro del alcance. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de paralizado hasta que termine el conjuro. Al final de cada uno de sus turnos, el objetivo repite la tirada de salvación y, si tiene éxito, se librará del conjuro. 
+Elige a un humanoide que puedas ver dentro del alcance. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de paralizado hasta que termine el conjuro. Al final de cada uno de sus turnos, el objetivo repite la tirada de salvación y, si tiene éxito, se librará del conjuro.
 
 **Con un espacio de conjuro de nivel superior.**
 

@@ -15,13 +15,14 @@ related_en: "[[Monsters/Fire Elemental|Fire Elemental (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 17 | +3 | +3 |
-| CON | 16 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| SAB | 10 | +0 | +0 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    17 |  +3 |   +3 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     6 |  -2 |   -2 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     7 |  -2 |   -2 |
+
 **Resistencias:** contundente, cortante, perforante
 
 **Inmunidades:** fuego, veneno; agarrado, apresado, cansancio, derribado, envenenado, inconsciente, paralizado, petrificado

@@ -3,6 +3,7 @@ aliases: ["Slow"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Ralentizar|Ralentizar (Español)]]"
 ---
+
 ### Slow
 
 *Level 3 Transmutation* (Bard, Sorcerer, Wizard)

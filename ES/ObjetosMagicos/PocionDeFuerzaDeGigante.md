@@ -11,11 +11,11 @@ Cuando bebas esta poción, tu puntuación de Fuerza cambiará durante 1 hora. El
 
 En el líquido transparente de la poción flota un fragmento de luz que parece la uña de un gigante.
 
-| Poción | Fue | Rareza |
-|---|---:|---|
-| Poción de fuerza de gigante (colinas) | 21 | Infrecuente |
-| Poción de fuerza de gigante (escarcha o piedra) | 23 | Rara |
-| Poción de fuerza de gigante (fuego) | 25 | Rara |
-| Poción de fuerza de gigante (nubes) | 27 | Muy rara |
-| Poción de fuerza de gigante (tormentas) | 29 | Legendaria |
+| Poción                                          | Fue | Rareza      |
+|-------------------------------------------------|----:|-------------|
+| Poción de fuerza de gigante (colinas)           |  21 | Infrecuente |
+| Poción de fuerza de gigante (escarcha o piedra) |  23 | Rara        |
+| Poción de fuerza de gigante (fuego)             |  25 | Rara        |
+| Poción de fuerza de gigante (nubes)             |  27 | Muy rara    |
+| Poción de fuerza de gigante (tormentas)         |  29 | Legendaria  |
 

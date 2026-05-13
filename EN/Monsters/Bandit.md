@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Bandido|Bandido (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Gear Leather Armor, Light Crossbow, Scimitar**
 

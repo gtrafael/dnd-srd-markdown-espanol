@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Mago|Mago (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 9 | −1 | −1 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 17 | +3 | +6 | **Wis** 12 | +1 | +4 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 9  | −1  |  −1  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 17 | +3  |  +6  | **Wis** 12 | +1  |  +4  | **Cha** 11 | +0 | +0 |
 
 **Skills Arcana +6, History +6, Perception +4**
 

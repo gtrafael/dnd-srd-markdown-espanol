@@ -17,13 +17,13 @@ related_en: "[[Monsters/Cockatrice|Cockatrice (EN)]]"
 **Velocidad:** 6 m, volar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 6 | -2 | -2 |
-| DES | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| SAB | 13 | +1 | +1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |     6 |  -2 |   -2 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Inmunidades:** petrificado
 

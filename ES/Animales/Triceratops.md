@@ -17,13 +17,13 @@ related_en: "[[Animals/Triceratops|Triceratops (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 22 | +6 | +6 |
-| DES | 9 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| SAB | 11 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    22 |  +6 |   +6 |
+| DES   |     9 |  -1 |   -1 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Sentidos:** Percepción pasiva 10
 

@@ -3,6 +3,7 @@ aliases: ["Ray of Sickness"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RayoNauseabundo|Rayo nauseabundo (Español)]]"
 ---
+
 ### Ray of Sickness
 
 *Level 1 Necromancy* (Sorcerer, Wizard)

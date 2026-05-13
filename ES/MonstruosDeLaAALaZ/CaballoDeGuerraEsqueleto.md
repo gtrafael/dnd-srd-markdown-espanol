@@ -17,13 +17,13 @@ related_en: "[[Monsters/Warhorse Skeleton|Warhorse Skeleton (EN)]]"
 **Velocidad:** 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 12 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| SAB | 8 | -1 | -1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Vulnerabilidades:** contundente
 

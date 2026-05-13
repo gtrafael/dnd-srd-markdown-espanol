@@ -15,13 +15,13 @@ related_en: "[[Monsters/Weretiger|Weretiger (EN)]]"
 **Velocidad:** 9 m, 12 m (solo en forma de tigre)
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| SAB | 13 | +1 | +1 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |    11 |  +0 |   +0 |
 
 **Habilidades:** Percepción +5, Sigilo +4
 

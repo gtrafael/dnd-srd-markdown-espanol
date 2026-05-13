@@ -6,35 +6,33 @@ related_en: "[[Equipment/Armor|Armor (EN)]]"
 
 # Armaduras
 
-La tabla “Armaduras” recoge las principales armaduras del juego. La tabla indica el precio y el peso de cada armadura, así como los siguientes detalles: 
+La tabla “Armaduras” recoge las principales armaduras del juego. La tabla indica el precio y el peso de cada armadura, así como los siguientes detalles:
 
-Categoría. Cada tipo de armadura pertenece a una categoría: ligera, media o pesada. La categoría determina cuánto tiempo lleva ponérsela o quitársela (como se indica en la tabla). 
+Categoría. Cada tipo de armadura pertenece a una categoría: ligera, media o pesada. La categoría determina cuánto tiempo lleva ponérsela o quitársela (como se indica en la tabla).
 
-Clase de armadura (CA). La columna “Clase de armadura” de la tabla indica cuál es tu CA base cuando llevas puesto un tipo de armadura. Por ejemplo, si usas una armadura de cuero, tu CA base es 11 más tu modificador por Destreza, mientras que es de 16 si llevas una cota de malla. 
+Clase de armadura (CA). La columna “Clase de armadura” de la tabla indica cuál es tu CA base cuando llevas puesto un tipo de armadura. Por ejemplo, si usas una armadura de cuero, tu CA base es 11 más tu modificador por Destreza, mientras que es de 16 si llevas una cota de malla.
 
-Fuerza. Si la tabla muestra una puntuación de Fuerza en la columna “Fuerza” para un tipo de armadura, esta reducirá 3 m la velocidad de quien la lleve, salvo que tenga una puntuación de Fuerza igual o superior a la indicada. 
+Fuerza. Si la tabla muestra una puntuación de Fuerza en la columna “Fuerza” para un tipo de armadura, esta reducirá 3 m la velocidad de quien la lleve, salvo que tenga una puntuación de Fuerza igual o superior a la indicada.
 
-Sigilo. Si en la tabla aparece “Desventaja” en la columna “Sigilo” para un tipo de armadura, quien la lleve tendrá desventaja en las pruebas de Destreza (Sigilo). 
+Sigilo. Si en la tabla aparece “Desventaja” en la columna “Sigilo” para un tipo de armadura, quien la lleve tendrá desventaja en las pruebas de Destreza (Sigilo).
 
 ## Entrenamiento con armaduras
 
-Cualquiera puede ponerse una armadura o embrazar un escudo, pero solo quienes se hayan entrenado podrán usarlos de forma efectiva, como se explica a continuación. La clase de personaje y otros rasgos determinan el entrenamiento con armaduras del personaje. Los monstruos tienen entrenamiento con cualquier armadura que aparezca en su perfil. 
+Cualquiera puede ponerse una armadura o embrazar un escudo, pero solo quienes se hayan entrenado podrán usarlos de forma efectiva, como se explica a continuación. La clase de personaje y otros rasgos determinan el entrenamiento con armaduras del personaje. Los monstruos tienen entrenamiento con cualquier armadura que aparezca en su perfil.
 
 ## Armaduras ligeras, medias o pesadas
 
-Si llevas una armadura ligera, media o pesada, pero no te has entrenado con ella, tendrás desventaja en cualquier prueba con d20 que implique la Fuerza o la Destreza y no podrás lanzar conjuros. 
+Si llevas una armadura ligera, media o pesada, pero no te has entrenado con ella, tendrás desventaja en cualquier prueba con d20 que implique la Fuerza o la Destreza y no podrás lanzar conjuros.
 
 ## Escudos
 
-Solo obtienes el bonificador a la clase de armadura si tienes entrenamiento con escudos. 
+Solo obtienes el bonificador a la clase de armadura si tienes entrenamiento con escudos.
 
 ## Solo un tipo
 
-Una criatura no puede llevar puesta más de una armadura ni embrazar más de un escudo a la vez. 
-
+Una criatura no puede llevar puesta más de una armadura ni embrazar más de un escudo a la vez.
 
 Armaduras
-
 
 | Armadura                                                                    | Clase de armadura (CA)            | Fuerza | Sigilo     | Peso    | Precio  |
 |-----------------------------------------------------------------------------|-----------------------------------|--------|------------|---------|---------|

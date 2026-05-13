@@ -3,6 +3,7 @@ aliases: ["Wind Wall"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/MuroDeViento|Muro de viento (Español)]]"
 ---
+
 ### Wind Wall
 
 *Level 3 Evocation* (Druid, Ranger)

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/PerroDelInframundo|Perro del inframundo (Espa�
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 3 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 3  | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +5, Stealth +4**
 

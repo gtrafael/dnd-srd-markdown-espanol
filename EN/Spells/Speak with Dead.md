@@ -3,6 +3,7 @@ aliases: ["Speak with Dead"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/HablarConLosMuertos|Hablar con los muertos (Español)]]"
 ---
+
 ### Speak with Dead
 
 *Level 3 Necromancy* (Bard, Cleric, Wizard)

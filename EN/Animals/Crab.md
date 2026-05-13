@@ -3,6 +3,7 @@ aliases: ["Crab"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Cangrejo|Cangrejo (Español)]]"
 ---
+
 ## Crab
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Cangrejo|Cangrejo (Español)]]"
 
 **Speed 20 ft., Swim 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 11 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 8 | −1 | −1 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6 | −2  |  −2  | **Dex** 11 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 1 | −5  |  −5  | **Wis** 8  | −1  |  −1  | **Cha** 2 | −4 | −4 |
 
 **Skills Stealth +2**
 

@@ -3,6 +3,7 @@ aliases: ["Hawk"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Halcon|Halcón (Español)]]"
 ---
+
 ## Hawk
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Halcon|Halcón (Español)]]"
 
 **Speed 10 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 5 | −3 | −3 | **Dex** 16 | +3 | +3 | **Con** 8 | −1 | −1 |
-| **Int** 2 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 6 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 5 | −3  |  −3  | **Dex** 16 | +3  |  +3  | **Con** 8 | −1 | −1 |
+| **Int** 2 | −4  |  −4  | **Wis** 14 | +2  |  +2  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +6**
 

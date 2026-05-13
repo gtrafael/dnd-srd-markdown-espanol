@@ -3,6 +3,7 @@ aliases: ["Invisibility"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Invisibilidad|Invisibilidad (Español)]]"
 ---
+
 ### Invisibility
 
 *Level 2 Illusion* (Bard, Sorcerer, Warlock, Wizard)

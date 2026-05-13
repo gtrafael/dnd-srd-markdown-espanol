@@ -3,6 +3,7 @@ aliases: ["Black Tentacles"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/TentaculosNegros|Tentáculos negros (Español)]]"
 ---
+
 ### Black Tentacles
 
 *Level 4 Conjuration* (Wizard)

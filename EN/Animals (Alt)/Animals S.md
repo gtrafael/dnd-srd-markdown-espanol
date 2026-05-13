@@ -8,11 +8,10 @@
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +6 | **Dex** 17 | +3 | +5 | **Con** 15 | +2 | +2 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +6  | **Dex** 17 | +3  |  +5  | **Con** 15 | +2 | +2 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +5, Stealth +7**
 
@@ -46,11 +45,10 @@ Nimble Escape. The tiger takes the Disengage or Hide action.
 
 **Speed 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 11 | +0 | +0 | **Con** 8 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 8 | −1 | −1 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 11 | +0  |  +0  | **Con** 8 | −1 | −1 |
+| **Int** 1 | −5  |  −5  | **Wis** 8  | −1  |  −1  | **Cha** 2 | −4 | −4 |
 
 **Senses Blindsight 10 ft.; Passive Perception 9**
 
@@ -72,11 +70,10 @@ Sting. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage plus 3 (1d6) Po
 
 **Speed 5 ft., Swim 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 1 | −5 | −5 | **Dex** 12 | +1 | +1 | **Con** 8 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 1 | −5  |  −5  | **Dex** 12 | +1  |  +1  | **Con** 8 | −1 | −1 |
+| **Int** 1 | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 2 | −4 | −4 |
 
 **Skills Perception +2, Stealth +5**
 
@@ -104,11 +101,10 @@ Bubble Dash. While underwater, the seahorse moves up to its Swim Speed without p
 
 **Speed 20 ft., Climb 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 14 | +2 | +2 | **Con** 8 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 14 | +2  |  +2  | **Con** 8 | −1 | −1 |
+| **Int** 1 | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 2 | −4 | −4 |
 
 **Skills Stealth +4**
 
@@ -138,11 +134,10 @@ Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 2 (1d4) Poi
 
 **Speed 5 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 5 | −3 | −3 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 4 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 5 | −3  |  −3  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 2 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 4 | −3 | −3 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 
@@ -174,11 +169,10 @@ Bites. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (2d4) Piercing damage, or 2 (1d
 
 **Speed 20 ft., Climb or Fly 20 ft. (GM’s choice)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 13 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 1 | −5 | −5 | **Wis** 7 | −2 | −2 | **Cha** 1 | −5 | −5 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3 | −4  |  −4  | **Dex** 13 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 1 | −5  |  −5  | **Wis** 7  | −2  |  −2  | **Cha** 1 | −5 | −5 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 
@@ -212,11 +206,10 @@ Bites. Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Poison damage, or 3 (
 
 **Speed 5 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 16 | +3 | +3 | **Con** 9 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 7 | −2 | −2 | **Cha** 2 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 16 | +3  |  +3  | **Con** 9 | −1 | −1 |
+| **Int** 1  | −5  |  −5  | **Wis** 7  | −2  |  −2  | **Cha** 2 | −4 | −4 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 
@@ -252,11 +245,10 @@ Bites. Melee Attack Roll: +5 (with Advantage if the target doesn’t have all it
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 9 | −1 | −1 | **Dex** 11 | +0 | +2 | **Con** 9 | −1 | −1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 9 | −1  |  −1  | **Dex** 11 | +0  |  +2  | **Con** 9 | −1 | −1 |
+| **Int** 2 | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 
@@ -288,11 +280,10 @@ Bites. Melee Attack Roll: +2, reach 5 ft. Hit: 5 (2d4) Piercing damage, or 2 (1d
 
 **Speed 10 ft., Fly 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 5 | −3 | −3 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6 | −2  |  −2  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 5 | −3  |  −3  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +5**
 
@@ -326,11 +317,10 @@ Disadvantage on ability checks and attack rolls.
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 18 | +4 | +4 | **Con** 11 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8 | −1  |  −1  | **Dex** 18 | +4  |  +4  | **Con** 11 | +0 | +0 |
+| **Int** 1 | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

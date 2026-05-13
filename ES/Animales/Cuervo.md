@@ -17,13 +17,14 @@ related_en: "[[Animals/Raven|Raven (EN)]]"
 **Velocidad:** 3 m, volar 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 2 | -4 | -4 |
-| DES | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 5 | -3 | -3 |
-| SAB | 13 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |     2 |  -4 |   -4 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
+
 **Habilidades:** Percepción +3
 
 **Sentidos:** Percepción pasiva 13

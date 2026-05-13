@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonRojoAnciano|Dragón rojo anciano (Españ
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 30 | +10 | +10 | **Dex** 10 | +0 | +7 | **Con** 29 | +9 | +9 |
-| **Int** 18 | +4 | +4 | **Wis** 15 | +2 | +9 | **Cha** 27 | +8 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 30 | +10 | +10  | **Dex** 10 | +0  |  +7  | **Con** 29 | +9 | +9 |
+| **Int** 18 | +4  |  +4  | **Wis** 15 | +2  |  +9  | **Cha** 27 | +8 | +8 |
 
 **Skills Perception +16, Stealth +7**
 

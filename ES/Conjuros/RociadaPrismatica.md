@@ -16,7 +16,7 @@ related_en: "[[Spells/Prismatic Spray|Prismatic Spray (EN)]]"
 
 **Duración:** Instantáneo
 
-Ocho rayos de luz surgen de tu mano en un cono de 18 m. Todas las criaturas situadas en el cono hacen una tirada de salvación de Destreza. Por cada objetivo, tira 1d8 para determinar qué rayo de color le afecta y consulta la tabla “Rayos prismáticos”. 
+Ocho rayos de luz surgen de tu mano en un cono de 18 m. Todas las criaturas situadas en el cono hacen una tirada de salvación de Destreza. Por cada objetivo, tira 1d8 para determinar qué rayo de color le afecta y consulta la tabla “Rayos prismáticos”.
 
 # Rayos prismáticos
 

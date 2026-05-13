@@ -17,13 +17,13 @@ related_en: "[[Monsters/Blink Dog|Blink Dog (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 12 | +1 | +1 |
-| DES | 17 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| SAB | 13 | +1 | +1 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    12 |  +1 |   +1 |
+| DES   |    17 |  +3 |   +3 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |    11 |  +0 |   +0 |
 
 **Habilidades:** Percepción +5, Sigilo +5
 

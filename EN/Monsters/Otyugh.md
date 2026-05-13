@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Otyugh|Otyugh (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 11 | +0 | +0 | **Con** 19 | +4 | +7 |
-| **Int** 6 | −2 | −2 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 11 | +0  |  +0  | **Con** 19 | +4 | +7 |
+| **Int** 6  | −2  |  −2  | **Wis** 13 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Darkvision 120 ft.; Passive Perception 11**
 

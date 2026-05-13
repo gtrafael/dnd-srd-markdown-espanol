@@ -3,6 +3,7 @@ aliases: ["Prestidigitation"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Prestidigitacion|Prestidigitación (Español)]]"
 ---
+
 ### Prestidigitation
 
 *Transmutation Cantrip* (Bard, Sorcerer, Warlock, Wizard)

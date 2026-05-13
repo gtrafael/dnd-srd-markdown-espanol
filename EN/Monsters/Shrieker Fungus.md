@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/HongoChillon|Hongo chillón (Español)]]"
 
 **Speed 5 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 1 | −5 | −5 | **Dex** 1 | −5 | −5 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 3 | −4 | −4 | **Cha** 1 | −5 | −5 |
+|           | MOD | SAVE |           | MOD | SAVE |
+|-----------|:---:|:----:|-----------|:---:|:----:|
+| **Str** 1 | −5  |  −5  | **Dex** 1 | −5  |  −5  | **Con** 10 | +0 | +0 |
+| **Int** 1 | −5  |  −5  | **Wis** 3 | −4  |  −4  | **Cha** 1 | −5 | −5 |
 
 **Immunities Blinded, Charmed, Deafened, Frightened**
 

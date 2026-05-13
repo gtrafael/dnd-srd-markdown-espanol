@@ -3,6 +3,7 @@ aliases: ["Regenerate"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Regenerar|Regenerar (Español)]]"
 ---
+
 ### Regenerate
 
 *Level 7 Transmutation* (Bard, Cleric, Druid)

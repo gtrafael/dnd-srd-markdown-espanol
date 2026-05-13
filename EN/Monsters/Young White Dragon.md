@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonBlancoJoven|Dragón blanco joven (Españ
 
 **Speed 40 ft., Burrow 20 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 10 | +0 | +3 | **Con** 18 | +4 | +4 |
-| **Int** 6 | −2 | 2 | **Wis** 11 | +0 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 10 | +0  |  +3  | **Con** 18 | +4 | +4 |
+| **Int** 6  | −2  |  2   | **Wis** 11 | +0  |  +3  | **Cha** 12 | +1 | +1 |
 
 **Skills Perception +6, Stealth +3**
 

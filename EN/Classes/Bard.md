@@ -3,20 +3,21 @@ aliases: ["Bard"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Bardo|Bardo (Español)]]"
 ---
+
 # Bard
 
 ## Core Bard Traits
 
-| Trait | Details |
-|---|---|
-| **Primary Ability** | Charisma |
-| **Hit Point Die** | D8 per Bard level |
-| **Saving Throw Proficiencies** | Dexterity and Charisma |
-| **Skill Proficiencies** | Choose any 3 skills (see "Playing the Game") |
-| **Weapon Proficiencies** | Simple weapons |
-| **Tool Proficiencies** | Choose 3 Musical Instruments (see "Equipment") |
-| **Armor Training** | Light armor |
-| **Starting Equipment** | Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 19 GP; or (B) 90 GP |
+| Trait                          | Details                                                                                                                     |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Primary Ability**            | Charisma                                                                                                                    |
+| **Hit Point Die**              | D8 per Bard level                                                                                                           |
+| **Saving Throw Proficiencies** | Dexterity and Charisma                                                                                                      |
+| **Skill Proficiencies**        | Choose any 3 skills (see "Playing the Game")                                                                                |
+| **Weapon Proficiencies**       | Simple weapons                                                                                                              |
+| **Tool Proficiencies**         | Choose 3 Musical Instruments (see "Equipment")                                                                              |
+| **Armor Training**             | Light armor                                                                                                                 |
+| **Starting Equipment**         | Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 19 GP; or (B) 90 GP |
 
 ## Becoming a Bard
 
@@ -34,28 +35,28 @@ related_es: "[[Clases/Bardo|Bardo (Español)]]"
 
 As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
 
-| Level | Proficiency Bonus | Class Features | Bardic Die | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-------------------|----------------|------------|----------|-----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1 | +2 | Bardic Inspiration, Spellcasting | D6 | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
-| 2 | +2 | Expertise, Jack of All Trades | D6 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
-| 3 | +2 | Bard Subclass | D6 | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
-| 4 | +2 | Ability Score Improvement | D6 | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
-| 5 | +3 | Font of Inspiration | D8 | 3 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6 | +3 | Subclass feature | D8 | 3 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7 | +3 | Countercharm | D8 | 3 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8 | +3 | Ability Score Improvement | D8 | 3 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9 | +4 | Expertise | D8 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10 | +4 | Magical Secrets | D10 | 4 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11 | +4 | — | D10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12 | +4 | Ability Score Improvement | D10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13 | +5 | — | D10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14 | +5 | Subclass feature | D10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15 | +5 | — | D12 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16 | +5 | Ability Score Improvement | D12 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17 | +6 | — | D12 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18 | +6 | Superior Inspiration | D12 | 4 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19 | +6 | Epic Boon | D12 | 4 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20 | +6 | Words of Creation | D12 | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Level | Proficiency Bonus | Class Features                   | Bardic Die | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|-------------------|----------------------------------|------------|----------|-----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1     | +2                | Bardic Inspiration, Spellcasting | D6         | 2        | 4               | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +2                | Expertise, Jack of All Trades    | D6         | 2        | 5               | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +2                | Bard Subclass                    | D6         | 2        | 6               | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +2                | Ability Score Improvement        | D6         | 3        | 7               | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +3                | Font of Inspiration              | D8         | 3        | 9               | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6     | +3                | Subclass feature                 | D8         | 3        | 10              | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7     | +3                | Countercharm                     | D8         | 3        | 11              | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8     | +3                | Ability Score Improvement        | D8         | 3        | 12              | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9     | +4                | Expertise                        | D8         | 3        | 14              | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10    | +4                | Magical Secrets                  | D10        | 4        | 15              | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11    | +4                | —                                | D10        | 4        | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12    | +4                | Ability Score Improvement        | D10        | 4        | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +5                | —                                | D10        | 4        | 17              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +5                | Subclass feature                 | D10        | 4        | 17              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15    | +5                | —                                | D12        | 4        | 18              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16    | +5                | Ability Score Improvement        | D12        | 4        | 18              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17    | +6                | —                                | D12        | 4        | 19              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6                | Superior Inspiration             | D12        | 4        | 20              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6                | Epic Boon                        | D12        | 4        | 21              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6                | Words of Creation                | D12        | 4        | 22              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### Level 1: Bardic Inspiration
 
@@ -145,182 +146,182 @@ This section presents the Bard spell list. The spells are organized by spell lev
 
 ### Cantrips (Level 0 Bard Spells)
 
-| Spell | School | Special |
-|---|---|---|
-| Dancing Lights | Illusion | C |
-| Light | Evocation | — |
-| Mage Hand | Conjuration | — |
-| Mending | Transmutation | — |
-| Message | Transmutation | — |
-| Minor Illusion | Illusion | — |
-| Prestidigitation | Transmutation | — |
-| Starry Wisp | Evocation | — |
-| True Strike | Divination | — |
-| Vicious Mockery | Enchantment | — |
+| Spell            | School        | Special |
+|------------------|---------------|---------|
+| Dancing Lights   | Illusion      | C       |
+| Light            | Evocation     | —       |
+| Mage Hand        | Conjuration   | —       |
+| Mending          | Transmutation | —       |
+| Message          | Transmutation | —       |
+| Minor Illusion   | Illusion      | —       |
+| Prestidigitation | Transmutation | —       |
+| Starry Wisp      | Evocation     | —       |
+| True Strike      | Divination    | —       |
+| Vicious Mockery  | Enchantment   | —       |
 
 ### Level 1 Bard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Animal Friendship | Enchantment | — |
-| Bane | Enchantment | C |
-| Charm Person | Enchantment | — |
-| Color Spray | Illusion | — |
-| Command | Enchantment | — |
-| Comprehend Languages | Divination | R |
-| Cure Wounds | Abjuration | — |
-| Detect Magic | Divination | C, R |
-| Disguise Self | Illusion | — |
-| Dissonant Whispers | Enchantment | — |
-| Faerie Fire | Evocation | C |
-| Feather Fall | Transmutation | — |
-| Healing Word | Abjuration | — |
-| Heroism | Enchantment | C |
-| Hideous Laughter | Enchantment | C |
-| Identify | Divination | R, M |
-| Illusory Script | Illusion | R, M |
-| Longstrider | Transmutation | — |
-| Silent Image | Illusion | C |
-| Sleep | Enchantment | C |
-| Speak with Animals | Divination | R |
-| Thunderwave | Evocation | — |
-| Unseen Servant | Conjuration | R |
+| Spell                | School        | Special |
+|----------------------|---------------|---------|
+| Animal Friendship    | Enchantment   | —       |
+| Bane                 | Enchantment   | C       |
+| Charm Person         | Enchantment   | —       |
+| Color Spray          | Illusion      | —       |
+| Command              | Enchantment   | —       |
+| Comprehend Languages | Divination    | R       |
+| Cure Wounds          | Abjuration    | —       |
+| Detect Magic         | Divination    | C, R    |
+| Disguise Self        | Illusion      | —       |
+| Dissonant Whispers   | Enchantment   | —       |
+| Faerie Fire          | Evocation     | C       |
+| Feather Fall         | Transmutation | —       |
+| Healing Word         | Abjuration    | —       |
+| Heroism              | Enchantment   | C       |
+| Hideous Laughter     | Enchantment   | C       |
+| Identify             | Divination    | R, M    |
+| Illusory Script      | Illusion      | R, M    |
+| Longstrider          | Transmutation | —       |
+| Silent Image         | Illusion      | C       |
+| Sleep                | Enchantment   | C       |
+| Speak with Animals   | Divination    | R       |
+| Thunderwave          | Evocation     | —       |
+| Unseen Servant       | Conjuration   | R       |
 
 ### Level 2 Bard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Aid | Abjuration | — |
-| Animal Messenger | Enchantment | R |
-| Blindness/Deafness | Transmutation | — |
-| Calm Emotions | Enchantment | C |
-| Detect Thoughts | Divination | C |
-| Enhance Ability | Transmutation | C |
-| Enlarge/Reduce | Transmutation | C |
-| Enthrall | Enchantment | C |
-| Heat Metal | Transmutation | C |
-| Hold Person | Enchantment | C |
-| Invisibility | Illusion | C |
-| Knock | Transmutation | — |
-| Lesser Restoration | Abjuration | — |
-| Locate Animals or Plants | Divination | R |
-| Locate Object | Divination | C |
-| Magic Mouth | Illusion | R, M |
-| Mirror Image | Illusion | — |
-| See Invisibility | Divination | — |
-| Shatter | Evocation | — |
-| Silence | Illusion | C, R |
-| Suggestion | Enchantment | C |
-| Zone of Truth | Enchantment | — |
+| Spell                    | School        | Special |
+|--------------------------|---------------|---------|
+| Aid                      | Abjuration    | —       |
+| Animal Messenger         | Enchantment   | R       |
+| Blindness/Deafness       | Transmutation | —       |
+| Calm Emotions            | Enchantment   | C       |
+| Detect Thoughts          | Divination    | C       |
+| Enhance Ability          | Transmutation | C       |
+| Enlarge/Reduce           | Transmutation | C       |
+| Enthrall                 | Enchantment   | C       |
+| Heat Metal               | Transmutation | C       |
+| Hold Person              | Enchantment   | C       |
+| Invisibility             | Illusion      | C       |
+| Knock                    | Transmutation | —       |
+| Lesser Restoration       | Abjuration    | —       |
+| Locate Animals or Plants | Divination    | R       |
+| Locate Object            | Divination    | C       |
+| Magic Mouth              | Illusion      | R, M    |
+| Mirror Image             | Illusion      | —       |
+| See Invisibility         | Divination    | —       |
+| Shatter                  | Evocation     | —       |
+| Silence                  | Illusion      | C, R    |
+| Suggestion               | Enchantment   | C       |
+| Zone of Truth            | Enchantment   | —       |
 
 ### Level 3 Bard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Bestow Curse | Necromancy | C |
-| Clairvoyance | Divination | C, M |
-| Dispel Magic | Abjuration | — |
-| Fear | Illusion | C |
-| Glyph of Warding | Abjuration | M |
-| Hypnotic Pattern | Illusion | C |
-| Major Image | Illusion | C |
-| Mass Healing Word | Abjuration | — |
-| Nondetection | Abjuration | M |
-| Plant Growth | Transmutation | — |
-| Sending | Divination | — |
-| Slow | Transmutation | C |
-| Speak with Dead | Necromancy | — |
-| Speak with Plants | Transmutation | — |
-| Stinking Cloud | Conjuration | C |
-| Tiny Hut | Evocation | R |
-| Tongues | Divination | — |
+| Spell             | School        | Special |
+|-------------------|---------------|---------|
+| Bestow Curse      | Necromancy    | C       |
+| Clairvoyance      | Divination    | C, M    |
+| Dispel Magic      | Abjuration    | —       |
+| Fear              | Illusion      | C       |
+| Glyph of Warding  | Abjuration    | M       |
+| Hypnotic Pattern  | Illusion      | C       |
+| Major Image       | Illusion      | C       |
+| Mass Healing Word | Abjuration    | —       |
+| Nondetection      | Abjuration    | M       |
+| Plant Growth      | Transmutation | —       |
+| Sending           | Divination    | —       |
+| Slow              | Transmutation | C       |
+| Speak with Dead   | Necromancy    | —       |
+| Speak with Plants | Transmutation | —       |
+| Stinking Cloud    | Conjuration   | C       |
+| Tiny Hut          | Evocation     | R       |
+| Tongues           | Divination    | —       |
 
 ### Level 4 Bard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Charm Monster | Enchantment | — |
-| Compulsion | Enchantment | C |
-| Confusion | Enchantment | C |
-| Dimension Door | Conjuration | — |
-| Freedom of Movement | Abjuration | — |
-| Greater Invisibility | Illusion | C |
-| Hallucinatory Terrain | Illusion | — |
-| Locate Creature | Divination | C |
-| Phantasmal Killer | Illusion | C |
-| Polymorph | Transmutation | C |
+| Spell                 | School        | Special |
+|-----------------------|---------------|---------|
+| Charm Monster         | Enchantment   | —       |
+| Compulsion            | Enchantment   | C       |
+| Confusion             | Enchantment   | C       |
+| Dimension Door        | Conjuration   | —       |
+| Freedom of Movement   | Abjuration    | —       |
+| Greater Invisibility  | Illusion      | C       |
+| Hallucinatory Terrain | Illusion      | —       |
+| Locate Creature       | Divination    | C       |
+| Phantasmal Killer     | Illusion      | C       |
+| Polymorph             | Transmutation | C       |
 
 ### Level 5 Bard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Animate Objects | Transmutation | C |
-| Awaken | Transmutation | M |
-| Dominate Person | Enchantment | C |
-| Dream | Illusion | — |
-| Geas | Enchantment | — |
-| Greater Restoration | Abjuration | M |
-| Hold Monster | Enchantment | C |
-| Legend Lore | Divination | M |
-| Mass Cure Wounds | Abjuration | — |
-| Mislead | Illusion | C |
-| Modify Memory | Enchantment | C |
-| Planar Binding | Abjuration | M |
-| Raise Dead | Necromancy | M |
-| Scrying | Divination | C, M |
-| Seeming | Illusion | — |
-| Telepathic Bond | Divination | R |
-| Teleportation Circle | Conjuration | M |
+| Spell                | School        | Special |
+|----------------------|---------------|---------|
+| Animate Objects      | Transmutation | C       |
+| Awaken               | Transmutation | M       |
+| Dominate Person      | Enchantment   | C       |
+| Dream                | Illusion      | —       |
+| Geas                 | Enchantment   | —       |
+| Greater Restoration  | Abjuration    | M       |
+| Hold Monster         | Enchantment   | C       |
+| Legend Lore          | Divination    | M       |
+| Mass Cure Wounds     | Abjuration    | —       |
+| Mislead              | Illusion      | C       |
+| Modify Memory        | Enchantment   | C       |
+| Planar Binding       | Abjuration    | M       |
+| Raise Dead           | Necromancy    | M       |
+| Scrying              | Divination    | C, M    |
+| Seeming              | Illusion      | —       |
+| Telepathic Bond      | Divination    | R       |
+| Teleportation Circle | Conjuration   | M       |
 
 ### Level 6 Bard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Eyebite | Necromancy | C |
-| Find the Path | Divination | C, M |
-| Guards and Wards | Abjuration | M |
-| Heroes' Feast | Conjuration | M |
-| Irresistible Dance | Enchantment | C |
-| Mass Suggestion | Enchantment | — |
-| Programmed Illusion | Illusion | M |
-| True Seeing | Divination | M |
+| Spell               | School      | Special |
+|---------------------|-------------|---------|
+| Eyebite             | Necromancy  | C       |
+| Find the Path       | Divination  | C, M    |
+| Guards and Wards    | Abjuration  | M       |
+| Heroes' Feast       | Conjuration | M       |
+| Irresistible Dance  | Enchantment | C       |
+| Mass Suggestion     | Enchantment | —       |
+| Programmed Illusion | Illusion    | M       |
+| True Seeing         | Divination  | M       |
 
 ### Level 7 Bard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Arcane Sword | Evocation | C, M |
-| Etherealness | Conjuration | — |
-| Forcecage | Evocation | C, M |
-| Magnificent Mansion | Conjuration | M |
-| Mirage Arcane | Illusion | — |
-| Prismatic Spray | Evocation | — |
-| Project Image | Illusion | C, M |
-| Regenerate | Transmutation | — |
-| Resurrection | Necromancy | M |
-| Symbol | Abjuration | M |
-| Teleport | Conjuration | — |
+| Spell               | School        | Special |
+|---------------------|---------------|---------|
+| Arcane Sword        | Evocation     | C, M    |
+| Etherealness        | Conjuration   | —       |
+| Forcecage           | Evocation     | C, M    |
+| Magnificent Mansion | Conjuration   | M       |
+| Mirage Arcane       | Illusion      | —       |
+| Prismatic Spray     | Evocation     | —       |
+| Project Image       | Illusion      | C, M    |
+| Regenerate          | Transmutation | —       |
+| Resurrection        | Necromancy    | M       |
+| Symbol              | Abjuration    | M       |
+| Teleport            | Conjuration   | —       |
 
 ### Level 8 Bard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Antipathy/Sympathy | Enchantment | — |
-| Befuddlement | Enchantment | — |
-| Dominate Monster | Enchantment | C |
-| Glibness | Enchantment | — |
-| Mind Blank | Abjuration | — |
-| Power Word Stun | Enchantment | — |
+| Spell              | School      | Special |
+|--------------------|-------------|---------|
+| Antipathy/Sympathy | Enchantment | —       |
+| Befuddlement       | Enchantment | —       |
+| Dominate Monster   | Enchantment | C       |
+| Glibness           | Enchantment | —       |
+| Mind Blank         | Abjuration  | —       |
+| Power Word Stun    | Enchantment | —       |
 
 ### Level 9 Bard Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Foresight | Divination | — |
-| Power Word Heal | Enchantment | — |
-| Power Word Kill | Enchantment | — |
-| Prismatic Wall | Abjuration | — |
-| True Polymorph | Transmutation | C |
+| Spell           | School        | Special |
+|-----------------|---------------|---------|
+| Foresight       | Divination    | —       |
+| Power Word Heal | Enchantment   | —       |
+| Power Word Kill | Enchantment   | —       |
+| Prismatic Wall  | Abjuration    | —       |
+| True Polymorph  | Transmutation | C       |
 
 ## Bard Subclass: College of Lore
 

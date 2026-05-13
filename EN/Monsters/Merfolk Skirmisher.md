@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/ExpertoEnEscaramuzasSirenido|Sirénido (Españ
 
 **Speed 10 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 13 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 11 | +0 | +0 | **Wis** 14 | +2 | +2 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 13 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 11 | +0  |  +0  | **Wis** 14 | +2  |  +2  | **Cha** 12 | +1 | +1 |
 
 **Senses Passive Perception 12**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonNegroAdulto|Dragón negro adulto (Españ
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 14 | +2 | +7 | **Con** 21 | +5 | +5 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +6 | **Cha** 19 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 14 | +2  |  +7  | **Con** 21 | +5 | +5 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +6  | **Cha** 19 | +4 | +4 |
 
 **Skills Perception +11, Stealth +7**
 

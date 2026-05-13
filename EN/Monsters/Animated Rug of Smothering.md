@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/AlfombraAsfixianteAnimada|Alfombra asfixiante 
 
 **Speed 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 14 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 3 | −4 | −4 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 14 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 3  | −4  |  −4  | **Cha** 1 | −5 | −5 |
 
 **Immunities Poison, Psychic; Charmed, Deafened,**
 

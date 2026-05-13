@@ -3,6 +3,7 @@ aliases: ["Shield"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Escudo|Escudo (Español)]]"
 ---
+
 ### Shield
 
 *Level 1 Abjuration* (Sorcerer, Wizard)

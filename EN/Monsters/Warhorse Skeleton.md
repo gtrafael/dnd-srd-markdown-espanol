@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CaballoDeGuerraEsqueleto|Caballo de guerra esq
 
 **Speed 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 15 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 12 | +1  |  +1  | **Con** 15 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 8  | −1  |  −1  | **Cha** 5 | −3 | −3 |
 
 Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned
 

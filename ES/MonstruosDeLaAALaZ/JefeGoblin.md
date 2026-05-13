@@ -17,13 +17,14 @@ related_en: "[[Monsters/Goblin Boss|Goblin Boss (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| SAB | 8 | -1 | -1 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |    10 |  +0 |   +0 |
+
 **Habilidades:** Sigilo +6
 
 **Equipo:** arco corto, camisa de malla, cimitarra, escudo

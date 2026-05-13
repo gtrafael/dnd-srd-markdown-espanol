@@ -17,13 +17,13 @@ related_en: "[[Monsters/Sahuagin Warrior|Sahuagin Warrior (EN)]]"
 **Velocidad:** 9 m, nadar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 13 | +1 | +1 |
-| DES | 11 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 12 | +1 | +1 |
-| SAB | 13 | +1 | +1 |
-| CAR | 9 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    13 |  +1 |   +1 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |     9 |  -1 |   -1 |
 
 **Habilidades:** Percepción +5
 

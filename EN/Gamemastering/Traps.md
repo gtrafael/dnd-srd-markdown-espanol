@@ -3,6 +3,7 @@ aliases: ["Traps"]
 tags: [srd, english, tag_gamemastering]
 related_es: "[[HerramientasDelJuego/Trampas|Trampas (Español)]]"
 ---
+
 # Traps
 
 Traps should be used sparingly, lest they lose their charm. A hidden pit can be a fun surprise, but too many traps in an adventure can lead players to become overly cautious, which slows down the game.
@@ -42,10 +43,10 @@ The first creature that crosses the trip wire causes the supports to topple and 
 **At Higher Levels.** You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
 
 | Levels | Bludgeoning Damage | Save DC |
-|---|---|---|
-| 5-10 | 22 (4d10) | 15 |
-| 11-16 | 55 (10d10) | 17 |
-| 17-20 | 99 (18d10) | 19 |
+|--------|--------------------|---------|
+| 5-10   | 22 (4d10)          | 15      |
+| 11-16  | 55 (10d10)         | 17      |
+| 17-20  | 99 (18d10)         | 19      |
 
 ### Falling Net
 
@@ -84,10 +85,10 @@ As a Search action, a creature can examine the section of floor that forms the p
 **At Higher Levels.** You can scale the trap for higher levels by increasing the damage and the area of effect, as shown in the following table.
 
 | Levels | Fire Damage | Area of Effect |
-|---|---|---|
-| 5-10 | 22 (4d10) | 30-foot Cone |
-| 11-16 | 55 (10d10) | 60-foot Cone |
-| 17-20 | 99 (18d10) | 120-foot Cone |
+|--------|-------------|----------------|
+| 5-10   | 22 (4d10)   | 30-foot Cone   |
+| 11-16  | 55 (10d10)  | 60-foot Cone   |
+| 17-20  | 99 (18d10)  | 120-foot Cone  |
 
 ### Hidden Pit
 
@@ -108,10 +109,10 @@ A creature that falls into the pit takes 3 (1d6) Bludgeoning damage from the fal
 **At Higher Levels.** You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
 
 | Levels | Pit Depth | Bludgeoning Damage |
-|---|---|---|
-| 5-10 | 30 feet | 10 (3d6) |
-| 11-16 | 60 feet | 21 (6d6) |
-| 17-20 | 120 feet | 42 (12d6) |
+|--------|-----------|--------------------|
+| 5-10   | 30 feet   | 10 (3d6)           |
+| 11-16  | 60 feet   | 21 (6d6)           |
+| 17-20  | 120 feet  | 42 (12d6)          |
 
 ### Poisoned Darts
 
@@ -148,10 +149,10 @@ A poisoned needle is hidden in a lock. When a creature opens the lock with any o
 **At Higher Levels.** You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
 
 | Levels | Poison Damage | Save DC |
-|---|---|---|
-| 5-10 | 11 (2d10) | 13 |
-| 11-16 | 22 (4d10) | 15 |
-| 17-20 | 55 (10d10) | 17 |
+|--------|---------------|---------|
+| 5-10   | 11 (2d10)     | 13      |
+| 11-16  | 22 (4d10)     | 15      |
+| 17-20  | 55 (10d10)    | 17      |
 
 ### Rolling Stone
 
@@ -191,8 +192,8 @@ A creature that falls into the pit lands at the bottom and takes 3 (1d6) Bludgeo
 
 **At Higher Levels.** You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
 
-| Levels | Pit Depth | Damage |
-|---|---|---|
-| 5-10 | 30 feet | 10 (3d6) Bludgeoning plus 13 (3d8) Piercing |
-| 11-16 | 60 feet | 21 (6d6) Bludgeoning plus 36 (8d8) Piercing |
-| 17-20 | 120 feet | 42 (12d6) Bludgeoning plus 57 (13d8) Piercing |
+| Levels | Pit Depth | Damage                                        |
+|--------|-----------|-----------------------------------------------|
+| 5-10   | 30 feet   | 10 (3d6) Bludgeoning plus 13 (3d8) Piercing   |
+| 11-16  | 60 feet   | 21 (6d6) Bludgeoning plus 36 (8d8) Piercing   |
+| 17-20  | 120 feet  | 42 (12d6) Bludgeoning plus 57 (13d8) Piercing |

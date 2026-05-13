@@ -17,13 +17,13 @@ related_en: "[[Monsters/Ancient Red Dragon|Ancient Red Dragon (EN)]]"
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 30 | +10 | +10 |
-| DES | 10 | +0 | +7 |
-| CON | 29 | +9 | +9 |
-| INT | 18 | +4 | +4 |
-| SAB | 15 | +2 | +9 |
-| CAR | 27 | +8 | +8 |
+|-------|------:|----:|-----:|
+| FUE   |    30 | +10 |  +10 |
+| DES   |    10 |  +0 |   +7 |
+| CON   |    29 |  +9 |   +9 |
+| INT   |    18 |  +4 |   +4 |
+| SAB   |    15 |  +2 |   +9 |
+| CAR   |    27 |  +8 |   +8 |
 
 **Habilidades:** Percepción +16, Sigilo +7
 

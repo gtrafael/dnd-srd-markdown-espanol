@@ -3,6 +3,7 @@ aliases: ["Swarm of Bats"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EnjambreDeMurcielagos|Enjambre de murciélagos (Español)]]"
 ---
+
 ## Swarm of Bats
 
 *Large Swarm of Tiny Beasts, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/EnjambreDeMurcielagos|Enjambre de murciélagos (Español
 
 **Speed 5 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 5 | −3 | −3 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 4 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 5 | −3  |  −3  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 2 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 4 | −3 | −3 |
 
 **Resistances Bludgeoning, Piercing, Slashing**
 

@@ -2,379 +2,571 @@
   "Información legal": {
     "page": 1
   },
-
   "Cómo jugar": {
     "page": 5,
     "children": {
-      "El ritmo de juego": { "page": 5 },
-      "Las características": { "page": 5 },
-
+      "El ritmo de juego": {
+        "page": 5
+      },
+      "Las características": {
+        "page": 5
+      },
       "Las pruebas con d20": {
         "page": 6,
         "children": {
-          "Pruebas de característica": { "page": 6 },
-          "Tiradas de salvación": { "page": 7 },
-          "Tiradas de ataque": { "page": 7 },
-          "Ventaja y desventaja": { "page": 8 }
+          "Pruebas de característica": {
+            "page": 6
+          },
+          "Tiradas de salvación": {
+            "page": 7
+          },
+          "Tiradas de ataque": {
+            "page": 7
+          },
+          "Ventaja y desventaja": {
+            "page": 8
+          }
         }
       },
-
-      "Competencia": { "page": 8 },
-
+      "Competencia": {
+        "page": 8
+      },
       "Acciones": {
         "page": 10,
         "children": {
-          "Acciones adicionales": { "page": 11 },
-          "Reacciones": { "page": 11 }
+          "Acciones adicionales": {
+            "page": 11
+          },
+          "Reacciones": {
+            "page": 11
+          }
         }
       },
-
-      "Interacciones sociales": { "page": 11 },
-
+      "Interacciones sociales": {
+        "page": 11
+      },
       "Exploración": {
         "page": 12,
         "children": {
-          "Visión e iluminación": { "page": 12 },
-          "Esconderse": { "page": 12 },
-          "Interactuar con objetos": { "page": 12 },
-          "Peligros": { "page": 13 },
-          "Viajar": { "page": 13 }
+          "Visión e iluminación": {
+            "page": 12
+          },
+          "Esconderse": {
+            "page": 12
+          },
+          "Interactuar con objetos": {
+            "page": 12
+          },
+          "Peligros": {
+            "page": 13
+          },
+          "Viajar": {
+            "page": 13
+          }
         }
       },
-
       "Combate": {
         "page": 14,
         "children": {
-          "Estructura de un combate": { "page": 14 },
-          "Movimiento y posición": { "page": 15 },
-          "Atacar": { "page": 16 },
-          "Ataques a distancia": { "page": 16 },
-          "Ataques cuerpo a cuerpo": { "page": 17 },
-          "Combate montado": { "page": 17 },
-          "Combate bajo el agua": { "page": 17 }
+          "Estructura de un combate": {
+            "page": 14
+          },
+          "Movimiento y posición": {
+            "page": 15
+          },
+          "Atacar": {
+            "page": 16
+          },
+          "Ataques a distancia": {
+            "page": 16
+          },
+          "Ataques cuerpo a cuerpo": {
+            "page": 17
+          },
+          "Combate montado": {
+            "page": 17
+          },
+          "Combate bajo el agua": {
+            "page": 17
+          }
         }
       },
-
       "Daño y curación": {
         "page": 17,
         "children": {
-          "Puntos de golpe": { "page": 17 },
-          "Tiradas de daño": { "page": 18 },
-          "Críticos": { "page": 18 },
-          "Tiradas de salvación y daño": { "page": 18 },
-          "Tipos de daño": { "page": 18 },
-          "Resistencia y vulnerabilidad": { "page": 18 },
-          "Inmunidad": { "page": 19 },
-          "Curación": { "page": 19 },
-          "Llegar a 0 puntos de golpe": { "page": 19 },
-          "Puntos de golpe temporales": { "page": 20 }
+          "Puntos de golpe": {
+            "page": 17
+          },
+          "Tiradas de daño": {
+            "page": 18
+          },
+          "Críticos": {
+            "page": 18
+          },
+          "Tiradas de salvación y daño": {
+            "page": 18
+          },
+          "Tipos de daño": {
+            "page": 18
+          },
+          "Resistencia y vulnerabilidad": {
+            "page": 18
+          },
+          "Inmunidad": {
+            "page": 19
+          },
+          "Curación": {
+            "page": 19
+          },
+          "Llegar a 0 puntos de golpe": {
+            "page": 19
+          },
+          "Puntos de golpe temporales": {
+            "page": 20
+          }
         }
       }
     }
   },
-
   "Creación de personajes": {
     "page": 21,
     "children": {
-      "Elegir una hoja de personaje": { "page": 21 },
-      "Crear tu personaje": { "page": 21 },
-      "Progresión de niveles": { "page": 25 },
-      "Comenzar en niveles superiores": { "page": 27 },
-      "Multiclase": { "page": 27 },
-      "Bagatelas": { "page": 29 }
+      "Elegir una hoja de personaje": {
+        "page": 21
+      },
+      "Crear tu personaje": {
+        "page": 21
+      },
+      "Progresión de niveles": {
+        "page": 25
+      },
+      "Comenzar en niveles superiores": {
+        "page": 27
+      },
+      "Multiclase": {
+        "page": 27
+      },
+      "Bagatelas": {
+        "page": 29
+      }
     }
   },
-
   "Clases": {
     "page": 32,
     "children": {
-
       "Bárbaro": {
         "page": 32,
         "children": {
           "Subclase de bárbaro": {
             "page": 34,
             "children": {
-              "Senda del berserker": { "page": 34 }
+              "Senda del berserker": {
+                "page": 34
+              }
             }
           }
         }
       },
-
       "Bardo": {
         "page": 35,
         "children": {
-          "Lista de conjuros de bardo": { "page": 37 },
-
+          "Lista de conjuros de bardo": {
+            "page": 37
+          },
           "Subclase de bardo": {
             "page": 39,
             "children": {
-              "Colegio del conocimiento": { "page": 39 }
+              "Colegio del conocimiento": {
+                "page": 39
+              }
             }
           }
         }
       },
-
       "Brujo": {
         "page": 40,
         "children": {
-          "Opciones de invocación sobrenatural": { "page": 42 },
-          "Lista de conjuros de brujo": { "page": 45 },
-
+          "Opciones de invocación sobrenatural": {
+            "page": 42
+          },
+          "Lista de conjuros de brujo": {
+            "page": 45
+          },
           "Subclase de brujo": {
             "page": 46,
             "children": {
-              "Patrón infernal": { "page": 46 }
+              "Patrón infernal": {
+                "page": 46
+              }
             }
           }
         }
       },
-
       "Clérigo": {
         "page": 47,
         "children": {
-          "Lista de conjuros de clérigo": { "page": 49 },
-
+          "Lista de conjuros de clérigo": {
+            "page": 49
+          },
           "Subclase de clérigo": {
             "page": 51,
             "children": {
-              "Dominio de la vida": { "page": 51 }
+              "Dominio de la vida": {
+                "page": 51
+              }
             }
           }
         }
       },
-
       "Druida": {
         "page": 52,
         "children": {
-          "Lista de conjuros de druida": { "page": 55 },
-
+          "Lista de conjuros de druida": {
+            "page": 55
+          },
           "Subclase de druida": {
             "page": 57,
             "children": {
-              "Círculo de la tierra": { "page": 57 }
+              "Círculo de la tierra": {
+                "page": 57
+              }
             }
           }
         }
       },
-
       "Explorador": {
         "page": 58,
         "children": {
-          "Lista de conjuros de explorador": { "page": 60 },
-
+          "Lista de conjuros de explorador": {
+            "page": 60
+          },
           "Subclase de explorador": {
             "page": 61,
             "children": {
-              "Cazador": { "page": 61 }
+              "Cazador": {
+                "page": 61
+              }
             }
           }
         }
       },
-
       "Guerrero": {
         "page": 62,
         "children": {
           "Subclase de guerrero": {
             "page": 64,
             "children": {
-              "Campeón": { "page": 64 }
+              "Campeón": {
+                "page": 64
+              }
             }
           }
         }
       },
-
       "Hechicero": {
         "page": 64,
         "children": {
-          "Opciones de metamagia": { "page": 67 },
-          "Lista de conjuros de hechicero": { "page": 68 },
-
+          "Opciones de metamagia": {
+            "page": 67
+          },
+          "Lista de conjuros de hechicero": {
+            "page": 68
+          },
           "Subclase de hechicero": {
             "page": 70,
             "children": {
-              "Hechicería dracónica": { "page": 70 }
+              "Hechicería dracónica": {
+                "page": 70
+              }
             }
           }
         }
       },
-
       "Mago": {
         "page": 71,
         "children": {
-          "Lista de conjuros de mago": { "page": 73 },
-
+          "Lista de conjuros de mago": {
+            "page": 73
+          },
           "Subclase de mago": {
             "page": 76,
             "children": {
-              "Evocador": { "page": 76 }
+              "Evocador": {
+                "page": 76
+              }
             }
           }
         }
       },
-
       "Monje": {
         "page": 77,
         "children": {
           "Subclase de monje": {
             "page": 80,
             "children": {
-              "Guerrero de la mano abierta": { "page": 80 }
+              "Guerrero de la mano abierta": {
+                "page": 80
+              }
             }
           }
         }
       },
-
       "Paladín": {
         "page": 81,
         "children": {
-          "Lista de conjuros de paladín": { "page": 84 },
-
+          "Lista de conjuros de paladín": {
+            "page": 84
+          },
           "Subclase de paladín": {
             "page": 84,
             "children": {
-              "Juramento de entrega": { "page": 84 }
+              "Juramento de entrega": {
+                "page": 84
+              }
             }
           }
         }
       },
-
       "Pícaro": {
         "page": 86,
         "children": {
           "Subclase de pícaro": {
             "page": 88,
             "children": {
-              "Ladrón": { "page": 88 }
+              "Ladrón": {
+                "page": 88
+              }
             }
           }
         }
       }
     }
   },
-
   "Orígenes de personaje": {
     "page": 89,
     "children": {
       "Trasfondos de personaje": {
         "page": 89,
         "children": {
-          "Acólito": { "page": 89 },
-          "Criminal": { "page": 89 },
-          "Erudito": { "page": 89 },
-          "Soldado": { "page": 89 }
+          "Acólito": {
+            "page": 89
+          },
+          "Criminal": {
+            "page": 89
+          },
+          "Erudito": {
+            "page": 89
+          },
+          "Soldado": {
+            "page": 89
+          }
         }
       },
-
       "Especies de personaje": {
         "page": 89,
         "children": {
-          "Dracónido": { "page": 90 },
-          "Elfo": { "page": 90 },
-          "Enano": { "page": 91 },
-          "Gnomo": { "page": 91 },
-          "Goliat": { "page": 92 },
-          "Humano": { "page": 92 },
-          "Mediano": { "page": 92 },
-          "Orco": { "page": 92 },
-          "Tiefling": { "page": 93 }
+          "Dracónido": {
+            "page": 90
+          },
+          "Elfo": {
+            "page": 90
+          },
+          "Enano": {
+            "page": 91
+          },
+          "Gnomo": {
+            "page": 91
+          },
+          "Goliat": {
+            "page": 92
+          },
+          "Humano": {
+            "page": 92
+          },
+          "Mediano": {
+            "page": 92
+          },
+          "Orco": {
+            "page": 92
+          },
+          "Tiefling": {
+            "page": 93
+          }
         }
       }
     }
   },
-
   "Dotes": {
     "page": 94,
     "children": {
-      "Descripciones de dotes": { "page": 94 },
-      "Dotes de origen": { "page": 94 },
-      "Dotes generales": { "page": 94 },
-      "Dotes de estilo de combate": { "page": 95 },
-      "Dotes de don épico": { "page": 95 }
+      "Descripciones de dotes": {
+        "page": 94
+      },
+      "Dotes de origen": {
+        "page": 94
+      },
+      "Dotes generales": {
+        "page": 94
+      },
+      "Dotes de estilo de combate": {
+        "page": 95
+      },
+      "Dotes de don épico": {
+        "page": 95
+      }
     }
   },
-
   "Equipo": {
     "page": 97,
     "children": {
-      "Monedas": { "page": 97 },
-      "Armas": { "page": 97 },
-      "Propiedades": { "page": 97 },
-      "Propiedades de maestría": { "page": 98 },
-      "Armaduras": { "page": 100 },
-      "Herramientas": { "page": 101 },
-      "Equipo de aventureros": { "page": 102 },
-      "Monturas y vehículos": { "page": 109 },
-      "Gastos relativos al nivel de vida": { "page": 110 },
-      "Comida, bebida y alojamiento": { "page": 110 },
-      "Asalariados": { "page": 111 },
-      "Lanzamiento de conjuros": { "page": 111 },
-      "Objetos mágicos": { "page": 111 },
-      "Fabricar objetos no mágicos": { "page": 112 },
-      "Elaborar pociones de curación": { "page": 112 },
-      "Elaborar pergaminos de conjuro": { "page": 112 }
+      "Monedas": {
+        "page": 97
+      },
+      "Armas": {
+        "page": 97
+      },
+      "Propiedades": {
+        "page": 97
+      },
+      "Propiedades de maestría": {
+        "page": 98
+      },
+      "Armaduras": {
+        "page": 100
+      },
+      "Herramientas": {
+        "page": 101
+      },
+      "Equipo de aventureros": {
+        "page": 102
+      },
+      "Monturas y vehículos": {
+        "page": 109
+      },
+      "Gastos relativos al nivel de vida": {
+        "page": 110
+      },
+      "Comida, bebida y alojamiento": {
+        "page": 110
+      },
+      "Asalariados": {
+        "page": 111
+      },
+      "Lanzamiento de conjuros": {
+        "page": 111
+      },
+      "Objetos mágicos": {
+        "page": 111
+      },
+      "Fabricar objetos no mágicos": {
+        "page": 112
+      },
+      "Elaborar pociones de curación": {
+        "page": 112
+      },
+      "Elaborar pergaminos de conjuro": {
+        "page": 112
+      }
     }
   },
-
   "Conjuros": {
     "page": 114,
     "children": {
-      "Obtener conjuros": { "page": 114 },
-      "Lanzar conjuros": { "page": 114 },
-      "Descripciones de conjuros": { "page": 118 }
+      "Obtener conjuros": {
+        "page": 114
+      },
+      "Lanzar conjuros": {
+        "page": 114
+      },
+      "Descripciones de conjuros": {
+        "page": 118
+      }
     }
   },
-
   "Glosario de reglas": {
     "page": 194
   },
-
   "Herramientas del juego": {
     "page": 211,
     "children": {
-      "Ritmo de viaje": { "page": 211 },
-      "Crear un trasfondo": { "page": 211 },
-      "Maldiciones y enfermedades mágicas": { "page": 212 },
-      "Efectos ambientales": { "page": 214 },
-      "Miedo y estrés psicológico": { "page": 215 },
-      "Veneno": { "page": 216 },
-      "Trampas": { "page": 218 },
-      "Encuentros de combate": { "page": 221 }
+      "Ritmo de viaje": {
+        "page": 211
+      },
+      "Crear un trasfondo": {
+        "page": 211
+      },
+      "Maldiciones y enfermedades mágicas": {
+        "page": 212
+      },
+      "Efectos ambientales": {
+        "page": 214
+      },
+      "Miedo y estrés psicológico": {
+        "page": 215
+      },
+      "Veneno": {
+        "page": 216
+      },
+      "Trampas": {
+        "page": 218
+      },
+      "Encuentros de combate": {
+        "page": 221
+      }
     }
   },
-
   "Objetos mágicos": {
     "page": 223,
     "children": {
-      "Categorías de objetos mágicos": { "page": 223 },
-      "Rareza de los objetos mágicos": { "page": 224 },
-      "Activar un objeto mágico": { "page": 225 },
-      "El siguiente amanecer": { "page": 225 },
-      "Objetos malditos": { "page": 225 },
-      "Resistencia de los objetos mágicos": { "page": 225 },
-      "Fabricar objetos mágicos": { "page": 226 },
-      "Objetos mágicos conscientes": { "page": 226 },
-      "Objetos mágicos de la A a la Z": { "page": 228 }
+      "Categorías de objetos mágicos": {
+        "page": 223
+      },
+      "Rareza de los objetos mágicos": {
+        "page": 224
+      },
+      "Activar un objeto mágico": {
+        "page": 225
+      },
+      "El siguiente amanecer": {
+        "page": 225
+      },
+      "Objetos malditos": {
+        "page": 225
+      },
+      "Resistencia de los objetos mágicos": {
+        "page": 225
+      },
+      "Fabricar objetos mágicos": {
+        "page": 226
+      },
+      "Objetos mágicos conscientes": {
+        "page": 226
+      },
+      "Objetos mágicos de la A a la Z": {
+        "page": 228
+      }
     }
   },
-
   "Monstruos": {
     "page": 278,
     "children": {
-      "Descripción general de los perfiles": { "page": 278 },
-      "Partes de un perfil": { "page": 278 },
-      "Interpretar a un monstruo": { "page": 279 }
+      "Descripción general de los perfiles": {
+        "page": 278
+      },
+      "Partes de un perfil": {
+        "page": 278
+      },
+      "Interpretar a un monstruo": {
+        "page": 279
+      }
     }
   },
-
   "Índice de perfiles": {
     "page": 283
   },
-
   "Monstruos de la A a la Z": {
     "page": 283
   },
-
   "Animales": {
     "page": 376
   }

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Doppelganger|Doppelganger (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 11 | +0 | +0 |
-| DES | 18 | +4 | +4 |
-| CON | 14 | +2 | +2 |
-| INT | 11 | +0 | +0 |
-| SAB | 12 | +1 | +1 |
-| CAR | 14 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    11 |  +0 |   +0 |
+| DES   |    18 |  +4 |   +4 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |    14 |  +2 |   +2 |
 
 **Habilidades:** Engaño +6, Perspicacia +3
 

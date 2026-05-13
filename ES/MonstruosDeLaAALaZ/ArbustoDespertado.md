@@ -15,13 +15,13 @@ related_en: "[[Monsters/Awakened Shrub|Awakened Shrub (EN)]]"
 **Velocidad:** 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 3 | -4 | -4 |
-| DES | 8 | -1 | -1 |
-| CON | 11 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |     3 |  -4 |   -4 |
+| DES   |     8 |  -1 |   -1 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Vulnerabilidades:** fuego
 

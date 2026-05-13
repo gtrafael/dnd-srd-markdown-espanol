@@ -16,7 +16,7 @@ related_en: "[[Spells/Reincarnate|Reincarnate (EN)]]"
 
 **Duración:** Instantáneo
 
-Tocas a un humanoide muerto o una parte de sus restos. Siempre que la criatura no lleve muerta más de 10 días, el conjuro forma un nuevo cuerpo y llama al alma para que entre en él. Tira 1d10 y consulta la tabla a continuación para determinar la especie del cuerpo, o bien tu GM elige otra especie jugable. 
+Tocas a un humanoide muerto o una parte de sus restos. Siempre que la criatura no lleve muerta más de 10 días, el conjuro forma un nuevo cuerpo y llama al alma para que entre en él. Tira 1d10 y consulta la tabla a continuación para determinar la especie del cuerpo, o bien tu GM elige otra especie jugable.
 
 | 1d10 | Especie        | 1d10 | Especie  |
 |-----:|----------------|-----:|----------|

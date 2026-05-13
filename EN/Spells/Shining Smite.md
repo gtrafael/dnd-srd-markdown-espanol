@@ -3,6 +3,7 @@ aliases: ["Shining Smite"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CastigoBrillante|Castigo brillante (Español)]]"
 ---
+
 ### Shining Smite
 
 *Level 2 Transmutation* (Paladin)

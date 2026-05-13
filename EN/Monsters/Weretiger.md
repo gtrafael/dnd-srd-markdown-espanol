@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/HombreTigre|Hombre tigre (Español)]]"
 
 **Speed 30 ft., 40 ft. (tiger form only)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0  |  +0  | **Wis** 13 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Perception +5, Stealth +4**
 

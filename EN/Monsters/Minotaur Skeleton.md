@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/MinotauroEsqueleto|Minotauro esqueleto (Españ
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 15 | +2 | +2 |
-| **Int** 6 | −2 | −2 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 11 | +0  |  +0  | **Con** 15 | +2 | +2 |
+| **Int** 6  | −2  |  −2  | **Wis** 8  | −1  |  −1  | **Cha** 5 | −3 | −3 |
 
 Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned
 

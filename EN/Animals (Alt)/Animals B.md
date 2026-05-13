@@ -8,11 +8,10 @@
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 4 | −3 | −3 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8 | −1  |  −1  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 4 | −3  |  −3  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Passive Perception 11**
 
@@ -40,11 +39,10 @@ Piercing damage.
 
 **Speed 20 ft., Burrow 5 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 11 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 11 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +3**
 
@@ -70,11 +68,10 @@ Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
 
 **Speed 5 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 15 | +2 | +2 | **Con** 8 | −1 | −1 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 4 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 15 | +2  |  +2  | **Con** 8 | −1 | −1 |
+| **Int** 2 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 4 | −3 | −3 |
 
 **Senses Blindsight 60 ft.; Passive Perception 11**
 
@@ -96,11 +93,10 @@ Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage.
 
 **Speed 30 ft., Climb 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 12 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +5**
 
@@ -128,11 +124,10 @@ Slashing damage.
 
 **Speed 10 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 14 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 5 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6 | −2  |  −2  | **Dex** 14 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 3 | −4  |  −4  | **Wis** 14 | +2  |  +2  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +6**
 
@@ -160,11 +155,10 @@ Beak. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage, or 6 
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 11 | +0 | +0 | **Con** 14 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 9 | −1 | −1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 11 | +0  |  +0  | **Con** 14 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 9  | −1  |  −1  | **Cha** 5 | −3 | −3 |
 
 **Senses Passive Perception 9**
 
@@ -192,11 +186,10 @@ Piercing damage. If the target is a Medium or smaller creature and the boar move
 
 **Speed 40 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 15 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 15 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 13 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +3**
 

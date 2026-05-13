@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Druida|Druida (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 12 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 12 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 11 | +0 | +0 |
 
 **Skills Medicine +5, Nature +3, Perception +5**
 

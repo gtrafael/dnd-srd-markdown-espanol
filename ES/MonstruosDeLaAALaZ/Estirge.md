@@ -17,13 +17,13 @@ related_en: "[[Monsters/Stirge|Stirge (EN)]]"
 **Velocidad:** 3 m, volar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 4 | -3 | -3 |
-| DES | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| SAB | 8 | -1 | -1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |     4 |  -3 |   -3 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 9
 

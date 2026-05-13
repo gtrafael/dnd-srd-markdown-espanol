@@ -3,6 +3,7 @@ aliases: ["Hippopotamus"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Hipopotamo|Hipopótamo (Español)]]"
 ---
+
 ## Hippopotamus
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Hipopotamo|Hipopótamo (Español)]]"
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +7 | **Dex** 7 | −2 | −2 | **Con** 15 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +7  | **Dex** 7  | −2  |  −2  | **Con** 15 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +3**
 

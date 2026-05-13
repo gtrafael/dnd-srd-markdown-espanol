@@ -14,10 +14,10 @@ Se conoce la existencia de cuatro tipos de cuerno del Valhalla, cada uno hecho d
 
 Si soplas el cuerno sin cumplir su requisito, los espíritus invocados te atacarán. Si cumples el requisito, serán amistosos contigo y tus aliados y seguirán tus órdenes.
 
-| 1d100 | Tipo de cuerno | Espíritus | Requisito |
-|---|---|---:|---|
-| 01–40 | Plata | 2 | Ninguno |
-| 41–75 | Latón | 3 | Competencia con todas las armas sencillas |
-| 76–90 | Bronce | 4 | Entrenamiento con todas las armaduras medias |
-| 91–00 | Hierro | 5 | Competencia con todas las armas marciales |
+| 1d100 | Tipo de cuerno | Espíritus | Requisito                                    |
+|-------|----------------|----------:|----------------------------------------------|
+| 01–40 | Plata          |         2 | Ninguno                                      |
+| 41–75 | Latón          |         3 | Competencia con todas las armas sencillas    |
+| 76–90 | Bronce         |         4 | Entrenamiento con todas las armaduras medias |
+| 91–00 | Hierro         |         5 | Competencia con todas las armas marciales    |
 

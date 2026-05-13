@@ -17,13 +17,13 @@ related_en: "[[Monsters/Steam Mephit|Steam Mephit (EN)]]"
 **Velocidad:** 9 m, volar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 5 | -3 | -3 |
-| DES | 11 | +0 | +0 |
-| CON | 10 | +0 | +0 |
-| INT | 11 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 12 | +1 | +1 |
+|-------|------:|----:|-----:|
+| FUE   |     5 |  -3 |   -3 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    12 |  +1 |   +1 |
 
 **Habilidades:** Sigilo +2
 

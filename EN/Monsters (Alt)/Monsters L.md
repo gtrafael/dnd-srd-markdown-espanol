@@ -8,11 +8,10 @@
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 15 | +2 | +2 |
-| **Int** 14 | +2 | +2 | **Wis** 15 | +2 | +2 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 15 | +2 | +2 |
+| **Int** 14 | +2  |  +2  | **Wis** 15 | +2  |  +2  | **Cha** 16 | +3 | +3 |
 
 **Skills Deception +7, Insight +4, Stealth +5**
 
@@ -48,11 +47,10 @@ Leap. The lamia jumps up to 30 feet by spending 10 feet of movement. Lemure
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 5 | −3 | −3 | **Con** 11 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 11 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 5  | −3  |  −3  | **Con** 11 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 11 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Resistances Cold**
 
@@ -82,11 +80,10 @@ Vile Slime. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Poison damage. Lich
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 16 | +3 | +10 | **Con** 16 | +3 | +10 |
-| **Int** 21 | +5 | +12 | **Wis** 14 | +2 | +9 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 16 | +3  | +10  | **Con** 16 | +3 | +10 |
+| **Int** 21 | +5  | +12  | **Wis** 14 | +2  |  +9  | **Cha** 16 | +3 | +3 |
 
 **Skills Arcana +19, History +12, Insight +9, Perception +9**
 

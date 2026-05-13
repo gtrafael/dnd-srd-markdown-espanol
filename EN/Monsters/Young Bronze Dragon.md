@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeBronceJoven|Dragón de bronce joven (E
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 10 | +0 | +3 | **Con** 19 | +4 | +4 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +4 | **Cha** 17 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 10 | +0  |  +3  | **Con** 19 | +4 | +4 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +4  | **Cha** 17 | +3 | +3 |
 
 **Skills Insight +4, Perception +7, Stealth +3**
 

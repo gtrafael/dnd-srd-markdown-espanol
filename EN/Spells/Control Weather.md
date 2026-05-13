@@ -3,6 +3,7 @@ aliases: ["Control Weather"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ControlarElClima|Controlar el clima (Español)]]"
 ---
+
 ### Control Weather
 
 *Level 8 Transmutation* (Cleric, Druid, Wizard)

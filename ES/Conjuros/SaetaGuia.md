@@ -16,9 +16,9 @@ related_en: "[[Spells/Guiding Bolt|Guiding Bolt (EN)]]"
 
 **Duración:** 1 asalto
 
-**Lanzas un rayo de luz hacia una criatura dentro del alcance.** Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibirá 4d6 de daño radiante y la siguiente tirada de ataque contra él antes del final de tu siguiente turno tendrá ventaja. 
+**Lanzas un rayo de luz hacia una criatura dentro del alcance.** Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibirá 4d6 de daño radiante y la siguiente tirada de ataque contra él antes del final de tu siguiente turno tendrá ventaja.
 
-**Con un espacio de conjuro de nivel superior.** 
+**Con un espacio de conjuro de nivel superior.**
 
 El daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio. 
 

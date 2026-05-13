@@ -16,7 +16,7 @@ related_en: "[[Spells/Heroism|Heroism (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-Insuflas valor a una criatura voluntaria a la que toques. Hasta que el conjuro termine, la criatura es inmune al estado de asustada y obtiene una cantidad de puntos de golpe temporales igual a tu modificador por aptitud mágica al principio de cada uno de sus turnos. 
+Insuflas valor a una criatura voluntaria a la que toques. Hasta que el conjuro termine, la criatura es inmune al estado de asustada y obtiene una cantidad de puntos de golpe temporales igual a tu modificador por aptitud mágica al principio de cada uno de sus turnos.
 
 **Con un espacio de conjuro de nivel superior.**
 

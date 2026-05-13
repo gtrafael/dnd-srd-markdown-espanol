@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeBronceAnciano|Dragón de bronce ancian
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 29 | +9 | +9 | **Dex** 10 | +0 | +7 | **Con** 27 | +8 | +8 |
-| **Int** 18 | +4 | +4 | **Wis** 17 | +3 | +10 | **Cha** 25 | +7 | +7 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 29 | +9  |  +9  | **Dex** 10 | +0  |  +7  | **Con** 27 | +8 | +8 |
+| **Int** 18 | +4  |  +4  | **Wis** 17 | +3  | +10  | **Cha** 25 | +7 | +7 |
 
 **Skills Insight +10, Perception +17, Stealth +7**
 

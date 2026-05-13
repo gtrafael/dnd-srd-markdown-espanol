@@ -17,13 +17,13 @@ related_en: "[[Animals/Badger|Badger (EN)]]"
 **Velocidad:** 6 m, excavar 1,5 m.
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 11 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Habilidades:** Percepción +3
 

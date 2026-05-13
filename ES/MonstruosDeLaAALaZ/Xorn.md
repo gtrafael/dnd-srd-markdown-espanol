@@ -15,13 +15,14 @@ related_en: "[[Monsters/Xorn|Xorn (EN)]]"
 **Velocidad:** 6 m, excavar 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 10 | +0 | +0 |
-| CON | — | — | — |
-| INT | 11 | +0 | +0 |
-| SAB | 10 | +0 | +0 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |     — |   — |    — |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    11 |  +0 |   +0 |
+
 **Habilidades:** Percepción +6, Sigilo +6
 
 **Inmunidades:** veneno; envenenado, paralizado, petrificado

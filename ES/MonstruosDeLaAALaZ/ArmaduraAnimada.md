@@ -17,13 +17,13 @@ related_en: "[[Monsters/Animated Armor|Animated Armor (EN)]]"
 **Velocidad:** 7,5 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 11 | +0 | +0 |
-| CON | 13 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| SAB | 3 | -4 | -4 |
-| CAR | 1 | -5 | -5 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     3 |  -4 |   -4 |
+| CAR   |     1 |  -5 |   -5 |
 
 **Inmunidades:** psíquico, veneno; asustado, cansancio, ensordecido, envenenado, hechizado, paralizado, petrificado
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeOropelAdulto|Dragón de oropel adulto 
 
 **Speed 40 ft., Burrow 30 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 10 | +0 | +5 | **Con** 21 | +5 | +5 |
-| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +6 | **Cha** 17 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 10 | +0  |  +5  | **Con** 21 | +5 | +5 |
+| **Int** 14 | +2  |  +2  | **Wis** 13 | +1  |  +6  | **Cha** 17 | +3 | +3 |
 
 **Skills History +7, Perception +11, Persuasion +8, Stealth +5**
 

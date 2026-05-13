@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Solar|Solar (Español)]]"
 
 **Speed 50 ft., Fly 150 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 26 | +8 | +8 | **Dex** 22 | +6 | +6 | **Con** 26 | +8 | +8 |
-| **Int** 25 | +7 | +7 | **Wis** 25 | +7 | +7 | **Cha** 30 | +10 | +10 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 26 | +8  |  +8  | **Dex** 22 | +6  |  +6  | **Con** 26 | +8 | +8 |
+| **Int** 25 | +7  |  +7  | **Wis** 25 | +7  |  +7  | **Cha** 30 | +10 | +10 |
 
 **Skills Perception +14**
 

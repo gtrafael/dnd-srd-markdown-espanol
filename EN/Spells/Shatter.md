@@ -3,6 +3,7 @@ aliases: ["Shatter"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/HacerAnicos|Hacer añicos (Español)]]"
 ---
+
 ### Shatter
 
 *Level 2 Evocation* (Bard, Sorcerer, Wizard)

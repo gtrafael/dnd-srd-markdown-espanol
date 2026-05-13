@@ -17,13 +17,13 @@ related_en: "[[Monsters/Satyr|Satyr (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 12 | +1 | +1 |
-| DES | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 12 | +1 | +1 |
-| SAB | 10 | +0 | +0 |
-| CAR | 14 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    12 |  +1 |   +1 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |    12 |  +1 |   +1 |
+| SAB   |    10 |  +0 |   +0 |
+| CAR   |    14 |  +2 |   +2 |
 
 **Habilidades:** Interpretación +6, Percepción +2, Sigilo +5
 

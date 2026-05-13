@@ -17,13 +17,13 @@ related_en: "[[Monsters/Centaur Trooper|Centaur Trooper (EN)]]"
 **Velocidad:** 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 9 | -1 | -1 |
-| SAB | 13 | +1 | +1 |
-| CAR | 11 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    14 |  +2 |   +2 |
+| INT   |     9 |  -1 |   -1 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |    11 |  +0 |   +0 |
 
 **Habilidades:** Atletismo +6, Percepción +3
 

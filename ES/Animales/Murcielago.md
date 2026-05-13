@@ -17,13 +17,13 @@ related_en: "[[Animals/Bat|Bat (EN)]]"
 **Velocidad:** 1,5 m, volar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 2 | -4 | -4 |
-| DES | 15 | +2 | +2 |
-| CON | 8 | -1 | -1 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 4 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |     2 |  -4 |   -4 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |     8 |  -1 |   -1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     4 |  -3 |   -3 |
 
 **Sentidos:** visión ciega 18 m; Percepción pasiva 11
 

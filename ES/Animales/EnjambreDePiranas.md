@@ -17,13 +17,13 @@ related_en: "[[Animals/Swarm of Piranhas|Swarm of Piranhas (EN)]]"
 **Velocidad:** 1,5 m, nadar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 13 | +1 | +1 |
-| DES | 16 | +3 | +3 |
-| CON | 9 | -1 | -1 |
-| INT | 1 | -5 | -5 |
-| SAB | 7 | -2 | -2 |
-| CAR | 2 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |    13 |  +1 |   +1 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |     9 |  -1 |   -1 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     7 |  -2 |   -2 |
+| CAR   |     2 |  -4 |   -4 |
 
 **Resistencias:** contundente, cortante, perforante
 

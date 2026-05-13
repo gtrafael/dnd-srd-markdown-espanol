@@ -3,6 +3,7 @@ aliases: ["Giant Frog"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/RanaGigante|Rana gigante (Español)]]"
 ---
+
 ## Giant Frog
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/RanaGigante|Rana gigante (Español)]]"
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 13 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 13 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Skills Perception +2, Stealth +4**
 

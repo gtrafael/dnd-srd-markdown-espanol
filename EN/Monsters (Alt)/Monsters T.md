@@ -8,11 +8,10 @@
 
 **Speed 60 ft., Burrow 40 ft., Climb 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 30 | +10 | +10 | **Dex** 11 | +0 | +9 | **Con** 30 | +10 | +10 |
-| **Int** 3 | −4 | +5 | **Wis** 11 | +0 | +9 | **Cha** 11 | +0 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 30 | +10 | +10  | **Dex** 11 | +0  |  +9  | **Con** 30 | +10 | +10 |
+| **Int** 3  | −4  |  +5  | **Wis** 11 | +0  |  +9  | **Cha** 11 | +0 | +9 |
 
 **Skills Perception +9**
 
@@ -70,11 +69,10 @@ Prone condition. The tarrasque can’t take this action again until the start of
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 14 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 12 | +1  |  +1  | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 11 | +0 | +0 |
 
 **Gear Heavy Crossbow, Leather Armor, Mace**
 
@@ -104,11 +102,10 @@ Heavy Crossbow. Ranged Attack Roll: +3, range 100/400 ft. Hit: 6 (1d10 + 1) Pier
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +5 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +5 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +5  | **Dex** 14 | +2  |  +2  | **Con** 16 | +3 | +5 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 11 | +0 | +2 |
 
 **Gear Chain Mail, Heavy Crossbow, Warhammer**
 
@@ -140,11 +137,10 @@ Heavy Crossbow. Ranged Attack Roll: +4, range 100/400 ft. Hit: 13 (2d10 + 2) Pie
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 8 | −1 | −1 | **Con** 21 | +5 | +5 |
-| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 8  | −1  |  −1  | **Con** 21 | +5 | +5 |
+| **Int** 12 | +1  |  +1  | **Wis** 16 | +3  |  +3  | **Cha** 12 | +1 | +1 |
 
 Vulnerabilities Fire Resistances Bludgeoning, Piercing Senses Passive Perception 13 Languages Common, Druidic, Elvish, Sylvan
 
@@ -176,11 +172,10 @@ The tree then takes root if possible. Troll
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 13 | +1 | +1 | **Con** 20 | +5 | +5 |
-| **Int** 7 | −2 | −2 | **Wis** 9 | −1 | −1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 13 | +1  |  +1  | **Con** 20 | +5 | +5 |
+| **Int** 7  | −2  |  −2  | **Wis** 9  | −1  |  −1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +5**
 
@@ -216,11 +211,10 @@ Charge. The troll moves up to half its Speed straight toward an enemy it can see
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 9 | −1 | −1 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 12 | +1  |  +1  | **Con** 10 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 9  | −1  |  −1  | **Cha** 1 | −5 | −5 |
 
 **Senses Darkvision 60 ft.; Passive Perception 9**
 

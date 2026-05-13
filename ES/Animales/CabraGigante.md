@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Goat|Giant Goat (EN)]]"
 **Velocidad:** 12 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +5 |
-| DES | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 3 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +5 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Percepción +3
 

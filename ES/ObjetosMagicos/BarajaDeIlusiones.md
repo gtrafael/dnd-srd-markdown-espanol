@@ -14,46 +14,43 @@ La magia de la baraja solo funciona si las cartas se roban al azar. Puedes utili
 
 Cualquier interacción física con la criatura ilusoria revelará que es falsa, ya que los objetos la atravesarán. Si una criatura emplea una acción de estudiar para inspeccionarla, identificará que es una ilusión si supera una prueba de Inteligencia (Investigación) con CD 15. La ilusión durará hasta que se disipe (mediante un conjuro disipar magia o un efecto similar) o hasta que alguien mueva la carta. Cuando la ilusión concluya, la imagen de la carta desaparecerá y esa carta no se podrá volver a usar.
 
-
 Baraja de ilusiones
 
-
-| 1d100 | Ilusión* |
-|---|---|
-| 01–03 | Archimago |
-| 04–06 | Asesino |
-| 07–09 | Basilisco |
-| 10–12 | Berserker |
-| 13–15 | Caballero |
-| 16–18 | Capitán bandido |
-| 19–21 | Dragón rojo adulto |
-| 22–24 | Druida |
-| 25–27 | Erinia |
-| 28–30 | Ettin |
-| 31–33 | Gigante de escarcha |
-| 34–36 | Gigante de fuego |
+| 1d100 | Ilusión*               |
+|-------|------------------------|
+| 01–03 | Archimago              |
+| 04–06 | Asesino                |
+| 07–09 | Basilisco              |
+| 10–12 | Berserker              |
+| 13–15 | Caballero              |
+| 16–18 | Capitán bandido        |
+| 19–21 | Dragón rojo adulto     |
+| 22–24 | Druida                 |
+| 25–27 | Erinia                 |
+| 28–30 | Ettin                  |
+| 31–33 | Gigante de escarcha    |
+| 34–36 | Gigante de fuego       |
 | 37–39 | Gigante de las colinas |
-| 40–42 | Gigante de las nubes |
-| 43–45 | Gólem de hierro |
-| 46–48 | Guerrero gnoll |
-| 49–51 | Guerrero goblin |
-| 52–54 | Guerrero hobgoblin |
-| 55–57 | Guerrero kobold |
-| 58–60 | Guerrero osgo |
-| 61–63 | Guerrero veterano |
-| 64–66 | Guiverno |
-| 67–69 | Íncubo |
-| 70–72 | Liche |
-| 73–75 | Medusa |
-| 76–78 | Naga guardiana |
-| 79–81 | Ogro |
-| 82–84 | Oni |
-| 85–87 | Sacerdote |
-| 88–90 | Saga de la noche |
-| 91–93 | Súcubo |
-| 94–96 | Troll |
-| 97–00 | El dueño de la baraja |
-
+| 40–42 | Gigante de las nubes   |
+| 43–45 | Gólem de hierro        |
+| 46–48 | Guerrero gnoll         |
+| 49–51 | Guerrero goblin        |
+| 52–54 | Guerrero hobgoblin     |
+| 55–57 | Guerrero kobold        |
+| 58–60 | Guerrero osgo          |
+| 61–63 | Guerrero veterano      |
+| 64–66 | Guiverno               |
+| 67–69 | Íncubo                 |
+| 70–72 | Liche                  |
+| 73–75 | Medusa                 |
+| 76–78 | Naga guardiana         |
+| 79–81 | Ogro                   |
+| 82–84 | Oni                    |
+| 85–87 | Sacerdote              |
+| 88–90 | Saga de la noche       |
+| 91–93 | Súcubo                 |
+| 94–96 | Troll                  |
+| 97–00 | El dueño de la baraja  |
 
 *Los perfiles de las criaturas (salvo el dueño de la baraja) aparecen en el capítulo “Monstruos”.
 

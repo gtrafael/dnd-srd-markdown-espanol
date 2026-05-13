@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Ifrit|Ifrit (Español)]]"
 
 **Speed 40 ft., Fly 60 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 12 | +1 | +1 | **Con** 24 | +7 | +7 |
-| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +6 | **Cha** 19 | +4 | +8 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 12 | +1  |  +1  | **Con** 24 | +7 | +7 |
+| **Int** 16 | +3  |  +3  | **Wis** 15 | +2  |  +6  | **Cha** 19 | +4 | +8 |
 
 **Immunities Fire**
 

@@ -3,6 +3,7 @@ aliases: ["Compulsion"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Compulsion|Compulsión (Español)]]"
 ---
+
 ### Compulsion
 
 *Level 4 Enchantment* (Bard)

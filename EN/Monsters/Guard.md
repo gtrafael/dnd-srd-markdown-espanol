@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Guardia|Guardia (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 12 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +0  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +2**
 

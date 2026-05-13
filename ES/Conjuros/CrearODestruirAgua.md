@@ -16,11 +16,11 @@ related_en: "[[Spells/Create or Destroy Water|Create or Destroy Water (EN)]]"
 
 **Duración:** Instantáneo
 
-Produces uno de estos efectos: 
+Produces uno de estos efectos:
 
-**Crear agua.** Creas hasta 40 l de agua limpia dentro del alcance en un recipiente abierto. Como alternativa, el agua cae en forma de lluvia en un cubo de 9 m de lado dentro del alcance y apaga las llamas desprotegidas de la zona. 
+**Crear agua.** Creas hasta 40 l de agua limpia dentro del alcance en un recipiente abierto. Como alternativa, el agua cae en forma de lluvia en un cubo de 9 m de lado dentro del alcance y apaga las llamas desprotegidas de la zona.
 
-**Destruir agua.** Destruyes hasta 40 l de agua dentro del alcance en un recipiente abierto. Como alternativa, puedes destruir niebla en un cubo de 9 m de lado dentro del alcance. 
+**Destruir agua.** Destruyes hasta 40 l de agua dentro del alcance en un recipiente abierto. Como alternativa, puedes destruir niebla en un cubo de 9 m de lado dentro del alcance.
 
 **Con un espacio de conjuro de nivel superior.**
 

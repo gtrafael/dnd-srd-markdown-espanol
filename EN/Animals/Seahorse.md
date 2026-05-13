@@ -3,6 +3,7 @@ aliases: ["Seahorse"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/CaballitoDeMar|Caballito de mar (Español)]]"
 ---
+
 ## Seahorse
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/CaballitoDeMar|Caballito de mar (Español)]]"
 
 **Speed 5 ft., Swim 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 1 | −5 | −5 | **Dex** 12 | +1 | +1 | **Con** 8 | −1 | −1 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 2 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 1 | −5  |  −5  | **Dex** 12 | +1  |  +1  | **Con** 8 | −1 | −1 |
+| **Int** 1 | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 2 | −4 | −4 |
 
 **Skills Perception +2, Stealth +5**
 

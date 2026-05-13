@@ -3,6 +3,7 @@ aliases: ["Pass without Trace"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/PasarSinRastro|Pasar sin rastro (Español)]]"
 ---
+
 ### Pass without Trace
 
 *Level 2 Abjuration* (Druid, Ranger)

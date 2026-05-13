@@ -3,6 +3,7 @@ aliases: ["Elephant"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Elefante|Elefante (Español)]]"
 ---
+
 ## Elephant
 
 *Huge Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Elefante|Elefante (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 9 | −1 | −1 | **Con** 17 | +3 | +3 |
-| **Int** 3 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 9  | −1  |  −1  | **Con** 17 | +3 | +3 |
+| **Int** 3  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 6 | −2 | −2 |
 
 **Senses Passive Perception 10**
 

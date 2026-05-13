@@ -3,6 +3,7 @@ aliases: ["Bat"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Murcielago|Murciélago (Español)]]"
 ---
+
 ## Bat
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Murcielago|Murciélago (Español)]]"
 
 **Speed 5 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 2 | −4 | −4 | **Dex** 15 | +2 | +2 | **Con** 8 | −1 | −1 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 4 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 2 | −4  |  −4  | **Dex** 15 | +2  |  +2  | **Con** 8 | −1 | −1 |
+| **Int** 2 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 4 | −3 | −3 |
 
 **Senses Blindsight 60 ft.; Passive Perception 11**
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GiganteDeLasNubes|Gigante de las nubes (Españ
 
 **Speed 40 ft., Fly 20 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 27 | +8 | +8 | **Dex** 10 | +0 | +0 | **Con** 22 | +6 | +10 |
-| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +7 | **Cha** 16 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 27 | +8  |  +8  | **Dex** 10 | +0  |  +0  | **Con** 22 | +6 | +10 |
+| **Int** 12 | +1  |  +1  | **Wis** 16 | +3  |  +7  | **Cha** 16 | +3 | +3 |
 
 **Skills Insight +7, Perception +11**
 

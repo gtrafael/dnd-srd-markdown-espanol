@@ -5,17 +5,17 @@ tags: [srd, espanol, tag_glosariodereglas, sin-equivalente]
 
 # Convenciones del glosario
 
-El glosario utiliza las siguientes convenciones: 
+El glosario utiliza las siguientes convenciones:
 
-Etiquetas entre corchetes. Algunas entradas tienen una etiqueta entre corchetes tras su nombre, como en “Atacar [acción]”. La etiqueta (acción, actitud, área de efecto, estado o peligro) indica que una regla forma parte de una familia de reglas. Las etiquetas también tienen entradas en el glosario. 
+Etiquetas entre corchetes. Algunas entradas tienen una etiqueta entre corchetes tras su nombre, como en “Atacar [acción]”. La etiqueta (acción, actitud, área de efecto, estado o peligro) indica que una regla forma parte de una familia de reglas. Las etiquetas también tienen entradas en el glosario.
 
-“Tú”. Las reglas del juego (tanto en este glosario como en otras partes) suelen hablar de algo que te ocurre a ti en el mundo del juego. Esos “tú” o “a ti” se refieren a la criatura u objeto a la que atañe la regla en un determinado momento de la partida. Por ejemplo, en el estado de derribado, el uso de la segunda persona se refiere a una criatura que tiene dicho estado en ese momento. 
+“Tú”. Las reglas del juego (tanto en este glosario como en otras partes) suelen hablar de algo que te ocurre a ti en el mundo del juego. Esos “tú” o “a ti” se refieren a la criatura u objeto a la que atañe la regla en un determinado momento de la partida. Por ejemplo, en el estado de derribado, el uso de la segunda persona se refiere a una criatura que tiene dicho estado en ese momento.
 
-“Consulta también”. Algunas entradas del glosario incluyen un apartado Consulta también que hace referencia a otras entradas del glosario, a otras partes de este documento o a ambas cosas. 
+“Consulta también”. Algunas entradas del glosario incluyen un apartado Consulta también que hace referencia a otras entradas del glosario, a otras partes de este documento o a ambas cosas.
 
-Ningún término obsoleto. El glosario contiene únicamente las definiciones de los términos de reglas actuales. Si buscas un término de una versión anterior de las reglas de la quinta edición, consulta el índice de términos. 
+Ningún término obsoleto. El glosario contiene únicamente las definiciones de los términos de reglas actuales. Si buscas un término de una versión anterior de las reglas de la quinta edición, consulta el índice de términos.
 
-Abreviaciones. Las abreviaciones que se indican a continuación aparecen en este glosario y en otras partes de las reglas. 
+Abreviaciones. Las abreviaciones que se indican a continuación aparecen en este glosario y en otras partes de las reglas.
 
 | Abreviatura | Significado                 | Abreviatura | Significado             |
 |-------------|-----------------------------|-------------|-------------------------|

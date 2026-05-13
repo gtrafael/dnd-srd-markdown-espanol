@@ -3,6 +3,7 @@ aliases: ["Giant Wasp"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/AvispaGigante|Avispa gigante (Español)]]"
 ---
+
 ## Giant Wasp
 
 *Medium Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/AvispaGigante|Avispa gigante (Español)]]"
 
 **Speed 10 ft., Fly 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 14 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Senses Passive Perception 10**
 

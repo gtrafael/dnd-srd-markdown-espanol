@@ -17,13 +17,13 @@ related_en: "[[Monsters/Griffon|Griffon (EN)]]"
 **Velocidad:** 9 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 18 | +4 | +4 |
-| DES | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| SAB | 13 | +1 | +1 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    18 |  +4 |   +4 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Habilidades:** Percepción +5
 

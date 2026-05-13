@@ -17,13 +17,13 @@ related_en: "[[Animals/Jackal|Jackal (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 8 | -1 | -1 |
-| DES | 15 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |     8 |  -1 |   -1 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    11 |  +0 |   +0 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Percepción +5, Sigilo +4
 

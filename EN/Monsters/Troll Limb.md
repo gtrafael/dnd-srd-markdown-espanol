@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/ExtremidadDeTroll|Extremidad de troll (Españo
 
 **Speed 20 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 9 | −1 | −1 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 12 | +1  |  +1  | **Con** 10 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 9  | −1  |  −1  | **Cha** 1 | −5 | −5 |
 
 **Senses Darkvision 60 ft.; Passive Perception 9**
 

@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Fire Beetle|Giant Fire Beetle (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 8 | -1 | -1 |
-| DES | 10 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| SAB | 7 | -2 | -2 |
-| CAR | 3 | -4 | -4 |
+|-------|------:|----:|-----:|
+| FUE   |     8 |  -1 |   -1 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     7 |  -2 |   -2 |
+| CAR   |     3 |  -4 |   -4 |
 
 **Resistencias:** fuego
 

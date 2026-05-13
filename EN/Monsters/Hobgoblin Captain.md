@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/CapitanHobgoblin|Capitán hobgoblin (Español)
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 12 | +1 | +1 | **Wis** 10 | +0 | +0 | **Cha** 13 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 12 | +1  |  +1  | **Wis** 10 | +0  |  +0  | **Cha** 13 | +1 | +1 |
 
 **Gear Greatsword, Half Plate Armor, Longbow**
 

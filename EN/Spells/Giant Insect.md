@@ -3,6 +3,7 @@ aliases: ["Giant Insect"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/InsectoGigante|Insecto gigante (Español)]]"
 ---
+
 ### Giant Insect
 
 *Level 4 Conjuration* (Druid)

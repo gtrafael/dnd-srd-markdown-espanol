@@ -16,7 +16,7 @@ related_en: "[[Spells/Shining Smite|Shining Smite (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-El objetivo del golpe recibe 2d6 de daño radiante adicional del ataque. Hasta que el conjuro termine, el objetivo emitirá luz brillante en un radio de 1,5 m, las tiradas de ataque contra él tendrán ventaja y no podrá beneficiarse del estado de invisible. 
+El objetivo del golpe recibe 2d6 de daño radiante adicional del ataque. Hasta que el conjuro termine, el objetivo emitirá luz brillante en un radio de 1,5 m, las tiradas de ataque contra él tendrán ventaja y no podrá beneficiarse del estado de invisible.
 
 **Con un espacio de conjuro de nivel superior.**
 

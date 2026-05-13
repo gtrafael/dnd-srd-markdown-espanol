@@ -22,10 +22,9 @@ La criatura se considera un aliado para tus aliados y para ti. En combate, la cr
 
 **Con un espacio de conjuro de nivel superior.** Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil.
 
-
 # Insecto gigante
 
-Bestia Grande, sin alineamiento 
+Bestia Grande, sin alineamiento
 
 **CA:** 11 + el nivel del conjuro
 

@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Badger|Giant Badger (EN)]]"
 **Velocidad:** 9 m, excavar 3 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 13 | +1 | +1 |
-| DES | 10 | +0 | +0 |
-| CON | 17 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    13 |  +1 |   +1 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Habilidades:** Percepción +3
 

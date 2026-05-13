@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Aboleth|Aboleth (Español)]]"
 
 **Speed 10 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 9 | −1 | +3 | **Con** 15 | +2 | +6 |
-| **Int** 18 | +4 | +8 | **Wis** 15 | +2 | +6 | **Cha** 18 | +4 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 9  | −1  |  +3  | **Con** 15 | +2 | +6 |
+| **Int** 18 | +4  |  +8  | **Wis** 15 | +2  |  +6  | **Cha** 18 | +4 | +4 |
 
 **Skills History +12, Perception +10**
 

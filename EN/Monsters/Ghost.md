@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Fantasma|Fantasma (Español)]]"
 
 **Speed 5 ft., Fly 40 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 7 | −2 | −2 | **Dex** 13 | +1 | +1 | **Con** 10 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 17 | +3 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 7  | −2  |  −2  | **Dex** 13 | +1  |  +1  | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 12 | +1  |  +1  | **Cha** 17 | +3 | +3 |
 
 **Resistances Acid, Bludgeoning, Cold, Fire, Lightning,**
 

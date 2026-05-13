@@ -3,6 +3,7 @@ aliases: ["Searing Smite"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CastigoAbrasador|Castigo abrasador (Español)]]"
 ---
+
 ### Searing Smite
 
 *Level 1 Evocation* (Paladin)

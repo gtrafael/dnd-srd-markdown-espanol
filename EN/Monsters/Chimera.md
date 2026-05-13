@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Quimera|Quimera (Español)]]"
 
 **Speed 30 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 19 | +4 | +4 |
-| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 11 | +0  |  +0  | **Con** 19 | +4 | +4 |
+| **Int** 3  | −4  |  −4  | **Wis** 14 | +2  |  +2  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +8**
 

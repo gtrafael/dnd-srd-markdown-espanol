@@ -16,7 +16,7 @@ related_en: "[[Spells/Divine Word|Divine Word (EN)]]"
 
 **Duración:** Instantáneo
 
-Susurras una palabra imbuida con el poder de los Planos Superiores. Todas las criaturas de tu elección dentro del alcance realizan una tirada de salvación de Carisma. Si la fallan, los objetivos que tengan 50 puntos de golpe o menos sufrirán un efecto en función de sus puntos de golpe actuales, como se muestra en la tabla “Efectos de palabra divina”. Con independencia de sus puntos de golpe, cualquier objetivo celestial, elemental, feérico o infernal que falle su tirada de salvación se verá forzado a regresar a su plano de origen (si no está en él ya) y no podrá regresar al plano actual durante 24 horas por cualquier medio que no sea un conjuro deseo. 
+Susurras una palabra imbuida con el poder de los Planos Superiores. Todas las criaturas de tu elección dentro del alcance realizan una tirada de salvación de Carisma. Si la fallan, los objetivos que tengan 50 puntos de golpe o menos sufrirán un efecto en función de sus puntos de golpe actuales, como se muestra en la tabla “Efectos de palabra divina”. Con independencia de sus puntos de golpe, cualquier objetivo celestial, elemental, feérico o infernal que falle su tirada de salvación se verá forzado a regresar a su plano de origen (si no está en él ya) y no podrá regresar al plano actual durante 24 horas por cualquier medio que no sea un conjuro deseo.
 
 **Efectos de palabra divina**
 

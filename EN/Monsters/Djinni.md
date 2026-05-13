@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Djinn|Djinn (Español)]]"
 
 **Speed 30 ft., Fly 90 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 15 | +2 | +6 | **Con** 22 | +6 | +6 |
-| **Int** 15 | +2 | +2 | **Wis** 16 | +3 | +7 | **Cha** 20 | +5 | +5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 15 | +2  |  +6  | **Con** 22 | +6 | +6 |
+| **Int** 15 | +2  |  +2  | **Wis** 16 | +3  |  +7  | **Cha** 20 | +5 | +5 |
 
 **Immunities Lightning, Thunder**
 

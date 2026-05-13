@@ -3,6 +3,7 @@ aliases: ["Glibness"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Labia|Labia (Español)]]"
 ---
+
 ### Glibness
 
 *Level 8 Enchantment* (Bard, Warlock)

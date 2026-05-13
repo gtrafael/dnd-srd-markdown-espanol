@@ -3,6 +3,7 @@ aliases: ["Giant Elk"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/AlceGigante|Alce gigante (Español)]]"
 ---
+
 ## Giant Elk
 
 *Huge Celestial, Neutral Good*
@@ -13,11 +14,10 @@ related_es: "[[Animales/AlceGigante|Alce gigante (Español)]]"
 
 **Speed 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +6 | **Dex** 18 | +4 | +6 | **Con** 14 | +2 | +2 |
-| **Int** 7 | −2 | −2 | **Wis** 14 | +2 | +2 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +6  | **Dex** 18 | +4  |  +6  | **Con** 14 | +2 | +2 |
+| **Int** 7  | −2  |  −2  | **Wis** 14 | +2  |  +2  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +4**
 

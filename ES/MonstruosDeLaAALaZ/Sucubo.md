@@ -17,13 +17,13 @@ related_en: "[[Monsters/Succubus|Succubus (EN)]]"
 **Velocidad:** 9 m, volar 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 8 | -1 | -1 |
-| DES | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 15 | +2 | +2 |
-| SAB | 12 | +1 | +1 |
-| CAR | 20 | +5 | +5 |
+|-------|------:|----:|-----:|
+| FUE   |     8 |  -1 |   -1 |
+| DES   |    17 |  +3 |   +3 |
+| CON   |    13 |  +1 |   +1 |
+| INT   |    15 |  +2 |   +2 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |    20 |  +5 |   +5 |
 
 **Habilidades:** Engaño +9, Percepción +5, Perspicacia +5, Persuasión +9, Sigilo +7
 

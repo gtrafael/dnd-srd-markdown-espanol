@@ -11,10 +11,10 @@ Cuando bebas esta poción, recuperarás puntos de golpe. La cantidad depende de 
 
 Independientemente de su potencia, el líquido rojo de la poción brilla al agitarse.
 
-| Poción | PG recuperados | Rareza |
-|---|---|---|
-| Poción de curación | 2d4 + 2 | Común |
-| Poción de curación (mayor) | 4d4 + 4 | Infrecuente |
-| Poción de curación (superior) | 8d4 + 8 | Rara |
-| Poción de curación (suprema) | 10d4 + 20 | Muy rara |
+| Poción                        | PG recuperados | Rareza      |
+|-------------------------------|----------------|-------------|
+| Poción de curación            | 2d4 + 2        | Común       |
+| Poción de curación (mayor)    | 4d4 + 4        | Infrecuente |
+| Poción de curación (superior) | 8d4 + 8        | Rara        |
+| Poción de curación (suprema)  | 10d4 + 20      | Muy rara    |
 

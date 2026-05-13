@@ -3,6 +3,7 @@ aliases: ["Forcecage"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/JaulaDeFuerza|Jaula de fuerza (Español)]]"
 ---
+
 ### Forcecage
 
 *Level 7 Evocation* (Bard, Warlock, Wizard)

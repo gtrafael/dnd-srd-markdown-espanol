@@ -3,6 +3,7 @@ aliases: ["Plesiosaurus"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Plesiosaurio|Plesiosaurio (Español)]]"
 ---
+
 ## Plesiosaurus
 
 *Large Beast (Dinosaur), Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Plesiosaurio|Plesiosaurio (Español)]]"
 
 **Speed 20 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +2  | **Con** 16 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +3, Stealth +4**
 

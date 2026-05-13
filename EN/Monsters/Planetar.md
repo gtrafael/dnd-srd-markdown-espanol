@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Planetar|Planetar (Español)]]"
 
 **Speed 40 ft., Fly 120 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 24 | +7 | +12 | **Dex** 20 | +5 | +5 | **Con** 24 | +7 | +12 |
-| **Int** 19 | +4 | +4 | **Wis** 22 | +6 | +11 | **Cha** 25 | +7 | +12 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 24 | +7  | +12  | **Dex** 20 | +5  |  +5  | **Con** 24 | +7 | +12 |
+| **Int** 19 | +4  |  +4  | **Wis** 22 | +6  | +11  | **Cha** 25 | +7 | +12 |
 
 **Skills Perception +11**
 

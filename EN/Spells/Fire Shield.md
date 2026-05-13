@@ -3,6 +3,7 @@ aliases: ["Fire Shield"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/EscudoDeFuego|Escudo de fuego (Español)]]"
 ---
+
 ### Fire Shield
 
 *Level 4 Evocation* (Druid, Sorcerer, Wizard)

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/ArmaduraAnimada|Armadura animada (Español)]]"
 
 **Speed 25 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 11 | +0 | +0 | **Con** 13 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 3 | −4 | −4 | **Cha** 1 | −5 | −5 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 11 | +0  |  +0  | **Con** 13 | +1 | +1 |
+| **Int** 1  | −5  |  −5  | **Wis** 3  | −4  |  −4  | **Cha** 1 | −5 | −5 |
 
 **Immunities Poison, Psychic; Charmed, Deafened,**
 

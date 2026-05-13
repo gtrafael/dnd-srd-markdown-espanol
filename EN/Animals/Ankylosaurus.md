@@ -3,6 +3,7 @@ aliases: ["Ankylosaurus"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Anquilosaurio|Anquilosaurio (Español)]]"
 ---
+
 ## Ankylosaurus
 
 *Huge Beast (Dinosaur), Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Anquilosaurio|Anquilosaurio (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +6 | **Dex** 11 | +0 | +0 | **Con** 15 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +6  | **Dex** 11 | +0  |  +0  | **Con** 15 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Senses Passive Perception 11**
 

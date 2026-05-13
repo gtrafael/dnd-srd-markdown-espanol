@@ -3,20 +3,21 @@ aliases: ["Druid"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Druida|Druida (Español)]]"
 ---
+
 # Druid
 
 ## Core Druid Traits
 
-| Trait | Detail |
-|---|---|
-| Primary Ability | Wisdom |
-| Hit Point Die | D8 per Druid level |
-| Saving Throw Proficiencies | Intelligence and Wisdom |
-| Skill Proficiencies | Choose 2: Animal Handling, Arcana, Insight, Medicine, Nature, Perception, Religion, or Survival |
-| Weapon Proficiencies | Simple weapons |
-| Tool Proficiencies | Herbalism Kit |
-| Armour Training | Light armour and Shields |
-| Starting Equipment | Choose A or B: (A) Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
+| Trait                      | Detail                                                                                                                                  |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Primary Ability            | Wisdom                                                                                                                                  |
+| Hit Point Die              | D8 per Druid level                                                                                                                      |
+| Saving Throw Proficiencies | Intelligence and Wisdom                                                                                                                 |
+| Skill Proficiencies        | Choose 2: Animal Handling, Arcana, Insight, Medicine, Nature, Perception, Religion, or Survival                                         |
+| Weapon Proficiencies       | Simple weapons                                                                                                                          |
+| Tool Proficiencies         | Herbalism Kit                                                                                                                           |
+| Armour Training            | Light armour and Shields                                                                                                                |
+| Starting Equipment         | Choose A or B: (A) Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
 
 ### Becoming a Druid
 
@@ -34,28 +35,28 @@ related_es: "[[Clases/Druida|Druida (Español)]]"
 
 As a Druid, you gain the following class features when you reach the specified Druid levels. These features are listed in the Druid Features table.
 
-| Level | Proficiency Bonus | Class Features | Cantrips | Wild Shape | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | +2 | Spellcasting, Druidic, Primal Order | 2 | — | 4 | 2 | — | — | — | — | — | — | — | — |
-| 2 | +2 | Wild Shape, Wild Companion | 2 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
-| 3 | +2 | Druid Subclass | 2 | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
-| 4 | +2 | Ability Score Improvement | 2 | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
-| 5 | +3 | Wild Resurgence | 2 | 3 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6 | +3 | Subclass feature | 3 | 3 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7 | +3 | Elemental Fury | 3 | 3 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8 | +3 | Ability Score Improvement | 3 | 3 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9 | +4 | — | 3 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10 | +4 | Subclass feature | 3 | 4 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11 | +4 | — | 3 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12 | +4 | Ability Score Improvement | 3 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13 | +5 | — | 3 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14 | +5 | Subclass feature | 3 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15 | +5 | Improved Elemental Fury | 3 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16 | +5 | Ability Score Improvement | 3 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17 | +6 | — | 4 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18 | +6 | Beast Spells | 4 | 4 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19 | +6 | Epic Boon | 4 | 4 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20 | +6 | Archdruid | 4 | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Level | Proficiency Bonus | Class Features                      | Cantrips | Wild Shape | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|-------------------|-------------------------------------|----------|------------|-----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1     | +2                | Spellcasting, Druidic, Primal Order | 2        | —          | 4               | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +2                | Wild Shape, Wild Companion          | 2        | 2          | 5               | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +2                | Druid Subclass                      | 2        | 2          | 6               | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +2                | Ability Score Improvement           | 2        | 3          | 7               | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +3                | Wild Resurgence                     | 2        | 3          | 9               | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6     | +3                | Subclass feature                    | 3        | 3          | 10              | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7     | +3                | Elemental Fury                      | 3        | 3          | 11              | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8     | +3                | Ability Score Improvement           | 3        | 3          | 12              | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9     | +4                | —                                   | 3        | 3          | 14              | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10    | +4                | Subclass feature                    | 3        | 4          | 15              | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11    | +4                | —                                   | 3        | 4          | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12    | +4                | Ability Score Improvement           | 3        | 4          | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +5                | —                                   | 3        | 4          | 17              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +5                | Subclass feature                    | 3        | 4          | 17              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15    | +5                | Improved Elemental Fury             | 3        | 4          | 18              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16    | +5                | Ability Score Improvement           | 3        | 4          | 18              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17    | +6                | —                                   | 4        | 4          | 19              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6                | Beast Spells                        | 4        | 4          | 20              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6                | Epic Boon                           | 4        | 4          | 21              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6                | Archdruid                           | 4        | 4          | 22              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### Level 1: Spellcasting
 
@@ -112,10 +113,10 @@ When choosing known forms, you may look in other sources for eligible Beasts if 
 #### Beast Shapes
 
 | Druid Level | Known Forms | Max CR | Fly Speed |
-|---|---|---|---|
-| 2 | 4 | 1/4 | No |
-| 4 | 6 | 1/2 | No |
-| 8 | 8 | 1 | Yes |
+|-------------|-------------|--------|-----------|
+| 2           | 4           | 1/4    | No        |
+| 4           | 6           | 1/2    | No        |
+| 8           | 8           | 1      | Yes       |
 
 **Rules While Shape-Shifted.** While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
@@ -185,177 +186,177 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 ### Cantrips (Level 0 Druid Spells)
 
-| Spell | School | Special |
-|---|---|---|
-| Druidcraft | Transmutation | — |
-| Elementalism | Transmutation | — |
-| Guidance | Divination | C |
-| Mending | Transmutation | — |
-| Message | Transmutation | — |
-| Poison Spray | Necromancy | — |
-| Produce Flame | Conjuration | — |
-| Resistance | Abjuration | C |
-| Shillelagh | Transmutation | — |
-| Spare the Dying | Necromancy | — |
-| Starry Wisp | Evocation | — |
+| Spell           | School        | Special |
+|-----------------|---------------|---------|
+| Druidcraft      | Transmutation | —       |
+| Elementalism    | Transmutation | —       |
+| Guidance        | Divination    | C       |
+| Mending         | Transmutation | —       |
+| Message         | Transmutation | —       |
+| Poison Spray    | Necromancy    | —       |
+| Produce Flame   | Conjuration   | —       |
+| Resistance      | Abjuration    | C       |
+| Shillelagh      | Transmutation | —       |
+| Spare the Dying | Necromancy    | —       |
+| Starry Wisp     | Evocation     | —       |
 
 ### Level 1 Druid Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Animal Friendship | Enchantment | — |
-| Charm Person | Enchantment | — |
-| Create or Destroy Water | Transmutation | — |
-| Cure Wounds | Abjuration | — |
-| Detect Magic | Divination | C, R |
-| Detect Poison and Disease | Divination | C, R |
-| Entangle | Conjuration | C |
-| Faerie Fire | Evocation | C |
-| Fog Cloud | Conjuration | C |
-| Goodberry | Conjuration | — |
-| Healing Word | Abjuration | — |
-| Ice Knife | Conjuration | — |
-| Jump | Transmutation | — |
-| Longstrider | Transmutation | — |
-| Protection from Evil and Good | Abjuration | C, M |
-| Purify Food and Drink | Transmutation | R |
-| Speak with Animals | Divination | R |
-| Thunderwave | Evocation | — |
+| Spell                         | School        | Special |
+|-------------------------------|---------------|---------|
+| Animal Friendship             | Enchantment   | —       |
+| Charm Person                  | Enchantment   | —       |
+| Create or Destroy Water       | Transmutation | —       |
+| Cure Wounds                   | Abjuration    | —       |
+| Detect Magic                  | Divination    | C, R    |
+| Detect Poison and Disease     | Divination    | C, R    |
+| Entangle                      | Conjuration   | C       |
+| Faerie Fire                   | Evocation     | C       |
+| Fog Cloud                     | Conjuration   | C       |
+| Goodberry                     | Conjuration   | —       |
+| Healing Word                  | Abjuration    | —       |
+| Ice Knife                     | Conjuration   | —       |
+| Jump                          | Transmutation | —       |
+| Longstrider                   | Transmutation | —       |
+| Protection from Evil and Good | Abjuration    | C, M    |
+| Purify Food and Drink         | Transmutation | R       |
+| Speak with Animals            | Divination    | R       |
+| Thunderwave                   | Evocation     | —       |
 
 ### Level 2 Druid Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Aid | Abjuration | — |
-| Animal Messenger | Enchantment | R |
-| Augury | Divination | R, M |
-| Barkskin | Transmutation | — |
-| Continual Flame | Evocation | M |
-| Darkvision | Transmutation | — |
-| Enhance Ability | Transmutation | C |
-| Enlarge/Reduce | Transmutation | C |
-| Find Traps | Divination | — |
-| Flame Blade | Evocation | C |
-| Flaming Sphere | Evocation | C |
-| Gust of Wind | Evocation | C |
-| Heat Metal | Transmutation | C |
-| Hold Person | Enchantment | C |
-| Lesser Restoration | Abjuration | — |
-| Locate Animals or Plants | Divination | R |
-| Locate Object | Divination | C |
-| Moonbeam | Evocation | C |
-| Pass without Trace | Abjuration | C |
-| Protection from Poison | Abjuration | — |
-| Spike Growth | Transmutation | C |
+| Spell                    | School        | Special |
+|--------------------------|---------------|---------|
+| Aid                      | Abjuration    | —       |
+| Animal Messenger         | Enchantment   | R       |
+| Augury                   | Divination    | R, M    |
+| Barkskin                 | Transmutation | —       |
+| Continual Flame          | Evocation     | M       |
+| Darkvision               | Transmutation | —       |
+| Enhance Ability          | Transmutation | C       |
+| Enlarge/Reduce           | Transmutation | C       |
+| Find Traps               | Divination    | —       |
+| Flame Blade              | Evocation     | C       |
+| Flaming Sphere           | Evocation     | C       |
+| Gust of Wind             | Evocation     | C       |
+| Heat Metal               | Transmutation | C       |
+| Hold Person              | Enchantment   | C       |
+| Lesser Restoration       | Abjuration    | —       |
+| Locate Animals or Plants | Divination    | R       |
+| Locate Object            | Divination    | C       |
+| Moonbeam                 | Evocation     | C       |
+| Pass without Trace       | Abjuration    | C       |
+| Protection from Poison   | Abjuration    | —       |
+| Spike Growth             | Transmutation | C       |
 
 ### Level 3 Druid Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Call Lightning | Conjuration | C |
-| Conjure Animals | Conjuration | C |
-| Daylight | Evocation | — |
-| Dispel Magic | Abjuration | — |
-| Meld into Stone | Transmutation | R |
-| Plant Growth | Transmutation | — |
-| Protection from Energy | Abjuration | C |
-| Revivify | Necromancy | M |
-| Sleet Storm | Conjuration | C |
-| Speak with Plants | Transmutation | — |
-| Water Breathing | Transmutation | R |
-| Water Walk | Transmutation | R |
-| Wind Wall | Evocation | C |
+| Spell                  | School        | Special |
+|------------------------|---------------|---------|
+| Call Lightning         | Conjuration   | C       |
+| Conjure Animals        | Conjuration   | C       |
+| Daylight               | Evocation     | —       |
+| Dispel Magic           | Abjuration    | —       |
+| Meld into Stone        | Transmutation | R       |
+| Plant Growth           | Transmutation | —       |
+| Protection from Energy | Abjuration    | C       |
+| Revivify               | Necromancy    | M       |
+| Sleet Storm            | Conjuration   | C       |
+| Speak with Plants      | Transmutation | —       |
+| Water Breathing        | Transmutation | R       |
+| Water Walk             | Transmutation | R       |
+| Wind Wall              | Evocation     | C       |
 
 ### Level 4 Druid Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Blight | Necromancy | — |
-| Charm Monster | Enchantment | — |
-| Confusion | Enchantment | C |
-| Conjure Minor Elementals | Conjuration | C |
-| Conjure Woodland Beings | Conjuration | C |
-| Control Water | Transmutation | C |
-| Divination | Divination | R, M |
-| Dominate Beast | Enchantment | C |
-| Fire Shield | Evocation | — |
-| Freedom of Movement | Abjuration | — |
-| Giant Insect | Conjuration | C |
-| Hallucinatory Terrain | Illusion | — |
-| Ice Storm | Evocation | — |
-| Locate Creature | Divination | C |
-| Polymorph | Transmutation | C |
-| Stone Shape | Transmutation | — |
-| Stoneskin | Transmutation | C, M |
-| Wall of Fire | Evocation | C |
+| Spell                    | School        | Special |
+|--------------------------|---------------|---------|
+| Blight                   | Necromancy    | —       |
+| Charm Monster            | Enchantment   | —       |
+| Confusion                | Enchantment   | C       |
+| Conjure Minor Elementals | Conjuration   | C       |
+| Conjure Woodland Beings  | Conjuration   | C       |
+| Control Water            | Transmutation | C       |
+| Divination               | Divination    | R, M    |
+| Dominate Beast           | Enchantment   | C       |
+| Fire Shield              | Evocation     | —       |
+| Freedom of Movement      | Abjuration    | —       |
+| Giant Insect             | Conjuration   | C       |
+| Hallucinatory Terrain    | Illusion      | —       |
+| Ice Storm                | Evocation     | —       |
+| Locate Creature          | Divination    | C       |
+| Polymorph                | Transmutation | C       |
+| Stone Shape              | Transmutation | —       |
+| Stoneskin                | Transmutation | C, M    |
+| Wall of Fire             | Evocation     | C       |
 
 ### Level 5 Druid Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Antilife Shell | Abjuration | C |
-| Awaken | Transmutation | M |
-| Commune with Nature | Divination | R |
-| Cone of Cold | Evocation | — |
-| Conjure Elemental | Conjuration | C |
-| Contagion | Necromancy | — |
-| Geas | Enchantment | — |
-| Greater Restoration | Abjuration | M |
-| Insect Plague | Conjuration | C |
-| Mass Cure Wounds | Abjuration | — |
-| Planar Binding | Abjuration | M |
-| Reincarnate | Necromancy | M |
-| Scrying | Divination | C, M |
-| Tree Stride | Conjuration | C |
-| Wall of Stone | Evocation | C |
+| Spell               | School        | Special |
+|---------------------|---------------|---------|
+| Antilife Shell      | Abjuration    | C       |
+| Awaken              | Transmutation | M       |
+| Commune with Nature | Divination    | R       |
+| Cone of Cold        | Evocation     | —       |
+| Conjure Elemental   | Conjuration   | C       |
+| Contagion           | Necromancy    | —       |
+| Geas                | Enchantment   | —       |
+| Greater Restoration | Abjuration    | M       |
+| Insect Plague       | Conjuration   | C       |
+| Mass Cure Wounds    | Abjuration    | —       |
+| Planar Binding      | Abjuration    | M       |
+| Reincarnate         | Necromancy    | M       |
+| Scrying             | Divination    | C, M    |
+| Tree Stride         | Conjuration   | C       |
+| Wall of Stone       | Evocation     | C       |
 
 ### Level 6 Druid Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Conjure Fey | Conjuration | C |
-| Find the Path | Divination | C, M |
-| Flesh to Stone | Transmutation | C |
-| Heal | Abjuration | — |
-| Heroes' Feast | Conjuration | M |
-| Move Earth | Transmutation | C |
-| Sunbeam | Evocation | C |
-| Transport via Plants | Conjuration | — |
-| Wall of Thorns | Conjuration | C |
-| Wind Walk | Transmutation | — |
+| Spell                | School        | Special |
+|----------------------|---------------|---------|
+| Conjure Fey          | Conjuration   | C       |
+| Find the Path        | Divination    | C, M    |
+| Flesh to Stone       | Transmutation | C       |
+| Heal                 | Abjuration    | —       |
+| Heroes' Feast        | Conjuration   | M       |
+| Move Earth           | Transmutation | C       |
+| Sunbeam              | Evocation     | C       |
+| Transport via Plants | Conjuration   | —       |
+| Wall of Thorns       | Conjuration   | C       |
+| Wind Walk            | Transmutation | —       |
 
 ### Level 7 Druid Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Fire Storm | Evocation | — |
-| Mirage Arcane | Illusion | — |
-| Plane Shift | Conjuration | M |
-| Regenerate | Transmutation | — |
-| Reverse Gravity | Transmutation | C |
-| Symbol | Abjuration | M |
+| Spell           | School        | Special |
+|-----------------|---------------|---------|
+| Fire Storm      | Evocation     | —       |
+| Mirage Arcane   | Illusion      | —       |
+| Plane Shift     | Conjuration   | M       |
+| Regenerate      | Transmutation | —       |
+| Reverse Gravity | Transmutation | C       |
+| Symbol          | Abjuration    | M       |
 
 ### Level 8 Druid Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Animal Shapes | Transmutation | — |
-| Antipathy/Sympathy | Enchantment | — |
-| Befuddlement | Enchantment | — |
-| Control Weather | Transmutation | C |
-| Earthquake | Transmutation | C |
-| Incendiary Cloud | Conjuration | C |
-| Sunburst | Evocation | — |
-| Tsunami | Conjuration | C |
+| Spell              | School        | Special |
+|--------------------|---------------|---------|
+| Animal Shapes      | Transmutation | —       |
+| Antipathy/Sympathy | Enchantment   | —       |
+| Befuddlement       | Enchantment   | —       |
+| Control Weather    | Transmutation | C       |
+| Earthquake         | Transmutation | C       |
+| Incendiary Cloud   | Conjuration   | C       |
+| Sunburst           | Evocation     | —       |
+| Tsunami            | Conjuration   | C       |
 
 ### Level 9 Druid Spells
 
-| Spell | School | Special |
-|---|---|---|
-| Foresight | Divination | — |
-| Shapechange | Transmutation | C, M |
-| Storm of Vengeance | Conjuration | C |
-| True Resurrection | Necromancy | M |
+| Spell              | School        | Special |
+|--------------------|---------------|---------|
+| Foresight          | Divination    | —       |
+| Shapechange        | Transmutation | C, M    |
+| Storm of Vengeance | Conjuration   | C       |
+| True Resurrection  | Necromancy    | M       |
 
 ## Druid Subclass: Circle of the Land
 
@@ -369,39 +370,39 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 
 #### Arid Land
 
-| Druid Level | Circle Spells |
-|---|---|
-| 3 | Blur, Burning Hands, Fire Bolt |
-| 5 | Fireball |
-| 7 | Blight |
-| 9 | Wall of Stone |
+| Druid Level | Circle Spells                  |
+|-------------|--------------------------------|
+| 3           | Blur, Burning Hands, Fire Bolt |
+| 5           | Fireball                       |
+| 7           | Blight                         |
+| 9           | Wall of Stone                  |
 
 #### Polar Land
 
-| Druid Level | Circle Spells |
-|---|---|
-| 3 | Fog Cloud, Hold Person, Ray of Frost |
-| 5 | Sleet Storm |
-| 7 | Ice Storm |
-| 9 | Cone of Cold |
+| Druid Level | Circle Spells                        |
+|-------------|--------------------------------------|
+| 3           | Fog Cloud, Hold Person, Ray of Frost |
+| 5           | Sleet Storm                          |
+| 7           | Ice Storm                            |
+| 9           | Cone of Cold                         |
 
 #### Temperate Land
 
-| Druid Level | Circle Spells |
-|---|---|
-| 3 | Misty Step, Shocking Grasp, Sleep |
-| 5 | Lightning Bolt |
-| 7 | Freedom of Movement |
-| 9 | Tree Stride |
+| Druid Level | Circle Spells                     |
+|-------------|-----------------------------------|
+| 3           | Misty Step, Shocking Grasp, Sleep |
+| 5           | Lightning Bolt                    |
+| 7           | Freedom of Movement               |
+| 9           | Tree Stride                       |
 
 #### Tropical Land
 
-| Druid Level | Circle Spells |
-|---|---|
-| 3 | Acid Splash, Ray of Sickness, Web |
-| 5 | Stinking Cloud |
-| 7 | Polymorph |
-| 9 | Insect Plague |
+| Druid Level | Circle Spells                     |
+|-------------|-----------------------------------|
+| 3           | Acid Splash, Ray of Sickness, Web |
+| 5           | Stinking Cloud                    |
+| 7           | Polymorph                         |
+| 9           | Insect Plague                     |
 
 ### Level 3: Land's Aid
 
@@ -420,11 +421,11 @@ In addition, when you finish a Short Rest, you can choose expended spell slots t
 You are immune to the Poisoned condition, and you have Resistance to a damage type associated with your current land choice in the Circle Spells feature, as shown in the Nature's Ward table.
 
 | Land Type | Resistance |
-|---|---|
-| Arid | Fire |
-| Polar | Cold |
-| Temperate | Lightning |
-| Tropical | Poison |
+|-----------|------------|
+| Arid      | Fire       |
+| Polar     | Cold       |
+| Temperate | Lightning  |
+| Tropical  | Poison     |
 
 ### Level 14: Nature's Sanctuary
 

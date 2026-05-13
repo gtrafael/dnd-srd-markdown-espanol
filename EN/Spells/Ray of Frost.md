@@ -3,6 +3,7 @@ aliases: ["Ray of Frost"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RayoDeEscarcha|Rayo de escarcha (Español)]]"
 ---
+
 ### Ray of Frost
 
 *Evocation Cantrip* (Sorcerer, Wizard)

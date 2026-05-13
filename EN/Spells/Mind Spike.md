@@ -3,6 +3,7 @@ aliases: ["Mind Spike"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ClavoMental|Clavo mental (Español)]]"
 ---
+
 ### Mind Spike
 
 *Level 2 Divination* (Sorcerer, Warlock, Wizard)

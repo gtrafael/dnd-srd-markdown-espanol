@@ -3,6 +3,7 @@ aliases: ["Fog Cloud"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/NubeDeOscurecimiento|Nube de oscurecimiento (Español)]]"
 ---
+
 ### Fog Cloud
 
 *Level 1 Conjuration* (Druid, Ranger, Sorcerer, Wizard)

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/ElementalDeAgua|Elemental de agua (Español)]]
 
 **Speed 30 ft., Swim 90 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 18 | +4 | +4 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 18 | +4 | +4 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Resistances Acid, Fire**
 

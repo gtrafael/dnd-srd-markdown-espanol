@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Marilith|Marilith (Español)]]"
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +9 | **Dex** 20 | +5 | +5 | **Con** 20 | +5 | +10 |
-| **Int** 18 | +4 | +4 | **Wis** 16 | +3 | +8 | **Cha** 20 | +5 | +10 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +9  | **Dex** 20 | +5  |  +5  | **Con** 20 | +5 | +10 |
+| **Int** 18 | +4  |  +4  | **Wis** 16 | +3  |  +8  | **Cha** 20 | +5 | +10 |
 
 **Skills Perception +8**
 

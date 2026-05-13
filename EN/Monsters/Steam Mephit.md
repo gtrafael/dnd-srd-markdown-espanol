@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/MephitDeVapor|Mephit de vapor (Español)]]"
 
 **Speed 30 ft., Fly 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 5 | −3 | −3 | **Dex** 11 | +0 | +0 | **Con** 10 | +0 | +0 |
-| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 12 | +1 | +1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 5  | −3  |  −3  | **Dex** 11 | +0  |  +0  | **Con** 10 | +0 | +0 |
+| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 12 | +1 | +1 |
 
 **Skills Stealth +2**
 

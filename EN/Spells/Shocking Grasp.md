@@ -3,6 +3,7 @@ aliases: ["Shocking Grasp"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/AgarreElectrizante|Agarre electrizante (Español)]]"
 ---
+
 ### Shocking Grasp
 
 *Evocation Cantrip* (Sorcerer, Wizard)

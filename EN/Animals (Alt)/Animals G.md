@@ -8,11 +8,10 @@
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 14 | +2 | +2 | **Con** 18 | +4 | +4 |
-| **Int** 5 | −3 | −3 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 14 | +2  |  +2  | **Con** 18 | +4 | +4 |
+| **Int** 5  | −3  |  −3  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Athletics +9, Perception +4, Survival +4**
 
@@ -44,11 +43,10 @@ Leap. The ape jumps up to 30 feet by spending 10 feet of movement.
 
 **Speed 30 ft., Burrow 10 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 10 | +0 | +0 | **Con** 17 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 10 | +0  |  +0  | **Con** 17 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +3**
 
@@ -76,11 +74,10 @@ Piercing damage.
 
 **Speed 10 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 16 | +3  |  +3  | **Con** 11 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Senses Blindsight 120 ft.; Passive Perception 11**
 
@@ -104,11 +101,10 @@ Piercing damage.
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +5 | **Dex** 10 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 7 | −2 | −2 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +5  | **Dex** 10 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 7  | −2  |  −2  | **Cha** 5 | −3 | −3 |
 
 **Senses Passive Perception 8**
 
@@ -134,11 +130,10 @@ Gore. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage. If t
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 5 | −3 | −3 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 7 | −2 | −2 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 5 | −3  |  −3  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 1 | −5  |  −5  | **Wis** 7  | −2  |  −2  | **Cha** 3 | −4 | −4 |
 
 **Senses Blindsight 30 ft.; Passive Perception 8**
 
@@ -160,11 +155,10 @@ Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage, and t
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 14 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 1  | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Skills Perception +2**
 
@@ -194,11 +188,10 @@ Constrict. Strength Saving Throw: DC 14, one Large or smaller creature the snake
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 13 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 9 | −1 | −1 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 13 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 9  | −1  |  −1  | **Cha** 3 | −4 | −4 |
 
 **Skills Stealth +3**
 
@@ -230,11 +223,10 @@ DC 11) from one of two claws.
 
 **Speed 30 ft., Swim 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 9 | −1 | −1 | **Con** 17 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 9  | −1  |  −1  | **Con** 17 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 7 | −2 | −2 |
 
 **Skills Stealth +5**
 
@@ -266,11 +258,10 @@ Tail. Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning damage. 
 
 **Speed 10 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 8 | −1 | −1 | **Wis** 14 | +2 | +2 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 17 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 8  | −1  |  −1  | **Wis** 14 | +2  |  +2  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +6**
 
@@ -302,11 +293,10 @@ Slashing damage plus 3 (1d6) Radiant damage.
 
 **Speed 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +6 | **Dex** 18 | +4 | +6 | **Con** 14 | +2 | +2 |
-| **Int** 7 | −2 | −2 | **Wis** 14 | +2 | +2 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +6  | **Dex** 18 | +4  |  +6  | **Con** 14 | +2 | +2 |
+| **Int** 7  | −2  |  −2  | **Wis** 14 | +2  |  +2  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +4**
 
@@ -334,11 +324,10 @@ Ram. Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage pl
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 10 | +0 | +0 | **Con** 12 | +1 | +1 |
-| **Int** 1 | −5 | −5 | **Wis** 7 | −2 | −2 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8 | −1  |  −1  | **Dex** 10 | +0  |  +0  | **Con** 12 | +1 | +1 |
+| **Int** 1 | −5  |  −5  | **Wis** 7  | −2  |  −2  | **Cha** 3 | −4 | −4 |
 
 **Resistances Fire**
 
@@ -366,11 +355,10 @@ Bite. Melee Attack Roll: +1, reach 5 ft. Hit: 1 Fire damage.
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 13 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 13 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Skills Perception +2, Stealth +4**
 
@@ -404,11 +392,10 @@ Swallow. The frog swallows a Small or smaller target it is grappling. While swal
 
 **Speed 40 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +5 | **Dex** 13 | +1 | +1 | **Con** 12 | +1 | +1 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +5  | **Dex** 13 | +1  |  +1  | **Con** 12 | +1 | +1 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 6 | −2 | −2 |
 
 **Skills Perception +3**
 
@@ -434,11 +421,10 @@ Bludgeoning damage. If the target is a Large or smaller creature and the goat mo
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 14 | +2  |  +2  | **Con** 14 | +2 | +2 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +3**
 
@@ -468,11 +454,10 @@ Rampage (1/Day). Immediately after dealing damage to a creature that was already
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 12 | +1  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Senses Darkvision 60 ft.; Passive Perception 10**
 
@@ -500,11 +485,10 @@ Piercing damage.
 
 **Speed 10 ft., Swim 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 5  | −3  |  −3  | **Wis** 10 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +4, Stealth +5**
 
@@ -538,11 +522,10 @@ Obscured for 1 minute or until a strong current or similar effect disperses the 
 
 **Speed 5 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 15 | +2 | +2 | **Con** 12 | +1 | +1 |
-| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +4 | **Cha** 10 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 15 | +2  |  +2  | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0  |  +0  | **Wis** 14 | +2  |  +4  | **Cha** 10 | +0 | +0 |
 
 **Skills Perception +6, Stealth +6**
 
@@ -576,11 +559,10 @@ Spellcasting. The owl casts one of the following spells, requiring no spell comp
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 7 | −2 | −2 | **Dex** 16 | +3 | +5 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 7 | −2  |  −2  | **Dex** 16 | +3  |  +5  | **Con** 11 | +0 | +0 |
+| **Int** 2 | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +2**
 
@@ -608,11 +590,10 @@ Bite. Melee Attack Roll: +5, reach 5 feet. Hit: 5 (1d4 + 3) Piercing damage.
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 15 | +2 | +2 |
-| **Int** 1 | −5 | −5 | **Wis** 9 | −1 | −1 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 13 | +1  |  +1  | **Con** 15 | +2 | +2 |
+| **Int** 1  | −5  |  −5  | **Wis** 9  | −1  |  −1  | **Cha** 3 | −4 | −4 |
 
 **Senses Blindsight 60 ft.; Passive Perception 9**
 
@@ -642,11 +623,10 @@ Piercing damage plus 11 (2d10) Poison damage.
 
 **Speed 5 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 12 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Senses Passive Perception 11**
 
@@ -676,11 +656,10 @@ Bubble Dash. While underwater, the seahorse moves up to half its Swim Speed with
 
 **Speed 5 ft., Swim 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 11 | +0 | +0 | **Con** 21 | +5 | +5 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 11 | +0  |  +0  | **Con** 21 | +5 | +5 |
+| **Int** 1  | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +3**
 
@@ -710,11 +689,10 @@ Bite. Melee Attack Roll: +9 (with Advantage if the target doesn’t have all its
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 14 | +2 | +2 | **Dex** 16 | +3 | +3 | **Con** 12 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 14 | +2  |  +2  | **Dex** 16 | +3  |  +3  | **Con** 12 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +4, Stealth +7**
 
@@ -748,11 +726,10 @@ Immunity to Poison and Psychic damage).
 
 **Speed 30 ft., Swim 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 13 | +1 | +1 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 13 | +1  |  +1  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Senses Darkvision 60 ft.; Passive Perception 10**
 
@@ -784,11 +761,10 @@ Swallow. The toad swallows a Medium or smaller target it is grappling. While swa
 
 **Speed 40 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 18 | +4 | +4 | **Con** 13 | +1 | +1 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 18 | +4  |  +4  | **Con** 13 | +1 | +1 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Skills Perception +2**
 
@@ -814,11 +790,10 @@ Piercing damage plus 4 (1d8) Poison damage.
 
 **Speed 10 ft., Fly 60 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 10 | +0 | +0 | **Con** 16 | +3 | +3 |
-| **Int** 6 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 10 | +0  |  +0  | **Con** 16 | +3 | +3 |
+| **Int** 6  | −2  |  −2  | **Wis** 12 | +1  |  +1  | **Cha** 7 | −2 | −2 |
 
 **Skills Perception +3**
 
@@ -848,11 +823,10 @@ Gouge. Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage, and 
 
 **Speed 10 ft., Fly 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 10 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 1 | −5 | −5 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 10 | +0  |  +0  | **Dex** 14 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 1  | −5  |  −5  | **Wis** 10 | +0  |  +0  | **Cha** 3 | −4 | −4 |
 
 **Senses Passive Perception 10**
 
@@ -880,11 +854,10 @@ Piercing damage plus 5 (2d4) Poison damage.
 
 **Speed 40 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +0 | **Dex** 17 | +3 | +3 | **Con** 10 | +0 | +0 |
-| **Int** 4 | −3 | −3 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +0  | **Dex** 17 | +3  |  +3  | **Con** 10 | +0 | +0 |
+| **Int** 4  | −3  |  −3  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Skills Acrobatics +5, Perception +3, Stealth +5**
 
@@ -910,11 +883,10 @@ Piercing damage.
 
 **Speed 40 ft., Climb 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 16 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 4 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 16 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 3  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 4 | −3 | −3 |
 
 **Skills Perception +3, Stealth +7**
 
@@ -944,11 +916,10 @@ Piercing damage plus 5 (2d4) Poison damage.
 
 **Speed 40 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 11 | +0 | +2 | **Dex** 10 | +0 | +0 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 11 | +0  |  +2  | **Dex** 10 | +0  |  +0  | **Con** 11 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 10 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Skills Perception +2**
 

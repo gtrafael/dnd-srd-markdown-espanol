@@ -17,13 +17,13 @@ related_en: "[[Animals/Giant Ape|Giant Ape (EN)]]"
 **Velocidad:** 12 m, trepar 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 23 | +6 | +6 |
-| DES | 14 | +2 | +2 |
-| CON | 18 | +4 | +4 |
-| INT | 5 | -3 | -3 |
-| SAB | 12 | +1 | +1 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    23 |  +6 |   +6 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    18 |  +4 |   +4 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Habilidades:** Atletismo +9, Percepción +4, Supervivencia +4
 

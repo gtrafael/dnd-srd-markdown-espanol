@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GuerreroGoblin|Guerrero goblin (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 8 | −1 | −1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 8 | −1 | −1 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 8  | −1  |  −1  | **Dex** 15 | +2  |  +2  | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 8  | −1  |  −1  | **Cha** 8 | −1 | −1 |
 
 **Skills Stealth +6**
 

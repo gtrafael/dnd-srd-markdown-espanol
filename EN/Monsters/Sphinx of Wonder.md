@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/EsfingeDeLasMaravillas|Esfinge de las maravill
 
 **Speed 20 ft., Fly 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 6 | −2 | −2 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 15 | +2 | +2 | **Wis** 12 | +1 | +1 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 6  | −2  |  −2  | **Dex** 17 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 15 | +2  |  +2  | **Wis** 12 | +1  |  +1  | **Cha** 11 | +0 | +0 |
 
 **Skills Arcana +4, Religion +4, Stealth +5**
 

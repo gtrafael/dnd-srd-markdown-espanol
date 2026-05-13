@@ -3,6 +3,7 @@ aliases: ["Archelon"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Archelon|Archelon (Español)]]"
 ---
+
 ## Archelon
 
 *Huge Beast (Dinosaur), Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Archelon|Archelon (Español)]]"
 
 **Speed 20 ft., Swim 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 16 | +3 | +3 | **Con** 13 | +1 | +1 |
-| **Int** 4 | −3 | −3 | **Wis** 14 | +2 | +2 | **Cha** 6 | −2 | −2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 16 | +3  |  +3  | **Con** 13 | +1 | +1 |
+| **Int** 4  | −3  |  −3  | **Wis** 14 | +2  |  +2  | **Cha** 6 | −2 | −2 |
 
 **Skills Stealth +5**
 

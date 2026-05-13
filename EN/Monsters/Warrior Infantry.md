@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GuerreroDeInfanteria|Guerrero de infantería (
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 13 | +1 | +1 | **Dex** 11 | +0 | +0 | **Con** 11 | +0 | +0 |
-| **Int** 8 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 13 | +1  |  +1  | **Dex** 11 | +0  |  +0  | **Con** 11 | +0 | +0 |
+| **Int** 8  | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Gear Chain Shirt, Spear**
 

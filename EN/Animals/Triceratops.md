@@ -3,6 +3,7 @@ aliases: ["Triceratops"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Triceratops|Triceratops (Español)]]"
 ---
+
 ## Triceratops
 
 *Huge Beast (Dinosaur), Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Triceratops|Triceratops (Español)]]"
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 22 | +6 | +6 | **Dex** 9 | −1 | −1 | **Con** 17 | +3 | +3 |
-| **Int** 2 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 22 | +6  |  +6  | **Dex** 9  | −1  |  −1  | **Con** 17 | +3 | +3 |
+| **Int** 2  | −4  |  −4  | **Wis** 11 | +0  |  +0  | **Cha** 5 | −3 | −3 |
 
 **Senses Passive Perception 10**
 

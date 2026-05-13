@@ -17,13 +17,13 @@ related_en: "[[Monsters/Cultist|Cultist (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 11 | +0 | +0 |
-| DES | 12 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| SAB | 11 | +0 | +2 |
-| CAR | 10 | +0 | +0 |
+|-------|------:|----:|-----:|
+| FUE   |    11 |  +0 |   +0 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    11 |  +0 |   +2 |
+| CAR   |    10 |  +0 |   +0 |
 
 **Habilidades:** Engaño +2, Religión +2
 

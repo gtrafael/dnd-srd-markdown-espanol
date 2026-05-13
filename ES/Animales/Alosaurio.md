@@ -15,13 +15,13 @@ related_en: "[[Animals/Allosaurus|Allosaurus (EN)]]"
 **Velocidad:** 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 13 | +1 | +1 |
-| CON | 17 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     5 |  -3 |   -3 |
 
 **Habilidades:** Percepción +5
 

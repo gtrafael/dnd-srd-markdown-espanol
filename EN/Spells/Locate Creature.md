@@ -3,6 +3,7 @@ aliases: ["Locate Creature"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/LocalizarCriatura|Localizar criatura (Español)]]"
 ---
+
 ### Locate Creature
 
 *Level 4 Divination* (Bard, Cleric, Druid, Paladin, Ranger, Wizard)

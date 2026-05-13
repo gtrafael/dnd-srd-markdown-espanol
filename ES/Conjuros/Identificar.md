@@ -16,7 +16,7 @@ related_en: "[[Spells/Identify|Identify (EN)]]"
 
 **Duración:** Instantáneo
 
-**Tocas un objeto durante el lanzamiento del conjuro.** Si se trata de un objeto mágico de un objeto imbuido de magia, averiguarás sus propiedades y cómo usarlas, si hace falta sintonizarse con él y cuántas cargas tiene, si corresponde. Si hay conjuros activos que afecten al objeto, sabrás cuáles son. Si el objeto se creó mediante un conjuro, averiguarás su nombre. 
+**Tocas un objeto durante el lanzamiento del conjuro.** Si se trata de un objeto mágico de un objeto imbuido de magia, averiguarás sus propiedades y cómo usarlas, si hace falta sintonizarse con él y cuántas cargas tiene, si corresponde. Si hay conjuros activos que afecten al objeto, sabrás cuáles son. Si el objeto se creó mediante un conjuro, averiguarás su nombre.
 
 Si tocas a una criatura en lugar de un objeto, averiguarás qué conjuros activos le afectan en ese momento, si hay alguno. 
 

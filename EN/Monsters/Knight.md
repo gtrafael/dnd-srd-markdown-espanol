@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Caballero|Caballero (Español)]]"
 
 **Speed 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 16 | +3 | +3 | **Dex** 11 | +0 | +0 | **Con** 14 | +2 | +4 |
-| **Int** 11 | +0 | +0 | **Wis** 11 | +0 | +2 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 16 | +3  |  +3  | **Dex** 11 | +0  |  +0  | **Con** 14 | +2 | +4 |
+| **Int** 11 | +0  |  +0  | **Wis** 11 | +0  |  +2  | **Cha** 15 | +2 | +2 |
 
 **Immunities Frightened**
 

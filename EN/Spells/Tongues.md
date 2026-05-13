@@ -3,6 +3,7 @@ aliases: ["Tongues"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DonDeLenguas|Don de lenguas (Español)]]"
 ---
+
 ### Tongues
 
 *Level 3 Divination* (Bard, Cleric, Sorcerer, Warlock, Wizard)

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Adult Black Dragon|Adult Black Dragon (EN)]]"
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 23 | +6 | +6 |
-| DES | 14 | +2 | +7 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| SAB | 13 | +1 | +6 |
-| CAR | 19 | +4 | +4 |
+|-------|------:|----:|-----:|
+| FUE   |    23 |  +6 |   +6 |
+| DES   |    14 |  +2 |   +7 |
+| CON   |    21 |  +5 |   +5 |
+| INT   |    14 |  +2 |   +2 |
+| SAB   |    13 |  +1 |   +6 |
+| CAR   |    19 |  +4 |   +4 |
 
 **Habilidades:** Percepción +11, Sigilo +7
 

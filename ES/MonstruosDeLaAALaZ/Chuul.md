@@ -17,13 +17,14 @@ related_en: "[[Monsters/Chuul|Chuul (EN)]]"
 **Velocidad:** 9 m, nadar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 19 | +4 | +4 |
-| DES | 10 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| SAB | 11 | +0 | +0 |
-| CAR | 5 | -3 | -3 |
+|-------|------:|----:|-----:|
+| FUE   |    19 |  +4 |   +4 |
+| DES   |    10 |  +0 |   +0 |
+| CON   |    16 |  +3 |   +3 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     5 |  -3 |   -3 |
+
 **Habilidades:** Percepción +4
 
 **Inmunidades:** veneno; envenenado

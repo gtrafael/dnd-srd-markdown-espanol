@@ -3,6 +3,7 @@ aliases: ["Blindness-Deafness"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Sordera_ceguera|Sordera_ceguera (Español)]]"
 ---
+
 ### Blindness/Deafness
 
 *Level 2 Transmutation* (Bard, Cleric, Sorcerer, Wizard)

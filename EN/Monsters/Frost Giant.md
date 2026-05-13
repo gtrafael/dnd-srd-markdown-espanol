@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GiganteDeEscarcha|Gigante de escarcha (Españo
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 23 | +6 | +6 | **Dex** 9 | −1 | −1 | **Con** 21 | +5 | +8 |
-| **Int** 9 | −1 | −1 | **Wis** 10 | +0 | +3 | **Cha** 12 | +1 | +4 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 23 | +6  |  +6  | **Dex** 9  | −1  |  −1  | **Con** 21 | +5 | +8 |
+| **Int** 9  | −1  |  −1  | **Wis** 10 | +0  |  +3  | **Cha** 12 | +1 | +4 |
 
 **Skills Athletics +9, Perception +3**
 

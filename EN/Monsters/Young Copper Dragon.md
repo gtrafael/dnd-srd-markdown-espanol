@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeCobreJoven|Dragón de cobre joven (Esp
 
 **Speed 40 ft., Climb 40 ft., Fly 80 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 19 | +4 | +4 | **Dex** 12 | +1 | +4 | **Con** 17 | +3 | +3 |
-| **Int** 16 | +3 | +3 | **Wis** 13 | +1 | +4 | **Cha** 15 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 19 | +4  |  +4  | **Dex** 12 | +1  |  +4  | **Con** 17 | +3 | +3 |
+| **Int** 16 | +3  |  +3  | **Wis** 13 | +1  |  +4  | **Cha** 15 | +2 | +2 |
 
 **Skills Deception +5, Perception +7, Stealth +4**
 

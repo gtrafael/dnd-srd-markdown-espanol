@@ -3,6 +3,7 @@ aliases: ["Cure Wounds"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/CurarHeridas|Curar heridas (Español)]]"
 ---
+
 ### Cure Wounds
 
 *Level 1 Abjuration* (Bard, Cleric, Druid, Paladin, Ranger)

@@ -17,13 +17,14 @@ related_en: "[[Monsters/Ghast|Ghast (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 17 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 11 | +0 | +0 |
-| SAB | 10 | +0 | +2 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    17 |  +3 |   +3 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    10 |  +0 |   +2 |
+| CAR   |     8 |  -1 |   -1 |
+
 **Resistencias:** necrótico
 
 **Inmunidades:** veneno; cansancio, envenenado, hechizado

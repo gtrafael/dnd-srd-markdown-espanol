@@ -3,6 +3,7 @@ aliases: ["Conjure Minor Elementals"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ConjurarElementalesMenores|Conjurar elementales menores (Español)]]"
 ---
+
 ### Conjure Minor Elementals
 
 *Level 4 Conjuration* (Druid, Wizard)

@@ -17,13 +17,13 @@ related_en: "[[Monsters/Animated Rug of Smothering|Animated Rug of Smothering (E
 **Velocidad:** 3 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| SAB | 3 | -4 | -4 |
-| CAR | 1 | -5 | -5 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    14 |  +2 |   +2 |
+| CON   |    10 |  +0 |   +0 |
+| INT   |     1 |  -5 |   -5 |
+| SAB   |     3 |  -4 |   -4 |
+| CAR   |     1 |  -5 |   -5 |
 
 **Inmunidades:** psíquico, veneno; asustado, cansancio, ensordecido, envenenado, hechizado, paralizado, petrificado
 

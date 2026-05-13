@@ -3,6 +3,7 @@ aliases: ["Tyrannosaurus Rex"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TiranosaurioRex|Tiranosaurio rex (Español)]]"
 ---
+
 ## Tyrannosaurus Rex
 
 *Huge Beast (Dinosaur), Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/TiranosaurioRex|Tiranosaurio rex (Español)]]"
 
 **Speed 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 25 | +7 | +10 | **Dex** 10 | +0 | +0 | **Con** 19 | +4 | +4 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +4 | **Cha** 9 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 25 | +7  | +10  | **Dex** 10 | +0  |  +0  | **Con** 19 | +4 | +4 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +4  | **Cha** 9 | −1 | −1 |
 
 **Skills Perception +4**
 

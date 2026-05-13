@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Satiro|Sátiro (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 12 | +1 | +1 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
-| **Int** 12 | +1 | +1 | **Wis** 10 | +0 | +0 | **Cha** 14 | +2 | +2 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 12 | +1  |  +1  | **Dex** 16 | +3  |  +3  | **Con** 11 | +0 | +0 |
+| **Int** 12 | +1  |  +1  | **Wis** 10 | +0  |  +0  | **Cha** 14 | +2 | +2 |
 
 **Skills Perception +2, Performance +6, Stealth +5**
 

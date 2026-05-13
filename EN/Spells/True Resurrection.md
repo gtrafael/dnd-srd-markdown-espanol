@@ -3,6 +3,7 @@ aliases: ["True Resurrection"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ResurreccionVerdadera|Resurrección verdadera (Español)]]"
 ---
+
 ### True Resurrection
 
 *Level 9 Necromancy* (Cleric, Druid)

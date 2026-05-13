@@ -3,6 +3,7 @@ aliases: ["Mislead"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Enganar|Engañar (Español)]]"
 ---
+
 ### Mislead
 
 *Level 5 Illusion* (Bard, Warlock, Wizard)

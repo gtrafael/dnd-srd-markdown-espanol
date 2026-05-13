@@ -3,6 +3,7 @@ aliases: ["Chain Lightning"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/RelampagoEnCadena|Relámpago en cadena (Español)]]"
 ---
+
 ### Chain Lightning
 
 *Level 6 Evocation* (Sorcerer, Wizard)

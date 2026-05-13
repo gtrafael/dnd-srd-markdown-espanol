@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Pegaso|Pegaso (Español)]]"
 
 **Speed 60 ft., Fly 90 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +4 | **Con** 16 | +3 | +5 |
-| **Int** 10 | +0 | +0 | **Wis** 15 | +2 | +4 | **Cha** 13 | +1 | +3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 18 | +4  |  +4  | **Dex** 15 | +2  |  +4  | **Con** 16 | +3 | +5 |
+| **Int** 10 | +0  |  +0  | **Wis** 15 | +2  |  +4  | **Cha** 13 | +1 | +3 |
 
 **Skills Perception +6**
 

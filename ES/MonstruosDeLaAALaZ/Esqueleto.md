@@ -17,13 +17,13 @@ related_en: "[[Monsters/Skeleton|Skeleton (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 10 | +0 | +0 |
-| DES | 16 | +3 | +3 |
-| CON | 15 | — | — |
-| INT | 6 | -2 | -2 |
-| SAB | 8 | -1 | -1 |
-| CAR | 5 | — | — |
+|-------|------:|----:|-----:|
+| FUE   |    10 |  +0 |   +0 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    15 |   — |    — |
+| INT   |     6 |  -2 |   -2 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |     5 |   — |    — |
 
 **Vulnerabilidades:** contundente
 

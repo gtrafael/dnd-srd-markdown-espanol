@@ -17,13 +17,13 @@ related_en: "[[Monsters/Mimic|Mimic (EN)]]"
 **Velocidad:** 6 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 12 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 5 | -3 | -3 |
-| SAB | 13 | +1 | +1 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    15 |  +2 |   +2 |
+| INT   |     5 |  -3 |   -3 |
+| SAB   |    13 |  +1 |   +1 |
+| CAR   |     8 |  -1 |   -1 |
 
 **Habilidades:** Sigilo +5
 

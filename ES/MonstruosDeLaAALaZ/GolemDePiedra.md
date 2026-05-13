@@ -15,13 +15,13 @@ related_en: "[[Monsters/Stone Golem|Stone Golem (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 22 | +6 | +6 |
-| DES | 9 | -1 | -1 |
-| CON | 20 | +5 | +5 |
-| INT | 3 | -4 | -4 |
-| SAB | 11 | +0 | +0 |
-| CAR | 1 | -5 | -5 |
+|-------|------:|----:|-----:|
+| FUE   |    22 |  +6 |   +6 |
+| DES   |     9 |  -1 |   -1 |
+| CON   |    20 |  +5 |   +5 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     1 |  -5 |   -5 |
 
 **Inmunidades:** psíquico, veneno; asustado, cansancio, envenenado, hechizado, paralizado, petrificado
 

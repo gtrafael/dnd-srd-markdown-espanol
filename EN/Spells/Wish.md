@@ -3,6 +3,7 @@ aliases: ["Wish"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Deseo|Deseo (Español)]]"
 ---
+
 ### Wish
 
 *Level 9 Conjuration* (Sorcerer, Wizard)

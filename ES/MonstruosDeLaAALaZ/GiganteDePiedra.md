@@ -17,13 +17,13 @@ related_en: "[[Monsters/Stone Giant|Stone Giant (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 23 | +6 | +6 |
-| DES | 15 | +2 | +5 |
-| CON | 20 | +5 | +8 |
-| INT | 10 | +0 | +0 |
-| SAB | 12 | +1 | +4 |
-| CAR | 9 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    23 |  +6 |   +6 |
+| DES   |    15 |  +2 |   +5 |
+| CON   |    20 |  +5 |   +8 |
+| INT   |    10 |  +0 |   +0 |
+| SAB   |    12 |  +1 |   +4 |
+| CAR   |     9 |  -1 |   -1 |
 
 **Habilidades:** Atletismo +12, Percepción +4, Sigilo +5
 

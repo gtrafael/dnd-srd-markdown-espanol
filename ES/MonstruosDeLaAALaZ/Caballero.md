@@ -17,13 +17,13 @@ related_en: "[[Monsters/Knight|Knight (EN)]]"
 **Velocidad:** 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 11 | +0 | +0 |
-| CON | 14 | +2 | +4 |
-| INT | 11 | +0 | +0 |
-| SAB | 11 | +0 | +2 |
-| CAR | 15 | +2 | +2 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    11 |  +0 |   +0 |
+| CON   |    14 |  +2 |   +4 |
+| INT   |    11 |  +0 |   +0 |
+| SAB   |    11 |  +0 |   +2 |
+| CAR   |    15 |  +2 |   +2 |
 
 **Inmunidades:** asustado
 

@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/Espectro|Espectro (Español)]]"
 
 **Speed 30 ft., Fly 50 ft. (hover)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 1 | −5 | −5 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
-| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +0 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 1  | −5  |  −5  | **Dex** 14 | +2  |  +2  | **Con** 11 | +0 | +0 |
+| **Int** 10 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 11 | +0 | +0 |
 
 **Resistances Acid, Bludgeoning, Cold, Fire, Lightning,**
 

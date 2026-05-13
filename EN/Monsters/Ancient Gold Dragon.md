@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DragonDeOroAnciano|Dragón de oro anciano (Esp
 
 **Speed 40 ft., Fly 80 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 30 | +10 | +10 | **Dex** 14 | +2 | +9 | **Con** 29 | +9 | +9 |
-| **Int** 18 | +4 | +4 | **Wis** 17 | +3 | +10 | **Cha** 28 | +9 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 30 | +10 | +10  | **Dex** 14 | +2  |  +9  | **Con** 29 | +9 | +9 |
+| **Int** 18 | +4  |  +4  | **Wis** 17 | +3  | +10  | **Cha** 28 | +9 | +9 |
 
 **Skills Insight +10, Perception +17, Persuasion +16, Stealth**
 

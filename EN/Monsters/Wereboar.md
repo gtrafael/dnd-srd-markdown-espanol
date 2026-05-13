@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/HombreJabali|Hombre jabalí (Español)]]"
 
 **Speed 30 ft., 40 ft. (boar form only)**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 17 | +3 | +3 | **Dex** 10 | +0 | +0 | **Con** 15 | +2 | +2 |
-| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +0 | **Cha** 8 | −1 | −1 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 17 | +3  |  +3  | **Dex** 10 | +0  |  +0  | **Con** 15 | +2 | +2 |
+| **Int** 10 | +0  |  +0  | **Wis** 11 | +0  |  +0  | **Cha** 8 | −1 | −1 |
 
 **Skills Perception +2**
 

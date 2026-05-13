@@ -3,6 +3,7 @@ aliases: ["Giant Seahorse"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/CaballitoDeMarGigante|Caballito de mar gigante (Español)]]"
 ---
+
 ## Giant Seahorse
 
 *Large Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/CaballitoDeMarGigante|Caballito de mar gigante (Español
 
 **Speed 5 ft., Swim 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 5 | −3 | −3 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 15 | +2  |  +2  | **Dex** 12 | +1  |  +1  | **Con** 11 | +0 | +0 |
+| **Int** 2  | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 5 | −3 | −3 |
 
 **Senses Passive Perception 11**
 

@@ -3,6 +3,7 @@ aliases: ["Bane"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/Perdicion|Perdición (Español)]]"
 ---
+
 ### Bane
 
 *Level 1 Enchantment* (Bard, Cleric, Warlock)

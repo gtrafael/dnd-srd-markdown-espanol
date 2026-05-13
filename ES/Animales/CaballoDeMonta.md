@@ -17,13 +17,13 @@ related_en: "[[Animals/Riding Horse|Riding Horse (EN)]]"
 **Velocidad:** 18 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| SAB | 11 | +0 | +0 |
-| CAR | 7 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    13 |  +1 |   +1 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     2 |  -4 |   -4 |
+| SAB   |    11 |  +0 |   +0 |
+| CAR   |     7 |  -2 |   -2 |
 
 **Sentidos:** Percepción pasiva 10
 

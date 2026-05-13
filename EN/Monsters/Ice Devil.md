@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/DiabloGelido|Diablo gélido (Español)]]"
 
 **Speed 40 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 21 | +5 | +5 | **Dex** 14 | +2 | +7 | **Con** 18 | +4 | +9 |
-| **Int** 18 | +4 | +4 | **Wis** 15 | +2 | +7 | **Cha** 18 | +4 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 21 | +5  |  +5  | **Dex** 14 | +2  |  +7  | **Con** 18 | +4 | +9 |
+| **Int** 18 | +4  |  +4  | **Wis** 15 | +2  |  +7  | **Cha** 18 | +4 | +9 |
 
 **Skills Insight +7, Perception +7, Persuasion +9**
 

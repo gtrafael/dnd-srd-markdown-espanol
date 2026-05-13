@@ -17,13 +17,13 @@ related_en: "[[Monsters/Grimlock|Grimlock (EN)]]"
 **Velocidad:** 9 m, trepar 9 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 16 | +3 | +3 |
-| DES | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 9 | -1 | -1 |
-| SAB | 8 | -1 | -1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    16 |  +3 |   +3 |
+| DES   |    12 |  +1 |   +1 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     9 |  -1 |   -1 |
+| SAB   |     8 |  -1 |   -1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Atletismo +5, Percepción +3, Sigilo +5
 

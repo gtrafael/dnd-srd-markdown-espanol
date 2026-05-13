@@ -17,13 +17,14 @@ related_en: "[[Monsters/Manticore|Manticore (EN)]]"
 **Velocidad:** 9 m, volar 15 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 17 | +3 | +3 |
-| DES | 16 | +3 | +3 |
-| CON | 17 | +3 | +3 |
-| INT | 7 | -2 | -2 |
-| SAB | 12 | +1 | +1 |
-| CAR | 8 | -1 | -1 |
+|-------|------:|----:|-----:|
+| FUE   |    17 |  +3 |   +3 |
+| DES   |    16 |  +3 |   +3 |
+| CON   |    17 |  +3 |   +3 |
+| INT   |     7 |  -2 |   -2 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     8 |  -1 |   -1 |
+
 **Sentidos:** visión en la oscuridad 18 m; Percepción pasiva 11
 
 **Idiomas:** común

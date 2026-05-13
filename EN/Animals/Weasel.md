@@ -3,6 +3,7 @@ aliases: ["Weasel"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Comadreja|Comadreja (Español)]]"
 ---
+
 ## Weasel
 
 *Tiny Beast, Unaligned*
@@ -13,11 +14,10 @@ related_es: "[[Animales/Comadreja|Comadreja (Español)]]"
 
 **Speed 30 ft., Climb 30 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 3 | −4 | −4 | **Dex** 16 | +3 | +3 | **Con** 8 | −1 | −1 |
-| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 3 | −4 | −4 |
+|           | MOD | SAVE |            | MOD | SAVE |
+|-----------|:---:|:----:|------------|:---:|:----:|
+| **Str** 3 | −4  |  −4  | **Dex** 16 | +3  |  +3  | **Con** 8 | −1 | −1 |
+| **Int** 2 | −4  |  −4  | **Wis** 12 | +1  |  +1  | **Cha** 3 | −4 | −4 |
 
 **Skills Acrobatics +5, Perception +3, Stealth +5**
 

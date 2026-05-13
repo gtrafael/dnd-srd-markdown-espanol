@@ -3,6 +3,7 @@ aliases: ["Travel"]
 tags: [srd, english, tag_gamemastering]
 related_es: "[[HerramientasDelJuego/RitmoDeViaje|Viaje (Español)]]"
 ---
+
 # Travel Pace
 
 A group of characters can travel overland at a Normal, Fast, or Slow pace, as described in "Playing the Game." During any journey stage, the predominant terrain determines the characters' maximum travel pace, as shown in the Maximum Pace column of the Travel Terrain table. Certain factors can affect a group's travel pace.
@@ -36,19 +37,19 @@ Characters traveling in a vehicle use the vehicle's speed in miles per hour (as 
 
 ## Travel Terrain
 
-| Terrain | Maximum Pace | Encounter Distance | Foraging DC | Navigation DC | Search DC |
-|---|---|---|---|---|---|
-| Arctic | Fast* | 6d6 x 10 feet | 20 | 10 | 10 |
-| Coastal | Normal | 2d10 x 10 feet | 10 | 5 | 15 |
-| Desert | Normal | 6d6 x 10 feet | 20 | 10 | 10 |
-| Forest | Normal | 2d8 x 10 feet | 10 | 15 | 15 |
-| Grassland | Fast | 6d6 x 10 feet | 15 | 5 | 15 |
-| Hill | Normal | 2d10 x 10 feet | 15 | 10 | 15 |
-| Mountain | Slow | 4d10 x 10 feet | 20 | 15 | 20 |
-| Swamp | Slow | 2d8 x 10 feet | 10 | 15 | 20 |
-| Underdark | Normal | 2d6 x 10 feet | 20 | 10 | 20 |
-| Urban | Normal | 2d6 x 10 feet | 20 | 15 | 15 |
-| Waterborne | Special** | 6d6 x 10 feet | 15 | 10 | 15 |
+| Terrain    | Maximum Pace | Encounter Distance | Foraging DC | Navigation DC | Search DC |
+|------------|--------------|--------------------|-------------|---------------|-----------|
+| Arctic     | Fast*        | 6d6 x 10 feet      | 20          | 10            | 10        |
+| Coastal    | Normal       | 2d10 x 10 feet     | 10          | 5             | 15        |
+| Desert     | Normal       | 6d6 x 10 feet      | 20          | 10            | 10        |
+| Forest     | Normal       | 2d8 x 10 feet      | 10          | 15            | 15        |
+| Grassland  | Fast         | 6d6 x 10 feet      | 15          | 5             | 15        |
+| Hill       | Normal       | 2d10 x 10 feet     | 15          | 10            | 15        |
+| Mountain   | Slow         | 4d10 x 10 feet     | 20          | 15            | 20        |
+| Swamp      | Slow         | 2d8 x 10 feet      | 10          | 15            | 20        |
+| Underdark  | Normal       | 2d6 x 10 feet      | 20          | 10            | 20        |
+| Urban      | Normal       | 2d6 x 10 feet      | 20          | 15            | 15        |
+| Waterborne | Special**    | 6d6 x 10 feet      | 15          | 10            | 15        |
 
 *Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain.
 

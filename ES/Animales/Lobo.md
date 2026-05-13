@@ -17,13 +17,13 @@ related_en: "[[Animals/Wolf|Wolf (EN)]]"
 **Velocidad:** 12 m
 
 | Stats | Valor | Mod | Salv |
-|---|---:|---:|---:|
-| FUE | 14 | +2 | +2 |
-| DES | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 3 | -4 | -4 |
-| SAB | 12 | +1 | +1 |
-| CAR | 6 | -2 | -2 |
+|-------|------:|----:|-----:|
+| FUE   |    14 |  +2 |   +2 |
+| DES   |    15 |  +2 |   +2 |
+| CON   |    12 |  +1 |   +1 |
+| INT   |     3 |  -4 |   -4 |
+| SAB   |    12 |  +1 |   +1 |
+| CAR   |     6 |  -2 |   -2 |
 
 **Habilidades:** Percepción +5, Sigilo +4
 

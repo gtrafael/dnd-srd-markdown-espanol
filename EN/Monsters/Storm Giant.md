@@ -14,11 +14,10 @@ related_es: "[[MonstruosDeLaAALaZ/GiganteDeLasTormentas|Gigante de las tormentas
 
 **Speed 50 ft., Fly 25 ft. (hover), Swim 50 ft.**
 
-
-| | MOD | SAVE | | MOD | SAVE |
-|---|:---:|:---:|---|:---:|:---:|
-| **Str** 29 | +9 | +14 | **Dex** 14 | +2 | +2 | **Con** 20 | +5 | +10 |
-| **Int** 16 | +3 | +3 | **Wis** 20 | +5 | +10 | **Cha** 18 | +4 | +9 |
+|            | MOD | SAVE |            | MOD | SAVE |
+|------------|:---:|:----:|------------|:---:|:----:|
+| **Str** 29 | +9  | +14  | **Dex** 14 | +2  |  +2  | **Con** 20 | +5 | +10 |
+| **Int** 16 | +3  |  +3  | **Wis** 20 | +5  | +10  | **Cha** 18 | +4 | +9 |
 
 **Skills Arcana +8, Athletics +14, History +8, Perception +10**
 
