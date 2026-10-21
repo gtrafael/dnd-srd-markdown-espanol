@@ -1,6 +1,7 @@
 ---
 aliases: ["Progresión de niveles"]
-tags: [srd, espanol, tag_caracterizaciones, sin-equivalente]
+tags: [srd, espanol, tag_caracterizaciones]
+related_en: "[[Character Creation/Level Advancement|Level Advancement (EN)]]"
 ---
 
 # Progresión de niveles
