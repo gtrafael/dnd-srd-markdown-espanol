@@ -174,7 +174,7 @@ Ataques afectados. Las tiradas de ataque contra ti tienen ventaja.
 
 ## Aventura
 
-Una aventura es una serie de encuentros. La histoConsulta también “Encuentro”.
+Una aventura es una serie de encuentros. La historia surge al ir interpretándolos. Consulta también “Encuentro”.
 
 ## Ayudar [acción]
 
@@ -396,9 +396,9 @@ Consumo de agua al día
 
 | Tamaño   | Agua | Tamaño       | Agua |
 |----------|-----:|--------------|-----:|
-| Diminuto |   11 | Grande       |  161 |
-| Pequeño  |   41 | Enorme       |  641 |
-| Mediano  |   41 | Gargantuesco | 2561 |
+| Diminuto |  1 l | Grande       | 16 l |
+| Pequeño  |  4 l | Enorme       | 64 l |
+| Mediano  |  4 l | Gargantuesco | 256 l |
 
 ## Desnutrición [peligro]
 
@@ -1047,7 +1047,7 @@ Normalmente, interactúas con un objeto mientras haces otra cosa, como cuando de
 
 ## Valor de desafío
 
-El valor de desafío (VD) resume la amenaza que supone un monstruo para un grupo de cuatro personajes jugadores. Compara el VD del monstruo con el nivel de los personajes. Si el VD es superior, el monstruo seguramente suponga un peligro. Si el VD es inferior, el monstruo probablemente no sea una gran amenaza. No obstante, las circunstancias y la cantidad de personajes jugadores pueden alterar considerablemente lo peligroso que puede ser un monstruo en realidad. En el capítulo “Herramientas del juego” (“Encuentros de combate”) se explica cómo usar el VD al planear posibles encuenConsulta también
+El valor de desafío (VD) resume la amenaza que supone un monstruo para un grupo de cuatro personajes jugadores. Compara el VD del monstruo con el nivel de los personajes. Si el VD es superior, el monstruo seguramente suponga un peligro. Si el VD es inferior, el monstruo probablemente no sea una gran amenaza. No obstante, las circunstancias y la cantidad de personajes jugadores pueden alterar considerablemente lo peligroso que puede ser un monstruo en realidad. En el capítulo “Herramientas del juego” (“Encuentros de combate”) se explica cómo usar el VD al planear posibles encuentros de combate. Consulta también “Perfil”.
 
 ## Velocidad
 
