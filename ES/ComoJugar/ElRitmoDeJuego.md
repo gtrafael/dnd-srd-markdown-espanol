@@ -1,6 +1,7 @@
 ---
 aliases: ["El ritmo de juego", "Gameplay"]
-tags: [srd, espanol, tag_comojugar, sin-equivalente]
+tags: [srd, espanol, tag_comojugar]
+related_en: "[[Gameplay/Rhythm of Play|Rhythm of Play (EN)]]"
 ---
 
 # El ritmo de juego
