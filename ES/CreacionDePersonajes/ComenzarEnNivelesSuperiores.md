@@ -1,6 +1,7 @@
 ---
 aliases: ["Comenzar en niveles superiores"]
-tags: [srd, espanol, tag_caracterizaciones, sin-equivalente]
+tags: [srd, espanol, tag_caracterizaciones]
+related_en: "[[Character Creation/Starting at Higher Levels|Starting at Higher Levels (EN)]]"
 ---
 
 # Comenzar en niveles superiores
