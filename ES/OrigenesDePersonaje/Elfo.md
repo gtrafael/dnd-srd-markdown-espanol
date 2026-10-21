@@ -1,0 +1,37 @@
+---
+aliases: ["Elfo", "Elf"]
+tags: [srd, espanol, tag_caracterizaciones]
+related_en: "[[Species/Elf|Elf (EN)]]"
+---
+
+# Elfo
+
+Tipo de criatura: humanoide
+
+Tamaño: Mediano (entre 1,5 y 1,8 m de altura)
+
+Velocidad: 9 m
+
+Como elfo, tienes estos atributos especiales:
+
+Linaje élfico. Formas parte de un linaje que te otorga capacidades sobrenaturales. Elige un linaje de la tabla “Linajes élficos”. Obtienes el beneficio de nivel 1 de ese linaje.
+
+Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de esta forma tras finalizar un descanso largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro que tengas del nivel apropiado.
+
+Linajes élficos
+
+| Linaje              | Nivel 1                                                                                                                                                   | Nivel 3            | Nivel 5          |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|
+| Alto elfo           | Conoces el truco prestidigitación. Tras finalizar un descanso largo, puedes sustituir ese truco por otro truco diferente de la lista de conjuros de mago. | Detectar magia     | Paso brumoso     |
+| Drow                | El alcance de tu visión en la oscuridad aumenta a 36 m. También conoces el truco luces danzantes.                                                         | Fuego feérico      | Oscuridad        |
+| Elfo de los bosques | Tu velocidad aumenta a 10,5 m. También conoces el truco saber druídico.                                                                                   | Zancada prodigiosa | Pasar sin rastro |
+
+La Inteligencia, la Sabiduría o el Carisma es tu aptitud mágica para los conjuros que lances con este atributo (elige la característica al seleccionar el linaje).
+
+Linaje feérico. Tienes ventaja en las tiradas de salvación para evitar o poner fin al estado de hechizado.
+
+Sentidos agudos. Tienes competencia en la habilidad de Percepción, Perspicacia o Supervivencia.
+
+Trance. No necesitas dormir y la magia no puede dormirte. Puedes finalizar un descanso largo en 4 horas si las pasas en una meditación similar a un trance, tiempo durante el cual conservas la consciencia.
+
+Visión en la oscuridad. Tienes visión en la oscuridad hasta 18 m.
