@@ -59,9 +59,9 @@ Consumo de agua al día
 
 | Tamaño   | Agua | Tamaño       | Agua |
 |----------|-----:|--------------|-----:|
-| Diminuto |   11 | Grande       |  161 |
-| Pequeño  |   41 | Enorme       |  641 |
-| Mediano  |   41 | Gargantuesco | 2561 |
+| Diminuto |  1 l | Grande       | 16 l |
+| Pequeño  |  4 l | Enorme       | 64 l |
+| Mediano  |  4 l | Gargantuesco | 256 l |
 
 # Desnutrición [peligro]
 
