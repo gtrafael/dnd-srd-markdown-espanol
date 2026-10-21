@@ -1,6 +1,7 @@
 ---
 aliases: ["Partes de un perfil"]
-tags: [srd, espanol, tag_monstruos, sin-equivalente]
+tags: [srd, espanol, tag_monstruos]
+related_en: "[[Monsters/Monsters|Monsters (EN)]]"
 ---
 
 # Monstruos
