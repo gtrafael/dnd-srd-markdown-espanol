@@ -1,7 +1,7 @@
 ---
 aliases: ["Multiclase", "Multiclassing"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Characterizations/Multiclassing|Multiclassing (EN)]]"
+related_en: "[[Character Creation/Multiclassing|Multiclassing (EN)]]"
 ---
 
 # Multiclase
