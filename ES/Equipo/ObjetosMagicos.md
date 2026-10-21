@@ -1,6 +1,7 @@
 ---
 aliases: ["Objetos mágicos"]
-tags: [srd, espanol, tag_equipo, sin-equivalente]
+tags: [srd, espanol, tag_equipo]
+related_en: "[[Equipment/Magic Items|Magic Items (EN)]]"
 ---
 
 # Objetos mágicos
