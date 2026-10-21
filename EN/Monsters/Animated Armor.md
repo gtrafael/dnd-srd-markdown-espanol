@@ -6,33 +6,26 @@ related_es: "[[MonstruosDeLaAALaZ/ArmaduraAnimada|Armadura animada (Español)]]"
 
 ## Animated Armor
 
-*Medium Construct, Unaligned*
+_Medium Construct, Unaligned_
 
-**AC 18 Initiative +2 (12)**
+- **AC** 18
+- **Initiative** +2 (12)
+- **HP** 33 (6d8 + 6)
+- **Speed** 25 ft.
 
-**HP 33 (6d8 + 6)**
+|                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
+|------------------|--------|--------|--------|--------|--------|--------|
+| **Score**        |     14 |     11 |     13 |      1 |      3 |      1 |
+| **Modifier**     |     +2 |     +0 |     +1 |     -5 |     -4 |     -5 |
+| **Saving Throw** |     +2 |     +0 |     +1 |     -5 |     -4 |     -5 |
 
-**Speed 25 ft.**
-
-|            | MOD | SAVE |            | MOD | SAVE |
-|------------|:---:|:----:|------------|:---:|:----:|
-| **Str** 14 | +2  |  +2  | **Dex** 11 | +0  |  +0  | **Con** 13 | +1 | +1 |
-| **Int** 1  | −5  |  −5  | **Wis** 3  | −4  |  −4  | **Cha** 1 | −5 | −5 |
-
-**Immunities Poison, Psychic; Charmed, Deafened,**
-
-Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-
-**Senses Blindsight 60 ft.; Passive Perception 6**
-
-**Languages None**
-
-**CR 1 (XP 200; PB +2)**
+- **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Blindsight 60 ft.; Passive Perception 6
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 ### Actions
 
-Multiattack. The armor makes two Slam attacks.
+_**Multiattack.**_ The armor makes two Slam attacks.
 
-Slam. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2)
-
-Bludgeoning damage.
+_**Slam.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Bludgeoning damage.
