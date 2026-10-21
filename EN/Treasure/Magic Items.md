@@ -6,56 +6,87 @@ related_es: "[[ObjetosMagicos/ObjetosMagicos|Magic Items (Español)]]"
 
 # Magic Items
 
-Magic items are gleaned from the hoards of conquered monsters or discovered in long-­‐‑lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner’s capabilities in wondrous ways.
+Magic items are gleaned from the hoards of felled monsters or discovered in long-lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner's capabilities in wondrous ways.
 
-## Attunement
+## Magic Item Categories
 
-Some magic items require a creature to form a bond with them before their magical properties can be used. This bond is called attunement, and certain items have a prerequisite for it. If the prerequisite is a class, a creature must be a member of that class to attune to the item. (If the class is a spellcasting class, a monster qualifies if it has spell slots and uses that class’s spell list.) If the prerequisite is to be a spellcaster, a creature qualifies if it can cast at least one spell using its traits or features, not using a magic item or the like.
+Every magic item belongs to a category. The table lists the nine categories and provides examples. Rules for the categories appear after the table.
 
-Without becoming attuned to an item that requires attunement, a creature gains only its nonmagical benefits, unless its description states otherwise. For example, a magic shield that requires attunement provides the benefits of a normal shield to a creature not attuned to it, but none of its magical properties.
+| Category       | Examples                           |
+|----------------|------------------------------------|
+| Armor          | +1 Leather Armor, +1 Shield        |
+| Potions        | Potion of Healing                  |
+| Rings          | Ring of Invisibility               |
+| Rods           | Immovable Rod                      |
+| Scrolls        | Spell Scroll                       |
+| Staffs         | Staff of Striking                  |
+| Wands          | Wand of Fireballs                  |
+| Weapons        | +1 Ammunition, +1 Longsword        |
+| Wondrous Items | Bag of Holding, Boots of Elvenkind |
 
-Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it (this can’t be the same short rest used to learn the item’s properties). This focus can take the form of weapon practice (for a weapon), meditation (for a wondrous item), or some other appropriate activity. If the short rest is interrupted, the attunement attempt fails. Otherwise, at the end of the short rest, the creature gains an intuitive understanding of how to activate any magical properties of the item, including any necessary command words.
+### Armor
 
-An item can be attuned to only one creature at a time, and a creature can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; the creature must end its attunement to an item first. Additionally, a creature can’t attune to more than one copy of an item. For example, a creature can’t attune to more than one *ring* *of* *protection* at a time.
+An item in the Armor category is typically a magical version of armor from "Equipment." Unless an armor's description notes otherwise, the armor must be worn for its magic to function.
 
-A creature’s attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 100 feet away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement by spending another short rest focused on the item, unless the item is cursed.
+Some suits of magic armor specify the type of armor they are, such as Chain Mail or Plate Armor. If no type is specified, choose the type or determine it randomly.
 
-## Wearing and Wielding Items
+### Potions
 
-Using a magic item’s properties might mean wearing or wielding it. A magic item meant to be worn must be donned in the intended fashion: boots go on the feet, gloves on the hands, hats and helmets on the head, and rings on the finger. Magic armor must be donned, a shield strapped to the arm, a cloak fastened about the shoulders. A weapon must be held.
+An item in the Potion category might be a magical brew that must be imbibed or an oil that must be applied to a creature or an object. A typical potion consists of 1 ounce of liquid in a vial.
 
-In most cases, a magic item that’s meant to be worn can fit a creature regardless of size or build. Many magic garments are made to be easily adjustable, or they magically adjust themselves to the wearer. Rare exceptions exist. If the story suggests a good reason for an item to fit only creatures of a certain size or shape, you can rule that it doesn’t adjust. For example, drow-­‐‑made armor might fit elves only. Dwarves might make items usable only by dwarf-­‐‑sized and dwarf-­‐‑shaped folk.
+_**Using a Potion.**_ Potions are consumable items. Drinking a potion or administering it to another creature requires a Bonus Action. Applying an oil might take longer as specified in its description. Once used, a potion takes effect immediately, and it is used up.
 
-When a nonhumanoid tries to wear an item, use your discretion as to whether the item functions as intended. A ring placed on a tentacle might work, but a yuan-­‐‑ti with a snakelike tail instead of legs can’t wear boots.
+_**Mixing Potions.**_ A character might drink one potion while still under the effects of another or pour several potions into a single container. The strange ingredients used in creating potions can result in unpredictable interactions.
 
-### Multiple Items of the Same Kind
+When a character mixes two potions together, roll on the table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.
 
-Use common sense to determine whether more than one of a given kind of magic item can be worn. A character can’t normally wear more than one pair of footwear, one pair of gloves or gauntlets, one pair of bracers, one suit of armor, one item of headwear, and one cloak. You can make exceptions; a character might be able to wear a circlet under a helmet, for example, or to layer two cloaks.
+| 1d100   | Result                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01      | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius Sphere centered on itself. Each creature in that area takes 4d10 Force damage.                                                                                                                                                                                                                                             |
+| 02-08   | Both potions lose their effects, and the mix ture becomes an ingested poison of your choice (see "Poison" in "Gameplay Toolbox").                                                                                                                                                                                                                                                                                          |
+| 09-15   | Both potions lose their effects.                                                                                                                                                                                                                                                                                                                                                                                           |
+| 16-25   | One potion loses its effect.                                                                                                                                                                                                                                                                                                                                                                                               |
+| 26-35   | Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect.                                                                                                                                                                                                                                                                |
+| 36-90   | Both potions work normally.                                                                                                                                                                                                                                                                                                                                                                                                |
+| 91-99   | Both potions work, but the numerical effects and duration of one potion are doubled. If nei ther potion has anything to double in this way, they work normally.                                                                                                                                                                                                                                                            |
+| 00      | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a _Potion of Healing_ might increase the drinker's Hit Point maximum by 2d4 + 2, or a _Potion of Invisibility_ might give the drinker the Invisible condition indefinitely. At your discretion, a _Dispel Magic_ spell or similar magic might end this lasting effect. |
 
-### Paired Items
+### Rings
 
-Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a boot of striding and springing on one foot and a boot of elvenkind on the other foot gains no benefit from either.
+For its magic to function, an item in the Ring category must be worn on a finger or a similar digit unless its description notes otherwise.
 
-## Activating an Item
+### Rods
 
-Activating some magic items requires a user to do something special, such as holding the item and uttering a command word. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
+An item in the Rod category is a scepter usually made of metal, wood, or bone. A typical rod weighs 2 to 5 pounds.
 
-If an item requires an action to activate, that action isn’t a function of the Use an Item action, so a feature such as the rogue’s Fast Hands can’t be used to activate the item.
+Unless its description notes otherwise, a rod can be used as an Arcane Focus.
 
-### Command Word
+### Scrolls
 
-A command word is a word or phrase that must be spoken for an item to work. A magic item that requires a command word can’t be activated in an area where sound is prevented, as in the area of the silence spell.
+An item in the Scroll category is a roll of paper or parchment, sometimes attached to wooden rods and typically kept safe in a tube of ivory, jade, leather, metal, or wood. The most prevalent scroll is the _Spell Scroll_, a spell stored in written form.
 
-### Consumables
+_**Using a Scroll.**_ Scrolls are consumable items. Unleashing the magic in a scroll requires the user to read the scroll. When its magic has been invoked, the scroll can't be used again. Its words fade, or it crumbles into dust.
 
-Some items are used up when they are activated. A potion or an elixir must be swallowed, or an oil applied to the body. The writing vanishes from a scroll when it is read. Once used, a consumable item loses its magic.
+Any creature that can understand a written language can read a scroll and attempt to activate it unless its description notes otherwise.
 
-### Spells
+### Staffs
 
-Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell level, doesn’t expend any of the user’s spell slots, and requires no components, unless the item’s description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires concentration. Many items, such as potions, bypass the casting of a spell and confer the spell’s effects, with their usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
+Items in the Staff category vary widely in appearance: some are of nearly equal diameter throughout and smooth, others are gnarled and twisted, some are made of wood, and others are composed of polished metal or crystal. A staff weighs between 2 and 7 pounds and serves well as a walking stick or cane.
 
-A magic item, such as certain staffs, may require you to use your own spellcasting ability when you cast a spell from the item. If you have more than one spellcasting ability, you choose which one to use with the item. If you don’t have a spellcasting ability—perhaps you’re a rogue with the Use Magic Device feature—your spellcasting ability modifier is +0 for the item, and your proficiency bonus does apply.
+Unless its description notes otherwise, a staff can be used as a nonmagical Quarterstaff and an Arcane Focus.
 
-### Charges
+### Wands
 
-Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when an identify spell is cast on it, as well as when a creature attunes to it. Additionally, when an item regains charges, the creature attuned to it learns how many charges it regained.
+An item in the Wand category is typically 12 to 15 inches long and crafted of metal, bone, or wood. It is tipped with metal, crystal, stone, or some other material.
+
+Unless its description notes otherwise, a wand can be used as an Arcane Focus.
+
+### Weapons
+
+A magic weapon is typically a magical version of a weapon from "Equipment." Some magic weapons specify the type of weapon they are in their descriptions, such as a Longsword or Longbow. If no weapon type is specified, you may choose the type or determine it randomly.
+
+_**Ammunition.**_ If a magic weapon has the Ammunition property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not.
+
+### Wondrous Items
+
+Wondrous Items include wearable items such as boots, belts, capes, amulets, brooches, and circlets. Bags, carpets, figurines, horns, musical instruments, and more also fall into this category.
