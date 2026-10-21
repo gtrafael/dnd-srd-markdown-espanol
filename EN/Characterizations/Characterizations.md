@@ -5,5 +5,3 @@
 - [[Backgrounds]]
 - [[Feats]]
 - [[Languages]]
-- [[Multiclassing]]
-- [[Trinkets]]
