@@ -1,6 +1,7 @@
 ---
 aliases: ["Elaborar pociones de curación"]
-tags: [srd, espanol, tag_equipo, sin-equivalente]
+tags: [srd, espanol, tag_equipo]
+related_en: "[[Equipment/Brewing Potions of Healing|Brewing Potions of Healing (EN)]]"
 ---
 
 # Elaborar pociones de curación
