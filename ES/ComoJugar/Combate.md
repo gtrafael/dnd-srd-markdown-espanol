@@ -38,7 +38,7 @@ En tu turno puedes moverte una distancia que no supere tu velocidad y llevar a c
 
 Las principales acciones que puedes llevar a cabo se describen en el apartado “Acciones” anteriormente en “Cómo jugar”. Los rasgos de un personaje y el perfil de un monstruo amplían el abanico de acciones. El apartado “Movimiento y posición”, que
 
-### Jugar con una cuadrícul a
+### Jugar con una cuadrícula
 
 Si juegas con una cuadrícula y miniaturas u otras fichas, sigue estas reglas.
 
@@ -157,7 +157,7 @@ Ciertos ataques a distancia, como los que se realizan con un arco largo, cuentan
 
 Intentar un ataque a distancia se complica si el enemigo está junto a ti. Cuando hagas un ataque a distancia, ya sea con un arma, un conjuro o cualquier
 
-#### Atacantes y objetivos ocul tos
+#### Atacantes y objetivos ocultos
 
 Cuando ataques a un objetivo al que no puedas ver, tendrás desventaja en la tirada. Esta regla se aplica tanto si estás intentando adivinar la ubicación del objetivo como si haces objetivo a una criatura a la que puedes oír pero no ver. Si el objetivo no se encuentra en el lugar al que diriges tu ataque, fallarás.
 
