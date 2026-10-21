@@ -9,7 +9,7 @@ tags: [srd, espanol, tag_tesoro, sin-equivalente]
 
 Este objeto parece una pluma. Existen diferentes tipos de fichas de pluma, cada uno con un efecto diferente de un solo uso. Tu GM elige el tipo de ficha o lo determina al azar tirando en la tabla “Fichas de pluma”. El tipo de ficha determina su rareza.
 
-**Abanico (infrecuente).** Si te encuentras en un bote o barco, puedes emplear una acción de magia para tirarla ficha alaire hasta 3m de altura.La ficha desaparecerá y un abanico gigante en movimiento ocupará su lugar. El abanico flotará y creará un viento fuerte, que podrá henchir las velas de un barco y aumentar su velocidad en 7,5 km/h durante 8 horas. Puedes desconvocar el abanico como acción de magia.
+**Abanico (infrecuente).** Si te encuentras en un bote o barco, puedes emplear una acción de magia para tirarla ficha alaire hasta 3 m de altura.La ficha desaparecerá y un abanico gigante en movimiento ocupará su lugar. El abanico flotará y creará un viento fuerte, que podrá henchir las velas de un barco y aumentar su velocidad en 7,5 km/h durante 8 horas. Puedes desconvocar el abanico como acción de magia.
 
 **Ancla (infrecuente).** Puedes emplear una acción de magia para tocar un bote o barco con la ficha. Durante las próximas 24 horas, la embarcación no podrá moverse de ninguna manera. Volver a tocarla con la ficha pone fin al efecto. Cuando acabe el efecto, la ficha desaparece.
 
