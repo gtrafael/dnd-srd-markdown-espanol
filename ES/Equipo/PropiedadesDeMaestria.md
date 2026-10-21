@@ -7,10 +7,6 @@ tags: [srd, espanol, tag_equipo, sin-equivalente]
 
 Todas las armas tienen una propiedad de maestría que solo pueden utilizar los personajes que tengan un rasgo que les permita usar la propiedad, como Maestría con armas. A continuación se definen estas propiedades.
 
-## Armas improvisadas
-
-Si utilizas un objeto como una pata de una mesa, una sartén o una botella como arma provisional, consulta “Armas improvisadas” en el capítulo “Glosario de reglas”. Consulta esas reglas también si usas un arma de una forma atípica, como utilizar un arma a distancia para hacer un ataque cuerpo a cuerpo.
-
 ## Debilitar
 
 Si aciertas a una criatura con esta arma, tendrá desventaja en su próxima tirada de ataque antes del principio de tu siguiente turno.
