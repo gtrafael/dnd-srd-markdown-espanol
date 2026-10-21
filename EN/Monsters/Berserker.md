@@ -6,33 +6,28 @@ related_es: "[[MonstruosDeLaAALaZ/Berserker|Berserker (Español)]]"
 
 ## Berserker
 
-*Medium or Small Humanoid, Neutral*
+_Medium or Small Humanoid, Neutral_
 
-**AC 13 Initiative +1 (11)**
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 67 (9d8 + 27)
+- **Speed** 30 ft.
 
-**HP 67 (9d8 + 27)**
+|                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
+|------------------|--------|--------|--------|--------|--------|--------|
+| **Score**        |     16 |     12 |     17 |      9 |     11 |      9 |
+| **Modifier**     |     +3 |     +1 |     +3 |     -1 |     +0 |     -1 |
+| **Saving Throw** |     +3 |     +1 |     +3 |     -1 |     +0 |     -1 |
 
-**Speed 30 ft.**
-
-|            | MOD | SAVE |            | MOD | SAVE |
-|------------|:---:|:----:|------------|:---:|:----:|
-| **Str** 16 | +3  |  +3  | **Dex** 12 | +1  |  +1  | **Con** 17 | +3 | +3 |
-| **Int** 9  | −1  |  −1  | **Wis** 11 | +0  |  +0  | **Cha** 9 | −1 | −1 |
-
-**Gear Greataxe, Hide Armor**
-
-**Senses Passive Perception 10**
-
-**Languages Common**
-
-**CR 2 (XP 450; PB +2)**
+- **Gear** Greataxe, Hide Armor
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 2 (XP 450; PB +2)
 
 ### Traits
 
-Bloodied Frenzy. While Bloodied, the berserker has
-
-Advantage on attack rolls and saving throws.
+_**Bloodied Frenzy.**_ While Bloodied, the berserker has Advantage on attack rolls and saving throws.
 
 ### Actions
 
-Greataxe. Melee Attack Roll: +5, reach 5 ft. Hit: 9 (1d12 + 3) Slashing damage. Black Dragons
+_**Greataxe.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 9 (1d12 + 3) Slashing damage.
