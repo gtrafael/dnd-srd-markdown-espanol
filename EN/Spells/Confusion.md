@@ -1,6 +1,7 @@
 ---
 aliases: ["Confusion"]
 tags: [srd, english, tag_spells]
+related_es: "[[Conjuros/Confusion|Confusión (Español)]]"
 ---
 
 ### Confusion
