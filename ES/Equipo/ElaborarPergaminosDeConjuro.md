@@ -1,6 +1,7 @@
 ---
 aliases: ["Elaborar pergaminos de conjuro"]
-tags: [srd, espanol, tag_equipo, sin-equivalente]
+tags: [srd, espanol, tag_equipo]
+related_en: "[[Equipment/Scribing Spell Scrolls|Scribing Spell Scrolls (EN)]]"
 ---
 
 # Elaborar pergaminos de conjuro
