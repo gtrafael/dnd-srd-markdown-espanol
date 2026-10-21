@@ -11,7 +11,6 @@
 - [[Animated Shield]]
 - [[Apparatus of the Crab]]
 - [[Arrow-Catching Shield]]
-- [[Artifacts]]
 - [[Bag of Beans]]
 - [[Bag of Devouring]]
 - [[Bag of Holding]]
