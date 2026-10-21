@@ -2,6 +2,12 @@ name: Generar custom/corpus
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - custom/main
+    paths:
+      - "scripts/generar_corpus_limpio.py"
+      - ".github/workflows/generar-corpus.yml"
 
 permissions:
   contents: write
