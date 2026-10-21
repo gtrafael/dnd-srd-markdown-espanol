@@ -1,7 +1,8 @@
 ---
 aliases: ["Lanzar conjuros", "Spellcasting"]
 tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spellcasting|Spellcasting (EN)]]"
+related_en_section: "[[Spells/Spellcasting#Casting Spells|Casting Spells (EN)]]"
+alignment_mode: "section"
 ---
 
 # Lanzar conjuros
