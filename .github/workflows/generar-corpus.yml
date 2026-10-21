@@ -1,0 +1,38 @@
+name: Generar custom/corpus
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener custom/main
+        uses: actions/checkout@v4
+        with:
+          ref: custom/main
+          fetch-depth: 0
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar variante limpia
+        run: python scripts/generar_corpus_limpio.py
+
+      - name: Publicar custom/corpus
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A ES EN
+          if git diff --cached --quiet; then
+            echo "No hay cambios de contenido respecto a custom/main."
+          else
+            git commit -m "build: generar corpus limpio desde custom/main"
+          fi
+          git push --force origin HEAD:custom/corpus
