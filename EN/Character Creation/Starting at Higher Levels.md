@@ -24,7 +24,3 @@ Also, check with your GM about what equipment is available for you to buy with y
 | 5-10             | 500 GP plus 1d10 × 25 GP plus normal starting equipment    | 1 Common, 1 Uncommon                      |
 | 11-16            | 5,000 gp plus 1d10 × 250 GP plus normal starting equipment | 2 Common, 3 Uncommon, 1 Rare              |
 | 17-20            | 20,000 GP plus 1d10 × 250 GP plus                          | 2 Common, 4 Uncommon, 3 Rare, 1 Very Rare |
-
-## Bonus Feats at Level 20
-
-A GM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. Epic Boon feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
