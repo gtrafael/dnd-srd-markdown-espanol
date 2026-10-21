@@ -1,7 +1,7 @@
 ---
-aliases: ["Confusión", "Befuddlement"]
+aliases: ["Confusión", "Confusion"]
 tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Befuddlement|Befuddlement (EN)]]"
+related_en: "[[Spells/Confusion|Confusion (EN)]]"
 ---
 
 # Confusión
