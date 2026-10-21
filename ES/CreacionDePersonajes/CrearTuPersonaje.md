@@ -1,6 +1,7 @@
 ---
 aliases: ["Crear tu personaje"]
-tags: [srd, espanol, tag_caracterizaciones, sin-equivalente]
+tags: [srd, espanol, tag_caracterizaciones]
+related_en: "[[Character Creation/Create Your Character|Create Your Character (EN)]]"
 ---
 
 # Crear tu personaje
