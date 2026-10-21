@@ -1,7 +1,7 @@
 ---
 aliases: ["Bagatelas", "Trinkets"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Characterizations/Trinkets|Trinkets (EN)]]"
+related_en: "[[Character Creation/Trinkets|Trinkets (EN)]]"
 ---
 
 # Bagatelas
