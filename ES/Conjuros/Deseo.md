@@ -28,7 +28,7 @@ Como alternativa, puedes crear uno de los siguientes efectos a tu eleccion:
 
 **Resistencia.** Concedes resistencia a un tipo de daño de tu elección a hasta diez criaturas que puedas ver. La resistencia es permanente.
 
-**Inmunidad a conjuros.** Un único conjuro u otro efecto mágico durante 8 horas a hasta diez criaturas que puedas ver.
+**Inmunidad a conjuros.** Concedes inmunidad a un único conjuro u otro efecto mágico durante 8 horas a hasta diez criaturas que puedas ver.
 
 **Aprendizaje repentino.** Sustituyes una de tus dotes por otra para la que cumplas los requisitos. Pierdes todos los beneficios de la dote anterior y obtienes los de la nueva. No puedes sustituir una dote que funcione como requisito para cualquiera de tus otras dotes o rasgos.
 
