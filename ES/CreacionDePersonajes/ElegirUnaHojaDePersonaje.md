@@ -1,6 +1,7 @@
 ---
 aliases: ["Elegir una hoja de personaje"]
-tags: [srd, espanol, tag_caracterizaciones, sin-equivalente]
+tags: [srd, espanol, tag_caracterizaciones]
+related_en: "[[Character Creation/Choose a Character Sheet|Choose a Character Sheet (EN)]]"
 ---
 
 # Elegir una hoja de personaje
