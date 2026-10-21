@@ -6,11 +6,18 @@ on:
     branches:
       - custom/main
     paths:
+      - "ES/**"
+      - "EN/**"
       - "scripts/generar_corpus_limpio.py"
       - ".github/workflows/generar-corpus.yml"
+      - "docs/FORK.md"
 
 permissions:
   contents: write
+
+concurrency:
+  group: generar-custom-corpus
+  cancel-in-progress: true
 
 jobs:
   generar:
@@ -21,6 +28,9 @@ jobs:
         with:
           ref: custom/main
           fetch-depth: 0
+
+      - name: Crear rama derivada local
+        run: git checkout -B custom/corpus
 
       - name: Preparar Python
         uses: actions/setup-python@v5
@@ -35,10 +45,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A ES EN metadata
+          git add -A ES EN metadata scripts/generar_corpus_limpio.py .github/workflows/generar-corpus.yml docs/FORK.md
           if git diff --cached --quiet; then
-            echo "No hay cambios de contenido respecto a custom/main."
+            echo "No hay diferencias derivadas."
           else
-            git commit -m "build: generar corpus limpio desde custom/main"
+            git commit -m "build: regenerar corpus limpio desde custom/main"
           fi
           git push --force origin HEAD:custom/corpus
