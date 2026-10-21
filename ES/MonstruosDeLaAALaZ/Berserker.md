@@ -20,10 +20,10 @@ related_en: "[[Monsters/Berserker|Berserker (EN)]]"
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    12 |  +1 |   +1 |
-| CON   |    17 |   — |    — |
+| CON   |    17 |  +3 |   +3 |
 | INT   |     9 |  -1 |   -1 |
 | SAB   |    11 |  +0 |   +0 |
-| CAR   |     9 |   — |    — |
+| CAR   |     9 |  -1 |   -1 |
 
 **Equipo:** armadura de pieles, hacha a dos manos
 
