@@ -217,7 +217,7 @@ Puntuaciones de característica y modificadores
 
 Elige el alineamiento de tu personaje de entre las opciones que se muestran a continuación y anótalo en la hoja.
 
-### Criaturas sin al ineamiento
+### Criaturas sin alineamiento
 
 La mayoría de las criaturas que carecen de raciocinio no poseen alineamiento alguno: son sin alineamiento. Los tiburones son depredadores salvajes, por ejemplo, pero no son malvados; simplemente, no tienen alineamiento.
 
