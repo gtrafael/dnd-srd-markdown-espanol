@@ -56,13 +56,7 @@ Puntos de golpe establecidos por clase
 
 4: Ajustar el bonificador por competencia. El bonificador por competencia de un personaje aumenta en determinados niveles, como se muestra en la tabla “Progreso de los personajes” y en la tabla de rasgos de tu clase del capítulo “Clases”. Cuando tu bonificador por competencia mejore, aumenta todos los números de la hoja de personaje que incluyan tu bonificador por competencia.
 
-5: Ajustar los modificadores por característica. Si escoges una dote que aumente una o varias de tus puntuaciones de característica, tu modificador por característica también cambiará si la nueva puntuación es un número par. Cuando eso
-
-### Dotes adicional es en el nivel 20
-
-Los GM pueden utilizar las dotes como herramienta de progreso una vez que los personajes han alcanzado el nivel 20 para proporcionar más poder a quienes ya no pueden subir más de nivel. De esta forma, cada personaje obtiene una dote de su elección por cada 30 000 PX que consiga por encima de los 355 000. Las dotes de don épico son especialmente apropiadas como dotes adicionales, pero un jugador puede escoger cualquier dote a la que pueda optar su personaje de nivel 20.
-
-ocurra, ajusta todos los números de la hoja de personaje que utilicen ese modificador por característica. Cuando tu modificador por Constitución aumente en 1, tus puntos de golpe máximos también aumentarán en 1 por cada nivel que hayas alcanzado. Por ejemplo, si un personaje alcanza el nivel 8 y aumenta su puntuación de Constitución de 17 a 18, el modificador por Constitución pasará a ser de +4. Los puntos de golpe máximos del personaje aumentarán en 8, más los puntos de golpe obtenidos al alcanzar el nivel 8.
+5: Ajustar los modificadores por característica. Si escoges una dote que aumente una o varias de tus puntuaciones de característica, tu modificador por característica también cambiará si la nueva puntuación es un número par. Cuando eso ocurra, ajusta todos los números de la hoja de personaje que utilicen ese modificador por característica. Cuando tu modificador por Constitución aumente en 1, tus puntos de golpe máximos también aumentarán en 1 por cada nivel que hayas alcanzado. Por ejemplo, si un personaje alcanza el nivel 8 y aumenta su puntuación de Constitución de 17 a 18, el modificador por Constitución pasará a ser de +4. Los puntos de golpe máximos del personaje aumentarán en 8, más los puntos de golpe obtenidos al alcanzar el nivel 8.
 
 ## Escalones del juego
 
