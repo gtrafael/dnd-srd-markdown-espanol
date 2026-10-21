@@ -18,24 +18,24 @@ El grupo deberá moverse a un ritmo lento si la velocidad de alguno de sus miemb
 
 ## Viaje largo
 
-Los personajes pueden esforzarse y viajar más de 8 horas al día, pero correrán el riesgo de cansarse. Al final de cada hora extra que hagan tras las 8 horas, los personajes deberán superar una tirada de salvacion de Constitución o sumarán 1 nivel de cansancio. La CD es 10 más 1 por cada hora a partir de las 8 horas.
+Los personajes pueden esforzarse y viajar más de 8 horas al día, pero correrán el riesgo de cansarse. Al final de cada hora extra que hagan tras las 8 horas, los personajes deberán superar una tirada de salvación de Constitución o sumarán 1 nivel de cansancio. La CD es 10 más 1 por cada hora a partir de las 8 horas.
 
 ## Movimiento especial
 
 Si un grupo puede desplazarse a gran velocidad durante un periodo largo de tiempo, como con el conjuro viajar con el viento o un objeto mágico como una alfombra voladora, aplica la velocidad del grupo al ritmo de viaje con estas reglas:
 
 $$
-\text { Kilómetros   por   hora } = \text { velocidad } \div 2
+Kilómetros por hora = velocidad ÷ 2
 $$
 
 Kilómetros al día (ritmo normal) = kilómetros por hora × número de horas de viaje (8 habitualmente)
 
 $$
-\begin{array}{c} \text {Ritmo rápido = kilómetros al día} \times 1 ^ {1 / 3} (\text {redondear} \\ \text {hacia abajo}) \end{array}
+Ritmo rápido = kilómetros al día × 1⅓ (redondear hacia abajo)
 $$
 
 $$
-\begin{array}{c} \text {Ritmo lento = kilómetros al día} \times 2 / 3 (\text {redondear} \\ \text {hacia abajo}) \end{array}
+Ritmo lento = kilómetros al día × 2/3 (redondear hacia abajo)
 $$
 
 Si los personajes van volando o su movimiento especial les permite ignorar el terreno difícil, podrán desplazarse a un ritmo rápido independientemente del terreno.
