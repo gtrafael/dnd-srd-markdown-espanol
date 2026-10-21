@@ -24,7 +24,6 @@ EXCLUIR_EN = {
     "Animals/Animals.md",
     "Characterizations/Characterizations.md",
     "Classes/Classes.md",
-    "Equipment/Equipment.md",
     "Equipment/Trade Goods.md",
     "Gamemastering/Gamemastering.md",
     "Gamemastering/Objects.md",
