@@ -1,6 +1,7 @@
 ---
 aliases: ["Comida, bebida y alojamiento"]
-tags: [srd, espanol, tag_equipo, sin-equivalente]
+tags: [srd, espanol, tag_equipo]
+related_en: "[[Equipment/Food, Drink, and Lodging|Food, Drink, and Lodging (EN)]]"
 ---
 
 # Comida, bebida y alojamiento
