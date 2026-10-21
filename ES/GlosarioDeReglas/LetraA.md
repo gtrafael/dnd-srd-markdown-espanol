@@ -160,7 +160,7 @@ Ataques afectados. Las tiradas de ataque contra ti tienen ventaja.
 
 # Aventura
 
-Una aventura es una serie de encuentros. La histoConsulta también “Encuentro”.
+Una aventura es una serie de encuentros. La historia surge al ir interpretándolos. Consulta también “Encuentro”.
 
 # Ayudar [acción]
 
