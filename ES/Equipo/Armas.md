@@ -16,10 +16,6 @@ Daño. La tabla indica la cantidad de daño que inflige un arma cuando el atacan
 
 Propiedades. Las propiedades de un arma se muestran en la columna “Propiedades”. Cada propiedad se define en el apartado “Propiedades”.
 
-## Vender equipo
-
-El equipo se vende a la mitad de su precio de compra. Sin embargo, las mercancías y los objetos valiosos, como las gemas y las obras de arte, mantienen su valor completo en el mercado. El capítulo “Objetos mágicos” contiene precios para los objetos mágicos.
-
 Maestría. Cada arma tiene una propiedad de maestría, que se define en la sección “Propiedades de maestría”. Para utilizar esa propiedad, debes tener un rasgo que te lo permita.
 
 ## Competencia con armas
