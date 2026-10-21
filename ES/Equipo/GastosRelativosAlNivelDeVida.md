@@ -1,7 +1,7 @@
 ---
 aliases: ["Gastos", "Expenses"]
 tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Expenses|Expenses (EN)]]"
+related_en: "[[Equipment/Lifestyle Expenses|Lifestyle Expenses (EN)]]"
 ---
 
 # Gastos relativos al nivel de vida
