@@ -1,7 +1,7 @@
 ---
 aliases: ["Befuddlement"]
 tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/Confusion|Confusión (Español)]]"
+related_es: "[[Conjuros/Ofuscacion|Ofuscación (Español)]]"
 ---
 
 ### Befuddlement
