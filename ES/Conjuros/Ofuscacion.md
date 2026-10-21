@@ -1,7 +1,7 @@
 ---
-aliases: ["Ofuscación", "Blur"]
+aliases: ["Ofuscación", "Befuddlement"]
 tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Blur|Blur (EN)]]"
+related_en: "[[Spells/Befuddlement|Befuddlement (EN)]]"
 ---
 
 # Ofuscación
