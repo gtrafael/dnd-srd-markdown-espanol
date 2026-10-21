@@ -6,7 +6,7 @@ Este fork conserva el SRD 5.2.1 bilingüe como fuente de trabajo del proyecto `d
 
 - `main`: espejo de upstream. No se introducen personalizaciones.
 - `custom/main`: versión bilingüe corregida para uso humano y Obsidian. Conserva frontmatter, aliases, tags y relaciones ES↔EN cuando aportan navegación.
-- `custom/corpus`: versión derivada para procesamiento automático. Mantiene el contenido canónico y la estructura lógica, pero elimina metadatos de Obsidian, wikilinks e imágenes que no aportan reglas.
+- `custom/corpus`: rama **generada** desde `custom/main` para procesamiento automático. Mantendrá el contenido canónico y la estructura lógica, pero eliminará metadatos de Obsidian, wikilinks e imágenes que no aportan reglas. No se corrige a mano y no se usará como fuente hasta que el proceso de generación sea reproducible.
 
 Una futura rama de second brain/Obsidian podrá derivarse de `custom/main`, pero no forma parte del trabajo actual de normalización del SRD.
 
@@ -22,4 +22,4 @@ Una futura rama de second brain/Obsidian podrá derivarse de `custom/main`, pero
 
 ## Relación con dungeon-agent
 
-`dungeon-agent` no debe modificar directamente el contenido fuente. La limpieza que revele un error real debe corregirse primero en `custom/main` y reflejarse después en `custom/corpus`. El repositorio `dungeon-agent` se ocupa de lineage, validación contra PDF, datasets, benchmarks y entrenamiento.
+`dungeon-agent` no debe convertirse en el lugar donde viven correcciones de contenido. Si el QA revela un error real, se corrige primero en `custom/main`, se revisa el concepto gemelo ES/EN y luego se regenera `custom/corpus`. `dungeon-agent` se ocupa de lineage, validación contra PDF, datasets, benchmarks y entrenamiento. Durante la transición puede consumir `custom/main`; cuando `custom/corpus` sea reproducible, esa rama será la fuente de ingesta preferida.
