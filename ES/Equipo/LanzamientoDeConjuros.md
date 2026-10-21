@@ -1,6 +1,7 @@
 ---
 aliases: ["Lanzamiento de conjuros"]
-tags: [srd, espanol, tag_equipo, sin-equivalente]
+tags: [srd, espanol, tag_equipo]
+related_en: "[[Equipment/Spellcasting|Spellcasting (EN)]]"
 ---
 
 # Lanzamiento de conjuros
