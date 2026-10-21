@@ -18,7 +18,7 @@ related_en: "[[Spells/Conjure Celestial|Conjure Celestial (EN)]]"
 
 Conjuras un espíritu de los Planos Superiores, que se manifiesta como un pilar de luz de 3 m de radio y 12 m de alto centrado en un punto dentro del alcance. Por cada criatura que puedas ver en el cilindro, elige qué tipo de luz brilla sobre ella:
 
-Luz abrasadora. vación de Destreza; sufrirá 6d12 de daño radiante si la falla o la mitad del daño si la supera.
+Luz abrasadora. El objetivo hace una tirada de salvación de Destreza; sufrirá 6d12 de daño radiante si la falla o la mitad del daño si la supera.
 
 Luz sanadora. El objetivo recupera una cantidad de puntos de golpe igual a 4d12 más tu modificador por aptitud mágica.
 
