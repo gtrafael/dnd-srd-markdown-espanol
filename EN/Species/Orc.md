@@ -1,7 +1,7 @@
 ---
 aliases: ["Orc"]
 tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/EspeciesDePersonaje]]"
+related_es: "[[OrigenesDePersonaje/Orco|Orco (Español)]]"
 ---
 
 # Orc
