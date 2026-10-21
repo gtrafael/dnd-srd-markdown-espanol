@@ -122,7 +122,7 @@ Has alcanzado tal maestría sobre ciertos conjuros que puedes lanzarlos a volunt
 
 Tras finalizar un descanso largo, puedes estudiar tu libro de conjuros y sustituir uno de los conjuros por otro del libro del mismo nivel que cumpla los requisitos.
 
-#### Ampl iar y sustituir un l ibro de conjuros
+#### Ampliar y sustituir un libro de conjuros
 
 Los conjuros que añades a tu libro conforme subes de nivel reflejan tu continua investigación mágica, aunque puede que en tus aventuras encuentres otros conjuros que añadir al libro. Por ejemplo, quizá descubras un conjuro de mago en un pergamino de conjuro y quieras copiarlo.
 
