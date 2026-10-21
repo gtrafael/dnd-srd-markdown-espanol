@@ -124,7 +124,7 @@ La clase de armadura de una criatura representa su capacidad de evitar que la hi
 Calcular la CA. Todas las criaturas parten del mismo cálculo de la CA base:
 
 $$
-\begin{array}{c} \text { CA   base } = 1 0 + \text { el   modificador   por   Destreza } \\ \text { de   la   criatura } \end{array}
+CA base = 10 + el modificador por Destreza de la criatura
 $$
 
 La CA de una criatura puede modificarse a continuación mediante armaduras, objetos mágicos, conjuros, etc.
