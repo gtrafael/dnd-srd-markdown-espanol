@@ -14,7 +14,7 @@ related_en: "[[Monsters/Wererat|Wererat (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    16 |  +3 |   +3 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Wererat|Wererat (EN)]]"
 ## Acciones adicionales
 
 **Cambio de forma.** El hombre rata adopta la forma de un híbrido de rata-humanoide Mediano o de una rata Pequeña, o recupera su verdadera forma humanoide. Su perfil, salvo por el tamaño, es el mismo en todas las formas. Cualquier equipo que vista o lleve no se transformará.
-

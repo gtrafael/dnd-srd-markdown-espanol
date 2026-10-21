@@ -24,5 +24,4 @@ Puedes renunciar a lanzar el globo tras completar el conjuro. En ese caso, en tu
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d6 por cada nivel por encima de 6 que tenga el espacio. 
-
+El daño aumenta en 1d6 por cada nivel por encima de 6 que tenga el espacio.

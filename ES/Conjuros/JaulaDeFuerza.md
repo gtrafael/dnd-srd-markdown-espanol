@@ -24,5 +24,4 @@ Cuando lances el conjuro, cualquier criatura que esté completamente dentro del 
 
 Una criatura que esté dentro de la jaula no puede salir de ella por medios que no sean mágicos. Si la criatura intenta usar el teletransporte o el viaje interplanar para huir, primero deberá hacer una tirada de salvación de Carisma. Si la supera, podrá usar esa magia para salir de la jaula. Si falla la tirada, no saldrá y se perderá el espacio de conjuro o el efecto. La jaula también se extiende hasta el Plano Etéreo e impide el viaje etéreo.
 
-Este conjuro no se puede eliminar mediante disipar magia. 
-
+Este conjuro no se puede eliminar mediante disipar magia.

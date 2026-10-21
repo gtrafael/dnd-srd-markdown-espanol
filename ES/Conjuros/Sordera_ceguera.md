@@ -20,5 +20,4 @@ Una criatura que puedas ver dentro del alcance deberá superar una tirada de sal
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 2 que tenga el espacio. 
-
+Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 2 que tenga el espacio.

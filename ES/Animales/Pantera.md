@@ -16,7 +16,7 @@ related_en: "[[Animals/Panther|Panther (EN)]]"
 
 **Velocidad:** 15 m, trepar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    16 |  +3 |   +3 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Panther|Panther (EN)]]"
 ## Acciones adicionales
 
 **Huida veloz.** La pantera realiza las acciones de destrabarse o esconderse.
-

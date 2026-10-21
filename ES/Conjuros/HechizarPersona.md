@@ -20,5 +20,4 @@ Un humanoide que puedas ver dentro del alcance realiza una tirada de salvación 
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio. 
-
+Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio.

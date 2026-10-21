@@ -16,7 +16,7 @@ related_en: "[[Monsters/Dryad|Dryad (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    12 |  +1 |   +1 |
@@ -56,4 +56,3 @@ related_en: "[[Monsters/Dryad|Dryad (EN)]]"
 ## Acciones adicionales
 
 **Paso arbóreo.** Si se encuentra a 1,5 m o menos de un árbol Grande o de mayor tamaño, la dríade se teletransporta a un espacio sin ocupar a 1,5 m o menos de un segundo árbol Grande o de mayor tamaño que esté a 18 m o menos del otro.
-

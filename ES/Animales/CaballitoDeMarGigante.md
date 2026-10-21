@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Seahorse|Giant Seahorse (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    12 |  +1 |   +1 |
@@ -42,4 +42,3 @@ related_en: "[[Animals/Giant Seahorse|Giant Seahorse (EN)]]"
 ## Acciones adicionales
 
 **Carrera burbujeante.** Mientras está bajo el agua, el caballito de mar se mueve hasta la mitad de su velocidad nadando sin provocar ataques de oportunidad.
-

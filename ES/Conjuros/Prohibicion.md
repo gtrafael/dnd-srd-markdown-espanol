@@ -22,5 +22,4 @@ Además, el conjuro daña a los tipos de criaturas que elijas al lanzarlo. Elige
 
 Puedes designar una contraseña cuando lanzas el conjuro. Si una criatura pronuncia la contraseña al entrar en el área, no recibirá daño del conjuro.
 
-La zona del conjuro no se puede superponer con la de otro conjuro prohibición. Si lanzas prohibición todos los días durante 30 días en la misma ubicación, el conjuro durará hasta que sea disipado y los componentes materiales se consumirán en el último lanzamiento. 
-
+La zona del conjuro no se puede superponer con la de otro conjuro prohibición. Si lanzas prohibición todos los días durante 30 días en la misma ubicación, el conjuro durará hasta que sea disipado y los componentes materiales se consumirán en el último lanzamiento.

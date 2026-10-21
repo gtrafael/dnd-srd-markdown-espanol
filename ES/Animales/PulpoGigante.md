@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Octopus|Giant Octopus (EN)]]"
 
 **Velocidad:** 3 m, nadar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    13 |  +1 |   +1 |
@@ -44,4 +44,3 @@ related_en: "[[Animals/Giant Octopus|Giant Octopus (EN)]]"
 ## Reacciones
 
 **Nube de tinta (1/día).** Detonante: el pulpo recibe daño mientras está bajo el agua. Respuesta: el pulpo suelta tinta que llena un cubo de 3 m de lado centrado en él y se mueve hasta su velocidad nadando. El cubo está muy oscuro durante 1 minuto o hasta que una corriente fuerte o un efecto similar disperse la tinta.
-

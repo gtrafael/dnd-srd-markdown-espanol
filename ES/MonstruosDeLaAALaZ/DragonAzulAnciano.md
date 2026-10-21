@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ancient Blue Dragon|Ancient Blue Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    29 |  +9 |   +9 |
 | DES   |    10 |  +0 |   +7 |
@@ -66,4 +66,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Vuelo encubierto.** El dragón utiliza su lanzamiento de conjuros para lanzarse invisibilidad a sí mismo y puede volar hasta la mitad de su velocidad volando. El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

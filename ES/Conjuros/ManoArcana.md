@@ -32,5 +32,4 @@ Cuando lances el conjuro y como acción adicional en tus siguientes turnos, pued
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño del puño cerrado aumenta en 2d8 y el daño de la mano apresadora aumenta en 2d6 por cada nivel por encima de 5 que tenga el espacio. 
-
+El daño del puño cerrado aumenta en 2d8 y el daño de la mano apresadora aumenta en 2d6 por cada nivel por encima de 5 que tenga el espacio.

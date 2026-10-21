@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ochre Jelly|Ochre Jelly (EN)]]"
 
 **Velocidad:** 6 m, trepar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |     6 |  -2 |   -2 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Ochre Jelly|Ochre Jelly (EN)]]"
 ## Reacciones
 
 **Dividirse.** Detonante: mientras sea Grande o Mediana y tenga 10 o más puntos de golpe, la gelatina pasa a estar maltrecha o recibe daño cortante o de relámpago. Respuesta: la gelatina se divide en dos nuevas gelatinas ocres. Cada nueva gelatina tiene un tamaño inferior al de la gelatina original y actúa en su orden de iniciativa. Los puntos de golpe de la gelatina original se dividen a partes iguales entre las nuevas gelatinas (redondeados hacia abajo).
-

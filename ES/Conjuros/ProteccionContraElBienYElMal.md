@@ -16,5 +16,4 @@ related_en: "[[Spells/Protection from Evil and Good|Protection from Evil and Goo
 
 **Duración:** Concentración, hasta 10 minutos
 
-Hasta que el conjuro termine, una criatura voluntaria a la que toques estará protegida contra aberraciones, celestiales, elementales, feéricos, infernales o muertos vivientes. La protección concede varios beneficios. Las criaturas de esos tipos tendrán desventaja en las tiradas de ataque contra el objetivo. El objetivo tampoco puede ser poseído por las criaturas ni obtener los estados de asustado o hechizado a causa de ellas. Si el objetivo ya está asustado, hechizado o poseído por una criatura de estos tipos, dicho objetivo tendrá ventaja en cualquier nueva tirada de salvación contra el efecto correspondiente. 
-
+Hasta que el conjuro termine, una criatura voluntaria a la que toques estará protegida contra aberraciones, celestiales, elementales, feéricos, infernales o muertos vivientes. La protección concede varios beneficios. Las criaturas de esos tipos tendrán desventaja en las tiradas de ataque contra el objetivo. El objetivo tampoco puede ser poseído por las criaturas ni obtener los estados de asustado o hechizado a causa de ellas. Si el objetivo ya está asustado, hechizado o poseído por una criatura de estos tipos, dicho objetivo tendrá ventaja en cualquier nueva tirada de salvación contra el efecto correspondiente.

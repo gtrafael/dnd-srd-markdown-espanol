@@ -16,5 +16,4 @@ related_en: "[[Spells/Divine Favor|Divine Favor (EN)]]"
 
 **Duración:** 1 minuto
 
-Hasta que el conjuro termine, tus ataques con armas infligen 1d4 de daño radiante adicional si aciertan. 
-
+Hasta que el conjuro termine, tus ataques con armas infligen 1d4 de daño radiante adicional si aciertan.

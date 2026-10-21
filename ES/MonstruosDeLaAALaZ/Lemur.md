@@ -16,7 +16,7 @@ related_en: "[[Monsters/Lemure|Lemure (EN)]]"
 
 **Velocidad:** 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |     5 |  -3 |   -3 |

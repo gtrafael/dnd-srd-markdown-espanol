@@ -16,7 +16,7 @@ related_en: "[[Monsters/Young Red Dragon|Young Red Dragon (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    23 |  +6 |   +6 |
 | DES   |    10 |  +0 |   +4 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Young Red Dragon|Young Red Dragon (EN)]]"
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +10, alcance 3 m. Acierto: 13 (2d6 + 6) de daño cortante más 3 (1d6) de daño de fuego.
 
 **Aliento de fuego (recarga 5–6).** *Tirada de salvación de Destreza:* CD 17, todas las criaturas en un cono de 9 m. Fallo: 56 (16d6) de daño de fuego. Éxito: la mitad del daño.
-

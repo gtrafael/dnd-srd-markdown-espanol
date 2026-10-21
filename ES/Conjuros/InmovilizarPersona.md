@@ -20,5 +20,4 @@ Elige a un humanoide que puedas ver dentro del alcance. El objetivo deberá supe
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes hacer objetivo a un humanoide adicional por cada nivel por encima de 2 que tenga el espacio. 
-
+Puedes hacer objetivo a un humanoide adicional por cada nivel por encima de 2 que tenga el espacio.

@@ -9,4 +9,3 @@ related_en: "[[Treasure/Shield, 1, 2, or 3|Shield, 1, 2, or 3 (EN)]]"
 *Armadura (escudo), infrecuente (+1), rara (+2) o muy rara (+3)*
 
 Mientras lleves embrazado este escudo, tienes un bonificador a la clase de armadura determinado por su rareza, además del bonificador a la CA normal del escudo.
-

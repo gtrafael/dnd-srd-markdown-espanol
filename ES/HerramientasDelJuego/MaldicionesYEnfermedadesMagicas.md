@@ -40,7 +40,7 @@ Una criatura afectada por una maldición debería saber por qué se le castiga y
 
 ## Maldiciones ambientales
 
-Algunos lugares están tan imbuidos de maldad que cualquiera que permanezca en ellos sufre una maldición. La posesión demoníaca es un ejemplo de maldicion ambiental.
+Algunos lugares están tan imbuidos de maldad que cualquiera que permanezca en ellos sufre una maldición. La posesión demoníaca es un ejemplo de maldición ambiental.
 
 Posesión demoníaca. La posesión demoníaca surge del caos y el mal del Abismo y suele afligir a las criaturas que interactúan con objetos demoníacos o permanecen en lugares profanados, donde los espíritus demoníacos esperan a sus víctimas.
 
@@ -68,9 +68,7 @@ En ocasiones, las pociones y los elixires de baja calidad están contaminados co
 
 Fiebre. La criatura suma 1 nivel de cansancio, que durará hasta que la enfermedad termine para la criatura.
 
-Risa incontrolable. Mientras la criatura tenga el estado de cansancio, hace una tirada de salvación de Constitución con CD 13 cada vez que sufra
-
-un daño distinto al psíquico. Si la falla, sufrirá 5 (1d10) de daño psíquico, tendrá el estado de incapacitada y se reirá de forma incontrolable. Al final de cada uno de sus turnos, la criatura repetirá la tirada de salvación y, si tiene éxito, se librará del efecto. Tras 1 minuto, tiene éxito automáticamente.
+Risa incontrolable. Mientras la criatura tenga el estado de cansancio, hace una tirada de salvación de Constitución con CD 13 cada vez que sufra un daño distinto al psíquico. Si la falla, sufrirá 5 (1d10) de daño psíquico, tendrá el estado de incapacitada y se reirá de forma incontrolable. Al final de cada uno de sus turnos, la criatura repetirá la tirada de salvación y, si tiene éxito, se librará del efecto. Tras 1 minuto, tiene éxito automáticamente.
 
 Luchar contra la enfermedad. Tras cada descanso largo, una criatura infectada deberá hacer una tirada de salvación de Constitución con CD 13. Si supera tres de estas tiradas, pondrá fin a la enfermedad sobre ella y será inmune a la fiebre carcajeante durante 1 año.
 
@@ -80,7 +78,7 @@ Propagar la enfermedad. Cualquier humanoide que no sea un gnomo y empiece su tur
 
 Enfermedad mágica
 
-Las pociones contaminadas y los residuos alquímicos pueden dar lugar a la plaga de las alcantarillas, que se incuba en cloacas y montones de basura y que a veces transmiten las criaturas que habitan en esas zonas, como otyughs y ratas. Cualquier humanoide que sufra heridas por una criatura contagiada o que entre en contacto con suciedad o despojos contaminados deberá superar una tirada de salvación de Constitución con CD 11 o se infectara con la plaga de las alcantarillas.Una criatura sufre los siguientes efectos 1d4 días después de infectarse:
+Las pociones contaminadas y los residuos alquímicos pueden dar lugar a la plaga de las alcantarillas, que se incuba en cloacas y montones de basura y que a veces transmiten las criaturas que habitan en esas zonas, como otyughs y ratas. Cualquier humanoide que sufra heridas por una criatura contagiada o que entre en contacto con suciedad o despojos contaminados deberá superar una tirada de salvación de Constitución con CD 11 o se infectará con la plaga de las alcantarillas. Una criatura sufre los siguientes efectos 1d4 días después de infectarse:
 
 Fatiga. La criatura suma 1 nivel de cansancio.
 
@@ -99,4 +97,3 @@ Cualquier bestia o humanoide que beba agua contaminada por la vista podrida debe
 Luchar contra la enfermedad. La magia, como los conjuros curar o restablecimiento menor, pone fin a la enfermedad de inmediato. Un personaje que sea competente con útiles de herborista puede usarlos para crear una dosis de ungüento no mágico, lo que le llevará 1 hora. Al aplicarlo sobre los ojos de la criatura que sufre la vista podrida, el ungüento suprime la enfermedad de esa criatura durante 24 horas. Si se suprime de esta forma durante 72 horas en total (lo que requiere tres dosis y aplicaciones del ungüento), la enfermedad terminará para la criatura.
 
 Propagar la enfermedad. Cualquier humanoide cuya piel entre en contacto con la de una criatura infectada por la vista podrida deberá superar una tirada de salvación de Constitución con CD 15 o también se infectará. Si la supera, el humanoide no podrá contagiarse de esa criatura infectada en concreto durante las próximas 24 horas.
-

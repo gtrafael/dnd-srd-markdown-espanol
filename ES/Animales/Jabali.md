@@ -16,7 +16,7 @@ related_en: "[[Animals/Boar|Boar (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    11 |  +0 |   +0 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Boar|Boar (EN)]]"
 ## Acciones
 
 **Colmillos.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 4 (1d6 + 1) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña y el jabalí recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 3 (1d6) de daño perforante adicional y tendrá el estado de derribada.
-

@@ -20,5 +20,4 @@ Tu toque causa un contagio mágico. El objetivo debe superar una tirada de salva
 
 El objetivo deberá repetir la tirada de salvación al final de cada uno de sus turnos hasta que la supere o la falle tres veces. Si supera tres de estas tiradas, el conjuro terminará para el objetivo, pero si falla tres tiradas, el conjuro le durará 7 días.
 
-Cuando el objetivo envenenado reciba un efecto que fuera a poner fin al estado de envenenado, deberá superar una tirada de salvación de Constitución o el estado de envenenado no terminará. 
-
+Cuando el objetivo envenenado reciba un efecto que fuera a poner fin al estado de envenenado, deberá superar una tirada de salvación de Constitución o el estado de envenenado no terminará.

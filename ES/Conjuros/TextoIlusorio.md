@@ -20,5 +20,4 @@ Escribes en pergamino, papel u otro material adecuado y lo impregnas con una ilu
 
 Si el conjuro se disipa, desaparecerán tanto el escrito original como la ilusión.
 
-Una criatura con visión verdadera puede leer el mensaje oculto. 
-
+Una criatura con visión verdadera puede leer el mensaje oculto.

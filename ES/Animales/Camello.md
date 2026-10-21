@@ -16,7 +16,7 @@ related_en: "[[Animals/Camel|Camel (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |     8 |  -1 |   -1 |
@@ -34,4 +34,3 @@ related_en: "[[Animals/Camel|Camel (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 4 (1d4 + 2) de daño contundente.
-

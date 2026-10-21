@@ -16,7 +16,7 @@ related_en: "[[Monsters/Guardian Naga|Guardian Naga (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, trepar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    18 |  +4 |   +8 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Guardian Naga|Guardian Naga (EN)]]"
 **1/día cada uno:** clarividencia, curar heridas (versión de nivel 6), geas, golpe flamígero (versión de nivel 6), visión veraz
 
 **Saliva venenosa.** *Tirada de salvación de Constitución:* CD 16, una criatura que la naga pueda ver a 18 m o menos. Fallo: 31 (7d8) de daño de veneno y el objetivo tendrá el estado de cegado hasta el principio del siguiente turno de la naga. Éxito: solo la mitad del daño.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Shadow|Shadow (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     6 |  -2 |   -2 |
 | DES   |    14 |  +2 |   +2 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Shadow|Shadow (EN)]]"
 ## Acciones adicionales
 
 **Esconderse en las sombras.** Con luz tenue o en la oscuridad, la sombra realiza la acción de esconderse.
-

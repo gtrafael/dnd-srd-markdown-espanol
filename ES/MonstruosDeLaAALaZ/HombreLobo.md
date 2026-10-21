@@ -16,7 +16,7 @@ related_en: "[[Monsters/Werewolf|Werewolf (EN)]]"
 
 **Velocidad:** 9 m, 12 m (solo en forma de lobo)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    14 |  +2 |   +2 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Werewolf|Werewolf (EN)]]"
 ## Acciones adicionales
 
 **Cambio de forma.** El hombre lobo adopta la forma de un híbrido de lobo-humanoide Grande o de un lobo Mediano, o recupera su verdadera forma humanoide. Su perfil, salvo por el tamaño, es el mismo en todas las formas. Cualquier equipo que vista o lleve no se transformará.
-

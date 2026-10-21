@@ -16,7 +16,7 @@ related_en: "[[Animals/Dire Wolf|Dire Wolf (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    15 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Dire Wolf|Dire Wolf (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 8 (1d10 + 3) de daño perforante. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
-

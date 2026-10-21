@@ -16,7 +16,7 @@ related_en: "[[Monsters/Pseudodragon|Pseudodragon (EN)]]"
 
 **Velocidad:** 4,5 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     6 |  -2 |   -2 |
 | DES   |    15 |  +2 |   +2 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Pseudodragon|Pseudodragon (EN)]]"
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 4 (1d4 + 2) de daño perforante.
 
 **Aguijón.** *Tirada de salvación de Constitución:* CD 12, una criatura que el pseudodragón pueda ver a 1,5 m o menos. Fallo: 5 (2d4) de daño de veneno y el objetivo tendrá el estado de envenenado durante 1 hora. Fallo por 5 o más: mientras esté envenenado, el objetivo también tendrá el estado de inconsciente, que terminará antes si recibe daño o una criatura a 1,5 m o menos de él utiliza una acción para despertarlo.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Animated Flying Sword|Animated Flying Sword (EN)]]"
 
 **Velocidad:** 1,5 m, volar 15 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    12 |  +1 |   +1 |
 | DES   |    15 |  +2 |   +4 |
@@ -36,4 +36,3 @@ related_en: "[[Monsters/Animated Flying Sword|Animated Flying Sword (EN)]]"
 ## Acciones
 
 **Corte.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 6 (1d8 + 2) de daño cortante.
-

@@ -24,5 +24,4 @@ Cuando mueves la esfera, puedes llevarla por encima de barreras de hasta 1,5 m d
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio. 
-
+El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio.

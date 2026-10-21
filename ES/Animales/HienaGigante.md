@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Hyena|Giant Hyena (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    14 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Giant Hyena|Giant Hyena (EN)]]"
 ## Acciones adicionales
 
 **Rabia (1/día).** Inmediatamente después de hacer daño a una criatura que ya estuviera maltrecha, la hiena se podrá mover hasta la mitad de su velocidad y realizará un ataque de mordisco.
-

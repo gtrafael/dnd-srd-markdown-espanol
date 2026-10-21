@@ -16,7 +16,7 @@ related_en: "[[Monsters/Archmage|Archmage (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    14 |  +2 |   +2 |
@@ -62,4 +62,3 @@ related_en: "[[Monsters/Archmage|Archmage (EN)]]"
 ## Reacciones
 
 **Magia protectora (3/día).** El archimago lanza contrahechizo o escudo en respuesta al desencadenante de esos conjuros, usando la misma aptitud mágica que para su lanzamiento de conjuros.
-

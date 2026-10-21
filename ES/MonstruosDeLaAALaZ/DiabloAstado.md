@@ -16,7 +16,7 @@ related_en: "[[Monsters/Horned Devil|Horned Devil (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    22 |  +6 |  +10 |
 | DES   |    17 |  +3 |   +7 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Horned Devil|Horned Devil (EN)]]"
 **Arrojar llama.** Tirada de ataque a distancia: +8, alcance 45 m. Acierto: 26 (5d8 + 4) de daño de fuego. Si el objetivo es un objeto inflamable que no lleve o vista nadie, empieza a arder.
 
 **Cola infernal.** *Tirada de salvación de Destreza:* CD 17, una criatura que el diablo pueda ver a 3 m o menos. Fallo: 10 (1d8 + 6) de daño necrótico y el objetivo recibirá una herida infernal si no tiene una ya. Mientras esté herido, perderá 10 (3d6) puntos de golpe al principio de cada uno de sus turnos. La herida se cerrará tras 1 minuto, después de que el objetivo recupere puntos de golpe por un conjuro o después de que el objetivo o una criatura a 1,5 m o menos de él lleve a cabo una acción para cerrar la herida, lo que logrará si supera una prueba de Sabiduría (Medicina) con CD 17.
-

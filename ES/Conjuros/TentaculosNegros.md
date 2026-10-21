@@ -20,5 +20,4 @@ Unos tentáculos color ébano que se retuercen llenan un cuadrado en el suelo de
 
 Todas las criaturas situadas en esa zona hacen una tirada de salvación de Fuerza. Si la fallan, sufrirán 3d6 de daño contundente y tendrán el estado de apresadas hasta que el conjuro termine. Una criatura también deberá hacer la tirada si entra en la zona o termina su turno en ella. Cada criatura solo hace esta tirada una vez por turno.
 
-Una criatura apresada puede emplear una acción para hacer una prueba de Fuerza (Atletismo) contra tu CD de salvación de conjuros y, si la supera, pondrá fin a su estado. 
-
+Una criatura apresada puede emplear una acción para hacer una prueba de Fuerza (Atletismo) contra tu CD de salvación de conjuros y, si la supera, pondrá fin a su estado.

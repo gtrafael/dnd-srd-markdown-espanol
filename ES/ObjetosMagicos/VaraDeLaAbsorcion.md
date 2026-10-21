@@ -14,4 +14,3 @@ Cuando te sintonizas con la vara, sabes cuántos niveles de energía ha absorbid
 Si eres un lanzador de conjuros y empuñas esta vara, podrás convertir la energía almacenada en ella en espacios de conjuro para lanzar conjuros que hayas preparado o conozcas. Solamente puedes crear espacios de conjuro de un nivel igual o inferior al mayor de tus espacios de conjuro, como máximo de nivel 5. Puedes utilizar los niveles almacenados en lugar de tus espacios de conjuro, pero, por lo demás, lanzarás el conjuro de forma normal. Por ejemplo, puedes utilizar 3 niveles almacenados en la vara como un espacio de conjuro de nivel 3.
 
 Una vara recién encontrada suele tener 1d10 niveles de energía de conjuros almacenados. Una vara que ya no pueda absorber la energía de los conjuros y a la que no le quede nada de energía almacenada se volverá no mágica.
-

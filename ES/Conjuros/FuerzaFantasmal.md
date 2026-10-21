@@ -22,5 +22,4 @@ El objetivo puede usar una acción de estudiar para examinar la imagen con una p
 
 Mientras esté afectado por este conjuro, el objetivo tratará al fantasma como si fuera real y racionalizará cualquier resultado ilógico derivado de interactuar con él. Por ejemplo, si el objetivo intenta caminar por un puente ilusorio y sobrevive a la caída, creerá que el puente existe y que otra cosa ha provocado su caída.
 
-Un objetivo afectado incluso puede recibir daño de la ilusión si el fantasma se muestra como una amenaza o una criatura peligrosa. En cada uno de tus turnos, la forma fantasmal puede causar 2d8 de daño psíquico al objetivo si está en el área que ocupa el fantasma o a 1,5 m de él. El objetivo percibe el daño como de un tipo apropiado para la ilusión. 
-
+Un objetivo afectado incluso puede recibir daño de la ilusión si el fantasma se muestra como una amenaza o una criatura peligrosa. En cada uno de tus turnos, la forma fantasmal puede causar 2d8 de daño psíquico al objetivo si está en el área que ocupa el fantasma o a 1,5 m de él. El objetivo percibe el daño como de un tipo apropiado para la ilusión.

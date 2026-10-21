@@ -16,7 +16,7 @@ related_en: "[[Monsters/Bugbear Warrior|Bugbear Warrior (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    14 |  +2 |   +2 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Bugbear Warrior|Bugbear Warrior (EN)]]"
 **Agarre.** Tirada de ataque cuerpo a cuerpo: +4, alcance 3 m. Acierto: 9 (2d6 + 2) de daño contundente. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 12 para escapar).
 
 **Martillo ligero.** Tirada de ataque cuerpo a cuerpo o a distancia: +4 (con ventaja si el osgo tiene agarrado al objetivo), alcance 3 m o 6/18 m a distancia. Acierto: 9 (3d4 + 2) de daño contundente.
-

@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Crab|Giant Crab (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    13 |  +1 |   +1 |
@@ -42,4 +42,3 @@ related_en: "[[Animals/Giant Crab|Giant Crab (EN)]]"
 **Pinza.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 4 (1d6 + 1) de daño contundente.
 
 Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 11 para escapar) por una de las dos pinzas.
-

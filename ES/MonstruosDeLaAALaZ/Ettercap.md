@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ettercap|Ettercap (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    15 |  +2 |   +2 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Ettercap|Ettercap (EN)]]"
 ## Acciones adicionales
 
 **Atraer.** El ettercap atrae hasta 7,5 m en línea recta hacia él a una criatura a 9 m o menos de él que esté apresada por su hebra de telaraña.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Hezrou|Hezrou (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +7 |
 | DES   |    17 |  +3 |   +3 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Hezrou|Hezrou (EN)]]"
 ## Acciones adicionales
 
 **Salto.** El hezrou gasta 3 m de movimiento para saltar hasta 9 m.
-

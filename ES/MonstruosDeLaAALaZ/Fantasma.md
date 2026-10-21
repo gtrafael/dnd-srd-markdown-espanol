@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ghost|Ghost (EN)]]"
 
 **Velocidad:** 1,5 m, volar 12 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     7 |  -2 |   -2 |
 | DES   |    13 |  +1 |   +1 |
@@ -56,4 +56,3 @@ related_en: "[[Monsters/Ghost|Ghost (EN)]]"
 **Éxito:** el objetivo será inmune a la posesión de este fantasma durante 24 horas.
 
 **Rostro horripilante.** *Tirada de salvación de Sabiduría:* CD 13, todas las criaturas en un cono de 18 m que el fantasma pueda ver y no sean muertos vivientes. Fallo: 10 (2d6 + 3) de daño psíquico y el objetivo tendrá el estado de asustado hasta el principio del siguiente turno del fantasma. Éxito: el objetivo será inmune al rostro horripilante de este fantasma durante 24 horas.
-

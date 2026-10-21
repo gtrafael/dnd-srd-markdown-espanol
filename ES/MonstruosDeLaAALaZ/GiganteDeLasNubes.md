@@ -14,7 +14,7 @@ related_en: "[[Monsters/Cloud Giant|Cloud Giant (EN)]]"
 
 **Velocidad:** 12 m, volar 6 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    27 |  +8 |   +8 |
 | DES   |    10 |  +0 |   +0 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Cloud Giant|Cloud Giant (EN)]]"
 ## Acciones adicionales
 
 **Paso brumoso.** El gigante lanza el conjuro paso brumoso usando la misma aptitud mágica que para su lanzamiento de conjuros.
-

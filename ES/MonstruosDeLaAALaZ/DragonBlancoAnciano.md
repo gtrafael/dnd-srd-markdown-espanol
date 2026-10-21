@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ancient White Dragon|Ancient White Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 12 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    26 |  +8 |   +8 |
 | DES   |    10 |  +0 |   +6 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Ancient White Dragon|Ancient White Dragon (EN)]]"
 ## Atributos
 
 **Caminar por el hielo.** El dragón puede moverse y trepar por superficies heladas sin tener que hacer pruebas de característica. Además, desplazarse por terreno difícil compuesto de nieve o hielo no le cuesta movimiento adicional.
-

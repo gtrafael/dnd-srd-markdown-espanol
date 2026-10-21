@@ -22,5 +22,4 @@ Los objetos inflamables dentro del área que no lleve o vista nadie empezarán a
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d6 por cada nivel por encima de 3 que tenga el espacio. 
-
+El daño aumenta en 1d6 por cada nivel por encima de 3 que tenga el espacio.

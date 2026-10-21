@@ -16,7 +16,7 @@ related_en: "[[Animals/Lion|Lion (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    15 |  +2 |   +2 |
@@ -46,4 +46,3 @@ related_en: "[[Animals/Lion|Lion (EN)]]"
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 7 (1d8 + 3) de daño cortante.
 
 **Rugido.** *Tirada de salvación de Sabiduría:* CD 11, una criatura a 4,5 m o menos. Fallo: el objetivo tendrá el estado de asustado hasta el principio del siguiente turno del león.
-

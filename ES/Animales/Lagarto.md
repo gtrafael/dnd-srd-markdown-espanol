@@ -16,7 +16,7 @@ related_en: "[[Animals/Lizard|Lizard (EN)]]"
 
 **Velocidad:** 6 m, trepar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     2 |  -4 |   -4 |
 | DES   |    11 |  +0 |   +0 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Lizard|Lizard (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 1 de daño perforante.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Axe Beak|Axe Beak (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    12 |  +1 |   +1 |
@@ -34,4 +34,3 @@ related_en: "[[Monsters/Axe Beak|Axe Beak (EN)]]"
 ## Acciones
 
 **Pico.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 6 (1d8 + 2) de daño cortante.
-

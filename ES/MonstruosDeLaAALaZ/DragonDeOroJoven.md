@@ -16,7 +16,7 @@ related_en: "[[Monsters/Young Gold Dragon|Young Gold Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    23 |  +6 |   +6 |
 | DES   |    14 |  +2 |   +6 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Young Gold Dragon|Young Gold Dragon (EN)]]"
 **Aliento de fuego (recarga 5–6).** *Tirada de salvación de Destreza:* CD 17, todas las criaturas en un cono de 9 m. Fallo: 55 (10d10) de daño de fuego. Éxito: la mitad del daño.
 
 **Aliento debilitador.** *Tirada de salvación de Fuerza:* CD 17, todas las criaturas que no estén afectadas ya por este aliento en un cono de 9 m. Fallo: el objetivo tendrá desventaja en las pruebas con d20 basadas en la Fuerza y restará 3 (1d6) a sus tiradas de daño. Repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto. Tras 1 minuto, tendrá éxito automáticamente.
-

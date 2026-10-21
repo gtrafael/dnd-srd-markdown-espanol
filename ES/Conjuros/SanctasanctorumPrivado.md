@@ -36,5 +36,4 @@ Si este conjuro se lanza a diario en el mismo lugar durante 365 días, durará h
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes aumentar el tamaño del cubo en 30 m por cada nivel por encima de 4 que tenga el espacio. 
-
+Puedes aumentar el tamaño del cubo en 30 m por cada nivel por encima de 4 que tenga el espacio.

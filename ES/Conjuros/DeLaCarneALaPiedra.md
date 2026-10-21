@@ -20,5 +20,4 @@ related_en: "[[Spells/Flesh to Stone|Flesh to Stone (EN)]]"
 
 **Un objetivo apresado realiza otra tirada de salvación de Constitución al final de cada uno de sus turnos.** Si la supera tres veces, el conjuro termina. Si la falla tres veces, se convierte en piedra y sufre el estado de petrificada hasta que termine el conjuro. Los éxitos y los fallos no tienen por qué ser consecutivos: lleva la cuenta de ambos hasta que el objetivo tenga tres de un mismo tipo.
 
-Si mantienes la concentración en este conjuro durante toda su duración posible, el objetivo tendrá el estado de petrificado hasta que un conjuro restablecimiento mayor u otro efecto mágico similar le ponga fin. 
-
+Si mantienes la concentración en este conjuro durante toda su duración posible, el objetivo tendrá el estado de petrificado hasta que un conjuro restablecimiento mayor u otro efecto mágico similar le ponga fin.

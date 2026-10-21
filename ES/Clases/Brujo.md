@@ -464,7 +464,7 @@ Conjuros de brujo de nivel 9
 
 Haz un trato con los Planos Inferiores.
 
-Tu pacto recurre a los Planos Inferiores, los reinos de la perdición. Puedes negociar con un señor demoniaco,con un archidiablo o con otro infernal especialmente notable. Estos patrones desean la corrupción y la destrucción de todas las cosas (incluyéndote a ti en última instancia) y tu camino se verá definido por la medida en que luchas contra esos deseos.
+Tu pacto recurre a los Planos Inferiores, los reinos de la perdición. Puedes negociar con un señor demoníaco, con un archidiablo o con otro infernal especialmente notable. Estos patrones desean la corrupción y la destrucción de todas las cosas (incluyéndote a ti en última instancia) y tu camino se verá definido por la medida en que luchas contra esos deseos.
 
 ### Nivel 3: Bendición del oscuro
 
@@ -497,5 +497,4 @@ Tras finalizar un descanso corto o largo, elige un tipo de daño que no sea el d
 
 Una vez por turno, cuando aciertas a una criatura con una tirada de ataque, puedes intentar teletransportar instantáneamente al objetivo a los Planos Inferiores. El objetivo deberá superar una tirada de salvación de Carisma contra tu CD de salvación de conjuros o desaparecerá y se precipitará a través de un paisaje de pesadilla. Si el objetivo no es un infernal, sufrirá 8d10 de daño psíquico y tendrá el estado de incapacitado hasta el final de tu siguiente turno, momento en el que volverá al espacio que ocupaba anteriormente o al espacio sin ocupar más cercano.
 
-Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un espacio de conjuro de Magia del pacto (no requiere acción) para restablecer su uso. 
-
+Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un espacio de conjuro de Magia del pacto (no requiere acción) para restablecer su uso.

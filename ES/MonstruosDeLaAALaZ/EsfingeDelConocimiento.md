@@ -16,7 +16,7 @@ related_en: "[[Monsters/Sphinx of Lore|Sphinx of Lore (EN)]]"
 
 **Velocidad:** 12 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    15 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Monsters/Sphinx of Lore|Sphinx of Lore (EN)]]"
 ## Atributos
 
 **Inescrutable.** La magia no puede observar desde lejos a la esfinge ni detectar sus pensamientos sin su permiso. Las pruebas de Sabiduría (Perspicacia) realizadas para determinar sus intenciones tienen desventaja.
-

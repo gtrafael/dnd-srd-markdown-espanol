@@ -16,7 +16,7 @@ related_en: "[[Monsters/Young Bronze Dragon|Young Bronze Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    21 |  +5 |   +5 |
 | DES   |    10 |  +0 |   +3 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Young Bronze Dragon|Young Bronze Dragon (EN)]]"
 **Aliento de relámpago (recarga 5–6).** *Tirada de salvación de Destreza:* CD 15, todas las criaturas en una línea de 18 m de largo y 1,5 m de ancho. Fallo: 49 (9d10) de daño de relámpago. Éxito: la mitad del daño.
 
 **Aliento repulsor.** *Tirada de salvación de Fuerza:* CD 15, todas las criaturas en un cono de 9 m. Fallo: el objetivo es empujado hasta 12 m respecto al dragón en línea recta y tiene el estado de derribado.
-

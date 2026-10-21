@@ -38,5 +38,4 @@ Una vez activado, el glifo brilla y llena una esfera de 18 m de radio con luz te
 
 **Sueño.** Cada objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de inconsciente durante 10 minutos. Una criatura se despierta si recibe daño o si alguien utiliza una acción para sacudirla.
 
-**Terror.** Cada objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de asustado durante 1 minuto. Mientras esté asustado, el objetivo deberá alejarse al menos 9 m del glifo en cada uno de sus turnos si puede. 
-
+**Terror.** Cada objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de asustado durante 1 minuto. Mientras esté asustado, el objetivo deberá alejarse al menos 9 m del glifo en cada uno de sus turnos si puede.

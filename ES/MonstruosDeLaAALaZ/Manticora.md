@@ -16,7 +16,7 @@ related_en: "[[Monsters/Manticore|Manticore (EN)]]"
 
 **Velocidad:** 9 m, volar 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    16 |  +3 |   +3 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Manticore|Manticore (EN)]]"
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 7 (1d8 + 3) de daño cortante.
 
 **Púas de cola.** Tirada de ataque a distancia: +5, alcance 30/60 m. Acierto: 7 (1d8 + 3) de daño perforante.
-

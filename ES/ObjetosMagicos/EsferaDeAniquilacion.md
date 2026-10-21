@@ -25,4 +25,3 @@ Interacciones de la esfera. Si la esfera entra en contacto con un portal interpl
 51–85 La esfera atraviesa el portal o entra en el espacio extradimensional.
 
 86–00 Una grieta en el espacio envía la esfera y a todas las criaturas y objetos que se encuentren a 54 m o menos de ella a un plano de existencia aleatorio.
-

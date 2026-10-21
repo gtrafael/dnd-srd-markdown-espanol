@@ -137,9 +137,7 @@ Perfil. Tu perfil se sustituye por el perfil de la bestia, pero conservas tu tip
 
 Sin lanzamiento de conjuros. No puedes lanzar conjuros, pero cambiar de forma no te hace perder la concentración ni interfiere de ningún otro modo con un conjuro que ya hayas lanzado.
 
-Objetos. Tu capacidad de manejar objetos depende de las extremidades de la bestia cuya forma hayas adoptado. Además, eliges si tu equipo cae en tu
-
-espacio, se funde con la nueva forma o lo sigues llevando puesto. El equipo que lleves puesto funcionará con normalidad, pero tu GM determinará si es factible que la nueva forma pueda llevar un objeto de equipo concreto, en función del tamaño y la forma de la criatura. Tu equipo no cambia de forma o tamaño para adaptarse a la nueva forma y cualquier objeto que esta no pueda llevar puesto deberá caer al suelo o fundirse con la nueva forma. El equipo que se funde con la forma no tendrá efecto mientras conserves esa forma.
+Objetos. Tu capacidad de manejar objetos depende de las extremidades de la bestia cuya forma hayas adoptado. Además, eliges si tu equipo cae en tu espacio, se funde con la nueva forma o lo sigues llevando puesto. El equipo que lleves puesto funcionará con normalidad, pero tu GM determinará si es factible que la nueva forma pueda llevar un objeto de equipo concreto, en función del tamaño y la forma de la criatura. Tu equipo no cambia de forma o tamaño para adaptarse a la nueva forma y cualquier objeto que esta no pueda llevar puesto deberá caer al suelo o fundirse con la nueva forma. El equipo que se funde con la forma no tendrá efecto mientras conserves esa forma.
 
 ### Nivel 3: Subclase de druida
 
@@ -378,7 +376,7 @@ El círculo de la tierra se compone de místicos y sabios que custodian ritos y 
 
 ### Nivel 3: Ayuda de la tierra
 
-Como acción de magia, puedes gastar un uso de tu rasgo Forma salvaje y elegir un punto a 18 m o menos de ti. Unas flores que otorgan vitalidad y espinas que la absorben aparecen por un instante en una esfera de 3 m de radio centrada en ese punto. Todas las criaturas de tu elección situadas en la esfera deberan haceruna tirada de salvación de Constitución contra tu CD de salvación de conjuros; sufrirán 2d6 de daño necrótico si la fallan o la mitad del daño si la superan. Además, una criatura de tu elección situada en esa zona recuperará 2d6 puntos de golpe.
+Como acción de magia, puedes gastar un uso de tu rasgo Forma salvaje y elegir un punto a 18 m o menos de ti. Unas flores que otorgan vitalidad y espinas que la absorben aparecen por un instante en una esfera de 3 m de radio centrada en ese punto. Todas las criaturas de tu elección situadas en la esfera deberán hacer una tirada de salvación de Constitución contra tu CD de salvación de conjuros; sufrirán 2d6 de daño necrótico si la fallan o la mitad del daño si la superan. Además, una criatura de tu elección situada en esa zona recuperará 2d6 puntos de golpe.
 
 El daño y la curación aumentan en 1d6 cuando alcances los niveles 10 (3d6) y 14 (4d6) de druida.
 
@@ -443,6 +441,4 @@ Protección de la naturaleza
 
 Como acción de magia, puedes gastar un uso de tu rasgo Forma salvaje y hacer que aparezcan árboles y enredaderas espectrales en un cubo de 4,5 m de lado sobre el suelo a 36 m o menos de ti. Permanecerán ahí 1 minuto o hasta que tengas el estado de incapacitado o mueras. Tus aliados y tú tendréis cobertura media mientras estéis en esa zona y tus aliados obtendrán la resistencia actual de tu Protección de la naturaleza mientras estén ahi.
 
-Como acción adicional, puedes mover el cubo hasta 18 m a una parte del suelo que esté a 36 m o menos de ti. 
-
-
+Como acción adicional, puedes mover el cubo hasta 18 m a una parte del suelo que esté a 36 m o menos de ti.

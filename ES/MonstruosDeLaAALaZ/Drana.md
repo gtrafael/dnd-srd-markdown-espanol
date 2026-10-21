@@ -16,7 +16,7 @@ related_en: "[[Monsters/Drider|Drider (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    19 |  +4 |   +4 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Drider|Drider (EN)]]"
 ## Acciones adicionales
 
 **Magia de la Reina Araña (recarga 5–6).** La draña lanza fuego feérico, oscuridad o telaraña, que no requieren componentes materiales y utilizan la Sabiduría como aptitud mágica (CD de salvación de conjuros 14).
-

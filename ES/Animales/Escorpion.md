@@ -16,7 +16,7 @@ related_en: "[[Animals/Scorpion|Scorpion (EN)]]"
 
 **Velocidad:** 3 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     2 |  -4 |   -4 |
 | DES   |    11 |  +0 |   +0 |
@@ -34,4 +34,3 @@ related_en: "[[Animals/Scorpion|Scorpion (EN)]]"
 ## Acciones
 
 **Aguijón.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 1 de daño perforante más 3 (1d6) de daño de veneno.
-

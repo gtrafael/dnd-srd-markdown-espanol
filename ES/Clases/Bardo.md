@@ -87,7 +87,7 @@ Espacios de conjuro. La tabla “Rasgos de bardo” muestra cuántos espacios de
 
 Conjuros preparados de nivel 1 y superiores. Preparas una serie de conjuros de nivel 1 y superiores, que son los que podrás lanzar con este rasgo. Para empezar, elige cuatro conjuros de nivel 1 de la lista de conjuros de bardo. Se recomiendan hechizar persona, palabra de curación, rociada de color y susurros discordantes.
 
-El numero de conjuros de tu lista aumenta conforme subes de nivel de bardo, como se muestra en la columna “Conjuros preparados” de la tabla “Rasgos de bardo”. Cuando ese número aumente, elige conjuros adicionales de la lista de conjuros de bardo hasta que el número de conjuros de tu lista coincida con el número de la tabla. Estos conjuros deben ser de un nivel para el que tengas espacios de conjuro. Por ejemplo, si eres un bardo de nivel 3, podrías preparar cualquier combinación de seis conjuros de nivel 1 o 2.
+El número de conjuros de tu lista aumenta conforme subes de nivel de bardo, como se muestra en la columna “Conjuros preparados” de la tabla “Rasgos de bardo”. Cuando ese número aumente, elige conjuros adicionales de la lista de conjuros de bardo hasta que el número de conjuros de tu lista coincida con el número de la tabla. Estos conjuros deben ser de un nivel para el que tengas espacios de conjuro. Por ejemplo, si eres un bardo de nivel 3, podrías preparar cualquier combinación de seis conjuros de nivel 1 o 2.
 
 Si otro rasgo de bardo te proporciona conjuros que siempre tienes preparados, esos conjuros no cuentan para el total que puedes preparar con este rasgo, pero sí que cuentan como conjuros de bardo para ti.
 
@@ -129,9 +129,7 @@ Puedes emplear notas musicales o palabras de poder para interrumpir los efectos 
 
 ### Nivel 10: Secretos mágicos
 
-Has aprendido secretos de diversas tradiciones mágicas. Cada vez que alcances un nivel de bardo (incluido este) y aumente la cantidad de conjuros preparados de la tabla “Rasgos de bardo”, podrás elegir cualquiera de los nuevos conjuros preparados de entre las listas de conjuros de bardo, clérigo, druida y mago. Los conjuros elegidos contarán
-
-como conjuros de bardo para ti (consulta las listas de conjuros en la sección de la clase correspondiente). Además, cuando sustituyas un conjuro preparado para esta clase, podrás hacerlo con un conjuro de esas listas.
+Has aprendido secretos de diversas tradiciones mágicas. Cada vez que alcances un nivel de bardo (incluido este) y aumente la cantidad de conjuros preparados de la tabla “Rasgos de bardo”, podrás elegir cualquiera de los nuevos conjuros preparados de entre las listas de conjuros de bardo, clérigo, druida y mago. Los conjuros elegidos contarán como conjuros de bardo para ti (consulta las listas de conjuros en la sección de la clase correspondiente). Además, cuando sustituyas un conjuro preparado para esta clase, podrás hacerlo con un conjuro de esas listas.
 
 ### Nivel 18: Inspiración superior
 
@@ -346,18 +344,14 @@ Ganas competencia en tres habilidades de tu elección.
 
 ### Nivel 3: Palabras cortantes
 
-Aprendes a usar tu astucia para distraer, confundir y minar la confianza y las aptitudes de los demás de manera sobrenatural. Cuando una criatura que puedas ver a 18 m o menos de ti haga una tirada de daño o tenga éxito en una prueba de característica o una tirada de ataque, puedes llevar a cabo una reacción para gastar un uso de tu Inspiración bárdica; tira tu dado de Inspiración bárdica y resta el numero obtenido al resultado dela tirada de la criatura, lo que reducirá el daño o quizá convierta el éxito en un fallo.
+Aprendes a usar tu astucia para distraer, confundir y minar la confianza y las aptitudes de los demás de manera sobrenatural. Cuando una criatura que puedas ver a 18 m o menos de ti haga una tirada de daño o tenga éxito en una prueba de característica o una tirada de ataque, puedes llevar a cabo una reacción para gastar un uso de tu Inspiración bárdica; tira tu dado de Inspiración bárdica y resta el número obtenido al resultado de la tirada de la criatura, lo que reducirá el daño o quizá convierta el éxito en un fallo.
 
 ### Nivel 6: Descubrimientos mágicos
 
 Aprendes dos conjuros de tu elección. Estos conjuros pueden proceder de las listas de conjuros de clérigo, druida o mago, o de cualquier combinación de estas (consulta la lista de conjuros en la sección de la clase). Los conjuros que elijas deben ser trucos o conjuros para los que tengas espacios de conjuro, como se muestra en la tabla “Rasgos de bardo”.
 
-Siempre tienes preparados los conjuros elegidos y, cada vez que subas un nivel de bardo, podrás
-
-reemplazar uno de los conjuros por otro conjuro que cumpla estos requisitos.
+Siempre tienes preparados los conjuros elegidos y, cada vez que subas un nivel de bardo, podrás reemplazar uno de los conjuros por otro conjuro que cumpla estos requisitos.
 
 ### Nivel 14: Habilidad sin parangón
 
-Cuando hagas una prueba de característica o una tirada de ataque y falles, podrás gastar un uso de Inspiración bárdica; tira el dado de Inspiración bárdica y suma el resultado al d20, lo que podría convertir un fallo en un éxito. Si fallas la tirada, la Inspiración bárdica no se gasta. 
-
-
+Cuando hagas una prueba de característica o una tirada de ataque y falles, podrás gastar un uso de Inspiración bárdica; tira el dado de Inspiración bárdica y suma el resultado al d20, lo que podría convertir un fallo en un éxito. Si fallas la tirada, la Inspiración bárdica no se gasta.

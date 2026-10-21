@@ -13,4 +13,3 @@ Un vial de este aceite puede cubrir a una criatura Mediana o más pequeña, así
 De forma alternativa, el aceite se puede verter en el suelo como acción de magia y cubrirá un cuadrado de 3 m de lado que duplicará el efecto del conjuro grasa en la zona durante 8 horas.
 
 Este ungüento negro y pegajoso parece denso y pesado, pero fluye rápidamente cuando se vierte.
-

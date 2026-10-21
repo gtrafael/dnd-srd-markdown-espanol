@@ -25,5 +25,4 @@ Dote general (requisitos: nivel 4 o más)
 
 Aumenta en 2 una puntuación de característica que elijas o aumenta dos en 1 cada una. Esta dote no puede aumentar una puntuación de característica por encima de 20.
 
-Repetible. Puedes elegir esta dote más de una vez. 
-
+Repetible. Puedes elegir esta dote más de una vez.

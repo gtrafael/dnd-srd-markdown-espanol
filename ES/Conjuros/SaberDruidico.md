@@ -24,5 +24,4 @@ Susurras a los espíritus de la naturaleza y produces uno de los siguientes efec
 
 **Jugar con fuego.** Enciendes o apagas una vela, una antorcha o una hoguera.
 
-**Sensor climático.** Creas un efecto sensorial Diminuto e inofensivo que predice el clima que habrá en tu ubicación durante las siguientes 24 horas. El efecto se manifiesta como un orbe dorado para los cielos despejados, una nube para la lluvia, copos de nieve para la nieve, etc. Este efecto persiste durante 1 asalto. 
-
+**Sensor climático.** Creas un efecto sensorial Diminuto e inofensivo que predice el clima que habrá en tu ubicación durante las siguientes 24 horas. El efecto se manifiesta como un orbe dorado para los cielos despejados, una nube para la lluvia, copos de nieve para la nieve, etc. Este efecto persiste durante 1 asalto.

@@ -53,5 +53,3 @@ Tipos de daño y objetos. Los objetos tienen inmunidad al daño psíquico y de v
 Umbral de daño. Los objetos de gran tamaño, como los muros de un castillo, suelen tener una resistencia mayor, lo que se representa mediante un umbral de daño. Consulta también “Umbral de daño”.
 
 Sin puntuaciones de característica. Los objetos no tienen puntuaciones de característica, salvo que una regla les asigne puntuaciones. Al no tener puntuaciones de característica, los objetos no pueden hacer pruebas de característica y fallan todas las tiradas de salvación.
-
-

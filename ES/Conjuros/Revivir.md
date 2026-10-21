@@ -16,5 +16,4 @@ related_en: "[[Spells/Revivify|Revivify (EN)]]"
 
 **Duración:** Instantáneo
 
-Tocas a una criatura que haya muerto en el último minuto. La criatura revive con 1 punto de golpe. Este conjuro no puede revivir a una criatura que haya muerto de vieja ni devolverle las partes del cuerpo que haya perdido. 
-
+Tocas a una criatura que haya muerto en el último minuto. La criatura revive con 1 punto de golpe. Este conjuro no puede revivir a una criatura que haya muerto de vieja ni devolverle las partes del cuerpo que haya perdido.

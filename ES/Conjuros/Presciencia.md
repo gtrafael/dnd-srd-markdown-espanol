@@ -18,5 +18,4 @@ related_en: "[[Spells/Foresight|Foresight (EN)]]"
 
 Tocas a una criatura voluntaria y la dotas de una capacidad limitada de ver el futuro inmediato.
 
-Hasta que el conjuro termine, el objetivo tendrá ventaja en las pruebas con d20 y las demás criaturas tendrán desventaja en las tiradas de ataque contra él. El conjuro termina antes si lo vuelves a lanzar. 
-
+Hasta que el conjuro termine, el objetivo tendrá ventaja en las pruebas con d20 y las demás criaturas tendrán desventaja en las tiradas de ataque contra él. El conjuro termina antes si lo vuelves a lanzar.

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Spy|Spy (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    15 |  +2 |   +2 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Spy|Spy (EN)]]"
 ## Acciones adicionales
 
 **Acción astuta.** El espía realiza las acciones de correr, destrabarse o esconderse.
-

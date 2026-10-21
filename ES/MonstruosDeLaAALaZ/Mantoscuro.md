@@ -16,7 +16,7 @@ related_en: "[[Monsters/Darkmantle|Darkmantle (EN)]]"
 
 **Velocidad:** 3 m, volar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    12 |  +1 |   +1 |
@@ -42,4 +42,3 @@ Mientras esté enganchado a un objetivo, el mantoscuro solo podrá atacarlo a é
 Una criatura puede emplear una acción para intentar quitarse de encima al mantoscuro superando una prueba de Fuerza (Atletismo) con CD 13. En su turno, el mantoscuro puede separarse gastando 1,5 m de movimiento.
 
 **Aura de oscuridad (1/día).** Una oscuridad mágica llena una emanación de 4,5 m que se origina en el mantoscuro. Este efecto dura mientras el mantoscuro mantenga la concentración en él, hasta 10 minutos. La visión en la oscuridad no puede penetrar en esta zona y ninguna luz puede alumbrarla.
-

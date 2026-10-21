@@ -20,5 +20,4 @@ Tocas a una criatura que no lleve más de 200 años muerta y que falleciera por 
 
 Este conjuro cierra todas las heridas, neutraliza cualquier veneno, cura todas las enfermedades mágicas y levanta las maldiciones que afectaran a la criatura cuando murió. También sustituye los órganos y las extremidades que le falten o sufrieran daños. Si la criatura era un muerto viviente, la resucitará con su forma normal.
 
-El conjuro puede proporcionar un nuevo cuerpo si el original ya no existe, en cuyo caso debes pronunciar el nombre de la criatura. A continuación, esta aparecerá en un espacio sin ocupar que elijas a 3 m o menos de ti. 
-
+El conjuro puede proporcionar un nuevo cuerpo si el original ya no existe, en cuyo caso debes pronunciar el nombre de la criatura. A continuación, esta aparecerá en un espacio sin ocupar que elijas a 3 m o menos de ti.

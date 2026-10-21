@@ -34,5 +34,4 @@ Cuando el glifo se activa, el conjuro almacenado surte efecto. Si el conjuro tie
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño de una runa explosiva aumenta en 1d8 por cada nivel por encima de 3 que tenga el espacio. Si creas un glifo de conjuro, puedes almacenar cualquier conjuro de hasta el mismo nivel que el espacio de conjuro que hayas empleado para el glifo custodio. 
-
+El daño de una runa explosiva aumenta en 1d8 por cada nivel por encima de 3 que tenga el espacio. Si creas un glifo de conjuro, puedes almacenar cualquier conjuro de hasta el mismo nivel que el espacio de conjuro que hayas empleado para el glifo custodio.

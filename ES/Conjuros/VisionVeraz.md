@@ -16,5 +16,4 @@ related_en: "[[Spells/True Seeing|True Seeing (EN)]]"
 
 **Duración:** 1 hora
 
-Hasta que el conjuro termine, la criatura voluntaria a la que toques tendrá visión verdadera hasta 36 m. 
-
+Hasta que el conjuro termine, la criatura voluntaria a la que toques tendrá visión verdadera hasta 36 m.

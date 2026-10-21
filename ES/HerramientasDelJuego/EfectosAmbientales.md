@@ -22,7 +22,7 @@ Las criaturas pueden acostumbrarse a las altitudes elevadas si pasan un mínimo 
 
 ## Calor extremo
 
-Cuando la temperatura sea de 38 °C o más, una criatura expuesta al calor extremo y sin acceso a agua potable deberá superar una tirada de salvación de Constitucionalfinalde cadahoraosumarä1nivel de cansancio. La CD es 5 para la primera hora y aumenta en 1 por cada hora adicional. Las criaturas que lleven armadura media o pesada tienen desventaja en la tirada y las criaturas que tengan resistencia o inmunidad al daño de fuego la superan automaticamente.
+Cuando la temperatura sea de 38 °C o más, una criatura expuesta al calor extremo y sin acceso a agua potable deberá superar una tirada de salvación de Constitución al final de cada hora o sumará 1 nivel de cansancio. La CD es 5 para la primera hora y aumenta en 1 por cada hora adicional. Las criaturas que lleven armadura media o pesada tienen desventaja en la tirada y las criaturas que tengan resistencia o inmunidad al daño de fuego la superan automáticamente.
 
 ## Frío extremo
 
@@ -38,11 +38,10 @@ El hielo resbaladizo constituye terreno difícil. Las criaturas que entren en hi
 
 ## Precipitaciones intensas
 
-Todo lo que haya dentro de una zona de lluvia o nevada intensa se considera ligeramente oscuro, y las criaturas en ella tendran desventaja en todas las pruebas de Sabiduría (Percepción). La lluvia intensa también extingue las llamas desprotegidas.
+Todo lo que haya dentro de una zona de lluvia o nevada intensa se considera ligeramente oscuro, y las criaturas en ella tendrán desventaja en todas las pruebas de Sabiduría (Percepción). La lluvia intensa también extingue las llamas desprotegidas.
 
 ## Viento fuerte
 
-El viento fuerte impone desventaja en las tiradas de ataque a distancia con armas, extingue las llamas desprotegidas y dispersa la niebla. Las criaturas voladoras en vientos fuertes deben aterrizar al final de su turno o caeran.
+El viento fuerte impone desventaja en las tiradas de ataque a distancia con armas, extingue las llamas desprotegidas y dispersa la niebla. Las criaturas voladoras en vientos fuertes deben aterrizar al final de su turno o caerán.
 
 Un viento fuerte en un desierto puede crear tormentas de arena que imponen desventaja en las pruebas de Sabiduría (Percepción).
-

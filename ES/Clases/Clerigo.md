@@ -15,7 +15,7 @@ Atributos básicos de clérigo
 | Competencias en habilidades          | Elige dos: Historia, Medicina, Perspicacia, Persuasión o Religión                                           |
 | Competencias con armas               | Amas sencillas                                                                                              |
 | Entrenamiento con armaduras          | Armaduras ligeras y medias y escudos                                                                        |
-| Equipo inicial                       | Elige A o B: (A) camisa de ma-lla, escudo, maza, paquete de sacerdote, símbolo sagrado y 7 po, o (B) 110 po |
+| Equipo inicial                       | Elige A o B: (A) camisa de malla, escudo, maza, paquete de sacerdote, símbolo sagrado y 7 po, o (B) 110 po |
 
 ## Convertirse en clérigo
 
@@ -102,7 +102,7 @@ Puedes usar el rasgo Canalizar divinidad dos veces. Recuperas uno de los usos ga
 
 Si un efecto de Canalizar divinidad requiere una tirada de salvación, la CD será igual a la CD de salvación de conjuros del rasgo Lanzamiento de conjuros de esta clase.
 
-Chispa divina. Como acción de magia, diriges tu símbolo sagrado hacia otra criatura que puedas ver a 9 m o menos de ti y concentras energía divina en ella. Tira 1d8 y suma tu modificador por Sabiduría. Puedes hacer que la criatura recupere una cantidad de puntos de golpe igual al resultado u obligar a la criatura a hacer una tirada de salvación de Constitución. Si la falla, sufrirá una cantidad de daño necrótico o radiante (a tu elección) igual a ese resultado.Si la supera,sufriräla mitad de dano (redondeando hacia abajo).
+Chispa divina. Como acción de magia, diriges tu símbolo sagrado hacia otra criatura que puedas ver a 9 m o menos de ti y concentras energía divina en ella. Tira 1d8 y suma tu modificador por Sabiduría. Puedes hacer que la criatura recupere una cantidad de puntos de golpe igual al resultado u obligar a la criatura a hacer una tirada de salvación de Constitución. Si la falla, sufrirá una cantidad de daño necrótico o radiante (a tu elección) igual a ese resultado. Si la supera, sufrirá la mitad de daño (redondeando hacia abajo).
 
 Tira 1d8 adicional cuando alcances los niveles 7 (2d8), 13 (3d8) y 18 (4d8) de clérigo.
 
@@ -194,7 +194,7 @@ Conjuros de clérigo de nivel 2
 | Augurio                  | Adivinación   | R, M     |
 | Auxilio                  | Abjuración    | —        |
 | Calmar emociones         | Encantamiento | C        |
-| Detector trampas         | Adivinación   | —        |
+| Detectar trampas         | Adivinación   | —        |
 | Dulce descanso           | Nigromancia   | R, M     |
 | Inmovilizar persona      | Encantamiento | C        |
 | Llama permanente         | Evocación     | M        |
@@ -351,5 +351,4 @@ Los conjuros de curación que lances sobre otros también te sanan a ti. Inmedia
 
 ### Nivel 17: Sanación suprema
 
-En vez de tirar uno o más dados para hacer que una criatura recupere puntos de golpe con un conjuro o con Canalizar divinidad, no tirarás estos dados para la curación, sino que utilizarás el número más alto de cada dado. Por ejemplo, en lugar de hacer que una criatura recupere 2d6 puntos de golpe, harás que recupere 12. 
-
+En vez de tirar uno o más dados para hacer que una criatura recupere puntos de golpe con un conjuro o con Canalizar divinidad, no tirarás estos dados para la curación, sino que utilizarás el número más alto de cada dado. Por ejemplo, en lugar de hacer que una criatura recupere 2d6 puntos de golpe, harás que recupere 12.

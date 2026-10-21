@@ -20,5 +20,4 @@ Una ola de energía curativa brota de un punto que puedas ver dentro del alcance
 
 **Con un espacio de conjuro de nivel superior.**
 
-La curación aumenta en 1d8 por cada nivel por encima de 5 que tenga el espacio. 
-
+La curación aumenta en 1d8 por cada nivel por encima de 5 que tenga el espacio.

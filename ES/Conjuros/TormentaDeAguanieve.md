@@ -18,5 +18,4 @@ related_en: "[[Spells/Sleet Storm|Sleet Storm (EN)]]"
 
 Hasta que el conjuro termine, caerá aguanieve en un cilindro de 12 m de alto y 6 m de radio centrado en un punto que elijas dentro del alcance. La zona está muy oscura y las llamas desprotegidas que haya en ella se apagan.
 
-El suelo abarcado en el cilindro es terreno difícil. Cuando una criatura entre en el cilindro por primera vez en un turno o comience su turno en él, deberá superar una tirada de salvación de Destreza o tendrá el estado de derribada y perderá la concentración. 
-
+El suelo abarcado en el cilindro es terreno difícil. Cuando una criatura entre en el cilindro por primera vez en un turno o comience su turno en él, deberá superar una tirada de salvación de Destreza o tendrá el estado de derribada y perderá la concentración.

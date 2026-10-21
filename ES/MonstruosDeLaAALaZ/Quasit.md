@@ -16,7 +16,7 @@ related_en: "[[Monsters/Quasit|Quasit (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     5 |  -3 |   -3 |
 | DES   |    17 |  +3 |   +3 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Quasit|Quasit (EN)]]"
 **Cambio de forma.** El quasit cambia de forma para parecerse a un ciempiés (velocidad 12 m, trepar 12 m), un murciélago (3 m, volar 12 m) o un sapo (12 m, nadar 12 m), o recupera su auténtica forma. Su perfil es el mismo en todas las formas, excepto por su velocidad. Cualquier equipo que vista o lleve no se transformará.
 
 **Invisibilidad.** El quasit lanza invisibilidad sobre sí mismo sin necesidad de componentes y utiliza el Carisma como aptitud mágica.
-

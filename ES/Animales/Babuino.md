@@ -16,7 +16,7 @@ related_en: "[[Animals/Baboon|Baboon (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     8 |  -1 |   -1 |
 | DES   |    14 |  +2 |   +2 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Baboon|Baboon (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +1, alcance 1,5 m. Acierto: 1 (1d4 − 1) de daño perforante.
-

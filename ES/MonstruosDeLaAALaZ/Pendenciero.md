@@ -16,7 +16,7 @@ related_en: "[[Monsters/Tough|Tough (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    12 |  +1 |   +1 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Tough|Tough (EN)]]"
 **Maza.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño contundente.
 
 **Ballesta pesada.** Tirada de ataque a distancia: +3, alcance 30/120 m. Acierto: 6 (1d10 + 1) de daño perforante.
-

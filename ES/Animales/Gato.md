@@ -16,7 +16,7 @@ related_en: "[[Animals/Cat|Cat (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     3 |  -4 |   -4 |
 | DES   |    15 |  +2 |   +4 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Cat|Cat (EN)]]"
 ## Acciones
 
 **Arañazo.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 1 de daño cortante.
-

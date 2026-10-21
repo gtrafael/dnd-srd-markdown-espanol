@@ -16,7 +16,7 @@ related_en: "[[Animals/Goat|Goat (EN)]]"
 
 **Velocidad:** 12 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +2 |
 | DES   |    10 |  +0 |   +0 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Goat|Goat (EN)]]"
 ## Acciones
 
 **Embestir.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 1 de daño contundente o 2 (1d4) de daño contundente si la cabra recorre al menos 6 m en línea recta hacia el objetivo justo antes de acertarle.
-

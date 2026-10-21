@@ -45,5 +45,4 @@ En el caso de determinados objetos mágicos, no puedes llevar más de uno del mi
 
 ## Objetos emparejados
 
-Los objetos que vienen en pares, como las botas, los brazales, guanteletes y guantes, solo proporcionan sus beneficios si se visten los dos miembros del mismo par. Por ejemplo, un personaje que lleve una bota de zancada y brincos en un pie y una bota élfica en el otro no obtendrá ningún beneficio de ninguna de ellas. 
-
+Los objetos que vienen en pares, como las botas, los brazales, guanteletes y guantes, solo proporcionan sus beneficios si se visten los dos miembros del mismo par. Por ejemplo, un personaje que lleve una bota de zancada y brincos en un pie y una bota élfica en el otro no obtendrá ningún beneficio de ninguna de ellas.

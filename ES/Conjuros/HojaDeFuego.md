@@ -20,9 +20,8 @@ Haces aparecer una hoja ardiente en tu mano libre que es similar en tamaño y fo
 
 Como acción de magia, puedes hacer un ataque de conjuro cuerpo a cuerpo con la hoja ardiente. Si acierta, el objetivo sufrirá una cantidad de daño de fuego igual a 3d6 más tu modificador por aptitud mágica.
 
-La hoja llameante emite luz brillante en un radio de 3 m y luz tenue 3 m mas alla.
+La hoja llameante emite luz brillante en un radio de 3 m y luz tenue 3 m más allá.
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio. 
-
+El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio.

@@ -12,5 +12,4 @@ Mientras sostengas este recipiente de hierro con tapón de latón, puedes emplea
 
 Puedes emplear una acción de magia para quitar el tapón del frasco y liberar a la criatura contenida. Esta obedecerá tus órdenes durante 1 hora y las comprenderá aunque se las des en un idioma que no entienda. Si no le das ninguna orden o le das una orden que probablemente desemboque en su muerte o cautiverio, se defenderá, pero no realizará ninguna otra acción. Al final de la duración, la criatura actuará conforme a su carácter y alineamiento normales.
 
-Un conjuro identificar revela si el frasco contiene una criatura, pero la única forma de saber de qué criatura se trata es abrirlo. Un frasco de hierro recién descubierto podría contener una criatura a eleccion de tu GM.
-
+Un conjuro identificar revela si el frasco contiene una criatura, pero la única forma de saber de qué criatura se trata es abrirlo. Un frasco de hierro recién descubierto podría contener una criatura a elección de tu GM.

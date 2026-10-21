@@ -20,5 +20,4 @@ Disparas un rayo verduzco hacia una criatura dentro del alcance. Haz un ataque d
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d8 por cada nivel por encima de 1 que tenga el espacio. 
-
+El daño aumenta en 1d8 por cada nivel por encima de 1 que tenga el espacio.

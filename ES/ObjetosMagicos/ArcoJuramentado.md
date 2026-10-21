@@ -13,4 +13,3 @@ Cuando coloques una flecha en este arco, susurrará en élfico: “Pronta derrot
 Cuando realices una tirada de ataque a distancia con esta arma contra tu enemigo jurado, tendrás ventaja. Asimismo, tu objetivo no obtendrá ningún beneficio de cobertura media o tres cuartos y tú no tendrás desventaja debido al alcance largo. Si el ataque acierta, tu enemigo jurado sufrirá 3d6 de daño perforante adicional.
 
 Mientras tu enemigo jurado esté vivo, tendrás desventaja en las tiradas de ataque con el resto de armas.
-

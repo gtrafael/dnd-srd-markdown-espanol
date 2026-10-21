@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Centipede|Giant Centipede (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     5 |  -3 |   -3 |
 | DES   |    14 |  +2 |   +2 |
@@ -34,4 +34,3 @@ related_en: "[[Animals/Giant Centipede|Giant Centipede (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 4 (1d4 + 2) de daño perforante y el objetivo tendrá el estado de envenenado hasta el principio del siguiente turno del ciempiés.
-

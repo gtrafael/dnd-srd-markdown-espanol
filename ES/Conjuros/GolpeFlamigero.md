@@ -20,5 +20,4 @@ Una columna de fuego brillante ruge desde el cielo. Todas las criaturas en un ci
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño de fuego y radiante aumentan en 1d6 por cada nivel por encima de 5 que tenga el espacio. 
-
+El daño de fuego y radiante aumentan en 1d6 por cada nivel por encima de 5 que tenga el espacio.

@@ -16,7 +16,7 @@ related_en: "[[Animals/Swarm of Insects|Swarm of Insects (EN)]]"
 
 **Velocidad:** 6 m, trepar o volar 6 m (a elección de cada GM)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     3 |  -4 |   -4 |
 | DES   |    13 |  +1 |   +1 |
@@ -44,4 +44,3 @@ related_en: "[[Animals/Swarm of Insects|Swarm of Insects (EN)]]"
 ## Acciones
 
 **Mordiscos.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 6 (2d4 + 1) de daño de veneno o 3 (1d4 + 1) de daño de veneno si el enjambre está maltrecho.
-

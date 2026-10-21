@@ -16,7 +16,7 @@ related_en: "[[Monsters/Satyr|Satyr (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    12 |  +1 |   +1 |
 | DES   |    16 |  +3 |   +3 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Satyr|Satyr (EN)]]"
 **Cascos.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 5 (1d4 + 3) de daño contundente. Si el objetivo es una criatura Mediana o más pequeña, el sátiro la empujará hasta 3 m respecto a él en línea recta.
 
 **Burla.** *Tirada de salvación de Sabiduría:* CD 12, una criatura que el sátiro pueda ver a 27 m o menos. Fallo: 5 (1d6 + 2) de daño psíquico.
-

@@ -20,5 +20,4 @@ Ocultas un cofre y todo su contenido en el Plano Etéreo. Debes tocar el cofre y
 
 Mientras el cofre permanezca en el Plano Etéreo, puedes usar una acción de magia y tocar la réplica para recuperar dicho cofre, que aparecerá en un espacio sin ocupar en el suelo a 1,5 m de ti. Puedes enviar el cofre de regreso al Plano Etéreo usando una acción de magia para tocar el cofre y la réplica.
 
-Después de 60 días, hay una posibilidad acumulativa del 5 % al final de cada día de que el efecto del conjuro termine. El conjuro también termina si vuelves a lanzarlo o si se destruye la réplica Diminuta del cofre. Si el conjuro termina y el cofre grande está en el Plano Etéreo, permanecerá allí hasta que otra persona o tú lo encontréis. 
-
+Después de 60 días, hay una posibilidad acumulativa del 5 % al final de cada día de que el efecto del conjuro termine. El conjuro también termina si vuelves a lanzarlo o si se destruye la réplica Diminuta del cofre. Si el conjuro termina y el cofre grande está en el Plano Etéreo, permanecerá allí hasta que otra persona o tú lo encontréis.

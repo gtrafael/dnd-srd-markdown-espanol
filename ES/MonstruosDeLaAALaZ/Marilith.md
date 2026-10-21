@@ -16,7 +16,7 @@ related_en: "[[Monsters/Marilith|Marilith (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +9 |
 | DES   |    20 |  +5 |   +5 |
@@ -47,7 +47,7 @@ related_en: "[[Monsters/Marilith|Marilith (EN)]]"
 
 ## Acciones
 
-**Ataque múltiple.** La marilith realiza seis ataques con sus cuchillas de pacto y emplea su acción de constre-ñir.
+**Ataque múltiple.** La marilith realiza seis ataques con sus cuchillas de pacto y emplea su acción de constreñir.
 
 **Cuchilla de pacto.** Tirada de ataque cuerpo a cuerpo: +10, alcance 1,5 m. Acierto: 10 (1d10 + 5) de daño cortante más 7 (2d6) de daño necrótico.
 
@@ -60,4 +60,3 @@ related_en: "[[Monsters/Marilith|Marilith (EN)]]"
 ## Reacciones
 
 **Parada.** Detonante: una tirada de ataque cuerpo a cuerpo acierta a la marilith mientras sostiene un arma. Respuesta: la marilith suma 5 a su CA contra ese ataque, lo que puede hacer que falle.
-

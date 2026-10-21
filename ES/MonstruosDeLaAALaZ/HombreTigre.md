@@ -14,7 +14,7 @@ related_en: "[[Monsters/Weretiger|Weretiger (EN)]]"
 
 **Velocidad:** 9 m, 12 m (solo en forma de tigre)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    15 |  +2 |   +2 |

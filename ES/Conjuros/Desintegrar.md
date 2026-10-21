@@ -22,5 +22,4 @@ Una criatura que sea objetivo de este conjuro deberá hacer una tirada de salvac
 
 Este conjuro desintegra automáticamente cualquier objeto no mágico de tamaño Grande o más pequeño o cualquier creación de fuerza mágica. Si el objetivo es Enorme o mayor, el conjuro desintegrará una parte de él con forma de cubo de 3 m de lado.
 
-**Con un espacio de conjuro de nivel superior.** El daño aumenta en 3d6 por cada nivel por encima de 6 que tenga el espacio. 
-
+**Con un espacio de conjuro de nivel superior.** El daño aumenta en 3d6 por cada nivel por encima de 6 que tenga el espacio.

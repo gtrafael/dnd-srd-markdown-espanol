@@ -16,7 +16,7 @@ related_en: "[[Animals/Mammoth|Mammoth (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    24 |  +7 |  +10 |
 | DES   |     9 |  -1 |   -1 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Mammoth|Mammoth (EN)]]"
 ## Acciones adicionales
 
 **Arrollar.** *Tirada de salvación de Destreza:* CD 18, una criatura a 1,5 m o menos que tenga el estado de derribada. Fallo: 29 (4d10 + 7) de daño contundente. Éxito: la mitad del daño.
-

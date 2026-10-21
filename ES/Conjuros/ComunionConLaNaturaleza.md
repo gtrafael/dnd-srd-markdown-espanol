@@ -30,5 +30,4 @@ Elige tres de los siguientes hechos, que aprenderás según corresponda a la zon
 
 • Ubicaciones de masas de agua.
 
-Por ejemplo, podrías determinar el paradero de un monstruo poderoso en la zona y la ubicación de masas de agua y de cualquier pueblo cercano. 
-
+Por ejemplo, podrías determinar el paradero de un monstruo poderoso en la zona y la ubicación de masas de agua y de cualquier pueblo cercano.

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Barbed Devil|Barbed Devil (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +6 |
 | DES   |    17 |  +3 |   +3 |
@@ -54,4 +54,3 @@ related_en: "[[Monsters/Barbed Devil|Barbed Devil (EN)]]"
 **Garras.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 10 (2d6 + 3) de daño perforante. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 13 para escapar) por ambas garras.
 
 **Arrojar llama.** Tirada de ataque a distancia: +5, alcance 45 m. Acierto: 17 (5d6) de daño de fuego. Si el objetivo es un objeto inflamable que no lleve o vista nadie, empieza a arder.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ghast|Ghast (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    17 |  +3 |   +3 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Ghast|Ghast (EN)]]"
 **Garra.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 10 (2d6 + 3) de daño cortante. Si el objetivo es una criatura que no sea un muerto viviente, sufre el siguiente efecto. *Tirada de salvación de Constitución:* CD 10. Fallo: el objetivo tendrá el estado de paralizado hasta el final de su siguiente turno.
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 7 (1d8 + 3) de daño perforante más 9 (2d8) de daño necrótico.
-

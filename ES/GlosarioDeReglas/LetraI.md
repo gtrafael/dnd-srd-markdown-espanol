@@ -51,7 +51,7 @@ Voluntario. Si tu afán concuerda con los deseos del monstruo, no será necesari
 
 No voluntario. Si tu deseo resulta aversivo para el monstruo u opuesto a su alineamiento, no será necesaria ninguna prueba de característica: no lo aceptará.
 
-Indeciso. Si instas al monstruo a que haga algo sobre lo que siente dudas, deberás realizar una prueba de característica, en la que influirá la actitud del monstruo: indiferente, amistosa u hostil, todas ellas definidas en este glosario. La tabla “Pruebas de influencia” sugiere qué prueba de característica se debe hacer en funcion de cómo interactuas con el monstruo. Tu GM elegirá la prueba, que tendrá por defecto una CD igual a 15 o la puntuación de Inteligencia del monstruo, la que sea más alta. Si la superas, el monstruo hará lo que le pides. Si la fallas, deberás esperar 24 horas (o el plazo que establezca tu GM) antes de volver a insistir.
+Indeciso. Si instas al monstruo a que haga algo sobre lo que siente dudas, deberás realizar una prueba de característica, en la que influirá la actitud del monstruo: indiferente, amistosa u hostil, todas ellas definidas en este glosario. La tabla “Pruebas de influencia” sugiere qué prueba de característica se debe hacer en función de cómo interactúas con el monstruo. Tu GM elegirá la prueba, que tendrá por defecto una CD igual a 15 o la puntuación de Inteligencia del monstruo, la que sea más alta. Si la superas, el monstruo hará lo que le pides. Si la fallas, deberás esperar 24 horas (o el plazo que establezca tu GM) antes de volver a insistir.
 
 Pruebas de influencia
 
@@ -88,5 +88,3 @@ Sorpresa. Si tienes el estado de invisible cuando tiras iniciativa, tendrás ven
 Oculto. No te afecta ningún efecto que requiera ver a su objetivo, salvo que el creador del efecto pueda verte de alguna forma. Cualquier equipo que vistas o lleves contigo también se oculta.
 
 Ataques afectados. Las tiradas de ataque contra ti tienen desventaja y tus tiradas de ataque tienen ventaja. Si una criatura puede verte de alguna forma, no obtienes este beneficio contra esa criatura.
-
-

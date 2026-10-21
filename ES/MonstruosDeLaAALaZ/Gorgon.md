@@ -14,7 +14,7 @@ related_en: "[[Monsters/Gorgon|Gorgon (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    20 |  +5 |   +5 |
 | DES   |    11 |  +0 |   +0 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Gorgon|Gorgon (EN)]]"
 ## Acciones adicionales
 
 **Arrollar.** *Tirada de salvación de Destreza:* CD 16, una criatura a 1,5 m o menos que tenga el estado de derribada. Fallo: 16 (2d10 + 5) de daño contundente. Éxito: la mitad del daño.
-

@@ -108,4 +108,3 @@ Si tu encuentro de combate incluye a una criatura cuyo VD es superior al nivel d
 ## Rasgos inusuales
 
 Si un monstruo tiene un rasgo que los personajes de nivel bajo no pueden contrarrestar con facilidad, plantéate no añadir ese monstruo a un encuentro con personajes cuyo nivel sea inferior al valor de desafío del monstruo.
-

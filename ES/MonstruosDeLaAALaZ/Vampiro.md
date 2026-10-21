@@ -14,7 +14,7 @@ related_en: "[[Monsters/Vampire|Vampire (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    18 |  +4 |   +9 |
@@ -78,4 +78,3 @@ Resistencia legendaria (3/día o 4/día en la guarida). El vampiro puede elegir 
 **Cautivar.** El vampiro lanza orden imperiosa, que no requiere componentes y utiliza el Carisma como aptitud mágica (CD de salvación de conjuros 17). El vampiro no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Golpe inmortal.** El vampiro se mueve hasta la mitad de su velocidad y realiza un ataque con su golpe sepulcral.
-

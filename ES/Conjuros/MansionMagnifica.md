@@ -24,5 +24,4 @@ Puedes crear cualquier plano de planta que desees, pero no puede superar los 50 
 
 El personal de servicio está compuesto de 100 sirvientes casi transparentes que atienden a todos los que entran. Tú decides la apariencia y el atuendo de estos sirvientes, que son invulnerables y obedecen tus órdenes. Los sirvientes pueden realizar las tareas que haría un humano, pero no pueden atacar ni realizar ninguna acción que dañaría directamente a otra criatura. Por lo tanto, pueden traer y llevar cosas, limpiar, arreglar y plegar ropa, encender fuegos, servir comida y vino, etc., aunque no pueden abandonar el lugar.
 
-Cuando el conjuro termina, todas las criaturas u objetos que queden en el espacio extradimensional son expulsados a los espacios sin ocupar más cercanos a la entrada. 
-
+Cuando el conjuro termina, todas las criaturas u objetos que queden en el espacio extradimensional son expulsados a los espacios sin ocupar más cercanos a la entrada.

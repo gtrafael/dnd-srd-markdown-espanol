@@ -16,7 +16,7 @@ related_en: "[[Monsters/Grick|Grick (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    14 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Monsters/Grick|Grick (EN)]]"
 **Pico.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 9 (2d6 + 2) de daño perforante.
 
 **Tentáculos.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 7 (1d10 + 2) de daño cortante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 12 para escapar) por los cuatro tentáculos.
-

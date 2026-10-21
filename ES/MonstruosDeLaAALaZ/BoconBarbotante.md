@@ -16,7 +16,7 @@ related_en: "[[Monsters/Gibbering Mouther|Gibbering Mouther (EN)]]"
 
 **Velocidad:** 6 m, nadar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |     8 |  -1 |   -1 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Gibbering Mouther|Gibbering Mouther (EN)]]"
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 7 (2d6) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada. El objetivo muere si este ataque reduce sus puntos de golpe a 0. Luego, el bocón absorberá su cuerpo, dejando atrás solo su equipo.
 
 **Baba cegadora (recarga 5–6).** *Tirada de salvación de Destreza:* CD 10, todas las criaturas en una esfera de 3 m de radio centrada en un punto a 9 m o menos. Fallo: 7 (2d6) de daño radiante y el objetivo tendrá el estado de cegado hasta el final del siguiente turno del bocón.
-

@@ -30,7 +30,6 @@ Presidio cercado. El objetivo está atrapado en un semiplano protegido contra la
 
 Sueño. El objetivo tiene el estado de inconsciente y no se le puede despertar.
 
-Poner fin al conjuro. Cuando lances el conjuro, especifica una condición que le ponga fin. Puede ser tan sencilla o complicada como quieras, aunque tu GM debe estar de acuerdo en que tenga una alta probabilidad de llegar a ocurrir en la próxima década. La condición debe ser una acción observable, como que alguien haga una ofrenda concreta en el templo de tu dios,salvea tuamor verdadero o derrote a un monstruo concreto.
+Poner fin al conjuro. Cuando lances el conjuro, especifica una condición que le ponga fin. Puede ser tan sencilla o complicada como quieras, aunque tu GM debe estar de acuerdo en que tenga una alta probabilidad de llegar a ocurrir en la próxima década. La condición debe ser una acción observable, como que alguien haga una ofrenda concreta en el templo de tu dios, salve a tu amor verdadero o derrote a un monstruo concreto.
 
-Un conjuro disipar magia puede poner fin al conjuro solamente si se lanza con un espacio de conjuro de nivel 9 y hace objetivo a la prisión o al componente usado para crearla. 
-
+Un conjuro disipar magia puede poner fin al conjuro solamente si se lanza con un espacio de conjuro de nivel 9 y hace objetivo a la prisión o al componente usado para crearla.

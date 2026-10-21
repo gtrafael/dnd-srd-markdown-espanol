@@ -32,5 +32,4 @@ La duración del conjuro depende del material del objeto, como se muestra en la 
 
 **Con un espacio de conjuro de nivel superior.**
 
-El tamaño del cubo aumenta en 1,5 m por cada nivel por encima de 5 que tenga el espacio. 
-
+El tamaño del cubo aumenta en 1,5 m por cada nivel por encima de 5 que tenga el espacio.

@@ -24,5 +24,4 @@ Puedes ordenarle al objetivo que lleve a cabo reacciones, pero para ello deberá
 
 **Con un espacio de conjuro de nivel superior.**
 
-Tu concentración puede durar más con un espacio de conjuro de nivel 6 (hasta 10 minutos), 7 (hasta 1 hora) u 8 o más (hasta 8 horas). 
-
+Tu concentración puede durar más con un espacio de conjuro de nivel 6 (hasta 10 minutos), 7 (hasta 1 hora) u 8 o más (hasta 8 horas).

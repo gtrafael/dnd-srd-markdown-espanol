@@ -18,4 +18,3 @@ En el líquido transparente de la poción flota un fragmento de luz que parece l
 | Poción de fuerza de gigante (fuego)             |  25 | Rara        |
 | Poción de fuerza de gigante (nubes)             |  27 | Muy rara    |
 | Poción de fuerza de gigante (tormentas)         |  29 | Legendaria  |
-

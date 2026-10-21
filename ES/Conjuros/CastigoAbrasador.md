@@ -20,5 +20,4 @@ Al golpear al objetivo, sufre 1d6 de daño de fuego adicional del ataque. Al pri
 
 **Con un espacio de conjuro de nivel superior.**
 
-Todo el daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio. 
-
+Todo el daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio.

@@ -64,7 +64,7 @@ Si no quieres resistirte al efecto, puedes optar por no hacer la tirada para fal
 
 ## Modificador por característica
 
-Las tiradas de salvación usan el nombre de los modificadores por característica que emplean: una tirada de salvación de Constitución, una tirada de salvación de Sabiduría, etc. Se utilizan diversas tiradas de salvación para resistirse a diferentes tipos de efectos, como se muestra en la tabla “Ejemplos de tiradas de salvacion".
+Las tiradas de salvación usan el nombre de los modificadores por característica que emplean: una tirada de salvación de Constitución, una tirada de salvación de Sabiduría, etc. Se utilizan diversas tiradas de salvación para resistirse a diferentes tipos de efectos, como se muestra en la tabla “Ejemplos de tiradas de salvación".
 
 Ejemplos de tiradas de salvación
 
@@ -157,5 +157,4 @@ Si las circunstancias hacen que una tirada tenga tanto ventaja como desventaja, 
 
 Si tienes ventaja o desventaja y algún aspecto del juego te permite volver a tirar o sustituir el d20, solo podrás volver a tirar o sustituir uno de los dados, no los dos. Tendrás que escoger cuál.
 
-Por ejemplo, si tienes inspiración heroica (consulta el cuadro de debajo) y sacas un 3 y un 18 en una prueba de característica que tenga ventaja o desventaja, podrás usar tu inspiración heroica para repetir la tirada de uno de los dados, no de ambos. 
-
+Por ejemplo, si tienes inspiración heroica (consulta el cuadro de debajo) y sacas un 3 y un 18 en una prueba de característica que tenga ventaja o desventaja, podrás usar tu inspiración heroica para repetir la tirada de uno de los dados, no de ambos.

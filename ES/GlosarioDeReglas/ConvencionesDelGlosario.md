@@ -38,4 +38,3 @@ Abreviaciones. Las abreviaciones que se indican a continuación aparecen en este
 | LN          | Legal neutral               | Sab         | Sabiduría               |
 | M           | Componente material         | V           | Componente verbal       |
 |             |                             | VD          | Valor de desafío        |
-

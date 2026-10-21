@@ -16,7 +16,7 @@ related_en: "[[Animals/Piranha|Piranha (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     2 |  -4 |   -4 |
 | DES   |    16 |  +3 |   +3 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Piranha|Piranha (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5 (con ventaja si el objetivo no tiene todos sus puntos de golpe), alcance 1,5 m. Acierto: 1 de daño perforante.
-

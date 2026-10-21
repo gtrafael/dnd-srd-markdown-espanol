@@ -16,7 +16,7 @@ related_en: "[[Monsters/Adult Bronze Dragon|Adult Bronze Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    25 |  +7 |   +7 |
 | DES   |    10 |  +0 |   +5 |
@@ -68,4 +68,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Luz guía.** El dragón utiliza su lanzamiento de conjuros para lanzar saeta guía (versión de nivel 2).
 
 **Trueno.** *Tirada de salvación de Constitución:* CD 17, todas las criaturas en una esfera de 6 m de radio centrada en un punto que el dragón pueda ver a 27 m o menos. Fallo: 10 (3d6) de daño de trueno y el objetivo tendrá el estado de ensordecido hasta el final de su siguiente turno.
-

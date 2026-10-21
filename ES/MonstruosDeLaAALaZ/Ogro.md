@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ogre|Ogre (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |     8 |  -1 |   -1 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Ogre|Ogre (EN)]]"
 **Garrote grande.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 13 (2d8 + 4) de daño contundente.
 
 **Jabalina.** Tirada de ataque cuerpo a cuerpo o a distancia: +6, alcance 1,5 m o 9/36 m a distancia. Acierto: 11 (2d6 + 4) de daño perforante.
-

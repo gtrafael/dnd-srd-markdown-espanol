@@ -18,5 +18,4 @@ related_en: "[[Spells/Fire Bolt|Fire Bolt (EN)]]"
 
 **Arrojas una mota de fuego a una criatura u objeto dentro del alcance.** Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe 1d10 de daño de fuego. Los objetos inflamables a los que acierte el conjuro empezarán a arder si nadie los lleva o viste.
 
-**Mejora de truco.** El daño aumenta en 1d10 cuando alcanzas los niveles 5 (2d10), 11 (3d10) y 17 (4d10). 
-
+**Mejora de truco.** El daño aumenta en 1d10 cuando alcanzas los niveles 5 (2d10), 11 (3d10) y 17 (4d10).

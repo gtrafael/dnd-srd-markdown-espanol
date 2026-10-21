@@ -16,7 +16,7 @@ related_en: "[[Monsters/Commoner|Commoner (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    10 |  +0 |   +0 |
@@ -40,4 +40,3 @@ related_en: "[[Monsters/Commoner|Commoner (EN)]]"
 ## Acciones
 
 **Garrote.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 2 (1d4) de daño contundente.
-

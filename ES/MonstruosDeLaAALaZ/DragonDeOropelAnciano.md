@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ancient Brass Dragon|Ancient Brass Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    27 |  +8 |   +8 |
 | DES   |    10 |  +0 |   +6 |
@@ -66,4 +66,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Arena abrasante.** *Tirada de salvación de Destreza:* CD 20, una criatura que el dragón pueda ver a 36 m o menos. Fallo: 36 (8d8) de daño de fuego y la velocidad del objetivo se reducirá a la mitad hasta el final de su siguiente turno. Fallo o éxito: el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Luz calcinadora.** El dragón utiliza su lanzamiento de conjuros para lanzar rayo abrasador (versión de nivel 3).
-

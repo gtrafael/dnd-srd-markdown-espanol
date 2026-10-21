@@ -16,7 +16,7 @@ related_en: "[[Monsters/Adult Green Dragon|Adult Green Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    23 |  +6 |   +6 |
 | DES   |    12 |  +1 |   +6 |
@@ -66,4 +66,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Invasión mental.** El dragón utiliza su lanzamiento de conjuros para lanzar clavo mental (versión de nivel 3).
 
 **Miasma venenoso.** *Tirada de salvación de Constitución:* CD 17, todas las criaturas en una esfera de 6 m de radio centrada en un punto que el dragón pueda ver a 27 m o menos. Fallo: 7 (2d6) de daño de veneno y el objetivo tendrá un penalizador de −2 a la CA hasta el final de su siguiente turno. Fallo o éxito: el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

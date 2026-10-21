@@ -20,4 +20,3 @@ En cuanto hayas acabado de crear al gólem, el libro arderá en llamas sobrenatu
 | 6–17  | Gólem de carne   | 60 días  | 50 000 po  |
 | 18    | Gólem de hierro  | 120 días | 100 000 po |
 | 19–20 | Gólem de piedra  | 90 días  | 80 000 po  |
-

@@ -16,5 +16,4 @@ related_en: "[[Spells/Misty Step|Misty Step (EN)]]"
 
 **Duración:** Instantáneo
 
-Una niebla plateada te rodea brevemente y te teletransportas hasta 9 m a un espacio sin ocupar que puedas ver. 
-
+Una niebla plateada te rodea brevemente y te teletransportas hasta 9 m a un espacio sin ocupar que puedas ver.

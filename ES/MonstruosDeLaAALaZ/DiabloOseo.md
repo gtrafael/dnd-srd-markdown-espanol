@@ -16,7 +16,7 @@ related_en: "[[Monsters/Bone Devil|Bone Devil (EN)]]"
 
 **Velocidad:** 12 m, volar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +8 |
 | DES   |    16 |  +3 |   +3 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Bone Devil|Bone Devil (EN)]]"
 **Aguijón infernal.** Tirada de ataque cuerpo a cuerpo: +8, alcance 3 m. Acierto: 15 (2d10 + 4) de daño perforante más 18 (4d8) de daño de veneno y el objetivo tendrá el estado de envenenado hasta el principio del siguiente turno del diablo. Mientras esté envenenado, el objetivo no podrá recuperar puntos de golpe.
 
 **Garra.** Tirada de ataque cuerpo a cuerpo: +8, alcance 3 m. Acierto: 13 (2d8 + 4) de daño cortante.
-

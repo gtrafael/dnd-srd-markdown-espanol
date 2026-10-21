@@ -16,7 +16,7 @@ related_en: "[[Animals/Vulture|Vulture (EN)]]"
 
 **Velocidad:** 3 m, volar 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     7 |  -2 |   -2 |
 | DES   |    10 |  +0 |   +0 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Vulture|Vulture (EN)]]"
 ## Acciones
 
 **Pico.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 2 (1d4) de daño perforante.
-

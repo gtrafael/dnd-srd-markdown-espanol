@@ -23,4 +23,3 @@ Mientras te encuentres a 1,5 m o menos del espejo, podrás emplear una acción d
 De forma similar, puedes emplear una acción de magia y usar una segunda palabra de activación para liberar a una criatura atrapada en el espejo. La criatura liberada aparecerá junto a sus posesiones en el espacio sin ocupar más cercano al espejo, pero de espaldas a él.
 
 Meter el espejo en el espacio extradimensional creado por un agujero portátil, una bolsa de contención o un objeto similar destruye instantáneamente ambos objetos y abre un portal al Plano Astral. El portal se crea en el sitio en el que un objeto se introdujo dentro del otro. El portal absorbe a todas las criaturas situadas a 3 m o menos de él y que no estén tras cobertura completa, y las conduce a un lugar aleatorio del Plano Astral. Después, el portal se cierra. El portal solo funciona en un sentido y no puede volver a abrirse.
-

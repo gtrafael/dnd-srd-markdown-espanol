@@ -14,7 +14,7 @@ related_en: "[[Monsters/Ancient Copper Dragon|Ancient Copper Dragon (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    27 |  +8 |   +8 |
 | DES   |    12 |  +1 |   +8 |
@@ -64,4 +64,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Magia de la risa.** *Tirada de salvación de Carisma:* CD 21, una criatura que el dragón pueda ver a 36 m o menos. Fallo: 31 (9d6) de daño psíquico. Hasta el final de su siguiente turno, el objetivo tirará 1d8 cada vez que haga una prueba de característica o tirada de ataque y restará el resultado a la prueba con d20. Fallo o éxito: el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Sacudida mental.** El dragón utiliza su lanzamiento de conjuros para lanzar clavo mental (versión de nivel 5). El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

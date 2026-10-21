@@ -20,5 +20,4 @@ Una criatura o un objeto suelto de tu elección que puedas ver dentro del alcanc
 
 El objetivo solo puede moverse empujándose o tirando de un objeto fijo o una superficie a su alcance (como una pared o techo), lo que le permite desplazarse como si estuviera trepando. En tu turno, puedes variar la altitud del objetivo hasta 6 m en cualquier sentido. Si tú mismo eres el objetivo, te puedes mover hacia arriba o abajo como parte de tu movimiento. En caso contrario, puedes usar una acción de magia para mover al objetivo, que deberá permanecer dentro del alcance del conjuro.
 
-Cuando el conjuro termine, el objetivo flotará suavemente hasta llegar al suelo si todavía está en el aire. 
-
+Cuando el conjuro termine, el objetivo flotará suavemente hasta llegar al suelo si todavía está en el aire.

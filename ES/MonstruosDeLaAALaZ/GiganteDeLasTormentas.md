@@ -16,7 +16,7 @@ related_en: "[[Monsters/Storm Giant|Storm Giant (EN)]]"
 
 **Velocidad:** 15 m, nadar 15 m, volar 7,5 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    29 |  +9 |  +14 |
 | DES   |    14 |  +2 |   +2 |
@@ -58,4 +58,3 @@ related_en: "[[Monsters/Storm Giant|Storm Giant (EN)]]"
 **Tormenta de relámpagos (recarga 5–6).** *Tirada de salvación de Destreza:* CD 18, todas las criaturas en un cilindro de 3 m de radio y 12 m de alto que se origina en un punto que el gigante pueda ver a 150 m o menos.
 
 Fallo: 55 (10d10) de daño de relámpago. Éxito: la mitad del daño.
-

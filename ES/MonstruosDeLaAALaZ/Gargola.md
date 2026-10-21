@@ -16,7 +16,7 @@ related_en: "[[Monsters/Gargoyle|Gargoyle (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    11 |  +0 |   +0 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Gargoyle|Gargoyle (EN)]]"
 **Ataque múltiple.** La gárgola realiza dos ataques con sus garras.
 
 **Garra.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 7 (2d4 + 2) de daño cortante.
-

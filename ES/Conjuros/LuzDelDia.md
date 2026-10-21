@@ -20,5 +20,4 @@ Hasta que el conjuro termine, una luz solar se extiende desde un punto dentro de
 
 Como alternativa, lanzas el conjuro sobre un objeto que no lleve o vista nadie, lo que hará que la luz solar llene una emanación de 18 m metros que se origina en él. Cubrir el objeto con algo opaco, como un cuenco o un casco, bloqueará la luz solar.
 
-Si cualquier zona del conjuro se superpone con una zona de oscuridad creada por un conjuro de nivel 3 o inferior, el conjuro que creó esa oscuridad se disipa. 
-
+Si cualquier zona del conjuro se superpone con una zona de oscuridad creada por un conjuro de nivel 3 o inferior, el conjuro que creó esa oscuridad se disipa.

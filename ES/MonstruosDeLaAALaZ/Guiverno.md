@@ -14,7 +14,7 @@ related_en: "[[Monsters/Wyvern|Wyvern (EN)]]"
 
 **Velocidad:** 9 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    10 |  +0 |   +0 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Wyvern|Wyvern (EN)]]"
 **Aguijón.** Tirada de ataque cuerpo a cuerpo: +7, alcance 3 m. Acierto: 11 (2d6 + 4) de daño perforante más 24 (7d6) de daño de veneno y el objetivo tendrá el estado de envenenado hasta el principio del siguiente turno del guiverno.
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +7, alcance 1,5 m. Acierto: 13 (2d8 + 4) de daño perforante.
-

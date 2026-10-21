@@ -16,7 +16,7 @@ related_en: "[[Monsters/Centaur Trooper|Centaur Trooper (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +2 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Centaur Trooper|Centaur Trooper (EN)]]"
 ## Acciones adicionales
 
 **Carga pisoteadora (recarga 5–6).** El centauro se mueve hasta su velocidad sin provocar ataques de oportunidad y puede atravesar los espacios de criaturas Medianas o más pequeñas. Todas las criaturas en cuyo espacio entre el centauro se convertirán una vez en objetivos del siguiente efecto. *Tirada de salvación de Fuerza:* CD 14. Fallo: 7 (1d6 + 4) de daño contundente y el objetivo tiene el estado de derribado.
-

@@ -19,4 +19,3 @@ Este objeto parece una caja de madera que mide 30 cm de largo, 15 cm de ancho y 
 Cuando la caja se convierte en una embarcación, adopta el peso de una embarcación de su tamaño y cualquier cosa que contuviera la caja permanece en su interior.
 
 Los parámetros del bote de remos y de la barcaza se muestran en el capítulo “Equipo”. Si los puntos de golpe de cualquier embarcación se reducen a 0, el bote plegable queda destruido.
-

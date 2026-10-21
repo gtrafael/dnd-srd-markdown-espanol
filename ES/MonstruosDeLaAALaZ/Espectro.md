@@ -16,7 +16,7 @@ related_en: "[[Monsters/Specter|Specter (EN)]]"
 
 **Velocidad:** 9 m, volar 15 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     1 |  -5 |   -5 |
 | DES   |    14 |  +2 |   +2 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Specter|Specter (EN)]]"
 ## Acciones
 
 **Consumir vida.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 7 (2d6) de daño necrótico. Si el objetivo es una criatura, sus puntos de golpe máximos se reducen en una cantidad igual al daño sufrido.
-

@@ -13,7 +13,7 @@ Obtienes los siguientes beneficios:
 
 Competencia en iniciativa. Cuando tires iniciativa, puedes sumar tu bonificador por competencia a la tirada.
 
-Intercambio de iniciativa. Justo después de tirar iniciativa, puedes cambiar tu iniciativa con la de un aliado que esté dispuesto a hacerlo en el mismo combate.No puedes hacer este intercambio si el aliado o tú tenéis el estado de incapacitado.
+Intercambio de iniciativa. Justo después de tirar iniciativa, puedes cambiar tu iniciativa con la de un aliado que esté dispuesto a hacerlo en el mismo combate. No puedes hacer este intercambio si el aliado o tú tenéis el estado de incapacitado.
 
 ## Atacante salvaje
 
@@ -41,5 +41,4 @@ Conjuro de nivel 1. Elige un conjuro de nivel 1 de la misma lista que selecciona
 
 Cambiar conjuro. Cada vez que subas un nivel, puedes reemplazar uno de los conjuros que elijas con esta dote por un conjuro distinto del mismo nivel de la lista de conjuros seleccionada.
 
-Repetible. Puedes elegir esta dote más de una vez, pero debes elegir una lista de conjuros distinta cada vez. 
-
+Repetible. Puedes elegir esta dote más de una vez, pero debes elegir una lista de conjuros distinta cada vez.

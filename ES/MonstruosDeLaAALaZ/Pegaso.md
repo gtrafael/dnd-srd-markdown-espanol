@@ -16,7 +16,7 @@ related_en: "[[Monsters/Pegasus|Pegasus (EN)]]"
 
 **Velocidad:** 18 m, volar 27 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    15 |  +2 |   +4 |
@@ -36,4 +36,3 @@ related_en: "[[Monsters/Pegasus|Pegasus (EN)]]"
 ## Acciones
 
 **Cascos.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 7 (1d6 + 4) de daño contundente más 5 (2d4) de daño radiante.
-

@@ -26,5 +26,4 @@ Por último, cuando lances un conjuro con un alcance de toque, puedes hacer que 
 
 **Desaparición del familiar.** Si los puntos de golpe del familiar se reducen a 0, desaparecerá y reaparecerá después de que vuelvas a lanzar este conjuro. Como acción de magia, puedes hacer que el familiar se retire temporalmente a una dimensión de bolsillo. Como alternativa, puedes hacer que se desvanezca para siempre. Como acción de magia mientras esté desaparecido temporalmente, puedes hacer que reaparezca en un espacio sin ocupar a 9 m o menos de ti. Siempre que sus puntos de golpe se reduzcan a 0 o que el familiar se retire a la dimensión de bolsillo, dejará en el espacio que ocupaba cualquier cosa que vistiera o llevase.
 
-**Un solo familiar.** No puedes tener más de un familiar al mismo tiempo. Si lanzas este conjuro mientras tengas un familiar, harás que adopte una nueva forma que cumpla los requisitos. 
-
+**Un solo familiar.** No puedes tener más de un familiar al mismo tiempo. Si lanzas este conjuro mientras tengas un familiar, harás que adopte una nueva forma que cumpla los requisitos.

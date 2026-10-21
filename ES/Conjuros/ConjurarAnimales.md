@@ -24,5 +24,4 @@ Siempre que la manada se mueva a 3 m o menos de una criatura que puedas ver y si
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d10 por cada nivel por encima de 3 que tenga el espacio. 
-
+El daño aumenta en 1d10 por cada nivel por encima de 3 que tenga el espacio.

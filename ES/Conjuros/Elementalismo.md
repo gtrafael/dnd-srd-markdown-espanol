@@ -26,5 +26,4 @@ Controlas los elementos y creas uno de los siguientes efectos dentro del alcance
 
 **Invocar el fuego.** Creas una fina nube de ascuas inofensivas y un humo de color perfumado en un cubo de 1,5 m de lado. Tú eliges el color y el olor, y las ascuas pueden encender velas, antorchas o lámparas dentro de la zona. El aroma del humo permanece durante 1 minuto.
 
-**Invocar la tierra.** Creas una fina capa de polvo o arena que cubre superficies en una zona de 1,5 m de lado o haces que aparezca una sola palabra escrita con tu letra en una superficie de tierra o arena. 
-
+**Invocar la tierra.** Creas una fina capa de polvo o arena que cubre superficies en una zona de 1,5 m de lado o haces que aparezca una sola palabra escrita con tu letra en una superficie de tierra o arena.

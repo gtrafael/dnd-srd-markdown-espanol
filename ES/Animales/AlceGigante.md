@@ -14,7 +14,7 @@ related_en: "[[Animals/Giant Elk|Giant Elk (EN)]]"
 
 **Velocidad:** 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +6 |
 | DES   |    18 |  +4 |   +6 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Giant Elk|Giant Elk (EN)]]"
 ## Acciones
 
 **Embestir.** Tirada de ataque cuerpo a cuerpo: +6, alcance 3 m. Acierto: 11 (2d6 + 4) de daño contundente más 5 (2d4) de daño radiante. Si el objetivo es una criatura Enorme o más pequeña y el alce recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 5 (2d4) de daño contundente adicional y tendrá el estado de derribada.
-

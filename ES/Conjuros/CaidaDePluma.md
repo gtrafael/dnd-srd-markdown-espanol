@@ -16,5 +16,4 @@ related_en: "[[Spells/Feather Fall|Feather Fall (EN)]]"
 
 **Duración:** 1 minuto
 
-Elige hasta cinco criaturas dentro del alcance que estén cayendo. La velocidad de descenso de cada objetivo se reduce a 18 m por asalto hasta que el conjuro termine. Si una criatura aterriza antes de que el conjuro termine, no sufrirá daño de la caída y el conjuro terminará para esa criatura. 
-
+Elige hasta cinco criaturas dentro del alcance que estén cayendo. La velocidad de descenso de cada objetivo se reduce a 18 m por asalto hasta que el conjuro termine. Si una criatura aterriza antes de que el conjuro termine, no sufrirá daño de la caída y el conjuro terminará para esa criatura.

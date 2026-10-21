@@ -16,7 +16,7 @@ related_en: "[[Animals/Ape|Ape (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    14 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Ape|Ape (EN)]]"
 **Puñetazo.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 5 (1d4 + 3) de daño contundente.
 
 **Piedra (recarga 6).** Tirada de ataque a distancia: +5, alcance 7,5/15 m. Acierto: 10 (2d6 + 3) de daño contundente.
-

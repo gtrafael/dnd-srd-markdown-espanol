@@ -16,7 +16,7 @@ related_en: "[[Monsters/Half-Dragon|Half-Dragon (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +5 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Half-Dragon|Half-Dragon (EN)]]"
 ## Acciones adicionales
 
 **Salto.** El semidragón gasta 3 m de movimiento para saltar hasta 9 m.
-

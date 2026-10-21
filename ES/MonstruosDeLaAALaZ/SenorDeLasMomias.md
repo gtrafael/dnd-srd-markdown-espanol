@@ -14,7 +14,7 @@ related_en: "[[Monsters/Mummy Lord|Mummy Lord (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    10 |  +0 |   +0 |

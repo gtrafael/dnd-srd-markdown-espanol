@@ -16,7 +16,7 @@ related_en: "[[Monsters/Guard|Guard (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    12 |  +1 |   +1 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Guard|Guard (EN)]]"
 ## Acciones
 
 **Lanza.** Tirada de ataque cuerpo a cuerpo o a distancia: +3, alcance 1,5 m o 6/18 m a distancia. Acierto: 4 (1d6 + 1) de daño perforante.
-

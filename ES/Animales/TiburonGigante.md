@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Shark|Giant Shark (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    23 |  +6 |   +6 |
 | DES   |    11 |  +0 |   +0 |
@@ -42,4 +42,3 @@ related_en: "[[Animals/Giant Shark|Giant Shark (EN)]]"
 **Ataque múltiple.** El tiburón realiza dos ataques de mordisco.
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +9 (con ventaja si el objetivo no tiene todos sus puntos de golpe), alcance 1,5 m. Acierto: 22 (3d10 + 6) de daño perforante.
-

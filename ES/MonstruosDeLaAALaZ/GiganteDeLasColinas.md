@@ -14,7 +14,7 @@ related_en: "[[Monsters/Hill Giant|Hill Giant (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    21 |  +5 |   +5 |
 | DES   |     8 |  -1 |   -1 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Hill Giant|Hill Giant (EN)]]"
 **Árbol garrote.** Tirada de ataque cuerpo a cuerpo: +8, alcance 3 m. Acierto: 18 (3d8 + 5) de daño contundente. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
 
 **Lanzamiento de basura.** Tirada de ataque a distancia: +8, alcance 18/72 m. Acierto: 16 (2d10 + 5) de daño contundente y el objetivo tendrá el estado de envenenado hasta el final de su siguiente turno.
-

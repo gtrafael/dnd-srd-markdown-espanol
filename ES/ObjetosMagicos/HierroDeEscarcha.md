@@ -12,4 +12,3 @@ Cuando aciertes con una tirada de ataque usando esta arma mágica, el objetivo r
 En temperaturas bajo cero, el arma emite luz brillante en un radio de 3 m y luz tenue 3 m más allá.
 
 Cuando desenvainas esta arma, puedes extinguir todas las llamas no mágicas que haya a 9 m o menos de ti. Una vez utilizada, esta propiedad no puede volver a usarse en 1 hora.
-

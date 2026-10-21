@@ -70,7 +70,7 @@ Cada vez que subas un nivel de guerrero, puedes sustituir la dote que hayas eleg
 
 Tu entrenamiento con armas te permite utilizar las propiedades de maestría con tres tipos de armas sencillas o marciales de tu elección. Tras finalizar un descanso largo, puedes llevar a cabo ejercicios con armas y cambiar una de dichas elecciones.
 
-Cuando alcances ciertos niveles de guerrero, adquirirás la capacidad de usar las propiedades de maestría con más tipos de armas, como se muestra en la columna“Maestria con armas"de la tabla “Rasgos de guerrero”.
+Cuando alcances ciertos niveles de guerrero, adquirirás la capacidad de usar las propiedades de maestría con más tipos de armas, como se muestra en la columna“Maestría con armas"de la tabla “Rasgos de guerrero”.
 
 ### Nivel 1: Tomar aliento
 
@@ -166,5 +166,4 @@ Alcanzas la cumbre de la resistencia en batalla, lo que te otorga estos benefici
 
 Desafiar a la muerte. Tienes ventaja en las tiradas de salvación contra muerte. Asimismo, cuando saques de 18 a 20 en una tirada de salvación contra muerte, obtendrás el beneficio de sacar un 20 en ella.
 
-Mejoría heroica. Al principio de cada uno de tus turnos, recuperas una cantidad de puntos de golpe igual a 5 más tu modificador por Constitución si estás maltrecho y tienes al menos 1 punto de golpe. 
-
+Mejoría heroica. Al principio de cada uno de tus turnos, recuperas una cantidad de puntos de golpe igual a 5 más tu modificador por Constitución si estás maltrecho y tienes al menos 1 punto de golpe.

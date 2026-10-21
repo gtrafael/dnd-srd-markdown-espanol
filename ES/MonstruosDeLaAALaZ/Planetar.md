@@ -14,7 +14,7 @@ related_en: "[[Monsters/Planetar|Planetar (EN)]]"
 
 **Velocidad:** 12 m, volar 36 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    24 |  +7 |  +12 |
 | DES   |    20 |  +5 |   +5 |
@@ -62,4 +62,3 @@ related_en: "[[Monsters/Planetar|Planetar (EN)]]"
 ## Acciones adicionales
 
 **Auxilio divino (2/día).** El planetar lanza curar heridas, invisibilidad, levantar maldición o restablecimiento menor usando la misma aptitud mágica que para su lanzamiento de conjuros.
-

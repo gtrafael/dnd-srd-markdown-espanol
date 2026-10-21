@@ -16,7 +16,7 @@ related_en: "[[Monsters/Magma Mephit|Magma Mephit (EN)]]"
 
 **Velocidad:** 9 m, volar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     8 |  -1 |   -1 |
 | DES   |    12 |  +1 |   +1 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Magma Mephit|Magma Mephit (EN)]]"
 **Garra.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 3 (1d4 + 1) de daño cortante más 3 (1d6) de daño de fuego.
 
 **Aliento de fuego (recarga 6).** *Tirada de salvación de Destreza:* CD 11, todas las criaturas en un cono de 4,5 m. Fallo: 7 (2d6) de daño de fuego. Éxito: la mitad del daño.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Cloaker|Cloaker (EN)]]"
 
 **Velocidad:** 3 m, volar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    15 |  +2 |   +2 |
@@ -54,4 +54,3 @@ El manto puede usar 1,5 m de movimiento para soltarse. El objetivo o una criatur
 **Fantasmas (se recarga tras un descanso corto o largo).** El manto lanza el conjuro imagen múltiple, que no requiere componentes y utiliza la Sabiduría como aptitud mágica. El conjuro termina antes de tiempo si el manto comienza o termina su turno en una zona de luz brillante.
 
 **Gemido.** *Tirada de salvación de Sabiduría:* CD 13, todas las criaturas en una emanación de 18 m que se origina en el manto. Fallo: el objetivo tendrá el estado de asustado hasta el final del siguiente turno del manto. Éxito: el objetivo será inmune al gemido de este manto durante las siguientes 24 horas.
-

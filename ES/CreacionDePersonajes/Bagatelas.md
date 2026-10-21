@@ -111,5 +111,4 @@ Bagatelas
 |    97 | Un diminuto cangrejo o araña mecánico que se mueve cuando nadie lo mira                                                                 |
 |    98 | Un tarro de cristal lleno de manteca cuya etiqueta reza: “Grasa de grifo”                                                               |
 |    99 | Una caja de madera con base de cerámica y que contiene un gusano vivo con una cabeza en cada extremo de su cuerpo                       |
-|    00 | Una urna de metal que contiene las cenizas de un héroe                                                                                  | 
-
+|    00 | Una urna de metal que contiene las cenizas de un héroe                                                                                  |

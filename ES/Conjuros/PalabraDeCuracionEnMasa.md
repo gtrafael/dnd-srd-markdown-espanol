@@ -20,5 +20,4 @@ Hasta seis criaturas de tu elección que puedas ver dentro del alcance recuperan
 
 **Con un espacio de conjuro de nivel superior.**
 
-La curación aumenta en 1d4 por cada nivel por encima de 3 que tenga el espacio. 
-
+La curación aumenta en 1d4 por cada nivel por encima de 3 que tenga el espacio.

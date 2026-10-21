@@ -16,7 +16,7 @@ related_en: "[[Monsters/Steam Mephit|Steam Mephit (EN)]]"
 
 **Velocidad:** 9 m, volar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     5 |  -3 |   -3 |
 | DES   |    11 |  +0 |   +0 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Steam Mephit|Steam Mephit (EN)]]"
 **Garra.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 2 (1d4) de daño cortante más 2 (1d4) de daño de fuego.
 
 **Aliento de vapor (recarga 6).** *Tirada de salvación de Constitución:* CD 10, todas las criaturas en un cono de 4,5 m. Fallo: 5 (2d4) de daño de fuego y la velocidad del objetivo se reducirá en 3 m hasta el final del siguiente turno del mephit. Éxito: solo la mitad del daño. Fallo o éxito: estar bajo el agua no otorga resistencia a este daño de fuego.
-

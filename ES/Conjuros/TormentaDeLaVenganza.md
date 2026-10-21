@@ -24,7 +24,6 @@ Al principio de cada uno de tus siguientes turnos, la tormenta produce efectos d
 
 **Turno 3.** Invocas seis relámpagos que surgen de la nube para golpear a seis criaturas u objetos distintos bajo ella. Cada objetivo hace una tirada de salvación de Destreza; sufrirá 10d6 de daño de relámpago si la falla o la mitad del daño si la supera.
 
-**Turno 4.** Caen bolas de granizo. Todas las criaturas que estén debajo dela nube sufrirán 2d6 de daño contundente.
+**Turno 4.** Caen bolas de granizo. Todas las criaturas que estén debajo de la nube sufrirán 2d6 de daño contundente.
 
-**Turnos 5 a 10.** La zona bajo la nube se ve asolada por vendavales y aguanieve. Todas las criaturas que estén allí sufren 1d6 de daño de frío. Hasta que el conjuro termine, la zona es terreno difícil y está muy oscura. Además, es imposible hacer ataques con armas a distancia, ya que un fuerte viento sopla en toda la zona. 
-
+**Turnos 5 a 10.** La zona bajo la nube se ve asolada por vendavales y aguanieve. Todas las criaturas que estén allí sufren 1d6 de daño de frío. Hasta que el conjuro termine, la zona es terreno difícil y está muy oscura. Además, es imposible hacer ataques con armas a distancia, ya que un fuerte viento sopla en toda la zona.

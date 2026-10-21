@@ -16,5 +16,4 @@ related_en: "[[Spells/Locate Animals or Plants|Locate Animals or Plants (EN)]]"
 
 **Duración:** Instantáneo
 
-Describe o nombra un tipo concreto de bestia, criatura de tipo “planta” o planta no mágica. Descubres la dirección y la distancia hasta la criatura o la planta de ese tipo más cercana que esté a 7,5 km o menos, siempre y cuando haya alguna. 
-
+Describe o nombra un tipo concreto de bestia, criatura de tipo “planta” o planta no mágica. Descubres la dirección y la distancia hasta la criatura o la planta de ese tipo más cercana que esté a 7,5 km o menos, siempre y cuando haya alguna.

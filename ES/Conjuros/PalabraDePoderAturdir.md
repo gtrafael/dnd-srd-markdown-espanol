@@ -20,5 +20,4 @@ Abrumas la mente de una criatura que puedas ver dentro del alcance. Si el objeti
 
 De lo contrario, su velocidad será 0 hasta el principio de tu siguiente turno.
 
-El objetivo aturdido hace una tirada de salvación de Constitución al final de cada uno de sus turnos y, si tiene éxito, se librará del estado. 
-
+El objetivo aturdido hace una tirada de salvación de Constitución al final de cada uno de sus turnos y, si tiene éxito, se librará del estado.

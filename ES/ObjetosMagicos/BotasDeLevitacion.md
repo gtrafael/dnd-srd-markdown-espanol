@@ -9,4 +9,3 @@ related_en: "[[Treasure/Boots of Levitation|Boots of Levitation (EN)]]"
 *Objeto maravilloso, raro (requiere sintonización)*
 
 Mientras calces estas botas, puedes lanzar levitar sobre ti.
-

@@ -9,4 +9,3 @@ related_en: "[[Treasure/Gloves of Thievery|Gloves of Thievery (EN)]]"
 *Objeto maravilloso, infrecuente*
 
 Estos guantes son imperceptibles mientras los lleves puestos. Si los vistes, ganas un bonificador de +5 a las pruebas de Destreza (Juego de manos).
-

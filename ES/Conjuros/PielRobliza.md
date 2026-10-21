@@ -16,5 +16,4 @@ related_en: "[[Spells/Barkskin|Barkskin (EN)]]"
 
 **Duración:** 1 hora
 
-Tocas a una criatura voluntaria. Hasta que el conjuro termine, la piel del objetivo adopta una apariencia de corteza y su clase de armadura no podrá ser inferior a 17. 
-
+Tocas a una criatura voluntaria. Hasta que el conjuro termine, la piel del objetivo adopta una apariencia de corteza y su clase de armadura no podrá ser inferior a 17.

@@ -27,5 +27,4 @@ Mientras lleves puesta una armadura ligera, media o pesada, recibes un bonificad
 
 Dote de estilo de combate (requisitos: rasgo Estilo de combate)
 
-Recibes un bonificador de +2 a las tiradas de ataque con armasa distancia. 
-
+Recibes un bonificador de +2 a las tiradas de ataque con armas a distancia.

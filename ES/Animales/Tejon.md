@@ -16,7 +16,7 @@ related_en: "[[Animals/Badger|Badger (EN)]]"
 
 **Velocidad:** 6 m, excavar 1,5 m.
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    11 |  +0 |   +0 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Badger|Badger (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 1 de daño perforante.
-

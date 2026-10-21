@@ -17,4 +17,3 @@ Conjuros. El bastón tiene 10 cargas. Mientras lo empuñes, puedes lanzar un con
 | Manos ardientes |               1 |               |                 |
 
 **Recuperar cargas.** El bastón recupera 1d6 + 4 cargas empleadas cada día, al amanecer. Si gastas la última carga, tira 1d20. Si el resultado es 1, el bastón se convierte en cenizas y se destruye.
-

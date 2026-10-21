@@ -23,7 +23,7 @@ Si el conjuro inscrito es un truco, la versión del pergamino funciona como si e
 
 Costes de pergaminos de conjuro
 
-| Nivel delconjuro | Tiempo   | Coste     |
+| Nivel del conjuro | Tiempo   | Coste     |
 |------------------|----------|-----------|
 | Truco            | 1 día    | 15 po     |
 | 1                | 1 día    | 25 po     |
@@ -35,4 +35,3 @@ Costes de pergaminos de conjuro
 | 7                | 50 días  | 12 500 po |
 | 8                | 60 días  | 15 000 po |
 | 9                | 120 días | 50 000 po |
-

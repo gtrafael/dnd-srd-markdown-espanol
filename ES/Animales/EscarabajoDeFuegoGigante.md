@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Fire Beetle|Giant Fire Beetle (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     8 |  -1 |   -1 |
 | DES   |    10 |  +0 |   +0 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Giant Fire Beetle|Giant Fire Beetle (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +1, alcance 1,5 m. Acierto: 1 de daño de fuego.
-

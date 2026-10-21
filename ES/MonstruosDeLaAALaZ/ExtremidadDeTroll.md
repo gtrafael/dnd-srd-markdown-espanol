@@ -16,7 +16,7 @@ related_en: "[[Monsters/Troll Limb|Troll Limb (EN)]]"
 
 **Velocidad:** 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    12 |  +1 |   +1 |
@@ -40,4 +40,3 @@ related_en: "[[Monsters/Troll Limb|Troll Limb (EN)]]"
 ## Acciones
 
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 9 (2d4 + 4) de daño cortante.
-

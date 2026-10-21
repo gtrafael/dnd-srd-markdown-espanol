@@ -20,5 +20,4 @@ Una energía negativa se propaga en un radio de 18 m desde un punto que elijas d
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 2d8 por cada nivel por encima de 6 que tenga el espacio. 
-
+El daño aumenta en 2d8 por cada nivel por encima de 6 que tenga el espacio.

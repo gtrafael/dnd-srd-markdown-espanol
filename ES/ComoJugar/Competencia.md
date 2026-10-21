@@ -75,5 +75,4 @@ Un personaje adquiere competencia con diversas armas y herramientas debido a su 
 
 Armas. Todo el mundo puede blandir un arma, pero lo haces mejor si eres competente con ella. Si tienes competencia con un arma, sumarás tu bonificador por competencia a las tiradas de ataque que hagas con ella.
 
-Herramientas. Si eres competente con una herramienta, podrás sumar tu bonificador por competencia a cualquier prueba de característica que hagas que emplee esa herramienta. Además, si eres competente en la habilidad que se utiliza en esa prueba, también tendrás ventaja al hacerla. Eso significa que puedes beneficiarte tanto de la competencia en la habilidad como de la competencia con la herramienta en la misma prueba de característica. 
-
+Herramientas. Si eres competente con una herramienta, podrás sumar tu bonificador por competencia a cualquier prueba de característica que hagas que emplee esa herramienta. Además, si eres competente en la habilidad que se utiliza en esa prueba, también tendrás ventaja al hacerla. Eso significa que puedes beneficiarte tanto de la competencia en la habilidad como de la competencia con la herramienta en la misma prueba de característica.

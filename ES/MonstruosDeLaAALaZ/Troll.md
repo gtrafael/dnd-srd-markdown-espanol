@@ -16,7 +16,7 @@ related_en: "[[Monsters/Troll|Troll (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    13 |  +1 |   +1 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Troll|Troll (EN)]]"
 ## Acciones adicionales
 
 **Carga.** El troll se mueve hasta la mitad de su velocidad en línea recta hacia un enemigo que pueda ver.
-

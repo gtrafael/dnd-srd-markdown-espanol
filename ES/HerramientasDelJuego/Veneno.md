@@ -24,9 +24,7 @@ Las leyes de algunos escenarios prohíben la posesión y el uso de venenos, aunq
 
 ## Recoger veneno
 
-Un personaje puede intentar recoger veneno de una criatura venenosa muerta o con el estado de incapacitada. Esta tarea le llevará 1d6 minutos de trabajo y deberá emplear útiles de envenenador y hacer una prueba de Inteligencia (Naturaleza) con CD 20. Si la supera, el personaje recogerá suficiente veneno para una dosis y no se podrá extraer más veneno de esa criatura. Si la falla, el personaje será incapaz
-
-de extraer veneno alguno, y si la falla por 5 o más, se verá afectado por el veneno de la criatura.
+Un personaje puede intentar recoger veneno de una criatura venenosa muerta o con el estado de incapacitada. Esta tarea le llevará 1d6 minutos de trabajo y deberá emplear útiles de envenenador y hacer una prueba de Inteligencia (Naturaleza) con CD 20. Si la supera, el personaje recogerá suficiente veneno para una dosis y no se podrá extraer más veneno de esa criatura. Si la falla, el personaje será incapaz de extraer veneno alguno, y si la falla por 5 o más, se verá afectado por el veneno de la criatura.
 
 ## Venenos de ejemplo
 
@@ -119,4 +117,3 @@ Una criatura que se exponga a este veneno hace una tirada de salvación de Const
 Veneno por herida
 
 Una criatura que se exponga a este veneno hace una tirada de salvación de Constitución con CD 21; sufrirá 35 (10d6) de daño de veneno si la falla o la mitad del daño si la supera.
-

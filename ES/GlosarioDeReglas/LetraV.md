@@ -53,7 +53,7 @@ Oscuridad. Puedes ver en la oscuridad normal y mágica.
 
 Invisibilidad. Puedes ver criaturas y objetos que tengan el estado de invisibles.
 
-Ilusiones visuales. Las ilusiones visuales te parecen transparentes y superas automáticamente las tiradas de salvacion contra ellas.
+Ilusiones visuales. Las ilusiones visuales te parecen transparentes y superas automáticamente las tiradas de salvación contra ellas.
 
 Transformaciones. Distingues la forma verdadera de cualquier criatura u objeto que veas y que esté transformado por un efecto mágico.
 
@@ -66,5 +66,3 @@ Diversos efectos permiten que las criaturas vuelen. Cuando vueles, te caerás si
 # Vulnerabilidad
 
 Si tienes vulnerabilidad a un tipo de daño, el daño de ese tipo se duplica contra ti. La vulnerabilidad se aplica solo una vez a un efecto de daño. Consulta también el capítulo “Cómo jugar” (“Daño y curación”).
-
-

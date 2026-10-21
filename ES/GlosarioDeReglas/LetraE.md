@@ -65,7 +65,7 @@ El punto de origen de una esfera está incluido en su área de efecto.
 
 # Espacio ocupado
 
-Un espacio se considera ocupado si una criatura se encuentra en élo si estä completamente lleno de objetos.
+Un espacio se considera ocupado si una criatura se encuentra en él o si está completamente lleno de objetos.
 
 # Espacio sin ocupar
 
@@ -109,5 +109,3 @@ La tabla “Áreas de conocimiento” sugiere qué habilidades se pueden aplicar
 | Investigación       | Trampas, códigos, enigmas y artilugios                                                                                                                                                    |
 | Naturaleza          | Terreno, flora, clima y determinadas criaturas (bestias, cienos, dragones y plantas)                                                                                                      |
 | Religión            | Deidades, jerarquías religiosas y ritos, símbolos sagrados, sectas y determinadas criaturas (celestiales, infernales y muertos vivientes)                                                 |
-
-

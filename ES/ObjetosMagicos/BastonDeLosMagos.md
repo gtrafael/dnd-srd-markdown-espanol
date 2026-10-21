@@ -21,7 +21,7 @@ Este bastón tiene 50 cargas y se puede usar a modo de bastón mágico que otorg
 | Cerradura arcana                   |               0 |
 | Conjurar elemental                 |               7 |
 | Desplazamiento entre planos        |               7 |
-| Detector magia                     |               0 |
+| Detectar magia                     |               0 |
 | Disipar magia                      |               3 |
 | Esfera de llamas                   |               2 |
 | Invisibilidad                      |               2 |
@@ -35,7 +35,6 @@ Este bastón tiene 50 cargas y se puede usar a modo de bastón mágico que otorg
 | Telequinesis                       |               5 |
 | Tormenta de hielo                  |               4 |
 
-**Golpe vengador.** Puedes emplear una acción de magia para romper el bastón de un rodillazo o contra una superficie sólida. El bastón se destruye y libera su magia en una explosión que llena una emanación de 9 m que se origina en él. Tienes un 50 % de probabilidad de viajar en ese instante a un plano de existencia aleatorio y evitar la explosión. Si no logras evitar el efecto, sufrirás una cantidad de daño de fuerza igual a 16 veces la cantidad de cargas del bastón.Todas las demas criaturas situadas en la zona harán una tirada de salvación de Destreza con CD 17. Si la fallan, sufrirán un daño de fuerza igual a 6 veces la cantidad de cargas del bastón. Si la superan, sufrirán la mitad de ese daño.
+**Golpe vengador.** Puedes emplear una acción de magia para romper el bastón de un rodillazo o contra una superficie sólida. El bastón se destruye y libera su magia en una explosión que llena una emanación de 9 m que se origina en él. Tienes un 50 % de probabilidad de viajar en ese instante a un plano de existencia aleatorio y evitar la explosión. Si no logras evitar el efecto, sufrirás una cantidad de daño de fuerza igual a 16 veces la cantidad de cargas del bastón. Todas las demás criaturas situadas en la zona harán una tirada de salvación de Destreza con CD 17. Si la fallan, sufrirán un daño de fuerza igual a 6 veces la cantidad de cargas del bastón. Si la superan, sufrirán la mitad de ese daño.
 
 **Recuperar cargas.** El bastón recupera 4d6 + 2 cargas empleadas cada día, al amanecer. Si gastas la última carga, tira 1d20. Si el resultado es 20, el bastón recupera 1d12 + 1 cargas.
-

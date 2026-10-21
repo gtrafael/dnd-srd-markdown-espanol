@@ -16,5 +16,4 @@ related_en: "[[Spells/Power Word Kill|Power Word Kill (EN)]]"
 
 **Duración:** Instantáneo
 
-Obligas a morir a una criatura que puedas ver dentro del alcance. Si el objetivo tiene 100 puntos de golpe o menos, morirá. De lo contrario, sufrirá 12d12 de daño psíquico. 
-
+Obligas a morir a una criatura que puedas ver dentro del alcance. Si el objetivo tiene 100 puntos de golpe o menos, morirá. De lo contrario, sufrirá 12d12 de daño psíquico.

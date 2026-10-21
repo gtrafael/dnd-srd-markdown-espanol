@@ -21,4 +21,3 @@ Además, puedes concentrar tus sentidos como acción de magia y discernir la dis
 | Bronce | Relámpago   | Plata  | Frío        |
 | Cobre  | Ácido       | Rojo   | Fuego       |
 | Negro  | Ácido       | Verde  | Veneno      |
-

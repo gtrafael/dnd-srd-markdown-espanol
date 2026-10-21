@@ -28,5 +28,4 @@ Mientras posees un cuerpo, puedes usar una acción de magia para volver del cuer
 
 Si el recipiente es destruido o el conjuro termina, tu alma volverá a tu cuerpo. Si tu cuerpo está a más de 30 m de ti o está muerto, morirás. Si el alma de otra criatura está en el recipiente cuando es destruido, esa alma volverá a su cuerpo, siempre y cuando esté vivo y a 30 m o menos de ella. De lo contrario, esa criatura morirá.
 
-Cuando el conjuro termine, el recipiente se destruirá. 
-
+Cuando el conjuro termine, el recipiente se destruirá.

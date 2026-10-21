@@ -16,5 +16,4 @@ related_en: "[[Spells/Expeditious Retreat|Expeditious Retreat (EN)]]"
 
 **Duración:** Concentración, hasta 10 minutos
 
-Realizas la acción de correr y, hasta que el conjuro termine,puedes volver a hacerla como acción adicional. 
-
+Realizas la acción de correr y, hasta que el conjuro termine, puedes volver a hacerla como acción adicional.

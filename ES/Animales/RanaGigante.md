@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Frog|Giant Frog (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    12 |  +1 |   +1 |
 | DES   |    13 |  +1 |   +1 |
@@ -46,4 +46,3 @@ related_en: "[[Animals/Giant Frog|Giant Frog (EN)]]"
 **Engullir.** La rana engulle a un objetivo Pequeño o de menor tamaño al que esté agarrando. Mientras esté engullido, el objetivo no estará agarrado, sino que tendrá los estados de apresado y cegado, y tendrá cobertura completa contra los ataques y otros efectos fuera de la rana. Mientras esté engullendo al objetivo, la rana no podrá usar su mordisco y, si muere, el objetivo engullido dejará de estar apresado y podrá gastar 1,5 m de movimiento para escapar del cadáver, del que saldrá con el estado de derribado.
 
 Al final del siguiente turno de la rana, el objetivo engullido recibirá 5 (2d4) de daño de ácido. Si ese daño no lo mata, la rana lo regurgitará y el objetivo saldrá de ella con el estado de derribado.
-

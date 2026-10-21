@@ -21,4 +21,3 @@ Mientras lleves puesto este anillo, tendrás resistencia a un tipo de daño. La 
 |    8 | Relámpago    | Citrino         |
 |    9 | Trueno       | Espinela        |
 |   10 | Veneno       | Amatista        |
-

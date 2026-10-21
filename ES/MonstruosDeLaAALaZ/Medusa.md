@@ -16,7 +16,7 @@ related_en: "[[Monsters/Medusa|Medusa (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    17 |  +3 |   +3 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Medusa|Medusa (EN)]]"
 ## Acciones adicionales
 
 **Mirada petrificadora (recarga 5–6).** *Tirada de salvación de Constitución:* CD 13, todas las criaturas en un cono de 9 m. Si la medusa ve su reflejo en alguna parte del cono, deberá hacer esta tirada. Primer fallo: el objetivo tendrá el estado de apresado. Si al final de su siguiente turno sigue apresado, repetirá la tirada de salvación y se librará del efecto si la supera. Segundo fallo: el objetivo tendrá el estado de petrificado en vez del de apresado.
-

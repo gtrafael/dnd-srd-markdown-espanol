@@ -16,7 +16,7 @@ related_en: "[[Spells/Earthquake|Earthquake (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-Elige un punto del suelo que puedas ver dentro del alcance. Hasta que el conjuro termine, una intensa sacudida afecta al suelo en un círculo de 30 m de radio centrado en ese punto. El suelo de la zona se considera terreno dificil.
+Elige un punto del suelo que puedas ver dentro del alcance. Hasta que el conjuro termine, una intensa sacudida afecta al suelo en un círculo de 30 m de radio centrado en ese punto. El suelo de la zona se considera terreno difícil.
 
 Cuando lances este conjuro y al final de cada uno de tus turnos hasta que termine, todas las criaturas que haya en el suelo en la zona deberán hacer una tirada de salvación de Destreza. Si la fallan, tendrán el estado de derribadas y perderán la concentración.
 
@@ -26,5 +26,4 @@ Además, podrás provocar los siguientes efectos.
 
 **Estructuras.** El temblor causa 50 de daño contundente a cualquier estructura que esté en contacto con el suelo de la zona cuando lances el conjuro y al final de cada uno de tus turnos hasta que el conjuro termine. Si los puntos de golpe de una estructura se reducen a 0, se derrumbará.
 
-Una criatura que se encuentre a una distancia de una estructura que se derrumba igual a la mitad de su altura hace una tirada de salvación de Destreza. Si la falla,sufrirä12d6 de dano contundente, tendrä el estado de derribada y quedará enterrada entre los escombros. Para escapar, como acción tendrá que superar una prueba de Fuerza (Atletismo) con CD 20. Si la supera, solo sufrirá la mitad de ese daño. 
-
+Una criatura que se encuentre a una distancia de una estructura que se derrumba igual a la mitad de su altura hace una tirada de salvación de Destreza. Si la falla, sufrirá 12d6 de daño contundente, tendrá el estado de derribada y quedará enterrada entre los escombros. Para escapar, como acción tendrá que superar una prueba de Fuerza (Atletismo) con CD 20. Si la supera, solo sufrirá la mitad de ese daño.

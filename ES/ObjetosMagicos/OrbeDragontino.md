@@ -19,7 +19,7 @@ Mientras estés hechizado por el orbe, no podrás acabar voluntariamente la sint
 | Conjuro                            | Coste en cargas |
 |------------------------------------|----------------:|
 | Curar heridas (versión de nivel 9) |               4 |
-| Detector magia                     |               0 |
+| Detectar magia                     |               0 |
 | Escudriñar (CD de salvación 18)    |               3 |
 | Guarda contra la muerte            |               2 |
 | Luz del día                        |               1 |
@@ -27,4 +27,3 @@ Mientras estés hechizado por el orbe, no podrás acabar voluntariamente la sint
 Llamar a los dragones. Mientras controles el orbe, podrás utilizar una acción de magia para que el orbe emita una llamada telepática que se extienda en todas direcciones en un radio de 60 km. Los dragones cromáticos que haya dentro del alcance se verán obligados a acudir hasta el orbe lo antes posible por el camino más directo. Las deidades dragón, como Tiamat, no se ven afectadas por esta llamada. Los dragones cromáticos atraídos por el orbe podrían ser hostiles hacia ti por haber forzado sus acciones en contra de su voluntad. Una vez utilizada esta propiedad, no puede volver a usarse durante 1 hora.
 
 **Destruir un orbe.** Un Orbe Dragontino tiene una CA de 20 y se destruye si recibe daño de un arma +3 o un conjuro desintegrar. Ninguna otra cosa puede dañarlo.
-

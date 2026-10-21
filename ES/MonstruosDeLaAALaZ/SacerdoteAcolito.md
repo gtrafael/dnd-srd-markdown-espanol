@@ -16,7 +16,7 @@ related_en: "[[Monsters/Priest Acolyte|Priest Acolyte (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    10 |  +0 |   +0 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Priest Acolyte|Priest Acolyte (EN)]]"
 ## Acciones adicionales
 
 **Auxilio divino (1/día).** El sacerdote lanza bendición, palabra de curación o santuario usando la misma aptitud mágica que para su lanzamiento de conjuros.
-

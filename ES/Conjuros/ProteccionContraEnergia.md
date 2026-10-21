@@ -16,5 +16,4 @@ related_en: "[[Spells/Protection from Energy|Protection from Energy (EN)]]"
 
 **Duración:** Concentración, hasta 1 hora
 
-Hasta que termine el conjuro, una criatura voluntaria a la que toques tendrá resistencia a un tipo de daño de tu elección: ácido, frío, fuego, relámpago o trueno. 
-
+Hasta que termine el conjuro, una criatura voluntaria a la que toques tendrá resistencia a un tipo de daño de tu elección: ácido, frío, fuego, relámpago o trueno.

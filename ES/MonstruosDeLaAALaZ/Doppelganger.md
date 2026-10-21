@@ -16,7 +16,7 @@ related_en: "[[Monsters/Doppelganger|Doppelganger (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    18 |  +4 |   +4 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Doppelganger|Doppelganger (EN)]]"
 ## Acciones adicionales
 
 **Cambio de forma.** El doppelganger adopta la forma de un humanoide Mediano o Pequeño, o recupera su verdadera forma. Su perfil, salvo por el tamaño, es el mismo en todas las formas. Cualquier equipo que vista o lleve no se transformará.
-

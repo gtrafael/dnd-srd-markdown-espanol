@@ -24,7 +24,7 @@ La túnica tiene dos de cada uno de los siguientes parches:
 
 • Vara
 
-Además, la túnica tiene otros 4d4 parches. Tu GM los elige o los determinaal azar tirando en la tabla a continuación.
+Además, la túnica tiene otros 4d4 parches. Tu GM los elige o los determina al azar tirando en la tabla a continuación.
 
 **1d100 Parche**
 
@@ -42,4 +42,3 @@ Además, la túnica tiene otros 4d4 parches. Tu GM los elige o los determinaal a
 | 84–90 | 2 mastines                                                                                                                                                                                                               |
 | 91–96 | Ventana (60 cm por 1,2 m, con una profundidad de hasta 60 cm), que puedes colocar en una superficie vertical que esté a tu alcance                                                                                       |
 | 97–00 | Ariete portátil                                                                                                                                                                                                          |
-

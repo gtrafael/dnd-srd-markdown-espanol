@@ -24,5 +24,4 @@ Si una criatura toca la cuenta brillante antes de que el conjuro termine, esa cr
 
 Cuando estalle, todos los objetos inflamables dentro de la explosión que no lleve o vista nadie empezarán a arder.
 
-**Con un espacio de conjuro de nivel superior.** El daño base aumenta en 1d6 por cada nivel por encima de 7 que tenga el espacio. 
-
+**Con un espacio de conjuro de nivel superior.** El daño base aumenta en 1d6 por cada nivel por encima de 7 que tenga el espacio.

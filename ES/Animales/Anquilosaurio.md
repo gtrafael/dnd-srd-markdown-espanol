@@ -14,7 +14,7 @@ related_en: "[[Animals/Ankylosaurus|Ankylosaurus (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +6 |
 | DES   |    11 |  +0 |   +0 |
@@ -34,4 +34,3 @@ related_en: "[[Animals/Ankylosaurus|Ankylosaurus (EN)]]"
 **Ataque múltiple.** El anquilosaurio realiza dos ataques con su cola.
 
 **Cola.** Tirada de ataque cuerpo a cuerpo: +6, alcance 3 m. Acierto: 9 (1d10 + 4) de daño contundente. Si el objetivo es una criatura Enorme o más pequeña, tendrá el estado de derribada.
-

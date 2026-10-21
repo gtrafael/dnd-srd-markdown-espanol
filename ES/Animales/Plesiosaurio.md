@@ -16,7 +16,7 @@ related_en: "[[Animals/Plesiosaurus|Plesiosaurus (EN)]]"
 
 **Velocidad:** 6 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    15 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Plesiosaurus|Plesiosaurus (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +6, alcance 3 m. Acierto: 11 (2d6 + 4) de daño perforante.
-

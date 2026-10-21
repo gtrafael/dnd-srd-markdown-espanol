@@ -20,5 +20,4 @@ Creas una esquirla de hielo y se la lanzas a una criatura dentro del alcance. Ha
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño de frío aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio. 
-
+El daño de frío aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio.

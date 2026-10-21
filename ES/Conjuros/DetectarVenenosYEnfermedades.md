@@ -18,5 +18,4 @@ related_en: "[[Spells/Detect Poison and Disease|Detect Poison and Disease (EN)]]
 
 Hasta que el conjuro termine, percibes la ubicación de venenos, criaturas venenosas y enfermedades mágicas a 9 m o menos de ti, e identificas el tipo de veneno, criatura o enfermedad en cada caso.
 
-El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo. 
-
+El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo.

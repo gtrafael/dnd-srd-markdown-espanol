@@ -22,5 +22,4 @@ Al final de cada uno de sus turnos y cada vez que reciba daño, realizará otra 
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio. 
-
+Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio.

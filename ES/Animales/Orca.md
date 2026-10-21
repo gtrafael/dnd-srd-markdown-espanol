@@ -16,7 +16,7 @@ related_en: "[[Animals/Killer Whale|Killer Whale (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Killer Whale|Killer Whale (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 21 (5d6 + 4) de daño perforante.
-

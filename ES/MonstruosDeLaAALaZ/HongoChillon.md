@@ -16,7 +16,7 @@ related_en: "[[Monsters/Shrieker Fungus|Shrieker Fungus (EN)]]"
 
 **Velocidad:** 1,5 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     1 |  -5 |   -5 |
 | DES   |     1 |  -5 |   -5 |
@@ -36,4 +36,3 @@ related_en: "[[Monsters/Shrieker Fungus|Shrieker Fungus (EN)]]"
 ## Reacciones
 
 **Chillar.** Detonante: una criatura o una fuente de luz brillante se acerca a 9 m o menos del chillón. Respuesta: el chillón emite un grito audible a 90 m de él durante 1 minuto o hasta que muera.
-

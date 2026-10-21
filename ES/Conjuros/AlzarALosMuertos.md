@@ -24,5 +24,4 @@ La criatura vuelve a la vida con 1 punto de golpe. El conjuro también neutraliz
 
 Este conjuro cierra todas las heridas mortales, pero no devuelve las partes del cuerpo que faltan. Si a la criatura le faltan partes del cuerpo u órganos fundamentales para que sobreviva (por ejemplo, la cabeza), el conjuro falla automáticamente.
 
-Regresar de entre los muertos es una experiencia complicada. El objetivo tendrá un penalizador de −4 a las pruebas con d20. Cada vez que finalice un descanso largo, el penalizador se reduce en 1 hasta desaparecer. 
-
+Regresar de entre los muertos es una experiencia complicada. El objetivo tendrá un penalizador de −4 a las pruebas con d20. Cada vez que finalice un descanso largo, el penalizador se reduce en 1 hasta desaparecer.

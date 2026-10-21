@@ -16,7 +16,7 @@ related_en: "[[Monsters/Chain Devil|Chain Devil (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    15 |  +2 |   +2 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Chain Devil|Chain Devil (EN)]]"
 ## Reacciones
 
 **Mirada inquietante.** Detonante: una criatura que el diablo pueda ver comienza su turno a 9 m o menos del diablo y puede ver a este. Respuesta; *Tirada de salvación de Sabiduría:* CD 15, la criatura detonante. Fallo: el objetivo tendrá el estado de asustado hasta el final de su turno. Éxito: el objetivo será inmune a la mirada inquietante de este diablo durante 24 horas.
-

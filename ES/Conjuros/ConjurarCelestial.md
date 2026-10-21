@@ -28,5 +28,4 @@ Siempre que el cilindro entre en el espacio de una criatura que puedas ver y sie
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño y la curación aumentan en 1d12 por cada nivel por encima de 7 que tenga el espacio. 
-
+El daño y la curación aumentan en 1d12 por cada nivel por encima de 7 que tenga el espacio.

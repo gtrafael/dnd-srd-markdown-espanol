@@ -1,7 +1,7 @@
 ---
-aliases: ["Paladin"]
+aliases: ["Paladín"]
 tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Paladin|Paladin (EN)]]"
+related_en: "[[Classes/Paladín|Paladín (EN)]]"
 ---
 
 # Paladín
@@ -118,7 +118,7 @@ Puedes canalizar energía divina directamente de los Planos Exteriores para alim
 
 Puedes usar el rasgo Canalizar divinidad dos veces. Recuperas uno de los usos gastados tras finalizar un descanso corto y todos tras finalizar un descanso largo. Obtienes un uso adicional cuando alcances el nivel 11 de paladín.
 
-Si un efecto de Canalizar divinidad requiere una tirada de salvacion,la CD serä igual a la CD de salvación de conjuros del rasgo Lanzamiento de conjuros de esta clase.
+Si un efecto de Canalizar divinidad requiere una tirada de salvación, la CD será igual a la CD de salvación de conjuros del rasgo Lanzamiento de conjuros de esta clase.
 
 Sentidos divinos. Como acción adicional, puedes expandir tu percepción para detectar celestiales, infernales y muertos vivientes. Durante los siguientes 10 minutos o hasta que tengas el estado de incapacitado, conoces la ubicación de cualquier criatura de esos tipos que se encuentre a 18 m o menos de ti y su tipo de criatura. En el mismo radio, también detectarás la presencia de cualquier lugar u objeto que haya sido consagrado o profanado, como con el conjuro consagrar.
 
@@ -142,7 +142,7 @@ También puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la
 
 ### Nivel 6: Aura de protección
 
-Irradias un aura protectora e invisible en una emanacion de 3 m que se origina de ti.El aura estara inactiva mientras tengas el estado de incapacitado.
+Irradias un aura protectora e invisible en una emanación de 3 m que se origina de ti. El aura estará inactiva mientras tengas el estado de incapacitado.
 
 Tus aliados dentro del aura y tú obtenéis un bonificador a las tiradas de salvación igual a tu modificador por Carisma (mínimo de +1).
 
@@ -150,7 +150,7 @@ Si hay otro paladín presente, una criatura solo puede beneficiarse de un Aura d
 
 ### Nivel 9: Abjurar de los enemigos
 
-Como acción de magia, puedes gastar uno de los usos de Canalizar divinidad de esta clase para sobrecoger a tus enemigos. Mientras muestras tu símbolo sagrado o arma, puedes hacer objetivo a una cantidad de criaturas que puedas ver a 18 m o menos de ti igual a tu modificador por Carisma (mínimo una criatura). Cada objetivo deberá superaruna tirada de salvacion de Sabiduriao tendrä el estado de asustado durante 1 minuto o hasta recibir daño. Mientras esté asustado de esta forma, un objetivo solo podrá hacer una de estas opciones en sus turnos: moverse, realizar una acción o realizar una acción adicional.
+Como acción de magia, puedes gastar uno de los usos de Canalizar divinidad de esta clase para sobrecoger a tus enemigos. Mientras muestras tu símbolo sagrado o arma, puedes hacer objetivo a una cantidad de criaturas que puedas ver a 18 m o menos de ti igual a tu modificador por Carisma (mínimo una criatura). Cada objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de asustado durante 1 minuto o hasta recibir daño. Mientras esté asustado de esta forma, un objetivo solo podrá hacer una de estas opciones en sus turnos: moverse, realizar una acción o realizar una acción adicional.
 
 ### Nivel 10: Aura de coraje
 
@@ -268,16 +268,16 @@ Puedes poner fin a este efecto antes (no requiere acción). El efecto también t
 
 ### Nivel 3: Conjuros del juramento de entrega
 
-La magia de tu juramento garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de paladin especificado en la tabla “Conjuros del juramento de entrega”, a partir de entonces siempre tendrás preparados los conjuros que se indican.
+La magia de tu juramento garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de paladín especificado en la tabla “Conjuros del juramento de entrega”, a partir de entonces siempre tendrás preparados los conjuros que se indican.
 
 Conjuros del juramento de entrega
 
 | Nivel de paladín | Conjuros                                        |
 |-----------------:|-------------------------------------------------|
-|                3 | Escudo de fe,protección contra el bien y el mal |
+|                3 | Escudo de fe, protección contra el bien y el mal |
 |                5 | Auxilio, zona de la verdad                      |
 |                9 | Disipar magia, señal de esperanza               |
-|               13 | Guardián de la fe,libertad de movimiento        |
+|               13 | Guardián de la fe, libertad de movimiento        |
 |               17 | Comunión, golpe flamígero                       |
 
 ### Nivel 7: Aura de entrega
@@ -296,5 +296,4 @@ Daño radiante. Siempre que un enemigo comience su turno dentro del aura, esa cr
 
 Luz solar. sol.
 
-Protección sagrada. Tienes ventaja en las tiradas de salvación que te obliguen a hacer infernales o muertos vivientes. 
-
+Protección sagrada. Tienes ventaja en las tiradas de salvación que te obliguen a hacer infernales o muertos vivientes.

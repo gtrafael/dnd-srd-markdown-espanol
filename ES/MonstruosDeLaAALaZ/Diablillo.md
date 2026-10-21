@@ -16,7 +16,7 @@ related_en: "[[Monsters/Imp|Imp (EN)]]"
 
 **Velocidad:** 6 m, volar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     6 |  -2 |   -2 |
 | DES   |    17 |  +3 |   +3 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Imp|Imp (EN)]]"
 **Cambio de forma.** El diablillo cambia de forma para parecerse a una araña (velocidad 6 m, trepar 6 m), un cuervo (6 m, volar 18 m) o una rata (6 m), o recupera su auténtica forma. Su perfil es el mismo en todas las formas, excepto por su velocidad. Cualquier equipo que vista o lleve no se transformará.
 
 **Invisibilidad.** El diablillo lanza invisibilidad sobre sí mismo sin necesidad de componentes y utiliza el Carisma como aptitud mágica.
-

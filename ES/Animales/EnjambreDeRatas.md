@@ -16,7 +16,7 @@ related_en: "[[Animals/Swarm of Rats|Swarm of Rats (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     9 |  -1 |   -1 |
 | DES   |    11 |  +0 |   +2 |
@@ -42,4 +42,3 @@ related_en: "[[Animals/Swarm of Rats|Swarm of Rats (EN)]]"
 ## Acciones
 
 **Mordiscos.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 5 (2d4) de daño perforante o 2 (1d4) de daño perforante si el enjambre está maltrecho.
-

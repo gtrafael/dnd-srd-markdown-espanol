@@ -20,5 +20,4 @@ Lanzas tres rayos ardientes y los arrojas contra uno o varios objetivos dentro d
 
 **Con un espacio de conjuro de nivel superior.**
 
-Creas un rayo adicional por cada nivel por encima de 2 que tenga el espacio. 
-
+Creas un rayo adicional por cada nivel por encima de 2 que tenga el espacio.

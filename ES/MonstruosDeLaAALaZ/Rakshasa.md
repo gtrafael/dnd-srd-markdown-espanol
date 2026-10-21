@@ -16,7 +16,7 @@ related_en: "[[Monsters/Rakshasa|Rakshasa (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    17 |  +3 |   +3 |
@@ -56,4 +56,3 @@ related_en: "[[Monsters/Rakshasa|Rakshasa (EN)]]"
 **1/día cada uno:** desplazamiento entre planos, imagen mayor, invisibilidad, volar
 
 **Orden siniestra (recarga 5–6).** *Tirada de salvación de Sabiduría:* CD 18, todos los enemigos en una emanación de 9 m que se origina en el rakshasa. Fallo: 28 (8d6) de daño psíquico y el objetivo tendrá los estados de asustado e incapacitado hasta el principio del siguiente turno del rakshasa.
-

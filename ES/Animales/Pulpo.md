@@ -16,7 +16,7 @@ related_en: "[[Animals/Octopus|Octopus (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     4 |  -3 |   -3 |
 | DES   |    15 |  +2 |   +2 |
@@ -46,4 +46,3 @@ related_en: "[[Animals/Octopus|Octopus (EN)]]"
 ## Reacciones
 
 **Nube de tinta (1/día).** Detonante: una criatura termina su turno a 1,5 m o menos del pulpo mientras está bajo el agua. Respuesta: el pulpo suelta tinta que llena un cubo de 1,5 m de lado centrado en él y se mueve hasta su velocidad nadando. El cubo está muy oscuro durante 1 minuto o hasta que una corriente fuerte o un efecto similar disperse la tinta.
-

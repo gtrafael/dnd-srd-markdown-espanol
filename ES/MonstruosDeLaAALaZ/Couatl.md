@@ -16,7 +16,7 @@ related_en: "[[Monsters/Couatl|Couatl (EN)]]"
 
 **Velocidad:** 9 m, volar 27 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    20 |  +5 |   +5 |
@@ -54,4 +54,3 @@ related_en: "[[Monsters/Couatl|Couatl (EN)]]"
 ## Acciones adicionales
 
 **Auxilio divino (2/día).** El couatl lanza bendición, restablecimiento menor o santuario, que no requieren componentes y utilizan la misma aptitud mágica que para su lanzamiento de conjuros.
-

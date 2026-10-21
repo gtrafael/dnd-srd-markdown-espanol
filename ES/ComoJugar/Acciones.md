@@ -15,9 +15,9 @@ Acciones
 | Ayudar              | Ayudas a otra criatura en una prueba de característica o tirada de ataque, o administras primeros auxilios.                                                                                                                                      |
 | Buscar              | Haces una prueba de Sabiduría (Medicina, Percepción, Perspicacia o Supervivencia).                                                                                                                                                               |
 | Correr              | Durante el resto del turno, te concedes movimiento adicional equivalente a tu velocidad.                                                                                                                                                         |
-| Destra-barse        | Tu movimiento no provocará ataques de oportunidad durante el resto del turno.                                                                                                                                                                    |
-| Escon-derse         | Haces una prueba de Destreza (Sigilo).                                                                                                                                                                                                           |
-| Esquivar            | Hasta el principio de tu siguiente turno, las tiradas de ataque contra ti tendrán desven-taja y realizarás las tiradas de salvación de Destreza con ventaja. Perderás este beneficio si tienes el estado de incapacitado o si tu velocidad es 0. |
+| Destrabarse        | Tu movimiento no provocará ataques de oportunidad durante el resto del turno.                                                                                                                                                                    |
+| Esconderse         | Haces una prueba de Destreza (Sigilo).                                                                                                                                                                                                           |
+| Esquivar            | Hasta el principio de tu siguiente turno, las tiradas de ataque contra ti tendrán desventaja y realizarás las tiradas de salvación de Destreza con ventaja. Perderás este beneficio si tienes el estado de incapacitado o si tu velocidad es 0. |
 | Estudiar            | Haces una prueba de Inteligencia (Conocimiento arcano, Historia, Investigación, Naturaleza o Religión).                                                                                                                                          |
 | Influir             | Haces una prueba de Carisma (Engaño, Interpretación, Intimidación o Persuasión) o Sabiduría (Trato con animales) para cambiar la actitud de una criatura.                                                                                        |
 | Magia               | Lanzas un conjuro, utilizas un objeto mágico o empleas un rasgo mágico.                                                                                                                                                                          |
@@ -44,9 +44,6 @@ Tú escoges en qué momento de tu turno realizas la acción adicional, salvo que
 
 Ciertas capacidades especiales, conjuros y situaciones te permitirán llevar a cabo una acción especial llamada “reacción”. Una reacción es una respuesta inmediata a un suceso de algún tipo, que puede ocurrir tanto en tu turno como en el de otro. El ataque de oportunidad, que se describe más adelante en “Cómo jugar”, es el tipo de reacción más habitual.
 
-Cuando lleves a cabo una reacción, ya no podrás volver a hacerlo hasta el principio de tu siguiente turno. Si la reacción interrumpe el turno de otra
+Cuando lleves a cabo una reacción, ya no podrás volver a hacerlo hasta el principio de tu siguiente turno. Si la reacción interrumpe el turno de otra criatura, esta podrá continuar con su turno cuando la reacción termine.
 
-criatura, esta podrá continuar con su turno cuando la reacción termine.
-
-En lo que respecta al momento para realizarla, una reacción tiene lugar inmediatamente después del suceso que la desencadena, salvo que la descripción de la reacción diga otra cosa. 
-
+En lo que respecta al momento para realizarla, una reacción tiene lugar inmediatamente después del suceso que la desencadena, salvo que la descripción de la reacción diga otra cosa.

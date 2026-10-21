@@ -16,7 +16,7 @@ related_en: "[[Monsters/Phase Spider|Phase Spider (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    16 |  +3 |   +3 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Phase Spider|Phase Spider (EN)]]"
 ## Acciones adicionales
 
 **Salto etéreo.** La araña se teletransporta del Plano Material al Plano Etéreo o viceversa.
-

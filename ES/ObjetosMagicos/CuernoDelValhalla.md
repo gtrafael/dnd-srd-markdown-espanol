@@ -20,4 +20,3 @@ Si soplas el cuerno sin cumplir su requisito, los espíritus invocados te atacar
 | 41–75 | Latón          |         3 | Competencia con todas las armas sencillas    |
 | 76–90 | Bronce         |         4 | Entrenamiento con todas las armaduras medias |
 | 91–00 | Hierro         |         5 | Competencia con todas las armas marciales    |
-

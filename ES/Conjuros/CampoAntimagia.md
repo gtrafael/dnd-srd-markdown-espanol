@@ -22,5 +22,4 @@ Las áreas de efecto que crean los conjuros u otro tipo de magia no pueden penet
 
 Los conjuros activos se suprimen en la zona, salvo los que lancen un artefacto o deidad. Mientras un efecto está suprimido, no funciona, pero el tiempo que pasa suprimido cuenta para su duración.
 
-Disipar magia no tiene efecto en el aura, y las auras que creadas por distintos conjuros campo antimagia no se anulan entre sí. 
-
+Disipar magia no tiene efecto en el aura, y las auras que creadas por distintos conjuros campo antimagia no se anulan entre sí.

@@ -47,5 +47,4 @@ Cuando ataques con un arma sutil, podrás elegir realizar las tiradas de ataque 
 
 ## Versátil
 
-Estas armas pueden utilizarse con una o dos manos. Tras esta propiedad aparece entre paréntesis un valor de daño. El arma causa ese daño cuando se usa a dos manos para hacer un ataque cuerpo a cuerpo. 
-
+Estas armas pueden utilizarse con una o dos manos. Tras esta propiedad aparece entre paréntesis un valor de daño. El arma causa ese daño cuando se usa a dos manos para hacer un ataque cuerpo a cuerpo.

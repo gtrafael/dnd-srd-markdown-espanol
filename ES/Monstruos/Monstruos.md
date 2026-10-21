@@ -69,7 +69,7 @@ Las plantas son vegetación consciente y monstruos fúngicos, como las brozas mo
 
 ### Etiquetas descriptivas
 
-Un monstruo puede tener una o más etiquetas entre paréntesis tras su tamaño. Estas etiquetas proporcionan una mayor categorización y no poseen reglas propias, pero ciertos efectos del juego pueden hacer referenciaaellas.
+Un monstruo puede tener una o más etiquetas entre paréntesis tras su tamaño. Estas etiquetas proporcionan una mayor categorización y no poseen reglas propias, pero ciertos efectos del juego pueden hacer referencia a ellas.
 
 ## Alineamiento
 
@@ -227,7 +227,7 @@ Los apartados de los ataques de un monstruo identifican si el ataque es cuerpo a
 
 Acierto. El daño infligido u otros efectos que puedan ocurrir como consecuencia de que el ataque acierte al objetivo se indican después de la anotación “Acierto:”.
 
-Fallo. Si un ataque produce algún efecto cuando falla,esta informacion estarä tras la anotacion “Fallo:”.
+Fallo. Si un ataque produce algún efecto cuando falla, esta información estará tras la anotación “Fallo:”.
 
 Acierto o fallo. Si un ataque tiene un efecto que se produce tanto si acierta a su objetivo como si no, la información sobre él aparecerá tras la anotación “Acierto o fallo:”.
 
@@ -239,7 +239,7 @@ En caso de superarla, “solo la mitad del daño” significa que un objetivo re
 
 ### Notación del daño
 
-Los perfiles suelen proporcionar un número y la tirada de dados usada con cada efecto de dano. Por ejemplo, un ataque podría causar 4 (1d4 +2) de daño si acierta. Tú decides si usar el número o la tirada de dados entre paréntesis, pero no debes utilizar ambos.
+Los perfiles suelen proporcionar un número y la tirada de dados usada con cada efecto de daño. Por ejemplo, un ataque podría causar 4 (1d4 +2) de daño si acierta. Tú decides si usar el número o la tirada de dados entre paréntesis, pero no debes utilizar ambos.
 
 #### Ataque múltiple
 

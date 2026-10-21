@@ -31,5 +31,4 @@ Presagios
 
 El conjuro no tiene en cuenta las circunstancias que puedan alterar los resultados, como lanzar otros conjuros.
 
-Si lanzas el conjuro más de una vez antes de finalizar un descanso largo, hay una posibilidad acumulativa del 25 % por cada lanzamiento después del primero de que no recibas ninguna respuesta. 
-
+Si lanzas el conjuro más de una vez antes de finalizar un descanso largo, hay una posibilidad acumulativa del 25 % por cada lanzamiento después del primero de que no recibas ninguna respuesta.

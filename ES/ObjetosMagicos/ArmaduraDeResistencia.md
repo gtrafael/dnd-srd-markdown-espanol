@@ -16,4 +16,3 @@ Tienes resistencia a un tipo de daño mientras lleves esta armadura. Tu GM elige
 |    3 | Fuego        |    8 | Relámpago    |
 |    4 | Fuerza       |    9 | Trueno       |
 |    5 | Necrótico    |   10 | Veneno       |
-

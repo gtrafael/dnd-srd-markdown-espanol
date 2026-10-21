@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Constrictor Snake|Giant Constrictor Snake (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Giant Constrictor Snake|Giant Constrictor Snake (EN)]]"
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +6, alcance 3 m. Acierto: 11 (2d6 + 4) de daño perforante.
 
 **Constreñir.** *Tirada de salvación de Fuerza:* CD 14, una criatura Grande o más pequeña que la serpiente pueda ver a 3 m o menos. Fallo: 13 (2d8 + 4) de daño contundente y el objetivo tendrá el estado de agarrado (CD 14 para escapar).
-

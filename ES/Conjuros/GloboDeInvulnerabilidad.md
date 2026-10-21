@@ -22,5 +22,4 @@ Cualquier conjuro de nivel 5 o inferior que se lance desde fuera de la barrera n
 
 **Con un espacio de conjuro de nivel superior.**
 
-La barrera bloquea los conjuros de 1 nivel más por cada nivel por encima de 6 que tenga el espacio. 
-
+La barrera bloquea los conjuros de 1 nivel más por cada nivel por encima de 6 que tenga el espacio.

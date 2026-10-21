@@ -22,5 +22,4 @@ El portal tiene una parte delantera y otra trasera en cada plano en el que apare
 
 Las deidades y otros gobernantes de planos pueden impedir que los portales creados mediante este conjuro se abran en su presencia o en cualquier lugar dentro de sus dominios.
 
-Cuando lances el conjuro, puedes decir el nombre de una criatura específica (no sirven un pseudónimo, un título o un apodo). Si esa criatura está en un plano distinto al tuyo, el portal se abrirá junto a la criatura mencionada y la transportará al espacio sin ocupar más cercano en tu lado del portal. No obtienes ningún poder especial sobre la criatura y será libre de actuar según tu GM considere apropiado: puede irse, atacarte o ayudarte. 
-
+Cuando lances el conjuro, puedes decir el nombre de una criatura específica (no sirven un pseudónimo, un título o un apodo). Si esa criatura está en un plano distinto al tuyo, el portal se abrirá junto a la criatura mencionada y la transportará al espacio sin ocupar más cercano en tu lado del portal. No obtienes ningún poder especial sobre la criatura y será libre de actuar según tu GM considere apropiado: puede irse, atacarte o ayudarte.

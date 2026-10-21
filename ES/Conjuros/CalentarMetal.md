@@ -20,5 +20,4 @@ Elige un objeto metálico fabricado que puedas ver dentro del alcance, como un a
 
 Si una criatura sostiene o lleva puesto el objeto y recibe el daño de este, deberá superar una tirada de salvación de Constitución o dejará caer el objeto si puede. Si no lo deja caer, tendrá desventaja en las tiradas de ataque y las pruebas de característica hasta el principio de tu siguiente turno.
 
-**Con un espacio de conjuro de nivel superior.** El daño aumenta en 1d8 por cada nivel por encima de 2 que tenga el espacio. 
-
+**Con un espacio de conjuro de nivel superior.** El daño aumenta en 1d8 por cada nivel por encima de 2 que tenga el espacio.

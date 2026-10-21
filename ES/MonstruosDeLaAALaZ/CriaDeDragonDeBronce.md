@@ -16,7 +16,7 @@ related_en: "[[Monsters/Bronze Dragon Wyrmling|Bronze Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    10 |  +0 |   +2 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Bronze Dragon Wyrmling|Bronze Dragon Wyrmling (EN)]]"
 **Aliento de relámpago (recarga 5–6).** *Tirada de salvación de Destreza:* CD 12, todas las criaturas en una línea de 12 m de largo y 1,5 m de ancho. Fallo: 16 (3d10) de daño de relámpago. Éxito: la mitad del daño.
 
 **Aliento repulsor.** *Tirada de salvación de Fuerza:* CD 12, todas las criaturas en un cono de 9 m. Fallo: el objetivo es empujado hasta 9 m respecto al dragón en línea recta y tiene el estado de derribado.
-

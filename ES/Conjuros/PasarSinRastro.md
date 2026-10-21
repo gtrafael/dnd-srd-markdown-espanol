@@ -16,5 +16,4 @@ related_en: "[[Spells/Pass without Trace|Pass without Trace (EN)]]"
 
 **Duración:** Concentración, hasta 1 hora
 
-Hasta que el conjuro termine, irradias un aura de ocultación en una emanación de 9 m. Mientras permanezcáis dentro, las criaturas que elijas y tú tendréis un bonificador de +10 a las pruebas de Destreza (Sigilo) y no dejaréis huellas. 
-
+Hasta que el conjuro termine, irradias un aura de ocultación en una emanación de 9 m. Mientras permanezcáis dentro, las criaturas que elijas y tú tendréis un bonificador de +10 a las pruebas de Destreza (Sigilo) y no dejaréis huellas.

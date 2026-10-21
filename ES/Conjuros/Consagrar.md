@@ -40,5 +40,4 @@ Silencio. Ningún sonido puede salir de la zona ni penetrar en ella.
 
 Terror. Las criaturas de cualesquiera tipos que elijas tienen el estado de asustadas dentro de la zona.
 
-Vulnerabilidad. Las criaturas de cualesquiera tipos que elijas tienen vulnerabilidad a un tipo de daño de tu elección dentro de la zona. 
-
+Vulnerabilidad. Las criaturas de cualesquiera tipos que elijas tienen vulnerabilidad a un tipo de daño de tu elección dentro de la zona.

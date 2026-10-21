@@ -16,7 +16,7 @@ related_en: "[[Monsters/Mage|Mage (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     9 |  -1 |   -1 |
 | DES   |    14 |  +2 |   +2 |
@@ -56,4 +56,3 @@ related_en: "[[Monsters/Mage|Mage (EN)]]"
 ## Reacciones
 
 **Magia protectora (3/día).** El mago lanza contrahechizo o escudo en respuesta al desencadenante de esos conjuros, usando la misma aptitud mágica que para su lanzamiento de conjuros.
-

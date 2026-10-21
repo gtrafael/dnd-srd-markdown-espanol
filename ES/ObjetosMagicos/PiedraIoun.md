@@ -7,7 +7,7 @@ tags: [srd, espanol, tag_tesoro, sin-equivalente]
 
 *Objeto maravilloso, rareza variable (requiere sintonización)*
 
-Las piedras Ioun son aproximadamente del tama-ño de una cuenta y se llaman así por Ioun, un dios del conocimiento y la profecía adorado en algunos mundos. Existen muchos tipos de piedras Ioun, cada uno de ellos con una combinación distinta de forma y color.
+Las piedras Ioun son aproximadamente del tamaño de una cuenta y se llaman así por Ioun, un dios del conocimiento y la profecía adorado en algunos mundos. Existen muchos tipos de piedras Ioun, cada uno de ellos con una combinación distinta de forma y color.
 
 Si empleas una acción de magia para lanzar una piedra Ioun al aire, orbitará alrededor de tu cabeza a una distancia de 1d3 × 30 cm y te proporcionará un beneficio. Puedes tener hasta tres piedras Ioun orbitando activas a la vez.
 
@@ -48,4 +48,3 @@ Cualquier criatura puede lanzar un conjuro de niveles 1 a 4 sobre la piedra si l
 Mientras esta piedra gire alrededor de tu cabeza, podrás lanzar cualquiera de los conjuros almacenados. El conjuro utiliza el nivel del espacio, la CD de salvación de conjuros, el bonificador de ataque de conjuros y la aptitud mágica del lanzador original, pero, por lo demás, funciona como si tú lo hubieses lanzado. El conjuro lanzado desde la piedra deja de estar almacenado en ella, por lo que deja espacio libre.
 
 **Sustento (rara).** No necesitas comer ni beber mientras este huso transparente gire alrededor de tu cabeza.
-

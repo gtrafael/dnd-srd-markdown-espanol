@@ -16,7 +16,7 @@ related_en: "[[Monsters/Rust Monster|Rust Monster (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    12 |  +1 |   +1 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Rust Monster|Rust Monster (EN)]]"
 ## Reacciones
 
 **Antenas reflexivas.** Detonante: una tirada de ataque acierta al monstruo corrosivo. Respuesta: el monstruo corrosivo utiliza sus antenas.
-

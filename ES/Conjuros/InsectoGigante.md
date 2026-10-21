@@ -32,7 +32,7 @@ Bestia Grande, sin alineamiento
 
 **Velocidad:** 12 m, trepar 12 m, volar 12 m (solo avispa)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    13 |  +1 |   +1 |
@@ -46,4 +46,3 @@ Bestia Grande, sin alineamiento
 **Idiomas:** entiende los idiomas que conozcas
 
 **VD:** ninguno (0 PX; BC igual a tu bonificador por competencia)
-

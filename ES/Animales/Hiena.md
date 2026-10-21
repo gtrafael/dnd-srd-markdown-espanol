@@ -16,7 +16,7 @@ related_en: "[[Animals/Hyena|Hyena (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    13 |  +1 |   +1 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Hyena|Hyena (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 3 (1d6) de daño perforante.
-

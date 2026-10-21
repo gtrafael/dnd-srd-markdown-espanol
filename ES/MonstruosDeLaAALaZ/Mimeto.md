@@ -16,7 +16,7 @@ related_en: "[[Monsters/Mimic|Mimic (EN)]]"
 
 **Velocidad:** 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    12 |  +1 |   +1 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Mimic|Mimic (EN)]]"
 ## Acciones adicionales
 
 **Cambio de forma.** El mimeto cambia de forma para parecer un objeto Mediano o Pequeño, pero conservando su perfil, o recupera su auténtica forma de amasijo. Cualquier equipo que vista o lleve no se transformará.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Incubus|Incubus (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     8 |  -1 |   -1 |
 | DES   |    17 |  +3 |   +3 |
@@ -54,4 +54,3 @@ related_en: "[[Monsters/Incubus|Incubus (EN)]]"
 ## Acciones adicionales
 
 **Pesadilla (recarga 6).** *Tirada de salvación de Sabiduría:* CD 15, una criatura que el íncubo pueda ver a 18 m o menos. Fallo: si el objetivo tiene 20 puntos de golpe o menos, tendrá el estado de inconsciente durante 1 hora, hasta que reciba daño o hasta que una criatura a 1,5 m o menos lleve a cabo una acción para despertarlo. De lo contrario, el objetivo recibe 18 (4d8) de daño psíquico.
-

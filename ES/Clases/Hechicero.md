@@ -456,5 +456,4 @@ Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un desca
 
 Puedes lanzar invocar dragón sin ningún componente material. También puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de esta forma tras finalizar un descanso largo.
 
-Cuando empieces a lanzar el conjuro, puedes modificarlo para que no requiera concentración. Si lo haces, la duración del conjuro es de 1 minuto para ese lanzamiento. 
-
+Cuando empieces a lanzar el conjuro, puedes modificarlo para que no requiera concentración. Si lo haces, la duración del conjuro es de 1 minuto para ese lanzamiento.

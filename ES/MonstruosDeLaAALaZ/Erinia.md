@@ -14,7 +14,7 @@ related_en: "[[Monsters/Erinyes|Erinyes (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    16 |  +3 |   +7 |

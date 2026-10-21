@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Boar|Giant Boar (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +5 |
 | DES   |    10 |  +0 |   +0 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Giant Boar|Giant Boar (EN)]]"
 ## Acciones
 
 **Colmillos.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 10 (2d6 + 3) de daño perforante. Si el objetivo es una criatura Grande o más pequeña y el jabalí recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 7 (2d6) de daño perforante adicional y tendrá el estado de derribada.
-

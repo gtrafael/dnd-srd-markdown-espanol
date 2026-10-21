@@ -16,7 +16,7 @@ related_en: "[[Monsters/Wight|Wight (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    14 |  +2 |   +2 |
@@ -54,4 +54,3 @@ related_en: "[[Monsters/Wight|Wight (EN)]]"
 **Consumir vida.** *Tirada de salvación de Constitución:* CD 13, una criatura a 1,5 m o menos. Fallo: 6 (1d8 + 2) de daño necrótico y los puntos de golpe máximos del objetivo se reducirán en una cantidad igual al daño sufrido.
 
 Un humanoide que muera por este ataque se alzará 24 horas después como un zombi bajo el control del tumulario, a menos que se le devuelva a la vida o su cuerpo sea destruido. El tumulario no puede tener más de doce zombis bajo su control a la vez.
-

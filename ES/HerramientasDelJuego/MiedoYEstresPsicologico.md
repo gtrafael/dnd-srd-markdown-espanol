@@ -12,7 +12,7 @@ Si vas a utilizar alguna de estas reglas, habla sobre ellas con tu grupo al prin
 
 ## Efectos de miedo
 
-Cuando los personajes se topen con algo sobrenatural y aterrador, emplea el estado de asustado como efecto estándar. Por lo general, los efectos de miedo requieren tiradas de salvación de Sabiduría, cuya CD de salvación dependerá de lo aterradora que sea la situación.En la tabla “Muestras de CD de miedos" encontrarás algunos ejemplos.
+Cuando los personajes se topen con algo sobrenatural y aterrador, emplea el estado de asustado como efecto estándar. Por lo general, los efectos de miedo requieren tiradas de salvación de Sabiduría, cuya CD de salvación dependerá de lo aterradora que sea la situación. En la tabla “Muestras de CD de miedos" encontrarás algunos ejemplos.
 
 Muestras de CD de miedos
 
@@ -55,4 +55,3 @@ Efectos a corto plazo. El personaje tiene los estados de asustado, aturdido o in
 Efectos a largo plazo. El personaje tiene desventaja en algunas o todas las pruebas de característica durante 1d10 × 10 horas debido a una falta de voluntad o una incapacidad para llevar a cabo ciertas actividades. Por ejemplo, el personaje puede sentirse débil e incapaz de utilizar toda su Fuerza o desconfiar tanto de los demás que las pruebas de Carisma serán más difíciles. Estos efectos pueden suprimirse con el conjuro calmar emociones o eliminarse mediante un conjuro restablecimiento menor.
 
 Efectos indefinidos. Un efecto indefinido es un efecto a largo plazo (consulta el apartado anterior) que dura hasta que se elimine con un conjuro restablecimiento mayor. También se puede suprimir mediante un conjuro calmar emociones.
-

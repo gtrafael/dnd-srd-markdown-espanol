@@ -7,5 +7,4 @@ tags: [srd, espanol, tag_tesoro, sin-equivalente]
 
 *Varita, infrecuente*
 
-Esta varita tiene 3 cargas y recupera 1d3 cargas empleadas cada día, al amanecer. Mientras la sostengas, puedes emplear una acción de magia para gastar 1 carga y, si hay alguna trampa o puerta secreta situada a 18 m o menos de ti,la varita vibrarä y apuntará a la más cercana.
-
+Esta varita tiene 3 cargas y recupera 1d3 cargas empleadas cada día, al amanecer. Mientras la sostengas, puedes emplear una acción de magia para gastar 1 carga y, si hay alguna trampa o puerta secreta situada a 18 m o menos de ti, la varita vibrará y apuntará a la más cercana.

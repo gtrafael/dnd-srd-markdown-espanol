@@ -16,7 +16,7 @@ related_en: "[[Animals/Crocodile|Crocodile (EN)]]"
 
 **Velocidad:** 6 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    10 |  +0 |   +0 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Crocodile|Crocodile (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 6 (1d8 + 2) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 12 para escapar). Mientras esté agarrada, tendrá el estado de apresada.
-

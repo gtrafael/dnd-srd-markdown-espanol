@@ -16,7 +16,7 @@ related_en: "[[Monsters/Sahuagin Warrior|Sahuagin Warrior (EN)]]"
 
 **Velocidad:** 9 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    11 |  +0 |   +0 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Sahuagin Warrior|Sahuagin Warrior (EN)]]"
 ## Acciones adicionales
 
 **Carga acuática.** El sahuagin nada hasta la mitad de su velocidad nadando en línea recta hacia un enemigo que pueda ver.
-

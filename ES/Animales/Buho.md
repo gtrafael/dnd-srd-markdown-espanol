@@ -16,7 +16,7 @@ related_en: "[[Animals/Owl|Owl (EN)]]"
 
 **Velocidad:** 1,5 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     3 |  -4 |   -4 |
 | DES   |    13 |  +1 |   +1 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Owl|Owl (EN)]]"
 ## Acciones
 
 **Garras.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 1 de daño cortante.
-

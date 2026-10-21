@@ -20,5 +20,4 @@ Una criatura de tu elección que puedas ver dentro del alcance recupera una cant
 
 **Con un espacio de conjuro de nivel superior.**
 
-La curación aumenta en 2d4 por cada nivel por encima de 1 que tenga el espacio. 
-
+La curación aumenta en 2d4 por cada nivel por encima de 1 que tenga el espacio.

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Gold Dragon Wyrmling|Gold Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +4 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Gold Dragon Wyrmling|Gold Dragon Wyrmling (EN)]]"
 **Aliento de fuego (recarga 5–6).** *Tirada de salvación de Destreza:* CD 13, todas las criaturas en un cono de 4,5 m. Fallo: 22 (4d10) de daño de fuego. Éxito: la mitad del daño.
 
 **Aliento debilitador.** *Tirada de salvación de Fuerza:* CD 13, todas las criaturas que no estén afectadas ya por este aliento en un cono de 4,5 m. Fallo: el objetivo tendrá desventaja en las pruebas con d20 basadas en la Fuerza y restará 2 (1d4) a sus tiradas de daño. Repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto. Tras 1 minuto, tendrá éxito automáticamente.
-

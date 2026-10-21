@@ -16,7 +16,7 @@ related_en: "[[Animals/Frog|Frog (EN)]]"
 
 **Velocidad:** 6 m, nadar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     1 |  -5 |   -5 |
 | DES   |    13 |  +1 |   +1 |
@@ -42,4 +42,3 @@ related_en: "[[Animals/Frog|Frog (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 1 de daño perforante.
-

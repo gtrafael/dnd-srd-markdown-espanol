@@ -16,7 +16,7 @@ related_en: "[[Monsters/Young Green Dragon|Young Green Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    12 |  +1 |   +4 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Young Green Dragon|Young Green Dragon (EN)]]"
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +7, alcance 3 m. Acierto: 11 (2d6 + 4) de daño cortante más 7 (2d6) de daño de veneno.
 
 **Aliento venenoso (recarga 5–6).** *Tirada de salvación de Constitución:* CD 14, todas las criaturas en un cono de 9 m. Fallo: 42 (12d6) de daño de veneno. Éxito: la mitad del daño.
-

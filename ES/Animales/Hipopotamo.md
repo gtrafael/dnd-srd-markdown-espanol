@@ -16,7 +16,7 @@ related_en: "[[Animals/Hippopotamus|Hippopotamus (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    21 |  +5 |   +7 |
 | DES   |     7 |  -2 |   -2 |
@@ -42,4 +42,3 @@ related_en: "[[Animals/Hippopotamus|Hippopotamus (EN)]]"
 **Ataque múltiple.** El hipopótamo realiza dos ataques de mordisco.
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +7, alcance 1,5 m. Acierto: 16 (2d10 + 5) de daño perforante.
-

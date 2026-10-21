@@ -16,5 +16,4 @@ related_en: "[[Spells/Water Breathing|Water Breathing (EN)]]"
 
 **Duración:** 24 horas
 
-Este conjuro concede a hasta diez criaturas voluntarias que elijas dentro del alcance la capacidad de respirar bajo el agua hasta que el conjuro termine. Las criaturas afectadas también conservan su modo de respiración normal. 
-
+Este conjuro concede a hasta diez criaturas voluntarias que elijas dentro del alcance la capacidad de respirar bajo el agua hasta que el conjuro termine. Las criaturas afectadas también conservan su modo de respiración normal.

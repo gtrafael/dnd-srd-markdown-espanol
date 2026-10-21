@@ -20,5 +20,4 @@ Un bastón o un garrote que sostengas se ve impregnado del poder de la naturalez
 
 El conjuro termina antes de tiempo si lo vuelves a lanzar o si sueltas el arma.
 
-**Mejora de truco.** El dado de daño cambia cuando alcanzas los niveles 5 (d10), 11 (d12) y 17 (2d6). 
-
+**Mejora de truco.** El dado de daño cambia cuando alcanzas los niveles 5 (d10), 11 (d12) y 17 (2d6).

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ice Devil|Ice Devil (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    21 |  +5 |   +5 |
 | DES   |    14 |  +2 |   +7 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Ice Devil|Ice Devil (EN)]]"
 **Lanza de hielo.** Tirada de ataque cuerpo a cuerpo o a distancia: +10, alcance 1,5 m o 9/36 m a distancia. Acierto: 14 (2d8 + 5) de daño perforante más 10 (3d6) de daño de frío. Hasta el final de su siguiente turno, el objetivo no podrá usar una acción adicional ni llevar a cabo una reacción, su velocidad se reducirá en 3 m y en su turno podrá moverse o realizar una acción, pero no ambas cosas. Acierto o fallo: la lanza regresa mágicamente a la mano del diablo inmediatamente después de un ataque a distancia.
 
 **Muro gélido (recarga 6).** El diablo lanza muro de hielo (versión de nivel 8), que no requiere componentes y utiliza la Inteligencia como aptitud mágica (CD de salvación de conjuros 17).
-

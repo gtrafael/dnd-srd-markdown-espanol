@@ -14,7 +14,7 @@ related_en: "[[Monsters/Awakened Shrub|Awakened Shrub (EN)]]"
 
 **Velocidad:** 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     3 |  -4 |   -4 |
 | DES   |     8 |  -1 |   -1 |
@@ -36,4 +36,3 @@ related_en: "[[Monsters/Awakened Shrub|Awakened Shrub (EN)]]"
 ## Acciones
 
 **Desgarrar.** Tirada de ataque cuerpo a cuerpo: +1, alcance 1,5 m. Acierto: 1 de daño cortante.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Knight|Knight (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    11 |  +0 |   +0 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Knight|Knight (EN)]]"
 ## Reacciones
 
 **Parada.** Detonante: una tirada de ataque cuerpo a cuerpo acierta al caballero mientras sostiene un arma. Respuesta: el caballero suma 2 a su CA contra ese ataque, lo que puede hacer que falle.
-

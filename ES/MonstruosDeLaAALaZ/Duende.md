@@ -16,7 +16,7 @@ related_en: "[[Monsters/Sprite|Sprite (EN)]]"
 
 **Velocidad:** 3 m, volar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     3 |  -4 |   -4 |
 | DES   |    18 |  +4 |   +4 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Sprite|Sprite (EN)]]"
 **Invisibilidad.** El duende lanza invisibilidad sobre sí mismo sin necesidad de componentes y utiliza el Carisma como aptitud mágica.
 
 **Visión del corazón.** *Tirada de salvación de Carisma:* CD 10, una criatura que el duende pueda ver a 1,5 m o menos (los celestiales, infernales y muertos vivientes fallan automáticamente la tirada). Fallo: el duende descubre las emociones y el alineamiento del objetivo.
-

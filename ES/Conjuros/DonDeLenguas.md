@@ -16,5 +16,4 @@ related_en: "[[Spells/Tongues|Tongues (EN)]]"
 
 **Duración:** 1 hora
 
-Este conjuro permite a la criatura que toques comprender cualquier idioma hablado que oiga o lengua de signos que vea. Asimismo, cuando el objetivo se comunica oralmente o mediante signos, cualquier criatura que conozca al menos un idioma podrá entenderlo si lo escucha hablar o lo ve signar. 
-
+Este conjuro permite a la criatura que toques comprender cualquier idioma hablado que oiga o lengua de signos que vea. Asimismo, cuando el objetivo se comunica oralmente o mediante signos, cualquier criatura que conozca al menos un idioma podrá entenderlo si lo escucha hablar o lo ve signar.

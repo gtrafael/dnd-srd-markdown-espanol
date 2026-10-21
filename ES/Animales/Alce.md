@@ -16,7 +16,7 @@ related_en: "[[Animals/Elk|Elk (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    10 |  +0 |   +0 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Elk|Elk (EN)]]"
 ## Acciones
 
 **Embestir.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 6 (1d6 + 3) de daño contundente. Si el objetivo es una criatura Grande o más pequeña y el alce recorre al menos 6 m en línea recta hacia ella justo antes de acertarle, esta recibirá 3 (1d6) de daño contundente adicional y tendrá el estado de derribada.
-

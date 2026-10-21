@@ -16,7 +16,7 @@ related_en: "[[Monsters/Magmin|Magmin (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     7 |  -2 |   -2 |
 | DES   |    15 |  +2 |   +2 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Magmin|Magmin (EN)]]"
 ## Acciones adicionales
 
 **Iluminación ardiente.** El magmin se prende fuego o extingue sus llamas. Mientras esté ardiendo, emitirá luz brillante en un radio de 3 m y luz tenue 3 m más allá.
-

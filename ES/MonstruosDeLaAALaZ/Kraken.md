@@ -16,7 +16,7 @@ related_en: "[[Monsters/Kraken|Kraken (EN)]]"
 
 **Velocidad:** 9 m, nadar 36 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    30 | +10 |  +17 |
 | DES   |    11 |  +0 |   +7 |
@@ -66,4 +66,3 @@ Si el kraken sufre 50 o más de daño en un solo turno por parte de una criatura
 **Golpe de tormenta.** El kraken utiliza su relámpago.
 
 **Tinta tóxica.** *Tirada de salvación de Constitución:* CD 23, todas las criaturas en una emanación de 4,5 m que se origina en el kraken mientras esté bajo el agua. Fallo: el objetivo tendrá los estados de cegado y envenenado hasta el final del siguiente turno del kraken. Después, el kraken se mueve hasta su velocidad. Fallo o éxito: el kraken no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

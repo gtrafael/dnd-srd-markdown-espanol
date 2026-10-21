@@ -94,7 +94,7 @@ Cada vez que prolongues la furia, durará hasta el final de tu siguiente turno. 
 
 Tu entrenamiento con armas te permite utilizar las propiedades de maestría con dos tipos de armas cuerpo a cuerpo sencillas o marciales de tu elección, como las hachas a dos manos y las hachas de mano. Tras finalizar un descanso largo, puedes llevar a cabo ejercicios con armas y cambiar una de dichas elecciones.
 
-Cuando alcances ciertos niveles de bárbaro, adquirirás la capacidad de usar las propiedades de maestría con más tipos de armas, como se muestra en la columna“Maestria con armas"de la tabla “Rasgos de bárbaro”.
+Cuando alcances ciertos niveles de bárbaro, adquirirás la capacidad de usar las propiedades de maestría con más tipos de armas, como se muestra en la columna“Maestría con armas"de la tabla “Rasgos de bárbaro”.
 
 ### Nivel 2: Ataque temerario
 
@@ -160,9 +160,7 @@ Golpe desgarrador. Antes del principio de tu siguiente turno, la próxima tirada
 
 Cuando tires iniciativa, puedes recuperar todos los usos gastados de la furia. Tras recuperar los usos de la furia de esta manera, no podrás volver a hacerlo hasta que finalices un descanso largo.
 
-Además, tu furia es tan intensa que ahora dura 10 minutos sin necesidad de hacer nada para prolongarla de un asalto a otro. Tu furia termina
-
-antes si recibes el estado de inconsciente (no solo el de incapacitado) o te pones una armadura pesada.
+Además, tu furia es tan intensa que ahora dura 10 minutos sin necesidad de hacer nada para prolongarla de un asalto a otro. Tu furia termina antes si recibes el estado de inconsciente (no solo el de incapacitado) o te pones una armadura pesada.
 
 ### Nivel 17: Golpe brutal mejorado
 
@@ -178,7 +176,7 @@ Obtienes una dote de don épico (consulta el capítulo “Dotes”) u otra dote 
 
 ### Nivel 20: Campeón primordial
 
-Encarnas un poder primigenio. Tus puntuaciones de Fuerza y Constitución aumentan en 4, hasta un maximo de 25.
+Encarnas un poder primigenio. Tus puntuaciones de Fuerza y Constitución aumentan en 4, hasta un máximo de 25.
 
 ## Subclase de bárbaro: Senda del berserker
 
@@ -202,5 +200,4 @@ Cuando recibas daño de una criatura que esté a 1,5 m o menos de ti, puedes lle
 
 Como acción adicional, puedes sembrar el terror en los demás con tu mera presencia amenazadora y tu poder primigenio. Cuando lo hagas, todas las criaturas de tu elección situadas en una emanación de 9 m originada en ti deberán hacer una tirada de salvación de Sabiduría (CD 8 más tu modificador por Fuerza y tu bonificador por competencia). Si la fallan, tendrán el estado de asustadas durante 1 minuto. Al final de cada uno de sus turnos, las criaturas asustadas repiten la tirada de salvación y, si tienen éxito, se librarán del efecto.
 
-Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un uso de tu furia (no requiere acción) para restablecer su uso. 
-
+Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un uso de tu furia (no requiere acción) para restablecer su uso.

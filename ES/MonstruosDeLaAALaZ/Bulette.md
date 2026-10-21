@@ -16,7 +16,7 @@ related_en: "[[Monsters/Bulette|Bulette (EN)]]"
 
 **Velocidad:** 12 m, excavar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    11 |  +0 |   +0 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Bulette|Bulette (EN)]]"
 ## Acciones adicionales
 
 **Salto.** El bulette gasta 3 m de movimiento para saltar hasta 9 m.
-

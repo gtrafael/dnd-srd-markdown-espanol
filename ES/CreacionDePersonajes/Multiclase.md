@@ -107,4 +107,3 @@ Espacios de conjuro por cada nivel de conjuro
 |    18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 |    19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 |    20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-

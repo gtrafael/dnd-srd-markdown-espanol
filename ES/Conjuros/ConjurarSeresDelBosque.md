@@ -22,5 +22,4 @@ Además, hasta que termine el conjuro, puedes llevar a cabo la acción de destra
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d8 por cada nivel por encima de 4 que tenga el espacio. 
-
+El daño aumenta en 1d8 por cada nivel por encima de 4 que tenga el espacio.

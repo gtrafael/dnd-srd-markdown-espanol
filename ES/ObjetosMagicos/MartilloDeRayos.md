@@ -16,5 +16,4 @@ Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con es
 
 **Azote de gigantes.** Si sacas un 20 en el d20 en una tirada de ataque con esta arma contra un gigante, este deberá superar una tirada de salvación de Constitución con CD 17 o morirá.
 
-**Fuerza de gigantes.** La puntuación de Fuerza que te otorgan el cinturón de fuerza de gigante o los guanteletes de fuerza de ogro aumenta en 4, hasta un maximo de 30.
-
+**Fuerza de gigantes.** La puntuación de Fuerza que te otorgan el cinturón de fuerza de gigante o los guanteletes de fuerza de ogro aumenta en 4, hasta un máximo de 30.

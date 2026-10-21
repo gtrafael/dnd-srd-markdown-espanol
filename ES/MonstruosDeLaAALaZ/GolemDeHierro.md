@@ -16,7 +16,7 @@ related_en: "[[Monsters/Iron Golem|Iron Golem (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    24 |  +7 |   +7 |
 | DES   |     9 |  -1 |   -1 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Iron Golem|Iron Golem (EN)]]"
 **Rayo ardiente.** Tirada de ataque a distancia: +10, alcance 36 m. Acierto: 36 (8d8) de daño de fuego.
 
 **Aliento venenoso (recarga 6).** *Tirada de salvación de Constitución:* CD 18, todas las criaturas en un cono de 18 m. Fallo: 55 (10d10) de daño de veneno. Éxito: la mitad del daño.
-

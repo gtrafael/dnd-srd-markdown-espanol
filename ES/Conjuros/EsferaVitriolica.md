@@ -20,5 +20,4 @@ Señalas un lugar dentro del alcance y una bola resplandeciente de ácido de 30 
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño inicial aumenta en 2d4 por cada nivel por encima de 4 que tenga el espacio. 
-
+El daño inicial aumenta en 2d4 por cada nivel por encima de 4 que tenga el espacio.

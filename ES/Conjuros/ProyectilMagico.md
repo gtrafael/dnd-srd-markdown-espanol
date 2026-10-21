@@ -20,5 +20,4 @@ Creas tres dardos brillantes de fuerza mágica y cada uno de ellos golpea a una 
 
 **Con un espacio de conjuro de nivel superior.**
 
-El conjuro crea un dardo adicional por cada nivel por encima de 1 que tenga el espacio. 
-
+El conjuro crea un dardo adicional por cada nivel por encima de 1 que tenga el espacio.

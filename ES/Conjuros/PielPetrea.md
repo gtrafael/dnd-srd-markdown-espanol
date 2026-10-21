@@ -16,5 +16,4 @@ related_en: "[[Spells/Stoneskin|Stoneskin (EN)]]"
 
 **Duración:** Concentración, hasta 1 hora
 
-Hasta que el conjuro termine, una criatura voluntaria a la que toques tiene resistencia al daño contundente, cortante y perforante. 
-
+Hasta que el conjuro termine, una criatura voluntaria a la que toques tiene resistencia al daño contundente, cortante y perforante.

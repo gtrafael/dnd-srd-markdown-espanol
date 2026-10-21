@@ -440,7 +440,7 @@ Tus trucos que causen daño pueden afectar incluso a las criaturas que hayan evi
 
 ### Nivel 6: Esculpir conjuros
 
-Puedes crear espacios de relativa seguridad en el interior de los efectos generados por tu magia de evocación. Cuando lances un conjuro de evocación que afecte a otras criaturas que puedas ver, puedes elegir una cantidad de ellas igual a 1 más el nivel del conjuro. Las criaturas elegidas tienen éxito automáticamente en sus tiradas de salvación contra el conjuro y no reciben daño alguno si normalmente recibirían la mitad de daño del mismo al superar una tirada de salvacion.
+Puedes crear espacios de relativa seguridad en el interior de los efectos generados por tu magia de evocación. Cuando lances un conjuro de evocación que afecte a otras criaturas que puedas ver, puedes elegir una cantidad de ellas igual a 1 más el nivel del conjuro. Las criaturas elegidas tienen éxito automáticamente en sus tiradas de salvación contra el conjuro y no reciben daño alguno si normalmente recibirían la mitad de daño del mismo al superar una tirada de salvación.
 
 ### Nivel 10: Evocación potenciada
 
@@ -452,5 +452,4 @@ Puedes aumentar el poder de tus conjuros. Cuando lances un conjuro de mago que c
 
 La primera vez que hagas esto no sufrirás ningún efecto negativo, pero si usas este rasgo de nuevo sin haber finalizado un descanso largo antes, recibirás 2d12 de daño necrótico por cada nivel del espacio de conjuro inmediatamente después de lanzarlo. Este daño ignora cualquier resistencia e inmunidad.
 
-Cada vez que vuelvas a utilizar este rasgo sin haber terminado un descanso largo, el daño necrótico por cada nivel del conjuro aumentará en 1d12. 
-
+Cada vez que vuelvas a utilizar este rasgo sin haber terminado un descanso largo, el daño necrótico por cada nivel del conjuro aumentará en 1d12.

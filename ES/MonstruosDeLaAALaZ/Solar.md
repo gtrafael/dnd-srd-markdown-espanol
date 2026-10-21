@@ -16,7 +16,7 @@ related_en: "[[Monsters/Solar|Solar (EN)]]"
 
 **Velocidad:** 15 m, volar 45 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    26 |  +8 |   +8 |
 | DES   |    22 |  +6 |   +6 |
@@ -72,4 +72,3 @@ Resistencia legendaria (4/día). El solar puede elegir tener éxito en una tirad
 **Mirada cegadora.** *Tirada de salvación de Constitución:* CD 25, una criatura que el solar pueda ver a 36 m o menos. Fallo: el objetivo tendrá el estado de cegado durante 1 minuto. Fallo o éxito: el solar no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Teletransporte radiante.** El solar se teletransporta hasta 18 m a un espacio sin ocupar que pueda ver. *Tirada de salvación de Destreza:* CD 25, todas las criaturas en una emanación de 3 m que se origina en el espacio de destino del solar. Fallo: 11 (2d10) de daño radiante. Éxito: la mitad del daño.
-

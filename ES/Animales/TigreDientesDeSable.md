@@ -16,7 +16,7 @@ related_en: "[[Animals/Saber-Toothed Tiger|Saber-Toothed Tiger (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +6 |
 | DES   |    17 |  +3 |   +5 |
@@ -46,4 +46,3 @@ related_en: "[[Animals/Saber-Toothed Tiger|Saber-Toothed Tiger (EN)]]"
 ## Acciones adicionales
 
 **Huida veloz.** El tigre realiza las acciones de destrabarse o esconderse.
-

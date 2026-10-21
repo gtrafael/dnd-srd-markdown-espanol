@@ -16,7 +16,7 @@ related_en: "[[Monsters/Remorhaz|Remorhaz (EN)]]"
 
 **Velocidad:** 12 m, excavar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    24 |  +7 |   +7 |
 | DES   |    13 |  +1 |   +1 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Remorhaz|Remorhaz (EN)]]"
 **Engullir.** *Tirada de salvación de Fuerza:* CD 19, una criatura Grande o más pequeña agarrada por el remorhaz (puede tener hasta dos criaturas engullidas a la vez). Fallo: el objetivo será engullido por el remorhaz y se pondrá fin al estado de agarrado. Una criatura engullida tendrá los estados de apresada y cegada, tendrá cobertura completa contra los ataques y otros efectos fuera del remorhaz y recibirá 10 (3d6) de daño de ácido más 10 (3d6) de daño de fuego al principio de cada turno del remorhaz.
 
 Si el remorhaz sufre 30 o más de daño en un solo turno por parte de una criatura que esté dentro de él, deberá superar una tirada de salvación de Constitución con CD 15 al final de ese turno o regurgitará a todas las criaturas engullidas, que caerán en espacios a 1,5 m o menos del remorhaz y tendrán el estado de derribadas. Si el remorhaz muere, cualquier criatura engullida dejará de tener el estado de apresada y podrá gastar 4,5 m de movimiento para escapar del cadáver, del que saldrá con el estado de derribada.
-

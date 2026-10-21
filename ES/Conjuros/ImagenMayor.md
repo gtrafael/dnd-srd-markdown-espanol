@@ -24,5 +24,4 @@ La interacción física con la imagen revela que es una ilusión, ya que las cos
 
 **Con un espacio de conjuro de nivel superior.**
 
-El conjuro durará hasta que sea disipado y no requerirá concentración si se lanza con un espacio de conjuro de nivel 4 o superior. 
-
+El conjuro durará hasta que sea disipado y no requerirá concentración si se lanza con un espacio de conjuro de nivel 4 o superior.

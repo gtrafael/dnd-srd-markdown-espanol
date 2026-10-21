@@ -8,5 +8,4 @@ related_en: "[[Treasure/Brooch of Shielding|Brooch of Shielding (EN)]]"
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*
 
-Mientras lleves prendido este broche, tendrás resistencia al dano de fuerza e inmunidad al dano infligido por el conjuro proyectil mágico.
-
+Mientras lleves prendido este broche, tendrás resistencia al daño de fuerza e inmunidad al daño infligido por el conjuro proyectil mágico.

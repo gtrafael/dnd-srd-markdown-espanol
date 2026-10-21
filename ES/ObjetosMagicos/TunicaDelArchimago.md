@@ -17,4 +17,3 @@ Mientras lleves puesta la túnica, obtendrás los siguientes beneficios.
 **Magia de guerra.** Tu CD de salvación de conjuros y tu bonificador de ataque de conjuros aumentan en 2.
 
 **Resistencia mágica.** Tienes ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Cultist Fanatic|Cultist Fanatic (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    14 |  +2 |   +2 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Cultist Fanatic|Cultist Fanatic (EN)]]"
 ## Acciones adicionales
 
 **Arma espiritual (2/día).** El sectario lanza el conjuro arma espiritual usando la misma aptitud mágica que para su lanzamiento de conjuros.
-

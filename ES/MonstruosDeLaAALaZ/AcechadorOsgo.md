@@ -16,7 +16,7 @@ related_en: "[[Monsters/Bugbear Stalker|Bugbear Stalker (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    14 |  +2 |   +2 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Bugbear Stalker|Bugbear Stalker (EN)]]"
 ## Acciones adicionales
 
 **Agarre rápido.** *Tirada de salvación de Destreza:* CD 13, una criatura Mediana o más pequeña que el osgo pueda ver a 3 m o menos. Fallo: el objetivo tendrá el estado de agarrado (CD 13 para escapar).
-

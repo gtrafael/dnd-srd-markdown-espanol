@@ -9,4 +9,3 @@ related_en: "[[Treasure/Bead of Nourishment|Bead of Nourishment (EN)]]"
 *Objeto maravilloso, común*
 
 Esta canica insípida y gelatinosa se disuelve en la lengua y proporciona tanto alimento como las raciones de 1 dia.
-

@@ -22,5 +22,4 @@ Mientras esté apresado, el objetivo sufrirá 1d6 de daño perforante al princip
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio. 
-
+El daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio.

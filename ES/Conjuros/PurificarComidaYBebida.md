@@ -16,5 +16,4 @@ related_en: "[[Spells/Purify Food and Drink|Purify Food and Drink (EN)]]"
 
 **Duración:** Instantáneo
 
-Eliminas el veneno y la podredumbre de la comida y bebida no mágicas en una esfera de 1,5 m de radio centrada en un punto dentro del alcance. 
-
+Eliminas el veneno y la podredumbre de la comida y bebida no mágicas en una esfera de 1,5 m de radio centrada en un punto dentro del alcance.

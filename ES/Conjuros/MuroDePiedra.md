@@ -26,5 +26,4 @@ Si creas un muro que se extienda más de 6 m, debes reducir a la mitad el tamañ
 
 El muro es un objeto hecho de piedra que se puede dañar y, por tanto, atravesar. Cada panel tiene una CA de 15, 30 puntos de golpe por cada 2,5 cm de grosor e inmunidad al daño psíquico y de veneno. Si los puntos de golpe de un panel se reducen a 0, se destruye, lo que podría provocar que los paneles conectados se derrumben, a discreción de tu GM.
 
-Si mantienes la concentración en este conjuro durante toda su duración, el muro se vuelve permanente y no se puede disipar. De lo contrario, desaparece en cuanto el conjuro termine. 
-
+Si mantienes la concentración en este conjuro durante toda su duración, el muro se vuelve permanente y no se puede disipar. De lo contrario, desaparece en cuanto el conjuro termine.

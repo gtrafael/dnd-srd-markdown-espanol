@@ -16,7 +16,7 @@ related_en: "[[Monsters/Efreeti|Efreeti (EN)]]"
 
 **Velocidad:** 12 m, volar 18 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    22 |  +6 |   +6 |
 | DES   |    12 |  +1 |   +1 |
@@ -54,4 +54,3 @@ related_en: "[[Monsters/Efreeti|Efreeti (EN)]]"
 **A voluntad:** detectar magia, elementalismo
 
 **1/día cada uno:** desplazamiento entre planos, don de lenguas, forma gaseosa, imagen mayor, invisibilidad, muro de fuego (versión de nivel 7)
-

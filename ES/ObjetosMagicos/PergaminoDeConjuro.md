@@ -25,4 +25,3 @@ El nivel del conjuro del pergamino determina la CD de las tiradas de salvación 
 | 7                 | Muy raro    |              18 |                   +10 |
 | 8                 | Muy raro    |              18 |                   +10 |
 | 9                 | Legendario  |              19 |                   +11 |
-

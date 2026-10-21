@@ -75,7 +75,7 @@ Ataque sin armas adicional. Puedes hacer un ataque sin armas como acción adicio
 
 Dado de Artes marciales. Puedes tirar 1d6 en lugar del daño normal de tus ataques sin armas o tus armas de monje. Este dado cambia según subes niveles como monje, como se muestra en la columna “Artes marciales” de la tabla “Rasgos de monje”.
 
-Ataques diestros. Puedes usar tu modificador por Destreza en lugar de tu modificador por Fuerza para las tiradas de ataque y de daño de tus ataques sin armas y tus armas de monje. Además, cuando uses las opciones de agarre o empujón de tu ataque sin armas, puedes usar tu modificador por Destreza en lugar de tu modificador por Fuerza para determinar la CD de salvacion.
+Ataques diestros. Puedes usar tu modificador por Destreza en lugar de tu modificador por Fuerza para las tiradas de ataque y de daño de tus ataques sin armas y tus armas de monje. Además, cuando uses las opciones de agarre o empujón de tu ataque sin armas, puedes usar tu modificador por Destreza en lugar de tu modificador por Fuerza para determinar la CD de salvación.
 
 ### Nivel 1: Defensa sin armadura
 
@@ -135,7 +135,7 @@ Una vez por turno cuando aciertes a una criatura con un arma de monje o un ataqu
 
 ### Nivel 6: Golpes potenciados
 
-Siempre que inflijas daño con tu ataque sin armas, puedes elegir entre causar daño de fuerza o su tipo de dano normal.
+Siempre que inflijas daño con tu ataque sin armas, puedes elegir entre causar daño de fuerza o su tipo de daño normal.
 
 ### Nivel 7: Evasión
 
@@ -219,5 +219,4 @@ Cuando utilices una acción adicional que no sea Paso del viento, podrás usar t
 
 Consigues la capacidad de transmitir vibraciones letales al cuerpo de un oponente. Cuando aciertes a una criatura con un ataque sin armas, puedes gastar 4 puntos de concentración para iniciar estas vibraciones imperceptibles, que durarán tantos días como tu nivel de monje. Las vibraciones son inofensivas, salvo si usas tu acción para hacer que terminen. Como alternativa, cuando lleves a cabo la acción de atacar en tu turno, puedes renunciar a uno de los ataques para poner fin a las vibraciones. Para ello, el objetivo y tú debéis estar en el mismo plano de existencia. Cuando les pongas fin, el objetivo deberá realizar una tirada de salvación de Constitución; sufrirá 10d12 de daño de fuerza si la falla o la mitad del daño si la supera.
 
-Solo puedes tener a una criatura bajo el efecto de este rasgo al mismo tiempo. Puedes poner fin a las vibraciones de forma inocua (no requiere acción). 
-
+Solo puedes tener a una criatura bajo el efecto de este rasgo al mismo tiempo. Puedes poner fin a las vibraciones de forma inocua (no requiere acción).

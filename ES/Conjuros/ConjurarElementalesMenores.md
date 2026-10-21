@@ -22,5 +22,4 @@ Además, el suelo incluido en la emanación se considerará terreno difícil par
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d8 por cada nivel por encima de 4 que tenga el espacio. 
-
+El daño aumenta en 1d8 por cada nivel por encima de 4 que tenga el espacio.

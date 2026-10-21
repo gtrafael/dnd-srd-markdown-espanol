@@ -16,7 +16,7 @@ related_en: "[[Monsters/Druid|Druid (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    12 |  +1 |   +1 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Druid|Druid (EN)]]"
 2/día cada uno: enmarañar, ola atronadora
 
 **1/día cada uno:** mensajero animal, rayo de luna, zancada prodigiosa
-

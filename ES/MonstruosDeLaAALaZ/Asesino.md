@@ -16,7 +16,7 @@ related_en: "[[Monsters/Assassin|Assassin (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    18 |  +4 |   +7 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Assassin|Assassin (EN)]]"
 ## Acciones adicionales
 
 **Acción astuta.** El asesino realiza las acciones de correr, destrabarse o esconderse.
-

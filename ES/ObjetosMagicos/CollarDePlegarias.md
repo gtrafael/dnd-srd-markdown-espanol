@@ -20,4 +20,3 @@ Existen seis tipos de cuentas mágicas. Tu GM decide el tipo de cada cuenta o lo
 | 15    | Cuenta de caminar vientos | Viajar con el viento               |
 | 16–19 | Cuenta de favor           | Restablecimiento mayor             |
 | 20    | Cuenta invocadora         | Guardián de la fe                  |
-

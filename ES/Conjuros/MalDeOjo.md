@@ -24,5 +24,4 @@ En cada uno de tus turnos hasta que el conjuro termine, puedes usar una acción 
 
 **Pánico.** El objetivo tiene el estado de asustado. En cada uno de sus turnos, el objetivo asustado deberá realizar la acción de correr para alejarse de ti por la ruta más corta y segura disponible. Si se mueve a un espacio que esté al menos a 18 m de ti donde no pueda verte, el efecto termina.
 
-**Sueño.** El objetivo tiene el estado de inconsciente. Se despertará si recibe algún daño o si otra criatura utiliza una acción para despertarlo. 
-
+**Sueño.** El objetivo tiene el estado de inconsciente. Se despertará si recibe algún daño o si otra criatura utiliza una acción para despertarlo.

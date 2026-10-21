@@ -16,7 +16,7 @@ related_en: "[[Monsters/Scout|Scout (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    14 |  +2 |   +2 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Scout|Scout (EN)]]"
 **Espada corta.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño perforante.
 
 **Arco largo.** Tirada de ataque a distancia: +4, alcance 45/180 m. Acierto: 6 (1d8 + 2) de daño perforante.
-

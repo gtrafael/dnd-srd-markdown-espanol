@@ -22,5 +22,4 @@ En cada uno de tus turnos, puedes usar una acción adicional para dar órdenes m
 
 La criatura estará bajo tu control durante 24 horas, tras las cuales dejará de obedecer cualquier orden que le hayas dado. Para mantener el control sobre ella otras 24 horas, deberás volver a lanzarle este conjuro antes de que acabe el periodo actual de 24 horas. Este uso del conjuro refuerza tu control sobre hasta cuatro criaturas que hayas animado con él y no anima una nueva criatura.
 
-**Con un espacio de conjuro de nivel superior.** Animas o refuerzas el control sobre dos criaturas muertas vivientes adicionales por cada nivel de conjuro por encima de 3 que tenga el espacio. Cada una de las criaturas debe proceder de un cadáver o un montón de huesos distinto. 
-
+**Con un espacio de conjuro de nivel superior.** Animas o refuerzas el control sobre dos criaturas muertas vivientes adicionales por cada nivel de conjuro por encima de 3 que tenga el espacio. Cada una de las criaturas debe proceder de un cadáver o un montón de huesos distinto.

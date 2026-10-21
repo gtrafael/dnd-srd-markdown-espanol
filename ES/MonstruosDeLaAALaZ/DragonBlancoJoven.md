@@ -16,7 +16,7 @@ related_en: "[[Monsters/Young White Dragon|Young White Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 6 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    10 |  +0 |   +3 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Young White Dragon|Young White Dragon (EN)]]"
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +7, alcance 3 m. Acierto: 9 (2d4 + 4) de daño cortante más 2 (1d4) de daño de frío.
 
 **Aliento gélido (recarga 5–6).** *Tirada de salvación de Constitución:* CD 15, todas las criaturas en un cono de 9 m. Fallo: 40 (9d8) de daño de frío. Éxito: la mitad del daño.
-

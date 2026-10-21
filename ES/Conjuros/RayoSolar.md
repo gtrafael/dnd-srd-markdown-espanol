@@ -20,5 +20,4 @@ Lanzas un rayo solar en una línea de 1,5 m de ancho y 18 m de largo. Todas las 
 
 Hasta que el conjuro termine, puedes emplear una acción de magia para crear una nueva línea de luz radiante.
 
-Hasta que termine el conjuro, por encima de ti brillará una mota radiante que emite luz brillante en un radio de 9 m y luz tenue 9 m más allá. Esta luz es luz solar. 
-
+Hasta que termine el conjuro, por encima de ti brillará una mota radiante que emite luz brillante en un radio de 9 m y luz tenue 9 m más allá. Esta luz es luz solar.

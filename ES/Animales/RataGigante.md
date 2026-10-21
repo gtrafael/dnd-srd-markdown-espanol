@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Rat|Giant Rat (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     7 |  -2 |   -2 |
 | DES   |    16 |  +3 |   +5 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Giant Rat|Giant Rat (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 5 (1d4 + 3) de daño perforante.
-

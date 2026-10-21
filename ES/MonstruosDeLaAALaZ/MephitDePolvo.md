@@ -16,7 +16,7 @@ related_en: "[[Monsters/Dust Mephit|Dust Mephit (EN)]]"
 
 **Velocidad:** 9 m, volar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     5 |  -3 |   -3 |
 | DES   |    14 |  +2 |   +2 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Dust Mephit|Dust Mephit (EN)]]"
 **Aliento cegador (recarga 6).** *Tirada de salvación de Destreza:* CD 10, todas las criaturas en un cono de 4,5 m. Fallo: el objetivo tendrá el estado de cegado hasta el final del siguiente turno del mephit.
 
 **Dormir (1/día).** El mephit lanza el conjuro dormir, que no requiere componentes y utiliza el Carisma como aptitud mágica (CD de salvación de conjuros 10).
-

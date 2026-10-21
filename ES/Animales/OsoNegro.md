@@ -16,7 +16,7 @@ related_en: "[[Animals/Black Bear|Black Bear (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    12 |  +1 |   +1 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Black Bear|Black Bear (EN)]]"
 **Ataque múltiple.** El oso realiza dos ataques de desgarro.
 
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño cortante.
-

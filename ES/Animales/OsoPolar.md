@@ -16,7 +16,7 @@ related_en: "[[Animals/Polar Bear|Polar Bear (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    20 |  +5 |   +5 |
 | DES   |    14 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Polar Bear|Polar Bear (EN)]]"
 **Ataque múltiple.** El oso realiza dos ataques de desgarro.
 
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +7, alcance 1,5 m. Acierto: 9 (1d8 + 5) de daño cortante.
-

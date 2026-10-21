@@ -17,7 +17,7 @@ tags: [srd, espanol, tag_tesoro, sin-equivalente]
 
 **Cabras de marfil (raras).** Las estatuillas de marfil con forma de cabra siempre se crean de tres en tres. Cada cabra posee un aspecto único y funciona de forma distinta a las demás. Sus propiedades son las siguientes:
 
-**Cabra de trabajo.** una cabra gigante hasta 3 horas. Una vez que se utilice, no podrá volver a usarse hasta que hayan pasado 30 dias.
+**Cabra de trabajo.** una cabra gigante hasta 3 horas. Una vez que se utilice, no podrá volver a usarse hasta que hayan pasado 30 días.
 
 **Cabra de viaje.** Esta estatuilla se convierte en una cabra Grande con el mismo perfil que un caballo de monta. Tiene 24 cargas y cada hora o porción de hora que pase con forma de cabra cuesta 1 carga. Mientras posea cargas, puedes usarla tantas veces como quieras. Cuando se quede sin cargas, se convertirá de nuevo en estatuilla y no podrá volver a usarse hasta que hayan pasado 7 días, momento en el que recuperará todas sus cargas.
 
@@ -48,7 +48,7 @@ Bestia Grande, sin alineamiento
 
 **Velocidad:** 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    13 |  +1 |   +1 |
@@ -64,4 +64,3 @@ Bestia Grande, sin alineamiento
 **VD:** 0 (0 PX; BC +2)
 
 Perro de ónice (raro). Esta estatuilla de ónice de un perro puede convertirse en un mastín durante 6 horas, como máximo. El mastín tiene una Inteligencia de 8, puede hablar común y tiene visión ciega hasta 18 m. Una vez que se utilice, no podrá volver a usarse hasta que hayan pasado 7 días.
-

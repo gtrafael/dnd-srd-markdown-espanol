@@ -16,7 +16,7 @@ related_en: "[[Monsters/Cultist|Cultist (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    12 |  +1 |   +1 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Cultist|Cultist (EN)]]"
 ## Acciones
 
 **Hoz ritual.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 3 (1d4 + 1) de daño cortante más 1 de daño necrótico.
-

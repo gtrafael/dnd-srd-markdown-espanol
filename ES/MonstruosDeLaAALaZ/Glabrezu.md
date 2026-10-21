@@ -16,7 +16,7 @@ related_en: "[[Monsters/Glabrezu|Glabrezu (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    20 |  +5 |   +9 |
 | DES   |    15 |  +2 |   +2 |
@@ -56,4 +56,3 @@ related_en: "[[Monsters/Glabrezu|Glabrezu (EN)]]"
 **A voluntad:** detectar magia, disipar magia, oscuridad.
 
 **1/día cada uno:** confusión, palabra de poder: aturdir, volar
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ancient Red Dragon|Ancient Red Dragon (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    30 | +10 |  +10 |
 | DES   |    10 |  +0 |   +7 |
@@ -64,4 +64,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Presencia imponente.** El dragón utiliza su lanzamiento de conjuros para lanzar orden imperiosa (versión de nivel 2). El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Rayos ardientes.** El dragón utiliza su lanzamiento de conjuros para lanzar rayo abrasador (versión de nivel 3). El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

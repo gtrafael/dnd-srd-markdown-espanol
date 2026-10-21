@@ -259,7 +259,7 @@ Puedes invocar a las fuerzas de la naturaleza para mostrar ciertos puntos fuerte
 
 Obtienes una de las siguientes opciones de este rasgo, a tu elección. Tras finalizar un descanso corto o largo, puedes cambiar la opción elegida por la otra.
 
-Defensa contra ataques múltiples. Cuando una criatura te acierte con una tirada de ataque, esa criatura tendrä desventaja en todas las demas tiradas de ataque contra ti este turno.
+Defensa contra ataques múltiples. Cuando una criatura te acierte con una tirada de ataque, esa criatura tendrá desventaja en todas las demás tiradas de ataque contra ti este turno.
 
 Escapar de la horda. Los ataques de oportunidad tienen desventaja contra ti.
 
@@ -269,5 +269,4 @@ Una vez por turno, cuando inflijas daño a una criatura que tenga tu marca del c
 
 ### Nivel 15: Defensa de cazador experto
 
-Cuando recibes daño, puedes usar una reacción para concederte resistencia a ese daño y a cualquier otro daño del mismo tipo hasta el final de ese turno. 
-
+Cuando recibes daño, puedes usar una reacción para concederte resistencia a ese daño y a cualquier otro daño del mismo tipo hasta el final de ese turno.

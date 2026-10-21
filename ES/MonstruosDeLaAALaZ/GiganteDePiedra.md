@@ -16,7 +16,7 @@ related_en: "[[Monsters/Stone Giant|Stone Giant (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    23 |  +6 |   +6 |
 | DES   |    15 |  +2 |   +5 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Stone Giant|Stone Giant (EN)]]"
 ## Reacciones
 
 **Desviar proyectiles (recarga 5–6).** Detonante: una tirada de ataque a distancia acierta al gigante y le hace daño contundente, cortante o perforante. Respuesta: el gigante reduce en 11 (1d10 + 6) el daño que recibe del ataque. Si lo reduce a 0, el gigante puede redirigir una parte de la fuerza del ataque. *Tirada de salvación de Destreza:* CD 17, una criatura que el gigante pueda ver a 18 m o menos. Fallo: 11 (1d10 + 6) de daño de fuerza.
-

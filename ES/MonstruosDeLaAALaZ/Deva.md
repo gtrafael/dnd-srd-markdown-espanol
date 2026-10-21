@@ -16,7 +16,7 @@ related_en: "[[Monsters/Deva|Deva (EN)]]"
 
 **Velocidad:** 9 m, volar 27 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    18 |  +4 |   +4 |
@@ -58,4 +58,3 @@ related_en: "[[Monsters/Deva|Deva (EN)]]"
 ## Acciones adicionales
 
 **Auxilio divino (2/día).** El deva lanza curar heridas, levantar maldición o restablecimiento menor usando la misma aptitud mágica que para su lanzamiento de conjuros.
-

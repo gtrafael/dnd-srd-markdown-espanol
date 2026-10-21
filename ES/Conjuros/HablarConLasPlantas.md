@@ -22,5 +22,4 @@ También puedes convertir el terreno difícil debido al crecimiento vegetal (com
 
 El conjuro no permite que las plantas se liberen del suelo y se desplacen, pero sí que pueden mover sus ramas, zarcillos y tallos por ti.
 
-Si hay una criatura de tipo “planta” en la zona, puedes comunicarte con ella como si compartierais un idioma común. 
-
+Si hay una criatura de tipo “planta” en la zona, puedes comunicarte con ella como si compartierais un idioma común.

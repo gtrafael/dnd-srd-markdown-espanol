@@ -22,5 +22,4 @@ Cuando lanzas este conjuro, puedes elegir criaturas para que no les afecte. La v
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d8 por cada nivel por encima de 3 que tenga el espacio. 
-
+El daño aumenta en 1d8 por cada nivel por encima de 3 que tenga el espacio.

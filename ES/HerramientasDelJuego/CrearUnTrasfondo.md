@@ -57,4 +57,3 @@ Elige una herramienta empleada en la práctica del trasfondo o asociada a menudo
 ## 5: Elige el equipo
 
 Forma un paquete de equipo que tenga un valor de 50 po (e incluye el oro que no gastes). No incluyas armas marciales ni armaduras, ya que los personajes las obtienen al elegir una clase.
-

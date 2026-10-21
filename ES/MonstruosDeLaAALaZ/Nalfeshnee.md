@@ -16,7 +16,7 @@ related_en: "[[Monsters/Nalfeshnee|Nalfeshnee (EN)]]"
 
 **Velocidad:** 6 m, volar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    21 |  +5 |   +5 |
 | DES   |    10 |  +0 |   +0 |
@@ -56,4 +56,3 @@ related_en: "[[Monsters/Nalfeshnee|Nalfeshnee (EN)]]"
 ## Reacciones
 
 **Persecución.** Detonante: otra criatura que el nalfeshnee pueda ver termina su movimiento a 36 m o menos de él. Respuesta: el nalfeshnee utiliza su teletransporte, pero el espacio de destino debe estar a 3 m o menos de la criatura detonante.
-

@@ -15,4 +15,3 @@ Realiza una tirada de ataque a distancia con un bonificador de ataque igual a tu
 Cualquier criatura que toque las bandas, incluida la que está apresada, puede emplear una acción para realizar una prueba de Fuerza (Atletismo) con CD 20 para romper las bandas de hierro. Si la supera, el objeto se destruye y la criatura apresada se libera. Si la falla, cualquier otro intento de romper las bandas por parte de la criatura fallará automáticamente hasta que hayan transcurrido 24 horas.
 
 Una vez que se utilizan las bandas, no podrán volver a usarse hasta el siguiente amanecer.
-

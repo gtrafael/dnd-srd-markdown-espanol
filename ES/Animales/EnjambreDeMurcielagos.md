@@ -16,7 +16,7 @@ related_en: "[[Animals/Swarm of Bats|Swarm of Bats (EN)]]"
 
 **Velocidad:** 1,5 m, volar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     5 |  -3 |   -3 |
 | DES   |    15 |  +2 |   +2 |
@@ -42,4 +42,3 @@ related_en: "[[Animals/Swarm of Bats|Swarm of Bats (EN)]]"
 ## Acciones
 
 **Mordiscos.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (2d4) de daño perforante o 2 (1d4) de daño perforante si el enjambre está maltrecho.
-

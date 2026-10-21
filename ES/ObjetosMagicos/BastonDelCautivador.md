@@ -16,4 +16,3 @@ tags: [srd, espanol, tag_tesoro, sin-equivalente]
 **Resistir encantamiento.** salvación contra un conjuro de encantamiento que solo te haga objetivo a ti, podrás superar la tirada fallida en su lugar. No podrás volver a usar esta propiedad hasta el siguiente amanecer.
 
 **Recuperar cargas.** El bastón recupera 1d8 + 2 cargas empleadas cada día, al amanecer. Si gastas la última carga, tira 1d20. Si el resultado es 1, el bastón se convierte en polvo y se destruye.
-

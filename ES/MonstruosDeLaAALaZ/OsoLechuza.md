@@ -16,7 +16,7 @@ related_en: "[[Monsters/Owlbear|Owlbear (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    20 |  +5 |   +5 |
 | DES   |    12 |  +1 |   +1 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Owlbear|Owlbear (EN)]]"
 **Ataque múltiple.** El oso lechuza realiza dos ataques de desgarro.
 
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +7, alcance 1,5 m. Acierto: 14 (2d8 + 5) de daño cortante.
-

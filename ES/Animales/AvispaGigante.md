@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Wasp|Giant Wasp (EN)]]"
 
 **Velocidad:** 3 m, volar 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    14 |  +2 |   +2 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Giant Wasp|Giant Wasp (EN)]]"
 ## Acciones
 
 **Aguijón.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño perforante más 5 (2d4) de daño de veneno.
-

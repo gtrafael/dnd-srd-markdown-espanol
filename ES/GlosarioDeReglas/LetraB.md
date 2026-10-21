@@ -17,7 +17,4 @@ Búsqueda
 | Percepción  | Criatura u objeto ocultos                     |
 | Perspicacia | Estado mental de una criatura                 |
 
-Supervivencia Huellas o alimentos 
-
-
-
+Supervivencia Huellas o alimentos

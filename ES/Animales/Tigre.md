@@ -16,7 +16,7 @@ related_en: "[[Animals/Tiger|Tiger (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    16 |  +3 |   +3 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Tiger|Tiger (EN)]]"
 ## Acciones adicionales
 
 **Huida veloz.** El tigre realiza las acciones de destrabarse o esconderse.
-

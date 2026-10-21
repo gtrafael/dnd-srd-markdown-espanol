@@ -22,5 +22,4 @@ Un objetivo que esté cerrado mediante una cerradura normal o que esté atascado
 
 Si el objetivo está cerrado mediante cerradura arcana, ese conjuro quedará anulado durante 10 minutos y, durante ese tiempo, el objeto se podrá abrir y cerrar.
 
-Cuando lanzas el conjuro, se escucha un fuerte golpe surgir del objetivo,que es audible a una distancia de 90 m. 
-
+Cuando lanzas el conjuro, se escucha un fuerte golpe surgir del objetivo, que es audible a una distancia de 90 m.

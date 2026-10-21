@@ -16,7 +16,7 @@ related_en: "[[Animals/Seahorse|Seahorse (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     1 |  -5 |   -5 |
 | DES   |    12 |  +1 |   +1 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Seahorse|Seahorse (EN)]]"
 ## Acciones
 
 **Carrera burbujeante.** Mientras está bajo el agua, el caballito de mar se mueve hasta su velocidad nadando sin provocar ataques de oportunidad.
-

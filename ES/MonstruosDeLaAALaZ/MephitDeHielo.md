@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ice Mephit|Ice Mephit (EN)]]"
 
 **Velocidad:** 9 m, volar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     7 |  -2 |   -2 |
 | DES   |    13 |  +1 |   +1 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Ice Mephit|Ice Mephit (EN)]]"
 **Aliento de escarcha (recarga 6).** *Tirada de salvación de Constitución:* CD 10, todas las criaturas en un cono de 4,5 m. Fallo: 7 (3d4) de daño de frío. Éxito: la mitad del daño.
 
 **Nube de oscurecimiento (1/día).** El mephit lanza nube de oscurecimiento, que no requiere componentes y utiliza el Carisma como aptitud mágica.
-

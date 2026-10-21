@@ -20,5 +20,4 @@ Creas una espada espectral que levitará dentro del alcance y durará hasta que 
 
 Cuando aparezca la espada, puedes realizar un ataque de conjuro cuerpo a cuerpo contra un objetivo que se encuentre a 1,5 m o menos de ella. Si acierta, el objetivo recibe una cantidad de daño de fuerza igual a 4d12 más tu modificador por aptitud mágica.
 
-En tus turnos posteriores, puedes emplear una acción adicional para mover la espada hasta 9 m a un lugar que puedas ver y repetir el ataque contra el mismo objetivo u otro distinto. 
-
+En tus turnos posteriores, puedes emplear una acción adicional para mover la espada hasta 9 m a un lugar que puedas ver y repetir el ataque contra el mismo objetivo u otro distinto.

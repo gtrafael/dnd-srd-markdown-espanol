@@ -20,5 +20,4 @@ related_en: "[[Spells/Mislead|Mislead (EN)]]"
 
 Como acción de magia, puedes hacer que tu doble ilusorio se mueva hasta el doble de tu velocidad y hacer que realice gestos, hable y se comporte del modo que quieras. El doble es intangible e invulnerable.
 
-Puedes ver a través de sus ojos y oír con sus oídos como si estuvieras en su ubicación. 
-
+Puedes ver a través de sus ojos y oír con sus oídos como si estuvieras en su ubicación.

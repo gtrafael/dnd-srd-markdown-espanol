@@ -16,5 +16,4 @@ related_en: "[[Spells/Mage Armor|Mage Armor (EN)]]"
 
 **Duración:** 8 horas
 
-Tocas a una criatura voluntaria que no lleve armadura. Hasta que el conjuro termine, la CA base del objetivo pasa a ser de 13 más su modificador por Destreza. El conjuro termina antes si el objetivo se pone una armadura. 
-
+Tocas a una criatura voluntaria que no lleve armadura. Hasta que el conjuro termine, la CA base del objetivo pasa a ser de 13 más su modificador por Destreza. El conjuro termina antes si el objetivo se pone una armadura.

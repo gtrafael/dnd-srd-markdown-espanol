@@ -16,4 +16,3 @@ Mientras lleves puesto este cinturón, tu Fuerza cambiará a una puntuación pro
 | Cinturón de fuerza de gigante (fuego)             |  25 | Muy raro   |
 | Cinturón de fuerza de gigante (nubes)             |  27 | Legendario |
 | Cinturón de fuerza de gigante (tormentas)         |  29 | Legendario |
-

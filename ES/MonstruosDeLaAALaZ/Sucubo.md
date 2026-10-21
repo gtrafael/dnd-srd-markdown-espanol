@@ -16,7 +16,7 @@ related_en: "[[Monsters/Succubus|Succubus (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     8 |  -1 |   -1 |
 | DES   |    17 |  +3 |   +3 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Succubus|Succubus (EN)]]"
 ## Acciones adicionales
 
 **Cambio de forma.** El súcubo adopta la forma de un humanoide Mediano o Pequeño, o recupera su verdadera forma. Su perfil es el mismo en todas las formas, excepto porque su velocidad volando solo está disponible en su forma verdadera. Cualquier equipo que vista o lleve no se transformará.
-

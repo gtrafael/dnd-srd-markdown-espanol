@@ -20,5 +20,4 @@ El toque de tu mano envuelta en sombras puede absorber la fuerza vital de otros 
 
 Hasta que el conjuro termine, podrás realizar el ataque otra vez como acción de magia en cada uno de tus turnos y hacer objetivo a la misma criatura o a otra distinta.
 
-**Con un espacio de conjuro de nivel superior.** El daño aumenta en 1d6 por cada nivel por encima de 3 que tenga el espacio. 
-
+**Con un espacio de conjuro de nivel superior.** El daño aumenta en 1d6 por cada nivel por encima de 3 que tenga el espacio.

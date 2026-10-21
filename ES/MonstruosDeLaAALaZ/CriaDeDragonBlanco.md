@@ -16,7 +16,7 @@ related_en: "[[Monsters/White Dragon Wyrmling|White Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, excavar 4,5 m, nadar 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    10 |  +0 |   +2 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/White Dragon Wyrmling|White Dragon Wyrmling (EN)]]"
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 6 (1d8 + 2) de daño cortante más 2 (1d4) de daño de frío.
 
 **Aliento gélido (recarga 5–6).** *Tirada de salvación de Constitución:* CD 12, todas las criaturas en un cono de 4,5 m. Fallo: 22 (5d8) de daño de frío. Éxito: la mitad del daño.
-

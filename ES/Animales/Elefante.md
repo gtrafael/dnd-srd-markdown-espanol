@@ -16,7 +16,7 @@ related_en: "[[Animals/Elephant|Elephant (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    22 |  +6 |   +6 |
 | DES   |     9 |  -1 |   -1 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Elephant|Elephant (EN)]]"
 ## Acciones adicionales
 
 **Arrollar.** *Tirada de salvación de Destreza:* CD 16, una criatura a 1,5 m o menos que tenga el estado de derribada. Fallo: 17 (2d10 + 6) de daño contundente. Éxito: la mitad del daño.
-

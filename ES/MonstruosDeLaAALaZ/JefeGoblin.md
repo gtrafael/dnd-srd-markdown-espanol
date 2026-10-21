@@ -16,7 +16,7 @@ related_en: "[[Monsters/Goblin Boss|Goblin Boss (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    15 |  +2 |   +2 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Goblin Boss|Goblin Boss (EN)]]"
 ## Reacciones
 
 **Redirigir ataque.** Detonante: una criatura que el goblin pueda ver hace una tirada de ataque contra él. Respuesta: el goblin elige a un aliado Pequeño o Mediano a 1,5 m o menos de él. El goblin y ese aliado intercambian su posición y el aliado se convierte en el objetivo del ataque.
-

@@ -26,5 +26,4 @@ Un conjuro deseo, levantar maldición o restablecimiento mayor también pone fin
 
 **Con un espacio de conjuro de nivel superior.**
 
-Si usas un espacio de niveles 7 u 8, la duración será de 365 días. Si usas un espacio de nivel 9, el conjuro durará hasta que se le ponga fin mediante uno de los conjuros mencionados anteriormente. 
-
+Si usas un espacio de niveles 7 u 8, la duración será de 365 días. Si usas un espacio de nivel 9, el conjuro durará hasta que se le ponga fin mediante uno de los conjuros mencionados anteriormente.

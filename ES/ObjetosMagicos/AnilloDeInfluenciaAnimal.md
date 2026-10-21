@@ -14,4 +14,3 @@ Este anillo tiene 3 cargas y recupera 1d3 cargas empleadas cada día, al amanece
 • Hablar con los animales
 
 • Terror (solo afecta a bestias)
-

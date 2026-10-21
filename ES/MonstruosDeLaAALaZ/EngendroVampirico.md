@@ -16,7 +16,7 @@ related_en: "[[Monsters/Vampire Spawn|Vampire Spawn (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    16 |  +3 |   +6 |
@@ -60,4 +60,3 @@ related_en: "[[Monsters/Vampire Spawn|Vampire Spawn (EN)]]"
 ## Acciones adicionales
 
 **Agilidad de inmortal.** El vampiro realiza las acciones de correr o destrabarse.
-

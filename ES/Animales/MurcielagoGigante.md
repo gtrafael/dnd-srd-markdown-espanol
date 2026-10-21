@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Bat|Giant Bat (EN)]]"
 
 **Velocidad:** 3 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    16 |  +3 |   +3 |
@@ -34,4 +34,3 @@ related_en: "[[Animals/Giant Bat|Giant Bat (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 6 (1d6 + 3) de daño perforante.
-

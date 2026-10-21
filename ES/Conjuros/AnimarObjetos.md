@@ -34,7 +34,7 @@ Autómata Enorme o más pequeño, sin alineamiento
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    10 |  +0 |   +0 |

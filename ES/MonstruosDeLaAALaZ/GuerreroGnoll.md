@@ -16,7 +16,7 @@ related_en: "[[Monsters/Gnoll Warrior|Gnoll Warrior (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    12 |  +1 |   +1 |
@@ -40,4 +40,3 @@ related_en: "[[Monsters/Gnoll Warrior|Gnoll Warrior (EN)]]"
 ## Acciones adicionales
 
 **Rabia (1/día).** Inmediatamente después de hacer daño a una criatura que ya esté maltrecha, el gnoll se moverá hasta la mitad de su velocidad y realizará un ataque de desgarro.
-

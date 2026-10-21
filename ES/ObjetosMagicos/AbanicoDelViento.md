@@ -9,4 +9,3 @@ related_en: "[[Treasure/Wind Fan|Wind Fan (EN)]]"
 *Objeto maravilloso, infrecuente*
 
 Mientras sostengas este abanico, puedes lanzar ráfaga de viento (CD de salvación 13) desde él. Cada vez siguiente que se utilice el abanico antes del próximo amanecer, existe una posibilidad acumulativa del 20 % de que no funcione y se desgarre en jirones inútiles y carentes de magia.
-

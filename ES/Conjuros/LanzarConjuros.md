@@ -119,9 +119,7 @@ Concentración. Si la duración requiere concentración, sigue las reglas corres
 
 Instantáneo. Una duración instantánea significa que la magia del conjuro tendrá efecto solo un instante y luego desaparecerá.
 
-Periodo de tiempo. Una duración que indica un periodo de tiempo especifica cuánto dura el conjuro en asaltos, minutos, horas o similares. Por ejemplo, si en la duración se indica “1 minuto”, significa que el conjuro termina una vez que ha transcurrido 1 minuto. Mientras un conjuro que
-
-tú hayas lanzado siga activo dentro de su periodo de tiempo, puedes ponerle fin (no requiere acción) si no tienes el estado de incapacitado.
+Periodo de tiempo. Una duración que indica un periodo de tiempo especifica cuánto dura el conjuro en asaltos, minutos, horas o similares. Por ejemplo, si en la duración se indica “1 minuto”, significa que el conjuro termina una vez que ha transcurrido 1 minuto. Mientras un conjuro que tú hayas lanzado siga activo dentro de su periodo de tiempo, puedes ponerle fin (no requiere acción) si no tienes el estado de incapacitado.
 
 ### Efectos
 
@@ -161,5 +159,4 @@ Modificador de ataque de conjuros = tu modificador por aptitud mágica + tu boni
 
 ### Combinar efectos de conjuros
 
-Los efectos de varios conjuros se suman si sus duraciones se solapan. En cambio, los efectos del mismo conjuro lanzado varias veces no se combinan. En vez de eso, se aplica el efecto más potente (como el bonificador más alto) de los lanzamientos mientras se solapen sus duraciones. Si los lanzamientos son igual de potentes y sus duraciones se solapan, se aplica el efecto más reciente. Por ejemplo, si dos clérigos lanzan bendición al mismo objetivo, ese objetivo obtendrá el beneficio del conjuro una sola vez y no recibirá dos dados adicionales. Sin embargo, si las duraciones de los conjuros se solapan, el efecto continúa hasta que termina la duración de bendición 
-
+Los efectos de varios conjuros se suman si sus duraciones se solapan. En cambio, los efectos del mismo conjuro lanzado varias veces no se combinan. En vez de eso, se aplica el efecto más potente (como el bonificador más alto) de los lanzamientos mientras se solapen sus duraciones. Si los lanzamientos son igual de potentes y sus duraciones se solapan, se aplica el efecto más reciente. Por ejemplo, si dos clérigos lanzan bendición al mismo objetivo, ese objetivo obtendrá el beneficio del conjuro una sola vez y no recibirá dos dados adicionales. Sin embargo, si las duraciones de los conjuros se solapan, el efecto continúa hasta que termina la duración de bendición

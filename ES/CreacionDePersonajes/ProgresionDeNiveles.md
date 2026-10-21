@@ -81,5 +81,4 @@ En el tercer escalón, los personajes habrán alcanzado un nivel de poder que le
 
 ## Escalón 4 (niveles 17 a 20)
 
-En el cuarto escalón, los personajes alcanzan la cúspide de sus rasgos de clase y se transforman en arquetipos de heroísmo. El destino del mundo e incluso el orden fundamental del multiverso podrían pender de un hilo en sus aventuras. 
-
+En el cuarto escalón, los personajes alcanzan la cúspide de sus rasgos de clase y se transforman en arquetipos de heroísmo. El destino del mundo e incluso el orden fundamental del multiverso podrían pender de un hilo en sus aventuras.

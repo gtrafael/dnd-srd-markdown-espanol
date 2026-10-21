@@ -9,4 +9,3 @@ related_en: "[[Treasure/Mantle of Spell Resistance|Mantle of Spell Resistance (E
 *Objeto maravilloso, raro (requiere sintonización)*
 
 Mientras lleves esta capa, tendrás ventaja en las tiradas de salvación contra conjuros.
-

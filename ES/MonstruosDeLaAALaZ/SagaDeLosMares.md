@@ -14,7 +14,7 @@ related_en: "[[Monsters/Sea Hag|Sea Hag (EN)]]"
 
 **Velocidad:** 9 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    13 |  +1 |   +1 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Sea Hag|Sea Hag (EN)]]"
 **Apariencia ilusoria.** La saga lanza disfrazarse, que utiliza la Constitución como aptitud mágica (CD de salvación de conjuros 13). El conjuro dura 24 horas.
 
 **Mirada mortal (recarga 5–6).** *Tirada de salvación de Sabiduría:* CD 11, una criatura asustada que la saga pueda ver a 9 m o menos. Fallo: si el objetivo tiene 20 puntos de golpe o menos, estos se reducen a 0. De lo contrario, el objetivo recibe 13 (3d8) de daño psíquico.
-

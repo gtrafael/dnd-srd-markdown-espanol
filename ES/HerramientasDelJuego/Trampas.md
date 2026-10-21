@@ -34,9 +34,7 @@ Activador: Una criatura que no abra bien la cerradura de la trampa o no consiga 
 
 Duración: Instantánea
 
-Una cerradura esconde una aguja envenenada. Si una criatura la abre con cualquier objeto que no
-
-sea la llave correcta, la aguja saltará y pinchará a la criatura, que hará una tirada de salvación de Constitución con CD 11. Si la falla, la criatura sufre 5 (1d10) de daño de veneno y tendrá el estado de envenenada durante 1 hora. Si la supera, solo sufrirá la mitad de ese daño.
+Una cerradura esconde una aguja envenenada. Si una criatura la abre con cualquier objeto que no sea la llave correcta, la aguja saltará y pinchará a la criatura, que hará una tirada de salvación de Constitución con CD 11. Si la falla, la criatura sufre 5 (1d10) de daño de veneno y tendrá el estado de envenenada durante 1 hora. Si la supera, solo sufrirá la mitad de ese daño.
 
 Evitar la trampa. La trampa no se activará si la cerradura se abre mediante un conjuro abrir u otro efecto mágico similar.
 
@@ -124,9 +122,7 @@ Este pozo de 3 m de profundidad tiene una tapa con bisagras hecha del mismo mate
 
 Una criatura que caiga en el pozo sufrirá 3 (1d6) de daño contundente por la caída.
 
-Detectar y desarmar. Como acción de estudiar, una criatura puede examinar la sección del suelo que conforma la tapa del pozo y hacer una prueba de Inteligencia (Investigación) con CD 15. Si la
-
-supera, descubrirá el pozo. Una vez detectado, se puede introducir una punta de hierro o un objeto similar entre la tapa y el suelo de alrededor para impedir que se abra y poder cruzar sin peligro. La tapa también puede mantenerse cerrada usando un conjuro cerradura arcana u otro efecto mágico similar.
+Detectar y desarmar. Como acción de estudiar, una criatura puede examinar la sección del suelo que conforma la tapa del pozo y hacer una prueba de Inteligencia (Investigación) con CD 15. Si la supera, descubrirá el pozo. Una vez detectado, se puede introducir una punta de hierro o un objeto similar entre la tapa y el suelo de alrededor para impedir que se abra y poder cruzar sin peligro. La tapa también puede mantenerse cerrada usando un conjuro cerradura arcana u otro efecto mágico similar.
 
 Escapar. Para subir por las paredes lisas del pozo, una criatura necesita una velocidad trepando, equipo de escalada o efectos mágicos como el conjuro trepar cual arácnido. Puedes hacer que el pozo sea más fácil de escalar si añades grietas en las paredes lo bastante grandes como para que sirvan de apoyos para manos y pies.
 
@@ -182,7 +178,7 @@ Activador: Una criatura que cruce un cable trampa Duración: Instantánea
 
 Esta trampa utiliza un cable que provoca el derrumbamiento de una sección inestable del techo. El cable se halla a una altura de 7,5 cm del suelo y está tendido entre dos soportes frágiles que se vienen abajo cuando se tira del cable.
 
-La primera criatura que cruce el cable trampa hace que se derrumben los soportes y la sección inestable del techo. Todas las criaturas situadas bajo ella tendran que realizar una tirada de salvación de Destreza con CD 13; sufrirán 11 (2d10) de daño contundente si la fallan o la mitad del daño si la superan.Los escombros del derrumbe convierten la zona de la trampa en terreno difícil.
+La primera criatura que cruce el cable trampa hace que se derrumben los soportes y la sección inestable del techo. Todas las criaturas situadas bajo ella tendrán que realizar una tirada de salvación de Destreza con CD 13; sufrirán 11 (2d10) de daño contundente si la fallan o la mitad del daño si la superan. Los escombros del derrumbe convierten la zona de la trampa en terreno difícil.
 
 Detectar y desarmar. Como acción de buscar, una criatura puede examinar la zona de la trampa y hacer una prueba de Sabiduría (Percepción) con CD 11. Si la supera, detectará el cable trampa y la sección inestable del techo. Una vez detectado, el cable trampa puede cortarse o esquivarse fácilmente (no requiere prueba de característica).
 
@@ -193,4 +189,3 @@ A niveles superiores. Puedes adaptar la trampa a niveles superiores incrementand
 | 5–10    | 22 (4d10)        |              15 |
 | 11–16   | 55 (10d10)       |              17 |
 | 17–20   | 99 (18d10)       |              19 |
-

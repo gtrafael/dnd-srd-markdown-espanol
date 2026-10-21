@@ -16,7 +16,7 @@ related_en: "[[Animals/Eagle|Eagle (EN)]]"
 
 **Velocidad:** 3 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     6 |  -2 |   -2 |
 | DES   |    15 |  +2 |   +2 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Eagle|Eagle (EN)]]"
 ## Acciones
 
 **Garras.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 4 (1d4 + 2) de daño cortante.
-

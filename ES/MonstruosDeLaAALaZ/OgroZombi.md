@@ -16,7 +16,7 @@ related_en: "[[Monsters/Ogre Zombie|Ogre Zombie (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |     6 |  -2 |   -2 |
@@ -36,4 +36,3 @@ related_en: "[[Monsters/Ogre Zombie|Ogre Zombie (EN)]]"
 ## Acciones
 
 **Golpe.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 13 (2d8 + 4) de daño contundente.
-

@@ -20,5 +20,3 @@ Una hoja de personaje es un registro en papel o digital en el que apuntas la inf
 # Hostil [actitud]
 
 Una criatura hostil te ve con malos ojos. Tienes desventaja en las pruebas de característica para influir en una criatura hostil. Consulta también “Influir”.
-
-

@@ -19,4 +19,3 @@ Cada bolsillo del morral contiene aire suficiente para respirar durante 10 minut
 Meter el morral en el espacio extradimensional creado por un agujero portátil, una bolsa de contención o un objeto similar destruye instantáneamente ambos objetos y abre un portal al Plano Astral.
 
 El portal se crea en el sitio en el que un objeto se introdujo dentro del otro. El portal absorbe a todas las criaturas situadas a 3 m o menos de él y que no estén tras cobertura completa, y las conduce a un lugar aleatorio del Plano Astral. Después, el portal se cierra. El portal solo funciona en un sentido y no puede volver a abrirse.
-

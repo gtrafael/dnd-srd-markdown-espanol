@@ -20,5 +20,4 @@ Creas una esfera de niebla de 6 m de radio centrada en un punto dentro del alcan
 
 **Con un espacio de conjuro de nivel superior.**
 
-El radio de la niebla aumenta en 6 m por cada nivel por encima de 1 que tenga el espacio. 
-
+El radio de la niebla aumenta en 6 m por cada nivel por encima de 1 que tenga el espacio.

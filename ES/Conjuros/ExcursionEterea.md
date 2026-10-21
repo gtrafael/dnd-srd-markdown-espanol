@@ -26,5 +26,4 @@ Este conjuro termina al instante si lo lanzas mientras estás en el Plano Etére
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes hacer objetivo a hasta tres criaturas voluntarias (incluyéndote a ti) por cada nivel por encima de 7 que tenga el espacio. Estas criaturas deben estar a 3 m o menos de ti cuando lances el conjuro. 
-
+Puedes hacer objetivo a hasta tres criaturas voluntarias (incluyéndote a ti) por cada nivel por encima de 7 que tenga el espacio. Estas criaturas deben estar a 3 m o menos de ti cuando lances el conjuro.

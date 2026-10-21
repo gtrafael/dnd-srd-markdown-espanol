@@ -16,7 +16,7 @@ related_en: "[[Monsters/Kobold Warrior|Kobold Warrior (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     7 |  -2 |   -2 |
 | DES   |    15 |  +2 |   +2 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Kobold Warrior|Kobold Warrior (EN)]]"
 ## Acciones
 
 **Daga.** Tirada de ataque cuerpo a cuerpo o a distancia: +4, alcance 1,5 m o 6/18 m a distancia. Acierto: 4 (1d4 + 2) de daño perforante.
-

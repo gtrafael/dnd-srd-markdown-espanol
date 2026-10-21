@@ -16,5 +16,4 @@ related_en: "[[Spells/Continual Flame|Continual Flame (EN)]]"
 
 **Duración:** Hasta que sea disipado
 
-Una llama surge de un objeto que toques. El efecto emite una luz brillante en un radio de 6 m y una luz tenue 6 m más allá. Parece una llama normal, pero no genera calor ni consume combustible. La llama se puede tapar u ocultar, pero no se puede apagar ni extinguir. 
-
+Una llama surge de un objeto que toques. El efecto emite una luz brillante en un radio de 6 m y una luz tenue 6 m más allá. Parece una llama normal, pero no genera calor ni consume combustible. La llama se puede tapar u ocultar, pero no se puede apagar ni extinguir.

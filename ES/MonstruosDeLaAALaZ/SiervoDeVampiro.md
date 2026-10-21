@@ -16,7 +16,7 @@ related_en: "[[Monsters/Vampire Familiar|Vampire Familiar (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    16 |  +3 |   +5 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Vampire Familiar|Vampire Familiar (EN)]]"
 ## Acciones adicionales
 
 **Agilidad de inmortal.** El siervo realiza las acciones de correr o destrabarse.
-

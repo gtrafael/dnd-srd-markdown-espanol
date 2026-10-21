@@ -16,7 +16,7 @@ related_en: "[[Monsters/Water Elemental|Water Elemental (EN)]]"
 
 **Velocidad:** 9 m, nadar 27 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +2 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Water Elemental|Water Elemental (EN)]]"
 **Golpe.** Tirada de ataque cuerpo a cuerpo: +7, alcance 1,5 m. Acierto: 13 (2d8 + 4) de daño contundente. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada.
 
 **Anegar (recarga 4–6).** *Tirada de salvación de Fuerza:* CD 15, todas las criaturas en el espacio del elemental. Fallo: 22 (4d8 + 4) de daño contundente. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 14 para escapar). Hasta que el agarre termine, el objetivo tendrá el estado de apresado, sufrirá asfixia salvo que pueda respirar en el agua y recibirá 9 (2d8) de daño contundente al principio de cada turno del elemental. El elemental puede agarrar a una criatura Grande o hasta a dos criaturas Medianas o más pequeñas al mismo tiempo con la acción de anegar. Como acción, una criatura a 1,5 m o menos del elemental puede sacar a una criatura de él si supera una prueba de Fuerza (Atletismo) con CD 14. Éxito: solo la mitad del daño.
-

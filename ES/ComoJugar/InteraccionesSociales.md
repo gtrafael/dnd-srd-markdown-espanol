@@ -27,5 +27,4 @@ Si ofreces a un PNJ algo que le interese o sacas provecho de sus gustos, miedos 
 
 Las pruebas de característica pueden resultar claves a la hora de determinar el resultado de una interacción social. Tu interpretación puede cambiar la actitud de un PNJ, pero tal vez siga habiendo un factor de suerte si tu GM quiere que los dados desempeñen una función al determinar la reacción del PNJ. En estas situaciones, tu GM normalmente pedirá que utilices la acción de influir.
 
-Presta atención a tus competencias en habilidades cuando pienses en cómo interactuar con un PNJ: aplica un estilo que se base en las competencias en habilidades de tu grupo. Por ejemplo, si el grupo tiene que engañar a un guardia para entrar en un castillo, lo mejor es que un pícaro competente en Engaño lleve las riendas de la discusión. 
-
+Presta atención a tus competencias en habilidades cuando pienses en cómo interactuar con un PNJ: aplica un estilo que se base en las competencias en habilidades de tu grupo. Por ejemplo, si el grupo tiene que engañar a un guardia para entrar en un castillo, lo mejor es que un pícaro competente en Engaño lleve las riendas de la discusión.

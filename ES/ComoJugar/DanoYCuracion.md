@@ -51,7 +51,7 @@ Algunas criaturas y objetos poseen resistencia o vulnerabilidad a determinados t
 
 ## No se acumulan
 
-Si existen varias resistencias o vulnerabilidades que afectan al mismo tipo de daño, estas solo cuentan como una. Por ejemplo, si posees resistencia al daño necrótico y resistencia a todo el daño, el daño necrótico se reducirä ala mitad contra ti.
+Si existen varias resistencias o vulnerabilidades que afectan al mismo tipo de daño, estas solo cuentan como una. Por ejemplo, si posees resistencia al daño necrótico y resistencia a todo el daño, el daño necrótico se reducirá ala mitad contra ti.
 
 ### Orden de aplicación
 
@@ -99,7 +99,7 @@ Si tus puntos de golpe se reducen a 0, pero no mueres al instante, tendrás el e
 
 ## Tiradas de salvación contra muerte
 
-Siempre que empieces tu turno con 0 puntos de golpe, deberás hacer una tirada de salvación contra muerte, que determinará si te acercas a la muerte o te aferras a la vida. A diferencia del resto de tiradas de salvación, esta no está vinculada a ninguna puntuación de caracteristica.Estaras en manos del destino.
+Siempre que empieces tu turno con 0 puntos de golpe, deberás hacer una tirada de salvación contra muerte, que determinará si te acercas a la muerte o te aferras a la vida. A diferencia del resto de tiradas de salvación, esta no está vinculada a ninguna puntuación de característica. Estarás en manos del destino.
 
 Tres éxitos o fallos. Tira 1d20. Si el resultado de la tirada es 10 o más, tienes éxito. De lo contrario, fallas. Un éxito o un fallo no tienen efecto alguno en sí mismos, pero en tu tercer éxito te estabilizarás (como se explica más adelante en “Estabilizar a un personaje”) y con tu tercer fallo morirás.
 
@@ -135,5 +135,4 @@ Los puntos de golpe temporales no se pueden sumar. Si ya tienes puntos de golpe 
 
 Los puntos de golpe temporales no se pueden sumar a tus puntos de golpe, no puedes recuperarlos mediante la curación y recibir puntos de golpe temporales no cuenta como curación. Como los puntos de golpe temporales no son puntos de golpe, una criatura puede tener todos sus puntos de golpe y recibir puntos de golpe temporales.
 
-Si tienes 0 puntos de golpe, no recuperas la consciencia por obtener puntos de golpe temporales. Solo la verdadera curación puede salvarte. 
-
+Si tienes 0 puntos de golpe, no recuperas la consciencia por obtener puntos de golpe temporales. Solo la verdadera curación puede salvarte.

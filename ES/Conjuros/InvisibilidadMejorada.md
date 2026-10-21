@@ -16,5 +16,4 @@ related_en: "[[Spells/Greater Invisibility|Greater Invisibility (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-Una criatura a la que tocas tiene el estado de invisible hasta que el conjuro termine. 
-
+Una criatura a la que tocas tiene el estado de invisible hasta que el conjuro termine.

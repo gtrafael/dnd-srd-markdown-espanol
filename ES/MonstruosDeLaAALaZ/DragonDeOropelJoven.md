@@ -16,7 +16,7 @@ related_en: "[[Monsters/Young Brass Dragon|Young Brass Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 6 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    10 |  +0 |   +3 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Young Brass Dragon|Young Brass Dragon (EN)]]"
 **Aliento de fuego (recarga 5–6).** *Tirada de salvación de Destreza:* CD 14, todas las criaturas en una línea de 12 m de largo y 1,5 m de ancho. Fallo: 38 (11d6) de daño de fuego. Éxito: la mitad del daño.
 
 **Aliento somnífero.** *Tirada de salvación de Constitución:* CD 14, todas las criaturas en un cono de 9 m. Fallo: el objetivo tendrá el estado de incapacitado hasta el final de su siguiente turno, momento en el que repetirá la tirada de salvación. Segundo fallo: el objetivo tendrá el estado de inconsciente durante 1 minuto. Este efecto acabará si el objetivo sufre daño o si una criatura que se encuentre a 1,5 m o menos de él lleva a cabo una acción para despertarlo.
-

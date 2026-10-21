@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Owl|Giant Owl (EN)]]"
 
 **Velocidad:** 1,5 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    15 |  +2 |   +2 |
@@ -48,4 +48,3 @@ related_en: "[[Animals/Giant Owl|Giant Owl (EN)]]"
 **A voluntad:** detectar el bien y el mal, detectar magia
 
 1/día: clarividencia
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Hobgoblin Captain|Hobgoblin Captain (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    14 |  +2 |   +2 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Hobgoblin Captain|Hobgoblin Captain (EN)]]"
 **Espadón.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 9 (2d6 + 2) de daño cortante más 3 (1d6) de daño de veneno.
 
 **Arco largo.** Tirada de ataque a distancia: +4, alcance 45/180 m. Acierto: 6 (1d8 + 2) de daño perforante más 5 (2d4) de daño de veneno.
-

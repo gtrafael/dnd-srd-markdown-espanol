@@ -17,4 +17,3 @@ Esta varita tiene 7 cargas.
 | Terror (cono de 18 m)                      |               3 |
 
 **Recuperar cargas.** La varita recupera 1d6 + 1 cargas empleadas cada día, al amanecer. Si gastas la última carga de la varita, tira 1d20. Si el resultado es 1, la varita se convierte en cenizas y se destruye.
-

@@ -16,5 +16,4 @@ related_en: "[[Spells/Blur|Blur (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-**Tu cuerpo se vuelve borroso.** Hasta que termine el conjuro, todas las criaturas tendrán desventaja en las tiradas de ataque contra ti. Un atacante es inmune a este efecto si te percibe mediante visión ciega o visión verdadera. 
-
+**Tu cuerpo se vuelve borroso.** Hasta que termine el conjuro, todas las criaturas tendrán desventaja en las tiradas de ataque contra ti. Un atacante es inmune a este efecto si te percibe mediante visión ciega o visión verdadera.

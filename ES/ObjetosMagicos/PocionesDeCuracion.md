@@ -17,4 +17,3 @@ Independientemente de su potencia, el líquido rojo de la poción brilla al agit
 | Poción de curación (mayor)    | 4d4 + 4        | Infrecuente |
 | Poción de curación (superior) | 8d4 + 8        | Rara        |
 | Poción de curación (suprema)  | 10d4 + 20      | Muy rara    |
-

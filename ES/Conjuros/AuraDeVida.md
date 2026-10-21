@@ -16,5 +16,4 @@ related_en: "[[Spells/Aura of Life|Aura of Life (EN)]]"
 
 **Duración:** Concentración, hasta 10 minutos
 
-Un aura surge de ti en una emanación de 9 m hasta que el conjuro termine. Mientras permanezcáis dentro, tus aliados y tú tenéis resistencia al daño necrótico y no se podrán reducir vuestros puntos de golpe máximos. Si un aliado con 0 puntos de golpe comienza su turno en el aura, recupera 1 punto de golpe. 
-
+Un aura surge de ti en una emanación de 9 m hasta que el conjuro termine. Mientras permanezcáis dentro, tus aliados y tú tenéis resistencia al daño necrótico y no se podrán reducir vuestros puntos de golpe máximos. Si un aliado con 0 puntos de golpe comienza su turno en el aura, recupera 1 punto de golpe.

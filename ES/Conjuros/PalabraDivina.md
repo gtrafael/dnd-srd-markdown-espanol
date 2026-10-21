@@ -26,4 +26,3 @@ Susurras una palabra imbuida con el poder de los Planos Superiores. Todas las cr
 | 21–30           | El objetivo tiene los estados de aturdido, cegado y ensordecido durante 1 hora. |
 | 31–40           | El objetivo tiene los estados de cegado y ensordecido durante 10 minutos.       |
 | 41–50           | El objetivo tiene el estado de ensordecido durante 1 minuto.                    |
-

@@ -20,5 +20,4 @@ Una granizada cae en un cilindro de 6 m de radio y 12 m de altura centrado en un
 
 Las bolas de granizo convierten el suelo del cilindro en terreno difícil hasta el final de tu siguiente turno.
 
-**Con un espacio de conjuro de nivel superior.** El daño contundente aumenta en 1d10 por cada nivel por encima de 4 que tenga el espacio. 
-
+**Con un espacio de conjuro de nivel superior.** El daño contundente aumenta en 1d10 por cada nivel por encima de 4 que tenga el espacio.

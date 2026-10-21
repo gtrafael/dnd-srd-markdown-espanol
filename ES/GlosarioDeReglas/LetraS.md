@@ -13,7 +13,7 @@ Cuando saltas, puedes hacer un salto de longitud (horizontal) o un salto de altu
 
 Cuando hagas un salto de altura, ascenderás una distancia de 90 cm + 30 cm × tu modificador por Fuerza (como mínimo 0 m) si te mueves al menos 3 m a pie antes de saltar. Si saltas sin coger carrerilla, solo podrás ascender la mitad de esa distancia. En cualquier caso, cada metro que saltes te costará un metro de tu movimiento.
 
-Mientras saltas, puedes estirar los brazos una distancia equivalente a la mitad de tu altura por encima de ti.De esta forma,podras alcanzar con las manos una distancia igual a la de la altura del salto más una vez y media tu altura.
+Mientras saltas, puedes estirar los brazos una distancia equivalente a la mitad de tu altura por encima de ti. De esta forma, podrás alcanzar con las manos una distancia igual a la de la altura del salto más una vez y media tu altura.
 
 # Salto de longitud
 
@@ -40,5 +40,3 @@ Algunos objetos mágicos requieren que una criatura forme un vínculo llamado si
 # Sorpresa
 
 Si el comienzo de un combate pilla desprevenida a una criatura, estará sorprendida, lo que le hará tener desventaja en su tirada de iniciativa. Consulta también el capítulo “Cómo jugar” (“Combate”).
-
-

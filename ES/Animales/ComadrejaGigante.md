@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Weasel|Giant Weasel (EN)]]"
 
 **Velocidad:** 12 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    17 |  +3 |   +3 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Giant Weasel|Giant Weasel (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 5 (1d4 + 3) de daño perforante.
-

@@ -210,7 +210,7 @@ Si un efecto, como el rasgo Forma salvaje o el conjuro polimorfar, te permite ca
 
 ## Campaña
 
-Una campanaes una serie deaventuras.Consulta también
+Una campaña es una serie de aventuras. Consulta también
 
 ## Canalizador mágico
 
@@ -226,7 +226,7 @@ Pruebas con d20 afectadas. Cuando hagas una prueba con d20, el resultado se redu
 
 Velocidad reducida. Tu velocidad se reduce en 1,5 m × tu nivel de cansancio.
 
-Eliminar niveles de cansancio. Tras finalizar un descanso largo, resta 1 nivel de cansancio. Cuando tus niveles de cansancio se reduzcan a 0, el estado terminara.
+Eliminar niveles de cansancio. Tras finalizar un descanso largo, resta 1 nivel de cansancio. Cuando tus niveles de cansancio se reduzcan a 0, el estado terminará.
 
 ## Capacidad de carga
 
@@ -292,7 +292,7 @@ Un conjuro es un efecto mágico que tiene las características descritas en el c
 
 ## Cono [área de efecto]
 
-Un cono es un ärea de efecto que se extiende en lineas rectas desde un punto de origen en la dirección que elija su creador. El ancho del cono en un punto cualquiera a lo largo de su extensión es igual a la distancia entre dicho punto y el origen. Por ejemplo, un cono tiene un ancho de 4,5 m en un punto a lo largo de su extensión que esté a 4,5 m del punto de origen. El efecto que crea un cono especifica su extensión máxima.
+Un cono es un área de efecto que se extiende en líneas rectas desde un punto de origen en la dirección que elija su creador. El ancho del cono en un punto cualquiera a lo largo de su extensión es igual a la distancia entre dicho punto y el origen. Por ejemplo, un cono tiene un ancho de 4,5 m en un punto a lo largo de su extensión que esté a 4,5 m del punto de origen. El efecto que crea un cono especifica su extensión máxima.
 
 El punto de origen de un cono no está incluido en el área de efecto, salvo que su creador decida lo contrario.
 
@@ -402,7 +402,7 @@ Consumo de agua al día
 
 ## Desnutrición [peligro]
 
-Las criaturas necesitan cierta cantidad de alimentos al día en función de su tamaño, como se muestra en la tabla “Consumo de alimentos al día”. Si una criatura come, pero ingiere menos de la mitad de los alimentos que necesita al día, deberá superar una tirada de salvacion de Constitucion con CD 10 o sumará 1 nivel de cansancio al final del día. Si una criatura no come nada durante 5 días, sumará automáticamente 1 nivel de cansancio al final del quinto día y un nivel adicional al final de cada día posterior sin comer.
+Las criaturas necesitan cierta cantidad de alimentos al día en función de su tamaño, como se muestra en la tabla “Consumo de alimentos al día”. Si una criatura come, pero ingiere menos de la mitad de los alimentos que necesita al día, deberá superar una tirada de salvación de Constitución con CD 10 o sumará 1 nivel de cansancio al final del día. Si una criatura no come nada durante 5 días, sumará automáticamente 1 nivel de cansancio al final del quinto día y un nivel adicional al final de cada día posterior sin comer.
 
 El cansancio causado por la desnutrición no puede eliminarse hasta que la criatura coma la cantidad completa de alimentos necesarios al día. Consulta también
 
@@ -412,7 +412,7 @@ Consumo de alimentos al día
 |----------|-----------|---------------|-----------|
 | Diminuto | 125 g     | Grande        | 2 kg      |
 | Pequeño  | 0,5 kg    | Enorme        | 8 kg      |
-| Mediano  | 0,5 kg    | Gargan-tuesco | 32 kg     |
+| Mediano  | 0,5 kg    | Gargantuesco | 32 kg     |
 
 ## Destrabarse [acción]
 
@@ -480,7 +480,7 @@ El punto de origen de una esfera está incluido en su área de efecto.
 
 ## Espacio ocupado
 
-Un espacio se considera ocupado si una criatura se encuentra en élo si estä completamente lleno de objetos.
+Un espacio se considera ocupado si una criatura se encuentra en él o si está completamente lleno de objetos.
 
 ## Espacio sin ocupar
 
@@ -597,7 +597,7 @@ Voluntario. Si tu afán concuerda con los deseos del monstruo, no será necesari
 
 No voluntario. Si tu deseo resulta aversivo para el monstruo u opuesto a su alineamiento, no será necesaria ninguna prueba de característica: no lo aceptará.
 
-Indeciso. Si instas al monstruo a que haga algo sobre lo que siente dudas, deberás realizar una prueba de característica, en la que influirá la actitud del monstruo: indiferente, amistosa u hostil, todas ellas definidas en este glosario. La tabla “Pruebas de influencia” sugiere qué prueba de característica se debe hacer en funcion de cómo interactuas con el monstruo. Tu GM elegirá la prueba, que tendrá por defecto una CD igual a 15 o la puntuación de Inteligencia del monstruo, la que sea más alta. Si la superas, el monstruo hará lo que le pides. Si la fallas, deberás esperar 24 horas (o el plazo que establezca tu GM) antes de volver a insistir.
+Indeciso. Si instas al monstruo a que haga algo sobre lo que siente dudas, deberás realizar una prueba de característica, en la que influirá la actitud del monstruo: indiferente, amistosa u hostil, todas ellas definidas en este glosario. La tabla “Pruebas de influencia” sugiere qué prueba de característica se debe hacer en función de cómo interactúas con el monstruo. Tu GM elegirá la prueba, que tendrá por defecto una CD igual a 15 o la puntuación de Inteligencia del monstruo, la que sea más alta. Si la superas, el monstruo hará lo que le pides. Si la fallas, deberás esperar 24 horas (o el plazo que establezca tu GM) antes de volver a insistir.
 
 Pruebas de influencia
 
@@ -637,9 +637,7 @@ Ataques afectados. Las tiradas de ataque contra ti tienen desventaja y tus tirad
 
 ## Levitar
 
-Algunas criaturas pueden levitar, como se indica en sus perfiles, y algunos conjuros y otros efectos otorgan la capacidad de levitar. Si levitas al volar,
-
-evitarás caerte en determinadas circunstancias. Consulta también
+Algunas criaturas pueden levitar, como se indica en sus perfiles, y algunos conjuros y otros efectos otorgan la capacidad de levitar. Si levitas al volar, evitarás caerte en determinadas circunstancias. Consulta también
 
 ## Ligeramente oscuro
 
@@ -649,7 +647,7 @@ Tienes desventaja en las pruebas de Sabiduría (Percepción) para ver algo en un
 
 Una línea es un área de efecto que se extiende desde un punto de origen en una trayectoria recta a lo largo de su extensión y cubre un área delimitada por su ancho. El efecto que crea una línea especifica su longitud y anchura.
 
-El punto de origen de una línea no está incluido en el ärea de efecto,salvo que su creador decida lo contrario.
+El punto de origen de una línea no está incluido en el área de efecto, salvo que su creador decida lo contrario.
 
 ## Luz brillante
 
@@ -681,7 +679,7 @@ Un monstruo es una criatura que controla el GM, aunque dicha criatura sea bondad
 
 Una criatura muerta no tiene puntos de golpe ni puede recuperarlos salvo que antes la revivan con magia, como los conjuros alzar a los muertos o revivir. Cuando se lanza un conjuro de ese estilo, el espíritu sabe quién lo lanza y puede rechazarlo. El espíritu de una criatura muerta abandona su cuerpo y parte a los Planos Exteriores, por lo que revivir a la criatura requiere llamar a su espíritu para que regrese.
 
-Si la criatura vuelve a la vida, el efecto que la revive determina sus puntos de golpe actuales. Salvo que indique lo contrario, la criatura vuelve a la vida con cualquier estado, enfermedad mágica o maldición que la afectara en el momento de su muerte si las duraciones de esos efectos no han concluido. Si la criatura murió con algún nivel de cansancio, regresarä con 1 nivel menos.Sila criatura estaba sintonizada con uno o varios objetos mágicos, dejará de estarlo.
+Si la criatura vuelve a la vida, el efecto que la revive determina sus puntos de golpe actuales. Salvo que indique lo contrario, la criatura vuelve a la vida con cualquier estado, enfermedad mágica o maldición que la afectara en el momento de su muerte si las duraciones de esos efectos no han concluido. Si la criatura murió con algún nivel de cansancio, regresará con 1 nivel menos. Sila criatura estaba sintonizada con uno o varios objetos mágicos, dejará de estarlo.
 
 ## Muy oscuro
 
@@ -781,7 +779,7 @@ Notación del daño. Los perfiles suelen proporcionar un número estático y la 
 
 La pericia es un rasgo que mejora el uso de tu competencia en una habilidad. Cuando hagas una prueba de característica con una competencia en una habilidad en la que tengas pericia, tu bonificador por competencia se duplica en esa prueba salvo que otro rasgo lo duplique.
 
-Si ganas pericia, la ganas en una habilidad en la que tengas competencia. No puedes tener pericia mäs de una vez en la misma habilidad.
+Si ganas pericia, la ganas en una habilidad en la que tengas competencia. No puedes tener pericia más de una vez en la misma habilidad.
 
 Consulta también el capítulo “Cómo jugar” (“Competencia”).
 
@@ -906,7 +904,7 @@ Cuando saltas, puedes hacer un salto de longitud (horizontal) o un salto de altu
 
 Cuando hagas un salto de altura, ascenderás una distancia de 90 cm + 30 cm × tu modificador por Fuerza (como mínimo 0 m) si te mueves al menos 3 m a pie antes de saltar. Si saltas sin coger carrerilla, solo podrás ascender la mitad de esa distancia. En cualquier caso, cada metro que saltes te costará un metro de tu movimiento.
 
-Mientras saltas, puedes estirar los brazos una distancia equivalente a la mitad de tu altura por encima de ti.De esta forma,podras alcanzar con las manos una distancia igual a la de la altura del salto más una vez y media tu altura.
+Mientras saltas, puedes estirar los brazos una distancia equivalente a la mitad de tu altura por encima de ti. De esta forma, podrás alcanzar con las manos una distancia igual a la de la altura del salto más una vez y media tu altura.
 
 ## Salto de longitud
 
@@ -1019,9 +1017,7 @@ Una tirada de daño es una tirada de dados a la que se le aplican los modificado
 
 ## Tirada de salvación
 
-Una tirada de salvación, o simplemente salvación, representa un intento de evitar o resistir una amenaza. Por lo general, las tiradas de salvación solo se hacen cuando una regla lo requiere, pero puedes optar por no hacer la tirada para fallarla. El resultado de una tirada de salvación se describe en el efecto que la ha provocado. Si un objetivo debe hacer una tirada de salvación y carece de la puntuación de
-
-característica empleada en ella, la fallará automáticamente. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).
+Una tirada de salvación, o simplemente salvación, representa un intento de evitar o resistir una amenaza. Por lo general, las tiradas de salvación solo se hacen cuando una regla lo requiere, pero puedes optar por no hacer la tirada para fallarla. El resultado de una tirada de salvación se describe en el efecto que la ha provocado. Si un objetivo debe hacer una tirada de salvación y carece de la puntuación de característica empleada en ella, la fallará automáticamente. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).
 
 ## Tirada de salvación contra muerte
 
@@ -1093,7 +1089,7 @@ Oscuridad. Puedes ver en la oscuridad normal y mágica.
 
 Invisibilidad. Puedes ver criaturas y objetos que tengan el estado de invisibles.
 
-Ilusiones visuales. Las ilusiones visuales te parecen transparentes y superas automáticamente las tiradas de salvacion contra ellas.
+Ilusiones visuales. Las ilusiones visuales te parecen transparentes y superas automáticamente las tiradas de salvación contra ellas.
 
 Transformaciones. Distingues la forma verdadera de cualquier criatura u objeto que veas y que esté transformado por un efecto mágico.
 
@@ -1106,4 +1102,3 @@ Diversos efectos permiten que las criaturas vuelen. Cuando vueles, te caerás si
 ## Vulnerabilidad
 
 Si tienes vulnerabilidad a un tipo de daño, el daño de ese tipo se duplica contra ti. La vulnerabilidad se aplica solo una vez a un efecto de daño. Consulta también el capítulo “Cómo jugar” (“Daño y curación”).
-

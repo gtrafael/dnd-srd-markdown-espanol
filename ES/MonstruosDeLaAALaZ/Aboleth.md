@@ -14,7 +14,7 @@ related_en: "[[Monsters/Aboleth|Aboleth (EN)]]"
 
 **Velocidad:** 3 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    21 |  +5 |   +5 |
 | DES   |     9 |  -1 |   +3 |
@@ -66,4 +66,3 @@ El objetivo repetirá la tirada de salvación siempre que reciba daño y tras ca
 **Drenaje psíquico.** Si el aboleth tiene al menos a una criatura agarrada o hechizada, usa su acción de consumir recuerdos y recupera 5 (1d10) puntos de golpe.
 
 **Latigazo.** El aboleth realiza un ataque con un tentáculo.
-

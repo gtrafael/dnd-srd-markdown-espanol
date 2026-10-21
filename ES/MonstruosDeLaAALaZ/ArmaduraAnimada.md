@@ -16,7 +16,7 @@ related_en: "[[Monsters/Animated Armor|Animated Armor (EN)]]"
 
 **Velocidad:** 7,5 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    11 |  +0 |   +0 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Animated Armor|Animated Armor (EN)]]"
 **Ataque múltiple.** La armadura realiza dos ataques con su golpe.
 
 **Golpe.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño contundente.
-

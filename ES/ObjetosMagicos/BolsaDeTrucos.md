@@ -42,4 +42,3 @@ Bolsa de trucos marrón
 |   2 | Simio         |   6 | Comadreja gigante |
 |   3 | Babuino       |   7 | Hiena gigante     |
 |   4 | Pico de hacha |   8 | Tigre             |
-

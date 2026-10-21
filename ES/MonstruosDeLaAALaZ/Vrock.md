@@ -14,7 +14,7 @@ related_en: "[[Monsters/Vrock|Vrock (EN)]]"
 
 **Velocidad:** 12 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    15 |  +2 |   +5 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Vrock|Vrock (EN)]]"
 **Chillido aturdidor (1/día).** *Tirada de salvación de Constitución:* CD 15, todas las criaturas en una emanación de 6 m que se origina en el vrock (los demonios la superan automáticamente). Fallo: 10 (3d6) de daño de trueno y el objetivo tendrá el estado de aturdido hasta el final del siguiente turno del vrock.
 
 **Esporas (recarga 6).** *Tirada de salvación de Constitución:* CD 15, todas las criaturas en una emanación de 6 m que se origina en el vrock. Fallo: el objetivo tendrá el estado de envenenado y repetirá la tirada de salvación al final de cada uno de sus turnos. Si tiene éxito, se librará del efecto. Mientras el objetivo esté envenenado, sufrirá 5 (1d10) de daño de veneno al principio de cada uno de sus turnos. Si se vacía un frasco de agua bendita sobre el objetivo, el efecto cesará.
-

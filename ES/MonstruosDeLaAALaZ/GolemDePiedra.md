@@ -14,7 +14,7 @@ related_en: "[[Monsters/Stone Golem|Stone Golem (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    22 |  +6 |   +6 |
 | DES   |     9 |  -1 |   -1 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Stone Golem|Stone Golem (EN)]]"
 ## Acciones adicionales
 
 **Ralentizar (recarga 5–6).** El gólem lanza el conjuro ralentizar, que no requiere componentes y utiliza la Constitución como aptitud mágica (CD de salvación de conjuros 17).
-

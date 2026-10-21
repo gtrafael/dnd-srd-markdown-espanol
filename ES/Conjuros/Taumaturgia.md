@@ -28,5 +28,4 @@ related_en: "[[Spells/Thaumaturgy|Thaumaturgy (EN)]]"
 
 **Temblores.** Provocas que la tierra tiemble sin causar daños durante 1 minuto.
 
-**Voz atronadora.** Tu voz resuena hasta tres veces más alto de lo normal durante 1 minuto. Hasta que termine el conjuro, tienes ventaja en las pruebas de Carisma (Intimidación). 
-
+**Voz atronadora.** Tu voz resuena hasta tres veces más alto de lo normal durante 1 minuto. Hasta que termine el conjuro, tienes ventaja en las pruebas de Carisma (Intimidación).

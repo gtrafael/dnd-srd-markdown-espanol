@@ -22,5 +22,4 @@ Cuando se produzca la condición especificada, la ilusión se activará y actuar
 
 La condición puede ser tan genérica o detallada como quieras, aunque debe basarse en fenómenos visuales o audibles que se produzcan a 9 m o menos del área. Por ejemplo, podrías crear una ilusión de ti para que aparezca y avise a quienes intenten abrir una puerta con trampa.
 
-La interacción física con la imagen revela que es una ilusión, ya que las cosas pueden atravesarla. Si una criatura emplea una acción de estudiar para examinar la imagen, puede determinar que es una ilusión si supera una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Si la criatura descubre que la imagen es una ilusión, no se dejará engañar por ella y los sonidos que emita le sonarán huecos. 
-
+La interacción física con la imagen revela que es una ilusión, ya que las cosas pueden atravesarla. Si una criatura emplea una acción de estudiar para examinar la imagen, puede determinar que es una ilusión si supera una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Si la criatura descubre que la imagen es una ilusión, no se dejará engañar por ella y los sonidos que emita le sonarán huecos.

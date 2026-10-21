@@ -24,5 +24,4 @@ Una forma astral puede viajar a través del Plano Astral. Si abandona el plano, 
 
 El daño y otros efectos que se le apliquen a una forma astral no afectan al cuerpo del objetivo y viceversa. Si los puntos de golpe del cuerpo del objetivo o de su forma astral se reducen a 0, el conjuro terminará para él. El conjuro termina para todos los objetivos si empleas una acción de magia para ponerle fin.
 
-Cuando el conjuro termine para un objetivo que no esté muerto, reaparecerá en su cuerpo y concluirá su animación suspendida. 
-
+Cuando el conjuro termine para un objetivo que no esté muerto, reaparecerá en su cuerpo y concluirá su animación suspendida.

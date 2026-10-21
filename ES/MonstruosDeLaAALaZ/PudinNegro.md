@@ -16,7 +16,7 @@ related_en: "[[Monsters/Black Pudding|Black Pudding (EN)]]"
 
 **Velocidad:** 6 m, trepar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |     5 |  -3 |   -3 |
@@ -50,4 +50,3 @@ En 1 minuto, el pudin puede devorar y atravesar 60 cm de madera o metal no mági
 ## Reacciones
 
 **Dividirse.** Detonante: mientras sea Grande o Mediano y tenga 10 o más puntos de golpe, el pudin pasa a estar maltrecho o recibe daño cortante o de relámpago. Respuesta: el pudin se divide en dos nuevos púdines negros. Cada nuevo pudin tiene un tamaño inferior al del pudin original y actúa en su orden de iniciativa. Los puntos de golpe del pudin original se dividen a partes iguales entre los nuevos púdines (redondeados hacia abajo).
-

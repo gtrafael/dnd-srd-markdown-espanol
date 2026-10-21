@@ -16,7 +16,7 @@ related_en: "[[Monsters/Pit Fiend|Pit Fiend (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    26 |  +8 |   +8 |
 | DES   |    14 |  +2 |   +8 |

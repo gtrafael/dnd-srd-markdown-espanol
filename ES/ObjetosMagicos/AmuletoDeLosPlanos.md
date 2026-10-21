@@ -18,4 +18,3 @@ Mientras lleves puesto este amuleto, podrás usar una acción de magia para nomb
 | 71–80 | Un sitio al azar en un Plano Exterior, que se determina tirando 1d8: si sale un 1, Arbórea; si sale un 2, Arcadia; si sale un 3, Bitopía; si sale un 4, Elíseo; si sale un 5, Mechanus; si sale un 6, el Monte Celestia; si sale un 7, las Tierras de las Bestias; si sale un 8, Ysgard. |
 | 81–90 | Un sitio al azar en un Plano Exterior, que se determina tirando 1d8: si sale un 1, el Abismo; si sale un 2, Aqueronte; si sale un 3, Carceri; si sale un 4; Gehenna; si sale un 5, Hades; si sale un 6, Limbo; si sale un 7, los Nueve Infiernos; si sale un 8, Pandemónium.             |
 | 91–00 | Un sitio al azar en el Plano Astral.                                                                                                                                                                                                                                                     |
-

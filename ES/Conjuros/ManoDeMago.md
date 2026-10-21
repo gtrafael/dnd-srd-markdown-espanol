@@ -22,5 +22,4 @@ Cuando lances este conjuro, puedes utilizar la mano para manipular un objeto, ab
 
 Como acción de magia en tus siguientes turnos, puedes volver a controlar la mano de esta forma. Como parte de la acción, puedes mover la mano hasta 9 m.
 
-La mano no puede atacar, activar objetos mágicos ni llevar más de 5 kg de peso. 
-
+La mano no puede atacar, activar objetos mágicos ni llevar más de 5 kg de peso.

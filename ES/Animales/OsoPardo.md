@@ -16,7 +16,7 @@ related_en: "[[Animals/Brown Bear|Brown Bear (EN)]]"
 
 **Velocidad:** 12 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    12 |  +1 |   +1 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Brown Bear|Brown Bear (EN)]]"
 **Garra.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 5 (1d4 + 3) de daño cortante. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 7 (1d8 + 3) de daño perforante.
-

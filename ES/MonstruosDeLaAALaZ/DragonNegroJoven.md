@@ -14,7 +14,7 @@ related_en: "[[Monsters/Young Black Dragon|Young Black Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +5 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Young Black Dragon|Young Black Dragon (EN)]]"
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +7, alcance 3 m. Acierto: 9 (2d4 + 4) de daño cortante más 3 (1d6) de daño de ácido.
 
 **Aliento ácido (recarga 5–6).** *Tirada de salvación de Destreza:* CD 14, todas las criaturas en una línea de 9 m de largo y 1,5 m de ancho. Fallo: 49 (14d6) de daño de ácido. Éxito: la mitad del daño.
-

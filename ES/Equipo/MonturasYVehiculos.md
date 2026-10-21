@@ -86,5 +86,4 @@ Vehículos acuáticos y aéreos
 
 ## Reparación de vehículos
 
-Se pueden hacer reparaciones a un vehículo dañado mientras esté atracado. Reparar 1 punto de golpe de daño requiere dedicar 1 día e invertir 20 po por los materiales y la mano de obra. Si las reparaciones se llevan a cabo en un lugar donde haya suficientes suministros y personal cualificado, como el astillero de una ciudad, el tiempo y precio de las reparaciones se reducen ala mitad. 
-
+Se pueden hacer reparaciones a un vehículo dañado mientras esté atracado. Reparar 1 punto de golpe de daño requiere dedicar 1 día e invertir 20 po por los materiales y la mano de obra. Si las reparaciones se llevan a cabo en un lugar donde haya suficientes suministros y personal cualificado, como el astillero de una ciudad, el tiempo y precio de las reparaciones se reducen ala mitad.

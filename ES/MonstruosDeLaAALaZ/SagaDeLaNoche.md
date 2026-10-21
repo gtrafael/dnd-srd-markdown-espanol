@@ -16,7 +16,7 @@ related_en: "[[Monsters/Night Hag|Night Hag (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    15 |  +2 |   +2 |
@@ -66,4 +66,3 @@ Si el objetivo recibe daño del conjuro ensueño, sus puntos de golpe máximos s
 ## Acciones adicionales
 
 **Cambio de forma.** La saga se convierte en un humanoide Pequeño o Mediano, o recupera su auténtica forma. Su perfil, salvo por el tamaño, es el mismo en todas las formas. Cualquier equipo que vista o lleve no se transformará.
-

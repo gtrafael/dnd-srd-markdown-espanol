@@ -21,4 +21,3 @@ En cuanto inflige daño adicional a una criatura, la munición se vuelve no mág
 | 26–30 | Cienos           | 81–85 | Monstruosidades   |
 | 31–40 | Dragones         | 86–95 | Muertos vivientes |
 | 41–50 | Elementales      | 96–00 | Plantas           |
-

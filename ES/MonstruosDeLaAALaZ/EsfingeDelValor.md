@@ -16,7 +16,7 @@ related_en: "[[Monsters/Sphinx of Valor|Sphinx of Valor (EN)]]"
 
 **Velocidad:** 12 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    22 |  +6 |   +6 |
 | DES   |    10 |  +0 |   +6 |
@@ -80,4 +80,3 @@ CD 20, todos los enemigos en una emanación de 150 m que se origina en la esfing
 **Merodeo arcano.** La esfinge puede teletransportarse hasta 9 m a un espacio sin ocupar que pueda ver y realiza un ataque con sus garras.
 
 **Peso de los años.** *Tirada de salvación de Constitución:* CD 16, una criatura que la esfinge pueda ver a 36 m o menos. Fallo: el objetivo suma 1 nivel de cansancio. Mientras el objetivo tenga al menos 1 nivel de cansancio, parecerá 3d10 años más viejo. Fallo o éxito: la esfinge no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

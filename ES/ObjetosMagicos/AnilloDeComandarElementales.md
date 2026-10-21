@@ -33,4 +33,3 @@ Cada anillo de comandar elementales tiene las dos siguientes propiedades:
 | Aire   | Caída de pluma (0 cargas), muro de viento (1 carga), ráfaga de viento (2 cargas), relámpago en cadena (3 cargas)                              |
 | Fuego  | Bola de fuego (2 cargas), manos ardientes (1 carga), muro de fuego (3 cargas), tormenta de fuego (4 cargas)                                   |
 | Tierra | Moldear la piedra (2 cargas), muro de piedra (3 cargas), piel pétrea (3 cargas), terremoto (5 cargas)                                         |
-

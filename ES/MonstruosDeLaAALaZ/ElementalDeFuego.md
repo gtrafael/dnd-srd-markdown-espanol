@@ -14,7 +14,7 @@ related_en: "[[Monsters/Fire Elemental|Fire Elemental (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    17 |  +3 |   +3 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Fire Elemental|Fire Elemental (EN)]]"
 **Ataque múltiple.** El elemental realiza dos ataques de quemadura.
 
 **Quemadura.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 10 (2d6 + 3) de daño de fuego. Si el objetivo es una criatura o un objeto inflamable, empezará a arder.
-

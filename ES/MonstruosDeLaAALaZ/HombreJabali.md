@@ -16,7 +16,7 @@ related_en: "[[Monsters/Wereboar|Wereboar (EN)]]"
 
 **Velocidad:** 9 m, 12 m (solo en forma de jabalí)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    10 |  +0 |   +0 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Wereboar|Wereboar (EN)]]"
 ## Acciones adicionales
 
 **Cambio de forma.** El hombre jabalí adopta la forma de un híbrido de jabalí-humanoide Mediano o de un jabalí Pequeño, o recupera su verdadera forma humanoide. Su perfil, salvo por el tamaño, es el mismo en todas las formas. Cualquier equipo que vista o lleve no se transformará.
-

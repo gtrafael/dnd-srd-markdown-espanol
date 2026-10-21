@@ -14,4 +14,3 @@ Cualquier criatura puede lanzar un conjuro de niveles 1 a 5 sobre el anillo si l
 El nivel del espacio utilizado para lanzar el conjuro determina cuánto espacio utiliza.
 
 Mientras lleves puesto este anillo, podrás lanzar cualquiera de los conjuros almacenados. El conjuro utiliza el nivel del espacio, la CD de salvación de conjuros, el bonificador de ataque de conjuros y la aptitud mágica del lanzador original, pero, por lo demás, funciona como si tú lo hubieses lanzado. El conjuro lanzado desde el anillo deja de estar almacenado en él, por lo que deja espacio libre.
-

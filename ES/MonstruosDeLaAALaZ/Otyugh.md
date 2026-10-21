@@ -16,7 +16,7 @@ related_en: "[[Monsters/Otyugh|Otyugh (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    11 |  +0 |   +0 |
@@ -40,4 +40,3 @@ related_en: "[[Monsters/Otyugh|Otyugh (EN)]]"
 **Tentáculo.** Tirada de ataque cuerpo a cuerpo: +6, alcance 3 m. Acierto: 12 (2d8 + 3) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 13 para escapar) por uno de los dos tentáculos.
 
 **Golpe con tentáculo.** *Tirada de salvación de Constitución:* CD 14, todas las criaturas agarradas por el otyugh. Fallo: 16 (3d8 + 3) de daño contundente y el objetivo tendrá el estado de aturdido hasta el principio del siguiente turno del otyugh. Éxito: solo la mitad del daño.
-

@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Ape|Giant Ape (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    23 |  +6 |   +6 |
 | DES   |    14 |  +2 |   +2 |
@@ -44,4 +44,3 @@ related_en: "[[Animals/Giant Ape|Giant Ape (EN)]]"
 ## Acciones adicionales
 
 **Salto.** El simio gasta 3 m de movimiento para saltar hasta 9 m.
-

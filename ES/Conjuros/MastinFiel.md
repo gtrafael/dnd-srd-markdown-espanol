@@ -22,5 +22,4 @@ related_en: "[[Spells/Faithful Hound|Faithful Hound (EN)]]"
 
 Al principio de cada uno de tus turnos, el mastín tratará de morder a un enemigo que esté a 1,5 m o menos de él. Ese enemigo deberá superar una tirada de salvación de Destreza o sufrirá 4d8 de daño de fuerza.
 
-En tus siguientes turnos, puedes usar una acción de magia para mover el mastín hasta 9 m. 
-
+En tus siguientes turnos, puedes usar una acción de magia para mover el mastín hasta 9 m.

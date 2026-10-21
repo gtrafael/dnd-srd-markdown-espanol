@@ -19,4 +19,3 @@ Valores de monedas
 | Pieza de electro (pe)  | 1/2         |
 | Pieza de oro (po)      | 1           |
 | Pieza de platino (ppt) | 10          |
-

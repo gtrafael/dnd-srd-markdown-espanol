@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Scorpion|Giant Scorpion (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    13 |  +1 |   +1 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Giant Scorpion|Giant Scorpion (EN)]]"
 **Pinza.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 6 (1d6 + 3) de daño contundente.
 
 Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 13 para escapar) por una de las dos pinzas.
-

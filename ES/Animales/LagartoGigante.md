@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Lizard|Giant Lizard (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    12 |  +1 |   +3 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Giant Lizard|Giant Lizard (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 6 (1d8 + 2) de daño perforante.
-

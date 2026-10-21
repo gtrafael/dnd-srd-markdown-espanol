@@ -10,4 +10,3 @@ tags: [srd, espanol, tag_tesoro, sin-equivalente]
 Durante 1 minuto después de beber esta poción, tienes resistencia a todo el daño.
 
 Esta poción, espesa como el sirope, parece hierro líquido.
-

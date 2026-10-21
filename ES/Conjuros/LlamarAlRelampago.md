@@ -26,5 +26,4 @@ Si estás al aire libre y hay una tormenta cuando lanzas este conjuro, te da el 
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d10 por cada nivel por encima de 3 que tenga el espacio. 
-
+El daño aumenta en 1d10 por cada nivel por encima de 3 que tenga el espacio.

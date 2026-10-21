@@ -22,5 +22,4 @@ Si los puntos de golpe del objetivo se reducen a 0 antes de que el conjuro termi
 
 **Con un espacio de conjuro de nivel superior.**
 
-Tu concentración puede durar más si usas un espacio de conjuro de nivel 2 (hasta 4 horas), 3 o 4 (hasta 8 horas) o 5 o más (24 horas). 
-
+Tu concentración puede durar más si usas un espacio de conjuro de nivel 2 (hasta 4 horas), 3 o 4 (hasta 8 horas) o 5 o más (24 horas).

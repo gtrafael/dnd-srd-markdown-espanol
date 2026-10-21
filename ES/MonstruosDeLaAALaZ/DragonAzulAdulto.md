@@ -16,7 +16,7 @@ related_en: "[[Monsters/Adult Blue Dragon|Adult Blue Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 9 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    25 |  +7 |   +7 |
 | DES   |    10 |  +0 |   +5 |
@@ -64,4 +64,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Estallido sónico.** El dragón utiliza su lanzamiento de conjuros para lanzar hacer añicos. El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Vuelo encubierto.** El dragón utiliza su lanzamiento de conjuros para lanzarse invisibilidad a sí mismo y puede volar hasta la mitad de su velocidad volando. El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

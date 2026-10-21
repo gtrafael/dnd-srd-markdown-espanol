@@ -16,7 +16,7 @@ related_en: "[[Monsters/Adult Black Dragon|Adult Black Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    23 |  +6 |   +6 |
 | DES   |    14 |  +2 |   +7 |
@@ -66,4 +66,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Nubarrón de insectos.** *Tirada de salvación de Destreza:* CD 17, una criatura que el dragón pueda ver a 36 m o menos. Fallo: 22 (4d10) de daño de veneno y el objetivo tendrá desventaja en las tiradas de salvación para mantener la concentración hasta el final de su siguiente turno. Fallo o éxito: el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Presencia aterradora.** El dragón utiliza su lanzamiento de conjuros para lanzar terror. El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

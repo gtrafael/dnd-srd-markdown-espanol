@@ -22,5 +22,4 @@ Puedes dar la misma apariencia o una distinta a cada objetivo, así como cambiar
 
 Los cambios realizados por este conjuro pueden descubrirse mediante una inspección física. Por ejemplo, si usas este conjuro para añadir un sombrero a la vestimenta de una criatura, los objetos atravesarán el sombrero.
 
-Si una criatura emplea la acción de estudiar para examinar a un objetivo, podrá hacer una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Si la supera, sabrá que el objetivo está disfrazado. 
-
+Si una criatura emplea la acción de estudiar para examinar a un objetivo, podrá hacer una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Si la supera, sabrá que el objetivo está disfrazado.

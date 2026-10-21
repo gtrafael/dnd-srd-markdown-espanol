@@ -19,4 +19,3 @@ Conjuros. Mientras empuñes el bastón, puedes lanzar un conjuro de la tabla a c
 | Plaga de insectos |               5 |
 
 **Recuperar cargas.** El bastón recupera 1d6 + 4 cargas empleadas cada día, al amanecer. Si gastas la última carga, tira 1d20. Si el resultado es 1, un enjambre de insectos engulle el bastón, lo destruye y luego se dispersa.
-

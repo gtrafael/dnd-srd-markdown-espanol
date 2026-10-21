@@ -21,4 +21,3 @@ Comida, bebida y alojamiento
 | Aristocrática              | 6 pp   | Vino (botella) |        |
 | Estancia en posada por día |        | Común          | 2 pp   |
 | Miserable                  | 7 pc   | De calidad     | 10 po  |
-

@@ -16,7 +16,7 @@ related_en: "[[Animals/Bat|Bat (EN)]]"
 
 **Velocidad:** 1,5 m, volar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     2 |  -4 |   -4 |
 | DES   |    15 |  +2 |   +2 |
@@ -34,4 +34,3 @@ related_en: "[[Animals/Bat|Bat (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 1 de daño perforante.
-

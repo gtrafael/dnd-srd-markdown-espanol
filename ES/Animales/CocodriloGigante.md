@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Crocodile|Giant Crocodile (EN)]]"
 
 **Velocidad:** 9 m, nadar 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    21 |  +5 |   +5 |
 | DES   |     9 |  -1 |   -1 |
@@ -44,4 +44,3 @@ related_en: "[[Animals/Giant Crocodile|Giant Crocodile (EN)]]"
 **Cola.** Tirada de ataque cuerpo a cuerpo: +8, alcance 3 m. Acierto: 18 (3d8 + 5) de daño contundente. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +8, alcance 1,5 m. Acierto: 21 (3d10 + 5) de daño perforante. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 15 para escapar). Mientras esté agarrada, tendrá el estado de apresada y no podrá ser objetivo de la cola del cocodrilo.
-

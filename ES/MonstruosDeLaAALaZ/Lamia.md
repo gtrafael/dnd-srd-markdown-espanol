@@ -16,7 +16,7 @@ related_en: "[[Monsters/Lamia|Lamia (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    13 |  +1 |   +1 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Lamia|Lamia (EN)]]"
 ## Acciones adicionales
 
 **Salto.** La lamia gasta 3 m de movimiento para saltar hasta 9 m.
-

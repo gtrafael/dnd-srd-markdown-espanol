@@ -14,4 +14,3 @@ Mientras esté invocado, el djinn será amistoso contigo y tus aliados y obedece
 Una vez que se haya ido, no se podrá volver a invocarlo durante 24 horas. El anillo se volverá no mágico si el djinn muere.
 
 Los anillos de invocar djinns suelen ser obra de los propios djinns que invocan, que los entregan a los mortales como regalos de amistad o muestras de aprecio.
-

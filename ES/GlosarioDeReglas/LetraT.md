@@ -90,9 +90,7 @@ Una tirada de daño es una tirada de dados a la que se le aplican los modificado
 
 # Tirada de salvación
 
-Una tirada de salvación, o simplemente salvación, representa un intento de evitar o resistir una amenaza. Por lo general, las tiradas de salvación solo se hacen cuando una regla lo requiere, pero puedes optar por no hacer la tirada para fallarla. El resultado de una tirada de salvación se describe en el efecto que la ha provocado. Si un objetivo debe hacer una tirada de salvación y carece de la puntuación de
-
-característica empleada en ella, la fallará automáticamente. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).
+Una tirada de salvación, o simplemente salvación, representa un intento de evitar o resistir una amenaza. Por lo general, las tiradas de salvación solo se hacen cuando una regla lo requiere, pero puedes optar por no hacer la tirada para fallarla. El resultado de una tirada de salvación se describe en el efecto que la ha provocado. Si un objetivo debe hacer una tirada de salvación y carece de la puntuación de característica empleada en ella, la fallará automáticamente. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).
 
 # Tirada de salvación contra muerte
 
@@ -107,5 +105,3 @@ A discreción de cada GM, trepar por una superficie resbaladiza o con pocos agar
 # Truco
 
 Un truco es un conjuro de nivel 0 que se lanza sin un espacio de conjuro. Consulta también el capítulo “Conjuros”.
-
-

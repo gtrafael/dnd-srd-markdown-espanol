@@ -16,7 +16,7 @@ related_en: "[[Monsters/Djinni|Djinni (EN)]]"
 
 **Velocidad:** 9 m, volar 27 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    21 |  +5 |   +5 |
 | DES   |    15 |  +2 |   +6 |
@@ -60,4 +60,3 @@ Cuando el torbellino entre en el espacio de una criatura o una criatura en él, 
 **2/día cada uno:** crear comida y agua (puede crear vino en lugar de agua), don de lenguas, viajar con el viento
 
 **1/día cada uno:** creación, desplazamiento entre planos, forma gaseosa, imagen mayor, invisibilidad
-

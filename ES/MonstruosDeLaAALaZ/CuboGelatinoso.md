@@ -16,7 +16,7 @@ related_en: "[[Monsters/Gelatinous Cube|Gelatinous Cube (EN)]]"
 
 **Velocidad:** 4,5 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |     3 |  -4 |   -4 |
@@ -52,4 +52,3 @@ Como acción, una criatura a 1,5 m o menos del cubo puede tirar de una criatura 
 Fallo:10 (3d6) de daño de ácido y el objetivo será absorbido. Un objetivo absorbido sufrirá asfixia, no podrá lanzar conjuros con un componente verbal, tendrá el estado de apresado y sufrirá 10 (3d6) de daño de ácido al principio de cada turno del cubo.
 
 Cuando el cubo se mueva, el objetivo absorbido se moverá con él. Un objetivo absorbido puede intentar escapar utilizando una acción para realizar una prueba de Fuerza (Atletismo) con CD 12. Si la supera, escapará y entrará en el espacio sin ocupar más cercano. Éxito: la mitad del daño y el objetivo se moverá a un espacio sin ocupar a 1,5 m del cubo. Si no hay espacios sin ocupar, fallará la tirada de salvación.
-

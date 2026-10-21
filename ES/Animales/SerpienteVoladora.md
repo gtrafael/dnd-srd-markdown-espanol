@@ -16,7 +16,7 @@ related_en: "[[Animals/Flying Snake|Flying Snake (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     4 |  -3 |   -3 |
 | DES   |    15 |  +2 |   +2 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Flying Snake|Flying Snake (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 1 de daño perforante más 5 (2d4) de daño de veneno.
-

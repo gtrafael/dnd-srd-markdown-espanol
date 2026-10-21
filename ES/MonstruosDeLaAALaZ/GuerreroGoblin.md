@@ -16,7 +16,7 @@ related_en: "[[Monsters/Goblin Warrior|Goblin Warrior (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     8 |  -1 |   -1 |
 | DES   |    15 |  +2 |   +2 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Goblin Warrior|Goblin Warrior (EN)]]"
 ## Acciones adicionales
 
 **Huida veloz.** El goblin realiza las acciones de destrabarse o esconderse.
-

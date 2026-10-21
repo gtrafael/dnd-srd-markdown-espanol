@@ -16,7 +16,7 @@ related_en: "[[Monsters/Priest|Priest (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    10 |  +0 |   +0 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Priest|Priest (EN)]]"
 ## Acciones adicionales
 
 **Auxilio divino (3/día).** El sacerdote lanza bendición, disipar magia, palabra de curación o restablecimiento menor usando la misma aptitud mágica que para su lanzamiento de conjuros.
-

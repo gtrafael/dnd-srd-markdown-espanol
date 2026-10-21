@@ -16,5 +16,4 @@ related_en: "[[Spells/Sanctuary|Sanctuary (EN)]]"
 
 **Duración:** 1 minuto
 
-Proteges a una criatura que esté dentro del alcance. Hasta que el conjuro termine, cualquier criatura que haga objetivo a la criatura protegida con un ataque o un conjuro que inflija daño deberá superar primero una tirada de salvación de Sabiduría; de lo contrario, elegirá un nuevo objetivo o perderá el ataque o conjuro. Este conjuro no protege a la criatura contra los efectos de área. El conjuro termina si la criatura protegida hace una tirada de ataque, lanza un conjuro o inflige daño. 
-
+Proteges a una criatura que esté dentro del alcance. Hasta que el conjuro termine, cualquier criatura que haga objetivo a la criatura protegida con un ataque o un conjuro que inflija daño deberá superar primero una tirada de salvación de Sabiduría; de lo contrario, elegirá un nuevo objetivo o perderá el ataque o conjuro. Este conjuro no protege a la criatura contra los efectos de área. El conjuro termina si la criatura protegida hace una tirada de ataque, lanza un conjuro o inflige daño.

@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Venomous Snake|Giant Venomous Snake (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +0 |
 | DES   |    18 |  +4 |   +4 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Giant Venomous Snake|Giant Venomous Snake (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +6, alcance 3 m. Acierto: 6 (1d4 + 4) de daño perforante más 4 (1d8) de daño de veneno.
-

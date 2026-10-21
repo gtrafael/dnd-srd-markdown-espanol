@@ -22,4 +22,3 @@ El cubo comienza con 10 cargas y recupera 1d6 cargas empleadas cada día, al ama
 | Esfera elástica         |               4 |
 | Sanctasanctórum privado |               4 |
 | Muro de fuerza          |               5 |
-

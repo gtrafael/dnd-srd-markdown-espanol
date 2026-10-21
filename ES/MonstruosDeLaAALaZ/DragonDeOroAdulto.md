@@ -16,7 +16,7 @@ related_en: "[[Monsters/Adult Gold Dragon|Adult Gold Dragon (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    27 |  +8 |   +8 |
 | DES   |    14 |  +2 |   +8 |
@@ -68,4 +68,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Desterrar.** *Tirada de salvación de Carisma:* CD 21, una criatura que el dragón pueda ver a 36 m o menos. Fallo: 10 (3d6) de daño de fuerza y el objetivo tendrá el estado de incapacitado y será transportado a un semiplano inofensivo hasta el principio del siguiente turno del dragón, momento en el que reaparecerá en un espacio sin ocupar a elección del dragón a 36 m o menos de este. Fallo o éxito: el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Luz guía.** El dragón utiliza su lanzamiento de conjuros para lanzar saeta guía (versión de nivel 2).
-

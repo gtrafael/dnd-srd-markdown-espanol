@@ -16,7 +16,7 @@ related_en: "[[Monsters/Lich|Lich (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    16 |  +3 |  +10 |

@@ -16,5 +16,4 @@ related_en: "[[Spells/Protection from Poison|Protection from Poison (EN)]]"
 
 **Duración:** 1 hora
 
-Tocas a una criatura y pones fin al estado de envenenada si lo sufre. Hasta que termine el conjuro, el objetivo tiene ventaja en las tiradas de salvación para evitar o poner fin al estado de envenenado y resistencia al daño de veneno. 
-
+Tocas a una criatura y pones fin al estado de envenenada si lo sufre. Hasta que termine el conjuro, el objetivo tiene ventaja en las tiradas de salvación para evitar o poner fin al estado de envenenado y resistencia al daño de veneno.

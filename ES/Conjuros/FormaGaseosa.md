@@ -24,5 +24,4 @@ El objetivo no puede hablar ni manipular objetos y no puede soltar, usar ni inte
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 3 que tenga el espacio. 
-
+Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 3 que tenga el espacio.

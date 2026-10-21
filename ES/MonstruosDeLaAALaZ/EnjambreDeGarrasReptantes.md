@@ -16,7 +16,7 @@ related_en: "[[Monsters/Swarm of Crawling Claws|Swarm of Crawling Claws (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    14 |  +2 |   +2 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Swarm of Crawling Claws|Swarm of Crawling Claws (EN)]]"
 ## Acciones
 
 **Enjambre de manos apresadoras.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 20 (4d8 + 2) de daño necrótico u 11 (2d8 + 2) de daño necrótico si el enjambre está maltrecho. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada.
-

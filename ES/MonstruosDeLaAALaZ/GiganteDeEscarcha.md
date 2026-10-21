@@ -16,7 +16,7 @@ related_en: "[[Monsters/Frost Giant|Frost Giant (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    23 |  +6 |   +6 |
 | DES   |     9 |  -1 |   -1 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Frost Giant|Frost Giant (EN)]]"
 ## Acciones adicionales
 
 **Grito de guerra (recarga 5–6).** El gigante o una criatura de su elección que pueda verlo u oírlo obtiene 16 (2d10 + 5) puntos de golpe temporales y ventaja en las tiradas de ataque hasta el principio del siguiente turno del gigante.
-

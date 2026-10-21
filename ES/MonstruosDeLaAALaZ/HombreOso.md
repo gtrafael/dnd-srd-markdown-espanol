@@ -16,7 +16,7 @@ related_en: "[[Monsters/Werebear|Werebear (EN)]]"
 
 **Velocidad:** 9 m, 12 m (solo en forma de oso), trepar 9 m (solo en forma de oso)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    10 |  +0 |   +0 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Werebear|Werebear (EN)]]"
 ## Acciones adicionales
 
 **Cambio de forma.** El hombre oso adopta la forma de un híbrido de oso-humanoide Grande o de un oso Grande, o recupera su verdadera forma humanoide. Su perfil, salvo por el tamaño, es el mismo en todas las formas. Cualquier equipo que vista o lleve no se transformará.
-

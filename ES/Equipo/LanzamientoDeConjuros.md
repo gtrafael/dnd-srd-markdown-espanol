@@ -9,7 +9,7 @@ La mayoría de poblaciones cuentan con individuos que están dispuestos a lanzar
 
 Servicios de lanzamiento de conjuros
 
-| Nivel delconjuro | Disponibilidad         | Remuneración |
+| Nivel del conjuro | Disponibilidad         | Remuneración |
 |------------------|------------------------|--------------|
 | Truco            | Aldea, pueblo o ciudad | 30 po        |
 | 1                | Aldea, pueblo o ciudad | 50 po        |
@@ -18,4 +18,3 @@ Servicios de lanzamiento de conjuros
 | 4–5              | Solo pueblo o ciudad   | 2000 po      |
 | 6–8              | Solo ciudad            | 20 000 po    |
 | 9                | Solo ciudad            | 100 000 po   |
-

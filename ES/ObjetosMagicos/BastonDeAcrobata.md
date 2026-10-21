@@ -21,4 +21,3 @@ Dependiendo de su forma, el arma tiene las siguientes propiedades adicionales:
 **Ayuda acrobática (solo en forma de bastón o pértiga de 3 m).** Mientras sostienes esta arma, tienes ventaja en las pruebas de Destreza (Acrobacias).
 
 **Desviar ataque (solo en forma de bastón).** Si te aciertan con un ataque mientras sostienes el arma, puedes emplear una reacción para girar el arma a tu alrededor, lo que te proporcionará un bonificador de +5 a la clase de armadura contra el ataque al que reaccionas, lo que podría hacer que falle. No podrás volver a usar esta propiedad hasta que finalices un descanso corto o largo.
-

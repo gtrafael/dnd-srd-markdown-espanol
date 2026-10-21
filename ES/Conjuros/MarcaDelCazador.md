@@ -20,5 +20,4 @@ Marcas mágicamente a una criatura que puedas ver dentro del alcance como tu pre
 
 Si los puntos de golpe del objetivo se reducen a 0 antes de que el conjuro termine, puedes emplear una acción adicional para transferir la marca a una nueva criatura que puedas ver dentro del alcance.
 
-**Con un espacio de conjuro de nivel superior.** Tu concentración puede durar más si usas un espacio de conjuro de nivel 3 o 4 (hasta 8 horas) o 5 o más (hasta 24 horas). 
-
+**Con un espacio de conjuro de nivel superior.** Tu concentración puede durar más si usas un espacio de conjuro de nivel 3 o 4 (hasta 8 horas) o 5 o más (hasta 24 horas).

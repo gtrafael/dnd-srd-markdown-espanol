@@ -36,7 +36,7 @@ Celestial, feérico o infernal Grande (a tu elección), neutral
 
 **Velocidad:** 18 m, volar 18 m (requiere un conjuro de nivel 4 o superior)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    12 |  +1 |   +1 |

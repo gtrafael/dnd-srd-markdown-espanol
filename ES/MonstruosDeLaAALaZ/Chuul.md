@@ -16,7 +16,7 @@ related_en: "[[Monsters/Chuul|Chuul (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    10 |  +0 |   +0 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Chuul|Chuul (EN)]]"
 **Tenaza.** Tirada de ataque cuerpo a cuerpo: +6, alcance 3 m. Acierto: 9 (1d10 + 4) de daño contundente. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de agarrada (CD 14 para escapar) por una de las dos tenazas.
 
 **Tentáculos paralizadores.** *Tirada de salvación de Constitución:* CD 13, una criatura agarrada por el chuul. Fallo: el objetivo tendrá el estado de envenenado y repetirá la tirada de salvación al final de cada uno de sus turnos. Si tiene éxito, se librará del efecto. Tras 1 minuto, tendrá éxito automáticamente. Mientras esté envenenado, tendrá el estado de paralizado.
-

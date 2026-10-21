@@ -22,5 +22,4 @@ Cuando llegue, la bestia entregará tu mensaje a la criatura que le hayas descri
 
 **Con un espacio de conjuro de nivel superior.**
 
-La duración del conjuro aumenta en 48 horas por cada nivel por encima de 2 que tenga el espacio. 
-
+La duración del conjuro aumenta en 48 horas por cada nivel por encima de 2 que tenga el espacio.

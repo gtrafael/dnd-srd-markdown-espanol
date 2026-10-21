@@ -14,7 +14,7 @@ related_en: "[[Monsters/Ancient Silver Dragon|Ancient Silver Dragon (EN)]]"
 
 **Velocidad:** 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    30 | +10 |  +10 |
 | DES   |    10 |  +0 |   +7 |
@@ -64,4 +64,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Congelar.** El dragón utiliza su lanzamiento de conjuros para lanzar inmovilizar monstruo. El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Vendaval helado.** *Tirada de salvación de Destreza:* CD 23, todas las criaturas en una línea de 18 m de largo y 3 m de ancho. Fallo: 14 (4d6) de daño de frío y el objetivo es empujado hasta 9 m respecto al dragón en línea recta. Éxito: solo la mitad del daño. Fallo o éxito: el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

@@ -16,7 +16,7 @@ related_en: "[[Spells/Befuddlement|Befuddlement (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-Todas las criaturas situadas en una esfera de 3 m de radio centrada en un punto que elijas dentro del alcance deberán superar una tirada de salvación de Sabiduría o no podrán usar acciones adicionales ni reacciones y deberán tirar 1d10 al principio de cada uno de sus turnos para determinar su comportamiento ese turno. Para ello, consulta la tabla que se muestraa continuacion.
+Todas las criaturas situadas en una esfera de 3 m de radio centrada en un punto que elijas dentro del alcance deberán superar una tirada de salvación de Sabiduría o no podrán usar acciones adicionales ni reacciones y deberán tirar 1d10 al principio de cada uno de sus turnos para determinar su comportamiento ese turno. Para ello, consulta la tabla que se muestra a continuación.
 
 1d10 Comportamiento del turno
 
@@ -28,5 +28,4 @@ Todas las criaturas situadas en una esfera de 3 m de radio centrada en un punto 
 
 Al final de cada uno de sus turnos, un objetivo afectado repite la tirada de salvación y, si tiene éxito, se librará del conjuro.
 
-**Con un espacio de conjuro de nivel superior.** El radio de la esfera aumenta en 1,5 m por cada nivel por encima de 4 que tenga el espacio. 
-
+**Con un espacio de conjuro de nivel superior.** El radio de la esfera aumenta en 1,5 m por cada nivel por encima de 4 que tenga el espacio.

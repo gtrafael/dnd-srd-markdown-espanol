@@ -16,7 +16,7 @@ related_en: "[[Monsters/Tarrasque|Tarrasque (EN)]]"
 
 **Velocidad:** 18 m, excavar 12 m, trepar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    30 | +10 |  +10 |
 | DES   |    11 |  +0 |   +9 |
@@ -72,4 +72,3 @@ Si la tarasca sufre 60 o más de daño en un solo turno por parte de una criatur
 **Arremetida.** La tarasca se mueve hasta la mitad de su velocidad y realiza un ataque con sus garras o su cola.
 
 **Movimiento estremecedor.** La tarasca se mueve hasta su velocidad. Al final de este movimiento, crea una onda sísmica instantánea en una emanación de 18 m que se origina en ella. Las criaturas situadas en esa zona perderán la concentración y, si son Medianas o más pequeñas, tendrán el estado de derribadas. La tarasca no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

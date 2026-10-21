@@ -16,7 +16,7 @@ related_en: "[[Monsters/Shield Guardian|Shield Guardian (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |     8 |  -1 |   -1 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Shield Guardian|Shield Guardian (EN)]]"
 ## Reacciones
 
 **Protección.** Detonante: una tirada de ataque acierta al portador del amuleto del guardián mientras está a 1,5 m o menos de él. Respuesta: hasta el principio del siguiente turno del guardián, el portador obtiene un bonificador de +5 a la CA, incluido contra el ataque al que reacciona, lo que puede hacer que falle.
-

@@ -22,5 +22,4 @@ Si sacas el mismo número en dos o más de los d8, el orbe salta a otro objetivo
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d8 por cada nivel por encima de 1 que tenga el espacio. El orbe puede saltar un máximo de veces igual al nivel del espacio gastado. Una criatura solo puede ser el objetivo una vez por cada lanzamiento del conjuro. 
-
+El daño aumenta en 1d8 por cada nivel por encima de 1 que tenga el espacio. El orbe puede saltar un máximo de veces igual al nivel del espacio gastado. Una criatura solo puede ser el objetivo una vez por cada lanzamiento del conjuro.

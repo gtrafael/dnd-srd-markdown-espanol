@@ -14,4 +14,3 @@ Asalariados
 | Asalariado cualificado    | 2 po al día            |
 | Asalariado no cualificado | 2 pp al día            |
 | Mensajero                 | 1 o 2 pc por kilómetro |
-

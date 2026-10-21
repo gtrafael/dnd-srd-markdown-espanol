@@ -20,5 +20,4 @@ Una criatura que puedas ver dentro del alcance deberá superar una tirada de sal
 
 Si el conjuro dura 1 minuto y el objetivo es una aberración, un celestial, un elemental, un feérico o un infernal, no regresará. En vez de ello, se teletransportará a un lugar aleatorio de un plano (a elección de tu GM) relacionado con su tipo de criatura.
 
-**Con un espacio de conjuro de nivel superior.** Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 4 que tenga el espacio. 
-
+**Con un espacio de conjuro de nivel superior.** Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 4 que tenga el espacio.

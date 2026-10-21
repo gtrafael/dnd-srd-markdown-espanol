@@ -20,5 +20,4 @@ Haces que tu aspecto (incluyendo tu vestimenta, armadura, armas y otras posesion
 
 Los cambios realizados por este conjuro pueden descubrirse mediante una inspección física. Por ejemplo, si usas este conjuro para añadir un sombrero a tu vestimenta, los objetos atravesarán el sombrero y cualquiera que lo toque no sentirá nada.
 
-Para darse cuenta de que te has disfrazado, una criatura debe emplear la acción de estudiar para inspeccionar tu apariencia y superar una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. 
-
+Para darse cuenta de que te has disfrazado, una criatura debe emplear la acción de estudiar para inspeccionar tu apariencia y superar una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros.

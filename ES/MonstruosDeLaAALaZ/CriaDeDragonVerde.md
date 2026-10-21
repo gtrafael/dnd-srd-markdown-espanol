@@ -16,7 +16,7 @@ related_en: "[[Monsters/Green Dragon Wyrmling|Green Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    12 |  +1 |   +3 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Green Dragon Wyrmling|Green Dragon Wyrmling (EN)]]"
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 7 (1d10 + 2) de daño cortante más 3 (1d6) de daño de veneno.
 
 **Aliento venenoso (recarga 5–6).** *Tirada de salvación de Constitución:* CD 11, todas las criaturas en un cono de 4,5 m. Fallo: 21 (6d6) de daño de veneno. Éxito: la mitad del daño.
-

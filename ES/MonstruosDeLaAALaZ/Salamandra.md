@@ -16,7 +16,7 @@ related_en: "[[Monsters/Salamander|Salamander (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +2 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Salamander|Salamander (EN)]]"
 **Lanza de llamas.** Tirada de ataque cuerpo a cuerpo o a distancia: +7, alcance 1,5 m o 6/18 m a distancia. Acierto: 13 (2d8 + 4) de daño perforante más 7 (2d6) de daño de fuego. Acierto o fallo: la lanza regresa mágicamente a la mano de la salamandra inmediatamente después de un ataque a distancia.
 
 **Constreñir.** *Tirada de salvación de Fuerza:* CD 15, una criatura Grande o más pequeña que la salamandra pueda ver a 3 m o menos. Fallo: 11 (2d6 + 4) de daño contundente más 7 (2d6) de daño de fuego. El objetivo tendrá el estado de agarrado (CD 14 para escapar) y el de apresado hasta que el agarre termine.
-

@@ -20,5 +20,4 @@ Hasta que termine el conjuro, celestiales, elementales, feéricos, infernales y 
 
 **Despido.** Como acción de magia, haces objetivo a una criatura que puedas ver a 1,5 m o menos de ti que tenga uno de los tipos de criatura anteriores. El objetivo deberá superar una tirada de salvación de Carisma o será devuelto a su plano natal si no está allí ya. Si no están en su plano natal, los muertos vivientes son enviados al Páramo Sombrío, y los feéricos, a los Parajes Feéricos.
 
-**Romper encantamiento.** Como acción de magia, tocas a una criatura que tenga los estados de asustada o hechizada o esté poseída por una o más criaturas de los tipos anteriores. La criatura objetivo deja de estar poseída, asustada o hechizada por dichas criaturas. 
-
+**Romper encantamiento.** Como acción de magia, tocas a una criatura que tenga los estados de asustada o hechizada o esté poseída por una o más criaturas de los tipos anteriores. La criatura objetivo deja de estar poseída, asustada o hechizada por dichas criaturas.

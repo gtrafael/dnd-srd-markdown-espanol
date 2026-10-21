@@ -61,7 +61,7 @@ Muerto viviente Mediano, neutral malvado
 
 **Velocidad:** 18 m, volar 18 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    16 |  +3 |   +3 |

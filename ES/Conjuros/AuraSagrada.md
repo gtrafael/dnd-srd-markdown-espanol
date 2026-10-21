@@ -16,5 +16,4 @@ related_en: "[[Spells/Holy Aura|Holy Aura (EN)]]"
 
 **Duración:** Concentración, hasta 1 minuto
 
-Hasta que termine el conjuro, emites un aura en una emanación de 9 m. Mientras permanezcan dentro, las criaturas de tu elección tienen ventaja en todas las tiradas de salvación y otras criaturas tienen desventaja en las tiradas de ataque contra ellas. Además, cuando un infernal o un muerto viviente acierteauna criaturaafectada con una tirada de ataque cuerpo a cuerpo, el atacante deberá superar una tirada de salvacion de Constitucion o tendra el estado de cegado hasta el final de su siguiente turno. 
-
+Hasta que termine el conjuro, emites un aura en una emanación de 9 m. Mientras permanezcan dentro, las criaturas de tu elección tienen ventaja en todas las tiradas de salvación y otras criaturas tienen desventaja en las tiradas de ataque contra ellas. Además, cuando un infernal o un muerto viviente acierte a una criatura afectada con una tirada de ataque cuerpo a cuerpo, el atacante deberá superar una tirada de salvación de Constitución o tendrá el estado de cegado hasta el final de su siguiente turno.

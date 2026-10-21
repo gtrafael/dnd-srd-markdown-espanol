@@ -38,5 +38,4 @@ Cuando lances el conjuro, puedes especificar criaturas individuales que no se ve
 
 • Ráfaga de viento en un pasillo o sala (el viento sopla sin parar mientras dure el conjuro).
 
-• Sugestión en una casilla de 1,5 m de lado, y cualquier criatura que entre en ella recibirá la sugestión mentalmente. 
-
+• Sugestión en una casilla de 1,5 m de lado, y cualquier criatura que entre en ella recibirá la sugestión mentalmente.

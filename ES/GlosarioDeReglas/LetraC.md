@@ -17,7 +17,7 @@ Si un efecto, como el rasgo Forma salvaje o el conjuro polimorfar, te permite ca
 
 # Campaña
 
-Una campanaes una serie deaventuras.Consulta también
+Una campaña es una serie de aventuras. Consulta también
 
 # Canalizador mágico
 
@@ -33,7 +33,7 @@ Pruebas con d20 afectadas. Cuando hagas una prueba con d20, el resultado se redu
 
 Velocidad reducida. Tu velocidad se reduce en 1,5 m × tu nivel de cansancio.
 
-Eliminar niveles de cansancio. Tras finalizar un descanso largo, resta 1 nivel de cansancio. Cuando tus niveles de cansancio se reduzcan a 0, el estado terminara.
+Eliminar niveles de cansancio. Tras finalizar un descanso largo, resta 1 nivel de cansancio. Cuando tus niveles de cansancio se reduzcan a 0, el estado terminará.
 
 # Capacidad de carga
 
@@ -99,7 +99,7 @@ Un conjuro es un efecto mágico que tiene las características descritas en el c
 
 # Cono [área de efecto]
 
-Un cono es un ärea de efecto que se extiende en lineas rectas desde un punto de origen en la dirección que elija su creador. El ancho del cono en un punto cualquiera a lo largo de su extensión es igual a la distancia entre dicho punto y el origen. Por ejemplo, un cono tiene un ancho de 4,5 m en un punto a lo largo de su extensión que esté a 4,5 m del punto de origen. El efecto que crea un cono especifica su extensión máxima.
+Un cono es un área de efecto que se extiende en líneas rectas desde un punto de origen en la dirección que elija su creador. El ancho del cono en un punto cualquiera a lo largo de su extensión es igual a la distancia entre dicho punto y el origen. Por ejemplo, un cono tiene un ancho de 4,5 m en un punto a lo largo de su extensión que esté a 4,5 m del punto de origen. El efecto que crea un cono especifica su extensión máxima.
 
 El punto de origen de un cono no está incluido en el área de efecto, salvo que su creador decida lo contrario.
 
@@ -125,6 +125,4 @@ El punto de origen de un cubo no está incluido en el área de efecto, salvo que
 
 # Curación
 
-La curación es el medio para recuperar puntos de golpe. Consulta también el capítulo “Cómo jugar” (“Daño y curación”). 
-
-
+La curación es el medio para recuperar puntos de golpe. Consulta también el capítulo “Cómo jugar” (“Daño y curación”).

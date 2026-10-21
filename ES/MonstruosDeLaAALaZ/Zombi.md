@@ -16,7 +16,7 @@ related_en: "[[Monsters/Zombie|Zombie (EN)]]"
 
 **Velocidad:** 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |     6 |  -2 |   -2 |
@@ -40,4 +40,3 @@ related_en: "[[Monsters/Zombie|Zombie (EN)]]"
 ## Acciones
 
 **Golpe.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 5 (1d8 + 1) de daño contundente.
-

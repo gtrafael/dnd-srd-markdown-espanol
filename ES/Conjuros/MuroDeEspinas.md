@@ -24,5 +24,4 @@ Las criaturas pueden atravesar el muro, pero es un proceso lento y doloroso. Una
 
 **Con un espacio de conjuro de nivel superior.**
 
-Los dos tipos de daño aumentan en 1d8 por cada nivel por encima de 6 que tenga el espacio. 
-
+Los dos tipos de daño aumentan en 1d8 por cada nivel por encima de 6 que tenga el espacio.

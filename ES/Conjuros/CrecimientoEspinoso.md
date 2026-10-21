@@ -18,5 +18,4 @@ related_en: "[[Spells/Spike Growth|Spike Growth (EN)]]"
 
 Del suelo en una esfera de 6 m de radio centrada en un punto dentro del alcance brotan espinas y pinchos. La zona se vuelve terreno difícil hasta que termine el conjuro. Cuando una criatura entra en la zona o se desplaza por ella, recibe 2d4 de daño perforante por cada 1,5 m que avanza.
 
-La transformación del suelo se camufla, de forma que parece natural. Cualquier criatura que no pueda ver la zona cuando se lanza el conjuro deberá emplear una acción de buscar y superar una prueba de Sabiduría (Percepción o Supervivencia) contra tu CD de salvación de conjuros para reconocer que el terreno es peligroso antes de adentrarse en él. 
-
+La transformación del suelo se camufla, de forma que parece natural. Cualquier criatura que no pueda ver la zona cuando se lanza el conjuro deberá emplear una acción de buscar y superar una prueba de Sabiduría (Percepción o Supervivencia) contra tu CD de salvación de conjuros para reconocer que el terreno es peligroso antes de adentrarse en él.

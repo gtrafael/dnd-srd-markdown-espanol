@@ -53,4 +53,3 @@ Armaduras
 | Armadura de placas                                                          | 18                                | Fue 15 | Desventaja | 32,5 kg | 1500 po |
 | Escudos (acción de utilizar para ponérselos o quitárselos)                  |                                   |        |            |         |         |
 | Escudo                                                                      | +2                                | —      | —          | 3 kg    | 10 po   |
-

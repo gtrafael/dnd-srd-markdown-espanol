@@ -22,5 +22,4 @@ Si el objetivo está dormido, el mensajero aparece en sus sueños y puede conver
 
 Si el objetivo está despierto cuando lances el conjuro, el mensajero lo sabrá y podrá poner fin al trance (y al conjuro) o esperar a que se duerma, momento en el cual entrará en sus sueños.
 
-Puedes hacer que el mensajero se le aparezca al objetivo como un ser aterrador. Si lo haces, el mensajero podrá entregar un mensaje de un máximo de 10 palabras y luego el objetivo hará una tirada de salvación de Sabiduría. Si la falla, no recibirá beneficio alguno del descanso y sufrirá 3d6 de daño psíquico cuando se despierte. 
-
+Puedes hacer que el mensajero se le aparezca al objetivo como un ser aterrador. Si lo haces, el mensajero podrá entregar un mensaje de un máximo de 10 palabras y luego el objetivo hará una tirada de salvación de Sabiduría. Si la falla, no recibirá beneficio alguno del descanso y sufrirá 3d6 de daño psíquico cuando se despierte.

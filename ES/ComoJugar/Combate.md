@@ -117,7 +117,7 @@ Durante tu movimiento, puedes atravesar el espacio de un aliado, de una criatura
 
 El espacio de otra criatura es terreno difícil para ti salvo que la criatura sea Diminuta o tu aliada.
 
-No puedes terminar voluntariamente un movimiento en un espacio que ocupa otra criatura. Si, por lo que sea, terminas tu turno en un espacio con otra criatura,tendräs el estado de derribado (consulta el capítulo “Glosario de reglas”) salvo que seas Diminuto o tengas un tamaño superior al de la otra criatura.
+No puedes terminar voluntariamente un movimiento en un espacio que ocupa otra criatura. Si, por lo que sea, terminas tu turno en un espacio con otra criatura, tendrás el estado de derribado (consulta el capítulo “Glosario de reglas”) salvo que seas Diminuto o tengas un tamaño superior al de la otra criatura.
 
 ## Atacar
 
@@ -217,5 +217,4 @@ Un ataque a distancia con un arma bajo el agua falla automáticamente si el obje
 
 ## Resistencia al fuego
 
-Todo lo que haya bajo el agua tiene resistencia al daño de fuego (consulta “Daño y curación”). 
-
+Todo lo que haya bajo el agua tiene resistencia al daño de fuego (consulta “Daño y curación”).

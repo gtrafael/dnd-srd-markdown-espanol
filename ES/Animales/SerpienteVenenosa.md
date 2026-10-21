@@ -16,7 +16,7 @@ related_en: "[[Animals/Venomous Snake|Venomous Snake (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     2 |  -4 |   -4 |
 | DES   |    15 |  +2 |   +2 |
@@ -34,4 +34,3 @@ related_en: "[[Animals/Venomous Snake|Venomous Snake (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 4 (1d4 + 2) de daño perforante más 3 (1d6) de daño de veneno.
-

@@ -30,12 +30,12 @@ Resumen de las clases
 | Brujo       | Ocultismo      | Carisma                  | Alta        |
 | Clérigo     | Dioses         | Sabiduría                | Media       |
 | Druida      | Naturaleza     | Sabiduría                | Alta        |
-| Explora-dor | Superviven-cia | Destreza y Sabiduría     | Media       |
+| Explorador | Supervivencia | Destreza y Sabiduría     | Media       |
 
 | Clase      | Preferencia        | Característica principal | Complejidad |
 |------------|--------------------|--------------------------|-------------|
 | Guerrero   | Armas              | Fuerza o Destreza        | Baja        |
-| Hechi-cero | Poderes            | Carisma                  | Alta        |
+| Hechicero | Poderes            | Carisma                  | Alta        |
 | Mago       | Libros de conjuros | Inteligencia             | Media       |
 | Monje      | Combate sin armas  | Destreza y Sabiduría     | Alta        |
 | Paladín    | Defensa            | Fuerza y Carisma         | Media       |
@@ -296,9 +296,7 @@ Bonificador de ataques cuerpo a cuerpo = modificador por Fuerza + bonificador po
 
 Bonificador de ataques a distancia = modificador por Destreza + bonificador por competencia
 
-Consulta el daño y las propiedades de tus armas en el capítulo “Equipo”. Cuando hagas tiradas de
-
-daño con ellas, suma el mismo modificador por característica que usas para los ataques con esa arma.
+Consulta el daño y las propiedades de tus armas en el capítulo “Equipo”. Cuando hagas tiradas de daño con ellas, suma el mismo modificador por característica que usas para los ataques con esa arma.
 
 Lanzamiento de conjuros. Anota la CD de las tiradas de salvación de tus conjuros y el bonificador de ataque para los ataques que realices con ellos basándote en estas fórmulas:
 
@@ -308,5 +306,4 @@ Bonificador de ataque de conjuros = modificador por aptitud mágica + bonificado
 
 Tu modificador por aptitud mágica para un conjuro lo determina el rasgo que te otorga la capacidad de lanzar ese conjuro.
 
-Espacios de conjuro, trucos y conjuros preparados. Si tu clase te proporciona el rasgo Lanzamiento de conjuros o Magia del pacto, la tabla de rasgos de clase mostrará el número de espacios de conjuro disponibles, la cantidad de trucos que sabes y cuántos conjuros puedes preparar. Elige tus trucos y conjuros preparados y anótalos junto con el número de espacios de conjuros en la hoja de personaje. 
-
+Espacios de conjuro, trucos y conjuros preparados. Si tu clase te proporciona el rasgo Lanzamiento de conjuros o Magia del pacto, la tabla de rasgos de clase mostrará el número de espacios de conjuro disponibles, la cantidad de trucos que sabes y cuántos conjuros puedes preparar. Elige tus trucos y conjuros preparados y anótalos junto con el número de espacios de conjuros en la hoja de personaje.

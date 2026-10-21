@@ -15,4 +15,3 @@ El cubo tiene 3 cargas y recupera 1d3 cargas empleadas cada día, al amanecer. C
 Desplazamiento entre planos. Al pulsar dos veces una cara del cubo, lanzas desplazamiento entre planos y transportas a los objetivos al plano de existencia conectado con esa cara.
 
 Portal. Al pulsar una cara del cubo, lanzas portal abriendo un acceso al plano de existencia conectado con esa cara.
-

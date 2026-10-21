@@ -16,7 +16,7 @@ related_en: "[[Monsters/Merrow|Merrow (EN)]]"
 
 **Velocidad:** 3 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    15 |  +2 |   +2 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Merrow|Merrow (EN)]]"
 **Garra.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 9 (2d4 + 4) de daño cortante.
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 6 (1d4 + 4) de daño perforante y el objetivo tendrá el estado de envenenado hasta el final del siguiente turno del merrow.
-

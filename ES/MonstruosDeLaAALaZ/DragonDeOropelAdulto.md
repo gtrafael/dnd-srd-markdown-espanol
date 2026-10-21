@@ -16,7 +16,7 @@ related_en: "[[Monsters/Adult Brass Dragon|Adult Brass Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 9 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    23 |  +6 |   +6 |
 | DES   |    10 |  +0 |   +5 |
@@ -66,4 +66,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Arena abrasante.** *Tirada de salvación de Destreza:* CD 16, una criatura que el dragón pueda ver a 36 m o menos. Fallo: 27 (6d8) de daño de fuego y la velocidad del objetivo se reducirá a la mitad hasta el final de su siguiente turno. Fallo o éxito: el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Luz calcinadora.** El dragón utiliza su lanzamiento de conjuros para lanzar rayo abrasador.
-

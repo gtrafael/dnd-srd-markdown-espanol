@@ -17,4 +17,3 @@ Cuando termines de pintar, todos los objetos y elementos de terreno se volverán
 Ninguna creación de los pigmentos puede tener un valor superior a 25 po, y el valor total de todos los objetos que crea un botecito no puede superar las 500 po. Si pintas objetos de mayor valor, como un montón de oro, parecerán auténticos, pero una inspección detallada revela que están hechos de pasta, galleta u otro material sin valor.
 
 Si dibujas algún tipo de energía, como fuego o un relámpago, se esfumará inmediatamente al completar el dibujo, sin causar daños.
-

@@ -18,5 +18,4 @@ related_en: "[[Spells/Instant Summons|Instant Summons (EN)]]"
 
 A partir de entonces, podrás emplear una acción de magia para decir el nombre del objeto y aplastar el zafiro. El objeto aparecerá en tu mano al instante, sin importar las distancias físicas o interplanares, y el conjuro terminará.
 
-Si otra criatura sostiene o lleva el objeto consigo, aplastar el zafiro no lo llevará hasta ti. En su lugar, descubrirás quién es la criatura que lo tiene y su paradero actual. 
-
+Si otra criatura sostiene o lleva el objeto consigo, aplastar el zafiro no lo llevará hasta ti. En su lugar, descubrirás quién es la criatura que lo tiene y su paradero actual.

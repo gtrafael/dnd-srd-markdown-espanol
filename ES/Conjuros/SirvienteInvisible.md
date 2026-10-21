@@ -20,5 +20,4 @@ Este conjuro crea una fuerza invisible de tamaño Mediano, sin mente y sin forma
 
 Una vez en cada uno de tus turnos como acción adicional, puedes ordenar mentalmente al sirviente que se mueva hasta 4,5 m y que interactúe con un objeto. El sirviente puede realizar tareas sencillas que también podría llevar a cabo un humano, como traer y llevar cosas, limpiar, remendar, plegar ropa, encender un fuego y servir comida o bebida. En cuanto das la orden, el sirviente realiza la tarea lo mejor que puede hasta que la completa y luego espera tu siguiente orden.
 
-Si ordenas al sirviente que lleve a cabo una tarea que lo alejaría más de 18 m de ti, el conjuro termina. 
-
+Si ordenas al sirviente que lleve a cabo una tarea que lo alejaría más de 18 m de ti, el conjuro termina.

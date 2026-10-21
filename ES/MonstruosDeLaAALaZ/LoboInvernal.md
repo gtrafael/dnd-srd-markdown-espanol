@@ -16,7 +16,7 @@ related_en: "[[Monsters/Winter Wolf|Winter Wolf (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    13 |  +1 |   +1 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Winter Wolf|Winter Wolf (EN)]]"
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 11 (2d6 + 4) de daño perforante. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
 
 **Aliento gélido (recarga 5–6).** *Tirada de salvación de Constitución:* CD 12, todas las criaturas en un cono de 4,5 m. Fallo: 18 (4d8) de daño de frío. Éxito: la mitad del daño.
-

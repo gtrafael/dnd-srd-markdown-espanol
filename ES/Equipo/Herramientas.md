@@ -20,5 +20,4 @@ Para determinar cuántos días se necesitan para crear un objeto (dedicando 8 ho
 
 Si se tardan varios días en crear un objeto, no tienen por qué ser consecutivos.
 
-Los personajes pueden aunar esfuerzos para reducir el tiempo de fabricación. Divide el tiempo necesario para crear un objeto entre el número de personajes que trabajan en él. Normalmente, solo puede ayudarte otro personaje, pero tu GM podría permitir más ayudantes. 
-
+Los personajes pueden aunar esfuerzos para reducir el tiempo de fabricación. Divide el tiempo necesario para crear un objeto entre el número de personajes que trabajan en él. Normalmente, solo puede ayudarte otro personaje, pero tu GM podría permitir más ayudantes.

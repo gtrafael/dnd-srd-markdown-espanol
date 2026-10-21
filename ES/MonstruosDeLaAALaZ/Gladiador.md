@@ -16,7 +16,7 @@ related_en: "[[Monsters/Gladiator|Gladiator (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +7 |
 | DES   |    15 |  +2 |   +5 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Gladiator|Gladiator (EN)]]"
 ## Reacciones
 
 **Parada.** Detonante: una tirada de ataque cuerpo a cuerpo acierta al gladiador mientras sostiene un arma. Respuesta: el gladiador suma 3 a su CA contra ese ataque, lo que puede hacer que falle.
-

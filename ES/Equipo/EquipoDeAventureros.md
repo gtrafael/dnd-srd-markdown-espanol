@@ -104,9 +104,9 @@ Equipo de aventureros
 
 ## Aceite (1 pp)
 
-Puedes empapar de aceite a una criatura, un objeto o un espacio o utilizarlo como combustible, como se detallaa continuacion.
+Puedes empapar de aceite a una criatura, un objeto o un espacio o utilizarlo como combustible, como se detalla a continuación.
 
-Empapar a una criatura o un objeto. Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un frasco de aceite. Haz objetivo a una criatura u objeto a 6 m o menos de ti. El objetivo deberá superar una tirada de salvación de Destreza (CD 8 más tu modificador por Destreza y tu bonificador por competencia) o quedará cubierto de aceite. Si el objetivo sufre daño de fuego antes de que el aceite se seque (tras 1 minuto), recibirá 5 de daño de fuego adicional debido a que el aceiteardera.
+Empapar a una criatura o un objeto. Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un frasco de aceite. Haz objetivo a una criatura u objeto a 6 m o menos de ti. El objetivo deberá superar una tirada de salvación de Destreza (CD 8 más tu modificador por Destreza y tu bonificador por competencia) o quedará cubierto de aceite. Si el objetivo sufre daño de fuego antes de que el aceite se seque (tras 1 minuto), recibirá 5 de daño de fuego adicional debido a que el aceite arderá.
 
 Empapar un espacio. Puedes llevar a cabo la acción de utilizar para verter un frasco de aceite sobre un suelo plano para cubrir una zona cuadrada de 1,5 m de lado a 1,5 m o menos de ti. Si se prende, el aceite arderá durante 2 asaltos desde que se prendió (o 12 segundos) hasta el final de ese turno y hará 5 de daño de fuego a cualquier criatura que entre en la zona o termine su turno en ella. Una criatura solo puede sufrir este daño una vez por turno.
 
@@ -192,7 +192,7 @@ En una cantimplora caben hasta 2 l de líquido. Si no bebes suficiente agua, te 
 
 ## Catalejo (1000 po)
 
-Los objetos que se observan a través de un catalejo se ven al doble de su tamano real.
+Los objetos que se observan a través de un catalejo se ven al doble de su tamaño real.
 
 ## Cerradura (10 po)
 
@@ -218,7 +218,7 @@ En un cubo cabe un volumen de 15 l de contenido.
 
 Como acción de utilizar, puedes hacer un nudo con una cuerda si superas una prueba de Destreza (Juego de manos) con CD 10. Para romper la cuerda, se debe superar una prueba de Fuerza (Atletismo) con CD 20.
 
-Puedes atar a una criatura no voluntaria con la cuerda solo si tiene el estado de agarrada, apresada o incapacitada. Si la criatura tiene las piernas atadas, tendrá el estado de apresada hasta que se libere. Para liberarse de la cuerda, deberá superar una prueba de Destreza (Acrobacias) con CD 15 como accion.
+Puedes atar a una criatura no voluntaria con la cuerda solo si tiene el estado de agarrada, apresada o incapacitada. Si la criatura tiene las piernas atadas, tendrá el estado de apresada hasta que se libere. Para liberarse de la cuerda, deberá superar una prueba de Destreza (Acrobacias) con CD 15 como acción.
 
 ## Disfraz (5 po)
 
@@ -376,7 +376,7 @@ Una pluma sirve para escribir o dibujar con tinta.
 
 ## Poción de curación (50 po)
 
-Esta poción es un objeto mágico. Como acción adicional,puedes beberlaoadministrarlaaotra criatura que se encuentre a 1,5 m o menos de ti. La criatura que beba el fluido mágico de color rojo de este vial recuperará 2d4 + 2 puntos de golpe.
+Esta poción es un objeto mágico. Como acción adicional, puedes beberla o administrarla a otra criatura que se encuentre a 1,5 m o menos de ti. La criatura que beba el fluido mágico de color rojo de este vial recuperará 2d4 + 2 puntos de golpe.
 
 ## Polipasto (1 po)
 
@@ -472,5 +472,4 @@ En un vial caben 120 ml de líquido.
 
 ## Yesquero (5 pp)
 
-Un yesquero es un pequeño recipiente que contiene un pedernal, un chispero y yescas (normalmente, tela seca untada en aceite) y se utiliza para encender un fuego. Se necesita una acción adicional para prender con él una antorcha, lámpara, linterna o vela (o cualquier otra cosa con combustible expuesto). Encender cualquier otro tipo de fuego lleva 1 minuto. 
-
+Un yesquero es un pequeño recipiente que contiene un pedernal, un chispero y yescas (normalmente, tela seca untada en aceite) y se utiliza para encender un fuego. Se necesita una acción adicional para prender con él una antorcha, lámpara, linterna o vela (o cualquier otra cosa con combustible expuesto). Encender cualquier otro tipo de fuego lleva 1 minuto.

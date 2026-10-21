@@ -16,7 +16,7 @@ related_en: "[[Animals/Wolf|Wolf (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    15 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Wolf|Wolf (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada.
-

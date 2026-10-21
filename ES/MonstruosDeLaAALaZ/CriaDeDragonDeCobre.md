@@ -16,7 +16,7 @@ related_en: "[[Monsters/Copper Dragon Wyrmling|Copper Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    12 |  +1 |   +3 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Copper Dragon Wyrmling|Copper Dragon Wyrmling (EN)]]"
 **Aliento ácido (recarga 5–6).** *Tirada de salvación de Destreza:* CD 11, todas las criaturas en una línea de 6 m de largo y 1,5 m de ancho. Fallo: 18 (4d8) de daño de ácido. Éxito: la mitad del daño.
 
 **Aliento ralentizador.** *Tirada de salvación de Constitución:* CD 11, todas las criaturas en un cono de 4,5 m. Fallo: el objetivo no podrá llevar a cabo reacciones, su velocidad se reducirá a la mitad y podrá realizar una acción o una acción adicional en su turno, pero no ambas. Este efecto durará hasta el final de su siguiente turno.
-

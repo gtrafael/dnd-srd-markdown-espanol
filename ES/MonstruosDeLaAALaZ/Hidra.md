@@ -16,7 +16,7 @@ related_en: "[[Monsters/Hydra|Hydra (EN)]]"
 
 **Velocidad:** 12 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    20 |  +5 |   +5 |
 | DES   |    12 |  +1 |   +1 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Hydra|Hydra (EN)]]"
 **Ataque múltiple.** La hidra realiza un ataque de mordisco por cada cabeza que tenga.
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +8, alcance 3 m. Acierto: 10 (1d10 + 5) de daño perforante.
-

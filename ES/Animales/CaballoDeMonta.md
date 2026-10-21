@@ -16,7 +16,7 @@ related_en: "[[Animals/Riding Horse|Riding Horse (EN)]]"
 
 **Velocidad:** 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    13 |  +1 |   +1 |
@@ -34,4 +34,3 @@ related_en: "[[Animals/Riding Horse|Riding Horse (EN)]]"
 ## Acciones
 
 **Cascos.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 7 (1d8 + 3) de daño contundente.
-

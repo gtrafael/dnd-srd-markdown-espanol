@@ -16,7 +16,7 @@ related_en: "[[Monsters/Oni|Oni (EN)]]"
 
 **Velocidad:** 9 m, volar 9 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    11 |  +0 |   +3 |
@@ -56,4 +56,3 @@ related_en: "[[Monsters/Oni|Oni (EN)]]"
 ## Acciones adicionales
 
 **Invisibilidad.** El oni lanza invisibilidad sobre sí mismo, que no requiere componentes y utiliza la misma aptitud mágica que para su lanzamiento de conjuros.
-

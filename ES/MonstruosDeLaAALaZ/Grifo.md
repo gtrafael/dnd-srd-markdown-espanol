@@ -16,7 +16,7 @@ related_en: "[[Monsters/Griffon|Griffon (EN)]]"
 
 **Velocidad:** 9 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    15 |  +2 |   +2 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Griffon|Griffon (EN)]]"
 **Ataque múltiple.** El grifo realiza dos ataques de desgarro.
 
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 8 (1d8 + 4) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de agarrada (CD 14 para escapar) por ambas garras delanteras del grifo.
-

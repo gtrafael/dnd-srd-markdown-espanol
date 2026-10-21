@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Spider|Giant Spider (EN)]]"
 
 **Velocidad:** 12 m, trepar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    12 |  +1 |   +1 |
 | DES   |    16 |  +3 |   +3 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Giant Spider|Giant Spider (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 5 (1d4 + 3) de daño perforante más 5 (2d4) de daño de veneno.
-

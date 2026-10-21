@@ -16,7 +16,7 @@ related_en: "[[Monsters/Will-o-Wisp|Will-o-Wisp (EN)]]"
 
 **Velocidad:** 1,5 m, volar 15 m (levitar)
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     1 |  -5 |   -5 |
 | DES   |    28 |  +9 |   +9 |
@@ -52,4 +52,3 @@ related_en: "[[Monsters/Will-o-Wisp|Will-o-Wisp (EN)]]"
 **Desvanecerse.** El fuego fatuo y su luz tienen el estado de invisibles hasta que el fuego fatuo deje de concentrarse en este efecto, que terminará antes de tiempo inmediatamente después de que el fuego fatuo haga una tirada de ataque o use su acción de devorar vida.
 
 **Devorar vida.** *Tirada de salvación de Constitución:* CD 10, una criatura viva que el fuego fatuo pueda ver a 1,5 m o menos y tenga 0 puntos de golpe. Fallo: El objetivo muere y el fuego fatuo recupera 10 (3d6) puntos de golpe.
-

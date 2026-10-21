@@ -26,5 +26,4 @@ Tocas a una criatura y eliminas mágicamente uno de los siguientes efectos de el
 
 • Cualquier reducción de una de las puntuaciones de característica del objetivo.
 
-• Cualquier reducción de los puntos de golpe máximos del objetivo. 
-
+• Cualquier reducción de los puntos de golpe máximos del objetivo.

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Gray Ooze|Gray Ooze (EN)]]"
 
 **Velocidad:** 3 m, trepar 3 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    12 |  +1 |   +1 |
 | DES   |     6 |  -2 |   -2 |
@@ -48,4 +48,3 @@ El cieno es capaz de devorar 5 cm de madera o metal no mágicos en 1 asalto.
 ## Acciones
 
 **Pseudópodo.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 10 (2d8 + 1) de daño de ácido. La armadura no mágica que lleve el objetivo recibirá un penalizador de −1 a la CA que ofrece. La armadura se destruirá si el penalizador reduce su CA hasta 10. El penalizador se puede eliminar lanzando el conjuro reparar sobre la armadura.
-

@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Eagle|Giant Eagle (EN)]]"
 
 **Velocidad:** 3 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    17 |  +3 |   +3 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Giant Eagle|Giant Eagle (EN)]]"
 **Ataque múltiple.** El águila realiza dos ataques de desgarro.
 
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 5 (1d4 + 3) de daño cortante más 3 (1d6) de daño radiante.
-

@@ -16,5 +16,4 @@ related_en: "[[Spells/Counterspell|Counterspell (EN)]]"
 
 **Duración:** Instantáneo
 
-**Intentas interrumpir a una criatura que esté lanzando un conjuro.** La criatura hace una tirada de salvación de Constitución. Si la falla, el conjuro se disipa sin causar efecto alguno y la acción, acción adicional o reacción empleada para lanzarlo se desperdiciará. Si ese conjuro se lanzó con un espacio de conjuro, dicho espacio no se gastará. 
-
+**Intentas interrumpir a una criatura que esté lanzando un conjuro.** La criatura hace una tirada de salvación de Constitución. Si la falla, el conjuro se disipa sin causar efecto alguno y la acción, acción adicional o reacción empleada para lanzarlo se desperdiciará. Si ese conjuro se lanzó con un espacio de conjuro, dicho espacio no se gastará.

@@ -15,4 +15,3 @@ La criatura extradimensional vinculada a la bolsa puede sentir cualquier cosa qu
 Se pueden guardar objetos inanimados en la bolsa, que puede albergar 0,03 m3 de dicho material. No obstante, una vez al día, la bolsa se traga cualquier objeto que contenga y lo escupe en otro plano de existencia. El momento y el plano los determina tu GM.
 
 Si se perfora o se rasga la bolsa, se destruye y cualquier cosa que contenga se transporta a un lugar aleatorio del Plano Astral.
-

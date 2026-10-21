@@ -13,7 +13,7 @@ Si utilizas un objeto como una pata de una mesa, una sartén o una botella como 
 
 ## Debilitar
 
-Siaciertas a una criatura con estaarma,tendra desventaja en su próxima tirada de ataque antes del principio de tu siguiente turno.
+Si aciertas a una criatura con esta arma, tendrá desventaja en su próxima tirada de ataque antes del principio de tu siguiente turno.
 
 ## Derribar
 

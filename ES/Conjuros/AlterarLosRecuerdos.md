@@ -28,5 +28,4 @@ Un conjuro levantar maldición o restablecimiento mayor lanzado sobre el objetiv
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes alterar recuerdos del objetivo de un suceso que ocurrió hace 7 días (espacio de nivel 6), 30 días (espacio de nivel 7), 365 días (espacio de nivel 8) o en cualquier momento del pasado de la criatura (espacio de nivel 9). 
-
+Puedes alterar recuerdos del objetivo de un suceso que ocurrió hace 7 días (espacio de nivel 6), 30 días (espacio de nivel 7), 365 días (espacio de nivel 8) o en cualquier momento del pasado de la criatura (espacio de nivel 9).

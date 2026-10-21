@@ -22,5 +22,4 @@ Antipatía. La criatura tiene el estado de asustada y deberá utilizar su movimi
 
 Simpatía. La criatura tiene el estado de hechizada y deberá utilizar su movimiento en sus turnos para acercarse lo máximo posible al objetivo por la ruta más segura. Si la criatura se encuentra a 1,5 m o menos del objetivo, no podrá alejarse de él voluntariamente. Si el objetivo daña a la criatura hechizada, esta podrá hacer una tirada de salvación de Sabiduría para poner fin al efecto, como se describe a continuación.
 
-Poner fin al efecto. Si la criatura asustada o hechizada termina su turno a más de 36 m del objetivo,deberä hacer una tirada de salvacion de Sabiduría. Si la supera, dejará de verse afectada por el objetivo. Las criaturas que superen la tirada de salvación contra este efecto serán inmunes a él durante 1 minuto y después podrán verse afectadas otra vez. 
-
+Poner fin al efecto. Si la criatura asustada o hechizada termina su turno a más de 36 m del objetivo, deberá hacer una tirada de salvación de Sabiduría. Si la supera, dejará de verse afectada por el objetivo. Las criaturas que superen la tirada de salvación contra este efecto serán inmunes a él durante 1 minuto y después podrán verse afectadas otra vez.

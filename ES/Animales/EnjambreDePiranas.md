@@ -16,7 +16,7 @@ related_en: "[[Animals/Swarm of Piranhas|Swarm of Piranhas (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    16 |  +3 |   +3 |
@@ -44,4 +44,3 @@ related_en: "[[Animals/Swarm of Piranhas|Swarm of Piranhas (EN)]]"
 ## Acciones
 
 **Mordiscos.** Tirada de ataque cuerpo a cuerpo: +5 (con ventaja si el objetivo no tiene todos sus puntos de golpe), alcance 1,5 m. Acierto: 8 (2d4 + 3) de daño perforante o 5 (1d4 + 3) de daño perforante si el enjambre está maltrecho.
-

@@ -28,5 +28,4 @@ related_en: "[[Spells/Bestow Curse|Bestow Curse (EN)]]"
 
 **Con un espacio de conjuro de nivel superior.**
 
-Si lanzas este conjuro con un espacio de nivel 4, puedes mantener la concentración en él hasta 10 minutos. Si usas un espacio de nivel 5 o superior, el conjuro no requiere concentración y la duración pasará a ser de 8 horas (espacio de nivel 5 o 6) o de 24 horas (espacio de nivel 7 u 8). Si usas un espacio de conjuro de nivel 9, el conjuro durará hasta que sea disipado. 
-
+Si lanzas este conjuro con un espacio de nivel 4, puedes mantener la concentración en él hasta 10 minutos. Si usas un espacio de nivel 5 o superior, el conjuro no requiere concentración y la duración pasará a ser de 8 horas (espacio de nivel 5 o 6) o de 24 horas (espacio de nivel 7 u 8). Si usas un espacio de conjuro de nivel 9, el conjuro durará hasta que sea disipado.

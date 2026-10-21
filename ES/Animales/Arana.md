@@ -14,7 +14,7 @@ related_en: "[[Animals/Spider|Spider (EN)]]"
 
 **Velocidad:** 6 m, trepar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     2 |  -4 |   -4 |
 | DES   |    14 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Spider|Spider (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 1 de daño perforante más 2 (1d4) de daño de veneno.
-

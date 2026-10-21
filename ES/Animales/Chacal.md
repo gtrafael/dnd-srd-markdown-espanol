@@ -16,7 +16,7 @@ related_en: "[[Animals/Jackal|Jackal (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     8 |  -1 |   -1 |
 | DES   |    15 |  +2 |   +2 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Jackal|Jackal (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +1, alcance 1,5 m. Acierto: 1 (1d4 − 1) de daño perforante.
-

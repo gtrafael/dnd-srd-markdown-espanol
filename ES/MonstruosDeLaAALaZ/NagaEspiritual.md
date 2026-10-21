@@ -16,7 +16,7 @@ related_en: "[[Monsters/Spirit Naga|Spirit Naga (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    17 |  +3 |   +6 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Spirit Naga|Spirit Naga (EN)]]"
 **A voluntad:** detectar magia, ilusión menor, mano de mago, respirar bajo el agua
 
 **2/día cada uno:** detectar pensamientos, inmovilizar persona (versión de nivel 3), puerta dimensional, relámpago (versión de nivel 4)
-

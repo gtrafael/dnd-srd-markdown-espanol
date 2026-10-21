@@ -20,5 +20,4 @@ related_en: "[[Spells/Silent Image|Silent Image (EN)]]"
 
 Como acción de magia, puedes mover la imagen a cualquier sitio dentro del alcance. Al cambiarla de sitio, puedes alterar su apariencia de forma que sus movimientos parezcan naturales. Por ejemplo, si creas la imagen de una criatura y la mueves, puedes alterarla de forma que parezca estar andando.
 
-La interacción física con la imagen revela que es una ilusión, ya que las cosas pueden atravesarla. Si una criatura emplea una acción de estudiar para examinar la imagen, puede determinar que es una ilusión si supera una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Si la criatura descubre que la imagen es una ilusión, no se dejará engañar por ella. 
-
+La interacción física con la imagen revela que es una ilusión, ya que las cosas pueden atravesarla. Si una criatura emplea una acción de estudiar para examinar la imagen, puede determinar que es una ilusión si supera una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Si la criatura descubre que la imagen es una ilusión, no se dejará engañar por ella.

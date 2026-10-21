@@ -16,7 +16,7 @@ related_en: "[[Monsters/Noble|Noble (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    12 |  +1 |   +1 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Noble|Noble (EN)]]"
 **Parada.** Detonante: una tirada de ataque cuerpo a cuerpo acierta al noble mientras sostiene un arma.
 
 **Respuesta:** el noble suma 2 a su CA contra ese ataque, lo que puede hacer que falle.
-

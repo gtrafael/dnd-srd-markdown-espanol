@@ -16,7 +16,7 @@ related_en: "[[Monsters/Silver Dragon Wyrmling|Silver Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    10 |  +0 |   +2 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Silver Dragon Wyrmling|Silver Dragon Wyrmling (EN)]]"
 **Aliento gélido (recarga 5–6).** *Tirada de salvación de Constitución:* CD 13, todas las criaturas en un cono de 4,5 m. Fallo: 18 (4d8) de daño de frío. Éxito: la mitad del daño.
 
 **Aliento paralizante.** *Tirada de salvación de Constitución:* CD 13, todas las criaturas en un cono de 4,5 m. Primer fallo: el objetivo tendrá el estado de incapacitado hasta el final de su siguiente turno, momento en el que repetirá la tirada de salvación. Segundo fallo: el objetivo tendrá el estado de paralizado y repetirá la tirada de salvación al final de cada uno de sus turnos. Si tiene éxito, se librará del efecto. Tras 1 minuto, tendrá éxito automáticamente.
-

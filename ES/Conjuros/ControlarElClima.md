@@ -54,4 +54,3 @@ Cuando cambies las condiciones meteorológicas, busca un estado en las tablas si
 |     3 | Viento fuerte   |
 |     4 | Galerna         |
 |     5 | Tempestad       |
-

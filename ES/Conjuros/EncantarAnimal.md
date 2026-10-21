@@ -20,5 +20,4 @@ Haces objetivo a una bestia que puedas ver dentro del alcance. El objetivo deber
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes hacer objetivo a una bestia adicional por cada nivel por encima de 1 que tenga el espacio. 
-
+Puedes hacer objetivo a una bestia adicional por cada nivel por encima de 1 que tenga el espacio.

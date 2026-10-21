@@ -14,7 +14,7 @@ related_en: "[[Monsters/Xorn|Xorn (EN)]]"
 
 **Velocidad:** 6 m, excavar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    17 |  +3 |   +3 |
 | DES   |    10 |  +0 |   +0 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Xorn|Xorn (EN)]]"
 ## Acciones adicionales
 
 **Carga.** El xorn se mueve hasta su velocidad o hasta su velocidad excavando en línea recta hacia un enemigo que pueda sentir.
-

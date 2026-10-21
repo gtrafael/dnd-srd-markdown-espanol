@@ -112,7 +112,7 @@ Como enano, tienes estos atributos especiales:
 
 Afinidad con la piedra. Como acción adicional, ganas la capacidad de sentir vibraciones con un alcance de 18 m durante 10 minutos. Debes encontrarte sobre una superficie de piedra o en contacto con una superficie de piedra para usar esta capacidad. La piedra puede ser natural o labrada.
 
-Puedes usar esta accion adicional una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso largo.
+Puedes usar esta acción adicional una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso largo.
 
 Aguante enano. Tus puntos de golpe máximos se incrementan en 1 y aumentarán en 1 más cada vez que subas un nivel.
 
@@ -240,9 +240,7 @@ Como tiefling, tienes los siguientes atributos especiales:
 
 Legado infernal. Eres el destinatario de un legado que te otorga capacidades sobrenaturales. Elige un legado de la tabla “Legados infernales”. Obtienes el beneficio de nivel 1 del legado elegido.
 
-Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro
-
-preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de esta forma tras finalizar un descanso largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro que tengas del nivel apropiado.
+Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de esta forma tras finalizar un descanso largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro que tengas del nivel apropiado.
 
 La Inteligencia, la Sabiduría o el Carisma es tu aptitud mágica para los conjuros que lances con este atributo (elige la característica al seleccionar el legado).
 
@@ -254,7 +252,6 @@ Legados infernales
 
 | Legado   | Nivel 1                                                                         | Nivel 3             | Nivel 5             |
 |----------|---------------------------------------------------------------------------------|---------------------|---------------------|
-| Abisal   | Tienes resistencia al daño de veneno.También conoces el truco rociada venenosa. | Rayo nauseabundo    | Inmovilizar persona |
-| Ctónico  | Tienes resistencia al daño necrótico.También conoces el truco toque helado.     | Falsa vida          | Rayo debilitador    |
-| Infernal | Tienes resistencia al daño de fuego.También conoces el truco descarga de fuego. | Reprensión infernal | Oscuridad           |
-
+| Abisal   | Tienes resistencia al daño de veneno. También conoces el truco rociada venenosa. | Rayo nauseabundo    | Inmovilizar persona |
+| Ctónico  | Tienes resistencia al daño necrótico. También conoces el truco toque helado.     | Falsa vida          | Rayo debilitador    |
+| Infernal | Tienes resistencia al daño de fuego. También conoces el truco descarga de fuego. | Reprensión infernal | Oscuridad           |

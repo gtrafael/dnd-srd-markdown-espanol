@@ -28,5 +28,4 @@ Limpiar o ensuciar. Limpias o ensucias al instante un objeto de hasta 0,03 m3.
 
 Marca mágica. Haces que aparezca una mancha de color, una pequeña marca o un símbolo en un objeto o superficie durante 1 hora.
 
-Sensación menor. Enfrías, calientas o das sabor a un material inerte de hasta 0,03 m3 durante 1 hora. 
-
+Sensación menor. Enfrías, calientas o das sabor a un material inerte de hasta 0,03 m3 durante 1 hora.

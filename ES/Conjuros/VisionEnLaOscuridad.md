@@ -16,5 +16,4 @@ related_en: "[[Spells/Darkvision|Darkvision (EN)]]"
 
 **Duración:** 8 horas
 
-Hasta que el conjuro termine, una criatura voluntaria a la que toques tendrá visión en la oscuridad hasta 45 m. 
-
+Hasta que el conjuro termine, una criatura voluntaria a la que toques tendrá visión en la oscuridad hasta 45 m.

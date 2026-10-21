@@ -22,5 +22,4 @@ Como acción adicional en tus siguientes turnos, puedes teletransportar el espí
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d12 por cada nivel por encima de 6 que tenga el espacio. 
-
+El daño aumenta en 1d12 por cada nivel por encima de 6 que tenga el espacio.

@@ -16,7 +16,7 @@ related_en: "[[Animals/Hawk|Hawk (EN)]]"
 
 **Velocidad:** 3 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     5 |  -3 |   -3 |
 | DES   |    16 |  +3 |   +3 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Hawk|Hawk (EN)]]"
 ## Acciones
 
 **Garras.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 1 de daño cortante.
-

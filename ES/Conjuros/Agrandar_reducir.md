@@ -24,5 +24,4 @@ Agrandar. El tamaño del objetivo aumenta en una categoría; por ejemplo, de Med
 
 Reducir. El tamaño del objetivo se reduce en una categoría; por ejemplo, de Mediano a Pequeño. El objetivo también tendrá desventaja en las pruebas de Fuerza y en las tiradas de salvación de
 
-Fuerza. Los ataques que haga con armas reducidas o sin armas causan 1d4 menos de daño al acertar (esto no puede reducir el daño a menos de 1). 
-
+Fuerza. Los ataques que haga con armas reducidas o sin armas causan 1d4 menos de daño al acertar (esto no puede reducir el daño a menos de 1).

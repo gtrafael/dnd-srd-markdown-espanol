@@ -16,7 +16,7 @@ related_en: "[[Monsters/Unicorn|Unicorn (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +2 |
@@ -64,4 +64,3 @@ Resistencia legendaria (3/día). El unicornio puede elegir tener éxito en una t
 **Cuerno embestidor.** El unicornio se mueve hasta la mitad de su velocidad sin provocar ataques de oportunidad y realiza un ataque con su cuerno radiante.
 
 **Escudo resplandeciente.** El unicornio se hace objetivo a sí mismo o hace objetivo a una criatura que pueda ver a 18 m o menos de él. El objetivo obtiene 10 (3d6) puntos de golpe temporales y su CA aumenta en 2 hasta el final del siguiente turno del unicornio. El unicornio no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

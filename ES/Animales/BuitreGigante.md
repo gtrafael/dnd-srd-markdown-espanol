@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Vulture|Giant Vulture (EN)]]"
 
 **Velocidad:** 3 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    10 |  +0 |   +0 |
@@ -42,4 +42,3 @@ related_en: "[[Animals/Giant Vulture|Giant Vulture (EN)]]"
 ## Acciones
 
 **Picotazo.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 9 (2d6 + 2) de daño perforante y el objetivo tendrá el estado de envenenado hasta el final de su siguiente turno.
-

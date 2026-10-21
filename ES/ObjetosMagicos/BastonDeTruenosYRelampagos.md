@@ -18,4 +18,3 @@ Este bastón se puede usar a modo de bastón mágico que otorga un bonificador d
 **Trueno.** Puedes emplear una acción de magia para hacer que el bastón emita un trueno ensordecedor audible a 180 m de distancia. Todas las criaturas situadas en una emanación de 18 m que se origina en ti harán una tirada de salvación de Constitución con CD 17. Si la fallan, sufrirán 2d6 de daño de trueno y tendrán el estado de ensordecidas durante 1 minuto. Si la superan, solo sufrirán la mitad de ese daño.
 
 **Truenos y relámpagos.** Inmediatamente después de acertar con un ataque cuerpo a cuerpo usando el bastón, puedes emplear una acción adicional para utilizar a la vez las propiedades de golpe atronador y golpe relampagueante (consúltalas más arriba). Hacer esto no consume el uso diario de esas propiedades, solo de esta.
-

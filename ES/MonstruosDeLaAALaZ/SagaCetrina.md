@@ -16,7 +16,7 @@ related_en: "[[Monsters/Green Hag|Green Hag (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    12 |  +1 |   +1 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Green Hag|Green Hag (EN)]]"
 **Lanzamiento de conjuros.** La saga lanza uno de los siguientes conjuros, que no requiere componentes materiales y utiliza la Sabiduría como aptitud mágica (CD de salvación de conjuros 12, +4 a acertar con ataques de conjuro):
 
 **A voluntad:** disfrazarse (24 horas de duración), ilusión menor, invisibilidad (solo lanzador y la saga no deja huellas mientras es invisible), luces danzantes, rayo nauseabundo (versión de nivel 3)
-

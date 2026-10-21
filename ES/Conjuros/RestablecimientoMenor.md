@@ -16,5 +16,4 @@ related_en: "[[Spells/Lesser Restoration|Lesser Restoration (EN)]]"
 
 **Duración:** Instantáneo
 
-Tocas a una criatura y le pones fin a un estado que tenga: cegada, ensordecida, envenenada o paralizada. 
-
+Tocas a una criatura y le pones fin a un estado que tenga: cegada, ensordecida, envenenada o paralizada.

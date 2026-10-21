@@ -10,7 +10,7 @@ related_en: "[[Treasure/Belt of Dwarvenkind|Belt of Dwarvenkind (EN)]]"
 
 Mientras lleves puesto este cinturón, obtienes los siguientes beneficios:
 
-**Aguante.** Tu Constitución aumenta en 2, hasta un maximo de 20.
+**Aguante.** Tu Constitución aumenta en 2, hasta un máximo de 20.
 
 **Amistad con los enanos.** Tienes ventaja en las pruebas de Carisma (Persuasión) en las que interactúes con enanos y duergars.
 
@@ -25,4 +25,3 @@ Si no eres enano o duergar, obtendrás los siguientes beneficios adicionales mie
 También tienes ventaja en las tiradas de salvación para evitar o poner fin al estado de envenenado.
 
 **Visión en la oscuridad.** Tienes visión en la oscuridad hasta 18 m.
-

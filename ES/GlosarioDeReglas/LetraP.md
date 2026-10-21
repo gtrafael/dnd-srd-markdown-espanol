@@ -109,7 +109,7 @@ Notación del daño. Los perfiles suelen proporcionar un número estático y la 
 
 La pericia es un rasgo que mejora el uso de tu competencia en una habilidad. Cuando hagas una prueba de característica con una competencia en una habilidad en la que tengas pericia, tu bonificador por competencia se duplica en esa prueba salvo que otro rasgo lo duplique.
 
-Si ganas pericia, la ganas en una habilidad en la que tengas competencia. No puedes tener pericia mäs de una vez en la misma habilidad.
+Si ganas pericia, la ganas en una habilidad en la que tengas competencia. No puedes tener pericia más de una vez en la misma habilidad.
 
 Consulta también el capítulo “Cómo jugar” (“Competencia”).
 
@@ -176,5 +176,3 @@ Algunos efectos otorgan puntos de golpe temporales, que evitan la pérdida de pu
 # Puntuación de característica y modificador
 
 Las criaturas tienen seis puntuaciones de característica: Fuerza, Destreza, Constitución, Inteligencia, Sabiduría y Carisma, que tienen su modificador correspondiente. Suma el modificador cuando hagas una prueba con d20 con la característica que corresponda o cuando una regla te lo pida. Consulta también el capítulo “Cómo jugar” (“Las seis características”).
-
-

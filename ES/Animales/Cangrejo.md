@@ -16,7 +16,7 @@ related_en: "[[Animals/Crab|Crab (EN)]]"
 
 **Velocidad:** 6 m, nadar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     6 |  -2 |   -2 |
 | DES   |    11 |  +0 |   +0 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Crab|Crab (EN)]]"
 ## Acciones
 
 **Pinza.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 1 de daño contundente.
-

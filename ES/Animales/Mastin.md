@@ -16,7 +16,7 @@ related_en: "[[Animals/Mastiff|Mastiff (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    14 |  +2 |   +2 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Mastiff|Mastiff (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 4 (1d6 + 1) de daño perforante. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada.
-

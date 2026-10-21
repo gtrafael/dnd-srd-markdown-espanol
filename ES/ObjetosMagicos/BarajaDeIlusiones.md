@@ -53,5 +53,3 @@ Baraja de ilusiones
 | 97–00 | El dueño de la baraja  |
 
 *Los perfiles de las criaturas (salvo el dueño de la baraja) aparecen en el capítulo “Monstruos”.
-
-

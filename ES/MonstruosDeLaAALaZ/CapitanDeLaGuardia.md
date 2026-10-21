@@ -16,7 +16,7 @@ related_en: "[[Monsters/Guard Captain|Guard Captain (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +2 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Guard Captain|Guard Captain (EN)]]"
 **Espada larga.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 15 (2d10 + 4) de daño cortante.
 
 **Jabalina.** Tirada de ataque cuerpo a cuerpo o a distancia: +6, alcance 1,5 m o 9/36 m a distancia. Acierto: 14 (3d6 + 4) de daño perforante.
-

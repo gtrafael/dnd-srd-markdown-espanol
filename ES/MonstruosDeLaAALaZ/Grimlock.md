@@ -16,7 +16,7 @@ related_en: "[[Monsters/Grimlock|Grimlock (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    16 |  +3 |   +3 |
 | DES   |    12 |  +1 |   +1 |
@@ -36,4 +36,3 @@ related_en: "[[Monsters/Grimlock|Grimlock (EN)]]"
 ## Acciones
 
 **Garrote óseo.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 6 (1d6 + 3) de daño contundente más 2 (1d4) de daño psíquico.
-

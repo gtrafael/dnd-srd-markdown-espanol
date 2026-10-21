@@ -13,4 +13,3 @@ Estas botas forradas de pelaje son ceñidas y calentitas. Mientras las calces, o
 **Caminante invernal.** El terreno difícil creado por hielo o nieve no te afecta.
 
 **Resistencia al frío.** de frío y puedes aguantar temperaturas de −18 °C o menos sin más protección.
-

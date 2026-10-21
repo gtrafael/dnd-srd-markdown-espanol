@@ -16,7 +16,7 @@ related_en: "[[Monsters/Pirate Captain|Pirate Captain (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    10 |  +0 |   +3 |
 | DES   |    18 |  +4 |   +7 |
@@ -50,4 +50,3 @@ related_en: "[[Monsters/Pirate Captain|Pirate Captain (EN)]]"
 ## Reacciones
 
 **Contraataque.** Detonante: una tirada de ataque cuerpo a cuerpo acierta al pirata mientras sostiene un arma. Respuesta: el pirata suma 3 a su CA contra ese ataque, lo que puede hacer que falle. Si falla, el pirata realiza un ataque con su estoque contra la criatura a la que reacciona si está dentro del alcance.
-

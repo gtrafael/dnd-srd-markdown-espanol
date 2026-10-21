@@ -20,5 +20,4 @@ Tocas a una criatura y su velocidad aumenta en 3 m hasta que el conjuro termine.
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio. 
-
+Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio.

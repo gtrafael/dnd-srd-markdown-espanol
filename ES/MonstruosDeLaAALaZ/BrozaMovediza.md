@@ -16,7 +16,7 @@ related_en: "[[Monsters/Shambling Mound|Shambling Mound (EN)]]"
 
 **Velocidad:** 9 m, nadar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |     8 |  -1 |   -1 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Shambling Mound|Shambling Mound (EN)]]"
 **Zarcillo cargado.** Tirada de ataque cuerpo a cuerpo: +7, alcance 3 m. Acierto: 7 (1d6 + 4) de daño contundente más 5 (2d4) de daño de relámpago. Si el objetivo es una criatura Mediana o más pequeña, la broza movediza atraerá al objetivo 1,5 m en línea recta hacia ella.
 
 **Absorber.** *Tirada de salvación de Fuerza:* CD 15, una criatura Mediana o más pequeña a 1,5 m o menos. Fallo: el objetivo será arrastrado al espacio de la broza movediza y tendrá el estado de agarrado (CD 14 para escapar). Hasta que el agarre termine, el objetivo tendrá los estados de apresado y cegado y recibirá 10 (3d6) de daño de relámpago al principio de cada uno de sus turnos. Cuando la broza movediza se mueva, el objetivo agarrado se moverá con ella sin costarle movimiento adicional. La broza movediza solo puede tener a una criatura agarrada con esta acción al mismo tiempo.
-

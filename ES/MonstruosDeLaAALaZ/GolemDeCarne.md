@@ -16,7 +16,7 @@ related_en: "[[Monsters/Flesh Golem|Flesh Golem (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |     9 |  -1 |   -1 |
@@ -52,4 +52,3 @@ Si el creador del gólem está a 18 m o menos de este, podrá intentar calmarlo 
 **Ataque múltiple.** El gólem realiza dos ataques con su golpe.
 
 **Golpe.** Tirada de ataque cuerpo a cuerpo: +7, alcance 1,5 m. Acierto: 13 (2d8 + 4) de daño contundente más 4 (1d8) de daño de relámpago.
-

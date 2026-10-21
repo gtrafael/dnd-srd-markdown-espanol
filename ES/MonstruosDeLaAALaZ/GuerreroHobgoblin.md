@@ -16,7 +16,7 @@ related_en: "[[Monsters/Hobgoblin Warrior|Hobgoblin Warrior (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    12 |  +1 |   +1 |
@@ -42,4 +42,3 @@ related_en: "[[Monsters/Hobgoblin Warrior|Hobgoblin Warrior (EN)]]"
 **Espada larga.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 12 (2d10 + 1) de daño cortante.
 
 **Arco largo.** Tirada de ataque a distancia: +3, alcance 45/180 m. Acierto: 5 (1d8 + 1) de daño perforante más 7 (3d4) de daño de veneno.
-

@@ -18,5 +18,4 @@ Preparas una alarma contra los intrusos. Elige una puerta, una ventana o una zon
 
 Alarma mental. La alarma te avisará con un sonido dentro de tu mente si estás a 1,5 km o menos de la zona vigilada. Si estás durmiendo, te despertará.
 
-Alarma sonora. La alarma producirá el sonido de una campanilla durante 10 segundos, que será audible a 18 m o menos de la zona vigilada. 
-
+Alarma sonora. La alarma producirá el sonido de una campanilla durante 10 segundos, que será audible a 18 m o menos de la zona vigilada.

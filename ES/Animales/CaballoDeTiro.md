@@ -16,7 +16,7 @@ related_en: "[[Animals/Draft Horse|Draft Horse (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    10 |  +0 |   +0 |
@@ -34,4 +34,3 @@ related_en: "[[Animals/Draft Horse|Draft Horse (EN)]]"
 ## Acciones
 
 **Cascos.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 6 (1d4 + 4) de daño contundente.
-

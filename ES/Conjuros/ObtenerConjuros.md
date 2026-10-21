@@ -28,5 +28,4 @@ La mayoría de monstruos que lanzan conjuros no cambian su lista de conjuros pre
 
 ### Conjuros siempre preparados
 
-Es posible que algunos rasgos te otorguen conjuros que siempre tienes preparados. Si también tienes una lista de conjuros preparados que puedes modificar, los conjuros que tengas preparados siempre no contarán para el total de esa lista. 
-
+Es posible que algunos rasgos te otorguen conjuros que siempre tienes preparados. Si también tienes una lista de conjuros preparados que puedes modificar, los conjuros que tengas preparados siempre no contarán para el total de esa lista.

@@ -24,5 +24,4 @@ Produces uno de estos efectos:
 
 **Con un espacio de conjuro de nivel superior.**
 
-Creas o destruyes 40 l más de agua o el tamaño del cubo aumenta en 1,5 m por cada nivel por encima de 1 que tenga el espacio. 
-
+Creas o destruyes 40 l más de agua o el tamaño del cubo aumenta en 1,5 m por cada nivel por encima de 1 que tenga el espacio.

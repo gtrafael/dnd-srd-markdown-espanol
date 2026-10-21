@@ -16,7 +16,7 @@ related_en: "[[Monsters/Young Blue Dragon|Young Blue Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 6 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    21 |  +5 |   +5 |
 | DES   |    10 |  +0 |   +4 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Young Blue Dragon|Young Blue Dragon (EN)]]"
 **Aliento de relámpago (recarga 5–6).** *Tirada de salvación de Destreza:* CD 16, todas las criaturas en una línea de 18 m de largo y 1,5 m de ancho. Fallo:
 
 **55 (10d10) de daño de relámpago.** Éxito: la mitad del daño.
-

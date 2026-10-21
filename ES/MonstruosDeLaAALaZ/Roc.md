@@ -16,7 +16,7 @@ related_en: "[[Monsters/Roc|Roc (EN)]]"
 
 **Velocidad:** 6 m, volar 36 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    28 |  +9 |   +9 |
 | DES   |    10 |  +0 |   +4 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Roc|Roc (EN)]]"
 ## Acciones adicionales
 
 **Caída en picado (recarga 5–6).** Si el roc tiene a una criatura agarrada, vuela hasta la mitad de su velocidad volando sin provocar ataques de oportunidad y suelta a la criatura.
-

@@ -23,4 +23,3 @@ Mientras lo lleves puesto, obtienes los siguientes beneficios:
 Si sacas un 1, las gemas restantes emitirán rayos de luz y el yelmo se destruirá. Todas las criaturas dentro de una emanación de 18 m que se origina en el yelmo deberán superar una tirada de salvación de Destreza con CD 17 o un rayo las alcanzará y sufrirán una cantidad de daño radiante igual al número de gemas del yelmo.
 
 **Resistencia de rubí.** Mientras quede al menos un rubí en el yelmo, tendrás resistencia al daño de fuego.
-

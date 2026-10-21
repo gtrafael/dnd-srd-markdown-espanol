@@ -22,5 +22,4 @@ Al final de cada 10 minutos que pases concentrándote en el conjuro, podrás ele
 
 Este conjuro no puede manipular la piedra natural ni las construcciones de piedra. Las rocas y las estructuras se desplazan para acomodar el nuevo terreno. Si la forma que le das al terreno hace que una estructura sea inestable, esta podría hundirse.
 
-De forma similar, este conjuro no afecta directamente al crecimiento vegetal y la tierra desplazada se lleva con ella cualquier planta que haya. 
-
+De forma similar, este conjuro no afecta directamente al crecimiento vegetal y la tierra desplazada se lleva con ella cualquier planta que haya.

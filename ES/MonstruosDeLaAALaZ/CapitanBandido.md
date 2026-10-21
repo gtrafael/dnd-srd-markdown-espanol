@@ -16,7 +16,7 @@ related_en: "[[Monsters/Bandit Captain|Bandit Captain (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +4 |
 | DES   |    16 |  +3 |   +5 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Bandit Captain|Bandit Captain (EN)]]"
 ## Reacciones
 
 **Parada.** Detonante: una tirada de ataque cuerpo a cuerpo acierta al bandido mientras sostiene un arma. Respuesta: el bandido suma 2 a su CA contra ese ataque, lo que puede hacer que falle.
-

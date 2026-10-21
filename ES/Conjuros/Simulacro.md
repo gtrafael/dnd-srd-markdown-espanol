@@ -22,5 +22,4 @@ El simulacro es amistoso contigo y con las criaturas que designes, obedece tus �
 
 Si el simulacro sufre daño, la única forma de restaurar sus puntos de golpe es repararlo cuando hagas un descanso largo. En ese momento, puedes gastar componentes con un valor de 100 po por cada punto de golpe recuperado. Para repararlo, el simulacro debe permanecer a 1,5 m o menos de ti.
 
-El simulacro dura hasta que sus puntos de golpe se reducen a 0, momento en el que vuelve a convertirse en nieve o hielo y se derrite. Si vuelves a lanzar este conjuro, cualquier simulacro que hayas creado antes con él se destruye al instante. 
-
+El simulacro dura hasta que sus puntos de golpe se reducen a 0, momento en el que vuelve a convertirse en nieve o hielo y se derrite. Si vuelves a lanzar este conjuro, cualquier simulacro que hayas creado antes con él se destruye al instante.

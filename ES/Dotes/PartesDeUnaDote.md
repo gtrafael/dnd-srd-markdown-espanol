@@ -18,5 +18,4 @@ Requisitos. Para conseguir una dote, deberás cumplir los requisitos de su descr
 
 Beneficios. Los beneficios de una dote se detallan después de los requisitos. Si tienes una dote, consigues sus beneficios.
 
-Repetible. Las dotes solo se pueden obtener una vez a menos que su descripción indique algo distinto en el subapartado “Repetible”. 
-
+Repetible. Las dotes solo se pueden obtener una vez a menos que su descripción indique algo distinto en el subapartado “Repetible”.

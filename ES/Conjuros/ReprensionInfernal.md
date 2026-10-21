@@ -20,5 +20,4 @@ La criatura que te ha dañado se ve rodeada momentáneamente por unas llamas ver
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d10 por cada nivel por encima de 1 que tenga el espacio. 
-
+El daño aumenta en 1d10 por cada nivel por encima de 1 que tenga el espacio.

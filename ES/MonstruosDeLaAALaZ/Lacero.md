@@ -16,7 +16,7 @@ related_en: "[[Monsters/Roper|Roper (EN)]]"
 
 **Velocidad:** 3 m, trepar 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |     8 |  -1 |   -1 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Roper|Roper (EN)]]"
 El tentáculo se puede dañar y soltará a una criatura agarrada cuando se destruya (CA de 20, 10 pg e inmunidad al daño psíquico y de veneno). Dañar el tentáculo no daña al lacero y un tentáculo destruido vuelve a crecer al principio del siguiente turno del lacero.
 
 **Atraer.** El lacero arrastra a todas las criaturas que tenga agarradas hasta 9 m en línea recta hacia él.
-

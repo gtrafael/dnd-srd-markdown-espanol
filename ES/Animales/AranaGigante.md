@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Spider|Giant Spider (English)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +2 |
 | DES   |    16 |  +3 |   +3 |
@@ -44,4 +44,3 @@ related_en: "[[Animals/Giant Spider|Giant Spider (English)]]"
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 7 (1d8 + 3) de daño perforante más 7 (2d6) de daño de veneno.
 
 **Telaraña (recarga 5–6).** *Tirada de salvación de Destreza:* CD 13, una criatura que la araña pueda ver a 18 m o menos. Fallo: el objetivo tendrá el estado de apresado hasta que se destruya la telaraña (CA 10, 5 pg, vulnerabilidad a daño de fuego e inmunidad a daño psíquico y de veneno).
-

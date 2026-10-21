@@ -16,7 +16,7 @@ related_en: "[[Monsters/Violet Fungus|Violet Fungus (EN)]]"
 
 **Velocidad:** 1,5 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     3 |  -4 |   -4 |
 | DES   |     1 |  -5 |   -5 |
@@ -38,4 +38,3 @@ related_en: "[[Monsters/Violet Fungus|Violet Fungus (EN)]]"
 **Ataque múltiple.** El hongo realiza dos ataques con su toque putrefacto.
 
 **Toque putrefacto.** Tirada de ataque cuerpo a cuerpo: +2, alcance 3 m. Acierto: 4 (1d8) de daño necrótico.
-

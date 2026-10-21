@@ -22,5 +22,4 @@ El objetivo obtiene una cantidad de puntos de golpe temporales igual a los punto
 
 Las acciones que puede realizar el objetivo están limitadas por la anatomía de su nueva forma y no podrá hablar ni lanzar conjuros.
 
-El equipo del objetivo se funde con su nueva forma y la criatura no podrá usar ese equipo ni beneficiarse de él. 
-
+El equipo del objetivo se funde con su nueva forma y la criatura no podrá usar ese equipo ni beneficiarse de él.

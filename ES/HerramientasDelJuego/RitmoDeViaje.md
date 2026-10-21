@@ -43,4 +43,3 @@ Si los personajes van volando o su movimiento especial les permite ignorar el te
 ## Vehículos
 
 Los personajes que viajen en un vehículo utilizarán la velocidad del mismo en kilómetros por hora (como aparece en “Equipo”) para determinar su ritmo de viaje, que no elegirán.
-

@@ -27,7 +27,7 @@ Resultado del teletransporte
 | Círculo permanente       | —        | —            | —                  | 01–00          |
 | Objeto vinculado         | —        | —            | —                  | 01–00          |
 | Muy familiar             | 01–05    | 06–13        | 14–24              | 25–00          |
-| Visto esporá-dicamente   | 01–33    | 34–43        | 44–53              | 54–00          |
+| Visto esporádicamente   | 01–33    | 34–43        | 44–53              | 54–00          |
 | Visto una vez o descrito | 01–43    | 44–53        | 54–73              | 74–00          |
 | Destino falso            | 01–50    | 51–00        | —                  | —              |
 
@@ -51,5 +51,4 @@ Resultado del teletransporte
 
 **Lejos del objetivo.** Tu grupo y tú (o el objeto objetivo) aparecéis a 2d12 × 1,5 km de distancia del destino en una dirección al azar. Tira 1d8 para determinar la dirección: con un 1, al este; con un 2, al sureste; con un 3, al sur; con un 4, al suroeste; con un 5, al oeste; con un 6, al noroeste; con un 7, al norte, y con un 8, al noreste.
 
-**En el objetivo.** Tu grupo y tú (o el objeto objetivo) aparecéis donde tú querías. 
-
+**En el objetivo.** Tu grupo y tú (o el objeto objetivo) aparecéis donde tú querías.

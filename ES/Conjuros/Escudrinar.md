@@ -34,5 +34,4 @@ Si supera la tirada de salvación, el objetivo no se verá afectado y no podrás
 
 Si la falla, el conjuro crea un sensor invisible e intangible a 3 m o menos de él. Puedes ver y oír a través del sensor como si estuvieras allí. El sensor se mueve a la vez que el objetivo y permanece a 3 m o menos de él hasta que termine el conjuro. Si algo puede percibir el sensor, se mostrará como un orbe luminoso del tamaño aproximado de tu puño.
 
-En vez de hacer objetivo a una criatura, puedes elegir una ubicación que hayas visto antes. Cuando lo hagas, el sensor aparecerá en ese lugar y no se moverá. 
-
+En vez de hacer objetivo a una criatura, puedes elegir una ubicación que hayas visto antes. Cuando lo hagas, el sensor aparecerá en ese lugar y no se moverá.

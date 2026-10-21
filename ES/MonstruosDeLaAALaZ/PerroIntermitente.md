@@ -16,7 +16,7 @@ related_en: "[[Monsters/Blink Dog|Blink Dog (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    12 |  +1 |   +1 |
 | DES   |    17 |  +3 |   +3 |
@@ -40,4 +40,3 @@ related_en: "[[Monsters/Blink Dog|Blink Dog (EN)]]"
 ## Acciones adicionales
 
 **Teletransporte (recarga 4–6).** El perro se teletransporta hasta 12 m a un espacio sin ocupar que pueda ver.
-

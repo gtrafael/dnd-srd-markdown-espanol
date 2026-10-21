@@ -20,5 +20,4 @@ Una criatura a la que toques recupera una cantidad de puntos de golpe igual a 2d
 
 **Con un espacio de conjuro de nivel superior.**
 
-La curación aumenta en 2d8 por cada nivel por encima de 1 que tenga el espacio. 
-
+La curación aumenta en 2d8 por cada nivel por encima de 1 que tenga el espacio.

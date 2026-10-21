@@ -22,5 +22,4 @@ Cada objetivo hace una tirada de salvación de Destreza; sufrirá 10d8 de daño 
 
 **Con un espacio de conjuro de nivel superior.**
 
-Surge un relámpago adicional del primer objetivo a otro objetivo por cada nivel por encima de 6 que tenga el espacio. 
-
+Surge un relámpago adicional del primer objetivo a otro objetivo por cada nivel por encima de 6 que tenga el espacio.

@@ -65,7 +65,7 @@ Consumo de agua al día
 
 # Desnutrición [peligro]
 
-Las criaturas necesitan cierta cantidad de alimentos al día en función de su tamaño, como se muestra en la tabla “Consumo de alimentos al día”. Si una criatura come, pero ingiere menos de la mitad de los alimentos que necesita al día, deberá superar una tirada de salvacion de Constitucion con CD 10 o sumará 1 nivel de cansancio al final del día. Si una criatura no come nada durante 5 días, sumará automáticamente 1 nivel de cansancio al final del quinto día y un nivel adicional al final de cada día posterior sin comer.
+Las criaturas necesitan cierta cantidad de alimentos al día en función de su tamaño, como se muestra en la tabla “Consumo de alimentos al día”. Si una criatura come, pero ingiere menos de la mitad de los alimentos que necesita al día, deberá superar una tirada de salvación de Constitución con CD 10 o sumará 1 nivel de cansancio al final del día. Si una criatura no come nada durante 5 días, sumará automáticamente 1 nivel de cansancio al final del quinto día y un nivel adicional al final de cada día posterior sin comer.
 
 El cansancio causado por la desnutrición no puede eliminarse hasta que la criatura coma la cantidad completa de alimentos necesarios al día. Consulta también
 
@@ -75,7 +75,7 @@ Consumo de alimentos al día
 |----------|-----------|---------------|-----------|
 | Diminuto | 125 g     | Grande        | 2 kg      |
 | Pequeño  | 0,5 kg    | Enorme        | 8 kg      |
-| Mediano  | 0,5 kg    | Gargan-tuesco | 32 kg     |
+| Mediano  | 0,5 kg    | Gargantuesco | 32 kg     |
 
 # Destrabarse [acción]
 
@@ -83,6 +83,4 @@ Si llevas a cabo la acción de destrabarse, tu movimiento no provocará ataques 
 
 # Desventaja
 
-Si tienes desventaja en una prueba con d20, tira 2d20 y utiliza el resultado más bajo. Una tirada no puede verse afectada por más de una desventaja, y una ventaja y una desventaja en la misma tirada se anulan entre sí. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”). 
-
-
+Si tienes desventaja en una prueba con d20, tira 2d20 y utiliza el resultado más bajo. Una tirada no puede verse afectada por más de una desventaja, y una ventaja y una desventaja en la misma tirada se anulan entre sí. Consulta también el capítulo “Cómo jugar” (“Las pruebas con d20”).

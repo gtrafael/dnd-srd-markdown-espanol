@@ -16,7 +16,7 @@ related_en: "[[Monsters/Adult White Dragon|Adult White Dragon (EN)]]"
 
 **Velocidad:** 12 m, excavar 9 m, nadar 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    22 |  +6 |   +6 |
 | DES   |    10 |  +0 |   +5 |
@@ -60,4 +60,3 @@ El dragón puede elegir tener éxito en una tirada de salvación que haya fallad
 **Estallido helador.** *Tirada de salvación de Constitución:* CD 14, todas las criaturas en una esfera de 9 m de radio centrada en un punto que el dragón pueda ver a 36 m o menos. Fallo: 7 (2d6) de daño de frío y la velocidad del objetivo será 0 hasta el final de su siguiente turno. Fallo o éxito: el dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
 
 **Presencia aterradora.** El dragón lanza terror, que no requiere componentes materiales y utiliza el Carisma como aptitud mágica (CD de salvación de conjuros 14). El dragón no puede volver a realizar esta acción hasta el principio de su siguiente turno.
-

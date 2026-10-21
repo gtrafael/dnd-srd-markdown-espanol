@@ -16,7 +16,7 @@ related_en: "[[Animals/Mule|Mule (EN)]]"
 
 **Velocidad:** 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    14 |  +2 |   +4 |
 | DES   |    10 |  +0 |   +0 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Mule|Mule (EN)]]"
 ## Acciones
 
 **Cascos.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 4 (1d4 + 2) de daño contundente.
-

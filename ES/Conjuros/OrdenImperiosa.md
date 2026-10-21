@@ -30,5 +30,4 @@ related_en: "[[Spells/Command|Command (EN)]]"
 
 **Con un espacio de conjuro de nivel superior.**
 
-Puedes afectar a una criatura adicional por cada nivel por encima de 1 que tenga el espacio. 
-
+Puedes afectar a una criatura adicional por cada nivel por encima de 1 que tenga el espacio.

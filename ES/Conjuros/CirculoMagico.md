@@ -30,5 +30,4 @@ Cada vez que lances este conjuro, puedes hacer que su magia funcione en sentido 
 
 **Con un espacio de conjuro de nivel superior.**
 
-La duración aumenta en 1 hora por cada nivel por encima de 3 que tenga el espacio. 
-
+La duración aumenta en 1 hora por cada nivel por encima de 3 que tenga el espacio.

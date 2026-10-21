@@ -16,7 +16,7 @@ related_en: "[[Animals/Deer|Deer (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    11 |  +0 |   +0 |
 | DES   |    16 |  +3 |   +3 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Deer|Deer (EN)]]"
 ## Acciones
 
 **Embestir.** Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 2 (1d4) de daño contundente.
-

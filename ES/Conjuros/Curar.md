@@ -20,5 +20,4 @@ Elige a una criatura que puedas ver dentro del alcance. Una energía positiva la
 
 **Con un espacio de conjuro de nivel superior.**
 
-La curación aumenta en 10 por cada nivel por encima de 6 que tenga el espacio. 
-
+La curación aumenta en 10 por cada nivel por encima de 6 que tenga el espacio.

@@ -20,5 +20,4 @@ Creas un sensor invisible dentro del alcance en un lugar que conozcas (que hayas
 
 Cuando lances el conjuro, elige la vista o el oído. Podrás usar el sentido elegido como si estuvieras en el espacio del sensor. Como acción adicional, puedes cambiar entre la vista y el oído.
 
-Cualquier criatura que pueda percibir el sensor (por ejemplo, que se esté beneficiando del conjuro ver invisibilidad o que tenga visión verdadera) verá un orbe luminoso del tamaño aproximado de tu puño. 
-
+Cualquier criatura que pueda percibir el sensor (por ejemplo, que se esté beneficiando del conjuro ver invisibilidad o que tenga visión verdadera) verá un orbe luminoso del tamaño aproximado de tu puño.

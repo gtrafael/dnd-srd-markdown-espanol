@@ -20,5 +20,4 @@ Una esfera de 18 m de radio centrada en un punto de tu elección dentro del alca
 
 Una criatura cegada por este conjuro realiza una tirada de salvación de Constitución al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.
 
-Este conjuro dispersa la oscuridad que haya en la zona y que fuera creada por un conjuro. 
-
+Este conjuro dispersa la oscuridad que haya en la zona y que fuera creada por un conjuro.

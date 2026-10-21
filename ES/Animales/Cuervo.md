@@ -16,7 +16,7 @@ related_en: "[[Animals/Raven|Raven (EN)]]"
 
 **Velocidad:** 3 m, volar 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     2 |  -4 |   -4 |
 | DES   |    14 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Raven|Raven (EN)]]"
 ## Acciones
 
 **Pico.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 1 de daño perforante.
-

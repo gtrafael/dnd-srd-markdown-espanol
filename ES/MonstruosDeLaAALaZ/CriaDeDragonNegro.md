@@ -14,7 +14,7 @@ related_en: "[[Monsters/Black Dragon Wyrmling|Black Dragon Wyrmling (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    15 |  +2 |   +2 |
 | DES   |    14 |  +2 |   +4 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Black Dragon Wyrmling|Black Dragon Wyrmling (EN)]]"
 **Desgarro.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño cortante más 2 (1d4) de daño de ácido.
 
 **Aliento ácido (recarga 5–6).** *Tirada de salvación de Destreza:* CD 11, todas las criaturas en una línea de 4,5 m de largo y 1,5 m de ancho. Fallo: 22 (5d8) de daño de ácido. Éxito: la mitad del daño.
-

@@ -16,7 +16,7 @@ related_en: "[[Monsters/Chimera|Chimera (EN)]]"
 
 **Velocidad:** 9 m, volar 18 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |    11 |  +0 |   +0 |
@@ -44,4 +44,3 @@ related_en: "[[Monsters/Chimera|Chimera (EN)]]"
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +7, alcance 1,5 m. Acierto: 11 (2d6 + 4) de daño perforante o 18 (4d6 + 4) de daño perforante si la quimera tenía ventaja en la tirada de ataque.
 
 **Aliento de fuego (recarga 5–6).** *Tirada de salvación de Destreza:* CD 15, todas las criaturas en un cono de 4,5 m. Fallo: 31 (7d8) de daño de fuego. Éxito: la mitad del daño.
-

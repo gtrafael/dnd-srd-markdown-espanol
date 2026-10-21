@@ -16,7 +16,7 @@ related_en: "[[Animals/Swarm of Venomous Snakes|Swarm of Venomous Snakes (EN)]]"
 
 **Velocidad:** 9 m, nadar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     8 |  -1 |   -1 |
 | DES   |    18 |  +4 |   +4 |
@@ -42,4 +42,3 @@ related_en: "[[Animals/Swarm of Venomous Snakes|Swarm of Venomous Snakes (EN)]]"
 ## Acciones
 
 **Mordiscos.** Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 8 (1d8 + 4) de daño perforante o 6 (1d4 + 4) de daño perforante si el enjambre está maltrecho, más 10 (3d6) de daño de veneno.
-

@@ -20,5 +20,4 @@ En tu mano aparece una llama titilante, que permanece hasta que termine el conju
 
 Hasta que el conjuro termine, puedes usar una acción de magia para arrojar la llama a una criatura u objeto a 18 m o menos de ti. Haz un ataque de conjuro a distancia. Si acierta, el objetivo recibe 1d8 de daño de fuego.
 
-**Mejora de truco.** El daño aumenta en 1d8 cuando alcanzas los niveles 5 (2d8), 11 (3d8) y 17 (4d8). 
-
+**Mejora de truco.** El daño aumenta en 1d8 cuando alcanzas los niveles 5 (2d8), 11 (3d8) y 17 (4d8).

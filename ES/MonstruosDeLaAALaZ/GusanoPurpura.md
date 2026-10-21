@@ -16,7 +16,7 @@ related_en: "[[Monsters/Purple Worm|Purple Worm (EN)]]"
 
 **Velocidad:** 15 m, excavar 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    28 |  +9 |   +9 |
 | DES   |     7 |  -2 |   -2 |
@@ -48,4 +48,3 @@ related_en: "[[Monsters/Purple Worm|Purple Worm (EN)]]"
 **Engullir.** *Tirada de salvación de Fuerza:* CD 19, una criatura Grande o más pequeña agarrada por el gusano (puede tener hasta tres criaturas engullidas a la vez). Fallo: el objetivo será engullido por el gusano y se pondrá fin al estado de agarrado. Una criatura engullida tendrá los estados de apresada y cegada, tendrá cobertura completa contra los ataques y otros efectos fuera del gusano y recibirá 17 (5d6) de daño de ácido al principio de cada turno del gusano.
 
 Si el gusano sufre 30 o más de daño en un solo turno por parte de una criatura que esté dentro de él, deberá superar una tirada de salvación de Constitución con CD 21 al final de ese turno o regurgitará a todas las criaturas engullidas, que caerán en espacios a 1,5 m o menos del gusano y tendrán el estado de derribadas. Si el gusano muere, cualquier criatura engullida dejará de tener el estado de apresada y podrá gastar 6 m de movimiento para escapar del cadáver, del que saldrá con el estado de derribada.
-

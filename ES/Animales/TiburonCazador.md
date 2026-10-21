@@ -16,7 +16,7 @@ related_en: "[[Animals/Hunter Shark|Hunter Shark (EN)]]"
 
 **Velocidad:** 1,5 m, nadar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    18 |  +4 |   +4 |
 | DES   |    14 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Animals/Hunter Shark|Hunter Shark (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +6 (con ventaja si el objetivo no tiene todos sus puntos de golpe), alcance 1,5 m. Acierto: 14 (3d6 + 4) de daño perforante.
-

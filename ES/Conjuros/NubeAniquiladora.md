@@ -24,5 +24,4 @@ La esfera se aleja de ti 3 m al principio de cada uno de tus turnos.
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d8 por cada nivel por encima de 5 que tenga el espacio. 
-
+El daño aumenta en 1d8 por cada nivel por encima de 5 que tenga el espacio.

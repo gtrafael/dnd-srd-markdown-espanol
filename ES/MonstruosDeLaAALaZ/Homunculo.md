@@ -16,7 +16,7 @@ related_en: "[[Monsters/Homunculus|Homunculus (EN)]]"
 
 **Velocidad:** 6 m, volar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     4 |  -3 |   -3 |
 | DES   |    15 |  +2 |   +2 |
@@ -40,4 +40,3 @@ related_en: "[[Monsters/Homunculus|Homunculus (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 1 de daño perforante y el objetivo sufrirá el siguiente efecto. *Tirada de salvación de Constitución:* CD 12. Fallo: el objetivo tendrá el estado de envenenado hasta el final del siguiente turno del homúnculo. Fallo por 5 o más: el objetivo tendrá el estado de envenenado durante 1 minuto. Mientras esté envenenado, tendrá el estado de inconsciente, que terminará antes si recibe cualquier daño.
-

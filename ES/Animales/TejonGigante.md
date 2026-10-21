@@ -16,7 +16,7 @@ related_en: "[[Animals/Giant Badger|Giant Badger (EN)]]"
 
 **Velocidad:** 9 m, excavar 3 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    13 |  +1 |   +1 |
 | DES   |    10 |  +0 |   +0 |
@@ -38,4 +38,3 @@ related_en: "[[Animals/Giant Badger|Giant Badger (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 6 (2d4 + 1) de daño perforante.
-

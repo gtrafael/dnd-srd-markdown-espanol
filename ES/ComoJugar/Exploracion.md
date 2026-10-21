@@ -30,7 +30,7 @@ La presencia o ausencia de luz determina la categoría de iluminación de una zo
 
 Luz brillante. La luz brillante permite a la mayoría de criaturas ver con normalidad. Incluso los días encapotados proporcionan luz brillante, al igual que lo hacen las antorchas, linternas, hogueras y otras fuentes de iluminación dentro de un radio específico.
 
-Luz tenue. La luz tenue, también llamada “sombras”, hace que la zona esté ligeramente oscura. Una zona con luz tenue suele ser la frontera entre una luz brillante y la oscuridad que la rodea. La luz suave del ocaso o del amanecer se considera luz tenue.Una noche de luna llena banarä la tierra de luz tenue.
+Luz tenue. La luz tenue, también llamada “sombras”, hace que la zona esté ligeramente oscura. Una zona con luz tenue suele ser la frontera entre una luz brillante y la oscuridad que la rodea. La luz suave del ocaso o del amanecer se considera luz tenue. Una noche de luna llena bañará la tierra de luz tenue.
 
 Oscuridad. La oscuridad hace que una zona esté muy oscura. Los personajes se enfrentan a la oscuridad cuando están en exteriores por la noche (incluso en la mayoría de noches con la luna visible), en el interior de una mazmorra sin iluminar o en una zona de oscuridad mágica.
 
@@ -124,5 +124,4 @@ Lento. Viajar a un ritmo lento otorga ventaja en las pruebas de Sabiduría (Perc
 
 ### Vehículos
 
-Los viajeros que van en carromatos, carruajes u otros vehículos terrestres eligen su ritmo del modo habitual. Los personajes que viajan en vehículos acuáticos se ven limitados por la velocidad de la embarcación y no eligen un ritmo de viaje. En función de la embarcación y de la tripulación, los barcos pueden llegar a viajar durante 24 horas al día. En el capítulo “Equipo” se pueden consultar los vehículos que hay a la venta. 
-
+Los viajeros que van en carromatos, carruajes u otros vehículos terrestres eligen su ritmo del modo habitual. Los personajes que viajan en vehículos acuáticos se ven limitados por la velocidad de la embarcación y no eligen un ritmo de viaje. En función de la embarcación y de la tripulación, los barcos pueden llegar a viajar durante 24 horas al día. En el capítulo “Equipo” se pueden consultar los vehículos que hay a la venta.

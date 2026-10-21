@@ -16,4 +16,3 @@ Cuando bebas esta poción, tendrás resistencia a un tipo de daño durante 1 hor
 |    3 | Fuego        |    8 | Relámpago    |
 |    4 | Fuerza       |    9 | Trueno       |
 |    5 | Necrótico    |   10 | Veneno       |
-

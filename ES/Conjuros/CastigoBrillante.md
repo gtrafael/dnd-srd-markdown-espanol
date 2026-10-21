@@ -20,5 +20,4 @@ El objetivo del golpe recibe 2d6 de daño radiante adicional del ataque. Hasta q
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio. 
-
+El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio.

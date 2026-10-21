@@ -38,5 +38,4 @@ Acostumbras a disfrutar de los placeres de la vida y podrías tener sirvientes.
 
 ## Aristocrático (10 po al día)
 
-Pagas por lo mejor de lo mejor y podrías tener empleados para asistirte con tu estilo de vida. Otros se percatan de tu riqueza y podrían alentarte a compartirla, ya sea de forma legal o no. 
-
+Pagas por lo mejor de lo mejor y podrías tener empleados para asistirte con tu estilo de vida. Otros se percatan de tu riqueza y podrían alentarte a compartirla, ya sea de forma legal o no.

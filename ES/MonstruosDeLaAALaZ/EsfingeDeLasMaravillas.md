@@ -16,7 +16,7 @@ related_en: "[[Monsters/Sphinx of Wonder|Sphinx of Wonder (EN)]]"
 
 **Velocidad:** 6 m, volar 12 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     6 |  -2 |   -2 |
 | DES   |    17 |  +3 |   +3 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Sphinx of Wonder|Sphinx of Wonder (EN)]]"
 ## Reacciones
 
 **Arranque de ingenio (2/día).** Detonante: la esfinge u otra criatura a 9 m o menos hace una prueba de característica o una tirada de salvación. Respuesta: la esfinge suma 2 a la tirada.
-

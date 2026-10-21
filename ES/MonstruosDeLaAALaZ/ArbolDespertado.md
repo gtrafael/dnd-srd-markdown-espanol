@@ -14,7 +14,7 @@ related_en: "[[Monsters/Awakened Tree|Awakened Tree (EN)]]"
 
 **Velocidad:** 6 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    19 |  +4 |   +4 |
 | DES   |     6 |  -2 |   -2 |
@@ -36,4 +36,3 @@ related_en: "[[Monsters/Awakened Tree|Awakened Tree (EN)]]"
 ## Acciones
 
 **Golpe.** Tirada de ataque cuerpo a cuerpo: +6, alcance 3 m. Acierto: 14 (3d6 + 4) de daño contundente.
-

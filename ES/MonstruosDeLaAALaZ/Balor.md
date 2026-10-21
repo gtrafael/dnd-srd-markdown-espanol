@@ -14,7 +14,7 @@ related_en: "[[Monsters/Balor|Balor (EN)]]"
 
 **Velocidad:** 12 m, volar 24 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    26 |  +8 |   +8 |
 | DES   |    15 |  +2 |   +2 |
@@ -58,4 +58,3 @@ Resistencia legendaria (3/día). El balor puede elegir tener éxito en una tirad
 ## Acciones adicionales
 
 **Teletransporte.** El balor se teletransporta a sí mismo o a un demonio voluntario que esté a 3 m o menos de él hasta 18 m a un espacio sin ocupar que el balor pueda ver.
-

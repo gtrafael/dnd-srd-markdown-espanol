@@ -16,7 +16,7 @@ related_en: "[[Animals/Weasel|Weasel (EN)]]"
 
 **Velocidad:** 9 m, trepar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |     3 |  -4 |   -4 |
 | DES   |    16 |  +3 |   +3 |
@@ -36,4 +36,3 @@ related_en: "[[Animals/Weasel|Weasel (EN)]]"
 ## Acciones
 
 **Mordisco.** Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 1 de daño perforante.
-

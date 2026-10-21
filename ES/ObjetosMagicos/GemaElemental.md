@@ -16,4 +16,3 @@ Esta gema contiene vestigios de energía elemental. Cuando emplees una acción d
 | Diamante amarillo | Elemental de tierra |
 | Esmeralda         | Elemental de agua   |
 | Zafiro azul       | Elemental de aire   |
-

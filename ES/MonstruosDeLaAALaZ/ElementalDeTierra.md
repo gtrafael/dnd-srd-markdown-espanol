@@ -14,7 +14,7 @@ related_en: "[[Monsters/Earth Elemental|Earth Elemental (EN)]]"
 
 **Velocidad:** 9 m, excavar 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    20 |  +5 |   +5 |
 | DES   |     8 |  -1 |   -1 |
@@ -46,4 +46,3 @@ related_en: "[[Monsters/Earth Elemental|Earth Elemental (EN)]]"
 **Golpe.** Tirada de ataque cuerpo a cuerpo: +8, alcance 3 m. Acierto: 14 (2d8 + 5) de daño contundente.
 
 **Lanzamiento de rocas.** Tirada de ataque a distancia: +8, alcance 18 m. Acierto: 8 (1d6 + 5) de daño contundente. Si el objetivo es una criatura Grande o más pequeña, tendrá el estado de derribada.
-

@@ -24,4 +24,3 @@ Como alternativa, la primera vez que enciendas la vela, podrás utilizarla para 
 | 34–38 | Carceri        | 83–87 | Pandemónium            |
 | 39–46 | Elíseo         | 88–95 | Tierras de las Bestias |
 | 47–51 | Gehenna        | 96–00 | Ysgard                 |
-

@@ -16,5 +16,3 @@ Un objeto es una cosa individual y sin vida. Las cosas compuestas, como los edif
 # Oscuridad
 
 Una zona de oscuridad está muy oscura. Consulta también “Muy oscuro” y el capítulo “Cómo jugar” (“Exploración”).
-
-

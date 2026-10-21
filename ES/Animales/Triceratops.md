@@ -16,7 +16,7 @@ related_en: "[[Animals/Triceratops|Triceratops (EN)]]"
 
 **Velocidad:** 15 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    22 |  +6 |   +6 |
 | DES   |     9 |  -1 |   -1 |

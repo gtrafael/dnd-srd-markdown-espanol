@@ -22,5 +22,4 @@ Siempre que una criatura que puedas ver entre en el espacio del espíritu o empi
 
 **Con un espacio de conjuro de nivel superior.**
 
-El daño aumenta en 1d8 por cada nivel por encima de 5 que tenga el espacio. 
-
+El daño aumenta en 1d8 por cada nivel por encima de 5 que tenga el espacio.

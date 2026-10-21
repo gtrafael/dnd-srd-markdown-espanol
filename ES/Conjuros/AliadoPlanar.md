@@ -26,5 +26,4 @@ Algunas criaturas podrían solicitar que lleves a cabo alguna misión a cambio d
 
 Una tarea que pueda medirse en minutos requiere un pago equivalente a 100 po por minuto. Una tarea que se mida en horas requiere 1000 po por hora, y una tarea que se mida en días (hasta 10 días) requiere 10 000 po por día. Tu GM puede adaptar los pagos en función de las circunstancias en las que lances el conjuro. Si la tarea está en sintonía con los valores de la criatura, el pago podría reducirse a la mitad o incluso no ser necesario. Las tareas que no implican peligro suelen exigir solo la mitad del pago sugerido, mientras que las que son especialmente peligrosas podrían requerir una donación aún mayor. Raramente una criatura aceptará una tarea que parezca suicida.
 
-Una vez que la criatura complete su tarea o cuando finalice el tiempo de servicio acordado, volverá a su plano natal tras informarte de ello si es posible. Si no eres capaz de llegar a un acuerdo sobre el precio del servicio de la criatura, esta regresará a su plano natal de inmediato. 
-
+Una vez que la criatura complete su tarea o cuando finalice el tiempo de servicio acordado, volverá a su plano natal tras informarte de ello si es posible. Si no eres capaz de llegar a un acuerdo sobre el precio del servicio de la criatura, esta regresará a su plano natal de inmediato.

@@ -113,7 +113,7 @@ Retirada (coste: 1d6). Justo después del ataque, te mueves hasta la mitad de tu
 
 Tropiezo (coste: 1d6). Si el objetivo es Grande o más pequeño, deberá superar una tirada de salvación de Destreza o tendrá el estado de derribado.
 
-Veneno (coste: 1d6). Añades una toxina a tu golpe, lo que obliga al objetivo a hacer una tirada de salvación de Constitución. Si la falla, tendrá el estado de envenenado durante1minuto.Al final de cada uno de sus turnos, el objetivo envenenado repetirá la tirada de salvación y, si tiene éxito, se librará del efecto.
+Veneno (coste: 1d6). Añades una toxina a tu golpe, lo que obliga al objetivo a hacer una tirada de salvación de Constitución. Si la falla, tendrá el estado de envenenado durante 1 minuto. Al final de cada uno de sus turnos, el objetivo envenenado repetirá la tirada de salvación y, si tiene éxito, se librará del efecto.
 
 ### Nivel 5: Esquiva asombrosa
 
@@ -139,7 +139,7 @@ Confundir (coste: 2d6). El objetivo deberá superar una tirada de salvación de 
 
 Noquear (coste: 6d6). El objetivo deberá superar una tirada de salvación de Constitución o tendrá el estado de inconsciente durante 1 minuto o hasta recibir daño. El objetivo inconsciente repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.
 
-Ofuscar (coste: 3d6). El objetivo deberá superaruna tirada de salvacion de Destreza o tendra el estado de cegado hasta el final de su siguiente turno.
+Ofuscar (coste: 3d6). El objetivo deberá superar una tirada de salvación de Destreza o tendrá el estado de cegado hasta el final de su siguiente turno.
 
 ### Nivel 15: Mente escurridiza
 
@@ -171,7 +171,7 @@ Como acción adicional, puedes hacer una de las siguientes cosas:
 
 Juego de manos. Haz una prueba de Destreza (Juego de manos) para robarle a alguien o usar herramientas de ladrón para forzar una cerradura o desarmar una trampa.
 
-Usar un objeto. Emplea la acción de utilizar o la acción de magia para usar un objeto mágico que necesite una accion.
+Usar un objeto. Emplea la acción de utilizar o la acción de magia para usar un objeto mágico que necesite una acción.
 
 ### Nivel 3: Balconero
 
@@ -199,5 +199,4 @@ Sintonización. Puedes sintonizarte con hasta cuatro objetos mágicos a la vez.
 
 ### Nivel 17: Reflejos de ladrón
 
-Eres experto en tender emboscadas y escapar rápidamente del peligro. Puedes actuar dos turnos durante el primer asalto de cualquier combate. Llevarás a cabo tu primer turno según tu iniciativa normal y el segundo en tu iniciativa menos 10. 
-
+Eres experto en tender emboscadas y escapar rápidamente del peligro. Puedes actuar dos turnos durante el primer asalto de cualquier combate. Llevarás a cabo tu primer turno según tu iniciativa normal y el segundo en tu iniciativa menos 10.

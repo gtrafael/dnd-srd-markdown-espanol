@@ -16,7 +16,7 @@ related_en: "[[Monsters/Clay Golem|Clay Golem (EN)]]"
 
 **Velocidad:** 9 m
 
-| Stats | Valor | Mod | Salv |
+| Característica | Puntuación | Mod. | Salv. |
 |-------|------:|----:|-----:|
 | FUE   |    20 |  +5 |   +5 |
 | DES   |     9 |  -1 |   -1 |
@@ -54,4 +54,3 @@ related_en: "[[Monsters/Clay Golem|Clay Golem (EN)]]"
 ## Acciones adicionales
 
 **Prisa (recarga 5–6).** El gólem realiza las acciones de correr y destrabarse.
-
