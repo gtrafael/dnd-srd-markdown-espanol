@@ -1,7 +1,8 @@
 ---
 aliases: ["Feats"]
 tags: [srd, english, tag_characterizations]
-related_es: "[[Dotes/Dotes|Partes de una dote]]"
+alignment_mode: "one-to-many"
+related_es_section: "[[Dotes/PartesDeUnaDote|Descripciones de dotes (Español)]]"
 ---
 
 # Feats
