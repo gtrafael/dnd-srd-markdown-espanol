@@ -9,7 +9,8 @@ main              upstream heredado; no es nuestra fuente de trabajo
 custom/main       fuente humana canónica
   ES/             referencia estructural primaria
   EN/             espejo inglés de ES
-custom/corpus     salida limpia generada automáticamente
+  (Alt)/          índices derivados para Obsidian, simétricos
+custom/corpus     salida limpia sin índices ni metadatos
 ```
 
 Los PDF oficiales ES y EN son la autoridad normativa del texto. Para la **estructura**, ES es la referencia: EN debe reflejarla salvo que el PDF oficial EN demuestre una diferencia real.
@@ -40,6 +41,8 @@ Las reglas detalladas están en `docs/CRITERIOS_CORPUS.md`.
 La simetría se comprueba **ES → EN**.
 
 Una nota normativa ES debe tener equivalente EN como archivo o sección. Si no lo tiene, se considera una incidencia hasta demostrar que el SRD inglés es realmente distinto.
+
+Los índices `(Alt)` son una vista derivada: deben existir con la misma forma en ES y EN, pero nunca se consideran contenido normativo.
 
 No se mantiene una estructura inglesa independiente solo porque el upstream histórico estuviera organizado de otra manera.
 
