@@ -56,6 +56,7 @@ CORRECCIONES_LITERAL = {
     "6d1o": "6d10",
     "3 myluz": "3 m y luz",
     "mas alla": "más allá",
+    "\\frac{1}{2}": "½",
 }
 
 CORRECCIONES_PALABRA = {
