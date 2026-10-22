@@ -2,6 +2,10 @@ name: Validar corpus completo
 
 on:
   workflow_dispatch:
+  push:
+    branches: [custom/main]
+    paths:
+      - ".github/workflows/validar-corpus-completo.yml"
 
 permissions:
   contents: read
