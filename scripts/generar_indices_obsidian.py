@@ -15,6 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
+# Ocho rangos compartidos por ES y EN para mantener la misma vista de navegación.
 RANGOS = [
     ("A-C", "A", "C"),
     ("D-F", "D", "F"),
