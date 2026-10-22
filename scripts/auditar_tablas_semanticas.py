@@ -93,7 +93,8 @@ def analizar_tabla(tabla: dict) -> dict:
     filas = tabla["filas"]
     periodo = periodo_repetido(cab)
 
-    repetida = periodo is not None and periodo < len(cab)
+    statblock_en = cab == ["", "MOD", "SAVE", "", "MOD", "SAVE"]
+    repetida = periodo is not None and periodo < len(cab) and not statblock_en
     unidimensional = bool(repetida and periodo == 1)
 
     filas_grupo = []
@@ -102,11 +103,11 @@ def analizar_tabla(tabla: dict) -> dict:
         vacias = [x == "" for x in fila]
         no_vacias = [x for x in fila if x not in {"", "—", "-", "–"}]
         # Un agrupador típico tiene texto solo en la primera celda.
-        if fila and fila[0] not in {"", "—", "-", "–"} and all(
+        if len(fila) > 1 and fila[0] not in {"", "—", "-", "–"} and all(
             x in {"", "—", "-", "–"} for x in fila[1:]
         ):
             filas_grupo.append({"linea": idx, "fila": fila})
-        elif any(vacias):
+        elif len(fila) > 1 and any(vacias):
             filas_vacias_sospechosas.append({"linea": idx, "fila": fila})
 
     # Si el esquema horizontal se repite, cada bloque debe poder considerarse
@@ -125,6 +126,7 @@ def analizar_tabla(tabla: dict) -> dict:
         "periodo_cabecera": periodo,
         "cabecera_repetida": repetida,
         "unidimensional_comprimida": unidimensional,
+        "statblock_en": statblock_en,
         "filas_grupo": filas_grupo,
         "filas_vacias_sospechosas": filas_vacias_sospechosas,
         "bloques_muestra": bloques[:5],
