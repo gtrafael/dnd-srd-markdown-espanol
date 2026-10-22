@@ -1,6 +1,7 @@
 ---
 aliases: ["Anillo de caminar sobre las aguas"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Ring of Water Walking]]"
 ---
 
 # Anillo de caminar sobre las aguas

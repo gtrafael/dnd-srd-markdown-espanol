@@ -1,6 +1,7 @@
 ---
 aliases: ["Ficha de pluma"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Feather Token]]"
 ---
 
 # Ficha de pluma

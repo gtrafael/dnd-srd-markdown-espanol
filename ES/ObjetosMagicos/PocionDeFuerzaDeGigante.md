@@ -1,6 +1,7 @@
 ---
 aliases: ["Poción de fuerza de gigante"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Potion of Giant Strength]]"
 ---
 
 # Poción de fuerza de gigante

@@ -1,6 +1,7 @@
 ---
 aliases: ["Cinturón de fuerza de gigante"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Belt of Giant Strength]]"
 ---
 
 # Cinturón de fuerza de gigante
