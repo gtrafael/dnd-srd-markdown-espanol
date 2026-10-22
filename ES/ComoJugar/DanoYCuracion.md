@@ -29,14 +29,6 @@ Cuando causes un crítico, infligirás daño adicional. Tira los dados de daño 
 
 El daño causado por medio de una tirada de salvación aplica estas reglas.
 
-### Descansar
-
-Los personajes no pueden pasarse cada momento del día enfrascados en sus aventuras. Necesitan descansar. Todas las criaturas pueden hacer descansos cortos de una hora durante el día y uno largo de 8 horas al finalizarlo. Recuperar puntos de golpe es uno de los beneficios principales de descansar. En el capítulo “Glosario de reglas” se explica cómo funcionan los descansos cortos y los largos.
-
-#### Daño contra varios objetivos
-
-Cuando crees un efecto dañino que obligue a dos o más objetivos a hacer tiradas de salvación contra él al mismo tiempo, tira el daño una vez para todos los objetivos. Por ejemplo, si una maga lanza una bola de fuego, se tira el daño del conjuro una única vez para todas las criaturas atrapadas en la deflagración.
-
 ## Mitad del daño
 
 Muchos efectos con tiradas de salvación causan la mitad del daño (redondeado hacia abajo) a un objetivo cuando este supera la tirada. El daño reducido equivale a la mitad del daño que habría sufrido al fallar la tirada de salvación.
