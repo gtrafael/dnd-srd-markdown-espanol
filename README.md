@@ -1,88 +1,62 @@
-![D&D Logo](logo.png)
+# SRD 5.2.1 bilingüe — corpus canónico
 
----
+Este fork mantiene el **SRD 5.2.1 en español e inglés** que usa el proyecto `dungeon-agent`.
 
-# D&D 5.5E SRD — Edición en Español
-
-Conversión completa del **Documento de Referencia del Sistema (SRD) 5.2.1** de Dungeons & Dragons a formato Markdown, trabajada directamente desde el PDF oficial en español `SP_SRD_CC_v5.2.1.pdf` publicado por Wizards of the Coast. El proyecto incluye tanto la versión original en inglés (`EN/`) —basada en el trabajo de Old Man Umby y GaZmagik— como la versión en español (`ES/`), con enlaces bidireccionales entre cada documento equivalente.
-
-## Qué incluye este repositorio
-
-- **1220 archivos en español** cubriendo todas las categorías del SRD: reglas, conjuros, monstruos, objetos mágicos, clases, dotes, equipo y más.
-- Cada documento usa **wikilinks** (`[[ ]])` para navegar entre contenidos relacionados — hechizos que referencian clases, monstruos que enlazan a conjuros, etc.
-- **Enlaces bilingües** entre la versión en inglés y español de cada archivo.
-- Formato **Markdown plano**, ideal para sistemas de control de versiones, herramientas PKM y exportación a otros formatos.
-
-## Cómo leer estos documentos
-
-### Recomendado: Obsidian
-
-Este proyecto está diseñado pensando en [Obsidian](https://obsidian.md), una aplicación gratuita de gestión de conocimiento personal que funciona sobre una carpeta local de archivos Markdown.
-
-**¿Por qué Obsidian?**
-
-- **Graph view** — visualiza las conexiones entre todos los documentos como un grafo interactivo
-- **Wikilinks funcionales** — los `[[enlaces entre corchetes]]` se convierten en navegación con un clic
-- **Búsqueda instantánea** — busca cualquier conjuro, monstruo o regla en fracciones de segundo
-- **Modo de lectura y edición** — lee como una wiki o edita directamente en Markdown
-- **Plugins** — complementos como Fantasy Calendar, Dice Roller o Initiative Tracker para usar el SRD durante tus partidas
-
-Para usar este repositorio con Obsidian:
-
-1. [Descarga Obsidian](https://obsidian.md/download) (Windows, macOS, Linux, iOS, Android)
-2. Clona o descarga este repositorio
-3. En Obsidian, selecciona **"Abrir carpeta como bóveda"** y elige la carpeta raíz del proyecto
-4. El archivo [`ES/Espanol.md`](ES/Espanol.md) es el punto de entrada a todo el contenido en español
-
-### Alternativas
-
-También puedes leer y editar los archivos con cualquier editor de Markdown:
-
-- [Visual Studio Code](https://code.visualstudio.com/) con extensiones de Markdown
-- [Typora](https://typora.io) (editor WYSIWYG de pago único)
-
-## Estructura del proyecto
+## Cómo funciona
 
 ```
-├── ES/                          # SRD en español (desde PDF oficial)
-│   ├── Espanol.md               # Punto de entrada — índice general
-│   ├── ComoJugar/               # Reglas de juego
-│   ├── CreacionDePersonajes/    # Creación de personajes
-│   ├── Clases/                  # Clases (Bárbaro, Mago, etc.)
-│   ├── OrigenesDePersonaje/     # Orígenes de personaje
-│   ├── Dotes/                   # Dotes
-│   ├── Equipo/                  # Equipo y armas
-│   ├── Conjuros/                # 346 conjuros
-│   ├── GlosarioDeReglas/        # Glosario de reglas
-│   ├── HerramientasDelJuego/    # Herramientas del juego
-│   ├── ObjetosMagicos/          # 278 objetos mágicos
-│   ├── Monstruos/               # Monstruos (documento unificado)
-│   ├── MonstruosDeLaAALaZ/      # 421 monstruos individuales
-│   └── Animales/                # 95 animales
-├── EN/                          # Versión original en inglés
-│   └── DND.SRD.Wiki.md          # Punto de entrada en inglés
-└── logo.png                     # Logo de D&D
+upstream/main
+     │
+     ▼
+custom/main        ← fuente humana editable
+  ES/              ← referencia estructural primaria
+  EN/              ← espejo inglés
+     │
+     └── CI valida y limpia
+             │
+             ▼
+custom/corpus      ← salida generada para IA
 ```
 
-## Licencia
+### `custom/main`
 
-Todo el contenido del SRD está publicado bajo la licencia [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) (CC-BY-4.0). Eres libre de usar, compartir y adaptar este material para tus propios proyectos y publicaciones, siempre que otorgues la atribución correspondiente.
+Es la única rama que se corrige a mano.
 
-Para más información sobre el SRD y las oportunidades de publicación, visita la [página oficial del SRD de Wizards](https://dnd.wizards.com/resources/systems-reference-document).
+- `ES/`: referencia estructural del proyecto.
+- `EN/`: equivalente inglés de ES.
+- conserva frontmatter, aliases y wikilinks para Obsidian.
 
----
+Los PDF oficiales SRD 5.2.1 ES/EN son la autoridad sobre el contenido.  
+Si ES y EN difieren estructuralmente, la diferencia debe estar justificada por el PDF oficial EN; no se conserva una diferencia solo porque viniera del upstream.
 
-## Agradecimientos
+### `custom/corpus`
 
-Este proyecto no existiría sin el trabajo de:
+Se genera automáticamente desde `custom/main`.
 
-- **[Old Man Umby](https://github.com/OldManUmby/DND.SRD.Wiki)** — creador del proyecto original [DND.SRD.Wiki](https://github.com/OldManUmby/DND.SRD.Wiki), quien convirtió minuciosamente el PDF oficial del SRD 5.1 de Wizards a formato Markdown, línea por línea, incluyendo todas las erratas hasta noviembre de 2018.
-- **[GaZmagik](https://github.com/GaZmagik/DND.SRD.Skill)** — responsable de actualizar los archivos al SRD 5.2.1 y mejorar su estructura y formato.
+Elimina metadatos de Obsidian, índices de navegación y duplicados auxiliares. **No se edita a mano.**
 
-Sobre esa base de archivos en inglés —adaptados y modificados para este proyecto—, el contenido en español se generó convirtiendo el PDF oficial `SP_SRD_CC_v5.2.1.pdf` de Wizards of the Coast a Markdown, segmentándolo luego con asistencia de IA en archivos individuales por criatura, conjuro, objeto mágico y regla, y aplicando revisiones manuales para corregir y afinar el resultado. A cada archivo se le agregaron enlaces cruzados bilingües con su contraparte en inglés.
+## Al modificar contenido
 
----
+1. Corrige primero ES.
+2. Revisa su equivalente EN.
+3. Mantén `related_en` / `related_es` o una relación a sección cuando corresponda.
+4. Deja que CI regenere `custom/corpus`.
+5. Comprueba que los workflows queden en verde.
 
-© 2015 Wizards of the Coast. Todos los derechos reservados. Dungeons & Dragons® es una marca registrada de Wizards of the Coast. Para más información sobre Wizards of the Coast o sus marcas registradas, visita [www.wizards.com](http://www.wizards.com).
+Los controles principales son:
 
-El logo de D&D y las imágenes oficiales se utilizan con permiso del [Fan Site Kit de Wizards](https://dnd.wizards.com/resources/fan-site-kit). Wizards of the Coast, Dungeons & Dragons y sus logos son marcas registradas de Wizards of the Coast LLC en Estados Unidos y otros países.
+- estructura TOC de ES;
+- simetría ES → EN;
+- semántica de tablas;
+- generación reproducible de `custom/corpus`;
+- validación completa contra los PDF oficiales antes de aprobar una candidata.
+
+Las reglas estructurales están resumidas en [docs/CRITERIOS_CORPUS.md](docs/CRITERIOS_CORPUS.md).
+
+## Para agentes
+
+Lee [AGENTS.md](AGENTS.md). Contiene únicamente el modelo mental y las reglas necesarias para trabajar en el repositorio.
+
+## Licencia y procedencia
+
+El contenido SRD se publica bajo **CC-BY-4.0**. Consulta [License.md](License.md) y [Legal.md](Legal.md) para atribución y detalles de procedencia.
