@@ -1,10 +1,10 @@
-name: Generar custom/corpus
+name: Generar corpus
 
 on:
   workflow_dispatch:
   push:
     branches:
-      - custom/main
+      - main
     paths:
       - "ES/**"
       - "EN/**"
@@ -16,21 +16,21 @@ permissions:
   contents: write
 
 concurrency:
-  group: generar-custom-corpus
+  group: generar-corpus
   cancel-in-progress: true
 
 jobs:
   generar:
     runs-on: ubuntu-latest
     steps:
-      - name: Obtener custom/main
+      - name: Obtener main
         uses: actions/checkout@v4
         with:
-          ref: custom/main
+          ref: main
           fetch-depth: 0
 
       - name: Crear rama derivada local
-        run: git checkout -B custom/corpus
+        run: git checkout -B corpus
 
       - name: Preparar Python
         uses: actions/setup-python@v5
@@ -43,7 +43,7 @@ jobs:
       - name: Generar variante limpia
         run: python scripts/generar_corpus_limpio.py
 
-      - name: Publicar custom/corpus
+      - name: Publicar corpus
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -52,6 +52,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No hay diferencias derivadas."
           else
-            git commit -m "build: regenerar corpus limpio desde custom/main"
+            git commit -m "build: regenerar corpus limpio desde main"
           fi
-          git push --force origin HEAD:custom/corpus
+          git push --force origin HEAD:corpus
