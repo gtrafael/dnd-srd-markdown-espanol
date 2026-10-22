@@ -7,11 +7,14 @@
 - [[Crafting]]
 - [[Expenses]]
 - [[Gear]]
-- [[Selling Equipment]]
 - [[Tools]]
 - [[Trade Goods]]
 - [[Transportation]]
 - [[Weapons]]
 - [[Properties]]
 - [[Mastery Properties]]
+
+## Callouts
+
+- [[Selling Equipment]]
 - [[Improvised Weapons]]
