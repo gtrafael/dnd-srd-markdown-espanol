@@ -104,14 +104,6 @@ Obtienes una dote de estilo de combate de tu elección (consulta las dotes en el
 
 Guerrero bendito. Aprendes dos trucos de clérigo de tu elección (consulta la sección de la clase clérigo para ver la lista de conjuros de clérigo). Se recomiendan guía y llama sagrada. Los trucos elegidos cuentan como conjuros de paladín para ti y el Carisma es tu aptitud mágica para lanzarlos. Cada vez que subas un nivel de paladín, puedes sustituir uno de estos trucos por otro truco de clérigo.
 
-#### Romper tu juramento
-
-Los paladines siempre intentan alcanzar los más altos estándares de conducta, pero incluso los más entregados pueden fallar. A veces, un paladín quebranta su juramento.
-
-Un paladín que rompe sus votos tiende a buscar la absolución. Para ello, y en señal de penitencia, pasa la noche en vela o lleva a cabo un ayuno. Tras finalizar el rito del perdón, el paladín puede hacer borrón y cuenta nueva.
-
-Si tu paladín rompe su juramento y no se arrepiente, habla con tu GM. Tu paladín probablemente debería buscar una subclase más apropiada o incluso abandonar la clase y adoptar otra.
-
 ### Nivel 3: Canalizar divinidad
 
 Puedes canalizar energía divina directamente de los Planos Exteriores para alimentar varios efectos mágicos. Empiezas con uno de esos efectos: Sentidos divinos, que se describe a continuación. Otros rasgos de paladín ofrecen opciones adicionales como efectos de Canalizar divinidad. Cada vez que utilices el rasgo Canalizar divinidad de esta clase, elige qué efecto de esta clase creas.
