@@ -3,7 +3,7 @@ name: Validar corpus completo
 on:
   workflow_dispatch:
   push:
-    branches: [custom/main]
+    branches: [main]
     paths:
       - "ES/**"
       - "EN/**"
@@ -22,10 +22,10 @@ jobs:
   validar:
     runs-on: ubuntu-latest
     steps:
-      - name: Obtener custom/main
+      - name: Obtener main
         uses: actions/checkout@v4
         with:
-          ref: custom/main
+          ref: main
 
       - name: Preparar Python
         uses: actions/setup-python@v5
