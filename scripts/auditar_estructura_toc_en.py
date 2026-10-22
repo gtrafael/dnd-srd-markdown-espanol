@@ -167,7 +167,7 @@ def main() -> int:
     print("Fallos estructurales EN:", out["fallos"])
     for item in out["incidencias"]:
         print(json.dumps(item, ensure_ascii=False))
-    return 0
+    return 1 if out["fallos"] else 0
 
 
 if __name__ == "__main__":
