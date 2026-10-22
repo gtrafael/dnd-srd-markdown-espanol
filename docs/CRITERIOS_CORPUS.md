@@ -11,12 +11,28 @@ Este documento define las reglas estructurales que deben seguir `custom/main` y 
 
 ## 2. Archivos y encabezados
 
-- Una entrada del índice/TOC oficial puede convertirse en archivo propio.
-- Un encabezado visible en el cuerpo que no aparece como entrada equivalente del TOC permanece como `##`, `###`, etc. dentro del archivo padre.
+- Los capítulos principales del índice/TOC determinan las carpetas canónicas.
+- Una entrada directa del capítulo se representa como archivo propio cuando contiene reglas o contenido normativo.
+- Los niveles inferiores del TOC permanecen como `##`, `###`, etc. dentro del archivo padre.
+- Un encabezado visible en el cuerpo que no aparece como entrada equivalente del TOC permanece dentro del archivo padre.
 - Ejemplo: `Armas`, `Propiedades` y `Propiedades de maestría` son unidades documentales porque aparecen en el índice.
 - Ejemplo: `Competencia con armas` permanece dentro de `Armas.md` porque no aparece como unidad independiente en el índice.
 
 Esta regla evita que el tamaño o estilo tipográfico de un encabezado decida arbitrariamente la estructura.
+
+### 2.1 El TOC se respeta por idioma
+
+El TOC oficial ES y el TOC oficial EN no siempre tienen la misma granularidad. Cada idioma sigue su propio TOC.
+
+Ejemplo: en ES, `Propiedades` y `Propiedades de maestría` son unidades documentales directas de `Equipo`; en EN, `Properties` y `Mastery Properties` son hijos de `Weapons` y permanecen como secciones dentro de `Weapons.md`.
+
+La alineación bilingüe puede por tanto ser archivo↔archivo, archivo↔sección o uno↔varios. Nunca se modifica la jerarquía oficial de un idioma para forzar una simetría 1:1.
+
+### 2.2 Notas hoja de catálogos
+
+Las entidades enumeradas dentro de catálogos normativos pueden conservarse como notas hoja aunque no aparezcan individualmente en el índice principal. Esto incluye, entre otros, conjuros, objetos mágicos, monstruos y animales.
+
+El nodo estructural del catálogo sigue estando determinado por el TOC; las notas hoja no crean nuevos niveles jerárquicos.
 
 ## 3. Excepción: recuadros/callouts
 
@@ -99,7 +115,7 @@ Una celda vacía no se elimina automáticamente: puede ser un dato perdido. Ante
 
 Toda corrección estructural o normativa en un idioma obliga a revisar el concepto equivalente en el otro.
 
-La simetría buscada es conceptual, no necesariamente de maquetación original. No se fuerzan pares 1:1 cuando el contenido no sea realmente equivalente.
+La simetría buscada es conceptual, no necesariamente documental ni de maquetación. No se fuerzan pares 1:1 cuando el contenido no sea realmente equivalente. Si los TOC ES/EN usan distinta granularidad, la relación se modela mediante sección o relación uno-a-varios.
 
 ## 6. Separación de responsabilidades
 
@@ -132,5 +148,7 @@ Cada nueva familia de error descubierta durante la revisión humana reabre G1 ha
 3. se corrigen ES y EN;
 4. se añade QA/regresión cuando sea automatizable;
 5. se genera una nueva candidata.
+
+Los workflows de QA deben fallar si reaparece una desviación estructural del TOC o una tabla candidata a normalización semántica.
 
 No se preparan datasets CPT/SFT antes de la aprobación explícita de G1.
