@@ -57,9 +57,6 @@ Equipo de aventureros
 | Lupa                             | —              | 100 po   |
 | Manta                            | 1,5 kg         | 5 pp     |
 | Mapa                             | —              | 1 po     |
-
-| Objeto                             | Peso     | Precio   |
-|------------------------------------|----------|----------|
 | Mochila                            | 2,5 kg   | 2 po     |
 | Munición                           | Variable | Variable |
 | Olla de hierro                     | 5 kg     | 2 po     |

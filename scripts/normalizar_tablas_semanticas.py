@@ -99,11 +99,49 @@ def render_table(header: list[str], rows: list[list[str]]) -> list[str]:
     ]
 
 
+def unir_continuaciones(text: str) -> tuple[str, int]:
+    """Elimina cabeceras repetidas cuando una misma tabla continúa tras un salto de página."""
+    lines = text.splitlines()
+    out: list[str] = []
+    header_actual: list[str] | None = None
+    i = 0
+    changes = 0
+
+    while i < len(lines):
+        if (
+            i + 1 < len(lines)
+            and cells(lines[i])
+            and is_sep(cells(lines[i + 1]))
+        ):
+            header_actual = cells(lines[i])
+            out.extend([lines[i], lines[i + 1]])
+            i += 2
+            continue
+
+        if (
+            lines[i] == ""
+            and header_actual is not None
+            and i + 2 < len(lines)
+            and cells(lines[i + 1]) == header_actual
+            and is_sep(cells(lines[i + 2]))
+        ):
+            changes += 1
+            i += 3
+            continue
+
+        if lines[i] and not cells(lines[i]):
+            header_actual = None
+        out.append(lines[i])
+        i += 1
+
+    return "\n".join(out).rstrip() + "\n", changes
+
+
 def transform(text: str) -> tuple[str, int]:
+    text, changes = unir_continuaciones(text)
     lines = text.splitlines()
     out: list[str] = []
     i = 0
-    changes = 0
 
     while i < len(lines):
         if i + 1 >= len(lines):
