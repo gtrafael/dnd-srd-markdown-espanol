@@ -85,12 +85,6 @@ Conciencia de ser objetivo. Salvo que un conjuro tenga un efecto perceptible, el
 
 Objetivos no válidos. Si lanzas un conjuro sobre alguien o algo que no pueda verse afectado por él, no le pasará nada. Sin embargo, si has usado un espacio de conjuro para lanzarlo, ese espacio se gastará igualmente.
 
-##### Identificar un conjuro activo
-
-Si aún está activo, puedes intentar identificar un conjuro no instantáneo por sus efectos observables. Para ello, debes llevar a cabo una acción de estudiar y superar una prueba de Inteligencia (Conocimiento arcano) con CD 15.
-
-Si un conjuro normalmente no tiene efecto sobre un objetivo que supere una tirada de salvación, un objetivo no válido parecerá haber superado su tirada de salvación, aunque no haya hecho una (no dará indicios de que no es un objetivo válido). De lo contrario, percibirás que el conjuro no le ha hecho nada al objetivo.
-
 ## Tiradas de salvación
 
 Muchos conjuros especifican que un objetivo hace una tirada de salvación para evitar parte de sus efectos o todos ellos. Cada conjuro indica la característica que el objetivo debe usar para la tirada y qué ocurre en caso de éxito o fallo. La forma de calcular la CD de los conjuros es la siguiente:
