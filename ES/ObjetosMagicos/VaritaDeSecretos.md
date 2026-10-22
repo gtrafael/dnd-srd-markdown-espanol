@@ -1,6 +1,7 @@
 ---
 aliases: ["Varita de secretos"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Treasure/Wand of Secrets|Wand of Secrets (EN)]]"
 ---
 
 # Varita de secretos
