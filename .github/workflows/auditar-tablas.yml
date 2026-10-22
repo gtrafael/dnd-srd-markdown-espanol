@@ -3,7 +3,7 @@ name: Auditar tablas semánticas
 on:
   push:
     branches:
-      - custom/main
+      - main
     paths:
       - "ES/**"
       - "EN/**"
@@ -15,17 +15,17 @@ permissions:
   contents: read
 
 concurrency:
-  group: auditar-tablas-custom-main
+  group: auditar-tablas-main
   cancel-in-progress: true
 
 jobs:
   auditar:
     runs-on: ubuntu-latest
     steps:
-      - name: Obtener custom/main
+      - name: Obtener main
         uses: actions/checkout@v4
         with:
-          ref: custom/main
+          ref: main
 
       - name: Preparar Python
         uses: actions/setup-python@v5
