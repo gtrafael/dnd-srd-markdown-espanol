@@ -1,6 +1,7 @@
 ---
 aliases: ["Varita de detección mágica"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Treasure/Wand of Magic Detection|Wand of Magic Detection (EN)]]"
 ---
 
 # Varita de detección mágica
