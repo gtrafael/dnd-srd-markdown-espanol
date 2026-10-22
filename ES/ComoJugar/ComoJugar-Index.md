@@ -12,4 +12,4 @@
 - [[ComoJugar/Exploracion|Exploracion]]
 - [[ComoJugar/InteraccionesSociales|InteraccionesSociales]]
 - [[ComoJugar/LasPruebasConD20|LasPruebasConD20]]
-- [[ComoJugar/LasSeisCaracteristicas|LasSeisCaracteristicas]]
+- [[ComoJugar/LasCaracteristicas|Las características]]
