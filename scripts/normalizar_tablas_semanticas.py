@@ -4,7 +4,8 @@
 Regla: si la cabecera completa es exactamente dos copias de la misma
 cabecera, la tabla representa dos bloques de registros del mismo dominio.
 Se desempaqueta leyendo primero la mitad izquierda de arriba abajo y después
-la mitad derecha. Los statblocks con cabecera MOD/SAVE quedan fuera porque
+la mitad derecha. La transformación es idempotente y no altera tablas que no
+cumplen exactamente este patrón. Los statblocks con cabecera MOD/SAVE quedan fuera porque
 requieren una política específica.
 """
 
