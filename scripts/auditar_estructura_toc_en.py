@@ -50,7 +50,7 @@ EXPECTED = {
     "Monsters": ["Stat Block Overview", "Parts of a Stat Block", "Running a Monster"],
 }
 
-CATALOG_FOLDERS = {"Magic Items", "Monsters A-Z", "Animals"}
+CATALOG_FOLDERS = {"Spells", "Magic Items", "Monsters A-Z", "Animals"}
 CALLOUT_TAGS = {"callout", "recuadro"}
 LEGACY_DIRS = {"Gameplay", "Characterizations", "Species", "Gamemastering", "Treasure"}
 
