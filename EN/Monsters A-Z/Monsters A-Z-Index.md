@@ -24,7 +24,6 @@
 - [[Ancient White Dragon]]
 - [[Animated Armor]]
 - [[Animated Flying Sword]]
-- [[Animated Object]]
 - [[Animated Rug of Smothering]]
 - [[Ankheg]]
 - [[Archmage]]
