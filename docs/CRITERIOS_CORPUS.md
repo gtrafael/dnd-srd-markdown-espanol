@@ -18,7 +18,9 @@ El TOC oficial decide la estructura principal.
 - niveles inferiores → encabezados dentro del archivo padre;
 - entidades de catálogo (conjuros, objetos, monstruos, animales) → notas hoja;
 - recuadros normativos → notas propias;
-- una sola estructura navegable por idioma: no se admiten carpetas `(Alt)` ni segundos árboles auxiliares.
+- una sola estructura normativa por idioma;
+- los `(Alt)` están permitidos únicamente como índices generados para Obsidian, con la misma forma en ES y EN;
+- los `(Alt)` no contienen texto normativo y nunca pasan a `custom/corpus`.
 
 La maquetación del PDF no crea relaciones ni archivos por sí sola.
 
@@ -48,6 +50,7 @@ Las tablas representan datos, no la disposición visual de la página.
 Fuente humana editable:
 
 - Markdown para Obsidian;
+- índices `(Alt)` derivados y simétricos para navegar catálogos grandes;
 - frontmatter, aliases y relaciones bilingües;
 - contenido corregido;
 - estructura canónica.
