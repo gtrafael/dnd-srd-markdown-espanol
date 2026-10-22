@@ -1,0 +1,111 @@
+name: Validar corpus completo
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener custom/main
+        uses: actions/checkout@v4
+        with:
+          ref: custom/main
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar herramientas
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+          python -m pip install --disable-pip-version-check pymupdf
+
+      - name: Gates rápidos
+        run: |
+          python scripts/auditar_simetria_es_en.py
+          python scripts/auditar_estructura_toc.py \
+            --indice src/SP_SRD_CC_V5.2.1_index.json \
+            --es ES \
+            --salida auditoria-toc-es.json
+          python scripts/auditar_tablas_semanticas.py \
+            --es ES \
+            --en EN \
+            --salida auditoria-tablas.json
+
+      - name: Generar corpus limpio local
+        run: |
+          python scripts/generar_corpus_limpio.py
+          mkdir -p candidato
+          mv ES candidato/es
+          mv EN candidato/en
+
+      - name: Descargar PDF oficiales
+        run: |
+          mkdir -p pdf
+          curl -fL "https://media.dndbeyond.com/compendium-images/srd/5.2/SP_SRD_CC_v5.2.1.pdf" -o pdf/SP_SRD_CC_v5.2.1.pdf
+          curl -fL "https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.1.pdf" -o pdf/SRD_CC_v5.2.1.pdf
+
+      - name: Validar prosa contra PDF
+        run: >-
+          python scripts/validar_corpus_con_pdf.py
+          --corpus candidato
+          --pdf-es pdf/SP_SRD_CC_v5.2.1.pdf
+          --pdf-en pdf/SRD_CC_v5.2.1.pdf
+          --salida informes/validacion-pdf.json
+
+      - name: Auditar estructura visual
+        run: >-
+          python scripts/auditar_estructura_pdf.py
+          --pdf-es pdf/SP_SRD_CC_v5.2.1.pdf
+          --pdf-en pdf/SRD_CC_v5.2.1.pdf
+          --salida informes/estructura-pdf.json
+
+      - name: Generar lineage
+        run: >-
+          python scripts/generar_lineage.py
+          --corpus candidato
+          --pdf-es pdf/SP_SRD_CC_v5.2.1.pdf
+          --pdf-en pdf/SRD_CC_v5.2.1.pdf
+          --indice-es src/SP_SRD_CC_V5.2.1_index.json
+          --salida informes/lineage.json
+
+      - name: Cruzar estructura con corpus
+        run: >-
+          python scripts/auditar_estructura_corpus.py
+          --auditoria informes/estructura-pdf.json
+          --corpus candidato
+          --salida informes/estructura-corpus.json
+
+      - name: Medir cobertura PDF a corpus
+        run: >-
+          python scripts/validar_cobertura_pdf.py
+          --corpus candidato
+          --pdf-es pdf/SP_SRD_CC_v5.2.1.pdf
+          --pdf-en pdf/SRD_CC_v5.2.1.pdf
+          --lineage informes/lineage.json
+          --salida informes/cobertura-pdf.json
+
+      - name: Detectar agregados y duplicados
+        run: >-
+          python scripts/auditar_solapamientos.py
+          --corpus candidato
+          --salida informes/solapamientos.json
+
+      - name: Publicar informes
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: validacion-corpus-srd-5.2.1
+          path: |
+            informes/
+            auditoria-simetria.json
+            auditoria-toc-es.json
+            auditoria-tablas.json
+          if-no-files-found: warn
+          retention-days: 14
