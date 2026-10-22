@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Genera in-place la variante limpia destinada a custom/corpus.
+"""Genera in-place la variante limpia destinada a corpus.
 
-Debe ejecutarse únicamente sobre una rama desechable creada desde custom/main.
+Debe ejecutarse únicamente sobre una rama desechable creada desde main.
 No corrige contenido normativo: elimina metadatos de Obsidian, índices y
 duplicados estructurales ya identificados.
 """
