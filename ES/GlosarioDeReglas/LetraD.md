@@ -57,11 +57,14 @@ Las criaturas requieren cierta cantidad de agua al día en función de su tamañ
 
 Consumo de agua al día
 
-| Tamaño   | Agua | Tamaño       | Agua |
-|----------|-----:|--------------|-----:|
-| Diminuto |  1 l | Grande       | 16 l |
-| Pequeño  |  4 l | Enorme       | 64 l |
-| Mediano  |  4 l | Gargantuesco | 256 l |
+| Tamaño | Agua |
+|---|---|
+| Diminuto | 1 l |
+| Pequeño | 4 l |
+| Mediano | 4 l |
+| Grande | 16 l |
+| Enorme | 64 l |
+| Gargantuesco | 256 l |
 
 # Desnutrición [peligro]
 
@@ -71,11 +74,14 @@ El cansancio causado por la desnutrición no puede eliminarse hasta que la criat
 
 Consumo de alimentos al día
 
-| Tamaño   | Alimentos | Tamaño        | Alimentos |
-|----------|-----------|---------------|-----------|
-| Diminuto | 125 g     | Grande        | 2 kg      |
-| Pequeño  | 0,5 kg    | Enorme        | 8 kg      |
-| Mediano  | 0,5 kg    | Gargantuesco | 32 kg     |
+| Tamaño | Alimentos |
+|---|---|
+| Diminuto | 125 g |
+| Pequeño | 0,5 kg |
+| Mediano | 0,5 kg |
+| Grande | 2 kg |
+| Enorme | 8 kg |
+| Gargantuesco | 32 kg |
 
 # Destrabarse [acción]
 

@@ -17,10 +17,12 @@ Cada esfera aparece en un espacio sin ocupar que puedas ver a 36 m o menos de ti
 
 Como acción adicional, puedes mover cada esfera hasta 9 m, pero no más allá de 36 m respecto a ti. La primera vez que la esfera se acerque a 1,5 m o menos de una criatura distinta de ti que no esté tras cobertura completa, la esfera descargará un relámpago sobre ella y desaparecerá. Esa criatura hará una tirada de salvación de Destreza con CD 15. Si la falla, recibirá daño de relámpago según la cantidad de esferas que hayas creado, como se muestra en la tabla a continuación. Si la supera, recibirá la mitad de daño.
 
-| Cantidad de esferas | Daño de relámpago | Cantidad de esferas | Daño de relámpago |
-|--------------------:|-------------------|--------------------:|-------------------|
-|                   1 | 4d12              |                   3 | 2d6               |
-|                   2 | 5d4               |                   4 | 2d4               |
+| Cantidad de esferas | Daño de relámpago |
+|---|---|
+| 1 | 4d12 |
+| 2 | 5d4 |
+| 3 | 2d6 |
+| 4 | 2d4 |
 
 **Estrellas fugaces.** Como acción de magia, puedes gastar entre 1 y 3 cargas. Por cada carga que emplees, lanzarás una mota de luz brillante desde el anillo hacia un punto que puedas ver a 18 m o menos de ti. A todas las criaturas situadas en un cubo de 4,5 m de lado que parta de ese punto les caerá una lluvia de chispas y harán una tirada de salvación de Destreza con CD 15; sufrirán 5d4 de daño radiante si la fallan o la mitad del daño si la superan.
 

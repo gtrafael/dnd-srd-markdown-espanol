@@ -11,12 +11,16 @@ Este bonificador se aplica a una prueba con d20 cuando la criatura es competente
 
 Bonificador por competencia
 
-| Nivel o VD | Bonificador | Nivel o VD | Bonificador |
-|------------|------------:|------------|------------:|
-| Hasta 4    |          +2 | 17–20      |          +6 |
-| 5–8        |          +3 | 21–24      |          +7 |
-| 9–12       |          +4 | 25–28      |          +8 |
-| 13–16      |          +5 | 29–30      |          +9 |
+| Nivel o VD | Bonificador |
+|---|---|
+| Hasta 4 | +2 |
+| 5–8 | +3 |
+| 9–12 | +4 |
+| 13–16 | +5 |
+| 17–20 | +6 |
+| 21–24 | +7 |
+| 25–28 | +8 |
+| 29–30 | +9 |
 
 ## El bonificador no se acumula
 

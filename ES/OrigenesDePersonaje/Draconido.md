@@ -18,13 +18,18 @@ Linaje dracónico. Tu linaje proviene de un progenitor dragón. Elige el tipo de
 
 Ancestros dracónicos
 
-| Dragón | Tipo de daño | Dragón | Tipo de daño |
-|--------|--------------|--------|--------------|
-| Azul   | Relámpago    | Oro    | Fuego        |
-| Blanco | Frío         | Oropel | Fuego        |
-| Bronce | Relámpago    | Plata  | Frío         |
-| Cobre  | Ácido        | Rojo   | Fuego        |
-| Negro  | Ácido        | Verde  | Veneno       |
+| Dragón | Tipo de daño |
+|---|---|
+| Azul | Relámpago |
+| Blanco | Frío |
+| Bronce | Relámpago |
+| Cobre | Ácido |
+| Negro | Ácido |
+| Oro | Fuego |
+| Oropel | Fuego |
+| Plata | Frío |
+| Rojo | Fuego |
+| Verde | Veneno |
 
 Ataque de aliento. Cuando lleves a cabo la acción de atacar en tu turno, puedes sustituir uno de tus ataques por una exhalación de energía mágica en un cono de 4,5 m o en una línea de 9 m de largo y 1,5 m de ancho (elige la forma cada vez). Todas las criaturas situadas en esa zona deberán hacer una tirada de salvación de Destreza (CD 8 más tu modificador por Constitución y tu bonificador por competencia). Si la fallan, sufrirán 1d10 de daño del tipo determinado por tu atributo Linaje dracónico. Si la superan, sufrirán la mitad de ese daño. El daño aumenta en 1d10 cuando alcanzas los niveles 5 (2d10), 11 (3d10) y 17 (4d10) de personaje.
 

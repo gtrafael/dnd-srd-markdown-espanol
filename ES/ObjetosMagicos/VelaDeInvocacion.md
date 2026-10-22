@@ -14,13 +14,21 @@ Mientras permanezca encendida, la vela emitirá luz tenue en un radio de 9 m. Mi
 
 Como alternativa, la primera vez que enciendas la vela, podrás utilizarla para lanzar el conjuro portal. Hacer esto destruirá la vela. El portal que crea el conjuro estará unido a un Plano Exterior en concreto a elección de tu GM o determinado por una tirada en la siguiente tabla.
 
-| 1d100 | Plano Exterior | 1d100 | Plano Exterior         |
-|-------|----------------|-------|------------------------|
-| 01–05 | Abismo         | 52–56 | Hades                  |
-| 06–10 | Aqueronte      | 57–61 | Limbo                  |
-| 11–17 | Arbórea        | 62–69 | Mechanus               |
-| 18–25 | Arcadia        | 70–77 | Monte Celestia         |
-| 26–33 | Bitopía        | 78–82 | Nueve Infiernos        |
-| 34–38 | Carceri        | 83–87 | Pandemónium            |
-| 39–46 | Elíseo         | 88–95 | Tierras de las Bestias |
-| 47–51 | Gehenna        | 96–00 | Ysgard                 |
+| 1d100 | Plano Exterior |
+|---|---|
+| 01–05 | Abismo |
+| 06–10 | Aqueronte |
+| 11–17 | Arbórea |
+| 18–25 | Arcadia |
+| 26–33 | Bitopía |
+| 34–38 | Carceri |
+| 39–46 | Elíseo |
+| 47–51 | Gehenna |
+| 52–56 | Hades |
+| 57–61 | Limbo |
+| 62–69 | Mechanus |
+| 70–77 | Monte Celestia |
+| 78–82 | Nueve Infiernos |
+| 83–87 | Pandemónium |
+| 88–95 | Tierras de las Bestias |
+| 96–00 | Ysgard |

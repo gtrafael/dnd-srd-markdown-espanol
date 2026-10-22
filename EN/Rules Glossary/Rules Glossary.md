@@ -173,12 +173,15 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 #### Object Armor Class
 
-| AC | Substance           | AC | Substance   |
-|----|---------------------|----|-------------|
-| 11 | Cloth, paper, rope  | 19 | Iron, steel |
-| 13 | Crystal, glass, ice | 21 | Mithral     |
-| 15 | Wood                | 23 | Adamantine  |
-| 17 | Stone               |    |             |
+| AC | Substance |
+|---|---|
+| 11 | Cloth, paper, rope |
+| 13 | Crystal, glass, ice |
+| 15 | Wood |
+| 17 | Stone |
+| 19 | Iron, steel |
+| 21 | Mithral |
+| 23 | Adamantine |
 
 **Hit Points.** An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The GM determines whether destroying part of an object causes the whole thing to collapse.
 

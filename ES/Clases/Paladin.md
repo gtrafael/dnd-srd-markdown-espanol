@@ -1,7 +1,7 @@
 ---
 aliases: ["Paladín"]
 tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Paladin|Paladin (EN)]]"
+related_en: "[[Classes/Paladín|Paladín (EN)]]"
 ---
 
 # Paladín

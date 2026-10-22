@@ -17,24 +17,38 @@ Ningún término obsoleto. El glosario contiene únicamente las definiciones de 
 
 Abreviaciones. Las abreviaciones que se indican a continuación aparecen en este glosario y en otras partes de las reglas.
 
-| Abreviatura | Significado                 | Abreviatura | Significado             |
-|-------------|-----------------------------|-------------|-------------------------|
-| BC          | Bonificador por competencia | N           | Neutral                 |
-|             |                             | NB          | Neutral bueno           |
-| C           | Concentración               | NM          | Neutral malvado         |
-| Car         | Carisma                     | pc          | Pieza(s) de cobre       |
-| CA          | Clase de armadura           | pe          | Pieza(s) de electro     |
-| CB          | Caótico bueno               | pg          | Punto(s) de golpe       |
-| CD          | Clase de dificultad         | PNJ         | Personaje no jugador    |
-| CM          | Caótico malvado             |             |                         |
-| CN          | Caótico neutral             | po          | Pieza(s) de oro         |
-| Con         | Constitución                | pp          | Pieza(s) de plata       |
-| Des         | Destreza                    | ppt         | Pieza(s) de platino     |
-| Fue         | Fuerza                      | PX          | Punto(s) de experiencia |
-| GM          | Game Master                 |             |                         |
-| Int         | Inteligencia                | R           | Ritual                  |
-| LB          | Legal bueno                 | S           | Componente somático     |
-| LM          | Legal malvado               |             |                         |
-| LN          | Legal neutral               | Sab         | Sabiduría               |
-| M           | Componente material         | V           | Componente verbal       |
-|             |                             | VD          | Valor de desafío        |
+| Abreviatura | Significado |
+|---|---|
+| BC | Bonificador por competencia |
+| C | Concentración |
+| Car | Carisma |
+| CA | Clase de armadura |
+| CB | Caótico bueno |
+| CD | Clase de dificultad |
+| CM | Caótico malvado |
+| CN | Caótico neutral |
+| Con | Constitución |
+| Des | Destreza |
+| Fue | Fuerza |
+| GM | Game Master |
+| Int | Inteligencia |
+| LB | Legal bueno |
+| LM | Legal malvado |
+| LN | Legal neutral |
+| M | Componente material |
+| N | Neutral |
+| NB | Neutral bueno |
+| NM | Neutral malvado |
+| pc | Pieza(s) de cobre |
+| pe | Pieza(s) de electro |
+| pg | Punto(s) de golpe |
+| PNJ | Personaje no jugador |
+| po | Pieza(s) de oro |
+| pp | Pieza(s) de plata |
+| ppt | Pieza(s) de platino |
+| PX | Punto(s) de experiencia |
+| R | Ritual |
+| S | Componente somático |
+| Sab | Sabiduría |
+| V | Componente verbal |
+| VD | Valor de desafío |

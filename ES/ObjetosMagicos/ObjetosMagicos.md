@@ -115,11 +115,14 @@ Los objetos mágicos comunes a menudo se pueden comprar en pueblos o ciudades. L
 
 Si un objeto mágico incluye un objeto que tiene un precio de compra en el capítulo "Equipo" (como un arma o una armadura), suma el precio de ese objeto al valor del objeto mágico. Por ejemplo, una armadura +1 (armadura de placas) tiene un valor de 5500 po, que será la suma del valor de un objeto mágico raro (4000 po) y el coste de una armadura de placas (1500 po).
 
-| Rareza      | Valor*  | Rareza     | Valor*       |
-|-------------|---------|------------|--------------|
-| Común       | 100 po  | Muy raro   | 40 000 po    |
-| Infrecuente | 400 po  | Legendario | 200 000 po   |
-| Raro        | 4000 po | Artefacto  | Incalculable |
+| Rareza | Valor* |
+|---|---|
+| Común | 100 po |
+| Infrecuente | 400 po |
+| Raro | 4000 po |
+| Muy raro | 40 000 po |
+| Legendario | 200 000 po |
+| Artefacto | Incalculable |
 
 *La mitad del valor si es un objeto consumible distinto a un pergamino de conjuro. El valor de un pergamino de conjuro es el doble de lo que cuesta escribir el pergamino (como se indica en el apartado "Elaborar pergaminos de conjuro" del capítulo "Equipo").
 
@@ -231,13 +234,17 @@ Un objeto mágico consciente tiene puntuaciones de Inteligencia, Sabiduría y Ca
 
 Un objeto mágico consciente posee un alineamiento. Su creador o su naturaleza podrían determinar de cuál se trata. En caso contrario, puedes escoger uno o tirar en la tabla «Alineamiento del objeto consciente».
 
-| 1d100 | Alineamiento  | 1d100 | Alineamiento    |
-|-------|---------------|-------|-----------------|
-| 01–15 | Legal bueno   | 74–85 | Caótico neutral |
-| 16–35 | Neutral bueno | 86–89 | Legal malvado   |
-| 36–50 | Caótico bueno | 90–96 | Neutral malvado |
-| 51–63 | Legal neutral | 97–00 | Caótico malvado |
-| 64–73 | Neutral       |       |                 |
+| 1d100 | Alineamiento |
+|---|---|
+| 01–15 | Legal bueno |
+| 16–35 | Neutral bueno |
+| 36–50 | Caótico bueno |
+| 51–63 | Legal neutral |
+| 64–73 | Neutral |
+| 74–85 | Caótico neutral |
+| 86–89 | Legal malvado |
+| 90–96 | Neutral malvado |
+| 97–00 | Caótico malvado |
 
 #### Comunicación
 

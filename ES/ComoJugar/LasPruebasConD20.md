@@ -50,11 +50,14 @@ La clase de dificultad de una prueba de característica representa la dificultad
 
 Clases de dificultad típicas
 
-| Dificultad de la tarea | CD | Dificultad de la tarea | CD |
-|------------------------|---:|------------------------|---:|
-| Muy fácil              |  5 | Difícil                | 20 |
-| Fácil                  | 10 | Muy difícil            | 25 |
-| Dificultad media       | 15 | Casi imposible         | 30 |
+| Dificultad de la tarea | CD |
+|---|---|
+| Muy fácil | 5 |
+| Fácil | 10 |
+| Dificultad media | 15 |
+| Difícil | 20 |
+| Muy difícil | 25 |
+| Casi imposible | 30 |
 
 #### Tiradas de salvación
 

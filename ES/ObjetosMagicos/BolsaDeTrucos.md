@@ -18,27 +18,39 @@ Una vez que se han extraído tres objetos peludos de la bolsa, no puede volver a
 
 Bolsa de trucos gris
 
-| 1d8 | Criatura     | 1d8 | Criatura      |
-|----:|--------------|----:|---------------|
-|   1 | Comadreja    |   5 | Pantera       |
-|   2 | Rata gigante |   6 | Tejón gigante |
-|   3 | Tejón        |   7 | Lobo terrible |
-|   4 | Jabalí       |   8 | Alce gigante  |
+| 1d8 | Criatura |
+|---|---|
+| 1 | Comadreja |
+| 2 | Rata gigante |
+| 3 | Tejón |
+| 4 | Jabalí |
+| 5 | Pantera |
+| 6 | Tejón gigante |
+| 7 | Lobo terrible |
+| 8 | Alce gigante |
 
 Bolsa de trucos rojiza
 
-| 1d8 | Criatura | 1d8 | Criatura       |
-|----:|----------|----:|----------------|
-|   1 | Rata     |   5 | Cabra gigante  |
-|   2 | Búho     |   6 | Jabalí gigante |
-|   3 | Mastín   |   7 | León           |
-|   4 | Cabra    |   8 | Oso pardo      |
+| 1d8 | Criatura |
+|---|---|
+| 1 | Rata |
+| 2 | Búho |
+| 3 | Mastín |
+| 4 | Cabra |
+| 5 | Cabra gigante |
+| 6 | Jabalí gigante |
+| 7 | León |
+| 8 | Oso pardo |
 
 Bolsa de trucos marrón
 
-| 1d8 | Criatura      | 1d8 | Criatura          |
-|----:|---------------|----:|-------------------|
-|   1 | Chacal        |   5 | Oso negro         |
-|   2 | Simio         |   6 | Comadreja gigante |
-|   3 | Babuino       |   7 | Hiena gigante     |
-|   4 | Pico de hacha |   8 | Tigre             |
+| 1d8 | Criatura |
+|---|---|
+| 1 | Chacal |
+| 2 | Simio |
+| 3 | Babuino |
+| 4 | Pico de hacha |
+| 5 | Oso negro |
+| 6 | Comadreja gigante |
+| 7 | Hiena gigante |
+| 8 | Tigre |

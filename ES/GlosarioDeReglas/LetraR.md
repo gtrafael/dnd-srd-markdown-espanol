@@ -29,11 +29,14 @@ Clase de armadura. La tabla “Clase de armadura de objetos” muestra las CA de
 
 Clase de armadura de objetos
 
-| CA | Sustancia              | CA | Sustancia     |
-|---:|------------------------|---:|---------------|
-| 11 | Tela, papel, cuerda    | 19 | Hierro, acero |
-| 13 | Cristal, vidrio, hielo | 21 | Mithral       |
-| 15 | Madera                 | 23 | Adamantina    |
+| CA | Sustancia |
+|---|---|
+| 11 | Tela, papel, cuerda |
+| 13 | Cristal, vidrio, hielo |
+| 15 | Madera |
+| 19 | Hierro, acero |
+| 21 | Mithral |
+| 23 | Adamantina |
 
 17 Piedra
 

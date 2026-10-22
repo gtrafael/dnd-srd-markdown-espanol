@@ -12,12 +12,19 @@ Esta munición mágica está pensada para matar criaturas de un tipo concreto, q
 
 En cuanto inflige daño adicional a una criatura, la munición se vuelve no mágica.
 
-| 1d100 | Tipo de criatura | 1d100 | Tipo de criatura  |
-|-------|------------------|-------|-------------------|
-| 01–10 | Aberraciones     | 51–60 | Feéricos          |
-| 11–15 | Autómatas        | 61–65 | Gigantes          |
-| 16–20 | Bestias          | 66–70 | Humanoides        |
-| 21–25 | Celestiales      | 71–80 | Infernales        |
-| 26–30 | Cienos           | 81–85 | Monstruosidades   |
-| 31–40 | Dragones         | 86–95 | Muertos vivientes |
-| 41–50 | Elementales      | 96–00 | Plantas           |
+| 1d100 | Tipo de criatura |
+|---|---|
+| 01–10 | Aberraciones |
+| 11–15 | Autómatas |
+| 16–20 | Bestias |
+| 21–25 | Celestiales |
+| 26–30 | Cienos |
+| 31–40 | Dragones |
+| 41–50 | Elementales |
+| 51–60 | Feéricos |
+| 61–65 | Gigantes |
+| 66–70 | Humanoides |
+| 71–80 | Infernales |
+| 81–85 | Monstruosidades |
+| 86–95 | Muertos vivientes |
+| 96–00 | Plantas |

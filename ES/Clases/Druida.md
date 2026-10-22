@@ -432,10 +432,12 @@ Eres inmune al estado de envenenado y tienes resistencia a un tipo de daño asoc
 
 Protección de la naturaleza
 
-| Tipo de terreno | Resistencia | Tipo de terreno | Resistencia |
-|-----------------|-------------|-----------------|-------------|
-| Árido           | Fuego       | Templado        | Relámpago   |
-| Polar           | Frío        | Tropical        | Veneno      |
+| Tipo de terreno | Resistencia |
+|---|---|
+| Árido | Fuego |
+| Polar | Frío |
+| Templado | Relámpago |
+| Tropical | Veneno |
 
 ### Nivel 14: Santuario de la naturaleza
 
