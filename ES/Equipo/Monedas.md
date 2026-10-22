@@ -1,7 +1,7 @@
 ---
 aliases: ["Monedas", "Coinage"]
 tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Coinage|Coinage (EN)]]"
+related_en: "[[Equipment/Coins|Coins (EN)]]"
 ---
 
 # Monedas
