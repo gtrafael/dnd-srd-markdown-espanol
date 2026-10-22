@@ -78,9 +78,15 @@ def auditar(root: Path) -> dict:
 
     pares.sort(key=lambda x:(-max(x["containment_a"],x["containment_b"]),-x["5grams_comunes"]))
     candidatos=Counter(x["archivo_probablemente_redundante"] for x in pares)
+    agregados_sospechosos=[
+        x for x in pares
+        if max(x["containment_a"],x["containment_b"]) >= 0.90
+        and max(x["5grams_a"],x["5grams_b"]) / max(1,min(x["5grams_a"],x["5grams_b"])) >= 1.50
+    ]
     return {
         "archivos":len(docs),
         "pares_solapamiento_fuerte":pares,
+        "agregados_sospechosos":agregados_sospechosos,
         "candidatos_redundantes":[
             {"archivo":a,"pares":n} for a,n in candidatos.most_common()
         ],
@@ -94,10 +100,13 @@ def main()->int:
     a=ap.parse_args()
     out={lang:auditar(a.corpus/lang) for lang in ("es","en")}
     a.salida.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    errores=0
     for lang in ("es","en"):
         print(lang,"pares",len(out[lang]["pares_solapamiento_fuerte"]))
         print(lang,"candidatos",out[lang]["candidatos_redundantes"][:20])
-    return 0
+        print(lang,"agregados sospechosos",out[lang]["agregados_sospechosos"][:20])
+        errores += len(out[lang]["agregados_sospechosos"])
+    return 1 if errores else 0
 
 if __name__=="__main__":
     raise SystemExit(main())
