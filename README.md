@@ -35,7 +35,9 @@ Se genera automáticamente desde `custom/main`.
 
 Elimina metadatos de Obsidian e índices de navegación. **No se edita a mano.**
 
-`custom/main` ya debe contener una sola estructura canónica por idioma. Las carpetas `(Alt)` no están permitidas: si reaparecen, el gate de simetría falla.
+`custom/main` contiene una sola estructura **normativa** por idioma. Además puede contener carpetas `(Alt)` generadas para Obsidian: son solo índices de navegación, deben ser simétricas ES/EN y no contienen texto normativo.
+
+`custom/corpus` elimina todos los índices, incluidos los `(Alt)`, por lo que conserva únicamente el contenido canónico.
 
 ## Al modificar contenido
 
