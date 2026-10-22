@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Normaliza la estructura inglesa según el TOC oficial del SRD 5.2.1.
 
-Es una migración idempotente. La estructura documental la decide el índice
+Es una migración idempotente y segura para reejecuciones. La estructura documental la decide el índice
 oficial; los callouts y las notas hoja de catálogos se conservan como
 excepciones explícitas.
 """
