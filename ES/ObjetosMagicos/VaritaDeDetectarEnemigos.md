@@ -1,6 +1,7 @@
 ---
 aliases: ["Varita de detectar enemigos"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Treasure/Wand of Enemy Detection|Wand of Enemy Detection (EN)]]"
 ---
 
 # Varita de detectar enemigos
