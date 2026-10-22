@@ -10,7 +10,6 @@ on:
       - scripts/normalizar_tablas_semanticas.py
       - scripts/normalizar_estructura_en.py
       - scripts/normalizar_listas_conjuros.py
-      - scripts/generar_indices_obsidian.py
       - ".github/workflows/normalizar-custom.yml"
 
 permissions:
@@ -42,9 +41,6 @@ jobs:
 
       - name: Normalizar listas de conjuros y continuaciones
         run: python scripts/normalizar_listas_conjuros.py
-
-      - name: Regenerar índices Obsidian
-        run: python scripts/generar_indices_obsidian.py
 
       - name: Commit de normalización
         shell: bash
