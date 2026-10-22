@@ -1,0 +1,28 @@
+name: Limpiar ramas históricas
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/cleanup-branches.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  limpiar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Eliminar ramas históricas de trabajo
+        shell: bash
+        run: |
+          set -euo pipefail
+          git push origin --delete \
+            "custom/main" \
+            "custom/corpus" \
+            "refactor/main-cutover"
