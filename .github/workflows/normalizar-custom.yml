@@ -8,6 +8,7 @@ on:
     paths:
       - scripts/aplicar_correcciones_verificadas.py
       - scripts/normalizar_tablas_semanticas.py
+      - scripts/normalizar_estructura_en.py
       - scripts/normalizar_listas_conjuros.py
 
 permissions:
@@ -30,6 +31,9 @@ jobs:
 
       - name: Aplicar correcciones verificadas
         run: python scripts/aplicar_correcciones_verificadas.py
+
+      - name: Normalizar estructura EN según TOC
+        run: python scripts/normalizar_estructura_en.py
 
       - name: Normalizar tablas comprimidas
         run: python scripts/normalizar_tablas_semanticas.py
