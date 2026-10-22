@@ -1,7 +1,7 @@
 ---
 aliases: ["Transporte", "Transportation"]
 tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Transportation|Transportation (EN)]]"
+related_en: "[[Equipment/Mounts and Vehicles|Mounts and Vehicles (EN)]]"
 ---
 
 # Monturas y vehículos
