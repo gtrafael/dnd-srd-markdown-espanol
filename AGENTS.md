@@ -20,8 +20,9 @@ Los PDF oficiales ES y EN son la autoridad normativa del texto. Para la **estruc
 1. Editar únicamente `custom/main`.
 2. Corregir primero ES.
 3. Revisar y mantener el equivalente EN.
-4. Los workflows validan estructura, tablas y simetría.
-5. Si todo pasa, `custom/corpus` se regenera automáticamente.
+4. El workflow **Generar índices Obsidian** reconstruye los `(Alt)` desde las notas canónicas.
+5. Los workflows validan estructura, tablas y simetría.
+6. `custom/corpus` se genera sin índices ni metadatos.
 
 **Nunca edites `custom/corpus` a mano.**
 
