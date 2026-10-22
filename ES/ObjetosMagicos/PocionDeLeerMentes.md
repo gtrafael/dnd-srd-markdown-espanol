@@ -1,6 +1,7 @@
 ---
 aliases: ["Poción de leer mentes"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Potion of Mind Reading]]"
 ---
 
 # Poción de leer mentes

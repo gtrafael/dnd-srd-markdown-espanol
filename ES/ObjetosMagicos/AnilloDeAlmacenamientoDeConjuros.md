@@ -1,6 +1,7 @@
 ---
 aliases: ["Anillo de almacenamiento de conjuros"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Ring of Spell Storing]]"
 ---
 
 # Anillo de almacenamiento de conjuros
