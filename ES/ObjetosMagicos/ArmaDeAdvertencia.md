@@ -1,6 +1,7 @@
 ---
 aliases: ["Arma de advertencia"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Treasure/Weapon of Warning|Weapon of Warning (EN)]]"
 ---
 
 # Arma de advertencia
