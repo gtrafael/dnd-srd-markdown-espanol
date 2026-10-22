@@ -4,53 +4,41 @@ tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Xorn|Xorn (Español)]]"
 ---
 
-## Xorn
+# Xorn
 
-*Medium Elemental, Neutral*
+_Medium Elemental, Neutral_
 
-**AC 19 Initiative +0 (10)**
+- **AC** 19
+- **Initiative** +0 (10)
+- **HP** 84 (8d8 + 48)
+- **Speed** 20 ft., Burrow 20 ft.
 
-**HP 84 (8d8 + 48)**
+|                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
+|------------------|--------|--------|--------|--------|--------|--------|
+| **Score**        |     17 |     10 |     22 |     11 |     10 |     11 |
+| **Modifier**     |     +3 |     +0 |     +6 |     +0 |     +0 |     +0 |
+| **Saving Throw** |     +3 |     +0 |     +6 |     +0 |     +0 |     +0 |
 
-**Speed 20 ft., Burrow 20 ft.**
+- **Skills** Perception +6, Stealth +6
+- **Immunities** Poison; Paralyzed, Petrified, Poisoned
+- **Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 16
+- **Languages** Primordial (Terran)
+- **CR** 5 (XP 1,800; PB +3)
 
-|            | MOD | SAVE |            | MOD | SAVE |
-|------------|:---:|:----:|------------|:---:|:----:|
-| **Str** 17 | +3  |  +3  | **Dex** 10 | +0  |  +0  | **Con** 22 | +6 | +6 |
-| **Int** 11 | +0  |  +0  | **Wis** 10 | +0  |  +0  | **Cha** 11 | +0 | +0 |
+## Traits
 
-**Skills Perception +6, Stealth +6**
+_**Earth Glide.**_ The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
 
-**Immunities Poison; Paralyzed, Petrified, Poisoned**
+_**Treasure Sense.**_ The xorn can pinpoint the location of precious metals and stones within 60 feet of itself.
 
-**Senses Darkvision 60 ft., Tremorsense 60 ft.;**
+## Actions
 
-Passive Perception 16 Languages Primordial (Terran)
+_**Multiattack.**_ The xorn makes one Bite attack and three Claw attacks.
 
-**CR 5 (XP 1,800; PB +3)**
+_**Bite.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 17 (4d6 + 3) Piercing damage.
 
-### Traits
+_**Claw.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 8 (1d10 + 3) Slashing damage.
 
-Earth Glide. The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn’t disturb the material it moves through.
+## Bonus Actions
 
-Treasure Sense. The xorn can pinpoint the location of precious metals and stones within 60 feet of itself.
-
-### Actions
-
-Multiattack. The xorn makes one Bite attack and three
-
-Claw attacks.
-
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 17 (4d6 + 3)
-
-Piercing damage.
-
-Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage.
-
-### Bonus Actions
-
-Charge. The xorn moves up to its Speed or Burrow
-
-**Speed straight toward an enemy it can sense.**
-
-Zombies
+_**Charge.**_ The xorn moves up to its Speed or Burrow Speed straight toward an enemy it can sense.
