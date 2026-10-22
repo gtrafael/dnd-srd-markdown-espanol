@@ -454,6 +454,16 @@ def monsters() -> None:
     root = EN / "Monsters"
     catalog = EN / "Monsters A-Z"
     catalog.mkdir(exist_ok=True)
+
+    # Animated Object pertenece al conjuro Animate Objects, no al catálogo de monstruos.
+    animated = catalog / "Animated Object.md"
+    spell = EN / "Spells" / "Animate Objects.md"
+    if animated.exists() and spell.exists():
+        raw = spell.read_text(encoding="utf-8")
+        stat = strip_frontmatter(animated.read_text(encoding="utf-8")).strip()
+        if "## Animated Object" not in raw:
+            spell.write_text(raw.rstrip() + "\n\n" + stat + "\n", encoding="utf-8")
+        animated.unlink()
     keep = {
         "Stat Block Overview.md",
         "Parts of a Stat Block.md",
