@@ -179,6 +179,8 @@ def audit(es_root: Path, en_root: Path) -> dict:
             "relaciones_es_en": relaciones,
             "indices_es": len(indices_es),
             "indices_en": len(indices_en),
+            "indices_alt_es": sum(1 for p in es_root.rglob("*.md") if "(Alt)" in p.as_posix()),
+            "indices_alt_en": sum(1 for p in en_root.rglob("*.md") if "(Alt)" in p.as_posix()),
             "fallos": len(fallos),
         },
         "fallos": fallos,
