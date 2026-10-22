@@ -17,7 +17,8 @@ El TOC oficial decide la estructura principal.
 - unidad documental del TOC → archivo;
 - niveles inferiores → encabezados dentro del archivo padre;
 - entidades de catálogo (conjuros, objetos, monstruos, animales) → notas hoja;
-- recuadros normativos → notas propias.
+- recuadros normativos → notas propias;
+- una sola estructura navegable por idioma: no se admiten carpetas `(Alt)` ni segundos árboles auxiliares.
 
 La maquetación del PDF no crea relaciones ni archivos por sí sola.
 
@@ -56,7 +57,7 @@ Fuente humana editable:
 Producto generado desde `custom/main`:
 
 - sin frontmatter;
-- sin índices de navegación ni carpetas `(Alt)`;
+- sin índices de navegación;
 - wikilinks convertidos a texto;
 - solo contenido útil para consumo automático.
 
