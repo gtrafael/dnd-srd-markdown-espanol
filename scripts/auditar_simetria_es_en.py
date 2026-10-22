@@ -57,16 +57,52 @@ def audit(es_root: Path, en_root: Path) -> dict:
     revisados = 0
     relaciones = 0
 
-    # custom/main también debe ser limpio y comprensible: nada de variantes Alt
-    # ni subíndices auxiliares que creen una segunda estructura paralela.
+    # Los (Alt) son navegación derivada para Obsidian. Deben existir con la
+    # misma forma en ambos idiomas y nunca contener una segunda estructura libre.
+    rangos = ("A-C", "D-F", "G-I", "J-L", "M-O", "P-R", "S-U", "V-Z")
+    alt_esperados = {
+        "es": {
+            "Animales (Alt)": "Animales",
+            "Conjuros (Alt)": "Conjuros",
+            "MonstruosDeLaAALaZ (Alt)": "Monstruos A-Z",
+            "ObjetosMagicos (Alt)": "Objetos mágicos",
+        },
+        "en": {
+            "Animals (Alt)": "Animals",
+            "Spells (Alt)": "Spells",
+            "Monsters A-Z (Alt)": "Monsters A-Z",
+            "Magic Items (Alt)": "Magic Items",
+        },
+    }
     for root, idioma in ((es_root, "es"), (en_root, "en")):
-        for path in sorted(root.rglob("*.md")):
-            rel = path.relative_to(root)
-            if any("(Alt)" in parte for parte in rel.parts):
+        esperados = alt_esperados[idioma]
+        encontrados = {
+            p.name for p in root.iterdir()
+            if p.is_dir() and "(Alt)" in p.name
+        }
+        if encontrados != set(esperados):
+            fallos.append({
+                "tipo": "carpetas_alt_asimetricas",
+                "idioma": idioma,
+                "esperadas": sorted(esperados),
+                "encontradas": sorted(encontrados),
+            })
+        for carpeta, nombre in esperados.items():
+            alt = root / carpeta
+            if not alt.is_dir():
+                continue
+            archivos = {p.name for p in alt.glob("*.md")}
+            esperados_archivos = {
+                f"{nombre} (Alt).md",
+                *(f"{nombre} {rango}.md" for rango in rangos),
+            }
+            if archivos != esperados_archivos:
                 fallos.append({
-                    "tipo": "estructura_auxiliar_alt",
+                    "tipo": "indices_alt_incompletos",
                     "idioma": idioma,
-                    "archivo": rel.as_posix(),
+                    "carpeta": carpeta,
+                    "esperados": sorted(esperados_archivos),
+                    "encontrados": sorted(archivos),
                 })
 
     indices_es = sorted(
