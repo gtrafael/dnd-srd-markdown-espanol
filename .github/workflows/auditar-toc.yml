@@ -1,0 +1,42 @@
+name: Auditar estructura TOC
+
+on:
+  push:
+    branches:
+      - custom/main
+    paths:
+      - "ES/**"
+      - "src/SP_SRD_CC_V5.2.1_index.json"
+      - "scripts/auditar_estructura_toc.py"
+      - ".github/workflows/auditar-toc.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: auditar-toc-custom-main
+  cancel-in-progress: true
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: custom/main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Auditar estructura
+        run: >-
+          python scripts/auditar_estructura_toc.py
+          --indice src/SP_SRD_CC_V5.2.1_index.json
+          --es ES
+          --salida auditoria-toc.json
+      - name: Publicar informe
+        uses: actions/upload-artifact@v4
+        with:
+          name: auditoria-estructura-toc
+          path: auditoria-toc.json
+          if-no-files-found: error
