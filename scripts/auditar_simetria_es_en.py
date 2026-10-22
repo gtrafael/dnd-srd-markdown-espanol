@@ -10,9 +10,7 @@ import unicodedata
 from pathlib import Path
 
 
-EXCLUIR_ES = {
-    "GlosarioDeReglas/DefinicionesDeLasReglas.md",
-}
+EXCLUIR_ES: set[str] = set()
 
 
 def frontmatter(texto: str) -> str:
