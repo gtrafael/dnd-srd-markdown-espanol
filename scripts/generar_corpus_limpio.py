@@ -107,14 +107,6 @@ def preparar_idioma(idioma: str, relaciones: list[dict]) -> None:
                 }
             )
 
-        # El agregado Conjuros duplica ObtenerConjuros + LanzarConjuros.
-        # Conservamos únicamente la introducción del capítulo.
-        if idioma == "ES" and rel.as_posix() == "Conjuros/Conjuros.md":
-            cuerpo = quitar_frontmatter(raw)
-            corte = cuerpo.find("\n## Obtener conjuros")
-            if corte >= 0:
-                raw = cuerpo[:corte]
-
         path.write_text(limpiar(raw), encoding="utf-8")
 
     for directorio in sorted(
