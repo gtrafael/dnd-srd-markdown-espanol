@@ -439,6 +439,11 @@ def update_links() -> None:
         ("[[Treasure/", "[[Magic Items/"),
         ("[[Spells/Spellcasting#Gaining Spells", "[[Spells/Gaining Spells"),
         ("[[Spells/Spellcasting#Casting Spells", "[[Spells/Casting Spells"),
+        ("[[Playing the Game/Adventuring", "[[Playing the Game/Exploration"),
+        ("[[Equipment/Gear", "[[Equipment/Adventuring Gear"),
+        ("[[Equipment/Coinage", "[[Equipment/Coins"),
+        ("[[Equipment/Transportation", "[[Equipment/Mounts and Vehicles"),
+        ("[[Classes/Paladín", "[[Classes/Paladin"),
     ]
     replace_all(ES, reps)
     replace_all(EN, reps)
