@@ -363,11 +363,38 @@ def magic_items() -> None:
     old_idx = dst / "Treasure.md"
     new_idx = dst / "Magic Items-Index.md"
     if old_idx.exists():
-        c = old_idx.read_text(encoding="utf-8")
-        c = c.replace("# Treasure", "# Magic Items", 1)
-        c = c.replace("> Index of **Treasure**", "> Index of **Magic Items**")
-        old_idx.write_text(c, encoding="utf-8")
-        move(old_idx, new_idx)
+        old_idx.unlink()
+
+    estructura = [
+        "Magic Items",
+        "Magic Item Categories",
+        "Magic Item Rarity",
+        "Activating a Magic Item",
+        "The Next Dawn",
+        "Cursed Items",
+        "Magic Item Resilience",
+        "Crafting Magic Items",
+        "Sentient Magic Items",
+        "Magic Item Rules",
+    ]
+    excluir = set(estructura) | {"Magic Items-Index"}
+    catalogo = sorted(
+        p.stem for p in dst.glob("*.md")
+        if p.stem not in excluir
+    )
+    indice = [
+        "# Magic Items",
+        "",
+        "## Chapter Structure",
+        "",
+        *[f"- [[{x}]]" for x in estructura],
+        "",
+        "## Magic Item Catalog",
+        "",
+        *[f"- [[{x}]]" for x in catalogo],
+        "",
+    ]
+    write(new_idx, "\n".join(indice))
 
 
 def monsters() -> None:
