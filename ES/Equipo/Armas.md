@@ -78,6 +78,6 @@ Todo el mundo puede blandir un arma, pero debes ser competente con ella para pod
 | Arco largo | 1d8 perforante | A dos manos, munición (alcance 45/180; flecha), pesado | Ralentizar | 1 kg | 50 po |
 | Ballesta de mano | 1d6 perforante | Ligera, munición (alcance 9/36; virote), recarga | Molestar | 1,5 kg | 75 po |
 | Ballesta pesada | 1d10 perforante | A dos manos, munición (alcance 30/120; virote), pesada, recarga | Empujar | 9 kg | 50 po |
-| Cerbatana | I perforante | Munición (alcance 7,5/30; dardo), recarga | Molestar | 0,5 kg | 10 po |
+| Cerbatana | 1 perforante | Munición (alcance 7,5/30; dardo), recarga | Molestar | 0,5 kg | 10 po |
 | Mosquete | 1d12 perforante | A dos manos, munición (alcance 12/36; bala), recarga | Ralentizar | 5 kg | 500 po |
 | Pistola | 1d10 perforante | Munición (alcance 9/27; bala), recarga | Molestar | 1,5 kg | 250 po |
