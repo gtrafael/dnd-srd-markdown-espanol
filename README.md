@@ -45,11 +45,10 @@ Elimina metadatos de Obsidian, índices de navegación y duplicados auxiliares. 
 
 Los controles principales son:
 
-- estructura TOC de ES;
-- simetría ES → EN;
-- semántica de tablas;
-- generación reproducible de `custom/corpus`;
-- validación completa contra los PDF oficiales antes de aprobar una candidata.
+- **rápidos, en cada cambio:** TOC ES, simetría ES → EN, tablas y generación de `custom/corpus`;
+- **completo:** comparación con los PDF, estructura visual, cobertura, lineage y duplicados.
+
+El workflow **Validar corpus completo** debe quedar en verde antes de aprobar una candidata. Sus informes son artefactos temporales de CI: no hay que mantenerlos ni versionarlos.
 
 Las reglas estructurales están resumidas en [docs/CRITERIOS_CORPUS.md](docs/CRITERIOS_CORPUS.md).
 
