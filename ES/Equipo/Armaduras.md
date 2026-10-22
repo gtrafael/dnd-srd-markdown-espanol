@@ -32,24 +32,37 @@ Solo obtienes el bonificador a la clase de armadura si tienes entrenamiento con 
 
 Una criatura no puede llevar puesta más de una armadura ni embrazar más de un escudo a la vez.
 
-Armaduras
+## Tabla de armaduras
+
+### Armaduras ligeras (1 minuto para ponérselas o quitárselas)
 
 | Armadura                                                                    | Clase de armadura (CA)            | Fuerza | Sigilo     | Peso    | Precio  |
 |-----------------------------------------------------------------------------|-----------------------------------|--------|------------|---------|---------|
-| Armaduras ligeras (1 minuto para ponérselas o quitárselas)                  |                                   |        |            |         |         |
-| Armadura acolchada                                                          | 11 + modificador por Des          | —      | Desventaja | 4 kg    | 5 po    |
-| Armadura de cuero                                                           | 11 + modificador por Des          | —      | —          | 5 kg    | 10 po   |
-| Armadura de cuero tachonado                                                 | 12 + modificador por Des          | —      | —          | 6,5 kg  | 45 po   |
-| Armaduras medias (5 minutos para ponérselas y 1 minuto para quitárselas)    |                                   |        |            |         |         |
-| Armadura de pieles                                                          | 12 + modificador por Des (máx. 2) | —      | —          | 6 kg    | 10 po   |
-| Camisa de malla                                                             | 13 + modificador por Des (máx. 2) | —      | —          | 10 kg   | 50 po   |
-| Cota de escamas                                                             | 14 + modificador por Des (máx. 2) | —      | Desventaja | 22,5 kg | 50 po   |
-| Coraza                                                                      | 14 + modificador por Des (máx. 2) | —      | —          | 10 kg   | 400 po  |
-| Media armadura                                                              | 15 + modificador por Des (máx. 2) | —      | Desventaja | 20 kg   | 750 po  |
-| Armaduras pesadas (10 minutos para ponérselas y 5 minutos para quitárselas) |                                   |        |            |         |         |
-| Cota guarnecida                                                             | 14                                | —      | Desventaja | 20 kg   | 30 po   |
-| Cota de malla                                                               | 16                                | Fue 13 | Desventaja | 27,5 kg | 75 po   |
-| Armadura de bandas                                                          | 17                                | Fue 15 | Desventaja | 30 kg   | 200 po  |
-| Armadura de placas                                                          | 18                                | Fue 15 | Desventaja | 32,5 kg | 1500 po |
-| Escudos (acción de utilizar para ponérselos o quitárselos)                  |                                   |        |            |         |         |
-| Escudo                                                                      | +2                                | —      | —          | 3 kg    | 10 po   |
+| Armadura acolchada | 11 + modificador por Des | — | Desventaja | 4 kg | 5 po |
+| Armadura de cuero | 11 + modificador por Des | — | — | 5 kg | 10 po |
+| Armadura de cuero tachonado | 12 + modificador por Des | — | — | 6,5 kg | 45 po |
+
+### Armaduras medias (5 minutos para ponérselas y 1 minuto para quitárselas)
+
+| Armadura                                                                    | Clase de armadura (CA)            | Fuerza | Sigilo     | Peso    | Precio  |
+|-----------------------------------------------------------------------------|-----------------------------------|--------|------------|---------|---------|
+| Armadura de pieles | 12 + modificador por Des (máx. 2) | — | — | 6 kg | 10 po |
+| Camisa de malla | 13 + modificador por Des (máx. 2) | — | — | 10 kg | 50 po |
+| Cota de escamas | 14 + modificador por Des (máx. 2) | — | Desventaja | 22,5 kg | 50 po |
+| Coraza | 14 + modificador por Des (máx. 2) | — | — | 10 kg | 400 po |
+| Media armadura | 15 + modificador por Des (máx. 2) | — | Desventaja | 20 kg | 750 po |
+
+### Armaduras pesadas (10 minutos para ponérselas y 5 minutos para quitárselas)
+
+| Armadura                                                                    | Clase de armadura (CA)            | Fuerza | Sigilo     | Peso    | Precio  |
+|-----------------------------------------------------------------------------|-----------------------------------|--------|------------|---------|---------|
+| Cota guarnecida | 14 | — | Desventaja | 20 kg | 30 po |
+| Cota de malla | 16 | Fue 13 | Desventaja | 27,5 kg | 75 po |
+| Armadura de bandas | 17 | Fue 15 | Desventaja | 30 kg | 200 po |
+| Armadura de placas | 18 | Fue 15 | Desventaja | 32,5 kg | 1500 po |
+
+### Escudos (acción de utilizar para ponérselos o quitárselos)
+
+| Armadura                                                                    | Clase de armadura (CA)            | Fuerza | Sigilo     | Peso    | Precio  |
+|-----------------------------------------------------------------------------|-----------------------------------|--------|------------|---------|---------|
+| Escudo | +2 | — | — | 3 kg | 10 po |
