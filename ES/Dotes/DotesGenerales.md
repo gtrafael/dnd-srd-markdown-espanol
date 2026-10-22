@@ -1,8 +1,7 @@
 ---
 aliases: ["Dotes generales"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en_section: "[[Feats/Feat Descriptions#General Feats|General Feats (EN)]]"
-alignment_mode: "section"
+related_en: "[[Feats/General Feats|General Feats (EN)]]"
 ---
 
 # Dotes generales

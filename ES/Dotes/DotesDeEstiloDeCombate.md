@@ -1,8 +1,7 @@
 ---
 aliases: ["Dotes de estilo de combate"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en_section: "[[Feats/Feat Descriptions#Fighting Style Feats|Fighting Style Feats (EN)]]"
-alignment_mode: "section"
+related_en: "[[Feats/Fighting Style Feats|Fighting Style Feats (EN)]]"
 ---
 
 # Dotes de estilo de combate

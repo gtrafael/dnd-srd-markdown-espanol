@@ -1,8 +1,7 @@
 ---
 aliases: ["Propiedades de maestría"]
 tags: [srd, espanol, tag_equipo]
-related_en_section: "[[Equipment/Weapons#Mastery Properties|Mastery Properties (EN)]]"
-alignment_mode: "section"
+related_en: "[[Equipment/Mastery Properties|Mastery Properties (EN)]]"
 ---
 
 # Propiedades de maestría

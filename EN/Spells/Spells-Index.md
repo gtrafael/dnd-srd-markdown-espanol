@@ -2,6 +2,7 @@
 
 ## Chapter Structure
 
+- [[Spells]]
 - [[Gaining Spells]]
 - [[Casting Spells]]
 
