@@ -146,6 +146,23 @@ def validar_fronteras_recuadros() -> None:
             "Regresión de frontera: AtacantesYObjetivosOcultos.md absorbió prosa de Combate.md"
         )
 
+    lanzar = (ROOT / "ES/Conjuros/LanzarConjuros.md").read_text(encoding="utf-8")
+    armadura = (ROOT / "ES/Conjuros/LanzarConjurosConArmadura.md").read_text(encoding="utf-8")
+    casting = (ROOT / "EN/Spells/Casting Spells.md").read_text(encoding="utf-8")
+
+    if "## Nivel del conjuro" not in lanzar or "## Listas de conjuros de clases" not in lanzar:
+        raise SystemExit(
+            "Regresión de frontera: LanzarConjuros.md perdió secciones anteriores al callout de armadura"
+        )
+    if "Nivel del conjuro" in armadura:
+        raise SystemExit(
+            "Regresión de frontera: LanzarConjurosConArmadura.md absorbió contenido del documento padre"
+        )
+    if "## Casting in Armour" in casting:
+        raise SystemExit(
+            "Regresión de frontera: Casting in Armor sigue duplicado dentro de Casting Spells.md"
+        )
+
 
 def main() -> int:
     relaciones: list[dict] = []
