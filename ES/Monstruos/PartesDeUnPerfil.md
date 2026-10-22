@@ -76,12 +76,12 @@ Normalmente, el tamaño del monstruo determina qué dado se usará para calcular
 
 | Tamaño del monstruo | Dado de golpe | PG medios por dado |
 |---------------------|---------------|--------------------|
-| Diminuto            | d4            | 2\frac{1}{2}       |
-| Pequeño             | d6            | 3\frac{1}{2}       |
-| Mediano             | d8            | 4\frac{1}{2}       |
-| Grande              | d10           | 5\frac{1}{2}       |
-| Enorme              | d12           | 6\frac{1}{2}       |
-| Gargantuesco        | d20           | 10\frac{1}{2}      |
+| Diminuto            | d4            | 2½       |
+| Pequeño             | d6            | 3½       |
+| Mediano             | d8            | 4½       |
+| Grande              | d10           | 5½       |
+| Enorme              | d12           | 6½       |
+| Gargantuesco        | d20           | 10½      |
 
 El modificador por Constitución de un monstruo se multiplica por el número de dados de golpe que posee y el resultado se suma a sus puntos de golpe. Por ejemplo, un monstruo con una Constitución de 12 (modificador de +1) y 2d8 dados de golpe tendrá 2d8 + 2 puntos de golpe (11 de media).
 
