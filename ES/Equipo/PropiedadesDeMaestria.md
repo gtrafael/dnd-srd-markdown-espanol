@@ -1,6 +1,7 @@
 ---
 aliases: ["Propiedades de maestría"]
-tags: [srd, espanol, tag_equipo, sin-equivalente]
+tags: [srd, espanol, tag_equipo]
+related_en: "[[Equipment/Mastery Properties|Mastery Properties (EN)]]"
 ---
 
 # Propiedades de maestría
