@@ -1,8 +1,7 @@
 ---
 aliases: ["Spells"]
 tags: [srd, espanol, tag_conjuros]
-alignment_mode: "one-to-many"
-related_en_sections: ["Spells/Gaining Spells", "Spells/Casting Spells"]
+related_en: "[[Spells/Spells|Spells (EN)]]"
 ---
 
 # Conjuros
