@@ -39,6 +39,8 @@ Elimina metadatos de Obsidian e índices de navegación. **No se edita a mano.**
 
 `custom/corpus` elimina todos los índices, incluidos los `(Alt)`, por lo que conserva únicamente el contenido canónico.
 
+El workflow **Generar índices Obsidian** reconstruye automáticamente los `(Alt)` desde las notas canónicas de `custom/main`.
+
 ## Al modificar contenido
 
 1. Corrige primero ES.
