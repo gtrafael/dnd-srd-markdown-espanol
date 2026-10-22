@@ -117,10 +117,35 @@ def preparar_idioma(idioma: str, relaciones: list[dict]) -> None:
             directorio.rmdir()
 
 
+def validar_fronteras_recuadros() -> None:
+    """Protege separaciones donde un recuadro interrumpe prosa del documento padre."""
+    combate = (ROOT / "ES/ComoJugar/Combate.md").read_text(encoding="utf-8")
+    ocultos = (ROOT / "ES/ComoJugar/AtacantesYObjetivosOcultos.md").read_text(encoding="utf-8")
+
+    frase = (
+        "Intentar un ataque a distancia se complica si el enemigo está junto a ti. "
+        "Cuando hagas un ataque a distancia, ya sea con un arma, un conjuro o cualquier "
+        "otro medio, tendrás desventaja en la tirada si estás a 1,5 m o menos de un enemigo "
+        "que pueda verte y no tenga el estado de incapacitado "
+        "(consulta el capítulo “Glosario de reglas”)."
+    )
+    cola_espuria = "otro medio, tendrás desventaja en la tirada"
+
+    if frase not in combate:
+        raise SystemExit(
+            "Regresión de frontera: la frase de ataques a distancia quedó truncada en Combate.md"
+        )
+    if cola_espuria in ocultos:
+        raise SystemExit(
+            "Regresión de frontera: AtacantesYObjetivosOcultos.md absorbió prosa de Combate.md"
+        )
+
+
 def main() -> int:
     relaciones: list[dict] = []
     preparar_idioma("ES", relaciones)
     preparar_idioma("EN", relaciones)
+    validar_fronteras_recuadros()
 
     metadata = ROOT / "metadata"
     metadata.mkdir(exist_ok=True)
