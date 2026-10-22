@@ -225,10 +225,42 @@ def character_origins_and_feats() -> None:
         body = body.replace("## Feat Descriptions", "# Feat Descriptions", 1)
         write(feats / "Feat Descriptions.md", note(
             "Feat Descriptions", ["Feat Descriptions", "Feats"], "tag_feats", body,
-            'related_es_section: "[[Dotes/DescripcionesDeDotes|Descripciones de dotes (Español)]]"\nalignment_mode: "one-to-many"'
+            'related_es: "[[Dotes/DescripcionesDeDotes|Descripciones de dotes (Español)]]"'
         ))
         feat_src.unlink()
-    write(feats / "Feats-Index.md", "# Feats\n\n- [[Feat Descriptions]]\n")
+
+    feat_doc = feats / "Feat Descriptions.md"
+    if feat_doc.exists():
+        raw = feat_doc.read_text(encoding="utf-8")
+        body = strip_frontmatter(raw)
+        specs = [
+            ("## Origin Feats", "## General Feats", "Origin Feats.md", "Origin Feats",
+             'related_es: "[[Dotes/DotesDeOrigen|Dotes de origen (Español)]]"'),
+            ("## General Feats", "## Fighting Style Feats", "General Feats.md", "General Feats",
+             'related_es: "[[Dotes/DotesGenerales|Dotes generales (Español)]]"'),
+            ("## Fighting Style Feats", "## Epic Boon Feats", "Fighting Style Feats.md", "Fighting Style Feats",
+             'related_es: "[[Dotes/DotesDeEstiloDeCombate|Dotes de estilo de combate (Español)]]"'),
+            ("## Epic Boon Feats", None, "Epic Boon Feats.md", "Epic Boon Feats",
+             'related_es: "[[Dotes/DotesDeDonEpico|Dotes de don épico (Español)]]"'),
+        ]
+        if all(start in body for start, *_ in specs):
+            intro = body.split("\n## Origin Feats", 1)[0].rstrip() + "\n"
+            write(feat_doc, note(
+                "Feat Descriptions", ["Feat Descriptions", "Feats"], "tag_feats", intro,
+                'related_es: "[[Dotes/DescripcionesDeDotes|Descripciones de dotes (Español)]]"'
+            ))
+            for start, end, filename, title, rel in specs:
+                part = promote(section(raw, start, end))
+                write(feats / filename, note(title, [title], "tag_feats", part, rel))
+
+    write(feats / "Feats-Index.md", """# Feats
+
+- [[Feat Descriptions]]
+- [[Origin Feats]]
+- [[General Feats]]
+- [[Fighting Style Feats]]
+- [[Epic Boon Feats]]
+""")
 
     chars = EN / "Characterizations"
     if chars.exists():
@@ -247,17 +279,24 @@ def equipment() -> None:
     weapons = root / "Weapons.md"
     props = root / "Properties.md"
     mastery = root / "Mastery Properties.md"
-    if weapons.exists() and props.exists() and mastery.exists():
+    if weapons.exists():
         w = weapons.read_text(encoding="utf-8")
-        p = demote(strip_frontmatter(props.read_text(encoding="utf-8")))
-        m = demote(strip_frontmatter(mastery.read_text(encoding="utf-8")))
-        marker = "## Weapons Table"
-        if marker not in w:
-            raise ValueError("Weapons.md no contiene Weapons Table")
-        w = w.replace(marker, p.strip() + "\n\n" + m.strip() + "\n\n" + marker, 1)
-        weapons.write_text(w.rstrip() + "\n", encoding="utf-8")
-        props.unlink()
-        mastery.unlink()
+        body = strip_frontmatter(w)
+        if all(x in body for x in ("## Properties", "## Mastery Properties", "## Weapons Table")):
+            p = promote(section(w, "## Properties", "## Mastery Properties"))
+            m = promote(section(w, "## Mastery Properties", "## Weapons Table"))
+            write(props, note(
+                "Properties", ["Properties"], "tag_equipment", p,
+                'related_es: "[[Equipo/Propiedades|Propiedades (Español)]]"'
+            ))
+            write(mastery, note(
+                "Mastery Properties", ["Mastery Properties"], "tag_equipment", m,
+                'related_es: "[[Equipo/PropiedadesDeMaestria|Propiedades de maestría (Español)]]"'
+            ))
+            a = body.index("## Properties")
+            b = body.index("## Weapons Table")
+            limpio = body[:a].rstrip() + "\n\n" + body[b:]
+            weapons.write_text(frontmatter(w) + "\n" + limpio.rstrip() + "\n", encoding="utf-8")
 
     trade = root / "Trade Goods.md"
     if trade.exists():
@@ -270,8 +309,6 @@ def equipment() -> None:
             ("[[Coinage]]", "[[Coins]]"),
             ("[[Gear]]", "[[Adventuring Gear]]"),
             ("[[Transportation]]", "[[Mounts and Vehicles]]"),
-            ("[[Properties]]", "[[Weapons#Properties|Properties]]"),
-            ("[[Mastery Properties]]", "[[Weapons#Mastery Properties|Mastery Properties]]"),
         ]:
             c = c.replace(a, b)
         idx.write_text(c, encoding="utf-8")
@@ -297,9 +334,25 @@ def spells() -> None:
     old_idx = root / "Spells.md"
     if old_idx.exists():
         c = old_idx.read_text(encoding="utf-8")
-        c = c.replace("# Spells\n\n> Index of **Spells**", "# Spells\n\n## Chapter Structure\n\n- [[Gaining Spells]]\n- [[Casting Spells]]\n\n## Spell Catalog")
-        move(old_idx, root / "Spells-Index.md")
-        (root / "Spells-Index.md").write_text(c, encoding="utf-8")
+        if "> Index of **Spells**" in c:
+            c = c.replace("# Spells\n\n> Index of **Spells**", "# Spells\n\n## Chapter Structure\n\n- [[Spells]]\n- [[Gaining Spells]]\n- [[Casting Spells]]\n\n## Spell Catalog")
+            old_idx.unlink()
+            write(root / "Spells-Index.md", c)
+
+    chapter = root / "Spells.md"
+    if not chapter.exists():
+        write(chapter, note(
+            "Spells", ["Spells"], "tag_spells",
+            "# Spells\n\n*This chapter describes how to gain and cast spells, in addition to providing detailed descriptions of every spell in the game.*",
+            'related_es: "[[Conjuros/Conjuros|Conjuros (Español)]]"'
+        ))
+
+    idx = root / "Spells-Index.md"
+    if idx.exists():
+        c = idx.read_text(encoding="utf-8")
+        if "- [[Spells]]" not in c:
+            c = c.replace("## Chapter Structure\n\n", "## Chapter Structure\n\n- [[Spells]]\n")
+            idx.write_text(c, encoding="utf-8")
 
 
 def gameplay_toolbox() -> None:
@@ -481,23 +534,40 @@ def update_links() -> None:
     replace_all(ES, reps)
     replace_all(EN, reps)
 
-    # Las propiedades son archivos ES pero secciones EN según el TOC inglés.
+    # ES es la referencia: las unidades equivalentes del TOC se enlazan archivo a archivo.
     pairs = [
-        (
-            ES / "Equipo" / "Propiedades.md",
-            'related_en: "[[Equipment/Properties|Properties (EN)]]"',
-            'related_en_section: "[[Equipment/Weapons#Properties|Properties (EN)]]"\nalignment_mode: "section"',
-        ),
-        (
-            ES / "Equipo" / "PropiedadesDeMaestria.md",
-            'related_en: "[[Equipment/Mastery Properties|Mastery Properties (EN)]]"',
-            'related_en_section: "[[Equipment/Weapons#Mastery Properties|Mastery Properties (EN)]]"\nalignment_mode: "section"',
-        ),
+        (ES / "Equipo" / "Propiedades.md",
+         'related_en_section: "[[Equipment/Weapons#Properties|Properties (EN)]]"\nalignment_mode: "section"',
+         'related_en: "[[Equipment/Properties|Properties (EN)]]"'),
+        (ES / "Equipo" / "PropiedadesDeMaestria.md",
+         'related_en_section: "[[Equipment/Weapons#Mastery Properties|Mastery Properties (EN)]]"\nalignment_mode: "section"',
+         'related_en: "[[Equipment/Mastery Properties|Mastery Properties (EN)]]"'),
+        (ES / "Dotes" / "DotesDeOrigen.md",
+         'related_en_section: "[[Feats/Feat Descriptions#Origin Feats|Origin Feats (EN)]]"\nalignment_mode: "section"',
+         'related_en: "[[Feats/Origin Feats|Origin Feats (EN)]]"'),
+        (ES / "Dotes" / "DotesGenerales.md",
+         'related_en_section: "[[Feats/Feat Descriptions#General Feats|General Feats (EN)]]"\nalignment_mode: "section"',
+         'related_en: "[[Feats/General Feats|General Feats (EN)]]"'),
+        (ES / "Dotes" / "DotesDeEstiloDeCombate.md",
+         'related_en_section: "[[Feats/Feat Descriptions#Fighting Style Feats|Fighting Style Feats (EN)]]"\nalignment_mode: "section"',
+         'related_en: "[[Feats/Fighting Style Feats|Fighting Style Feats (EN)]]"'),
+        (ES / "Dotes" / "DotesDeDonEpico.md",
+         'related_en_section: "[[Feats/Feat Descriptions#Epic Boon Feats|Epic Boon Feats (EN)]]"\nalignment_mode: "section"',
+         'related_en: "[[Feats/Epic Boon Feats|Epic Boon Feats (EN)]]"'),
     ]
-    for path, a, b in pairs:
+    for path, old, new in pairs:
         if path.exists():
-            c = path.read_text(encoding="utf-8").replace(a, b)
-            path.write_text(c, encoding="utf-8")
+            texto = path.read_text(encoding="utf-8").replace(old, new)
+            path.write_text(texto, encoding="utf-8")
+
+    replace_all(ES, [
+        ("[[Equipment/Weapons#Properties", "[[Equipment/Properties"),
+        ("[[Equipment/Weapons#Mastery Properties", "[[Equipment/Mastery Properties"),
+        ("[[Feats/Feat Descriptions#Origin Feats", "[[Feats/Origin Feats"),
+        ("[[Feats/Feat Descriptions#General Feats", "[[Feats/General Feats"),
+        ("[[Feats/Feat Descriptions#Fighting Style Feats", "[[Feats/Fighting Style Feats"),
+        ("[[Feats/Feat Descriptions#Epic Boon Feats", "[[Feats/Epic Boon Feats"),
+    ])
 
 
 def main() -> int:
