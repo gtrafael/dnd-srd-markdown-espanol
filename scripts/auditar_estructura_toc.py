@@ -27,6 +27,7 @@ MAPA_CARPETAS = {
     "Dotes": "Dotes",
     "Equipo": "Equipo",
     "Conjuros": "Conjuros",
+    "Glosario de reglas": "GlosarioDeReglas",
     "Herramientas del juego": "HerramientasDelJuego",
     "Objetos mágicos": "ObjetosMagicos",
     "Monstruos": "Monstruos",
