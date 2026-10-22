@@ -188,10 +188,12 @@ def main() -> int:
         encoding="utf-8",
     )
 
+    total_candidatos = 0
     for lang in ("es", "en"):
         print(lang, json.dumps(out[lang]["resumen"], ensure_ascii=False))
         print("candidatos", len(out[lang]["archivos"]))
-    return 0
+        total_candidatos += len(out[lang]["archivos"])
+    return 1 if total_candidatos else 0
 
 
 if __name__ == "__main__":
