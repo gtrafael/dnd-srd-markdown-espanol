@@ -1,6 +1,7 @@
 ---
 aliases: ["Bastón de enjambre de insectos"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Staff of Swarming Insects]]"
 ---
 
 # Bastón de enjambre de insectos

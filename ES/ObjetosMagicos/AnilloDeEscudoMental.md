@@ -1,6 +1,7 @@
 ---
 aliases: ["Anillo de escudo mental"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Ring of Mind Shielding]]"
 ---
 
 # Anillo de escudo mental
