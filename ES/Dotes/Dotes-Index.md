@@ -8,4 +8,4 @@
 - [[Dotes/DotesDeEstiloDeCombate|DotesDeEstiloDeCombate]]
 - [[Dotes/DotesDeOrigen|DotesDeOrigen]]
 - [[Dotes/DotesGenerales|DotesGenerales]]
-- [[Dotes/PartesDeUnaDote|PartesDeUnaDote]]
+- [[Dotes/DescripcionesDeDotes|Descripciones de dotes]]
