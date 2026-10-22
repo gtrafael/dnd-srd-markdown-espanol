@@ -9,12 +9,20 @@ tags: [srd, espanol, tag_glosariodereglas, sin-equivalente]
 
 En tu turno, puedes llevar a cabo una acción. Elige qué acción quieres realizar entre las que aparecen a continuación o entre las acciones especiales que te otorgan tus rasgos. Consulta también el capítulo “Cómo jugar” (“Acciones”). Estas acciones se definen en otras partes del glosario:
 
-| Atacar      | Esconderse | Preparar una |
-|-------------|------------|--------------|
-| Ayudar      | Esquivar   | acción       |
-| Buscar      | Estudiar   | Utilizar     |
-| Correr      | Influir    |              |
-| Destrabarse | Magia      |              |
+| Acción |
+|---|
+| Atacar |
+| Ayudar |
+| Buscar |
+| Correr |
+| Destrabarse |
+| Esconderse |
+| Esquivar |
+| Estudiar |
+| Influir |
+| Magia |
+| Preparar una acción |
+| Utilizar |
 
 # Acción adicional
 
