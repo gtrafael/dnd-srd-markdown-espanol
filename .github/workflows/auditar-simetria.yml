@@ -1,0 +1,38 @@
+name: Auditar simetría ES-EN
+
+on:
+  push:
+    branches: [custom/main]
+    paths:
+      - "ES/**"
+      - "EN/**"
+      - "scripts/auditar_simetria_es_en.py"
+      - ".github/workflows/auditar-simetria.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: auditar-simetria-custom-main
+  cancel-in-progress: true
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: custom/main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Comprobar ES hacia EN
+        run: python scripts/auditar_simetria_es_en.py
+      - name: Publicar informe
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: auditoria-simetria-es-en
+          path: auditoria-simetria.json
+          if-no-files-found: error
