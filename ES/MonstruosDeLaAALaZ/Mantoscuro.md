@@ -1,7 +1,7 @@
 ---
 aliases: ["Mantoscuro", "Darkmantle"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Darkmantle|Darkmantle (EN)]]"
+related_en: "[[Monsters A-Z/Darkmantle|Darkmantle (EN)]]"
 ---
 
 # Mantoscuro

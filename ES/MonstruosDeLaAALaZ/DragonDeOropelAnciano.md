@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón de oropel anciano", "Ancient Brass Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ancient Brass Dragon|Ancient Brass Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Ancient Brass Dragon|Ancient Brass Dragon (EN)]]"
 ---
 
 # Dragón de oropel anciano

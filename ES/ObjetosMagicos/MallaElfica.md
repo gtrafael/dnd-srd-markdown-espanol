@@ -1,7 +1,7 @@
 ---
 aliases: ["Malla élfica", "Elven Chain"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Elven Chain|Elven Chain (EN)]]"
+related_en: "[[Magic Items/Elven Chain|Elven Chain (EN)]]"
 ---
 
 # Malla élfica

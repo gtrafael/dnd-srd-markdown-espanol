@@ -1,7 +1,7 @@
 ---
 aliases: ["Caballero", "Knight"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Knight|Knight (EN)]]"
+related_en: "[[Monsters A-Z/Knight|Knight (EN)]]"
 ---
 
 # Caballero

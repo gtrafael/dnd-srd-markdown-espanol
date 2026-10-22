@@ -1,7 +1,7 @@
 ---
 aliases: ["Gema del resplandor", "Gem of Brightness"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Gem of Brightness|Gem of Brightness (EN)]]"
+related_en: "[[Magic Items/Gem of Brightness|Gem of Brightness (EN)]]"
 ---
 
 # Gema del resplandor

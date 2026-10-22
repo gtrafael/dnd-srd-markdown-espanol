@@ -1,7 +1,7 @@
 ---
 aliases: ["Sabueso infernal", "Hell Hound"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Hell Hound|Hell Hound (EN)]]"
+related_en: "[[Monsters A-Z/Hell Hound|Hell Hound (EN)]]"
 ---
 
 # Sabueso infernal

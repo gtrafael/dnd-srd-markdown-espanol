@@ -1,7 +1,7 @@
 ---
 aliases: ["Vampiro", "Vampire"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Vampire|Vampire (EN)]]"
+related_en: "[[Monsters A-Z/Vampire|Vampire (EN)]]"
 ---
 
 # Vampiro

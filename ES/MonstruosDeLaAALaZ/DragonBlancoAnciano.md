@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón blanco anciano", "Ancient White Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ancient White Dragon|Ancient White Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Ancient White Dragon|Ancient White Dragon (EN)]]"
 ---
 
 # Dragón blanco anciano

@@ -1,7 +1,7 @@
 ---
 aliases: ["Guerrero osgo", "Bugbear Warrior"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Bugbear Warrior|Bugbear Warrior (EN)]]"
+related_en: "[[Monsters A-Z/Bugbear Warrior|Bugbear Warrior (EN)]]"
 ---
 
 # Guerrero osgo

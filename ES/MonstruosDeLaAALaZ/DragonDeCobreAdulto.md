@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón de cobre adulto", "Adult Copper Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Adult Copper Dragon|Adult Copper Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Adult Copper Dragon|Adult Copper Dragon (EN)]]"
 ---
 
 # Dragón de cobre adulto

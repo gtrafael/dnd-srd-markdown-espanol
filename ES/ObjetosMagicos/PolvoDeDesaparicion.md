@@ -1,7 +1,7 @@
 ---
 aliases: ["Polvo de desaparición", "Dust of Disappearance"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Dust of Disappearance|Dust of Disappearance (EN)]]"
+related_en: "[[Magic Items/Dust of Disappearance|Dust of Disappearance (EN)]]"
 ---
 
 # Polvo de desaparición

@@ -1,7 +1,7 @@
 ---
 aliases: ["Fabricar objetos mágicos"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Crafting Magic Items|Crafting Magic Items (EN)]]"
+related_en: "[[Magic Items/Crafting Magic Items|Crafting Magic Items (EN)]]"
 ---
 
 # Fabricar objetos mágicos

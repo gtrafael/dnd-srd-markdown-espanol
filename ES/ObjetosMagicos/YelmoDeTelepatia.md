@@ -1,7 +1,7 @@
 ---
 aliases: ["Yelmo de telepatía", "Helm of Telepathy"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Helm of Telepathy|Helm of Telepathy (EN)]]"
+related_en: "[[Magic Items/Helm of Telepathy|Helm of Telepathy (EN)]]"
 ---
 
 # Yelmo de telepatía

@@ -1,7 +1,7 @@
 ---
 aliases: ["Sombrero de disfraz", "Hat of Disguise"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Hat of Disguise|Hat of Disguise (EN)]]"
+related_en: "[[Magic Items/Hat of Disguise|Hat of Disguise (EN)]]"
 ---
 
 # Sombrero de disfraz

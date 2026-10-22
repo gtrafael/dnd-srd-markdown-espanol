@@ -1,7 +1,7 @@
 ---
 aliases: ["Talismán de cerrar heridas", "Periapt of Wound Closure"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Periapt of Wound Closure|Periapt of Wound Closure (EN)]]"
+related_en: "[[Magic Items/Periapt of Wound Closure|Periapt of Wound Closure (EN)]]"
 ---
 
 # Talismán de cerrar heridas

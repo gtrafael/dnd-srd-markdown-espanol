@@ -1,7 +1,7 @@
 ---
 aliases: ["Carillón de apertura", "Chime of Opening"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Chime of Opening|Chime of Opening (EN)]]"
+related_en: "[[Magic Items/Chime of Opening|Chime of Opening (EN)]]"
 ---
 
 # Carillón de apertura

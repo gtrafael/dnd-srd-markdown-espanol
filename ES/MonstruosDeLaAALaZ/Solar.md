@@ -1,7 +1,7 @@
 ---
 aliases: ["Solar"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Solar|Solar (EN)]]"
+related_en: "[[Monsters A-Z/Solar|Solar (EN)]]"
 ---
 
 # Solar

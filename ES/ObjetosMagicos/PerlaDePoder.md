@@ -1,7 +1,7 @@
 ---
 aliases: ["Perla de poder", "Pearl of Power"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Pearl of Power|Pearl of Power (EN)]]"
+related_en: "[[Magic Items/Pearl of Power|Pearl of Power (EN)]]"
 ---
 
 # Perla de poder

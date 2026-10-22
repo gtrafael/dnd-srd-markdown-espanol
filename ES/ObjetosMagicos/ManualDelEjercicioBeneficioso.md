@@ -1,7 +1,7 @@
 ---
 aliases: ["Manual del ejercicio beneficioso", "Manual of Gainful Exercise"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Manual of Gainful Exercise|Manual of Gainful Exercise (EN)]]"
+related_en: "[[Magic Items/Manual of Gainful Exercise|Manual of Gainful Exercise (EN)]]"
 ---
 
 # Manual del ejercicio beneficioso

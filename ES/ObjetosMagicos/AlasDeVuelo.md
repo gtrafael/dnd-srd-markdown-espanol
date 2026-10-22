@@ -1,7 +1,7 @@
 ---
 aliases: ["Alas de vuelo", "Wings of Flying"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Wings of Flying|Wings of Flying (EN)]]"
+related_en: "[[Magic Items/Wings of Flying|Wings of Flying (EN)]]"
 ---
 
 # Alas de vuelo

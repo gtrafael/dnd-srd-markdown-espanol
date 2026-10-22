@@ -1,7 +1,7 @@
 ---
 aliases: ["Diablo de la sima", "Pit Fiend"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Pit Fiend|Pit Fiend (EN)]]"
+related_en: "[[Monsters A-Z/Pit Fiend|Pit Fiend (EN)]]"
 ---
 
 # Diablo de la sima

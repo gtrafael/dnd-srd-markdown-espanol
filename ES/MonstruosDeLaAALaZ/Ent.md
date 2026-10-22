@@ -1,7 +1,7 @@
 ---
 aliases: ["Ent", "Treant"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Treant|Treant (EN)]]"
+related_en: "[[Monsters A-Z/Treant|Treant (EN)]]"
 ---
 
 # Ent

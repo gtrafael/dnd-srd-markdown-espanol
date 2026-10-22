@@ -1,7 +1,7 @@
 ---
 aliases: ["Varita del terror"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Wand of Fear|Wand of Fear (EN)]]"
+related_en: "[[Magic Items/Wand of Fear|Wand of Fear (EN)]]"
 ---
 
 # Varita del terror

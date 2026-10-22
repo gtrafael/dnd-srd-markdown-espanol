@@ -1,7 +1,7 @@
 ---
 aliases: ["Trampas", "Traps"]
 tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gamemastering/Traps|Traps (EN)]]"
+related_en: "[[Gameplay Toolbox/Traps|Traps (EN)]]"
 ---
 
 # Trampas

@@ -1,7 +1,7 @@
 ---
 aliases: ["Espada solar", "Sun Blade"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Sun Blade|Sun Blade (EN)]]"
+related_en: "[[Magic Items/Sun Blade|Sun Blade (EN)]]"
 ---
 
 # Espada solar

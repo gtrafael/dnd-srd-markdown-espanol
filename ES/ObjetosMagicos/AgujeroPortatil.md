@@ -1,7 +1,7 @@
 ---
 aliases: ["Agujero portátil", "Portable Hole"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Portable Hole|Portable Hole (EN)]]"
+related_en: "[[Magic Items/Portable Hole|Portable Hole (EN)]]"
 ---
 
 # Agujero portátil

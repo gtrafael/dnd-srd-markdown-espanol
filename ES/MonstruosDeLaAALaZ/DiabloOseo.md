@@ -1,7 +1,7 @@
 ---
 aliases: ["Diablo óseo", "Bone Devil"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Bone Devil|Bone Devil (EN)]]"
+related_en: "[[Monsters A-Z/Bone Devil|Bone Devil (EN)]]"
 ---
 
 # Diablo óseo

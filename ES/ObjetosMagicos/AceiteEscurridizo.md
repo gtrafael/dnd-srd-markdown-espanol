@@ -1,7 +1,7 @@
 ---
 aliases: ["Aceite escurridizo", "Oil of Slipperiness"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Oil of Slipperiness|Oil of Slipperiness (EN)]]"
+related_en: "[[Magic Items/Oil of Slipperiness|Oil of Slipperiness (EN)]]"
 ---
 
 # Aceite escurridizo

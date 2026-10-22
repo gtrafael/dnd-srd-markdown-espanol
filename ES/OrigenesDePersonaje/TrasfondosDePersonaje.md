@@ -1,7 +1,7 @@
 ---
 aliases: ["Trasfondos", "Backgrounds"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Characterizations/Backgrounds|Backgrounds (EN)]]"
+related_en: "[[Character Origins/Character Backgrounds|Backgrounds (EN)]]"
 ---
 
 # Trasfondos de personaje

@@ -1,7 +1,7 @@
 ---
 aliases: ["Enano", "Dwarf"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Species/Dwarf|Dwarf (EN)]]"
+related_en: "[[Character Origins/Dwarf|Dwarf (EN)]]"
 ---
 
 # Enano

@@ -1,7 +1,7 @@
 ---
 aliases: ["Enjambre de garras reptantes", "Swarm of Crawling Claws"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Swarm of Crawling Claws|Swarm of Crawling Claws (EN)]]"
+related_en: "[[Monsters A-Z/Swarm of Crawling Claws|Swarm of Crawling Claws (EN)]]"
 ---
 
 # Enjambre de garras reptantes

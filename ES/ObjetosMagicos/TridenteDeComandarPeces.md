@@ -1,7 +1,7 @@
 ---
 aliases: ["Tridente de comandar peces", "Trident of Fish Command"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Trident of Fish Command|Trident of Fish Command (EN)]]"
+related_en: "[[Magic Items/Trident of Fish Command|Trident of Fish Command (EN)]]"
 ---
 
 # Tridente de comandar peces

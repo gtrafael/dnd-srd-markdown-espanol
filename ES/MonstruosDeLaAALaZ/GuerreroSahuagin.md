@@ -1,7 +1,7 @@
 ---
 aliases: ["Guerrero Sahuagin", "Sahuagin Warrior"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Sahuagin Warrior|Sahuagin Warrior (EN)]]"
+related_en: "[[Monsters A-Z/Sahuagin Warrior|Sahuagin Warrior (EN)]]"
 ---
 
 # Guerrero Sahuagin

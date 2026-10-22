@@ -1,7 +1,7 @@
 ---
 aliases: ["Humano", "Human"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Species/Human|Human (EN)]]"
+related_en: "[[Character Origins/Human|Human (EN)]]"
 ---
 
 # Humano

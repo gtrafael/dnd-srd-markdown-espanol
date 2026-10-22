@@ -1,7 +1,7 @@
 ---
 aliases: ["CrearUnTrasfondo", "Creating a Background"]
 tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gamemastering/Creating a Background|Creating a Background (EN)]]"
+related_en: "[[Gameplay Toolbox/Creating a Background|Creating a Background (EN)]]"
 ---
 
 # Crear un trasfondo

@@ -1,7 +1,7 @@
 ---
 aliases: ["Espía", "Spy"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Spy|Spy (EN)]]"
+related_en: "[[Monsters A-Z/Spy|Spy (EN)]]"
 ---
 
 # Espía

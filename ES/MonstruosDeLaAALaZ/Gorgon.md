@@ -1,7 +1,7 @@
 ---
 aliases: ["Gorgon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Gorgon|Gorgon (EN)]]"
+related_en: "[[Monsters A-Z/Gorgon|Gorgon (EN)]]"
 ---
 
 # Gorgon

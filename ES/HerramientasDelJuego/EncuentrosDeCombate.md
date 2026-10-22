@@ -1,7 +1,7 @@
 ---
 aliases: ["EncuentrosDeCombate", "Combat Encounters"]
 tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gamemastering/Combat Encounters|Combat Encounters (EN)]]"
+related_en: "[[Gameplay Toolbox/Combat Encounters|Combat Encounters (EN)]]"
 ---
 
 # Encuentros de combate

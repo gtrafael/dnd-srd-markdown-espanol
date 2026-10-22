@@ -1,7 +1,7 @@
 ---
 aliases: ["Broche escudo", "Brooch of Shielding"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Brooch of Shielding|Brooch of Shielding (EN)]]"
+related_en: "[[Magic Items/Brooch of Shielding|Brooch of Shielding (EN)]]"
 ---
 
 # Broche escudo

@@ -1,7 +1,7 @@
 ---
 aliases: ["Siervo de vampiro", "Vampire Familiar"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Vampire Familiar|Vampire Familiar (EN)]]"
+related_en: "[[Monsters A-Z/Vampire Familiar|Vampire Familiar (EN)]]"
 ---
 
 # Siervo de vampiro

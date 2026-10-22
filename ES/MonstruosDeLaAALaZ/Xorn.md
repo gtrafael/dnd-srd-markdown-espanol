@@ -1,7 +1,7 @@
 ---
 aliases: ["Xorn"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Xorn|Xorn (EN)]]"
+related_en: "[[Monsters A-Z/Xorn|Xorn (EN)]]"
 ---
 
 # Xorn

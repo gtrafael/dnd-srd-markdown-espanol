@@ -1,7 +1,7 @@
 ---
 aliases: ["Defensora", "Defender"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Defender|Defender (EN)]]"
+related_en: "[[Magic Items/Defender|Defender (EN)]]"
 ---
 
 # Defensora

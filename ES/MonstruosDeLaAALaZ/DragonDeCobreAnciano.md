@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón de cobre anciano", "Ancient Copper Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ancient Copper Dragon|Ancient Copper Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Ancient Copper Dragon|Ancient Copper Dragon (EN)]]"
 ---
 
 # Dragón de cobre anciano

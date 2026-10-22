@@ -1,7 +1,7 @@
 ---
 aliases: ["Armadura de placas de etereidad", "Plate Armor of Etherealness"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Plate Armor of Etherealness|Plate Armor of Etherealness (EN)]]"
+related_en: "[[Magic Items/Plate Armor of Etherealness|Plate Armor of Etherealness (EN)]]"
 ---
 
 # Armadura de placas de etereidad

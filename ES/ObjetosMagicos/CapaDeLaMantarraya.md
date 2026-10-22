@@ -1,7 +1,7 @@
 ---
 aliases: ["Capa de la mantarraya", "Cloak of the Manta Ray"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Cloak of the Manta Ray|Cloak of the Manta Ray (EN)]]"
+related_en: "[[Magic Items/Cloak of the Manta Ray|Cloak of the Manta Ray (EN)]]"
 ---
 
 # Capa de la mantarraya

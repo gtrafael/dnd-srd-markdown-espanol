@@ -1,7 +1,7 @@
 ---
 aliases: ["Flauta de las cloacas", "Pipes of the Sewers"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Pipes of the Sewers|Pipes of the Sewers (EN)]]"
+related_en: "[[Magic Items/Pipes of the Sewers|Pipes of the Sewers (EN)]]"
 ---
 
 # Flauta de las cloacas

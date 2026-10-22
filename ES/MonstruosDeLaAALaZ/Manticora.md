@@ -1,7 +1,7 @@
 ---
 aliases: ["Mantícora", "Manticore"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Manticore|Manticore (EN)]]"
+related_en: "[[Monsters A-Z/Manticore|Manticore (EN)]]"
 ---
 
 # Mantícora

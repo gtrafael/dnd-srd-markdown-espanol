@@ -1,6 +1,11 @@
 # Spells
 
-> Index of **Spells**
+## Chapter Structure
+
+- [[Gaining Spells]]
+- [[Casting Spells]]
+
+## Spell Catalog
 
 - [[Acid Arrow]]
 - [[Acid Splash]]

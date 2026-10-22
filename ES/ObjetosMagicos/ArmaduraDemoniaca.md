@@ -1,7 +1,7 @@
 ---
 aliases: ["Armadura demoníaca", "Demon Armor"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Demon Armor|Demon Armor (EN)]]"
+related_en: "[[Magic Items/Demon Armor|Demon Armor (EN)]]"
 ---
 
 # Armadura demoníaca

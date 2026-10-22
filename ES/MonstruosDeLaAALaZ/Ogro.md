@@ -1,7 +1,7 @@
 ---
 aliases: ["Ogro", "Ogre"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ogre|Ogre (EN)]]"
+related_en: "[[Monsters A-Z/Ogre|Ogre (EN)]]"
 ---
 
 # Ogro

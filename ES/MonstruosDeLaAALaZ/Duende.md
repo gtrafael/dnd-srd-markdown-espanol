@@ -1,7 +1,7 @@
 ---
 aliases: ["Duende", "Sprite"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Sprite|Sprite (EN)]]"
+related_en: "[[Monsters A-Z/Sprite|Sprite (EN)]]"
 ---
 
 # Duende

@@ -1,7 +1,7 @@
 ---
 aliases: ["Elfo", "Elf"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Species/Elf|Elf (EN)]]"
+related_en: "[[Character Origins/Elf|Elf (EN)]]"
 ---
 
 # Elfo

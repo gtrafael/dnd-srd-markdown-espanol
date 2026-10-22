@@ -1,7 +1,7 @@
 ---
 aliases: ["Manto", "Cloaker"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Cloaker|Cloaker (EN)]]"
+related_en: "[[Monsters A-Z/Cloaker|Cloaker (EN)]]"
 ---
 
 # Manto

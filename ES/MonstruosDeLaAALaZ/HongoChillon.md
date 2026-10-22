@@ -1,7 +1,7 @@
 ---
 aliases: ["Hongo chillón", "Shrieker Fungus"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Shrieker Fungus|Shrieker Fungus (EN)]]"
+related_en: "[[Monsters A-Z/Shrieker Fungus|Shrieker Fungus (EN)]]"
 ---
 
 # Hongo chillón

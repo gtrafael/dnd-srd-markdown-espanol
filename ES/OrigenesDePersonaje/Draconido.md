@@ -1,7 +1,7 @@
 ---
 aliases: ["Dracónido", "Dragonborn"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Species/Dragonborn|Dragonborn (EN)]]"
+related_en: "[[Character Origins/Dragonborn|Dragonborn (EN)]]"
 ---
 
 # Dracónido

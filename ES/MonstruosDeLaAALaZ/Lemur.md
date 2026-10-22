@@ -1,7 +1,7 @@
 ---
 aliases: ["Lémur", "Lemure"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Lemure|Lemure (EN)]]"
+related_en: "[[Monsters A-Z/Lemure|Lemure (EN)]]"
 ---
 
 # Lémur

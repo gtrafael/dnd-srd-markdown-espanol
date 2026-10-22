@@ -1,7 +1,7 @@
 ---
 aliases: ["Morral práctico", "Handy Haversack"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Handy Haversack|Handy Haversack (EN)]]"
+related_en: "[[Magic Items/Handy Haversack|Handy Haversack (EN)]]"
 ---
 
 # Morral práctico

@@ -1,7 +1,7 @@
 ---
 aliases: ["Sombrero de múltiples conjuros", "Hat of Many Spells"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Hat of Many Spells|Hat of Many Spells (EN)]]"
+related_en: "[[Magic Items/Hat of Many Spells|Hat of Many Spells (EN)]]"
 ---
 
 # Sombrero de múltiples conjuros

@@ -1,7 +1,7 @@
 ---
 aliases: ["Arbusto despertado", "Awakened Shrub"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Awakened Shrub|Awakened Shrub (EN)]]"
+related_en: "[[Monsters A-Z/Awakened Shrub|Awakened Shrub (EN)]]"
 ---
 
 # Arbusto despertado

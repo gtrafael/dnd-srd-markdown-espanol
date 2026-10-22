@@ -1,7 +1,7 @@
 ---
 aliases: ["Goliat", "Goliath"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Species/Goliath|Goliath (EN)]]"
+related_en: "[[Character Origins/Goliath|Goliath (EN)]]"
 ---
 
 # Goliat

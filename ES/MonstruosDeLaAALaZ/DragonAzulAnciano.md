@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón azul anciano", "Ancient Blue Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ancient Blue Dragon|Ancient Blue Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Ancient Blue Dragon|Ancient Blue Dragon (EN)]]"
 ---
 
 # Dragón azul anciano

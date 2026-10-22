@@ -1,7 +1,7 @@
 ---
 aliases: ["Piedras mensajeras", "Sending Stones"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Sending Stones|Sending Stones (EN)]]"
+related_en: "[[Magic Items/Sending Stones|Sending Stones (EN)]]"
 ---
 
 # Piedras mensajeras

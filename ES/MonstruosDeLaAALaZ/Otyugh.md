@@ -1,7 +1,7 @@
 ---
 aliases: ["Otyugh"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Otyugh|Otyugh (EN)]]"
+related_en: "[[Monsters A-Z/Otyugh|Otyugh (EN)]]"
 ---
 
 # Otyugh

@@ -1,6 +1,6 @@
 ---
-aliases: ["Species", "Character Species"]
-tags: [srd, english, tag_species]
+aliases: ["Character Species", "Species"]
+tags: [srd, english, tag_character_origins]
 related_es: "[[OrigenesDePersonaje/EspeciesDePersonaje|Especies de personaje (Español)]]"
 ---
 

@@ -1,7 +1,7 @@
 ---
 aliases: ["Amuleto de salud", "Amulet of Health"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Amulet of Health|Amulet of Health (EN)]]"
+related_en: "[[Magic Items/Amulet of Health|Amulet of Health (EN)]]"
 ---
 
 # Amuleto de salud

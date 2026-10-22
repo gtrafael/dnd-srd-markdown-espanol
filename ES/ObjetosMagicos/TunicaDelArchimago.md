@@ -1,7 +1,7 @@
 ---
 aliases: ["Túnica del archimago", "Robe of the Archmagi"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Robe of the Archmagi|Robe of the Archmagi (EN)]]"
+related_en: "[[Magic Items/Robe of the Archmagi|Robe of the Archmagi (EN)]]"
 ---
 
 # Túnica del archimago

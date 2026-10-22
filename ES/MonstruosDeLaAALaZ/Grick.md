@@ -1,7 +1,7 @@
 ---
 aliases: ["Grick"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Grick|Grick (EN)]]"
+related_en: "[[Monsters A-Z/Grick|Grick (EN)]]"
 ---
 
 # Grick

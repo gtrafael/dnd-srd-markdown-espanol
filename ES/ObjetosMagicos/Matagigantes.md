@@ -1,7 +1,7 @@
 ---
 aliases: ["Matagigantes", "Giant Slayer"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Giant Slayer|Giant Slayer (EN)]]"
+related_en: "[[Magic Items/Giant Slayer|Giant Slayer (EN)]]"
 ---
 
 # Matagigantes

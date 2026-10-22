@@ -1,7 +1,7 @@
 ---
 aliases: ["Mephit de magma", "Magma Mephit"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Magma Mephit|Magma Mephit (EN)]]"
+related_en: "[[Monsters A-Z/Magma Mephit|Magma Mephit (EN)]]"
 ---
 
 # Mephit de magma

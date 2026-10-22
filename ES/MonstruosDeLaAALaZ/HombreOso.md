@@ -1,7 +1,7 @@
 ---
 aliases: ["Hombre oso", "Werebear"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Werebear|Werebear (EN)]]"
+related_en: "[[Monsters A-Z/Werebear|Werebear (EN)]]"
 ---
 
 # Hombre oso

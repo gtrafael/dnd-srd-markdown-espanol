@@ -1,7 +1,7 @@
 ---
 aliases: ["Orden de marcha", "Marching Order"]
 tags: [srd, espanol, tag_comojugar, recuadro]
-related_en: "[[Gameplay/Marching Order|Marching Order (EN)]]"
+related_en: "[[Playing the Game/Marching Order|Marching Order (EN)]]"
 ---
 # Orden de marcha
 

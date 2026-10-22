@@ -1,7 +1,7 @@
 ---
 aliases: ["Momia", "Mummy"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Mummy|Mummy (EN)]]"
+related_en: "[[Monsters A-Z/Mummy|Mummy (EN)]]"
 ---
 
 # Momia

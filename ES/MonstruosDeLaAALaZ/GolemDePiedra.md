@@ -1,7 +1,7 @@
 ---
 aliases: ["Gólem de piedra", "Stone Golem"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Stone Golem|Stone Golem (EN)]]"
+related_en: "[[Monsters A-Z/Stone Golem|Stone Golem (EN)]]"
 ---
 
 # Gólem de piedra

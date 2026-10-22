@@ -1,7 +1,7 @@
 ---
 aliases: ["Herraduras del céfiro", "Horseshoes of a Zephyr"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Horseshoes of a Zephyr|Horseshoes of a Zephyr (EN)]]"
+related_en: "[[Magic Items/Horseshoes of a Zephyr|Horseshoes of a Zephyr (EN)]]"
 ---
 
 # Herraduras del céfiro

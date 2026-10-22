@@ -1,7 +1,7 @@
 ---
 aliases: ["Naga espiritual", "Spirit Naga"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Spirit Naga|Spirit Naga (EN)]]"
+related_en: "[[Monsters A-Z/Spirit Naga|Spirit Naga (EN)]]"
 ---
 
 # Naga espiritual

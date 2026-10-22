@@ -1,7 +1,7 @@
 ---
 aliases: ["Gul", "Ghoul"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ghoul|Ghoul (EN)]]"
+related_en: "[[Monsters A-Z/Ghoul|Ghoul (EN)]]"
 ---
 
 # Gul

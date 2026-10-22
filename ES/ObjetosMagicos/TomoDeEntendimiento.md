@@ -1,7 +1,7 @@
 ---
 aliases: ["Tomo de entendimiento", "Tome of Understanding"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Tome of Understanding|Tome of Understanding (EN)]]"
+related_en: "[[Magic Items/Tome of Understanding|Tome of Understanding (EN)]]"
 ---
 
 # Tomo de entendimiento

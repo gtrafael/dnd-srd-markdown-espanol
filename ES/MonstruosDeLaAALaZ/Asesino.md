@@ -1,7 +1,7 @@
 ---
 aliases: ["Asesino", "Assassin"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Assassin|Assassin (EN)]]"
+related_en: "[[Monsters A-Z/Assassin|Assassin (EN)]]"
 ---
 
 # Asesino

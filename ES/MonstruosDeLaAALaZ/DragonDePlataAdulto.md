@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón de plata adulto", "Adult Silver Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Adult Silver Dragon|Adult Silver Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Adult Silver Dragon|Adult Silver Dragon (EN)]]"
 ---
 
 # Dragón de plata adulto

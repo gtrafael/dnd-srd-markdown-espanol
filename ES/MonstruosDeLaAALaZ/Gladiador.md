@@ -1,7 +1,7 @@
 ---
 aliases: ["Gladiador", "Gladiator"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Gladiator|Gladiator (EN)]]"
+related_en: "[[Monsters A-Z/Gladiator|Gladiator (EN)]]"
 ---
 
 # Gladiador

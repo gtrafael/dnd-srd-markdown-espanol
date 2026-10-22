@@ -1,7 +1,7 @@
 ---
 aliases: ["Bulette"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Bulette|Bulette (EN)]]"
+related_en: "[[Monsters A-Z/Bulette|Bulette (EN)]]"
 ---
 
 # Bulette

@@ -1,7 +1,7 @@
 ---
 aliases: ["Jabalina del relámpago", "Javelin of Lightning"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Javelin of Lightning|Javelin of Lightning (EN)]]"
+related_en: "[[Magic Items/Javelin of Lightning|Javelin of Lightning (EN)]]"
 ---
 
 # Jabalina del relámpago

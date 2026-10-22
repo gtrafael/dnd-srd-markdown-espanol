@@ -1,7 +1,7 @@
 ---
 aliases: ["Tarasca", "Tarrasque"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Tarrasque|Tarrasque (EN)]]"
+related_en: "[[Monsters A-Z/Tarrasque|Tarrasque (EN)]]"
 ---
 
 # Tarasca

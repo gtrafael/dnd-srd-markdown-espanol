@@ -1,7 +1,7 @@
 ---
 aliases: ["Grimlock"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Grimlock|Grimlock (EN)]]"
+related_en: "[[Monsters A-Z/Grimlock|Grimlock (EN)]]"
 ---
 
 # Grimlock

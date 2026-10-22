@@ -1,7 +1,7 @@
 ---
 aliases: ["Bolsa de trucos", "Bag of Tricks"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Bag of Tricks|Bag of Tricks (EN)]]"
+related_en: "[[Magic Items/Bag of Tricks|Bag of Tricks (EN)]]"
 ---
 
 # Bolsa de trucos

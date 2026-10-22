@@ -1,7 +1,7 @@
 ---
 aliases: ["Varita de parálisis"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Wand of Paralysis|Wand of Paralysis (EN)]]"
+related_en: "[[Magic Items/Wand of Paralysis|Wand of Paralysis (EN)]]"
 ---
 
 # Varita de parálisis

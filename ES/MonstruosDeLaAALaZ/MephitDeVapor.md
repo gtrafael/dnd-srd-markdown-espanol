@@ -1,7 +1,7 @@
 ---
 aliases: ["Mephit de vapor", "Steam Mephit"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Steam Mephit|Steam Mephit (EN)]]"
+related_en: "[[Monsters A-Z/Steam Mephit|Steam Mephit (EN)]]"
 ---
 
 # Mephit de vapor

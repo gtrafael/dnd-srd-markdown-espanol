@@ -1,7 +1,7 @@
 ---
 aliases: ["Pigmentos maravillosos", "Marvelous Pigments"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Marvelous Pigments|Marvelous Pigments (EN)]]"
+related_en: "[[Magic Items/Marvelous Pigments|Marvelous Pigments (EN)]]"
 ---
 
 # Pigmentos maravillosos

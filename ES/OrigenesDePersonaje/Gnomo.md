@@ -1,7 +1,7 @@
 ---
 aliases: ["Gnomo", "Gnome"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Species/Gnome|Gnome (EN)]]"
+related_en: "[[Character Origins/Gnome|Gnome (EN)]]"
 ---
 
 # Gnomo

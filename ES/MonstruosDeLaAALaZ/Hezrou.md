@@ -1,7 +1,7 @@
 ---
 aliases: ["Hezrou"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Hezrou|Hezrou (EN)]]"
+related_en: "[[Monsters A-Z/Hezrou|Hezrou (EN)]]"
 ---
 
 # Hezrou

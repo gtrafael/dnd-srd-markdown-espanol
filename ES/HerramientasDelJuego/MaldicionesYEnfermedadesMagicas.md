@@ -1,7 +1,7 @@
 ---
 aliases: ["Maldiciones", "Curses", "Curses and Magical Contagions"]
 tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gamemastering/Curses|Curses (EN)]]"
+related_en: "[[Gameplay Toolbox/Curses and Magical Contagions|Curses (EN)]]"
 ---
 
 # Maldiciones y enfermedades mágicas

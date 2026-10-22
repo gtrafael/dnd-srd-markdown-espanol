@@ -1,7 +1,7 @@
 ---
 aliases: ["Amuleto de los planos", "Amulet of the Planes"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Amulet of the Planes|Amulet of the Planes (EN)]]"
+related_en: "[[Magic Items/Amulet of the Planes|Amulet of the Planes (EN)]]"
 ---
 
 # Amuleto de los planos

@@ -1,7 +1,7 @@
 ---
 aliases: ["Saga cetrina", "Green Hag"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Green Hag|Green Hag (EN)]]"
+related_en: "[[Monsters A-Z/Green Hag|Green Hag (EN)]]"
 ---
 
 # Saga cetrina

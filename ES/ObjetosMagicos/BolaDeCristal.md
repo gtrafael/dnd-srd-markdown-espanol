@@ -1,7 +1,7 @@
 ---
 aliases: ["Bola de cristal", "Crystal Ball"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Crystal Ball|Crystal Ball (EN)]]"
+related_en: "[[Magic Items/Crystal Ball|Crystal Ball (EN)]]"
 ---
 
 # Bola de cristal

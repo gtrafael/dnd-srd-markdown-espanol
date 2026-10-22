@@ -1,7 +1,7 @@
 ---
 aliases: ["Perro del inframundo", "Death Dog"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Death Dog|Death Dog (EN)]]"
+related_en: "[[Monsters A-Z/Death Dog|Death Dog (EN)]]"
 ---
 
 # Perro del inframundo

@@ -1,7 +1,7 @@
 ---
 aliases: ["Viaje", "Travel", "Travel Pace"]
 tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gamemastering/Travel|Travel (EN)]]"
+related_en: "[[Gameplay Toolbox/Travel Pace|Travel (EN)]]"
 ---
 
 # Ritmo de viaje

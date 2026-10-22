@@ -1,7 +1,7 @@
 ---
 aliases: ["Elemental de aire", "Air Elemental"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Air Elemental|Air Elemental (EN)]]"
+related_en: "[[Monsters A-Z/Air Elemental|Air Elemental (EN)]]"
 ---
 
 # Elemental de aire

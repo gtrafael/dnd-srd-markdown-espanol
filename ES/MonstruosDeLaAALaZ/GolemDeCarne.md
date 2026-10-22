@@ -1,7 +1,7 @@
 ---
 aliases: ["Gólem de carne", "Flesh Golem"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Flesh Golem|Flesh Golem (EN)]]"
+related_en: "[[Monsters A-Z/Flesh Golem|Flesh Golem (EN)]]"
 ---
 
 # Gólem de carne

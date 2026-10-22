@@ -1,7 +1,7 @@
 ---
 aliases: ["Bastón de acróbata", "Quarterstaff of the Acrobat"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Quarterstaff of the Acrobat|Quarterstaff of the Acrobat (EN)]]"
+related_en: "[[Magic Items/Quarterstaff of the Acrobat|Quarterstaff of the Acrobat (EN)]]"
 ---
 
 # Bastón de acróbata

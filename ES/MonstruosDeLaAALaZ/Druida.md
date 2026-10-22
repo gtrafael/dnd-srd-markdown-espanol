@@ -1,7 +1,7 @@
 ---
 aliases: ["Druida", "Druid"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Druid|Druid (EN)]]"
+related_en: "[[Monsters A-Z/Druid|Druid (EN)]]"
 ---
 
 # Druida

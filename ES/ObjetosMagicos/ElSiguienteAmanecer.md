@@ -1,7 +1,7 @@
 ---
 aliases: ["El siguiente amanecer"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/The Next Dawn|The Next Dawn (EN)]]"
+related_en: "[[Magic Items/The Next Dawn|The Next Dawn (EN)]]"
 ---
 
 # El siguiente amanecer

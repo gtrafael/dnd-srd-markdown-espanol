@@ -1,10 +1,10 @@
 ---
-aliases: ["Backgrounds"]
-tags: [srd, english, tag_characterizations]
-related_es: "[[OrigenesDePersonaje/TrasfondosDePersonaje|Trasfondos (Español)]]"
+aliases: ["Character Backgrounds", "Backgrounds"]
+tags: [srd, english, tag_character_origins]
+related_es: "[[OrigenesDePersonaje/TrasfondosDePersonaje|Trasfondos de personaje (Español)]]"
 ---
 
-# Backgrounds
+# Character Backgrounds
 
 Your character's background is a collection of characteristics that represent the place and occupation that were most formative before your character embarked on a life of adventure.
 

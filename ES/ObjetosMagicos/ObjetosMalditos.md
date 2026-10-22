@@ -1,7 +1,7 @@
 ---
 aliases: ["Objetos malditos"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Cursed Items|Cursed Items (EN)]]"
+related_en: "[[Magic Items/Cursed Items|Cursed Items (EN)]]"
 ---
 
 # Objetos malditos

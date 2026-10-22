@@ -1,7 +1,7 @@
 ---
 aliases: ["Abanico del viento", "Wind Fan"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Wind Fan|Wind Fan (EN)]]"
+related_en: "[[Magic Items/Wind Fan|Wind Fan (EN)]]"
 ---
 
 # Abanico del viento

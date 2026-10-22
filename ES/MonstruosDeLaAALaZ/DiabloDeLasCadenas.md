@@ -1,7 +1,7 @@
 ---
 aliases: ["Diablo de las cadenas", "Chain Devil"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Chain Devil|Chain Devil (EN)]]"
+related_en: "[[Monsters A-Z/Chain Devil|Chain Devil (EN)]]"
 ---
 
 # Diablo de las cadenas

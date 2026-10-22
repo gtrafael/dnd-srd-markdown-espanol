@@ -1,7 +1,7 @@
 ---
 aliases: ["Tomo de liderazgo e influencia", "Tome of Leadership and Influence"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Tome of Leadership and Influence|Tome of Leadership and Influence (EN)]]"
+related_en: "[[Magic Items/Tome of Leadership and Influence|Tome of Leadership and Influence (EN)]]"
 ---
 
 # Tomo de liderazgo e influencia

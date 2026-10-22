@@ -1,7 +1,7 @@
 ---
 aliases: ["Esfinge del valor", "Sphinx of Valor"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Sphinx of Valor|Sphinx of Valor (EN)]]"
+related_en: "[[Monsters A-Z/Sphinx of Valor|Sphinx of Valor (EN)]]"
 ---
 
 # Esfinge del valor

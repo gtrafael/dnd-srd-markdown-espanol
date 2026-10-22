@@ -1,7 +1,7 @@
 ---
 aliases: ["Archimago", "Archmage"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Archmage|Archmage (EN)]]"
+related_en: "[[Monsters A-Z/Archmage|Archmage (EN)]]"
 ---
 
 # Archimago

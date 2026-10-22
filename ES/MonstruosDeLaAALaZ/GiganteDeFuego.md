@@ -1,7 +1,7 @@
 ---
 aliases: ["Gigante de fuego", "Fire Giant"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Fire Giant|Fire Giant (EN)]]"
+related_en: "[[Monsters A-Z/Fire Giant|Fire Giant (EN)]]"
 ---
 
 # Gigante de fuego

@@ -1,7 +1,7 @@
 ---
 aliases: ["Jefe pendenciero", "Tough Boss"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Tough Boss|Tough Boss (EN)]]"
+related_en: "[[Monsters A-Z/Tough Boss|Tough Boss (EN)]]"
 ---
 
 # Jefe pendenciero

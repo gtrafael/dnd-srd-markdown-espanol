@@ -1,7 +1,7 @@
 ---
 aliases: ["Sátiro", "Satyr"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Satyr|Satyr (EN)]]"
+related_en: "[[Monsters A-Z/Satyr|Satyr (EN)]]"
 ---
 
 # Sátiro

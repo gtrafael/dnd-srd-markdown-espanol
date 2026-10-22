@@ -1,7 +1,7 @@
 ---
 aliases: ["Botas de velocidad", "Boots of Speed"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Boots of Speed|Boots of Speed (EN)]]"
+related_en: "[[Magic Items/Boots of Speed|Boots of Speed (EN)]]"
 ---
 
 # Botas de velocidad

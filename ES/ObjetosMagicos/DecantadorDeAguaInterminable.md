@@ -1,7 +1,7 @@
 ---
 aliases: ["Decantador de agua interminable", "Decanter of Endless Water"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Decanter of Endless Water|Decanter of Endless Water (EN)]]"
+related_en: "[[Magic Items/Decanter of Endless Water|Decanter of Endless Water (EN)]]"
 ---
 
 # Decantador de agua interminable

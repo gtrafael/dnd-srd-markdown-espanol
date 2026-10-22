@@ -1,7 +1,7 @@
 ---
 aliases: ["Pegaso", "Pegasus"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Pegasus|Pegasus (EN)]]"
+related_en: "[[Monsters A-Z/Pegasus|Pegasus (EN)]]"
 ---
 
 # Pegaso

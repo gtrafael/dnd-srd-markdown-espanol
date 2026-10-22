@@ -1,7 +1,7 @@
 ---
 aliases: ["Pudin negro", "Black Pudding"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Black Pudding|Black Pudding (EN)]]"
+related_en: "[[Monsters A-Z/Black Pudding|Black Pudding (EN)]]"
 ---
 
 # Pudin negro

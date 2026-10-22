@@ -1,7 +1,7 @@
 ---
 aliases: ["Esfinge del conocimiento", "Sphinx of Lore"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Sphinx of Lore|Sphinx of Lore (EN)]]"
+related_en: "[[Monsters A-Z/Sphinx of Lore|Sphinx of Lore (EN)]]"
 ---
 
 # Esfinge del conocimiento

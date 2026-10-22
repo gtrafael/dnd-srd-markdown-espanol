@@ -1,7 +1,7 @@
 ---
 aliases: ["Arco de energía", "Energy Bow"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Energy Bow|Energy Bow (EN)]]"
+related_en: "[[Magic Items/Energy Bow|Energy Bow (EN)]]"
 ---
 
 # Arco de energía

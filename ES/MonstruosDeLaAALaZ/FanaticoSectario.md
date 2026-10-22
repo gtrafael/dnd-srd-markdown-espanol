@@ -1,7 +1,7 @@
 ---
 aliases: ["Fanático sectario", "Cultist Fanatic"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Cultist Fanatic|Cultist Fanatic (EN)]]"
+related_en: "[[Monsters A-Z/Cultist Fanatic|Cultist Fanatic (EN)]]"
 ---
 
 # Fanático sectario

@@ -1,7 +1,7 @@
 ---
 aliases: ["Guerrero de infantería", "Warrior Infantry"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Warrior Infantry|Warrior Infantry (EN)]]"
+related_en: "[[Monsters A-Z/Warrior Infantry|Warrior Infantry (EN)]]"
 ---
 
 # Guerrero de infantería

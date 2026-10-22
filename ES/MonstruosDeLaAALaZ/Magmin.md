@@ -1,7 +1,7 @@
 ---
 aliases: ["Magmin"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Magmin|Magmin (EN)]]"
+related_en: "[[Monsters A-Z/Magmin|Magmin (EN)]]"
 ---
 
 # Magmin

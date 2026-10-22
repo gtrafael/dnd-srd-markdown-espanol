@@ -1,7 +1,7 @@
 ---
 aliases: ["Capa de invisibilidad", "Cloak of Invisibility"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Cloak of Invisibility|Cloak of Invisibility (EN)]]"
+related_en: "[[Magic Items/Cloak of Invisibility|Cloak of Invisibility (EN)]]"
 ---
 
 # Capa de invisibilidad

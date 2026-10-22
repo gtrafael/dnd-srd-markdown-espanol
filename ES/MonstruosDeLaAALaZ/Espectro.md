@@ -1,7 +1,7 @@
 ---
 aliases: ["Espectro", "Specter"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Specter|Specter (EN)]]"
+related_en: "[[Monsters A-Z/Specter|Specter (EN)]]"
 ---
 
 # Espectro

@@ -1,7 +1,7 @@
 ---
 aliases: ["Remorhaz"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Remorhaz|Remorhaz (EN)]]"
+related_en: "[[Monsters A-Z/Remorhaz|Remorhaz (EN)]]"
 ---
 
 # Remorhaz

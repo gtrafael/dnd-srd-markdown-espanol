@@ -1,7 +1,7 @@
 ---
 aliases: ["Diablo punzante", "Barbed Devil"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Barbed Devil|Barbed Devil (EN)]]"
+related_en: "[[Monsters A-Z/Barbed Devil|Barbed Devil (EN)]]"
 ---
 
 # Diablo punzante

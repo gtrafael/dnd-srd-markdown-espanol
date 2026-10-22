@@ -1,7 +1,7 @@
 ---
 aliases: ["Túnica de las estrellas", "Robe of Stars"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Robe of Stars|Robe of Stars (EN)]]"
+related_en: "[[Magic Items/Robe of Stars|Robe of Stars (EN)]]"
 ---
 
 # Túnica de las estrellas

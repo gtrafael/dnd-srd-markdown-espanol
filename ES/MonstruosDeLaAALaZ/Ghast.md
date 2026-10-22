@@ -1,7 +1,7 @@
 ---
 aliases: ["Ghast"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ghast|Ghast (EN)]]"
+related_en: "[[Monsters A-Z/Ghast|Ghast (EN)]]"
 ---
 
 # Ghast

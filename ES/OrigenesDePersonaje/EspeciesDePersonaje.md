@@ -1,7 +1,7 @@
 ---
 aliases: ["Especies de personaje", "EspeciesDePersonaje"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Species/Species|Character Species (EN)]]"
+related_en: "[[Character Origins/Character Species|Character Species (EN)]]"
 ---
 
 # Especies de personaje

@@ -1,6 +1,7 @@
-# Species
+# Character Origins
 
-> Index of **Species**
+- [[Character Backgrounds]]
+- [[Character Species]]
 
 - [[Dragonborn]]
 - [[Dwarf]]

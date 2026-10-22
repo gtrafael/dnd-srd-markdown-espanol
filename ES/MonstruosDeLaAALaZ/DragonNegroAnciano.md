@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón negro anciano", "Ancient Black Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ancient Black Dragon|Ancient Black Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Ancient Black Dragon|Ancient Black Dragon (EN)]]"
 ---
 
 # Dragón negro anciano

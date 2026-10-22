@@ -1,7 +1,7 @@
 ---
 aliases: ["Tiefling", "Tiefling"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Species/Tiefling|Tiefling (EN)]]"
+related_en: "[[Character Origins/Tiefling|Tiefling (EN)]]"
 ---
 
 # Tiefling

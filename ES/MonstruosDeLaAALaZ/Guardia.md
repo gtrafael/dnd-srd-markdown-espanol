@@ -1,7 +1,7 @@
 ---
 aliases: ["Guardia", "Guard"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Guard|Guard (EN)]]"
+related_en: "[[Monsters A-Z/Guard|Guard (EN)]]"
 ---
 
 # Guardia

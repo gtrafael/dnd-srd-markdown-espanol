@@ -1,7 +1,7 @@
 ---
 aliases: ["Arco juramentado", "Oathbow"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Oathbow|Oathbow (EN)]]"
+related_en: "[[Magic Items/Oathbow|Oathbow (EN)]]"
 ---
 
 # Arco juramentado

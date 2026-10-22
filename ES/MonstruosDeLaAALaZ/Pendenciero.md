@@ -1,7 +1,7 @@
 ---
 aliases: ["Pendenciero", "Tough"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Tough|Tough (EN)]]"
+related_en: "[[Monsters A-Z/Tough|Tough (EN)]]"
 ---
 
 # Pendenciero

@@ -1,7 +1,7 @@
 ---
 aliases: ["Anteojos de visión minuciosa", "Eyes of Minute Seeing"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Eyes of Minute Seeing|Eyes of Minute Seeing (EN)]]"
+related_en: "[[Magic Items/Eyes of Minute Seeing|Eyes of Minute Seeing (EN)]]"
 ---
 
 # Anteojos de visión minuciosa

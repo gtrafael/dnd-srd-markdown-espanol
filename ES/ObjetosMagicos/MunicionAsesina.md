@@ -1,7 +1,7 @@
 ---
 aliases: ["Munición asesina", "Ammunition of Slaying"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Ammunition of Slaying|Ammunition of Slaying (EN)]]"
+related_en: "[[Magic Items/Ammunition of Slaying|Ammunition of Slaying (EN)]]"
 ---
 
 # Munición asesina

@@ -1,7 +1,7 @@
 ---
 aliases: ["Espada vorpal", "Vorpal Sword"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Vorpal Sword|Vorpal Sword (EN)]]"
+related_en: "[[Magic Items/Vorpal Sword|Vorpal Sword (EN)]]"
 ---
 
 # Espada vorpal

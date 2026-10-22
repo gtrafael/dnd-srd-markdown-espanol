@@ -1,7 +1,7 @@
 ---
 aliases: ["Pico de hacha", "Axe Beak"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Axe Beak|Axe Beak (EN)]]"
+related_en: "[[Monsters A-Z/Axe Beak|Axe Beak (EN)]]"
 ---
 
 # Pico de hacha

@@ -1,7 +1,7 @@
 ---
 aliases: ["Collar de adaptación", "Necklace of Adaptation"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Necklace of Adaptation|Necklace of Adaptation (EN)]]"
+related_en: "[[Magic Items/Necklace of Adaptation|Necklace of Adaptation (EN)]]"
 ---
 
 # Collar de adaptación

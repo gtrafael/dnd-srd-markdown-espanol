@@ -1,7 +1,7 @@
 ---
 aliases: ["Dretch"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Dretch|Dretch (EN)]]"
+related_en: "[[Monsters A-Z/Dretch|Dretch (EN)]]"
 ---
 
 # Dretch

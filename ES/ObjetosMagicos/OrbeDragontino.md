@@ -1,7 +1,7 @@
 ---
 aliases: ["Orbe Dragontino", "Dragon Orb"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Dragon Orb|Dragon Orb (EN)]]"
+related_en: "[[Magic Items/Dragon Orb|Dragon Orb (EN)]]"
 ---
 
 # Orbe Dragontino

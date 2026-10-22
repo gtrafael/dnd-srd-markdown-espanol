@@ -1,7 +1,7 @@
 ---
 aliases: ["Talismán de salud", "Periapt of Health"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Periapt of Health|Periapt of Health (EN)]]"
+related_en: "[[Magic Items/Periapt of Health|Periapt of Health (EN)]]"
 ---
 
 # Talismán de salud

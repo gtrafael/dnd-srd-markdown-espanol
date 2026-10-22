@@ -1,7 +1,7 @@
 ---
 aliases: ["MiedoEstresMental", "Fear and Mental Stress"]
 tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gamemastering/Fear and Mental Stress|Fear and Mental Stress (EN)]]"
+related_en: "[[Gameplay Toolbox/Fear and Mental Stress|Fear and Mental Stress (EN)]]"
 ---
 
 # Miedo y estrés psicológico

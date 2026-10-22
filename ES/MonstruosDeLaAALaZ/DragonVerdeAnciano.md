@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón verde anciano", "Ancient Green Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ancient Green Dragon|Ancient Green Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Ancient Green Dragon|Ancient Green Dragon (EN)]]"
 ---
 
 # Dragón verde anciano

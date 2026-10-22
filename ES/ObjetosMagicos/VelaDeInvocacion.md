@@ -1,7 +1,7 @@
 ---
 aliases: ["Vela de invocación", "Candle of Invocation"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Candle of Invocation|Candle of Invocation (EN)]]"
+related_en: "[[Magic Items/Candle of Invocation|Candle of Invocation (EN)]]"
 ---
 
 # Vela de invocación

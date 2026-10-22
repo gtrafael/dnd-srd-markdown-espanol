@@ -1,7 +1,7 @@
 ---
 aliases: ["Capitán de la guardia", "Guard Captain"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Guard Captain|Guard Captain (EN)]]"
+related_en: "[[Monsters A-Z/Guard Captain|Guard Captain (EN)]]"
 ---
 
 # Capitán de la guardia

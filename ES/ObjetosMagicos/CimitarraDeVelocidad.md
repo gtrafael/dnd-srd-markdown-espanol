@@ -1,7 +1,7 @@
 ---
 aliases: ["Cimitarra de velocidad", "Scimitar of Speed"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Scimitar of Speed|Scimitar of Speed (EN)]]"
+related_en: "[[Magic Items/Scimitar of Speed|Scimitar of Speed (EN)]]"
 ---
 
 # Cimitarra de velocidad

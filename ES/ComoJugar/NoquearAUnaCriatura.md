@@ -1,7 +1,7 @@
 ---
 aliases: ["Noquear a una criatura", "Knocking Out a Creature"]
 tags: [srd, espanol, tag_comojugar, recuadro]
-related_en: "[[Gameplay/Knocking Out a Creature|Knocking Out a Creature (EN)]]"
+related_en: "[[Playing the Game/Knocking Out a Creature|Knocking Out a Creature (EN)]]"
 ---
 # Noquear a una criatura
 

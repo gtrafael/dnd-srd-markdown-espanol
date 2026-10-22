@@ -1,7 +1,7 @@
 ---
 aliases: ["Botas de las tierras invernales", "Boots of the Winterlands"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Boots of the Winterlands|Boots of the Winterlands (EN)]]"
+related_en: "[[Magic Items/Boots of the Winterlands|Boots of the Winterlands (EN)]]"
 ---
 
 # Botas de las tierras invernales

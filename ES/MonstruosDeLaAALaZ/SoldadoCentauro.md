@@ -1,7 +1,7 @@
 ---
 aliases: ["Soldado centauro", "Centaur Trooper"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Centaur Trooper|Centaur Trooper (EN)]]"
+related_en: "[[Monsters A-Z/Centaur Trooper|Centaur Trooper (EN)]]"
 ---
 
 # Soldado centauro

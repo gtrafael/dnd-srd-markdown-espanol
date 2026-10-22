@@ -1,7 +1,7 @@
 ---
 aliases: ["Inspiración heroica", "Heroic Inspiration"]
 tags: [srd, espanol, tag_comojugar, recuadro]
-related_en: "[[Gameplay/Heroic Inspiration|Heroic Inspiration (EN)]]"
+related_en: "[[Playing the Game/Heroic Inspiration|Heroic Inspiration (EN)]]"
 ---
 # Inspiración heroica
 

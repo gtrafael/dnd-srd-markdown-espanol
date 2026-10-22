@@ -1,7 +1,7 @@
 ---
 aliases: ["Daga de la ponzoña", "Dagger of Venom"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Dagger of Venom|Dagger of Venom (EN)]]"
+related_en: "[[Magic Items/Dagger of Venom|Dagger of Venom (EN)]]"
 ---
 
 # Daga de la ponzoña

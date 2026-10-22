@@ -1,7 +1,7 @@
 ---
 aliases: ["Polvo de sequedad", "Dust of Dryness"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Dust of Dryness|Dust of Dryness (EN)]]"
+related_en: "[[Magic Items/Dust of Dryness|Dust of Dryness (EN)]]"
 ---
 
 # Polvo de sequedad

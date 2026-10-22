@@ -1,7 +1,7 @@
 ---
 aliases: ["Ankheg"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ankheg|Ankheg (EN)]]"
+related_en: "[[Monsters A-Z/Ankheg|Ankheg (EN)]]"
 ---
 
 # Ankheg

@@ -1,7 +1,7 @@
 ---
 aliases: ["Draña", "Drider"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Drider|Drider (EN)]]"
+related_en: "[[Monsters A-Z/Drider|Drider (EN)]]"
 ---
 
 # Draña

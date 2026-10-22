@@ -1,7 +1,7 @@
 ---
 aliases: ["Ladrona de nueve vidas", "Nine Lives Stealer"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Nine Lives Stealer|Nine Lives Stealer (EN)]]"
+related_en: "[[Magic Items/Nine Lives Stealer|Nine Lives Stealer (EN)]]"
 ---
 
 # Ladrona de nueve vidas

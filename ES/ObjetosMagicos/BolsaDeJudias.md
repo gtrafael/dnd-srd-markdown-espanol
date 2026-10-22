@@ -1,7 +1,7 @@
 ---
 aliases: ["Bolsa de judías", "Bag of Beans"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Bag of Beans|Bag of Beans (EN)]]"
+related_en: "[[Magic Items/Bag of Beans|Bag of Beans (EN)]]"
 ---
 
 # Bolsa de judías

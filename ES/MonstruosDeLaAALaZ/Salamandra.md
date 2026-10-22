@@ -1,7 +1,7 @@
 ---
 aliases: ["Salamandra", "Salamander"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Salamander|Salamander (EN)]]"
+related_en: "[[Monsters A-Z/Salamander|Salamander (EN)]]"
 ---
 
 # Salamandra

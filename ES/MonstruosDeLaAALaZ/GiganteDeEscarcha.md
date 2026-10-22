@@ -1,7 +1,7 @@
 ---
 aliases: ["Gigante de escarcha", "Frost Giant"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Frost Giant|Frost Giant (EN)]]"
+related_en: "[[Monsters A-Z/Frost Giant|Frost Giant (EN)]]"
 ---
 
 # Gigante de escarcha

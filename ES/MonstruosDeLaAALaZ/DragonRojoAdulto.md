@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón rojo adulto", "Adult Red Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Adult Red Dragon|Adult Red Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Adult Red Dragon|Adult Red Dragon (EN)]]"
 ---
 
 # Dragón rojo adulto

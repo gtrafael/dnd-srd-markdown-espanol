@@ -1,7 +1,7 @@
 ---
 aliases: ["Bote plegable", "Folding Boat"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Folding Boat|Folding Boat (EN)]]"
+related_en: "[[Magic Items/Folding Boat|Folding Boat (EN)]]"
 ---
 
 # Bote plegable

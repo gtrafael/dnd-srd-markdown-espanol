@@ -1,7 +1,7 @@
 ---
 aliases: ["Roc"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Roc|Roc (EN)]]"
+related_en: "[[Monsters A-Z/Roc|Roc (EN)]]"
 ---
 
 # Roc

@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón de plata anciano", "Ancient Silver Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ancient Silver Dragon|Ancient Silver Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Ancient Silver Dragon|Ancient Silver Dragon (EN)]]"
 ---
 
 # Dragón de plata anciano

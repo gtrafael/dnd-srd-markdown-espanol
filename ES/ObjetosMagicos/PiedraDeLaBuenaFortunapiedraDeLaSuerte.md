@@ -1,7 +1,7 @@
 ---
 aliases: ["Piedra de la buena fortuna (piedra de la suerte)", "Stone of Good Luck (Luckstone)"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Stone of Good Luck (Luckstone)|Stone of Good Luck (Luckstone) (EN)]]"
+related_en: "[[Magic Items/Stone of Good Luck (Luckstone)|Stone of Good Luck (Luckstone) (EN)]]"
 ---
 
 # Piedra de la buena fortuna (piedra de la suerte)

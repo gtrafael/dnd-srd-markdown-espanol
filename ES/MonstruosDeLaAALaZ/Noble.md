@@ -1,7 +1,7 @@
 ---
 aliases: ["Noble"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Noble|Noble (EN)]]"
+related_en: "[[Monsters A-Z/Noble|Noble (EN)]]"
 ---
 
 # Noble

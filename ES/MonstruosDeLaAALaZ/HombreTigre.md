@@ -1,7 +1,7 @@
 ---
 aliases: ["Hombre tigre", "Weretiger"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Weretiger|Weretiger (EN)]]"
+related_en: "[[Monsters A-Z/Weretiger|Weretiger (EN)]]"
 ---
 
 # Hombre tigre

@@ -1,7 +1,7 @@
 ---
 aliases: ["Yelmo de fulgor", "Helm of Brilliance"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Helm of Brilliance|Helm of Brilliance (EN)]]"
+related_en: "[[Magic Items/Helm of Brilliance|Helm of Brilliance (EN)]]"
 ---
 
 # Yelmo de fulgor

@@ -1,7 +1,7 @@
 ---
 aliases: ["Pozo de los muchos mundos", "Well of Many Worlds"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Well of Many Worlds|Well of Many Worlds (EN)]]"
+related_en: "[[Magic Items/Well of Many Worlds|Well of Many Worlds (EN)]]"
 ---
 
 # Pozo de los muchos mundos

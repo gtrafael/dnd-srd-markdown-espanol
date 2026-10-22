@@ -1,7 +1,7 @@
 ---
 aliases: ["Baraja misteriosa", "Mysterious Deck"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Mysterious Deck|Mysterious Deck (EN)]]"
+related_en: "[[Magic Items/Mysterious Deck|Mysterious Deck (EN)]]"
 ---
 
 # Baraja misteriosa

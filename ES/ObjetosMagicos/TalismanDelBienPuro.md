@@ -1,7 +1,7 @@
 ---
 aliases: ["Talismán del bien puro", "Talisman of Pure Good"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Talisman of Pure Good|Talisman of Pure Good (EN)]]"
+related_en: "[[Magic Items/Talisman of Pure Good|Talisman of Pure Good (EN)]]"
 ---
 
 # Talismán del bien puro

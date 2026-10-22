@@ -1,7 +1,7 @@
 ---
 aliases: ["Filtro de amor", "Philter of Love"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Philter of Love|Philter of Love (EN)]]"
+related_en: "[[Magic Items/Philter of Love|Philter of Love (EN)]]"
 ---
 
 # Filtro de amor

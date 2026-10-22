@@ -1,7 +1,7 @@
 ---
 aliases: ["Glabrezu"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Glabrezu|Glabrezu (EN)]]"
+related_en: "[[Monsters A-Z/Glabrezu|Glabrezu (EN)]]"
 ---
 
 # Glabrezu

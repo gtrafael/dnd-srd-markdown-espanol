@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón de bronce joven", "Young Bronze Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Young Bronze Dragon|Young Bronze Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Young Bronze Dragon|Young Bronze Dragon (EN)]]"
 ---
 
 # Dragón de bronce joven

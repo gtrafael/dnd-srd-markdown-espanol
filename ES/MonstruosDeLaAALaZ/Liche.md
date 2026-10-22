@@ -1,7 +1,7 @@
 ---
 aliases: ["Liche", "Lich"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Lich|Lich (EN)]]"
+related_en: "[[Monsters A-Z/Lich|Lich (EN)]]"
 ---
 
 # Liche

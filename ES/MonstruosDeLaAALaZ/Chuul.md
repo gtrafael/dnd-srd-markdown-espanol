@@ -1,7 +1,7 @@
 ---
 aliases: ["Chuul"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Chuul|Chuul (EN)]]"
+related_en: "[[Monsters A-Z/Chuul|Chuul (EN)]]"
 ---
 
 # Chuul

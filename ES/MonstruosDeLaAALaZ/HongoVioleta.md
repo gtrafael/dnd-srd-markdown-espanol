@@ -1,7 +1,7 @@
 ---
 aliases: ["Hongo violeta", "Violet Fungus"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Violet Fungus|Violet Fungus (EN)]]"
+related_en: "[[Monsters A-Z/Violet Fungus|Violet Fungus (EN)]]"
 ---
 
 # Hongo violeta

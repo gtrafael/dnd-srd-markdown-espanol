@@ -1,7 +1,7 @@
 ---
 aliases: ["Descansar", "Resting"]
 tags: [srd, espanol, tag_comojugar, recuadro]
-related_en: "[[Gameplay/Resting|Resting (EN)]]"
+related_en: "[[Playing the Game/Resting|Resting (EN)]]"
 ---
 # Descansar
 

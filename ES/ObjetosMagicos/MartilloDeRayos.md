@@ -1,7 +1,7 @@
 ---
 aliases: ["Martillo de rayos", "Hammer of Thunderbolts"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Hammer of Thunderbolts|Hammer of Thunderbolts (EN)]]"
+related_en: "[[Magic Items/Hammer of Thunderbolts|Hammer of Thunderbolts (EN)]]"
 ---
 
 # Martillo de rayos

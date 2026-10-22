@@ -1,7 +1,7 @@
 ---
 aliases: ["Escarabajo protector", "Scarab of Protection"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Scarab of Protection|Scarab of Protection (EN)]]"
+related_en: "[[Magic Items/Scarab of Protection|Scarab of Protection (EN)]]"
 ---
 
 # Escarabajo protector

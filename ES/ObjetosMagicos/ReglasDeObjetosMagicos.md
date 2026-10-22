@@ -1,7 +1,7 @@
 ---
 aliases: ["Reglas de objetos mágicos", "Magic Item Rules"]
 tags: [srd, espanol, tag_tesoro, recuadro]
-related_en: "[[Treasure/Magic Item Rules|Magic Item Rules (EN)]]"
+related_en: "[[Magic Items/Magic Item Rules|Magic Item Rules (EN)]]"
 ---
 # Reglas de objetos mágicos
 

@@ -1,7 +1,7 @@
 ---
 aliases: ["Fortaleza instantánea", "Instant Fortress"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Instant Fortress|Instant Fortress (EN)]]"
+related_en: "[[Magic Items/Instant Fortress|Instant Fortress (EN)]]"
 ---
 
 # Fortaleza instantánea

@@ -1,7 +1,7 @@
 ---
 aliases: ["Gema elemental", "Elemental Gem"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Elemental Gem|Elemental Gem (EN)]]"
+related_en: "[[Magic Items/Elemental Gem|Elemental Gem (EN)]]"
 ---
 
 # Gema elemental

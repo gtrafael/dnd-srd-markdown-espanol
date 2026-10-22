@@ -1,7 +1,7 @@
 ---
 aliases: ["Armadura de mithral", "Mithral Armor"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Mithral Armor|Mithral Armor (EN)]]"
+related_en: "[[Magic Items/Mithral Armor|Mithral Armor (EN)]]"
 ---
 
 # Armadura de mithral

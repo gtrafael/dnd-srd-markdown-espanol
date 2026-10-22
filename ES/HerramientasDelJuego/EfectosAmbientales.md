@@ -1,7 +1,7 @@
 ---
 aliases: ["EfectosAmbientales", "Environmental Effects"]
 tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gamemastering/Environmental Effects|Environmental Effects (EN)]]"
+related_en: "[[Gameplay Toolbox/Environmental Effects|Environmental Effects (EN)]]"
 ---
 
 # Efectos ambientales

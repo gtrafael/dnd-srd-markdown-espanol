@@ -1,7 +1,7 @@
 ---
 aliases: ["Botas élficas", "Boots of Elvenkind"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Boots of Elvenkind|Boots of Elvenkind (EN)]]"
+related_en: "[[Magic Items/Boots of Elvenkind|Boots of Elvenkind (EN)]]"
 ---
 
 # Botas élficas

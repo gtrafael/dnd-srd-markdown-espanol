@@ -1,7 +1,7 @@
 ---
 aliases: ["Unicornio", "Unicorn"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Unicorn|Unicorn (EN)]]"
+related_en: "[[Monsters A-Z/Unicorn|Unicorn (EN)]]"
 ---
 
 # Unicornio

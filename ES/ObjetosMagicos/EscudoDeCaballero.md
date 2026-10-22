@@ -1,7 +1,7 @@
 ---
 aliases: ["Escudo de caballero", "Shield of the Cavalier"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Shield of the Cavalier|Shield of the Cavalier (EN)]]"
+related_en: "[[Magic Items/Shield of the Cavalier|Shield of the Cavalier (EN)]]"
 ---
 
 # Escudo de caballero

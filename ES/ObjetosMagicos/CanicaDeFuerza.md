@@ -1,7 +1,7 @@
 ---
 aliases: ["Canica de fuerza", "Bead of Force"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Bead of Force|Bead of Force (EN)]]"
+related_en: "[[Magic Items/Bead of Force|Bead of Force (EN)]]"
 ---
 
 # Canica de fuerza

@@ -1,7 +1,7 @@
 ---
 aliases: ["Mediano", "Halfling"]
 tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Species/Halfling|Halfling (EN)]]"
+related_en: "[[Character Origins/Halfling|Halfling (EN)]]"
 ---
 
 # Mediano

@@ -1,7 +1,7 @@
 ---
 aliases: ["Cuerno de estallido", "Horn of Blasting"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Horn of Blasting|Horn of Blasting (EN)]]"
+related_en: "[[Magic Items/Horn of Blasting|Horn of Blasting (EN)]]"
 ---
 
 # Cuerno de estallido

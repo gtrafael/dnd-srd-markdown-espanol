@@ -1,7 +1,7 @@
 ---
 aliases: ["Escudo de atraer proyectiles", "Shield of Missile Attraction"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Shield of Missile Attraction|Shield of Missile Attraction (EN)]]"
+related_en: "[[Magic Items/Shield of Missile Attraction|Shield of Missile Attraction (EN)]]"
 ---
 
 # Escudo de atraer proyectiles

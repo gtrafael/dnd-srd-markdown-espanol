@@ -1,7 +1,7 @@
 ---
 aliases: ["Naga guardiana", "Guardian Naga"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Guardian Naga|Guardian Naga (EN)]]"
+related_en: "[[Monsters A-Z/Guardian Naga|Guardian Naga (EN)]]"
 ---
 
 # Naga guardiana

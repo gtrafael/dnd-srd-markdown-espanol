@@ -1,7 +1,7 @@
 ---
 aliases: ["Aboleth"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Aboleth|Aboleth (EN)]]"
+related_en: "[[Monsters A-Z/Aboleth|Aboleth (EN)]]"
 ---
 
 # Aboleth

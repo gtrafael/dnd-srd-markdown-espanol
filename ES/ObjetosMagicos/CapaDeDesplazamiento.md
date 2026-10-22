@@ -1,7 +1,7 @@
 ---
 aliases: ["Capa de desplazamiento", "Cloak of Displacement"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Cloak of Displacement|Cloak of Displacement (EN)]]"
+related_en: "[[Magic Items/Cloak of Displacement|Cloak of Displacement (EN)]]"
 ---
 
 # Capa de desplazamiento

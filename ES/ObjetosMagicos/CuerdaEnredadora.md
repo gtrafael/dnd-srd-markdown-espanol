@@ -1,7 +1,7 @@
 ---
 aliases: ["Cuerda enredadora", "Rope of Entanglement"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Rope of Entanglement|Rope of Entanglement (EN)]]"
+related_en: "[[Magic Items/Rope of Entanglement|Rope of Entanglement (EN)]]"
 ---
 
 # Cuerda enredadora

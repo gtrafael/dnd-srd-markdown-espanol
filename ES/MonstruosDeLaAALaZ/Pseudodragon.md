@@ -1,7 +1,7 @@
 ---
 aliases: ["Pseudodragón", "Pseudodragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Pseudodragon|Pseudodragon (EN)]]"
+related_en: "[[Monsters A-Z/Pseudodragon|Pseudodragon (EN)]]"
 ---
 
 # Pseudodragón

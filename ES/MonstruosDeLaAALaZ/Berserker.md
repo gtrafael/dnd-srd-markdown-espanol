@@ -1,7 +1,7 @@
 ---
 aliases: ["Berserker"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Berserker|Berserker (EN)]]"
+related_en: "[[Monsters A-Z/Berserker|Berserker (EN)]]"
 ---
 
 # Berserker

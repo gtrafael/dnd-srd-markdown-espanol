@@ -1,7 +1,7 @@
 ---
 aliases: ["Resistencia de los objetos mágicos"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Magic Item Resilience|Magic Item Resilience (EN)]]"
+related_en: "[[Magic Items/Magic Item Resilience|Magic Item Resilience (EN)]]"
 ---
 
 # Resistencia de los objetos mágicos

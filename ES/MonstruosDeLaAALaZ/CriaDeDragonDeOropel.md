@@ -1,7 +1,7 @@
 ---
 aliases: ["Cría de dragón de oropel", "Brass Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Brass Dragon Wyrmling|Brass Dragon Wyrmling (EN)]]"
+related_en: "[[Monsters A-Z/Brass Dragon Wyrmling|Brass Dragon Wyrmling (EN)]]"
 ---
 
 # Cría de dragón de oropel

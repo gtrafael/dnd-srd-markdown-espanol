@@ -1,13 +1,13 @@
 ---
-aliases: ["Feats"]
-tags: [srd, english, tag_characterizations]
-alignment_mode: "one-to-many"
+aliases: ["Feat Descriptions", "Feats"]
+tags: [srd, english, tag_feats]
 related_es_section: "[[Dotes/DescripcionesDeDotes|Descripciones de dotes (Español)]]"
+alignment_mode: "one-to-many"
 ---
 
 # Feats
 
-## Feat Descriptions
+# Feat Descriptions
 
 The feats that follow are organized by category — Origin, General, Fighting Style, or Epic Boon — and alphabetized in each category.
 

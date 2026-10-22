@@ -1,7 +1,7 @@
 ---
 aliases: ["Cubo gelatinoso", "Gelatinous Cube"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Gelatinous Cube|Gelatinous Cube (EN)]]"
+related_en: "[[Monsters A-Z/Gelatinous Cube|Gelatinous Cube (EN)]]"
 ---
 
 # Cubo gelatinoso

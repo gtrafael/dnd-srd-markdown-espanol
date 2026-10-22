@@ -1,7 +1,7 @@
 ---
 aliases: ["Botas de zancadas y brincos", "Boots of Striding and Springing"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Boots of Striding and Springing|Boots of Striding and Springing (EN)]]"
+related_en: "[[Magic Items/Boots of Striding and Springing|Boots of Striding and Springing (EN)]]"
 ---
 
 # Botas de zancadas y brincos

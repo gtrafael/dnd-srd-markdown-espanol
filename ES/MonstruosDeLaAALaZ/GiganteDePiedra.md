@@ -1,7 +1,7 @@
 ---
 aliases: ["Gigante de piedra", "Stone Giant"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Stone Giant|Stone Giant (EN)]]"
+related_en: "[[Monsters A-Z/Stone Giant|Stone Giant (EN)]]"
 ---
 
 # Gigante de piedra

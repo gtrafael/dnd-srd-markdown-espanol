@@ -1,7 +1,7 @@
 ---
 aliases: ["Combate", "Combat"]
 tags: [srd, espanol, tag_comojugar]
-related_en: "[[Gameplay/Combat|Combat (EN)]]"
+related_en: "[[Playing the Game/Combat|Combat (EN)]]"
 ---
 
 # Combate

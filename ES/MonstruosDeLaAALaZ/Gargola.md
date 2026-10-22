@@ -1,7 +1,7 @@
 ---
 aliases: ["Gárgola", "Gargoyle"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Gargoyle|Gargoyle (EN)]]"
+related_en: "[[Monsters A-Z/Gargoyle|Gargoyle (EN)]]"
 ---
 
 # Gárgola

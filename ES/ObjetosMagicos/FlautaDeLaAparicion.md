@@ -1,7 +1,7 @@
 ---
 aliases: ["Flauta de la aparición", "Pipes of Haunting"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Pipes of Haunting|Pipes of Haunting (EN)]]"
+related_en: "[[Magic Items/Pipes of Haunting|Pipes of Haunting (EN)]]"
 ---
 
 # Flauta de la aparición

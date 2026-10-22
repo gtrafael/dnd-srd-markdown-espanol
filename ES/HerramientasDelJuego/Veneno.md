@@ -1,7 +1,7 @@
 ---
 aliases: ["Venenos", "Poisons"]
 tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gamemastering/Poisons|Poisons (EN)]]"
+related_en: "[[Gameplay Toolbox/Poison|Poisons (EN)]]"
 ---
 
 # Veneno

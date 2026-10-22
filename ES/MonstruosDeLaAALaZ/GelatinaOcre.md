@@ -1,7 +1,7 @@
 ---
 aliases: ["Gelatina ocre", "Ochre Jelly"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Ochre Jelly|Ochre Jelly (EN)]]"
+related_en: "[[Monsters A-Z/Ochre Jelly|Ochre Jelly (EN)]]"
 ---
 
 # Gelatina ocre

@@ -1,7 +1,7 @@
 ---
 aliases: ["Hacha berserker", "Berserker Axe"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Berserker Axe|Berserker Axe (EN)]]"
+related_en: "[[Magic Items/Berserker Axe|Berserker Axe (EN)]]"
 ---
 
 # Hacha berserker

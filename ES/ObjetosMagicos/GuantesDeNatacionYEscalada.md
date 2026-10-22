@@ -1,7 +1,7 @@
 ---
 aliases: ["Guantes de natación y escalada", "Gloves of Swimming and Climbing"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Gloves of Swimming and Climbing|Gloves of Swimming and Climbing (EN)]]"
+related_en: "[[Magic Items/Gloves of Swimming and Climbing|Gloves of Swimming and Climbing (EN)]]"
 ---
 
 # Guantes de natación y escalada

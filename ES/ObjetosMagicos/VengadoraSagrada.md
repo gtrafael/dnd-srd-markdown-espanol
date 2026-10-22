@@ -1,7 +1,7 @@
 ---
 aliases: ["Vengadora sagrada", "Holy Avenger"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Holy Avenger|Holy Avenger (EN)]]"
+related_en: "[[Magic Items/Holy Avenger|Holy Avenger (EN)]]"
 ---
 
 # Vengadora sagrada

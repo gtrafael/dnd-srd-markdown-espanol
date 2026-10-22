@@ -1,7 +1,7 @@
 ---
 aliases: ["Medallón de los pensamientos", "Medallion of Thoughts"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Medallion of Thoughts|Medallion of Thoughts (EN)]]"
+related_en: "[[Magic Items/Medallion of Thoughts|Medallion of Thoughts (EN)]]"
 ---
 
 # Medallón de los pensamientos

@@ -1,7 +1,7 @@
 ---
 aliases: ["Disolvente universal", "Universal Solvent"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Universal Solvent|Universal Solvent (EN)]]"
+related_en: "[[Magic Items/Universal Solvent|Universal Solvent (EN)]]"
 ---
 
 # Disolvente universal

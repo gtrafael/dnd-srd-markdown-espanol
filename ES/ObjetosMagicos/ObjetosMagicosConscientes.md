@@ -1,7 +1,7 @@
 ---
 aliases: ["Objetos mágicos conscientes"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Sentient Magic Items|Sentient Magic Items (EN)]]"
+related_en: "[[Magic Items/Sentient Magic Items|Sentient Magic Items (EN)]]"
 ---
 
 # Objetos mágicos conscientes

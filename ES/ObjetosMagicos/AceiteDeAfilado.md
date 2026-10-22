@@ -1,7 +1,7 @@
 ---
 aliases: ["Aceite de afilado", "Oil of Sharpness"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Oil of Sharpness|Oil of Sharpness (EN)]]"
+related_en: "[[Magic Items/Oil of Sharpness|Oil of Sharpness (EN)]]"
 ---
 
 # Aceite de afilado

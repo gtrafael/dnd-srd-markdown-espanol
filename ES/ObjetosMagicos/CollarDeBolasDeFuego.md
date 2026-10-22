@@ -1,7 +1,7 @@
 ---
 aliases: ["Collar de bolas de fuego", "Necklace of Fireballs"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Necklace of Fireballs|Necklace of Fireballs (EN)]]"
+related_en: "[[Magic Items/Necklace of Fireballs|Necklace of Fireballs (EN)]]"
 ---
 
 # Collar de bolas de fuego

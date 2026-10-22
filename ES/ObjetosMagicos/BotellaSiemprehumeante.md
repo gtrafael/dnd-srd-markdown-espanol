@@ -1,7 +1,7 @@
 ---
 aliases: ["Botella siemprehumeante", "Eversmoking Bottle"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Eversmoking Bottle|Eversmoking Bottle (EN)]]"
+related_en: "[[Magic Items/Eversmoking Bottle|Eversmoking Bottle (EN)]]"
 ---
 
 # Botella siemprehumeante

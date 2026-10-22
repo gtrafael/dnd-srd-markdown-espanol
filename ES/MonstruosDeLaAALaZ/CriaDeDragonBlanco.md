@@ -1,7 +1,7 @@
 ---
 aliases: ["Cría de dragón blanco", "White Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/White Dragon Wyrmling|White Dragon Wyrmling (EN)]]"
+related_en: "[[Monsters A-Z/White Dragon Wyrmling|White Dragon Wyrmling (EN)]]"
 ---
 
 # Cría de dragón blanco

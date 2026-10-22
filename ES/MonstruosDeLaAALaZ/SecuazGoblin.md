@@ -1,7 +1,7 @@
 ---
 aliases: ["Secuaz goblin", "Goblin Minion"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Goblin Minion|Goblin Minion (EN)]]"
+related_en: "[[Monsters A-Z/Goblin Minion|Goblin Minion (EN)]]"
 ---
 
 # Secuaz goblin

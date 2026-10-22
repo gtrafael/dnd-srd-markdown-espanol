@@ -1,7 +1,7 @@
 ---
 aliases: ["Diadema de estallidos", "Circlet of Blasting"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Circlet of Blasting|Circlet of Blasting (EN)]]"
+related_en: "[[Magic Items/Circlet of Blasting|Circlet of Blasting (EN)]]"
 ---
 
 # Diadema de estallidos

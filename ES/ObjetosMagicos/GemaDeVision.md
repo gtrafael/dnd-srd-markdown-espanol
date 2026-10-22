@@ -1,7 +1,7 @@
 ---
 aliases: ["Gema de visión", "Gem of Seeing"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Gem of Seeing|Gem of Seeing (EN)]]"
+related_en: "[[Magic Items/Gem of Seeing|Gem of Seeing (EN)]]"
 ---
 
 # Gema de visión

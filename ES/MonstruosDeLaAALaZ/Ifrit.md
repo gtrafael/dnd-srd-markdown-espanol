@@ -1,7 +1,7 @@
 ---
 aliases: ["Ifrit", "Efreeti"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Efreeti|Efreeti (EN)]]"
+related_en: "[[Monsters A-Z/Efreeti|Efreeti (EN)]]"
 ---
 
 # Ifrit

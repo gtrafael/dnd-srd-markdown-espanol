@@ -3,16 +3,16 @@
 > Index of **Equipment**
 
 - [[Armor]]
-- [[Coinage]]
+- [[Coins]]
 - [[Crafting]]
 - [[Expenses]]
-- [[Gear]]
+- [[Adventuring Gear]]
 - [[Tools]]
 - [[Trade Goods]]
-- [[Transportation]]
+- [[Mounts and Vehicles]]
 - [[Weapons]]
-- [[Properties]]
-- [[Mastery Properties]]
+- [[Weapons#Properties|Properties]]
+- [[Weapons#Mastery Properties|Mastery Properties]]
 
 ## Callouts
 

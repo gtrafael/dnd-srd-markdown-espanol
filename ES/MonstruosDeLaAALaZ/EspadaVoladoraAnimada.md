@@ -1,7 +1,7 @@
 ---
 aliases: ["Espada voladora animada", "Animated Flying Sword"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Animated Flying Sword|Animated Flying Sword (EN)]]"
+related_en: "[[Monsters A-Z/Animated Flying Sword|Animated Flying Sword (EN)]]"
 ---
 
 # Espada voladora animada

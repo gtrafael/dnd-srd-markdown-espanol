@@ -1,7 +1,7 @@
 ---
 aliases: ["Atacantes y objetivos ocultos", "Unseen Attackers and Targets"]
 tags: [srd, espanol, tag_comojugar, recuadro]
-related_en: "[[Gameplay/Unseen Attackers and Targets|Unseen Attackers and Targets (EN)]]"
+related_en: "[[Playing the Game/Unseen Attackers and Targets|Unseen Attackers and Targets (EN)]]"
 ---
 # Atacantes y objetivos ocultos
 

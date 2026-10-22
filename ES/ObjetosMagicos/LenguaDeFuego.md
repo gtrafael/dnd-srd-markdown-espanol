@@ -1,7 +1,7 @@
 ---
 aliases: ["Lengua de fuego", "Flame Tongue"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Flame Tongue|Flame Tongue (EN)]]"
+related_en: "[[Magic Items/Flame Tongue|Flame Tongue (EN)]]"
 ---
 
 # Lengua de fuego

@@ -1,6 +1,6 @@
-# Treasure
+# Magic Items
 
-> Index of **Treasure**
+> Index of **Magic Items**
 
 ## Chapter Structure
 

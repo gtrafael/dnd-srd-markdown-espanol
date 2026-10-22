@@ -1,7 +1,7 @@
 ---
 aliases: ["Basilisco", "Basilisk"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Basilisk|Basilisk (EN)]]"
+related_en: "[[Monsters A-Z/Basilisk|Basilisk (EN)]]"
 ---
 
 # Basilisco

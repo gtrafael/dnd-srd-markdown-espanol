@@ -1,7 +1,7 @@
 ---
 aliases: ["Categorías de objetos mágicos"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Magic Item Categories|Magic Item Categories (EN)]]"
+related_en: "[[Magic Items/Magic Item Categories|Magic Item Categories (EN)]]"
 ---
 
 # Categorías de objetos mágicos

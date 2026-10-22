@@ -1,7 +1,7 @@
 ---
 aliases: ["Extremidad de troll", "Troll Limb"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Troll Limb|Troll Limb (EN)]]"
+related_en: "[[Monsters A-Z/Troll Limb|Troll Limb (EN)]]"
 ---
 
 # Extremidad de troll

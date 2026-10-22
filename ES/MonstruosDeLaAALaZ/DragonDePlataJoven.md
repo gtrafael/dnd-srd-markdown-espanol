@@ -1,7 +1,7 @@
 ---
 aliases: ["Dragón de plata joven", "Young Silver Dragon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Young Silver Dragon|Young Silver Dragon (EN)]]"
+related_en: "[[Monsters A-Z/Young Silver Dragon|Young Silver Dragon (EN)]]"
 ---
 
 # Dragón de plata joven

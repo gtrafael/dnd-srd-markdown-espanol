@@ -1,7 +1,7 @@
 ---
 aliases: ["Couatl"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Couatl|Couatl (EN)]]"
+related_en: "[[Monsters A-Z/Couatl|Couatl (EN)]]"
 ---
 
 # Couatl

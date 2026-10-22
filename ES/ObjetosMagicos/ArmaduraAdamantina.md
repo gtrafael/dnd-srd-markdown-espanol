@@ -1,7 +1,7 @@
 ---
 aliases: ["Armadura adamantina", "Adamantine Armor"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Adamantine Armor|Adamantine Armor (EN)]]"
+related_en: "[[Magic Items/Adamantine Armor|Adamantine Armor (EN)]]"
 ---
 
 # Armadura adamantina

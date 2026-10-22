@@ -1,7 +1,7 @@
 ---
 aliases: ["Túnica de colores hipnóticos", "Robe of Scintillating Colors"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Robe of Scintillating Colors|Robe of Scintillating Colors (EN)]]"
+related_en: "[[Magic Items/Robe of Scintillating Colors|Robe of Scintillating Colors (EN)]]"
 ---
 
 # Túnica de colores hipnóticos

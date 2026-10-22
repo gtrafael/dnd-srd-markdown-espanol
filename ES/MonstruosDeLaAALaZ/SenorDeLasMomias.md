@@ -1,7 +1,7 @@
 ---
 aliases: ["Señor de las momias", "Mummy Lord"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Mummy Lord|Mummy Lord (EN)]]"
+related_en: "[[Monsters A-Z/Mummy Lord|Mummy Lord (EN)]]"
 ---
 
 # Señor de las momias

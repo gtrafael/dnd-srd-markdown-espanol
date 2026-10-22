@@ -1,7 +1,7 @@
 ---
 aliases: ["Guerrero Kobold", "Kobold", "Kobold Warrior"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Kobold Warrior|Kobold Warrior (EN)]]"
+related_en: "[[Monsters A-Z/Kobold Warrior|Kobold Warrior (EN)]]"
 ---
 
 # Guerrero Kobold

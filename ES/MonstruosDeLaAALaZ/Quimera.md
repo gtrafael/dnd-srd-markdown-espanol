@@ -1,7 +1,7 @@
 ---
 aliases: ["Quimera", "Chimera"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Chimera|Chimera (EN)]]"
+related_en: "[[Monsters A-Z/Chimera|Chimera (EN)]]"
 ---
 
 # Quimera

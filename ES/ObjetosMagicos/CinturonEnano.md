@@ -1,7 +1,7 @@
 ---
 aliases: ["Cinturón enano", "Belt of Dwarvenkind"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Belt of Dwarvenkind|Belt of Dwarvenkind (EN)]]"
+related_en: "[[Magic Items/Belt of Dwarvenkind|Belt of Dwarvenkind (EN)]]"
 ---
 
 # Cinturón enano

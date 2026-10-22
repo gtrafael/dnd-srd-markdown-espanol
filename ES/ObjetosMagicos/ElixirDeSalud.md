@@ -1,7 +1,7 @@
 ---
 aliases: ["Elixir de salud", "Elixir of Health"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Elixir of Health|Elixir of Health (EN)]]"
+related_en: "[[Magic Items/Elixir of Health|Elixir of Health (EN)]]"
 ---
 
 # Elixir de salud

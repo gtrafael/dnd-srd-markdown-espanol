@@ -1,7 +1,7 @@
 ---
 aliases: ["Grilletes dimensionales", "Dimensional Shackles"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Dimensional Shackles|Dimensional Shackles (EN)]]"
+related_en: "[[Magic Items/Dimensional Shackles|Dimensional Shackles (EN)]]"
 ---
 
 # Grilletes dimensionales

@@ -1,7 +1,7 @@
 ---
 aliases: ["Cuerno del Valhalla", "Horn of Valhalla"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Horn of Valhalla|Horn of Valhalla (EN)]]"
+related_en: "[[Magic Items/Horn of Valhalla|Horn of Valhalla (EN)]]"
 ---
 
 # Cuerno del Valhalla

@@ -1,7 +1,7 @@
 ---
 aliases: ["Vara inamovible", "Immovable Rod"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Immovable Rod|Immovable Rod (EN)]]"
+related_en: "[[Magic Items/Immovable Rod|Immovable Rod (EN)]]"
 ---
 
 # Vara inamovible

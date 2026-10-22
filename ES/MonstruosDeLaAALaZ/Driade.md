@@ -1,7 +1,7 @@
 ---
 aliases: ["Dríade", "Dryad"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Dryad|Dryad (EN)]]"
+related_en: "[[Monsters A-Z/Dryad|Dryad (EN)]]"
 ---
 
 # Dríade

@@ -1,7 +1,7 @@
 ---
 aliases: ["Espejo atrapavidas", "Mirror of Life Trapping"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Mirror of Life Trapping|Mirror of Life Trapping (EN)]]"
+related_en: "[[Magic Items/Mirror of Life Trapping|Mirror of Life Trapping (EN)]]"
 ---
 
 # Espejo atrapavidas

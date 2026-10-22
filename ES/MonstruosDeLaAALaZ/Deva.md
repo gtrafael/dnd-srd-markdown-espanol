@@ -1,7 +1,7 @@
 ---
 aliases: ["Deva"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Deva|Deva (EN)]]"
+related_en: "[[Monsters A-Z/Deva|Deva (EN)]]"
 ---
 
 # Deva

@@ -1,7 +1,7 @@
 ---
 aliases: ["Lobo invernal", "Winter Wolf"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Winter Wolf|Winter Wolf (EN)]]"
+related_en: "[[Monsters A-Z/Winter Wolf|Winter Wolf (EN)]]"
 ---
 
 # Lobo invernal

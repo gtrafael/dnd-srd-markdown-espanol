@@ -1,7 +1,7 @@
 ---
 aliases: ["Matadragones", "Dragon Slayer"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Dragon Slayer|Dragon Slayer (EN)]]"
+related_en: "[[Magic Items/Dragon Slayer|Dragon Slayer (EN)]]"
 ---
 
 # Matadragones

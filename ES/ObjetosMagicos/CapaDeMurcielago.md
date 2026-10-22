@@ -1,7 +1,7 @@
 ---
 aliases: ["Capa de murciélago", "Cloak of the Bat"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Cloak of the Bat|Cloak of the Bat (EN)]]"
+related_en: "[[Magic Items/Cloak of the Bat|Cloak of the Bat (EN)]]"
 ---
 
 # Capa de murciélago

@@ -1,7 +1,7 @@
 ---
 aliases: ["Botas aladas", "Winged Boots"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Winged Boots|Winged Boots (EN)]]"
+related_en: "[[Magic Items/Winged Boots|Winged Boots (EN)]]"
 ---
 
 # Botas aladas

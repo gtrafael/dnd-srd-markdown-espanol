@@ -1,7 +1,7 @@
 ---
 aliases: ["Aventurarse", "Adventuring"]
 tags: [srd, espanol, tag_comojugar]
-related_en: "[[Gameplay/Adventuring|Adventuring (EN)]]"
+related_en: "[[Playing the Game/Adventuring|Adventuring (EN)]]"
 ---
 
 # Exploración

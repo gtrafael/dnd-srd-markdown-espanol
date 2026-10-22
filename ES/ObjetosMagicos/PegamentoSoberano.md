@@ -1,7 +1,7 @@
 ---
 aliases: ["Pegamento soberano", "Sovereign Glue"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Sovereign Glue|Sovereign Glue (EN)]]"
+related_en: "[[Magic Items/Sovereign Glue|Sovereign Glue (EN)]]"
 ---
 
 # Pegamento soberano

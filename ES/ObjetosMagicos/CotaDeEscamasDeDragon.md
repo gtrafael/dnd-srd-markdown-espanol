@@ -1,7 +1,7 @@
 ---
 aliases: ["Cota de escamas de dragón", "Dragon Scale Mail"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Dragon Scale Mail|Dragon Scale Mail (EN)]]"
+related_en: "[[Magic Items/Dragon Scale Mail|Dragon Scale Mail (EN)]]"
 ---
 
 # Cota de escamas de dragón

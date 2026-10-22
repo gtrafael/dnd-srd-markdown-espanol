@@ -1,7 +1,7 @@
 ---
 aliases: ["Hidra", "Hydra"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Hydra|Hydra (EN)]]"
+related_en: "[[Monsters A-Z/Hydra|Hydra (EN)]]"
 ---
 
 # Hidra

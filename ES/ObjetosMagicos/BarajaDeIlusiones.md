@@ -1,7 +1,7 @@
 ---
 aliases: ["Baraja de ilusiones", "Deck of Illusions"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Deck of Illusions|Deck of Illusions (EN)]]"
+related_en: "[[Magic Items/Deck of Illusions|Deck of Illusions (EN)]]"
 ---
 
 # Baraja de ilusiones

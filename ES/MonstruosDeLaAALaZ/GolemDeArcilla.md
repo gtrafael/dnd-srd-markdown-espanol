@@ -1,7 +1,7 @@
 ---
 aliases: ["Gólem de arcilla", "Clay Golem"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Clay Golem|Clay Golem (EN)]]"
+related_en: "[[Monsters A-Z/Clay Golem|Clay Golem (EN)]]"
 ---
 
 # Gólem de arcilla

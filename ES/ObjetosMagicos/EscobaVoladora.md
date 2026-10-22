@@ -1,7 +1,7 @@
 ---
 aliases: ["Escoba voladora", "Broom of Flying"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Broom of Flying|Broom of Flying (EN)]]"
+related_en: "[[Magic Items/Broom of Flying|Broom of Flying (EN)]]"
 ---
 
 # Escoba voladora

@@ -1,7 +1,7 @@
 ---
 aliases: ["Maza del terror", "Mace of Terror"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Mace of Terror|Mace of Terror (EN)]]"
+related_en: "[[Magic Items/Mace of Terror|Mace of Terror (EN)]]"
 ---
 
 # Maza del terror

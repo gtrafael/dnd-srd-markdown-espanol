@@ -1,7 +1,7 @@
 ---
 aliases: ["Grifo", "Griffon"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Griffon|Griffon (EN)]]"
+related_en: "[[Monsters A-Z/Griffon|Griffon (EN)]]"
 ---
 
 # Grifo

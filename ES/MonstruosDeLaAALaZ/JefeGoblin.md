@@ -1,7 +1,7 @@
 ---
 aliases: ["Jefe goblin", "Goblin Boss"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Goblin Boss|Goblin Boss (EN)]]"
+related_en: "[[Monsters A-Z/Goblin Boss|Goblin Boss (EN)]]"
 ---
 
 # Jefe goblin

@@ -1,7 +1,7 @@
 ---
 aliases: ["Polvo de estornudar y atragantarse", "Dust of Sneezing and Choking"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Dust of Sneezing and Choking|Dust of Sneezing and Choking (EN)]]"
+related_en: "[[Magic Items/Dust of Sneezing and Choking|Dust of Sneezing and Choking (EN)]]"
 ---
 
 # Polvo de estornudar y atragantarse

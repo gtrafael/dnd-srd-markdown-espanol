@@ -1,7 +1,7 @@
 ---
 aliases: ["Cuerda de escalada", "Rope of Climbing"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Rope of Climbing|Rope of Climbing (EN)]]"
+related_en: "[[Magic Items/Rope of Climbing|Rope of Climbing (EN)]]"
 ---
 
 # Cuerda de escalada

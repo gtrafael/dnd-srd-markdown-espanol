@@ -1,7 +1,7 @@
 ---
 aliases: ["Gólem de hierro", "Iron Golem"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Iron Golem|Iron Golem (EN)]]"
+related_en: "[[Monsters A-Z/Iron Golem|Iron Golem (EN)]]"
 ---
 
 # Gólem de hierro

@@ -1,7 +1,7 @@
 ---
 aliases: ["Monstruo corrosivo", "Rust Monster"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Rust Monster|Rust Monster (EN)]]"
+related_en: "[[Monsters A-Z/Rust Monster|Rust Monster (EN)]]"
 ---
 
 # Monstruo corrosivo

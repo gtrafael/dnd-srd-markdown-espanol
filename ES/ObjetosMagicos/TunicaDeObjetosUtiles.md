@@ -1,7 +1,7 @@
 ---
 aliases: ["Túnica de objetos útiles", "Robe of Useful Items"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Robe of Useful Items|Robe of Useful Items (EN)]]"
+related_en: "[[Magic Items/Robe of Useful Items|Robe of Useful Items (EN)]]"
 ---
 
 # Túnica de objetos útiles

@@ -1,7 +1,7 @@
 ---
 aliases: ["Saga de la noche", "Night Hag"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Night Hag|Night Hag (EN)]]"
+related_en: "[[Monsters A-Z/Night Hag|Night Hag (EN)]]"
 ---
 
 # Saga de la noche

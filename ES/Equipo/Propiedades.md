@@ -1,7 +1,8 @@
 ---
 aliases: ["Propiedades"]
 tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Properties|Properties (EN)]]"
+related_en_section: "[[Equipment/Weapons#Properties|Properties (EN)]]"
+alignment_mode: "section"
 ---
 
 # Propiedades

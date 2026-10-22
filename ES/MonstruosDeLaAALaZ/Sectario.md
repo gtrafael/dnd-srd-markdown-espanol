@@ -1,7 +1,7 @@
 ---
 aliases: ["Sectario", "Cultist"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Cultist|Cultist (EN)]]"
+related_en: "[[Monsters A-Z/Cultist|Cultist (EN)]]"
 ---
 
 # Sectario

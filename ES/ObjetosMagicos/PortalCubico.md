@@ -1,7 +1,7 @@
 ---
 aliases: ["Portal cúbico", "Cubic Gate"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Cubic Gate|Cubic Gate (EN)]]"
+related_en: "[[Magic Items/Cubic Gate|Cubic Gate (EN)]]"
 ---
 
 # Portal cúbico

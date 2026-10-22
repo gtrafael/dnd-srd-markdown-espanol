@@ -1,7 +1,7 @@
 ---
 aliases: ["Armadura de placas enana", "Dwarven Plate"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Dwarven Plate|Dwarven Plate (EN)]]"
+related_en: "[[Magic Items/Dwarven Plate|Dwarven Plate (EN)]]"
 ---
 
 # Armadura de placas enana

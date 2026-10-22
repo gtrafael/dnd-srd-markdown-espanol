@@ -1,7 +1,7 @@
 ---
 aliases: ["Redondear hacia abajo", "Round Down"]
 tags: [srd, espanol, tag_comojugar, recuadro]
-related_en: "[[Gameplay/Round Down|Round Down (EN)]]"
+related_en: "[[Playing the Game/Round Down|Round Down (EN)]]"
 ---
 # Redondear hacia abajo
 

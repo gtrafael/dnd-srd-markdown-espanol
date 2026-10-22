@@ -1,7 +1,7 @@
 ---
 aliases: ["Minotauro de Bafomet", "Minotaur of Baphomet"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Minotaur of Baphomet|Minotaur of Baphomet (EN)]]"
+related_en: "[[Monsters A-Z/Minotaur of Baphomet|Minotaur of Baphomet (EN)]]"
 ---
 
 # Minotauro de Bafomet

@@ -1,7 +1,7 @@
 ---
 aliases: ["Garrote grande atronador", "Thunderous Greatclub"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Thunderous Greatclub|Thunderous Greatclub (EN)]]"
+related_en: "[[Magic Items/Thunderous Greatclub|Thunderous Greatclub (EN)]]"
 ---
 
 # Garrote grande atronador

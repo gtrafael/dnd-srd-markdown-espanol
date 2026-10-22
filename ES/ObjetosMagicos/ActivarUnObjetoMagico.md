@@ -1,7 +1,7 @@
 ---
 aliases: ["Activar un objeto mágico"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Activating a Magic Item|Activating a Magic Item (EN)]]"
+related_en: "[[Magic Items/Activating a Magic Item|Activating a Magic Item (EN)]]"
 ---
 
 # Activar un objeto mágico

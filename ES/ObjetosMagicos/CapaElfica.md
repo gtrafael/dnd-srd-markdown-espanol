@@ -1,7 +1,7 @@
 ---
 aliases: ["Capa élfica", "Cloak of Elvenkind"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Cloak of Elvenkind|Cloak of Elvenkind (EN)]]"
+related_en: "[[Magic Items/Cloak of Elvenkind|Cloak of Elvenkind (EN)]]"
 ---
 
 # Capa élfica

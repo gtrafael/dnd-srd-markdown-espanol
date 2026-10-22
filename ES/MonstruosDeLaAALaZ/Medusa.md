@@ -1,7 +1,7 @@
 ---
 aliases: ["Medusa"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Medusa|Medusa (EN)]]"
+related_en: "[[Monsters A-Z/Medusa|Medusa (EN)]]"
 ---
 
 # Medusa

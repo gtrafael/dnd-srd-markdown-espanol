@@ -1,7 +1,7 @@
 ---
 aliases: ["Maza disruptiva", "Mace of Disruption"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Mace of Disruption|Mace of Disruption (EN)]]"
+related_en: "[[Magic Items/Mace of Disruption|Mace of Disruption (EN)]]"
 ---
 
 # Maza disruptiva

@@ -1,7 +1,7 @@
 ---
 aliases: ["Capa de protección", "Cloak of Protection"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Cloak of Protection|Cloak of Protection (EN)]]"
+related_en: "[[Magic Items/Cloak of Protection|Cloak of Protection (EN)]]"
 ---
 
 # Capa de protección

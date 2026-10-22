@@ -1,7 +1,7 @@
 ---
 aliases: ["Yelmo de teletransporte", "Helm of Teleportation"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Helm of Teleportation|Helm of Teleportation (EN)]]"
+related_en: "[[Magic Items/Helm of Teleportation|Helm of Teleportation (EN)]]"
 ---
 
 # Yelmo de teletransporte

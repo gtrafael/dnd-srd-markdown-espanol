@@ -1,7 +1,7 @@
 ---
 aliases: ["Túnica de los ojos", "Robe of Eyes"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Robe of Eyes|Robe of Eyes (EN)]]"
+related_en: "[[Magic Items/Robe of Eyes|Robe of Eyes (EN)]]"
 ---
 
 # Túnica de los ojos

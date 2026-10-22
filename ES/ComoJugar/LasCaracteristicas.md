@@ -1,7 +1,7 @@
 ---
 aliases: ["Las características", "Las seis características", "Habilidades", "Abilities"]
 tags: [srd, espanol, tag_comojugar]
-related_en: "[[Gameplay/Abilities|Abilities (EN)]]"
+related_en: "[[Playing the Game/The Six Abilities|Abilities (EN)]]"
 ---
 
 # Las características

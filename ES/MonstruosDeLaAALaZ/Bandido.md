@@ -1,7 +1,7 @@
 ---
 aliases: ["Bandido", "Bandit"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Bandit|Bandit (EN)]]"
+related_en: "[[Monsters A-Z/Bandit|Bandit (EN)]]"
 ---
 
 # Bandido

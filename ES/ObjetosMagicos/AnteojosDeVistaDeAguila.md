@@ -1,7 +1,7 @@
 ---
 aliases: ["Anteojos de vista de águila", "Eyes of the Eagle"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Eyes of the Eagle|Eyes of the Eagle (EN)]]"
+related_en: "[[Magic Items/Eyes of the Eagle|Eyes of the Eagle (EN)]]"
 ---
 
 # Anteojos de vista de águila

@@ -1,7 +1,7 @@
 ---
 aliases: ["Cuero tachonado encantado", "Glamoured Studded Leather"]
 tags: [srd, espanol, tag_tesoro]
-related_en: "[[Treasure/Glamoured Studded Leather|Glamoured Studded Leather (EN)]]"
+related_en: "[[Magic Items/Glamoured Studded Leather|Glamoured Studded Leather (EN)]]"
 ---
 
 # Cuero tachonado encantado

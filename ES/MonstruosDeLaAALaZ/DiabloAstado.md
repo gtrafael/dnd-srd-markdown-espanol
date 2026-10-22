@@ -1,7 +1,7 @@
 ---
 aliases: ["Diablo astado", "Horned Devil"]
 tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Horned Devil|Horned Devil (EN)]]"
+related_en: "[[Monsters A-Z/Horned Devil|Horned Devil (EN)]]"
 ---
 
 # Diablo astado
