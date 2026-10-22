@@ -124,6 +124,33 @@ def preparar_idioma(idioma: str, relaciones: list[dict]) -> None:
             directorio.rmdir()
 
 
+def validar_salida(relaciones: list[dict]) -> None:
+    """Comprueba la simetría mínima de la salida limpia ES/EN."""
+    archivos = {}
+    for idioma in ("ES", "EN"):
+        raiz = ROOT / idioma
+        docs = sorted(p.relative_to(raiz).as_posix() for p in raiz.rglob("*.md"))
+        if any("(Alt)" in p or p.endswith("-Index.md") for p in docs):
+            raise SystemExit(f"La salida {idioma} conserva índices auxiliares")
+        archivos[idioma] = docs
+
+    if len(archivos["ES"]) != len(archivos["EN"]):
+        raise SystemExit(
+            f"Corpus asimétrico: ES={len(archivos['ES'])}, EN={len(archivos['EN'])}"
+        )
+
+    relaciones_por_idioma = {
+        idioma: sum(1 for r in relaciones if r["idioma"] == idioma.lower())
+        for idioma in ("ES", "EN")
+    }
+    for idioma in ("ES", "EN"):
+        if relaciones_por_idioma[idioma] != len(archivos[idioma]):
+            raise SystemExit(
+                f"Relaciones bilingües incompletas en {idioma}: "
+                f"{relaciones_por_idioma[idioma]}/{len(archivos[idioma])}"
+            )
+
+
 def validar_fronteras_recuadros() -> None:
     combate = (ROOT / "ES/ComoJugar/Combate.md").read_text(encoding="utf-8")
     ocultos = (ROOT / "ES/ComoJugar/AtacantesYObjetivosOcultos.md").read_text(encoding="utf-8")
@@ -169,6 +196,7 @@ def main() -> int:
     preparar_idioma("ES", relaciones)
     preparar_idioma("EN", relaciones)
     validar_fronteras_recuadros()
+    validar_salida(relaciones)
 
     metadata = ROOT / "metadata"
     metadata.mkdir(exist_ok=True)
