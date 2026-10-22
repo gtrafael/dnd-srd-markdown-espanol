@@ -229,10 +229,6 @@ _**Neutral Evil (NE).**_ Neutral Evil is the alignment of those who are untroubl
 
 _**Chaotic Evil (CE).**_ Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
 
-### Unaligned Creatures
-
-Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. Sharks are savage predators, for example, but they aren't evil; they are unaligned.
-
 ## Step 5: Character Creation Details
 
 Now fill in the rest of your character sheet.
