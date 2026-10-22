@@ -59,6 +59,7 @@ CORRECCIONES_LITERAL = {
     "\\frac{1}{2}": "½",
     "\\times": "×",
     "Sila criatura": "Si la criatura",
+    "Ring of X-ray Visión": "Ring of X-ray Vision",
 }
 
 CORRECCIONES_PALABRA = {
