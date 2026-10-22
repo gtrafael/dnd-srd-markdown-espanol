@@ -5,7 +5,15 @@ on:
   push:
     branches: [custom/main]
     paths:
+      - "ES/**"
+      - "EN/**"
+      - "src/SP_SRD_CC_V5.2.1_index.json"
+      - "scripts/**"
       - ".github/workflows/validar-corpus-completo.yml"
+
+concurrency:
+  group: validar-corpus-completo
+  cancel-in-progress: true
 
 permissions:
   contents: read
