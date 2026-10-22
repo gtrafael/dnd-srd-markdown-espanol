@@ -57,10 +57,37 @@ def audit(es_root: Path, en_root: Path) -> dict:
     revisados = 0
     relaciones = 0
 
+    # custom/main también debe ser limpio y comprensible: nada de variantes Alt
+    # ni subíndices auxiliares que creen una segunda estructura paralela.
+    for root, idioma in ((es_root, "es"), (en_root, "en")):
+        for path in sorted(root.rglob("*.md")):
+            rel = path.relative_to(root)
+            if any("(Alt)" in parte for parte in rel.parts):
+                fallos.append({
+                    "tipo": "estructura_auxiliar_alt",
+                    "idioma": idioma,
+                    "archivo": rel.as_posix(),
+                })
+
+    indices_es = sorted(
+        p.relative_to(es_root).as_posix()
+        for p in es_root.rglob("*-Index.md")
+        if "(Alt)" not in p.as_posix()
+    )
+    indices_en = sorted(
+        p.relative_to(en_root).as_posix()
+        for p in en_root.rglob("*-Index.md")
+        if "(Alt)" not in p.as_posix()
+    )
+    if len(indices_es) != 13 or len(indices_en) != 13:
+        fallos.append({
+            "tipo": "indices_navegacion_asimetricos",
+            "indices_es": len(indices_es),
+            "indices_en": len(indices_en),
+        })
+
     for path in sorted(es_root.rglob("*.md")):
         rel = path.relative_to(es_root)
-        if any("(Alt)" in p for p in rel.parts):
-            continue
         if rel.name == "Espanol.md" or rel.name.endswith("-Index.md") or rel.as_posix() in EXCLUIR_ES:
             continue
 
@@ -114,6 +141,8 @@ def audit(es_root: Path, en_root: Path) -> dict:
         "summary": {
             "archivos_es_revisados": revisados,
             "relaciones_es_en": relaciones,
+            "indices_es": len(indices_es),
+            "indices_en": len(indices_en),
             "fallos": len(fallos),
         },
         "fallos": fallos,
