@@ -2,6 +2,21 @@
 
 > Index of **Treasure**
 
+## Chapter Structure
+
+- [[Magic Items]]
+- [[Magic Item Categories]]
+- [[Magic Item Rarity]]
+- [[Activating a Magic Item]]
+- [[The Next Dawn]]
+- [[Cursed Items]]
+- [[Magic Item Resilience]]
+- [[Crafting Magic Items]]
+- [[Sentient Magic Items]]
+- [[Magic Item Rules]]
+
+## Magic Item Catalog
+
 - [[Adamantine Armor]]
 - [[Ammunition of Slaying]]
 - [[Ammunition, 1, 2, or 3]]
@@ -146,7 +161,7 @@
 - [[Scarab of Protection]]
 - [[Scimitar of Speed]]
 - [[Sending Stones]]
-- [[Sentient Magic]]
+- [[Sentient Magic Items]]
 - [[Sentinel Shield]]
 - [[Shield of Missile Attraction]]
 - [[Shield of the Cavalier]]
