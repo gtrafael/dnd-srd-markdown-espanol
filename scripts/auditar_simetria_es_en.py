@@ -105,6 +105,31 @@ def audit(es_root: Path, en_root: Path) -> dict:
                     "encontrados": sorted(archivos),
                 })
 
+    # Cada vista Alt debe cubrir el mismo número total de destinos canónicos.
+    # La distribución por rangos puede variar al traducir nombres.
+    for carpeta_es, carpeta_en in (
+        ("Animales (Alt)", "Animals (Alt)"),
+        ("Conjuros (Alt)", "Spells (Alt)"),
+        ("MonstruosDeLaAALaZ (Alt)", "Monsters A-Z (Alt)"),
+        ("ObjetosMagicos (Alt)", "Magic Items (Alt)"),
+    ):
+        enlaces_es = sum(
+            len(re.findall(r"\[\[[^\]]+\]\]", p.read_text(encoding="utf-8")))
+            for p in (es_root / carpeta_es).glob("*.md")
+        )
+        enlaces_en = sum(
+            len(re.findall(r"\[\[[^\]]+\]\]", p.read_text(encoding="utf-8")))
+            for p in (en_root / carpeta_en).glob("*.md")
+        )
+        if enlaces_es != enlaces_en:
+            fallos.append({
+                "tipo": "cobertura_alt_asimetrica",
+                "catalogo_es": carpeta_es,
+                "catalogo_en": carpeta_en,
+                "enlaces_es": enlaces_es,
+                "enlaces_en": enlaces_en,
+            })
+
     indices_es = sorted(
         p.relative_to(es_root).as_posix()
         for p in es_root.rglob("*-Index.md")
@@ -124,6 +149,8 @@ def audit(es_root: Path, en_root: Path) -> dict:
 
     for path in sorted(es_root.rglob("*.md")):
         rel = path.relative_to(es_root)
+        if any("(Alt)" in parte for parte in rel.parts):
+            continue
         if rel.name == "Espanol.md" or rel.name.endswith("-Index.md") or rel.as_posix() in EXCLUIR_ES:
             continue
 
