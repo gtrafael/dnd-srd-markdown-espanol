@@ -1,6 +1,7 @@
 ---
 aliases: ["Varita de polimorfar"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Treasure/Wand of Polymorph|Wand of Polymorph (EN)]]"
 ---
 
 # Varita de polimorfar
