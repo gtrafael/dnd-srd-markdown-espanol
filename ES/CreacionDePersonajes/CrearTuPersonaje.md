@@ -16,7 +16,7 @@ Aquí tienes los pasos para crear un personaje, en los que profundizaremos en es
 
 4: Elegir un alineamiento. El alineamiento simboliza el sentido ético de tu personaje.
 
-5: Completar los detalles. nes, completa los detalles restantes de la hoja de personaje.
+5: Completar los detalles. Conforme a tus decisiones, completa los detalles restantes de la hoja de personaje.
 
 ## Paso 1: elegir una clase
 
