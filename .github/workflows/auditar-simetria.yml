@@ -2,7 +2,7 @@ name: Auditar simetría ES-EN
 
 on:
   push:
-    branches: [custom/main]
+    branches: [main]
     paths:
       - "ES/**"
       - "EN/**"
@@ -14,7 +14,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: auditar-simetria-custom-main
+  group: auditar-simetria-main
   cancel-in-progress: true
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: custom/main
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
