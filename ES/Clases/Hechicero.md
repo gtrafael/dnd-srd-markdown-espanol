@@ -224,7 +224,7 @@ Cuando lances un conjuro que inflija un tipo de daño de la siguiente lista, pue
 
 Esta sección presenta la lista de conjuros de hechicero. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un compnente material específico.
 
-Trucos (conjuros de hechicero de nivel 0)
+### Trucos (conjuros de hechicero de nivel 0)
 
 | Conjuro             | Escuela       | Especial |
 |---------------------|---------------|----------|
@@ -245,7 +245,7 @@ Trucos (conjuros de hechicero de nivel 0)
 | Salpicadura ácida   | Evocación     | —        |
 | Toque helado        | Nigromancia   | —        |
 
-Conjuros de hechicero de nivel 1
+### Conjuros de hechicero de nivel 1
 
 | Conjuro           | Escuela       | Especial |
 |-------------------|---------------|----------|
@@ -260,9 +260,6 @@ Conjuros de hechicero de nivel 1
 | Falsa vida        | Nigromancia   | —        |
 | Grasa             | Conjuración   | —        |
 | Hechizar persona  | Encantamiento | —        |
-
-| Conjuro                | Escuela       | Especial |
-|------------------------|---------------|----------|
 | Imagen silenciosa      | Ilusionismo   | C        |
 | Manos ardientes        | Evocación     | —        |
 | Nube de oscurecimiento | Conjuración   | C        |
@@ -274,7 +271,7 @@ Conjuros de hechicero de nivel 1
 | Rociada de color       | Ilusionismo   | —        |
 | Salto                  | Transmutación | —        |
 
-Conjuros de hechicero de nivel 2
+### Conjuros de hechicero de nivel 2
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -304,7 +301,7 @@ Conjuros de hechicero de nivel 2
 | Ver invisibilidad         | Adivinación   | —        |
 | Visión en la oscuridad    | Transmutación | —        |
 
-Conjuros de hechicero de nivel 3
+### Conjuros de hechicero de nivel 3
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -330,7 +327,7 @@ Conjuros de hechicero de nivel 3
 | Tormenta de aguanieve     | Conjuración   | C        |
 | Volar                     | Transmutación | C        |
 
-Conjuros de hechicero de nivel 4
+### Conjuros de hechicero de nivel 4
 
 | Conjuro                | Escuela       | Especial |
 |------------------------|---------------|----------|
@@ -348,7 +345,7 @@ Conjuros de hechicero de nivel 4
 | Puerta dimensional     | Conjuración   | —        |
 | Tormenta de hielo      | Evocación     | —        |
 
-Conjuros de hechicero de nivel 5
+### Conjuros de hechicero de nivel 5
 
 | Conjuro                       | Escuela       | Especial |
 |-------------------------------|---------------|----------|
@@ -365,7 +362,7 @@ Conjuros de hechicero de nivel 5
 | Plaga de insectos             | Conjuración   | C        |
 | Telequinesis                  | Transmutación | C        |
 
-Conjuros de hechicero de nivel 6
+### Conjuros de hechicero de nivel 6
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -381,7 +378,7 @@ Conjuros de hechicero de nivel 6
 | Sugestión en masa         | Encantamiento | —        |
 | Visión veraz              | Adivinación   | M        |
 
-Conjuros de hechicero de nivel 7
+### Conjuros de hechicero de nivel 7
 
 | Conjuro                              | Escuela       | Especial |
 |--------------------------------------|---------------|----------|
@@ -394,7 +391,7 @@ Conjuros de hechicero de nivel 7
 | Teletransporte                       | Conjuración   | —        |
 | Tormenta de fuego                    | Evocación     | —        |
 
-Conjuros de hechicero de nivel 8
+### Conjuros de hechicero de nivel 8
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -405,7 +402,7 @@ Conjuros de hechicero de nivel 8
 | Semiplano                 | Conjuración   | —        |
 | Terremoto                 | Transmutación | C        |
 
-Conjuros de hechicero de nivel 9
+### Conjuros de hechicero de nivel 9
 
 | Conjuro                 | Escuela       | Especial |
 |-------------------------|---------------|----------|

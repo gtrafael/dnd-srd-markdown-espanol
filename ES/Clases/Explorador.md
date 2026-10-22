@@ -164,7 +164,7 @@ El dado de daño de tu marca del cazador es un d10 en lugar de un d6.
 
 Esta sección presenta la lista de conjuros de explorador. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico.
 
-Conjuros de explorador de nivel 1
+### Conjuros de explorador de nivel 1
 
 | Conjuro                         | Escuela       | Especial |
 |---------------------------------|---------------|----------|
@@ -182,7 +182,7 @@ Conjuros de explorador de nivel 1
 | Salto                           | Transmutación | —        |
 | Zancada prodigiosa              | Transmutación | —        |
 
-Conjuros de explorador de nivel 2
+### Conjuros de explorador de nivel 2
 
 | Conjuro                      | Escuela       | Especial |
 |------------------------------|---------------|----------|
@@ -202,7 +202,7 @@ Conjuros de explorador de nivel 2
 | Silencio                     | Ilusionismo   | C, R     |
 | Visión en la oscuridad       | Transmutación | —        |
 
-Conjuros de explorador de nivel 3
+### Conjuros de explorador de nivel 3
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -219,7 +219,7 @@ Conjuros de explorador de nivel 3
 | Respirar bajo el agua     | Transmutación | R        |
 | Revivir                   | Nigromancia   | M        |
 
-Conjuros de explorador de nivel 4
+### Conjuros de explorador de nivel 4
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -229,7 +229,7 @@ Conjuros de explorador de nivel 4
 | Localizar criatura        | Adivinación   | C        |
 | Piel pétrea               | Transmutación | C, M     |
 
-Conjuros de explorador de nivel 5
+### Conjuros de explorador de nivel 5
 
 | Conjuro                    | Escuela     | Especial |
 |----------------------------|-------------|----------|

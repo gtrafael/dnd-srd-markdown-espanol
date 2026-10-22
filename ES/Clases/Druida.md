@@ -191,7 +191,7 @@ Longevidad. La magia primigenia que dominas ralentiza tu envejecimiento. Por cad
 
 Esta sección presenta la lista de conjuros de druida. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico.
 
-Trucos (conjuros de druida de nivel 0)
+### Trucos (conjuros de druida de nivel 0)
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -207,7 +207,7 @@ Trucos (conjuros de druida de nivel 0)
 | Shillelagh                | Transmutación | —        |
 | Voluta estelar            | Evocación     | —        |
 
-Conjuros de druida de nivel 1
+### Conjuros de druida de nivel 1
 
 | Conjuro                            | Escuela       | Especial |
 |------------------------------------|---------------|----------|
@@ -230,7 +230,7 @@ Conjuros de druida de nivel 1
 | Salto                              | Transmutación | —        |
 | Zancada prodigiosa                 | Transmutación | —        |
 
-Conjuros de druida de nivel 2
+### Conjuros de druida de nivel 2
 
 | Conjuro                      | Escuela       | Especial |
 |------------------------------|---------------|----------|
@@ -256,7 +256,7 @@ Conjuros de druida de nivel 2
 | Restablecimiento menor       | Abjuración    | —        |
 | Visión en la oscuridad       | Transmutación | —        |
 
-Conjuros de druida de nivel 3
+### Conjuros de druida de nivel 3
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -274,7 +274,7 @@ Conjuros de druida de nivel 3
 | Revivir                   | Nigromancia   | M        |
 | Tormenta de aguanieve     | Conjuración   | C        |
 
-Conjuros de druida de nivel 4
+### Conjuros de druida de nivel 4
 
 | Conjuro                      | Escuela       | Especial |
 |------------------------------|---------------|----------|
@@ -297,7 +297,7 @@ Conjuros de druida de nivel 4
 | Terreno alucinatorio         | Ilusionismo   | —        |
 | Tormenta de hielo            | Evocación     | —        |
 
-Conjuros de druida de nivel 5
+### Conjuros de druida de nivel 5
 
 | Conjuro                    | Escuela     | Especial |
 |----------------------------|-------------|----------|
@@ -308,9 +308,6 @@ Conjuros de druida de nivel 5
 | Cono de frío               | Evocación   | —        |
 | Contagio                   | Nigromancia | —        |
 | Curar heridas en masa      | Abjuración  | —        |
-
-| Conjuro                | Escuela       | Especial |
-|------------------------|---------------|----------|
 | Despertar              | Transmutación | M        |
 | Escudriñar             | Adivinación   | C, M     |
 | Geas                   | Encantamiento | —        |
@@ -320,7 +317,7 @@ Conjuros de druida de nivel 5
 | Reencarnar             | Nigromancia   | M        |
 | Restablecimiento mayor | Abjuración    | M        |
 
-Conjuros de druida de nivel 6
+### Conjuros de druida de nivel 6
 
 | Conjuro                 | Escuela       | Especial |
 |-------------------------|---------------|----------|
@@ -335,7 +332,7 @@ Conjuros de druida de nivel 6
 | Viajar con el viento    | Transmutación | —        |
 | Viajar mediante plantas | Conjuración   | —        |
 
-Conjuros de druida de nivel 7
+### Conjuros de druida de nivel 7
 
 | Conjuro                     | Escuela       | Especial |
 |-----------------------------|---------------|----------|
@@ -346,7 +343,7 @@ Conjuros de druida de nivel 7
 | Símbolo                     | Abjuración    | M        |
 | Tormenta de fuego           | Evocación     | —        |
 
-Conjuros de druida de nivel 8
+### Conjuros de druida de nivel 8
 
 | Conjuro            | Escuela       | Especial |
 |--------------------|---------------|----------|
@@ -359,7 +356,7 @@ Conjuros de druida de nivel 8
 | Terremoto          | Transmutación | C        |
 | Tsunami            | Conjuración   | C        |
 
-Conjuros de druida de nivel 9
+### Conjuros de druida de nivel 9
 
 | Conjuro                 | Escuela       | Especial |
 |-------------------------|---------------|----------|
@@ -384,7 +381,7 @@ El daño y la curación aumentan en 1d6 cuando alcances los niveles 10 (3d6) y 1
 
 Tras finalizar un descanso largo, elige un tipo de terreno: árido, polar, templado o tropical. Consulta a continuación la tabla que se corresponda con el tipo elegido. Tendrás preparados los conjuros que se mencionan para tu nivel de druida e inferiores.
 
-Terreno árido
+#### Terreno árido
 
 | Nivel de druida | Conjuros de círculo                                  |
 |----------------:|------------------------------------------------------|
@@ -393,7 +390,7 @@ Terreno árido
 |               7 | Marchitar                                            |
 |               9 | Muro de piedra                                       |
 
-Terreno polar
+#### Terreno polar
 
 | Nivel de druida | Conjuros de círculo                                           |
 |----------------:|---------------------------------------------------------------|
@@ -402,7 +399,7 @@ Terreno polar
 |               7 | Tormenta de hielo                                             |
 |               9 | Cono de frío                                                  |
 
-Terreno templado
+#### Terreno templado
 
 | Nivel de druida | Conjuros de círculo                       |
 |----------------:|-------------------------------------------|
@@ -411,7 +408,7 @@ Terreno templado
 |               7 | Libertad de movimiento                    |
 |               9 | Paso arbóreo                              |
 
-Terreno tropical
+#### Terreno tropical
 
 | Nivel de druida | Conjuros de círculo                           |
 |----------------:|-----------------------------------------------|

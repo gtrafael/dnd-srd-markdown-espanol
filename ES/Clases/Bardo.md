@@ -147,7 +147,7 @@ Ahora dominas dos de las palabras de creación: las palabras de la vida y de la 
 
 Esta sección presenta la lista de conjuros de bardo. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico.
 
-Trucos (conjuros de bardo de nivel 0)
+### Trucos (conjuros de bardo de nivel 0)
 
 | Conjuro          | Escuela       | Especial |
 |------------------|---------------|----------|
@@ -162,7 +162,7 @@ Trucos (conjuros de bardo de nivel 0)
 | Reparar          | Transmutación | —        |
 | Voluta estelar   | Evocación     | —        |
 
-Conjuros de bardo de nivel 1
+### Conjuros de bardo de nivel 1
 
 | Conjuro                 | Escuela       | Especial |
 |-------------------------|---------------|----------|
@@ -190,7 +190,7 @@ Conjuros de bardo de nivel 1
 | Texto ilusorio          | Ilusionismo   | R, M     |
 | Zancada prodigiosa      | Transmutación | —        |
 
-Conjuros de bardo de nivel 2
+### Conjuros de bardo de nivel 2
 
 | Conjuro                      | Escuela       | Especial |
 |------------------------------|---------------|----------|
@@ -211,16 +211,13 @@ Conjuros de bardo de nivel 2
 | Mensajero animal             | Encantamiento | R        |
 | Potenciar característica     | Transmutación | C        |
 | Restablecimiento menor       | Abjuración    | —        |
-
-| Conjuro           | Escuela       | Especial |
-|-------------------|---------------|----------|
 | Silencio          | Ilusionismo   | C, R     |
 | Sordera/ceguera   | Transmutación | —        |
 | Sugestión         | Encantamiento | C        |
 | Ver invisibilidad | Adivinación   | —        |
 | Zona de la verdad | Encantamiento | —        |
 
-Conjuros de bardo de nivel 3
+### Conjuros de bardo de nivel 3
 
 | Conjuro                     | Escuela       | Especial |
 |-----------------------------|---------------|----------|
@@ -242,7 +239,7 @@ Conjuros de bardo de nivel 3
 | Recado                      | Adivinación   | —        |
 | Terror                      | Ilusionismo   | C        |
 
-Conjuros de bardo de nivel 4
+### Conjuros de bardo de nivel 4
 
 | Conjuro                | Escuela       | Especial |
 |------------------------|---------------|----------|
@@ -257,7 +254,7 @@ Conjuros de bardo de nivel 4
 | Puerta dimensional     | Conjuración   | —        |
 | Terreno alucinatorio   | Ilusionismo   | —        |
 
-Conjuros de bardo de nivel 5
+### Conjuros de bardo de nivel 5
 
 | Conjuro                       | Escuela       | Especial |
 |-------------------------------|---------------|----------|
@@ -279,7 +276,7 @@ Conjuros de bardo de nivel 5
 | Inmovilizar monstruo          | Encantamiento | C        |
 | Restablecimiento mayor        | Abjuración    | M        |
 
-Conjuros de bardo de nivel 6
+### Conjuros de bardo de nivel 6
 
 | Conjuro             | Escuela       | Especial |
 |---------------------|---------------|----------|
@@ -292,7 +289,7 @@ Conjuros de bardo de nivel 6
 | Sugestión en masa   | Encantamiento | —        |
 | Visión veraz        | Adivinación   | M        |
 
-Conjuros de bardo de nivel 7
+### Conjuros de bardo de nivel 7
 
 | Conjuro            | Escuela       | Especial |
 |--------------------|---------------|----------|
@@ -308,21 +305,18 @@ Conjuros de bardo de nivel 7
 | Símbolo            | Abjuración    | M        |
 | Teletransporte     | Conjuración   | —        |
 
-Conjuros de bardo de nivel 8
+### Conjuros de bardo de nivel 8
 
 | Conjuro            | Escuela       | Especial |
 |--------------------|---------------|----------|
 | Antipatía/simpatía | Encantamiento | —        |
 | Dominar monstruo   | Encantamiento | C        |
 | Labia              | Encantamiento | —        |
-
-| Conjuro                   | Escuela       | Especial |
-|---------------------------|---------------|----------|
 | Mente en blanco           | Abjuración    | —        |
 | Ofuscación                | Encantamiento | —        |
 | Palabra de poder: aturdir | Encantamiento | —        |
 
-Conjuros de bardo de nivel 9
+### Conjuros de bardo de nivel 9
 
 | Conjuro                 | Escuela       | Especial |
 |-------------------------|---------------|----------|

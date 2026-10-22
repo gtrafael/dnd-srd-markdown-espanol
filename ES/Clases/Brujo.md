@@ -338,7 +338,7 @@ Puedes ver con normalidad en luz tenue y en la oscuridad, tanto si son mágicas 
 
 Esta sección presenta la lista de conjuros de brujo. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico.
 
-Trucos (conjuros de brujo de nivel 0)
+### Trucos (conjuros de brujo de nivel 0)
 
 | Conjuro               | Escuela       | Especial |
 |-----------------------|---------------|----------|
@@ -350,7 +350,7 @@ Trucos (conjuros de brujo de nivel 0)
 | Rociada venenosa      | Nigromancia   | —        |
 | Toque helado          | Nigromancia   | —        |
 
-Conjuros de brujo de nivel 1
+### Conjuros de brujo de nivel 1
 
 | Conjuro                            | Escuela       | Especial |
 |------------------------------------|---------------|----------|
@@ -367,7 +367,7 @@ Conjuros de brujo de nivel 1
 | Sirviente invisible                | Conjuración   | R        |
 | Texto ilusorio                     | Ilusionismo   | R, M     |
 
-Conjuros de brujo de nivel 2
+### Conjuros de brujo de nivel 2
 
 | Conjuro              | Escuela       | Especial |
 |----------------------|---------------|----------|
@@ -382,7 +382,7 @@ Conjuros de brujo de nivel 2
 | Sugestión            | Encantamiento | C        |
 | Trepar cual arácnido | Transmutación | C        |
 
-Conjuros de brujo de nivel 3
+### Conjuros de brujo de nivel 3
 
 | Conjuro            | Escuela       | Especial |
 |--------------------|---------------|----------|
@@ -398,7 +398,7 @@ Conjuros de brujo de nivel 3
 | Toque vampírico    | Nigromancia   | C        |
 | Volar              | Transmutación | C        |
 
-Conjuros de brujo de nivel 4
+### Conjuros de brujo de nivel 4
 
 | Conjuro              | Escuela       | Especial |
 |----------------------|---------------|----------|
@@ -408,7 +408,7 @@ Conjuros de brujo de nivel 4
 | Puerta dimensional   | Conjuración   | —        |
 | Terreno alucinatorio | Ilusionismo   | —        |
 
-Conjuros de brujo de nivel 5
+### Conjuros de brujo de nivel 5
 
 | Conjuro                       | Escuela       | Especial |
 |-------------------------------|---------------|----------|
@@ -420,7 +420,7 @@ Conjuros de brujo de nivel 5
 | Escudriñar                    | Adivinación   | C, M     |
 | Inmovilizar monstruo          | Encantamiento | C        |
 
-Conjuros de brujo de nivel 6
+### Conjuros de brujo de nivel 6
 
 | Conjuro               | Escuela     | Especial |
 |-----------------------|-------------|----------|
@@ -429,7 +429,7 @@ Conjuros de brujo de nivel 6
 | Mal de ojo            | Nigromancia | C        |
 | Visión veraz          | Adivinación | M        |
 
-Conjuros de brujo de nivel 7
+### Conjuros de brujo de nivel 7
 
 | Conjuro                     | Escuela     | Especial |
 |-----------------------------|-------------|----------|
@@ -438,7 +438,7 @@ Conjuros de brujo de nivel 7
 | Excursión etérea            | Conjuración | —        |
 | Jaula de fuerza             | Evocación   | C, M     |
 
-Conjuros de brujo de nivel 8
+### Conjuros de brujo de nivel 8
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -448,7 +448,7 @@ Conjuros de brujo de nivel 8
 | Palabra de poder: aturdir | Encantamiento | —        |
 | Semiplano                 | Conjuración   | —        |
 
-Conjuros de brujo de nivel 9
+### Conjuros de brujo de nivel 9
 
 | Conjuro                 | Escuela       | Especial |
 |-------------------------|---------------|----------|

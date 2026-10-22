@@ -176,7 +176,7 @@ Obtienes una dote de don épico (consulta el capítulo “Dotes”) u otra dote 
 
 Esta sección presenta la lista de conjuros de paladín. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico.
 
-Conjuros de paladín de nivel 1
+### Conjuros de paladín de nivel 1
 
 | Conjuro                            | Escuela       | Especial |
 |------------------------------------|---------------|----------|
@@ -194,7 +194,7 @@ Conjuros de paladín de nivel 1
 | Protección contra el bien y el mal | Abjuración    | C, M     |
 | Purificar comida y bebida          | Transmutación | R        |
 
-Conjuros de paladín de nivel 2
+### Conjuros de paladín de nivel 2
 
 | Conjuro                  | Escuela       | Especial |
 |--------------------------|---------------|----------|
@@ -210,7 +210,7 @@ Conjuros de paladín de nivel 2
 | Vínculo protector        | Abjuración    | M        |
 | Zona de la verdad        | Encantamiento | —        |
 
-Conjuros de paladín de nivel 3
+### Conjuros de paladín de nivel 3
 
 | Conjuro             | Escuela     | Especial |
 |---------------------|-------------|----------|
@@ -218,13 +218,10 @@ Conjuros de paladín de nivel 3
 | Crear comida y agua | Conjuración | —        |
 | Disipar magia       | Abjuración  | —        |
 | Levantar maldición  | Abjuración  | —        |
-
-| Conjuro     | Escuela     | Especial |
-|-------------|-------------|----------|
 | Luz del día | Evocación   | —        |
 | Revivir     | Nigromancia | M        |
 
-Conjuros de paladín de nivel 4
+### Conjuros de paladín de nivel 4
 
 | Conjuro                 | Escuela     | Especial |
 |-------------------------|-------------|----------|
@@ -233,7 +230,7 @@ Conjuros de paladín de nivel 4
 | Guarda contra la muerte | Abjuración  | —        |
 | Localizar criatura      | Adivinación | C        |
 
-Conjuros de paladín de nivel 5
+### Conjuros de paladín de nivel 5
 
 | Conjuro                  | Escuela       | Especial |
 |--------------------------|---------------|----------|

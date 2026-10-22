@@ -154,7 +154,7 @@ Puedes solicitar una intercesión divina todavía más poderosa. Cuando uses tu 
 
 Esta sección presenta la lista de conjuros de clérigo. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico.
 
-Trucos (conjuros de clérigo de nivel 0)
+### Trucos (conjuros de clérigo de nivel 0)
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -166,7 +166,7 @@ Trucos (conjuros de clérigo de nivel 0)
 | Resistencia               | Abjuración    | C        |
 | Taumaturgia               | Transmutación | —        |
 
-Conjuros de clérigo de nivel 1
+### Conjuros de clérigo de nivel 1
 
 | Conjuro                            | Escuela       | Especial |
 |------------------------------------|---------------|----------|
@@ -186,7 +186,7 @@ Conjuros de clérigo de nivel 1
 | Saeta guía                         | Evocación     | —        |
 | Santuario                          | Abjuración    | —        |
 
-Conjuros de clérigo de nivel 2
+### Conjuros de clérigo de nivel 2
 
 | Conjuro                  | Escuela       | Especial |
 |--------------------------|---------------|----------|
@@ -208,7 +208,7 @@ Conjuros de clérigo de nivel 2
 | Vínculo protector        | Abjuración    | M        |
 | Zona de la verdad        | Encantamiento | —        |
 
-Conjuros de clérigo de nivel 3
+### Conjuros de clérigo de nivel 3
 
 | Conjuro                | Escuela       | Especial |
 |------------------------|---------------|----------|
@@ -226,16 +226,13 @@ Conjuros de clérigo de nivel 3
 | Imponer maldición      | Nigromancia   | C        |
 | Levantar maldición     | Abjuración    | —        |
 | Luz del día            | Evocación     | —        |
-
-| Conjuro                     | Escuela     | Especial |
-|-----------------------------|-------------|----------|
 | Palabra de curación en masa | Abjuración  | —        |
 | Protección contra energía   | Abjuración  | C        |
 | Recado                      | Adivinación | —        |
 | Revivir                     | Nigromancia | M        |
 | Señal de esperanza          | Abjuración  | C        |
 
-Conjuros de clérigo de nivel 4
+### Conjuros de clérigo de nivel 4
 
 | Conjuro                 | Escuela       | Especial |
 |-------------------------|---------------|----------|
@@ -249,7 +246,7 @@ Conjuros de clérigo de nivel 4
 | Localizar criatura      | Adivinación   | C        |
 | Moldear la piedra       | Transmutación | —        |
 
-Conjuros de clérigo de nivel 5
+### Conjuros de clérigo de nivel 5
 
 | Conjuro                  | Escuela       | Especial |
 |--------------------------|---------------|----------|
@@ -267,7 +264,7 @@ Conjuros de clérigo de nivel 5
 | Plaga de insectos        | Conjuración   | C        |
 | Restablecimiento mayor   | Abjuración    | M        |
 
-Conjuros de clérigo de nivel 6
+### Conjuros de clérigo de nivel 6
 
 | Conjuro               | Escuela     | Especial |
 |-----------------------|-------------|----------|
@@ -283,7 +280,7 @@ Conjuros de clérigo de nivel 6
 | Rayo solar            | Evocación   | C        |
 | Visión veraz          | Adivinación | M        |
 
-Conjuros de clérigo de nivel 7
+### Conjuros de clérigo de nivel 7
 
 | Conjuro                     | Escuela       | Especial |
 |-----------------------------|---------------|----------|
@@ -296,7 +293,7 @@ Conjuros de clérigo de nivel 7
 | Símbolo                     | Abjuración    | M        |
 | Tormenta de fuego           | Evocación     | —        |
 
-Conjuros de clérigo de nivel 8
+### Conjuros de clérigo de nivel 8
 
 | Conjuro            | Escuela       | Especial |
 |--------------------|---------------|----------|
@@ -306,7 +303,7 @@ Conjuros de clérigo de nivel 8
 | Explosión solar    | Evocación     | —        |
 | Terremoto          | Transmutación | C        |
 
-Conjuros de clérigo de nivel 9
+### Conjuros de clérigo de nivel 9
 
 | Conjuro                 | Escuela       | Especial |
 |-------------------------|---------------|----------|

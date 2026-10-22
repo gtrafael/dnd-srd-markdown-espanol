@@ -144,7 +144,7 @@ Escoge dos conjuros de nivel 3 que figuren en tu libro de conjuros como conjuros
 
 Esta sección presenta la lista de conjuros de mago. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico.
 
-Trucos (conjuros de mago de nivel 0)
+### Trucos (conjuros de mago de nivel 0)
 
 | Conjuro             | Escuela       | Especial |
 |---------------------|---------------|----------|
@@ -164,7 +164,7 @@ Trucos (conjuros de mago de nivel 0)
 | Salpicadura ácida   | Evocación     | —        |
 | Toque helado        | Nigromancia   | —        |
 
-Conjuros de mago de nivel 1
+### Conjuros de mago de nivel 1
 
 | Conjuro                            | Escuela       | Especial |
 |------------------------------------|---------------|----------|
@@ -199,7 +199,7 @@ Conjuros de mago de nivel 1
 | Texto ilusorio                     | Ilusionismo   | R, M     |
 | Zancada prodigiosa                 | Transmutación | —        |
 
-Conjuros de mago de nivel 2
+### Conjuros de mago de nivel 2
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -219,9 +219,6 @@ Conjuros de mago de nivel 2
 | Esfera de llamas          | Evocación     | C        |
 | Flecha ácida              | Evocación     | —        |
 | Hacer añicos              | Evocación     | —        |
-
-| Conjuro                  | Escuela       | Especial |
-|--------------------------|---------------|----------|
 | Imagen múltiple          | Ilusionismo   | —        |
 | Inmovilizar persona      | Encantamiento | C        |
 | Invisibilidad            | Ilusionismo   | C        |
@@ -242,7 +239,7 @@ Conjuros de mago de nivel 2
 | Ver invisibilidad        | Adivinación   | —        |
 | Visión en la oscuridad   | Transmutación | —        |
 
-Conjuros de mago de nivel 3
+### Conjuros de mago de nivel 3
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -276,7 +273,7 @@ Conjuros de mago de nivel 3
 | Tormenta de aguanieve     | Conjuración   | C        |
 | Volar                     | Transmutación | C        |
 
-Conjuros de mago de nivel 4
+### Conjuros de mago de nivel 4
 
 | Conjuro                      | Escuela       | Especial |
 |------------------------------|---------------|----------|
@@ -307,7 +304,7 @@ Conjuros de mago de nivel 4
 | Terreno alucinatorio         | Ilusionismo   | —        |
 | Tormenta de hielo            | Evocación     | —        |
 
-Conjuros de mago de nivel 5
+### Conjuros de mago de nivel 5
 
 | Conjuro                       | Escuela       | Especial |
 |-------------------------------|---------------|----------|
@@ -316,9 +313,6 @@ Conjuros de mago de nivel 5
 | Apariencia                    | Ilusionismo   | —        |
 | Atadura planar                | Abjuración    | M        |
 | Círculo de teletransportación | Conjuración   | M        |
-
-| Conjuro                  | Escuela       | Especial |
-|--------------------------|---------------|----------|
 | Conjurar elemental       | Conjuración   | C        |
 | Cono de frío             | Evocación     | —        |
 | Conocer las leyendas     | Adivinación   | M        |
@@ -339,7 +333,7 @@ Conjuros de mago de nivel 5
 | Pasamuros                | Transmutación | —        |
 | Telequinesis             | Transmutación | C        |
 
-Conjuros de mago de nivel 6
+### Conjuros de mago de nivel 6
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -363,7 +357,7 @@ Conjuros de mago de nivel 6
 | Urna mágica               | Nigromancia   | M        |
 | Visión veraz              | Adivinación   | M        |
 
-Conjuros de mago de nivel 7
+### Conjuros de mago de nivel 7
 
 | Conjuro                              | Escuela       | Especial |
 |--------------------------------------|---------------|----------|
@@ -383,7 +377,7 @@ Conjuros de mago de nivel 7
 | Simulacro                            | Ilusionismo   | M        |
 | Teletransporte                       | Conjuración   | —        |
 
-Conjuros de mago de nivel 8
+### Conjuros de mago de nivel 8
 
 | Conjuro                   | Escuela       | Especial |
 |---------------------------|---------------|----------|
@@ -400,7 +394,7 @@ Conjuros de mago de nivel 8
 | Palabra de poder: aturdir | Encantamiento | —        |
 | Semiplano                 | Conjuración   | —        |
 
-Conjuros de mago de nivel 9
+### Conjuros de mago de nivel 9
 
 | Conjuro                 | Escuela       | Especial |
 |-------------------------|---------------|----------|
@@ -414,9 +408,6 @@ Conjuros de mago de nivel 9
 | Portal                  | Conjuración   | C, M     |
 | Presciencia             | Adivinación   | —        |
 | Proyección astral       | Nigromancia   | M        |
-
-| Conjuro                | Escuela     | Especial |
-|------------------------|-------------|----------|
 | Terror abyecto         | Ilusionismo | C        |
 | Tormenta de meteoritos | Evocación   | —        |
 
