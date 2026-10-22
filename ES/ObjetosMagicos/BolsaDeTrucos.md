@@ -16,7 +16,7 @@ La criatura es amistosa contigo y tus aliados y actúa inmediatamente después d
 
 Una vez que se han extraído tres objetos peludos de la bolsa, no puede volver a utilizarse hasta el siguiente amanecer.
 
-Bolsa de trucos gris
+## Bolsa de trucos gris
 
 | 1d8 | Criatura |
 |---|---|
@@ -29,7 +29,7 @@ Bolsa de trucos gris
 | 7 | Lobo terrible |
 | 8 | Alce gigante |
 
-Bolsa de trucos rojiza
+## Bolsa de trucos rojiza
 
 | 1d8 | Criatura |
 |---|---|
@@ -42,7 +42,7 @@ Bolsa de trucos rojiza
 | 7 | León |
 | 8 | Oso pardo |
 
-Bolsa de trucos marrón
+## Bolsa de trucos marrón
 
 | 1d8 | Criatura |
 |---|---|
