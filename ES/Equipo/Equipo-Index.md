@@ -2,11 +2,10 @@
 
 Índice de equipo del SRD 5.2.1 en español.
 
-**Archivos:** 17
+**Archivos TOC:** 16
 
 - [[Equipo/Armaduras|Armaduras]]
 - [[Equipo/Armas|Armas]]
-- [[Equipo/VenderEquipo|Vender equipo]]
 - [[Equipo/Asalariados|Asalariados]]
 - [[Equipo/ComidaBebidaYAlojamiento|ComidaBebidaYAlojamiento]]
 - [[Equipo/ElaborarPergaminosDeConjuro|ElaborarPergaminosDeConjuro]]
@@ -21,3 +20,8 @@
 - [[Equipo/ObjetosMagicos|ObjetosMagicos]]
 - [[Equipo/Propiedades|Propiedades]]
 - [[Equipo/PropiedadesDeMaestria|PropiedadesDeMaestria]]
+
+## Recuadros
+
+- [[Equipo/VenderEquipo|Vender equipo]]
+- [[Equipo/ArmasImprovisadas|Armas improvisadas]]
