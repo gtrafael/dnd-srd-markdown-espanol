@@ -20,7 +20,7 @@ Ningún término obsoleto. El glosario contiene únicamente las definiciones de 
 
 Abreviaciones. Las abreviaciones que se indican a continuación aparecen en este glosario y en otras partes de las reglas.
 
-| Abreviatura | Significado |
+| Abreviaciones | Significado |
 |---|---|
 | BC | Bonificador por competencia |
 | C | Concentración |
