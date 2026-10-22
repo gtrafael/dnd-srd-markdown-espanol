@@ -7,7 +7,7 @@
 - [[Crafting]]
 - [[Expenses]]
 - [[Gear]]
-- [[Equipment|Selling Equipment]]
+- [[Selling Equipment]]
 - [[Tools]]
 - [[Trade Goods]]
 - [[Transportation]]
