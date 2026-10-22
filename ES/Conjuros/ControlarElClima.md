@@ -24,7 +24,7 @@ Puedes cambiar las precipitaciones, la temperatura y el viento. Se tardan 1d4 ×
 
 Cuando cambies las condiciones meteorológicas, busca un estado en las tablas siguientes y modifica su nivel en uno, arriba o abajo. Si cambias el viento, también puedes alterar su dirección.
 
-**Precipitaciones**
+## Precipitaciones
 
 | Nivel | Estado                                            |
 |------:|---------------------------------------------------|
@@ -34,7 +34,7 @@ Cuando cambies las condiciones meteorológicas, busca un estado en las tablas si
 |     4 | Lluvia, granizo o nieve                           |
 |     5 | Lluvia torrencial, tormenta de granizo o ventisca |
 
-**Temperatura**
+## Temperatura
 
 | Nivel | Estado       |
 |------:|--------------|
@@ -45,7 +45,7 @@ Cuando cambies las condiciones meteorológicas, busca un estado en las tablas si
 |     5 | Frío         |
 |     6 | Frío extremo |
 
-**Viento**
+## Viento
 
 | Nivel | Estado          |
 |------:|-----------------|
