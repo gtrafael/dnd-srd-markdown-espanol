@@ -8,17 +8,34 @@ related_en: "[[Equipment/Food, Drink, and Lodging|Food, Drink, and Lodging (EN)]
 
 La tabla “Comida, bebida y alojamiento” contiene los precios tanto de alimentos concretos como de alojarse una noche en una posada. Los precios del alojamiento y las comidas diarias se incluyen en los gastos de tu nivel de vida.
 
-Comida, bebida y alojamiento
+## Comida y bebida
 
-| Elemento                   | Precio | Elemento       | Precio |
-|----------------------------|--------|----------------|--------|
-| Cerveza (jarra)            | 4 pc   | Pobre          | 1 pp   |
-| Comida                     |        | Modesta        | 5 pp   |
-| Miserable                  | 1 pc   | Cómoda         | 8 pp   |
-| Pobre                      | 2 pc   | Lujosa         | 2 po   |
-| Modesta                    | 1 pp   | Aristocrática  | 4 po   |
-| Copiosa                    | 2 pp   | Pan (hogaza)   | 2 pc   |
-| Lujosa                     | 3 po   | Queso (cuña)   | 1 pp   |
-| Aristocrática              | 6 pp   | Vino (botella) |        |
-| Estancia en posada por día |        | Común          | 2 pp   |
-| Miserable                  | 7 pc   | De calidad     | 10 po  |
+| Elemento               | Precio |
+|------------------------|--------|
+| Cerveza (jarra)        | 4 pc   |
+| Pan (hogaza)           | 2 pc   |
+| Queso (cuña)           | 1 pp   |
+| Vino común (botella)   | 2 pp   |
+| Vino de calidad (botella) | 10 po |
+
+## Estancia en posada por día
+
+| Estancia       | Precio |
+|----------------|--------|
+| Miserable      | 7 pc   |
+| Pobre          | 1 pp   |
+| Modesta        | 5 pp   |
+| Cómoda         | 8 pp   |
+| Lujosa         | 2 po   |
+| Aristocrática  | 4 po   |
+
+## Comida por día
+
+| Comida         | Precio |
+|----------------|--------|
+| Miserable      | 1 pc   |
+| Pobre          | 2 pc   |
+| Modesta        | 1 pp   |
+| Copiosa        | 2 pp   |
+| Lujosa         | 3 po   |
+| Aristocrática  | 6 pp   |
