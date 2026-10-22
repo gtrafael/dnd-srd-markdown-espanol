@@ -15,9 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-EXCLUIR_ES = {
-    "GlosarioDeReglas/DefinicionesDeLasReglas.md",
-}
+EXCLUIR_ES: set[str] = set()
 EXCLUIR_EN: set[str] = set()
 
 
