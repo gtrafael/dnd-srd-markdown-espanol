@@ -1,0 +1,47 @@
+name: Auditar tablas semánticas
+
+on:
+  push:
+    branches:
+      - custom/main
+    paths:
+      - "ES/**"
+      - "EN/**"
+      - "scripts/auditar_tablas_semanticas.py"
+      - ".github/workflows/auditar-tablas.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: auditar-tablas-custom-main
+  cancel-in-progress: true
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener custom/main
+        uses: actions/checkout@v4
+        with:
+          ref: custom/main
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Auditar tablas
+        run: >-
+          python scripts/auditar_tablas_semanticas.py
+          --es ES
+          --en EN
+          --salida auditoria-tablas.json
+
+      - name: Publicar informe
+        uses: actions/upload-artifact@v4
+        with:
+          name: auditoria-tablas-semanticas
+          path: auditoria-tablas.json
+          if-no-files-found: error
