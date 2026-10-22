@@ -1,6 +1,7 @@
 ---
 aliases: ["Poción de trepar"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Potion of Climbing]]"
 ---
 
 # Poción de trepar

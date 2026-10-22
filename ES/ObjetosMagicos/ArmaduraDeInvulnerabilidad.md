@@ -1,6 +1,7 @@
 ---
 aliases: ["Armadura de invulnerabilidad"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Armor of Invulnerability]]"
 ---
 
 # Armadura de invulnerabilidad

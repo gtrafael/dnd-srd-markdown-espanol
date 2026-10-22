@@ -1,6 +1,7 @@
 ---
 aliases: ["Armadura de vulnerabilidad"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Armor of Vulnerability]]"
 ---
 
 # Armadura de vulnerabilidad

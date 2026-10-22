@@ -1,6 +1,7 @@
 ---
 aliases: ["Vara de la resurrección"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Rod of Resurrection]]"
 ---
 
 # Vara de la resurrección
