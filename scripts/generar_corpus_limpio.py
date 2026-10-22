@@ -20,18 +20,7 @@ EXCLUIR_ES = {
     "GlosarioDeReglas/DefinicionesDeLasReglas.md",
 }
 
-EXCLUIR_EN = {
-    "Animals/Animals.md",
-    "Characterizations/Characterizations.md",
-    "Classes/Classes.md",
-    "Equipment/Trade Goods.md",
-    "Gamemastering/Gamemastering.md",
-    "Gamemastering/Objects.md",
-    "Gameplay/Gameplay.md",
-    "Rules Glossary/Index.md",
-    "Spells/Spells.md",
-    "Treasure/Treasure.md",
-}
+EXCLUIR_EN: set[str] = set()
 
 
 def leer_frontmatter(texto: str) -> str:
