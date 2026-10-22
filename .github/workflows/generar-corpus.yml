@@ -37,6 +37,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Comprobar generador
+        run: python -m py_compile scripts/generar_corpus_limpio.py
+
       - name: Generar variante limpia
         run: python scripts/generar_corpus_limpio.py
 
