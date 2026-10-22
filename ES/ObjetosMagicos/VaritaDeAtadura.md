@@ -1,6 +1,7 @@
 ---
 aliases: ["Varita de atadura"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Treasure/Wand of Binding|Wand of Binding (EN)]]"
 ---
 
 # Varita de atadura
