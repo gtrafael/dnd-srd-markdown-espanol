@@ -20,6 +20,12 @@ La barda es una armadura diseñada para una montura. Cualquier tipo de armadura 
 
 Una silla viene con un bocado, bridas, riendas y cualquier otro elemento que se necesite para usarla. Una silla militar proporciona ventaja en cualquier prueba de característica que hagas para permanecer montado. Se necesita una silla exótica para montar en una montura acuática o voladora.
 
+| Silla    | Peso    | Precio |
+|----------|---------|--------|
+| De monta | 12,5 kg | 10 po  |
+| Exótica  | 20 kg   | 60 po  |
+| Militar  | 15 kg   | 20 po  |
+
 Monturas y otros animales
 
 | Animal            | Capacidad de carga | Precio |
@@ -33,24 +39,17 @@ Monturas y otros animales
 | Mula              | 210 kg             | 8 po   |
 | Poni              | 112,5 kg           | 30 po  |
 
-Arreos, arneses y vehículos tirados por animales
+## Arreos, arneses y vehículos tirados por animales
 
-| Animal           | Peso   | Precio |
-|------------------|--------|--------|
-| Alimento por día | 5 kg   | 5 pc   |
-| Carreta          | 100 kg | 15 po  |
-| Carro            | 200 kg | 35 po  |
-| Carro de guerra  | 50 kg  | 250 po |
-
-| Animal             | Peso    | Precio |
-|--------------------|---------|--------|
-| Carruaje           | 300 kg  | 100 po |
-| Estabulado por día | —       | 5 pp   |
-| Silla              |         |        |
-| De monta           | 12,5 kg | 10 po  |
-| Exótica            | 20 kg   | 60 po  |
-| Militar            | 15 kg   | 20 po  |
-| Trineo             | 150 kg  | 20 po  |
+| Elemento           | Peso   | Precio |
+|--------------------|--------|--------|
+| Alimento por día   | 5 kg   | 5 pc   |
+| Carreta            | 100 kg | 15 po  |
+| Carro              | 200 kg | 35 po  |
+| Carro de guerra    | 50 kg  | 250 po |
+| Carruaje           | 300 kg | 100 po |
+| Estabulado por día | —      | 5 pp   |
+| Trineo             | 150 kg | 20 po  |
 
 ## Vehículos grandes
 
