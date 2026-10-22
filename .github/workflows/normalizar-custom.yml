@@ -7,6 +7,7 @@ on:
       - custom/main
     paths:
       - scripts/aplicar_correcciones_verificadas.py
+      - scripts/normalizar_tablas_semanticas.py
 
 permissions:
   contents: write
@@ -28,6 +29,9 @@ jobs:
 
       - name: Aplicar correcciones verificadas
         run: python scripts/aplicar_correcciones_verificadas.py
+
+      - name: Normalizar tablas comprimidas
+        run: python scripts/normalizar_tablas_semanticas.py
 
       - name: Commit de normalización
         shell: bash
