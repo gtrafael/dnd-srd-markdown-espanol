@@ -1,62 +1,71 @@
 # SRD 5.2.1 bilingüe — corpus canónico
 
-Este fork mantiene el **SRD 5.2.1 en español e inglés** que usa el proyecto `dungeon-agent`.
+Este repositorio mantiene el **SRD 5.2.1 en español e inglés** que usa el proyecto `dungeon-agent`.
 
 ## Cómo funciona
 
 ```
-upstream/main
-     │
-     ▼
-custom/main        ← fuente humana editable
+main               ← fuente humana canónica y rama por defecto
   ES/              ← referencia estructural primaria
   EN/              ← espejo inglés
-     │
-     └── CI valida y limpia
-             │
-             ▼
-custom/corpus      ← salida generada para IA
+   │
+   └── CI valida, genera índices y limpia
+            │
+            ▼
+corpus             ← salida generada para IA
 ```
 
-### `custom/main`
+### `main`
 
 Es la única rama que se corrige a mano.
 
 - `ES/`: referencia estructural del proyecto.
 - `EN/`: equivalente inglés de ES.
 - conserva frontmatter, aliases y wikilinks para Obsidian.
+- puede contener índices `(Alt)` generados para navegación; deben ser simétricos ES/EN y no contienen texto normativo.
 
-Los PDF oficiales SRD 5.2.1 ES/EN son la autoridad sobre el contenido.  
-Si ES y EN difieren estructuralmente, la diferencia debe estar justificada por el PDF oficial EN; no se conserva una diferencia solo porque viniera del upstream.
+Los PDF oficiales SRD 5.2.1 ES/EN son la autoridad sobre el contenido. Si ES y EN difieren estructuralmente, la diferencia debe estar justificada por el PDF oficial EN; no se conserva una diferencia solo porque existiera en las fuentes históricas.
 
-### `custom/corpus`
+### `corpus`
 
-Se genera automáticamente desde `custom/main`.
+Se genera automáticamente desde `main`.
 
-Elimina metadatos de Obsidian e índices de navegación. **No se edita a mano.**
+Elimina metadatos de Obsidian, wikilinks e índices de navegación, incluidos los `(Alt)`. **No se edita a mano.**
 
-`custom/main` contiene una sola estructura **normativa** por idioma. Además puede contener carpetas `(Alt)` generadas para Obsidian: son solo índices de navegación, deben ser simétricas ES/EN y no contienen texto normativo.
+El workflow **Generar índices Obsidian** reconstruye automáticamente los `(Alt)` en `main`. El workflow **Generar corpus** publica la variante limpia en `corpus`.
 
-`custom/corpus` elimina todos los índices, incluidos los `(Alt)`, por lo que conserva únicamente el contenido canónico.
+## Relación con las fuentes originales
 
-El workflow **Generar índices Obsidian** reconstruye automáticamente los `(Alt)` desde las notas canónicas de `custom/main`.
+El proyecto ya no sincroniza automáticamente cambios de upstream. La procedencia queda fijada mediante una referencia histórica:
+
+`upstream-baseline-2026-10-23`
+
+A partir de ese baseline, `main` es nuestra fuente canónica. Cualquier corrección externa que interese se revisa y se incorpora de forma deliberada como un cambio propio, nunca mediante un merge automático de upstream.
+
+Consulta [docs/FORK.md](docs/FORK.md) para la política de procedencia, ramas y versionado.
 
 ## Al modificar contenido
 
-1. Corrige primero ES.
+1. Corrige primero ES en `main`.
 2. Revisa su equivalente EN.
 3. Mantén `related_en` / `related_es` o una relación a sección cuando corresponda.
-4. Deja que CI regenere `custom/corpus`.
+4. Deja que CI regenere `corpus`.
 5. Comprueba que los workflows queden en verde.
 
 Los controles principales son:
 
-- **rápidos, en cada cambio:** TOC ES, simetría ES → EN, tablas y generación de `custom/corpus`;
+- **rápidos, en cada cambio:** TOC ES, simetría ES → EN, tablas y generación de `corpus`;
 - **completo:** comparación con los PDF, estructura visual, cobertura, lineage y duplicados.
 
 El workflow **Validar corpus completo** debe quedar en verde antes de aprobar una candidata. Sus informes son artefactos temporales de CI: no hay que mantenerlos ni versionarlos.
 
 Las reglas estructurales están resumidas en [docs/CRITERIOS_CORPUS.md](docs/CRITERIOS_CORPUS.md).
+
+## Releases y reproducibilidad
+
+Las releases propias se etiquetan sobre `main`, que representa el estado humano canónico. Los consumidores automáticos deben fijar además el commit exacto de `corpus` que corresponde a la candidata aprobada.
+
+De esta forma una release identifica la fuente mantenida y un commit de `corpus` identifica sin ambigüedad el material consumido por datasets, entrenamientos y benchmarks.
 
 ## Para agentes
 
