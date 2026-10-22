@@ -1,6 +1,7 @@
 ---
 aliases: ["Poción de velocidad"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Potion of Speed]]"
 ---
 
 # Poción de velocidad

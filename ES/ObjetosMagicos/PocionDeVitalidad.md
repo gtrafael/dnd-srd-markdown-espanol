@@ -1,6 +1,7 @@
 ---
 aliases: ["Poción de vitalidad"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Potion of Vitality]]"
 ---
 
 # Poción de vitalidad

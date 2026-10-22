@@ -1,6 +1,7 @@
 ---
 aliases: ["Poción de longevidad"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Potion of Longevity]]"
 ---
 
 # Poción de longevidad

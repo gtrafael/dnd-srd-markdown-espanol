@@ -1,6 +1,7 @@
 ---
 aliases: ["Vara de la absorción"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Rod of Absorption]]"
 ---
 
 # Vara de la absorción
