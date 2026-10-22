@@ -189,7 +189,7 @@ def main() -> int:
                 "duplicados": c["duplicados"],
                 "extras_no_toc": c["extras_no_toc"],
             }, ensure_ascii=False))
-    return 0
+    return 1 if out["fallos"] else 0
 
 
 if __name__ == "__main__":
