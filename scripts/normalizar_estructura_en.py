@@ -35,7 +35,7 @@ def section(text: str, start: str, end: str | None = None) -> str:
     body = strip_frontmatter(text)
 
     def locate(heading: str, offset: int = 0) -> int:
-        pattern = re.compile(rf"(?m)^{re.escape(heading)}\\s*$")
+        pattern = re.compile(rf"(?m)^{re.escape(heading)}\s*$")
         m = pattern.search(body, offset)
         return m.start() if m else -1
 
