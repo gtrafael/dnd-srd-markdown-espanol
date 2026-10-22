@@ -12,3 +12,6 @@
 - [[Trade Goods]]
 - [[Transportation]]
 - [[Weapons]]
+- [[Properties]]
+- [[Mastery Properties]]
+- [[Improvised Weapons]]
