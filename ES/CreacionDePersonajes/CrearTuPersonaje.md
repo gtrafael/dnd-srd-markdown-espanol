@@ -24,19 +24,16 @@ Elige una clase y anótala en la hoja de personaje. La tabla “Resumen de las c
 
 Resumen de las clases
 
-| Clase       | Preferencia    | Característica principal | Complejidad |
-|-------------|----------------|--------------------------|-------------|
-| Bárbaro     | Batalla        | Fuerza                   | Media       |
-| Bardo       | Actuación      | Carisma                  | Alta        |
-| Brujo       | Ocultismo      | Carisma                  | Alta        |
-| Clérigo     | Dioses         | Sabiduría                | Media       |
-| Druida      | Naturaleza     | Sabiduría                | Alta        |
-| Explorador | Supervivencia | Destreza y Sabiduría     | Media       |
-
 | Clase      | Preferencia        | Característica principal | Complejidad |
 |------------|--------------------|--------------------------|-------------|
+| Bárbaro    | Batalla            | Fuerza                   | Media       |
+| Bardo      | Actuación          | Carisma                  | Alta        |
+| Brujo      | Ocultismo          | Carisma                  | Alta        |
+| Clérigo    | Dioses             | Sabiduría                | Media       |
+| Druida     | Naturaleza         | Sabiduría                | Alta        |
+| Explorador | Supervivencia      | Destreza y Sabiduría     | Media       |
 | Guerrero   | Armas              | Fuerza o Destreza        | Baja        |
-| Hechicero | Poderes            | Carisma                  | Alta        |
+| Hechicero  | Poderes            | Carisma                  | Alta        |
 | Mago       | Libros de conjuros | Inteligencia             | Media       |
 | Monje      | Combate sin armas  | Destreza y Sabiduría     | Alta        |
 | Paladín    | Defensa            | Fuerza y Carisma         | Media       |
@@ -138,13 +135,17 @@ La tabla “Idiomas inusuales” recoge los idiomas secretos o procedentes de ot
 
 Idiomas inusuales
 
-| Idioma                     | Idioma            |
-|----------------------------|-------------------|
-| Abisal                     | Infracomún        |
-| Celestial                  | Jerga de ladrones |
-| Druídico                   | Primordial*       |
-| Habla de las profundidades | Silvano           |
-| Infernal                   |                   |
+| Idioma                     |
+|----------------------------|
+| Abisal                     |
+| Celestial                  |
+| Druídico                   |
+| Habla de las profundidades |
+| Infernal                   |
+| Infracomún                 |
+| Jerga de ladrones          |
+| Primordial*                |
+| Silvano                    |
 
 *El primordial incluye los dialectos acuano, aurano, ígneo y terrano. Las criaturas que saben uno de estos dialectos pueden comunicarse con las que saben otro diferente.
 
@@ -164,12 +165,16 @@ Coste en puntos. Tienes 27 puntos para invertir en tus puntuaciones de caracter�
 
 Costes en puntos de las puntuaciones de característica
 
-| Puntuación | Coste | Puntuación | Coste |
-|-----------:|------:|-----------:|------:|
-|          8 |     0 |         12 |     4 |
-|          9 |     1 |         13 |     5 |
-|         10 |     2 |         14 |     7 |
-|         11 |     3 |         15 |     9 |
+| Puntuación | Coste |
+|-----------:|------:|
+|          8 |     0 |
+|          9 |     1 |
+|         10 |     2 |
+|         11 |     3 |
+|         12 |     4 |
+|         13 |     5 |
+|         14 |     7 |
+|         15 |     9 |
 
 ### Asigna las puntuaciones de característica
 
@@ -206,13 +211,18 @@ Por último, determina tus modificadores por característica mediante la tabla �
 
 Puntuaciones de característica y modificadores
 
-| Puntuación | Modificador | Puntuación | Modificador |
-|------------|------------:|------------|------------:|
-| 3          |          -4 | 12–13      |          +1 |
-| 4–5        |          -3 | 14–15      |          +2 |
-| 6–7        |          -2 | 16–17      |          +3 |
-| 8–9        |          -1 | 18–19      |          +4 |
-| 10–11      |          +0 | 20         |          +5 |
+| Puntuación | Modificador |
+|------------|------------:|
+| 3          |          -4 |
+| 4–5        |          -3 |
+| 6–7        |          -2 |
+| 8–9        |          -1 |
+| 10–11      |          +0 |
+| 12–13      |          +1 |
+| 14–15      |          +2 |
+| 16–17      |          +3 |
+| 18–19      |          +4 |
+| 20         |          +5 |
 
 ## Paso 4: alineamiento
 
