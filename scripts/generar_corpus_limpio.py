@@ -31,8 +31,6 @@ EXCLUIR_EN = {
     "Rules Glossary/Index.md",
     "Spells/Spells.md",
     "Treasure/Treasure.md",
-    # Duplicado de la sección integrada en Treasure/Magic Items.md.
-    "Treasure/Sentient Magic.md",
 }
 
 
