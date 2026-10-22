@@ -59,7 +59,6 @@ CORRECCIONES_LITERAL = {
     "\\frac{1}{2}": "½",
     "\\times": "×",
     "Sila criatura": "Si la criatura",
-    "Ring of X-ray Visión": "Ring of X-ray Vision",
 }
 
 CORRECCIONES_PALABRA = {
@@ -160,26 +159,36 @@ def reemplazar_palabra(texto: str, origen: str, destino: str) -> str:
     return re.sub(rf"\b{re.escape(origen)}\b", repl, texto, flags=re.IGNORECASE)
 
 def normalizar(texto: str) -> str:
-    texto = unicodedata.normalize("NFC", texto)
-    texto = texto.replace("\u00ad", "").replace("\u00a0", " ").replace("ä", "á")
+    """Normaliza solo el cuerpo; el frontmatter contiene rutas e identificadores."""
+    cabecera = ""
+    cuerpo = texto
+    if texto.startswith("---\n"):
+        fin = texto.find("\n---\n", 4)
+        if fin >= 0:
+            cabecera = texto[: fin + 5]
+            cuerpo = texto[fin + 5 :]
+
+    cuerpo = unicodedata.normalize("NFC", cuerpo)
+    cuerpo = cuerpo.replace("\u00ad", "").replace("\u00a0", " ").replace("ä", "á")
 
     for origen, destino in CORRECCIONES_LITERAL.items():
-        texto = texto.replace(origen, destino)
+        cuerpo = cuerpo.replace(origen, destino)
     for origen, destino in CORRECCIONES_PALABRA.items():
-        texto = reemplazar_palabra(texto, origen, destino)
+        cuerpo = reemplazar_palabra(cuerpo, origen, destino)
 
-    texto = re.sub(r"([\.,;:!?])(?=[A-Za-zÁÉÍÓÚÜÑáéíóúüñ])", r"\1 ", texto)
-    texto = re.sub(r"\bCD(?=\d)", "CD ", texto)
-    texto = re.sub(
+    cuerpo = re.sub(r"([\.,;:!?])(?=[A-Za-zÁÉÍÓÚÜÑáéíóúüñ])", r"\1 ", cuerpo)
+    cuerpo = re.sub(r"\bCD(?=\d)", "CD ", cuerpo)
+    cuerpo = re.sub(
         r"(?<=[A-Za-zÁÉÍÓÚÜÑáéíóúüñ,])\n\n(?=[a-záéíóúüñ])",
         " ",
-        texto,
+        cuerpo,
     )
-    texto = texto.replace(
+    cuerpo = cuerpo.replace(
         "| Stats | Valor | Mod | Salv |",
         "| Característica | Puntuación | Mod. | Salv. |",
     )
-    return "\n".join(line.rstrip() for line in texto.splitlines()).rstrip() + "\n"
+    cuerpo = "\n".join(line.rstrip() for line in cuerpo.splitlines()).rstrip() + "\n"
+    return cabecera + cuerpo
 
 def es_canonico(path: Path) -> bool:
     rel = path.relative_to(RAIZ)
