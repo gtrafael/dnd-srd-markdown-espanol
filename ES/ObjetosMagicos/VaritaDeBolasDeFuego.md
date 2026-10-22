@@ -1,6 +1,7 @@
 ---
 aliases: ["Varita de bolas de fuego"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Treasure/Wand of Fireballs|Wand of Fireballs (EN)]]"
 ---
 
 # Varita de bolas de fuego
