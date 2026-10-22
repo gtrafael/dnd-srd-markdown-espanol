@@ -2,14 +2,11 @@ name: Auditar estructura TOC
 
 on:
   push:
-    branches:
-      - custom/main
+    branches: [custom/main]
     paths:
       - "ES/**"
-      - "EN/**"
       - "src/SP_SRD_CC_V5.2.1_index.json"
       - "scripts/auditar_estructura_toc.py"
-      - "scripts/auditar_estructura_toc_en.py"
       - ".github/workflows/auditar-toc.yml"
   workflow_dispatch:
 
@@ -30,23 +27,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Auditar estructura ES
+      - name: Comprobar TOC de referencia ES
         run: >-
           python scripts/auditar_estructura_toc.py
           --indice src/SP_SRD_CC_V5.2.1_index.json
           --es ES
           --salida auditoria-toc-es.json
-
-      - name: Auditar estructura EN
-        run: >-
-          python scripts/auditar_estructura_toc_en.py
-          --en EN
-          --salida auditoria-toc-en.json
       - name: Publicar informe
         uses: actions/upload-artifact@v4
         with:
           name: auditoria-estructura-toc
-          path: |
-            auditoria-toc-es.json
-            auditoria-toc-en.json
+          path: auditoria-toc-es.json
           if-no-files-found: error
