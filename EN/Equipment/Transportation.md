@@ -20,6 +20,12 @@ Barding is armor designed for a mount. Any type of armor on the Armor table in "
 
 A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives Advantage on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
 
+| Saddle   | Weight | Cost  |
+|----------|--------|-------|
+| Riding   | 25 lb. | 10 GP |
+| Exotic   | 40 lb. | 60 GP |
+| Military | 30 lb. | 20 GP |
+
 ## Mounts and Other Animals
 
 | Item          | Carrying Capacity | Cost   |
@@ -41,10 +47,6 @@ A saddle comes with a bit, a bridle, reins, and any other equipment needed to us
 | Cart             | 200 lb. | 15 GP  |
 | Chariot          | 100 lb. | 250 GP |
 | Feed per day     | 10 lb.  | 5 CP   |
-| **Saddle**       |         |        |
-| Exotic           | 40 lb.  | 60 GP  |
-| Military         | 30 lb.  | 20 GP  |
-| Riding           | 25 lb.  | 10 GP  |
 | Sled             | 300 lb. | 20 GP  |
 | Stabling per day | —       | 5 SP   |
 | Wagon            | 400 lb. | 35 GP  |
