@@ -2,7 +2,7 @@ name: Auditar estructura TOC
 
 on:
   push:
-    branches: [custom/main]
+    branches: [main]
     paths:
       - "ES/**"
       - "src/SP_SRD_CC_V5.2.1_index.json"
@@ -14,7 +14,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: auditar-toc-custom-main
+  group: auditar-toc-main
   cancel-in-progress: true
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: custom/main
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
