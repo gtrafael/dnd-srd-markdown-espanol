@@ -1,10 +1,10 @@
-name: Normalizar custom/main
+name: Normalizar main
 
 on:
   workflow_dispatch:
   push:
     branches:
-      - custom/main
+      - main
     paths:
       - scripts/aplicar_correcciones_verificadas.py
       - scripts/normalizar_tablas_semanticas.py
@@ -19,10 +19,10 @@ jobs:
   normalizar:
     runs-on: ubuntu-latest
     steps:
-      - name: Obtener custom/main
+      - name: Obtener main
         uses: actions/checkout@v4
         with:
-          ref: custom/main
+          ref: main
           fetch-depth: 0
 
       - name: Preparar Python
@@ -53,6 +53,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "fix: aplicar normalizaciones verificadas al corpus bilingüe"
-          git fetch origin custom/main
-          git rebase origin/custom/main
-          git push origin HEAD:custom/main
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
