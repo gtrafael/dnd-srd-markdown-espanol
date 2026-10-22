@@ -1,7 +1,7 @@
 ---
 aliases: ["EquipoGeneral", "Gear"]
 tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Gear|Gear (EN)]]"
+related_en: "[[Equipment/Adventuring Gear|Adventuring Gear (EN)]]"
 ---
 
 # Equipo de aventureros
