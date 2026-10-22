@@ -6,8 +6,10 @@ on:
       - custom/main
     paths:
       - "ES/**"
+      - "EN/**"
       - "src/SP_SRD_CC_V5.2.1_index.json"
       - "scripts/auditar_estructura_toc.py"
+      - "scripts/auditar_estructura_toc_en.py"
       - ".github/workflows/auditar-toc.yml"
   workflow_dispatch:
 
