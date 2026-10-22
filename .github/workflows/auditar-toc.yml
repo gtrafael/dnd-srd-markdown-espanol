@@ -28,15 +28,23 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Auditar estructura
+      - name: Auditar estructura ES
         run: >-
           python scripts/auditar_estructura_toc.py
           --indice src/SP_SRD_CC_V5.2.1_index.json
           --es ES
-          --salida auditoria-toc.json
+          --salida auditoria-toc-es.json
+
+      - name: Auditar estructura EN
+        run: >-
+          python scripts/auditar_estructura_toc_en.py
+          --en EN
+          --salida auditoria-toc-en.json
       - name: Publicar informe
         uses: actions/upload-artifact@v4
         with:
           name: auditoria-estructura-toc
-          path: auditoria-toc.json
+          path: |
+            auditoria-toc-es.json
+            auditoria-toc-en.json
           if-no-files-found: error
