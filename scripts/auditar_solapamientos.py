@@ -15,6 +15,15 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 
+# Duplicados normativos que aparecen deliberadamente en dos lugares del PDF oficial.
+DUPLICADOS_NORMATIVOS = {
+    frozenset({
+        "Playing the Game/Round Down.md",
+        "Rules Glossary/Rules Glossary.md",
+    }),
+}
+
+
 def limpiar(texto: str) -> str:
     texto = re.sub(r"^---\n[\s\S]*?\n---\n", "", texto)
     texto = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", texto)
@@ -80,7 +89,8 @@ def auditar(root: Path) -> dict:
     candidatos=Counter(x["archivo_probablemente_redundante"] for x in pares)
     agregados_sospechosos=[
         x for x in pares
-        if max(x["containment_a"],x["containment_b"]) >= 0.90
+        if frozenset({x["archivo_a"], x["archivo_b"]}) not in DUPLICADOS_NORMATIVOS
+        and max(x["containment_a"],x["containment_b"]) >= 0.90
         and max(x["5grams_a"],x["5grams_b"]) / max(1,min(x["5grams_a"],x["5grams_b"])) >= 1.50
     ]
     return {
