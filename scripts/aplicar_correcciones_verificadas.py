@@ -57,6 +57,8 @@ CORRECCIONES_LITERAL = {
     "3 myluz": "3 m y luz",
     "mas alla": "más allá",
     "\\frac{1}{2}": "½",
+    "\\times": "×",
+    "Sila criatura": "Si la criatura",
 }
 
 CORRECCIONES_PALABRA = {
