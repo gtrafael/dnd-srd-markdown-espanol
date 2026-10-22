@@ -33,10 +33,16 @@ def frontmatter(text: str) -> str:
 
 def section(text: str, start: str, end: str | None = None) -> str:
     body = strip_frontmatter(text)
-    a = body.find(start)
+
+    def locate(heading: str, offset: int = 0) -> int:
+        pattern = re.compile(rf"(?m)^{re.escape(heading)}\\s*$")
+        m = pattern.search(body, offset)
+        return m.start() if m else -1
+
+    a = locate(start)
     if a < 0:
-        raise ValueError(f"No se encuentra {start!r}")
-    b = body.find(end, a + len(start)) if end else -1
+        raise ValueError(f"No se encuentra el encabezado exacto {start!r}")
+    b = locate(end, a + len(start)) if end else -1
     return (body[a:b] if b >= 0 else body[a:]).strip() + "\n"
 
 
