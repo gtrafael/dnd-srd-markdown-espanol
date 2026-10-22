@@ -33,7 +33,9 @@ Si ES y EN difieren estructuralmente, la diferencia debe estar justificada por e
 
 Se genera automáticamente desde `custom/main`.
 
-Elimina metadatos de Obsidian, índices de navegación y duplicados auxiliares. **No se edita a mano.**
+Elimina metadatos de Obsidian e índices de navegación. **No se edita a mano.**
+
+`custom/main` ya debe contener una sola estructura canónica por idioma. Las carpetas `(Alt)` no están permitidas: si reaparecen, el gate de simetría falla.
 
 ## Al modificar contenido
 
