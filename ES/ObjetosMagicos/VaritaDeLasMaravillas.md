@@ -1,6 +1,7 @@
 ---
 aliases: ["Varita de las maravillas"]
-tags: [srd, espanol, tag_tesoro, sin-equivalente]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Treasure/Wand of Wonder|Wand of Wonder (EN)]]"
 ---
 
 # Varita de las maravillas
