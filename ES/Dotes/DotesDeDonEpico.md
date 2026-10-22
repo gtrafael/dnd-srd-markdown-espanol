@@ -1,6 +1,8 @@
 ---
 aliases: ["Dotes de don épico"]
-tags: [srd, espanol, tag_caracterizaciones, sin-equivalente]
+tags: [srd, espanol, tag_caracterizaciones]
+related_en_section: "[[Feats/Feat Descriptions#Epic Boon Feats|Epic Boon Feats (EN)]]"
+alignment_mode: "section"
 ---
 
 # Dotes de don épico

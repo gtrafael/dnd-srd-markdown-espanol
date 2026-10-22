@@ -1,6 +1,7 @@
 ---
 aliases: ["Obtener conjuros", "Spellcasting"]
-tags: [srd, espanol, tag_conjuros, sin-equivalente]
+tags: [srd, espanol, tag_conjuros]
+related_en: "[[Spells/Gaining Spells]]"
 ---
 
 # Obtener conjuros

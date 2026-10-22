@@ -1,6 +1,7 @@
 ---
 aliases: ["Competencia"]
-tags: [srd, espanol, tag_comojugar, sin-equivalente]
+tags: [srd, espanol, tag_comojugar]
+related_en: "[[Playing the Game/Proficiency]]"
 ---
 
 # Competencia

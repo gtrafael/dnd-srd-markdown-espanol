@@ -1,6 +1,7 @@
 ---
 aliases: ["Daño y curación"]
-tags: [srd, espanol, tag_comojugar, sin-equivalente]
+tags: [srd, espanol, tag_comojugar]
+related_en: "[[Playing the Game/Damage and Healing]]"
 ---
 
 # Daño y curación

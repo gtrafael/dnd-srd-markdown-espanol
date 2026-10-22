@@ -1,6 +1,8 @@
 ---
 aliases: ["Dotes de origen"]
-tags: [srd, espanol, tag_caracterizaciones, sin-equivalente]
+tags: [srd, espanol, tag_caracterizaciones]
+related_en_section: "[[Feats/Feat Descriptions#Origin Feats|Origin Feats (EN)]]"
+alignment_mode: "section"
 ---
 
 # Dotes de origen

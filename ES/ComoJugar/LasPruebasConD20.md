@@ -1,6 +1,7 @@
 ---
 aliases: ["Las pruebas con d20"]
-tags: [srd, espanol, tag_comojugar, sin-equivalente]
+tags: [srd, espanol, tag_comojugar]
+related_en: "[[Playing the Game/D20 Tests]]"
 ---
 
 # Las pruebas con d20
