@@ -1,0 +1,21 @@
+# Monsters A-Z P-R
+
+**Entradas:** 17
+
+- [[Monsters A-Z/Pegasus|Pegasus]]
+- [[Monsters A-Z/Phase Spider|Phase Spider]]
+- [[Monsters A-Z/Pirate|Pirate]]
+- [[Monsters A-Z/Pirate Captain|Pirate Captain]]
+- [[Monsters A-Z/Pit Fiend|Pit Fiend]]
+- [[Monsters A-Z/Planetar|Planetar]]
+- [[Monsters A-Z/Priest|Priest]]
+- [[Monsters A-Z/Priest Acolyte|Priest Acolyte]]
+- [[Monsters A-Z/Pseudodragon|Pseudodragon]]
+- [[Monsters A-Z/Purple Worm|Purple Worm]]
+- [[Monsters A-Z/Quasit|Quasit]]
+- [[Monsters A-Z/Rakshasa|Rakshasa]]
+- [[Monsters A-Z/Red Dragon Wyrmling|Red Dragon Wyrmling]]
+- [[Monsters A-Z/Remorhaz|Remorhaz]]
+- [[Monsters A-Z/Roc|Roc]]
+- [[Monsters A-Z/Roper|Roper]]
+- [[Monsters A-Z/Rust Monster|Rust Monster]]

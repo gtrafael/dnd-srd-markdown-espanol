@@ -1,0 +1,22 @@
+# Animales S-U
+
+**Entradas:** 18
+
+- [[Animales/SapoGigante|Sapo gigante]]
+- [[Animales/SerpienteConstrictora|Serpiente constrictora]]
+- [[Animales/SerpienteConstrictoraGigante|Serpiente constrictora gigante]]
+- [[Animales/SerpienteVenenosa|Serpiente venenosa]]
+- [[Animales/SerpienteVenenosaGigante|Serpiente venenosa gigante]]
+- [[Animales/SerpienteVoladora|Serpiente voladora]]
+- [[Animales/Simio|Simio]]
+- [[Animales/SimioGigante|Simio gigante]]
+- [[Animales/TarantulaGigante|Tarántula gigante]]
+- [[Animales/Tejon|Tejón]]
+- [[Animales/TejonGigante|Tejón gigante]]
+- [[Animales/TiburonCazador|Tiburón cazador]]
+- [[Animales/TiburonDeArrecife|Tiburón de arrecife]]
+- [[Animales/TiburonGigante|Tiburón gigante]]
+- [[Animales/Tigre|Tigre]]
+- [[Animales/TigreDientesDeSable|Tigre dientes de sable]]
+- [[Animales/TiranosaurioRex|Tiranosaurio rex]]
+- [[Animales/Triceratops|Triceratops]]

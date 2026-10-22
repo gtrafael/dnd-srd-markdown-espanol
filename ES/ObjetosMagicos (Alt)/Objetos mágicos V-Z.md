@@ -1,0 +1,28 @@
+# Objetos mágicos V-Z
+
+**Entradas:** 24
+
+- [[ObjetosMagicos/VaraDeLaAbsorcion|Vara de la absorción]]
+- [[ObjetosMagicos/VaraDeLaAlerta|Vara de la alerta]]
+- [[ObjetosMagicos/VaraDeLaResurreccion|Vara de la resurrección]]
+- [[ObjetosMagicos/VaraDeLaSeguridad|Vara de la seguridad]]
+- [[ObjetosMagicos/VaraInamovible|Vara inamovible]]
+- [[ObjetosMagicos/VaritaDeAtadura|Varita de atadura]]
+- [[ObjetosMagicos/VaritaDeBolasDeFuego|Varita de bolas de fuego]]
+- [[ObjetosMagicos/VaritaDeDeteccionMagica|Varita de detección mágica]]
+- [[ObjetosMagicos/VaritaDeDetectarEnemigos|Varita de detectar enemigos]]
+- [[ObjetosMagicos/VaritaDeLasMaravillas|Varita de las maravillas]]
+- [[ObjetosMagicos/VaritaDeParalisis|Varita de parálisis]]
+- [[ObjetosMagicos/VaritaDePolimorfar|Varita de polimorfar]]
+- [[ObjetosMagicos/VaritaDeProyectilesMagicos|Varita de proyectiles mágicos]]
+- [[ObjetosMagicos/VaritaDeRelampagos|Varita de relámpagos]]
+- [[ObjetosMagicos/VaritaDeSecretos|Varita de secretos]]
+- [[ObjetosMagicos/VaritaDeTelarana|Varita de telaraña]]
+- [[ObjetosMagicos/VaritaDelMagoDeGuerra12O3|Varita del mago de guerra +1, +2 o +3]]
+- [[ObjetosMagicos/VaritaDelTerror|Varita del terror]]
+- [[ObjetosMagicos/VelaDeInvocacion|Vela de invocación]]
+- [[ObjetosMagicos/VengadoraSagrada|Vengadora sagrada]]
+- [[ObjetosMagicos/YelmoDeEntenderIdiomas|Yelmo de entender idiomas]]
+- [[ObjetosMagicos/YelmoDeFulgor|Yelmo de fulgor]]
+- [[ObjetosMagicos/YelmoDeTelepatia|Yelmo de telepatía]]
+- [[ObjetosMagicos/YelmoDeTeletransporte|Yelmo de teletransporte]]
