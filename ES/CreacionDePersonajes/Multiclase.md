@@ -27,9 +27,9 @@ Equipo inicial a niveles superiores
 | Nivel inicial | Equipo y dinero                                            | Objetos mágicos                                 |
 |---------------|------------------------------------------------------------|-------------------------------------------------|
 | 2–4           | Equipo inicial normal                                      | 1 común                                         |
-| 5–10          | 500 po más 1d10 \times 25 po más equipo inicial normal     | 1 común y 1 infrecuente                         |
-| 11–16         | 5000 po más 1d10 \times 250 po más equipo inicial normal   | 2 comunes, 3 infrecuentes y 1 raro              |
-| 17–20         | 20 000 po más 1d10 \times 250 po más equipo inicial normal | 2 comunes, 4 infrecuentes, 3 raros y 1 muy raro |
+| 5–10          | 500 po más 1d10 × 25 po más equipo inicial normal     | 1 común y 1 infrecuente                         |
+| 11–16         | 5000 po más 1d10 × 250 po más equipo inicial normal   | 2 comunes, 3 infrecuentes y 1 raro              |
+| 17–20         | 20 000 po más 1d10 × 250 po más equipo inicial normal | 2 comunes, 4 infrecuentes, 3 raros y 1 muy raro |
 
 por lo que si eres una guerrera de nivel 5/paladín de nivel 5, tus dados de golpe serán 10d10. Si tus clases tienen dados de golpe de distintos tipos, lleva la cuenta de cada uno por separado. Por ejemplo, si eres un clérigo de nivel 5/paladín de nivel 5, tus dados de golpe serán 5d8 y 5d10.
 
