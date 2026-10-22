@@ -1,6 +1,8 @@
 ---
 aliases: ["Convenciones del glosario", "Rules Glossary"]
-tags: [srd, espanol, tag_glosariodereglas, sin-equivalente]
+tags: [srd, espanol, tag_glosariodereglas]
+related_en_section: "[[Rules Glossary/Rules Glossary#Glossary Conventions|Glossary Conventions (EN)]]"
+alignment_mode: "section"
 ---
 
 # Convenciones del glosario
