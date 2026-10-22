@@ -1,6 +1,8 @@
 ---
 aliases: ["L"]
-tags: [srd, espanol, tag_glosariodereglas, sin-equivalente]
+tags: [srd, espanol, tag_glosariodereglas]
+related_en: "[[Rules Glossary/Rules Glossary]]"
+alignment_mode: "many-to-one"
 ---
 
 # L
