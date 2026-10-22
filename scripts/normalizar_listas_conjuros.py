@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Normaliza listas de conjuros y tablas partidas por maquetación."""
+"""Normaliza listas de conjuros y tablas partidas por maquetación.
+
+La operación es idempotente y solo fusiona tablas consecutivas sin contenido intermedio.
+"""
 
 from __future__ import annotations
 import re
