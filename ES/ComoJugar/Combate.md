@@ -123,7 +123,7 @@ Ciertos ataques a distancia, como los que se realizan con un arco largo, cuentan
 
 ### Ataques a distancia en combate cuerpo a cuerpo
 
-Intentar un ataque a distancia se complica si el enemigo está junto a ti. Cuando hagas un ataque a distancia, ya sea con un arma, un conjuro o cualquier
+Intentar un ataque a distancia se complica si el enemigo está junto a ti. Cuando hagas un ataque a distancia, ya sea con un arma, un conjuro o cualquier otro medio, tendrás desventaja en la tirada si estás a 1,5 m o menos de un enemigo que pueda verte y no tenga el estado de incapacitado (consulta el capítulo “Glosario de reglas”).
 
 ## Ataques cuerpo a cuerpo
 
