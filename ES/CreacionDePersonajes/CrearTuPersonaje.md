@@ -228,12 +228,6 @@ Puntuaciones de característica y modificadores
 
 Elige el alineamiento de tu personaje de entre las opciones que se muestran a continuación y anótalo en la hoja.
 
-### Criaturas sin alineamiento
-
-La mayoría de las criaturas que carecen de raciocinio no poseen alineamiento alguno: son sin alineamiento. Los tiburones son depredadores salvajes, por ejemplo, pero no son malvados; simplemente, no tienen alineamiento.
-
-El juego da por hecho que los personajes de los jugadores no tienen un alineamiento malvado. Habla con tu GM antes de crear un personaje malvado.
-
 ## Los nueve alineamientos
 
 El alineamiento de una criatura describe en términos generales su actitud e ideales éticos. El alineamiento es una combinación de dos factores: por una parte, la moralidad (bueno, malvado o neutral) y, por otra, la actitud hacia el orden (legal, caótico o neutral).
