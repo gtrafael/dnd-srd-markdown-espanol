@@ -1,0 +1,55 @@
+name: Generar índices Obsidian
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - custom/main
+    paths:
+      - "ES/**"
+      - "EN/**"
+      - "scripts/generar_indices_obsidian.py"
+      - ".github/workflows/generar-indices-obsidian.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generar-indices-obsidian
+  cancel-in-progress: true
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener custom/main
+        uses: actions/checkout@v4
+        with:
+          ref: custom/main
+          fetch-depth: 0
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerar índices
+        run: python scripts/generar_indices_obsidian.py
+
+      - name: Comprobar simetría resultante
+        run: python scripts/auditar_simetria_es_en.py --salida auditoria-simetria-indices.json
+
+      - name: Publicar cambios
+        shell: bash
+        run: |
+          git add ES EN
+          if git diff --cached --quiet; then
+            echo "Los índices ya estaban actualizados."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "build: regenerar índices Obsidian"
+          git fetch origin custom/main
+          git rebase origin/custom/main
+          git push origin HEAD:custom/main
