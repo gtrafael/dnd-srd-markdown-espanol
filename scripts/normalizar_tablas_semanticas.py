@@ -17,6 +17,48 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SEP = re.compile(r"^:?-{3,}:?$")
 
+# Listas verificadas contra el SRD oficial y el gemelo EN. En el PDF se
+# maquetan en varias columnas únicamente para ahorrar espacio; no existe una
+# relación horizontal entre las celdas.
+LISTAS_COMPRIMIDAS_VERIFICADAS = {
+    ("Atacar", "Esconderse", "Preparar una"): (
+        "Acción",
+        [
+            "Atacar",
+            "Ayudar",
+            "Buscar",
+            "Correr",
+            "Destrabarse",
+            "Esconderse",
+            "Esquivar",
+            "Estudiar",
+            "Influir",
+            "Magia",
+            "Preparar una acción",
+            "Utilizar",
+        ],
+    ),
+    ("Aberración", "Dragón", "Infernal"): (
+        "Tipo de criatura",
+        [
+            "Aberración",
+            "Autómata",
+            "Bestia",
+            "Celestial",
+            "Cieno",
+            "Dragón",
+            "Elemental",
+            "Feérico",
+            "Gigante",
+            "Humanoide",
+            "Infernal",
+            "Monstruosidad",
+            "Muerto viviente",
+            "Planta",
+        ],
+    ),
+}
+
 
 def cells(line: str) -> list[str]:
     s = line.strip()
@@ -85,7 +127,12 @@ def transform(text: str) -> tuple[str, int]:
             rows.append(row)
             j += 1
 
-        if repeated_halves(header):
+        verificada = LISTAS_COMPRIMIDAS_VERIFICADAS.get(tuple(header))
+        if verificada:
+            nombre, valores = verificada
+            out.extend(render_table([nombre], [[v] for v in valores]))
+            changes += 1
+        elif repeated_halves(header):
             half = len(header) // 2
             new_rows = []
             for side in (0, 1):
