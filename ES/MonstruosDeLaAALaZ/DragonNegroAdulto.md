@@ -4,11 +4,9 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Black Dragon|Adult Black Dragon (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/FlechaAcida|Flecha ácida]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/Terror|Terror]]"
   - "[[Conjuros/EsferaVitriolica|Esfera vitriólica]]"

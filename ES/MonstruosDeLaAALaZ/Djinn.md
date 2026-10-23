@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Deseo|Deseo]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"

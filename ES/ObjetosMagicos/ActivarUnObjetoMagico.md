@@ -4,9 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Activating a Magic Item|Activating a Magic Item (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Silencio|Silencio]]"
-  - "[[_Entidades/Equipo/PocionDeCuracion|Poción de curación]]"
-  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Identificar|Identificar]]"
 ---
 

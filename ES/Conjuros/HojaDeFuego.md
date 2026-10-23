@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
   - "[[Conjuros/Luz|Luz]]"
 ---
 

@@ -10,7 +10,6 @@ wikilinks_auto:
   - "[[Conjuros/Identificar|Identificar]]"
   - "[[Conjuros/LocalizarObjeto|Localizar objeto]]"
   - "[[Conjuros/SirvienteInvisible|Sirviente invisible]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Disfrazarse|Disfrazarse]]"
   - "[[Conjuros/IlusionMenor|Ilusión menor]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"

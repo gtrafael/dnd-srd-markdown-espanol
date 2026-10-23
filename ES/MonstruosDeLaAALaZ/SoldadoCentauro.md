@@ -2,10 +2,6 @@
 aliases: ["Soldado centauro", "Centaur Trooper"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Centaur Trooper|Centaur Trooper (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/ArcoLargo|Arco largo]]"
-  - "[[_Entidades/Equipo/Coraza|Coraza]]"
-  - "[[_Entidades/Equipo/Pica|Pica]]"
 ---
 
 # Soldado centauro

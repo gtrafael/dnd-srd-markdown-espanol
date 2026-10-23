@@ -9,8 +9,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Libro|Libro]]"
-  - "[[_Entidades/Equipo/Cofre|Cofre]]"
   - "[[Conjuros/Abrir|Abrir]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Terror|Terror]]"

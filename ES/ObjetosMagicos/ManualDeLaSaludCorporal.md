@@ -2,8 +2,6 @@
 aliases: ["Manual de la salud corporal", "Manual of Bodily Health"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Manual of Bodily Health|Manual of Bodily Health (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Libro|Libro]]"
 ---
 
 # Manual de la salud corporal

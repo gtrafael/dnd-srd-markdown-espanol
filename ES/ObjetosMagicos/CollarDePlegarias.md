@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Paladin|Paladín]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/CastigoBrillante|Castigo brillante]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
   - "[[Conjuros/Bendicion|Bendición]]"

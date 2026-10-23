@@ -5,7 +5,6 @@ related_en: "[[Monsters A-Z/Troll Limb|Troll Limb (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[MonstruosDeLaAALaZ/Troll|Troll]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
 ---
 
 # Extremidad de troll

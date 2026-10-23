@@ -3,10 +3,7 @@ aliases: ["Guardia", "Guard"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Guard|Guard (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/CamisaDeMalla|Camisa de malla]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Guardia

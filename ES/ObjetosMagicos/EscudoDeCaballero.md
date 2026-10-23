@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Shield of the Cavalier|Shield of the Cavalier (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
   - "[[Conjuros/Danar|Dañar]]"
 ---
 

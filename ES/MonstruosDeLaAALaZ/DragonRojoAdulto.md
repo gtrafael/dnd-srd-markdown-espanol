@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/RayoAbrasador|Rayo abrasador]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/OrdenImperiosa|Orden imperiosa]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"

@@ -5,8 +5,6 @@ related_en: "[[Monsters A-Z/Pit Fiend|Pit Fiend (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Maza|Maza]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/InmovilizarMonstruo|Inmovilizar monstruo]]"
   - "[[Conjuros/MuroDeFuego|Muro de fuego]]"

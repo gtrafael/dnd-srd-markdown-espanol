@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/LucesDanzantes|Luces danzantes]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Relampago|Relámpago]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/FuegoFeerico|Fuego feérico]]"
 ---
 

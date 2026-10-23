@@ -2,8 +2,6 @@
 aliases: ["Anillo de almacenamiento de conjuros"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ring of Spell Storing]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Anillo de almacenamiento de conjuros

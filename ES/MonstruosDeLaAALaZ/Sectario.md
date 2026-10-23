@@ -2,9 +2,6 @@
 aliases: ["Sectario", "Cultist"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Cultist|Cultist (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
-  - "[[_Entidades/Equipo/Hoz|Hoz]]"
 ---
 
 # Sectario

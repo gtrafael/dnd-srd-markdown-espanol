@@ -7,13 +7,9 @@ wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Libro|Libro]]"
-  - "[[_Entidades/Equipo/Cofre|Cofre]]"
   - "[[Conjuros/Abrir|Abrir]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Creacion|Creación]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Glifo custodio

@@ -2,9 +2,6 @@
 aliases: ["Malla élfica", "Elven Chain"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Elven Chain|Elven Chain (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/CamisaDeMalla|Camisa de malla]]"
-  - "[[_Entidades/Equipo/CotaDeMalla|Cota de malla]]"
 ---
 
 # Malla élfica

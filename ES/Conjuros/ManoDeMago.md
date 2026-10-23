@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Abrir|Abrir]]"
-  - "[[_Entidades/Equipo/Vial|Vial]]"
 ---
 
 # Mano de mago

@@ -5,7 +5,6 @@ related_en: "[[Monsters A-Z/Vampire Spawn|Vampire Spawn (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[MonstruosDeLaAALaZ/Vampiro|Vampiro]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
   - "[[Conjuros/Prohibicion|Prohibición]]"

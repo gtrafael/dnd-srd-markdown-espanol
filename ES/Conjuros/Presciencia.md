@@ -10,7 +10,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Pluma|Pluma]]"
 ---
 
 # Presciencia

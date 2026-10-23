@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Sorcerous Burst|Sorcerous Burst (EN)]]"
 wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
 ---
 

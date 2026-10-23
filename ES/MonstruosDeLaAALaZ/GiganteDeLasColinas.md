@@ -2,8 +2,6 @@
 aliases: ["Gigante de las colinas", "Hill Giant"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Hill Giant|Hill Giant (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Garrote|Garrote]]"
 ---
 
 # Gigante de las colinas

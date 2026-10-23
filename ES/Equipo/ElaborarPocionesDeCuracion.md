@@ -2,8 +2,6 @@
 aliases: ["Elaborar pociones de curación"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Brewing Potions of Healing|Brewing Potions of Healing (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/UtilesDeHerborista|Útiles de herborista]]"
 ---
 
 # Elaborar pociones de curación

@@ -3,9 +3,6 @@ aliases: ["Venenos", "Poisons"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Poison|Poisons (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
-  - "[[_Entidades/Equipo/Municion|Munición]]"
-  - "[[_Entidades/Equipo/UtilesDeEnvenenador|Útiles de envenenador]]"
   - "[[Conjuros/Curar|Curar]]"
 ---
 

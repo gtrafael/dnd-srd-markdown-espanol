@@ -5,9 +5,6 @@ related_en: "[[Spells/Druidcraft|Druidcraft (EN)]]"
 wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
-  - "[[_Entidades/Equipo/Vela|Vela]]"
-  - "[[_Entidades/Equipo/Antorcha|Antorcha]]"
 ---
 
 # Saber druídico

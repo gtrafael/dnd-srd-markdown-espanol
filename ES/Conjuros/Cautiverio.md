@@ -12,7 +12,6 @@ wikilinks_auto:
   - "[[Conjuros/Laberinto|Laberinto]]"
   - "[[Conjuros/Despertar|Despertar]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Cautiverio

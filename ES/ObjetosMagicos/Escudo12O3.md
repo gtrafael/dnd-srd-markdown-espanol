@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Shield, +1, +2, or +3]]"
 wikilinks_auto:
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
 ---
 
 # Escudo +1, +2 o +3

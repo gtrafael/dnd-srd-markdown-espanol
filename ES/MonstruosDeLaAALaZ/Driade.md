@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/HechizarMonstruo|Hechizar monstruo]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/EncantarAnimal|Encantar animal]]"
   - "[[Conjuros/SaberDruidico|Saber druídico]]"
   - "[[Conjuros/Enmaranar|Enmarañar]]"

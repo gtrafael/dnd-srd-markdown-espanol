@@ -2,9 +2,6 @@
 aliases: ["Berserker"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Berserker|Berserker (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDePieles|Armadura de pieles]]"
-  - "[[_Entidades/Equipo/HachaADosManos|Hacha a dos manos]]"
 ---
 
 # Berserker

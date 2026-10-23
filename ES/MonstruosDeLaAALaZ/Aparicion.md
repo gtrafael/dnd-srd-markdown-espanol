@@ -5,7 +5,6 @@ related_en: "[[Monsters A-Z/Wraith|Wraith (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/Levitar|Levitar]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"

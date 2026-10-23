@@ -10,7 +10,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 

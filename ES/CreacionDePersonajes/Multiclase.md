@@ -10,7 +10,6 @@ wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Guerrero|Guerrero]]"
   - "[[Clases/Paladin|Paladín]]"
-  - "[[_Entidades/Dotes/Defensa|Defensa]]"
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Monje|Monje]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
@@ -20,7 +19,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/ManosArdientes|Manos ardientes]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Multiclase

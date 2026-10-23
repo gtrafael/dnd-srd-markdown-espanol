@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Abrir|Abrir]]"
   - "[[Conjuros/Enganar|Engañar]]"
 ---

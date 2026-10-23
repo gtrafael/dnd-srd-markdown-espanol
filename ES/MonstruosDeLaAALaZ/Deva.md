@@ -7,8 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Maza|Maza]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
   - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"

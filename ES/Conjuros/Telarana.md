@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Animales/Arana|Araña]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Telaraña

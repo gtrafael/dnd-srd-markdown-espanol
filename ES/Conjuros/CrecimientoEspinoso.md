@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Crecimiento espinoso

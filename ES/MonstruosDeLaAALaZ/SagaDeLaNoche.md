@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Night Hag|Night Hag (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[_Entidades/Equipo/Bolsa|Bolsa]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/Augurio|Augurio]]"
   - "[[Conjuros/EncontrarFamiliar|Encontrar familiar]]"
@@ -12,7 +11,6 @@ wikilinks_auto:
   - "[[Conjuros/Identificar|Identificar]]"
   - "[[Conjuros/LocalizarObjeto|Localizar objeto]]"
   - "[[Conjuros/SirvienteInvisible|Sirviente invisible]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/ExcursionEterea|Excursión etérea]]"
   - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"

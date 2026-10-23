@@ -10,8 +10,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Clases/Paladin|Paladín]]"
-  - "[[_Entidades/Equipo/Frasco|Frasco]]"
-  - "[[_Entidades/Equipo/AguaBendita|Agua bendita]]"
 ---
 
 # Protección contra el bien y el mal

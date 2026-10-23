@@ -2,10 +2,6 @@
 aliases: ["Caballero", "Knight"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Knight|Knight (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDePlacas|Armadura de placas]]"
-  - "[[_Entidades/Equipo/BallestaPesada|Ballesta pesada]]"
-  - "[[_Entidades/Equipo/Espadon|Espadón]]"
 ---
 
 # Caballero

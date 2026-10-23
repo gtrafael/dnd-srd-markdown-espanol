@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
-  - "[[_Entidades/Equipo/Daga|Daga]]"
 ---
 
 # Guerrero Kobold

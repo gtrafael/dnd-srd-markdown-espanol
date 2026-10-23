@@ -10,7 +10,6 @@ wikilinks_auto:
   - "[[Conjuros/MuroDeFuerza|Muro de fuerza]]"
   - "[[Conjuros/Deseo|Deseo]]"
   - "[[Conjuros/ResurreccionVerdadera|Resurrección verdadera]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Desintegrar

@@ -4,8 +4,6 @@ tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Proficiency]]"
 wikilinks_auto:
   - "[[Conjuros/Creacion|Creación]]"
-  - "[[_Entidades/Equipo/Disfraz|Disfraz]]"
-  - "[[_Entidades/Equipo/Juego|Juego]]"
   - "[[Conjuros/Prestidigitacion|Prestidigitación]]"
   - "[[Conjuros/Silencio|Silencio]]"
 ---

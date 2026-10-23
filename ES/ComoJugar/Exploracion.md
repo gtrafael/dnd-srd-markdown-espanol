@@ -3,19 +3,11 @@ aliases: ["Aventurarse", "Adventuring"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Exploration|Exploration (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Escalera|Escalera]]"
-  - "[[_Entidades/Equipo/Antorcha|Antorcha]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Abrir|Abrir]]"
-  - "[[_Entidades/Equipo/HerramientasDeLadron|Herramientas de ladrón]]"
-  - "[[_Entidades/Equipo/Abrojos|Abrojos]]"
-  - "[[_Entidades/Equipo/Baston|Bastón]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[_Entidades/Equipo/Libro|Libro]]"
-  - "[[_Entidades/Equipo/Papel|Papel]]"
   - "[[Conjuros/Danar|Dañar]]"
-  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Exploración

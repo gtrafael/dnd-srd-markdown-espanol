@@ -3,21 +3,7 @@ aliases: ["Túnica de objetos útiles", "Robe of Useful Items"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Robe of Useful Items|Robe of Useful Items (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Tunica|Túnica]]"
-  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
-  - "[[_Entidades/Equipo/Daga|Daga]]"
-  - "[[_Entidades/Equipo/Espejo|Espejo]]"
-  - "[[_Entidades/Equipo/LinternaDeOjoDeBuey|Linterna de ojo de buey]]"
-  - "[[_Entidades/Equipo/Saco|Saco]]"
-  - "[[_Entidades/Equipo/Vara|Vara]]"
-  - "[[_Entidades/Equipo/Bolsa|Bolsa]]"
-  - "[[_Entidades/Equipo/Cofre|Cofre]]"
-  - "[[_Entidades/Equipo/Escalera|Escalera]]"
   - "[[Animales/CaballoDeMonta|Caballo de monta]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
-  - "[[_Entidades/Equipo/BoteDeRemos|Bote de remos]]"
-  - "[[_Entidades/Equipo/PergaminoDeConjuro|Pergamino de conjuro]]"
-  - "[[_Entidades/Equipo/ArietePortatil|Ariete portátil]]"
 ---
 
 # Túnica de objetos útiles

@@ -5,7 +5,6 @@ related_en: "[[Character Origins/Dragonborn|Dragonborn (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/Relampago|Relámpago]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Volar|Volar]]"
 ---

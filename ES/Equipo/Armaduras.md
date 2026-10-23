@@ -3,21 +3,7 @@ aliases: ["Armadura", "Armor"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Armor|Armor (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Juego|Juego]]"
-  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
-  - "[[_Entidades/Equipo/CotaDeMalla|Cota de malla]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/ArmaduraAcolchada|Armadura acolchada]]"
-  - "[[_Entidades/Equipo/ArmaduraDeCueroTachonado|Armadura de cuero tachonado]]"
-  - "[[_Entidades/Equipo/ArmaduraDePieles|Armadura de pieles]]"
-  - "[[_Entidades/Equipo/CamisaDeMalla|Camisa de malla]]"
-  - "[[_Entidades/Equipo/CotaDeEscamas|Cota de escamas]]"
-  - "[[_Entidades/Equipo/Coraza|Coraza]]"
-  - "[[_Entidades/Equipo/MediaArmadura|Media armadura]]"
-  - "[[_Entidades/Equipo/CotaGuarnecida|Cota guarnecida]]"
-  - "[[_Entidades/Equipo/ArmaduraDeBandas|Armadura de bandas]]"
-  - "[[_Entidades/Equipo/ArmaduraDePlacas|Armadura de placas]]"
 ---
 
 # Armaduras

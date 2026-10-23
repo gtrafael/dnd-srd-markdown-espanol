@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Mensaje|Mensaje]]"
-  - "[[_Entidades/Equipo/Campana|Campana]]"
 ---
 
 # Boca mágica

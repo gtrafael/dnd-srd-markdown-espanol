@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Lamia|Lamia (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Disfrazarse|Disfrazarse]]"
   - "[[Conjuros/IlusionMenor|Ilusión menor]]"
   - "[[Conjuros/Escudrinar|Escudriñar]]"

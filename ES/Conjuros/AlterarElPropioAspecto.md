@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
-  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Alterar el propio aspecto

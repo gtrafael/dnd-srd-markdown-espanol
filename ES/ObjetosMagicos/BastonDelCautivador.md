@@ -3,7 +3,6 @@ aliases: ["Bastón del cautivador"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Charming]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Baston|Bastón]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"

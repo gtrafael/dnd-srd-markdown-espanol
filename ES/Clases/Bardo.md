@@ -3,10 +3,6 @@ aliases: ["Bardo", "Bard"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Bard|Bard (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
-  - "[[_Entidades/Equipo/InstrumentoMusical|Instrumento musical]]"
-  - "[[_Entidades/Equipo/PaqueteDeArtista|Paquete de artista]]"
-  - "[[_Entidades/Dotes/MejoraDeCaracteristica|Mejora de característica]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/BurlaDanina|Burla dañina]]"
   - "[[Conjuros/LucesDanzantes|Luces danzantes]]"
@@ -19,7 +15,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Dotes/DonDelRecuerdoDeConjuros|Don del recuerdo de conjuros]]"
   - "[[Conjuros/PalabraDePoderSanar|Palabra de poder: sanar]]"
   - "[[Conjuros/PalabraDePoderMatar|Palabra de poder: matar]]"
   - "[[Conjuros/IlusionMenor|Ilusión menor]]"

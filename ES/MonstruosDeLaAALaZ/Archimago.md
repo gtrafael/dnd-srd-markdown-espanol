@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/MenteEnBlanco|Mente en blanco]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/ArmaduraDeMago|Armadura de mago]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
@@ -24,7 +23,6 @@ wikilinks_auto:
   - "[[Conjuros/PasoBrumoso|Paso brumoso]]"
   - "[[Conjuros/Contrahechizo|Contrahechizo]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
 ---
 
 # Archimago

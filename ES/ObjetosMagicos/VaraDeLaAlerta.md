@@ -3,8 +3,6 @@ aliases: ["Vara de la alerta"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Rod of Alertness]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Vara|Vara]]"
-  - "[[_Entidades/Dotes/Alerta|Alerta]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DetectarVenenosYEnfermedades|Detectar venenos y enfermedades]]"

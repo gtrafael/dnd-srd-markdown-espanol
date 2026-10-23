@@ -2,8 +2,6 @@
 aliases: ["Guantes atrapaflechas", "Gloves of Missile Snaring"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Gloves of Missile Snaring|Gloves of Missile Snaring (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Municion|Munición]]"
 ---
 
 # Guantes atrapaflechas

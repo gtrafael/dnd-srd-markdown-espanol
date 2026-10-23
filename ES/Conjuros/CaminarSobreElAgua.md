@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
 ---
 
 # Caminar sobre el agua

@@ -3,15 +3,7 @@ aliases: ["Cetro de poder señorial"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Rod of Lordly Might]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Vara|Vara]]"
-  - "[[_Entidades/Equipo/Maza|Maza]]"
   - "[[Conjuros/Luz|Luz]]"
-  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
-  - "[[_Entidades/Equipo/EspadaLarga|Espada larga]]"
-  - "[[_Entidades/Equipo/HachaDeGuerra|Hacha de guerra]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
-  - "[[_Entidades/Equipo/Escalera|Escalera]]"
-  - "[[_Entidades/Equipo/ArietePortatil|Ariete portátil]]"
 ---
 
 # Cetro de poder señorial

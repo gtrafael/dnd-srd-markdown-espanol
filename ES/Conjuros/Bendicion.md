@@ -5,7 +5,7 @@ related_en: "[[Spells/Bless|Bless (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Paladin|Paladín]]"
-  - "[[_Entidades/Equipo/SimboloSagrado|Símbolo sagrado]]"
+  - "[[Conjuros/Simbolo|Símbolo]]"
 ---
 
 # Bendición

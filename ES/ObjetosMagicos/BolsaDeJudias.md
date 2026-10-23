@@ -3,8 +3,6 @@ aliases: ["Bolsa de judías", "Bag of Beans"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Bag of Beans|Bag of Beans (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Bolsa|Bolsa]]"
-  - "[[_Entidades/Equipo/Aceite|Aceite]]"
   - "[[MonstruosDeLaAALaZ/Ent|Ent]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
   - "[[MonstruosDeLaAALaZ/Bulette|Bulette]]"

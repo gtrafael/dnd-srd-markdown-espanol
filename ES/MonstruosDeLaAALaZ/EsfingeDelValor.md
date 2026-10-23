@@ -5,7 +5,6 @@ related_en: "[[Monsters A-Z/Sphinx of Valor|Sphinx of Valor (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
   - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"

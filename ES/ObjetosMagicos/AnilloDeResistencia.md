@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ring of Resistance]]"
 wikilinks_auto:
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
 ---
 

@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[MonstruosDeLaAALaZ/Asesino|Asesino]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
   - "[[Conjuros/Comunion|Comunión]]"
   - "[[Conjuros/ControlarElClima|Controlar el clima]]"

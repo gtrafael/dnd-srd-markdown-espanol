@@ -3,17 +3,11 @@ aliases: ["Monje", "Monk"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Monk|Monk (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/InstrumentoMusical|Instrumento musical]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
-  - "[[_Entidades/Equipo/PaqueteDeExplorador|Paquete de explorador]]"
-  - "[[_Entidades/Dotes/Defensa|Defensa]]"
-  - "[[_Entidades/Dotes/MejoraDeCaracteristica|Mejora de característica]]"
+  - "[[Clases/Explorador|Explorador]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
   - "[[Conjuros/Salto|Salto]]"
   - "[[Clases/Guerrero|Guerrero]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Dotes/DonDelAtaqueImparable|Don del ataque imparable]]"
 ---
 
 # Monje

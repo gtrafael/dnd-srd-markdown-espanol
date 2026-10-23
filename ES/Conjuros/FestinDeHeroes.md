@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 

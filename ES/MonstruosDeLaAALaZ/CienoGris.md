@@ -3,8 +3,6 @@ aliases: ["Cieno gris", "Gray Ooze"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Gray Ooze|Gray Ooze (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
-  - "[[_Entidades/Equipo/Municion|Munición]]"
   - "[[Conjuros/Reparar|Reparar]]"
 ---
 

@@ -4,11 +4,8 @@ tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/D20 Tests]]"
 wikilinks_auto:
   - "[[Conjuros/Abrir|Abrir]]"
-  - "[[_Entidades/Equipo/Cerradura|Cerradura]]"
   - "[[Conjuros/Enganar|Engañar]]"
   - "[[Conjuros/Identificar|Identificar]]"
-  - "[[_Entidades/Dotes/TiroConArco|Tiro con arco]]"
-  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Las pruebas con d20

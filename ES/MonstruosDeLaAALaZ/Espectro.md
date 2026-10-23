@@ -5,7 +5,6 @@ related_en: "[[Monsters A-Z/Specter|Specter (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/Levitar|Levitar]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Luz|Luz]]"

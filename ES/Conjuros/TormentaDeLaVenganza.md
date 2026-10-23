@@ -5,7 +5,6 @@ related_en: "[[Spells/Storm of Vengeance|Storm of Vengeance (EN)]]"
 wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
 ---
 

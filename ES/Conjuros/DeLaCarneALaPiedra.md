@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Pluma|Pluma]]"
   - "[[MonstruosDeLaAALaZ/Cocatriz|Cocatriz]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---

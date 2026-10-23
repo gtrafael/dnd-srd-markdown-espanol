@@ -8,10 +8,8 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
   - "[[Conjuros/Enganar|Engañar]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Imagen mayor

@@ -10,8 +10,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
-  - "[[_Entidades/Equipo/Vela|Vela]]"
-  - "[[_Entidades/Equipo/Antorcha|Antorcha]]"
   - "[[Conjuros/Simbolo|Símbolo]]"
 ---
 

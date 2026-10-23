@@ -3,15 +3,12 @@ aliases: ["Lanzar conjuros", "Spellcasting"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Casting Spells]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Conjuros/Mensaje|Mensaje]]"
   - "[[Conjuros/Silencio|Silencio]]"
-  - "[[_Entidades/Equipo/SaquitoDeComponentes|Saquito de componentes]]"
   - "[[Conjuros/OlaAtronadora|Ola atronadora]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Bendicion|Bendición]]"
 ---

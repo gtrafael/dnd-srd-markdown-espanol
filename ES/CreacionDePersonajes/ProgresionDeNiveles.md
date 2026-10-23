@@ -17,7 +17,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Juego|Juego]]"
   - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/Relampago|Relámpago]]"

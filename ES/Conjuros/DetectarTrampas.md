@@ -10,7 +10,6 @@ wikilinks_auto:
   - "[[Clases/Explorador|Explorador]]"
   - "[[Conjuros/Alarma|Alarma]]"
   - "[[Conjuros/GlifoCustodio|Glifo custodio]]"
-  - "[[_Entidades/Dotes/Alerta|Alerta]]"
 ---
 
 # Detectar trampas

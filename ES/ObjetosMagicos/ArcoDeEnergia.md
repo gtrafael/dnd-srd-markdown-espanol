@@ -3,12 +3,8 @@ aliases: ["Arco de energía", "Energy Bow"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Energy Bow|Energy Bow (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArcoCorto|Arco corto]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
-  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
   - "[[Conjuros/Luz|Luz]]"
-  - "[[_Entidades/Equipo/Escalera|Escalera]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Arco de energía

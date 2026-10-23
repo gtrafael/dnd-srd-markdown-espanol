@@ -3,10 +3,7 @@ aliases: ["Gladiador", "Gladiator"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Gladiator|Gladiator (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCueroTachonado|Armadura de cuero tachonado]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Gladiador

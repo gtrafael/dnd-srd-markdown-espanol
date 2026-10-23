@@ -3,9 +3,7 @@ aliases: ["Guerrero osgo", "Bugbear Warrior"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Bugbear Warrior|Bugbear Warrior (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDePieles|Armadura de pieles]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[_Entidades/Equipo/MartilloLigero|Martillo ligero]]"
 ---
 
 # Guerrero osgo

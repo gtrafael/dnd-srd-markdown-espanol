@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Copper Dragon Wyrmling|Copper Dragon Wyrmling (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

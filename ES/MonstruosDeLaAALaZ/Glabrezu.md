@@ -5,7 +5,6 @@ related_en: "[[Monsters A-Z/Glabrezu|Glabrezu (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"

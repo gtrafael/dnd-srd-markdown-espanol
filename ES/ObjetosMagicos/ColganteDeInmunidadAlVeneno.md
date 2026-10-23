@@ -2,8 +2,6 @@
 aliases: ["Colgante de inmunidad al veneno", "Periapt of Proof against Poison"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Periapt of Proof against Poison|Periapt of Proof against Poison (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Cadena|Cadena]]"
 ---
 
 # Colgante de inmunidad al veneno

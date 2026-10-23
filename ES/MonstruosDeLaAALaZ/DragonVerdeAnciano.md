@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/ClavoMental|Clavo mental]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/AlterarLosRecuerdos|Alterar los recuerdos]]"
   - "[[Conjuros/Geas|Geas]]"

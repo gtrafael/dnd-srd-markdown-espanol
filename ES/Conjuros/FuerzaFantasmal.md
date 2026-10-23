@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[MonstruosDeLaAALaZ/Fantasma|Fantasma]]"
 ---
 

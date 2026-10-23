@@ -3,9 +3,7 @@ aliases: ["Ogro", "Ogre"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ogre|Ogre (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/GarroteGrande|Garrote grande]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[_Entidades/Equipo/Jabalina|Jabalina]]"
 ---
 
 # Ogro

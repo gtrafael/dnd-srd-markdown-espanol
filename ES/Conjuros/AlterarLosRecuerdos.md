@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---

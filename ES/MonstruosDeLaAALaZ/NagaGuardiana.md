@@ -5,7 +5,6 @@ related_en: "[[Monsters A-Z/Guardian Naga|Guardian Naga (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/Clarividencia|Clarividencia]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"

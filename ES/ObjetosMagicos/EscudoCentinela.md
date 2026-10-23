@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Sentinel Shield|Sentinel Shield (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
   - "[[Conjuros/Simbolo|Símbolo]]"
 ---
 

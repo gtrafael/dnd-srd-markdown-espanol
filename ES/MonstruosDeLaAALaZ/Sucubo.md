@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[MonstruosDeLaAALaZ/Incubo|Íncubo]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DominarPersona|Dominar persona]]"
 ---
 

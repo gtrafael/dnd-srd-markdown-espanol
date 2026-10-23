@@ -3,7 +3,6 @@ aliases: ["Bastón de enjambre de insectos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Swarming Insects]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Baston|Bastón]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"

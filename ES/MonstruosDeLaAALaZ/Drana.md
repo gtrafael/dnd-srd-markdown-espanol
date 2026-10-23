@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
   - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
   - "[[Animales/Arana|Araña]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/FuegoFeerico|Fuego feérico]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"
 ---

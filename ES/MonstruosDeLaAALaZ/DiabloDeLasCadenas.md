@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Cadena|Cadena]]"
 ---
 
 # Diablo de las cadenas

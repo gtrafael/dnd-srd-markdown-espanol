@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Half-Dragon|Half-Dragon (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/AlientoDeDragon|Aliento de dragón]]"
   - "[[Conjuros/Salto|Salto]]"

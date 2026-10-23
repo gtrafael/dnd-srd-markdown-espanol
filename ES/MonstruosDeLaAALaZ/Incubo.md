@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[MonstruosDeLaAALaZ/Sucubo|Súcubo]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Disfrazarse|Disfrazarse]]"
   - "[[Conjuros/ExcursionEterea|Excursión etérea]]"
   - "[[Conjuros/Ensueno|Ensueño]]"

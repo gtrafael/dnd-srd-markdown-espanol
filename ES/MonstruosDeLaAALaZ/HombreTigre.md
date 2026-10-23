@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Weretiger|Weretiger (EN)]]"
 wikilinks_auto:
   - "[[Animales/Tigre|Tigre]]"
-  - "[[_Entidades/Equipo/ArcoLargo|Arco largo]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

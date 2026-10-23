@@ -12,7 +12,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[ObjetosMagicos/BolaDeCristal|Bola de cristal]]"
-  - "[[_Entidades/Equipo/Espejo|Espejo]]"
 ---
 
 # Escudriñar

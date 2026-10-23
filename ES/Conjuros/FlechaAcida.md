@@ -5,7 +5,6 @@ related_en: "[[Spells/Acid Arrow|Acid Arrow (EN)]]"
 wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
 ---
 
 # Flecha ácida

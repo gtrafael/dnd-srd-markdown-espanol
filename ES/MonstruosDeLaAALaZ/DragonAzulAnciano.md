@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/HacerAnicos|Hacer añicos]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
   - "[[Conjuros/ManoDeMago|Mano de mago]]"

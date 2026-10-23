@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/LuzDelDia|Luz del día]]"
   - "[[Conjuros/MuroDeFuego|Muro de fuego]]"
   - "[[Conjuros/RociadaPrismatica|Rociada prismática]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
 ---

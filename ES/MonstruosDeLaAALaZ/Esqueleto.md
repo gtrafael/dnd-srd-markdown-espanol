@@ -3,8 +3,6 @@ aliases: ["Esqueleto", "Skeleton"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Skeleton|Skeleton (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArcoCorto|Arco corto]]"
-  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

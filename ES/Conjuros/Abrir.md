@@ -7,9 +7,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Cofre|Cofre]]"
-  - "[[_Entidades/Equipo/Esposas|Esposas]]"
-  - "[[_Entidades/Equipo/Cerradura|Cerradura]]"
   - "[[Conjuros/CerraduraArcana|Cerradura arcana]]"
 ---
 

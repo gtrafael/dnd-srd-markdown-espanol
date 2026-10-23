@@ -5,9 +5,6 @@ related_en: "[[Monsters A-Z/Kraken|Kraken (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
-  - "[[_Entidades/Equipo/Tinta|Tinta]]"
 ---
 
 # Kraken

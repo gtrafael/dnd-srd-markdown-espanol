@@ -2,10 +2,6 @@
 aliases: ["Asesino", "Assassin"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Assassin|Assassin (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCueroTachonado|Armadura de cuero tachonado]]"
-  - "[[_Entidades/Equipo/BallestaLigera|Ballesta ligera]]"
-  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
 ---
 
 # Asesino

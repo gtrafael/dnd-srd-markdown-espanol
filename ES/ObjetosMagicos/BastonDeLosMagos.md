@@ -3,7 +3,6 @@ aliases: ["Bastón de los magos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of the Magi]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Baston|Bastón]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"

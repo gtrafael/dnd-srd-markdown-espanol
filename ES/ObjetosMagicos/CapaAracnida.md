@@ -3,7 +3,6 @@ aliases: ["Capa arácnida", "Cloak of Arachnida"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Cloak of Arachnida|Cloak of Arachnida (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Red|Red]]"
   - "[[Conjuros/Telarana|Telaraña]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"

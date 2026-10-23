@@ -3,7 +3,6 @@ aliases: ["Túnica de las estrellas", "Robe of Stars"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Robe of Stars|Robe of Stars (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Tunica|Túnica]]"
   - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"
 ---
 

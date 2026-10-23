@@ -2,8 +2,6 @@
 aliases: ["Abalorio de nutrición", "Bead of Nourishment"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Bead of Nourishment|Bead of Nourishment (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Raciones|Raciones]]"
 ---
 
 # Abalorio de nutrición

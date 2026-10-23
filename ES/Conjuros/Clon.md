@@ -5,7 +5,6 @@ related_en: "[[Spells/Clone|Clone (EN)]]"
 wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Clon

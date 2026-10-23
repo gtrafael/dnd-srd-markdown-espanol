@@ -3,7 +3,6 @@ aliases: ["Mimeto", "Mimic"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Mimic|Mimic (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

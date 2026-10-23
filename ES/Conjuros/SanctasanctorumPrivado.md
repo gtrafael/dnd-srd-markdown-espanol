@@ -5,10 +5,8 @@ related_en: "[[Spells/Private Sanctum|Private Sanctum (EN)]]"
 wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Adivinacion|Adivinación]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Sanctasanctórum privado

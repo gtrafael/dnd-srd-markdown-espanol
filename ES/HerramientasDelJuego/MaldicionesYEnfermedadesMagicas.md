@@ -12,7 +12,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Aparicion|Aparición]]"
   - "[[Conjuros/Curar|Curar]]"
   - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
-  - "[[_Entidades/Equipo/UtilesDeHerborista|Útiles de herborista]]"
 ---
 
 # Maldiciones y enfermedades mágicas

@@ -3,21 +3,10 @@ aliases: ["Guerrero", "Fighter"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Fighter|Fighter (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/CotaDeMalla|Cota de malla]]"
-  - "[[_Entidades/Equipo/Espadon|Espadón]]"
-  - "[[_Entidades/Equipo/Mangual|Mangual]]"
-  - "[[_Entidades/Equipo/PaqueteDeExploradorDeMazmorras|Paquete de explorador de mazmorras]]"
-  - "[[_Entidades/Equipo/ArmaduraDeCueroTachonado|Armadura de cuero tachonado]]"
-  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
-  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
-  - "[[_Entidades/Equipo/ArcoLargo|Arco largo]]"
-  - "[[_Entidades/Equipo/Aljaba|Aljaba]]"
-  - "[[_Entidades/Dotes/Defensa|Defensa]]"
-  - "[[_Entidades/Dotes/MejoraDeCaracteristica|Mejora de característica]]"
+  - "[[Clases/Explorador|Explorador]]"
   - "[[Conjuros/Desplazamiento|Desplazamiento]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/Ralentizar|Ralentizar]]"
-  - "[[_Entidades/Dotes/DonDeLaPericiaEnCombate|Don de la pericia en combate]]"
 ---
 
 # Guerrero

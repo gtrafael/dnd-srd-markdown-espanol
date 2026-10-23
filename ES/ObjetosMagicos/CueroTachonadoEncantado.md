@@ -3,7 +3,6 @@ aliases: ["Cuero tachonado encantado", "Glamoured Studded Leather"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Glamoured Studded Leather|Glamoured Studded Leather (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCueroTachonado|Armadura de cuero tachonado]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
 ---
 

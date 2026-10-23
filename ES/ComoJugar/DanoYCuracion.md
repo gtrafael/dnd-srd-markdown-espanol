@@ -3,13 +3,9 @@ aliases: ["Daño y curación"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Damage and Healing]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Juego|Juego]]"
-  - "[[_Entidades/Equipo/Cerbatana|Cerbatana]]"
-  - "[[_Entidades/Equipo/Daga|Daga]]"
   - "[[Clases/Picaro|Pícaro]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
-  - "[[_Entidades/Equipo/PocionDeCuracion|Poción de curación]]"
 ---
 
 # Daño y curación

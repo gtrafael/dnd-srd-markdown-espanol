@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Conjuros/Luz|Luz]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Fuego feérico

@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Mage|Mage (EN)]]"
 wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/ArmaduraDeMago|Armadura de mago]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/Luz|Luz]]"
@@ -17,7 +16,6 @@ wikilinks_auto:
   - "[[Conjuros/PasoBrumoso|Paso brumoso]]"
   - "[[Conjuros/Contrahechizo|Contrahechizo]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
 ---
 
 # Mago

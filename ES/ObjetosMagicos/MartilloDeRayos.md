@@ -3,8 +3,6 @@ aliases: ["Martillo de rayos", "Hammer of Thunderbolts"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Hammer of Thunderbolts|Hammer of Thunderbolts (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/MartilloDeGuerra|Martillo de guerra]]"
-  - "[[_Entidades/Equipo/MazaADosManos|Maza a dos manos]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
   - "[[ObjetosMagicos/GuanteletesDeFuerzaDeOgro|Guanteletes de fuerza de ogro]]"
 ---

@@ -2,10 +2,6 @@
 aliases: ["Bandido", "Bandit"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Bandit|Bandit (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
-  - "[[_Entidades/Equipo/BallestaLigera|Ballesta ligera]]"
-  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
 ---
 
 # Bandido

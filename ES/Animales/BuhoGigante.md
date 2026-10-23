@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Animales/Buho|Búho]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/Clarividencia|Clarividencia]]"

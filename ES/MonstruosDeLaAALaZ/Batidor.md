@@ -2,10 +2,6 @@
 aliases: ["Batidor", "Scout"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Scout|Scout (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/ArcoLargo|Arco largo]]"
-  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
-  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
 ---
 
 # Batidor

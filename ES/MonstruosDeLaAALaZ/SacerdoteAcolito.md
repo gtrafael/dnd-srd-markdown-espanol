@@ -4,11 +4,8 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Priest Acolyte|Priest Acolyte (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[_Entidades/Equipo/CamisaDeMalla|Camisa de malla]]"
-  - "[[_Entidades/Equipo/Maza|Maza]]"
-  - "[[_Entidades/Equipo/SimboloSagrado|Símbolo sagrado]]"
+  - "[[Conjuros/Simbolo|Símbolo]]"
   - "[[MonstruosDeLaAALaZ/Sacerdote|Sacerdote]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/Auxilio|Auxilio]]"

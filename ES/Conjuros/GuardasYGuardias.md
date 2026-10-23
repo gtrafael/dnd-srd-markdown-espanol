@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Vara|Vara]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
   - "[[Animales/Arana|Araña]]"
   - "[[Conjuros/Telarana|Telaraña]]"

@@ -9,8 +9,6 @@ wikilinks_auto:
   - "[[Animales/CabraGigante|Cabra gigante]]"
   - "[[Animales/CaballoDeMonta|Caballo de monta]]"
   - "[[Conjuros/Terror|Terror]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
-  - "[[_Entidades/Equipo/EspadaLarga|Espada larga]]"
   - "[[MonstruosDeLaAALaZ/Pesadilla|Pesadilla]]"
   - "[[Animales/Cuervo|Cuervo]]"
   - "[[Conjuros/MensajeroAnimal|Mensajero animal]]"

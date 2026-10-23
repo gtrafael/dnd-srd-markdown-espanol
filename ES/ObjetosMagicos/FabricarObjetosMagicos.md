@@ -4,20 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Crafting Magic Items|Crafting Magic Items (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Fabricar|Fabricar]]"
-  - "[[_Entidades/Equipo/HerramientasDeJoyero|Herramientas de joyero]]"
-  - "[[_Entidades/Equipo/HerramientasDeCurtidor|Herramientas de curtidor]]"
-  - "[[_Entidades/Equipo/HerramientasDeHerrero|Herramientas de herrero]]"
-  - "[[_Entidades/Equipo/HerramientasDeTejedor|Herramientas de tejedor]]"
-  - "[[_Entidades/Equipo/HerramientasDeEbanista|Herramientas de ebanista]]"
-  - "[[_Entidades/Equipo/Baston|Bastón]]"
-  - "[[_Entidades/Equipo/HerramientasDeManitas|Herramientas de manitas]]"
-  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
-  - "[[_Entidades/Equipo/SuministrosDeCaligrafo|Suministros de calígrafo]]"
-  - "[[_Entidades/Equipo/SuministrosDeAlquimista|Suministros de alquimista]]"
-  - "[[_Entidades/Equipo/UtilesDeHerborista|Útiles de herborista]]"
-  - "[[_Entidades/Equipo/Vara|Vara]]"
-  - "[[_Entidades/Equipo/ArmaduraDePlacas|Armadura de placas]]"
-  - "[[_Entidades/Equipo/PergaminoDeConjuro|Pergamino de conjuro]]"
 ---
 
 # Fabricar objetos mágicos

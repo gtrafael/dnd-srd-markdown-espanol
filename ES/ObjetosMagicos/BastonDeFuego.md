@@ -3,7 +3,6 @@ aliases: ["Bastón de fuego"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Fire]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Baston|Bastón]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"

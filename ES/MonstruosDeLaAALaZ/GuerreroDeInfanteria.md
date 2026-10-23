@@ -3,8 +3,6 @@ aliases: ["Guerrero de infantería", "Warrior Infantry"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Warrior Infantry|Warrior Infantry (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/CamisaDeMalla|Camisa de malla]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Clases/Guerrero|Guerrero]]"
 ---
 

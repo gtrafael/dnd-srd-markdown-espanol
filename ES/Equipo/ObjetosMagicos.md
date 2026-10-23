@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[ObjetosMagicos/AnilloDeCaidaDePluma|Anillo de caída de pluma]]"
   - "[[ObjetosMagicos/AnilloDeNatacion|Anillo de natación]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
   - "[[ObjetosMagicos/AnilloDeProteccion|Anillo de protección]]"
 ---
 

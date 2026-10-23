@@ -2,8 +2,6 @@
 aliases: ["Cetro de mando"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Rod of Rulership]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Vara|Vara]]"
 ---
 
 # Cetro de mando

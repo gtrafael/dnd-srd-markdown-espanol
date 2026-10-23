@@ -5,7 +5,6 @@ related_en: "[[Monsters A-Z/Spirit Naga|Spirit Naga (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Deseo|Deseo]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/IlusionMenor|Ilusión menor]]"
   - "[[Conjuros/ManoDeMago|Mano de mago]]"

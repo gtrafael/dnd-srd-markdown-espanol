@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/CampoAntimagia|Campo antimagia]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Pasamuros|Pasamuros]]"

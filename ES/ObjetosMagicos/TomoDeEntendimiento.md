@@ -2,8 +2,6 @@
 aliases: ["Tomo de entendimiento", "Tome of Understanding"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Tome of Understanding|Tome of Understanding (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Libro|Libro]]"
 ---
 
 # Tomo de entendimiento

@@ -5,8 +5,6 @@ related_en: "[[Spells/Fabricate|Fabricate (EN)]]"
 wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Fabricar

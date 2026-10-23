@@ -7,9 +7,6 @@ wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Tinta|Tinta]]"
-  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
-  - "[[_Entidades/Equipo/Papel|Papel]]"
   - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 

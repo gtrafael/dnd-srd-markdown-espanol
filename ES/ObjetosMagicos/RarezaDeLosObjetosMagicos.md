@@ -3,11 +3,7 @@ aliases: ["Rareza de los objetos mágicos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Item Rarity|Magic Item Rarity (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/PocionDeCuracion|Poción de curación]]"
   - "[[ObjetosMagicos/OrbeDragontino|Orbe Dragontino]]"
-  - "[[_Entidades/Equipo/ArmaduraDePlacas|Armadura de placas]]"
-  - "[[_Entidades/Equipo/PergaminoDeConjuro|Pergamino de conjuro]]"
-  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
 ---
 
 # Rareza de los objetos mágicos

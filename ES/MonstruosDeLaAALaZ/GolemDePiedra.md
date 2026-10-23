@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/Ralentizar|Ralentizar]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Gólem de piedra

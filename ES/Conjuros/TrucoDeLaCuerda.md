@@ -5,7 +5,6 @@ related_en: "[[Spells/Rope Trick|Rope Trick (EN)]]"
 wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
   - "[[Conjuros/Portal|Portal]]"
 ---
 

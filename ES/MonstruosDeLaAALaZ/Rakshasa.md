@@ -5,7 +5,6 @@ related_en: "[[Monsters A-Z/Rakshasa|Rakshasa (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Bendicion|Bendición]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
   - "[[Conjuros/Disfrazarse|Disfrazarse]]"

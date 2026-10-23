@@ -2,8 +2,6 @@
 aliases: ["Babuchas de trepar cual arácnido", "Slippers of Spider Climbing"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Slippers of Spider Climbing|Slippers of Spider Climbing (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Aceite|Aceite]]"
 ---
 
 # Babuchas de trepar cual arácnido

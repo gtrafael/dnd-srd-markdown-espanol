@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Pluma|Pluma]]"
 ---
 
 # Risa horrible

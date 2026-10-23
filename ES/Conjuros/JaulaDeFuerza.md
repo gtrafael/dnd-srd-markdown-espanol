@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Teletransporte|Teletransporte]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
 ---

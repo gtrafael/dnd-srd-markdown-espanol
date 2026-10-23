@@ -5,8 +5,6 @@ related_en: "[[Animals/Octopus|Octopus (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
-  - "[[_Entidades/Equipo/Tinta|Tinta]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Pulpo

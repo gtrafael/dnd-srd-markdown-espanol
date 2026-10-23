@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Deseo

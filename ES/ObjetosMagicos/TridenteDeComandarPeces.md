@@ -3,7 +3,6 @@ aliases: ["Tridente de comandar peces", "Trident of Fish Command"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Trident of Fish Command|Trident of Fish Command (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Tridente|Tridente]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
   - "[[Conjuros/DominarBestia|Dominar bestia]]"
 ---

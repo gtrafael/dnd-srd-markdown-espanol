@@ -7,8 +7,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Sombra|Sombra]]"
-  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Creación

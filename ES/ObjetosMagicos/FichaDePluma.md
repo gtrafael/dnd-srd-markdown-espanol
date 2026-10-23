@@ -3,8 +3,6 @@ aliases: ["Ficha de pluma"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Feather Token]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Pluma|Pluma]]"
-  - "[[_Entidades/Equipo/Latigo|Látigo]]"
   - "[[MonstruosDeLaAALaZ/Roc|Roc]]"
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/Simbolo|Símbolo]]"

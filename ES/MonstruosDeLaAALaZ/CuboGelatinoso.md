@@ -2,9 +2,6 @@
 aliases: ["Cubo gelatinoso", "Gelatinous Cube"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Gelatinous Cube|Gelatinous Cube (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Cubo gelatinoso

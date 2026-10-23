@@ -3,12 +3,8 @@ aliases: ["Capitán de la guardia", "Guard Captain"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Guard Captain|Guard Captain (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Coraza|Coraza]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/Escudo|Escudo]]"
-  - "[[_Entidades/Equipo/EspadaLarga|Espada larga]]"
   - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
-  - "[[_Entidades/Equipo/Jabalina|Jabalina]]"
 ---
 
 # Capitán de la guardia

@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Deseo|Deseo]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/Elementalismo|Elementalismo]]"

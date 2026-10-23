@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Dormir|Dormir]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Mephit de polvo

@@ -2,10 +2,6 @@
 aliases: ["Pendenciero", "Tough"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Tough|Tough (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
-  - "[[_Entidades/Equipo/BallestaPesada|Ballesta pesada]]"
-  - "[[_Entidades/Equipo/Maza|Maza]]"
 ---
 
 # Pendenciero

@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Levitar|Levitar]]"
-  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/CaminarSobreElAgua|Caminar sobre el agua]]"
   - "[[Conjuros/CrearODestruirAgua|Crear o destruir agua]]"
   - "[[Conjuros/MuroDeHielo|Muro de hielo]]"

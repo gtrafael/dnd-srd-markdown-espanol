@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Flying]]"
 wikilinks_auto:
   - "[[Conjuros/Levitar|Levitar]]"
-  - "[[_Entidades/Equipo/Frasco|Frasco]]"
 ---
 
 # Poción de vuelo

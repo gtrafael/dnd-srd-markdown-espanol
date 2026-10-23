@@ -8,8 +8,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/CirculoDeTeletransportacion|Círculo de teletransportación]]"
-  - "[[_Entidades/Equipo/Libro|Libro]]"
-  - "[[_Entidades/Equipo/Mapa|Mapa]]"
 ---
 
 # Teletransporte

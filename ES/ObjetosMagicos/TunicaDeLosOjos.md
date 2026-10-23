@@ -3,9 +3,7 @@ aliases: ["Túnica de los ojos", "Robe of Eyes"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Robe of Eyes|Robe of Eyes (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Tunica|Túnica]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/LuzDelDia|Luz del día]]"
 ---

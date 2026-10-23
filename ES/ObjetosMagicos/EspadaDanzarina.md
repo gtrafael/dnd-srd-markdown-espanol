@@ -3,11 +3,6 @@ aliases: ["Espada danzarina"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dancing Sword]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
-  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
-  - "[[_Entidades/Equipo/EspadaLarga|Espada larga]]"
-  - "[[_Entidades/Equipo/Espadon|Espadón]]"
-  - "[[_Entidades/Equipo/Estoque|Estoque]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
   - "[[Conjuros/Levitar|Levitar]]"
 ---

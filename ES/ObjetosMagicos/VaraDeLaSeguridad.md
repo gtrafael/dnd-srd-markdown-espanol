@@ -3,7 +3,6 @@ aliases: ["Vara de la seguridad"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Rod of Security]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Vara|Vara]]"
   - "[[Conjuros/Semiplano|Semiplano]]"
 ---
 

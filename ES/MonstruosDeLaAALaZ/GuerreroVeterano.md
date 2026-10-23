@@ -3,9 +3,6 @@ aliases: ["Guerrero veterano", "Warrior Veteran"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Warrior Veteran|Warrior Veteran (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeBandas|Armadura de bandas]]"
-  - "[[_Entidades/Equipo/BallestaPesada|Ballesta pesada]]"
-  - "[[_Entidades/Equipo/Espadon|Espadón]]"
   - "[[Clases/Guerrero|Guerrero]]"
 ---
 

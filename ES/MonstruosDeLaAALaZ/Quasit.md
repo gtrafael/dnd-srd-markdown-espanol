@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Animales/Murcielago|Murciélago]]"
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Quasit

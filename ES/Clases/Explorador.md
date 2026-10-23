@@ -3,14 +3,6 @@ aliases: ["Explorador", "Ranger"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Ranger|Ranger (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCueroTachonado|Armadura de cuero tachonado]]"
-  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
-  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
-  - "[[_Entidades/Equipo/ArcoLargo|Arco largo]]"
-  - "[[_Entidades/Equipo/Aljaba|Aljaba]]"
-  - "[[_Entidades/Equipo/CanalizadorDruidico|Canalizador druídico]]"
-  - "[[_Entidades/Equipo/PaqueteDeExplorador|Paquete de explorador]]"
-  - "[[_Entidades/Dotes/MejoraDeCaracteristica|Mejora de característica]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/MarcaDelCazador|Marca del cazador]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
@@ -20,7 +12,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Conjuros/Guia|Guía]]"
   - "[[Conjuros/VolutaEstelar|Voluta estelar]]"
-  - "[[_Entidades/Dotes/DonDelViajeDimensional|Don del viaje dimensional]]"
   - "[[Conjuros/Alarma|Alarma]]"
   - "[[Conjuros/BuenasBayas|Buenas bayas]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
@@ -68,7 +59,6 @@ wikilinks_auto:
   - "[[Conjuros/PasoArboreo|Paso arbóreo]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Dotes/Defensa|Defensa]]"
 ---
 
 # Explorador

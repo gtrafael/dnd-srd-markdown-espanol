@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/ControlarElClima|Controlar el clima]]"

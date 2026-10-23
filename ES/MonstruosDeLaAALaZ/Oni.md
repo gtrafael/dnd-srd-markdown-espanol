@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[MonstruosDeLaAALaZ/Pesadilla|Pesadilla]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Dormir|Dormir]]"
   - "[[Conjuros/FormaGaseosa|Forma gaseosa]]"
   - "[[Conjuros/HechizarPersona|Hechizar persona]]"

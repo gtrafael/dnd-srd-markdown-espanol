@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[MonstruosDeLaAALaZ/Momia|Momia]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
   - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/AnimarALosMuertos|Animar a los muertos]]"

@@ -9,8 +9,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Animales/Leon|León]]"
-  - "[[_Entidades/Equipo/Cofre|Cofre]]"
-  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Luz|Luz]]"
 ---
 

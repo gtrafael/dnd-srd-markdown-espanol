@@ -3,7 +3,6 @@ aliases: ["Bastón de poder"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Power]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/Baston|Bastón]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"

@@ -3,10 +3,8 @@ aliases: ["Fanático sectario", "Cultist Fanatic"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Cultist Fanatic|Cultist Fanatic (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
-  - "[[_Entidades/Equipo/SimboloSagrado|Símbolo sagrado]]"
+  - "[[Conjuros/Simbolo|Símbolo]]"
   - "[[MonstruosDeLaAALaZ/Sectario|Sectario]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/OrdenImperiosa|Orden imperiosa]]"

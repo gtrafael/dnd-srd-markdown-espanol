@@ -7,8 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[_Entidades/Equipo/Frasco|Frasco]]"
-  - "[[_Entidades/Equipo/AguaBendita|Agua bendita]]"
 ---
 
 # Vrock

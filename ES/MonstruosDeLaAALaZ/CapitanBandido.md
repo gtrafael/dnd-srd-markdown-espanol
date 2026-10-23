@@ -3,9 +3,6 @@ aliases: ["Capitán bandido", "Bandit Captain"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Bandit Captain|Bandit Captain (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Equipo/ArmaduraDeCueroTachonado|Armadura de cuero tachonado]]"
-  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
-  - "[[_Entidades/Equipo/Pistola|Pistola]]"
   - "[[MonstruosDeLaAALaZ/Bandido|Bandido]]"
 ---
 

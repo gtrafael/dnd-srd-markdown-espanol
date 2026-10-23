@@ -11,7 +11,6 @@ wikilinks_auto:
   - "[[Animales/Cuervo|Cuervo]]"
   - "[[Animales/Rata|Rata]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
-  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Diablillo
