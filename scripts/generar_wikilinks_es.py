@@ -1,369 +1,393 @@
 #!/usr/bin/env python3
-"""Genera relaciones Obsidian en frontmatter para la bóveda ES.
-
-El cuerpo Markdown de las notas no se modifica. El script detecta menciones
-textuales a un catálogo de notas y escribe únicamente la propiedad
-`wikilinks_auto` en el frontmatter.
-
-Uso:
-    python scripts/generar_wikilinks_es.py --dry-run
-    python scripts/generar_wikilinks_es.py
-"""
+"""Genera la capa determinista de relaciones Obsidian para ES (v2)."""
 
 from __future__ import annotations
 
 import argparse
 import re
+import shutil
 import sys
+import unicodedata
 from collections import defaultdict
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
-
 AUTO_PROPERTY = "wikilinks_auto"
+GENERATED_ROOT = "_Entidades"
 
-# Las clases son una excepción: la carpeta ES/Clases contiene también notas
-# auxiliares que no son clases. Por eso se enumeran explícitamente.
 CLASS_FILES = (
-    "Barbaro.md",
-    "Bardo.md",
-    "Brujo.md",
-    "Clerigo.md",
-    "Druida.md",
-    "Explorador.md",
-    "Guerrero.md",
-    "Hechicero.md",
-    "Mago.md",
-    "Monje.md",
-    "Paladin.md",
-    "Picaro.md",
+    "Barbaro.md", "Bardo.md", "Brujo.md", "Clerigo.md", "Druida.md",
+    "Explorador.md", "Guerrero.md", "Hechicero.md", "Mago.md", "Monje.md",
+    "Paladin.md", "Picaro.md",
 )
-
-# El resto de familias se toman por carpeta, excluyendo *-Index.md.
-SOURCE_DIRS = (
-    "Animales",
-    "Conjuros",
-    "Dotes",
-    "Equipo",
-    "MonstruosDeLaAALaZ",
-    "ObjetosMagicos",
+FEAT_FILES = (
+    "DotesDeDonEpico.md", "DotesDeEstiloDeCombate.md",
+    "DotesDeOrigen.md", "DotesGenerales.md",
 )
+EQUIPMENT_HEADING_FILES = ("EquipoDeAventureros.md", "Herramientas.md")
+EQUIPMENT_TABLE_FILES = ("Armaduras.md", "Armas.md", "MonturasYVehiculos.md")
+GENERIC_EQUIPMENT_HEADINGS = {
+    "competencia con herramientas",
+    "herramientas de artesano",
+    "otras herramientas",
+}
+TABLE_HEADERS = {"armadura", "nombre", "silla", "animal", "elemento", "vehículo"}
 
 
 @dataclass(frozen=True)
 class Concept:
     title: str
-    path: Path  # ruta relativa a ES/, con extensión .md
+    path: Path
+    kind: str
 
     @property
     def wikilink(self) -> str:
-        target = self.path.with_suffix("").as_posix()
-        return f"[[{target}|{self.title}]]"
+        return f"[[{self.path.with_suffix('').as_posix()}|{self.title}]]"
+
+
+@dataclass
+class EmbeddedEntity:
+    title: str
+    kind: str
+    sources: list[tuple[Path, str | None]] = field(default_factory=list)
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(
-        description=(
-            "Detecta menciones a notas seleccionadas y genera wikilinks "
-            "en la propiedad de frontmatter wikilinks_auto."
-        )
-    )
-    parser.add_argument(
-        "--root",
-        type=Path,
-        default=Path(__file__).resolve().parents[1],
-        help="Raíz del repositorio (por defecto se infiere desde scripts/).",
-    )
-    parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="Calcula los cambios y muestra el resumen sin escribir archivos.",
-    )
-    parser.add_argument(
-        "--verbose",
-        action="store_true",
-        help="Muestra cada nota que cambiaría y sus relaciones detectadas.",
-    )
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
+    parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--verbose", action="store_true")
     return parser.parse_args()
 
 
-def first_h1(markdown: str) -> str | None:
-    """Devuelve el primer H1 del cuerpo, ignorando el frontmatter."""
-    body = strip_frontmatter(markdown)
-    match = re.search(r"(?m)^#\s+(.+?)\s*$", body)
-    if not match:
-        return None
-
-    title = match.group(1).strip()
-    # Limpieza conservadora de énfasis/código inline alrededor del título.
-    title = re.sub(r"^[*_\`]+|[*_\`]+$", "", title).strip()
-    return title or None
+def split_frontmatter(text: str) -> tuple[list[str] | None, str, str]:
+    newline = "\r\n" if "\r\n" in text[:200] else "\n"
+    if not text.startswith("---" + newline):
+        return None, text, newline
+    lines = text.splitlines(keepends=True)
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            return [x.rstrip("\r\n") for x in lines[1:i]], "".join(lines[i + 1:]), newline
+    raise ValueError("Frontmatter sin cierre")
 
 
-def strip_frontmatter(markdown: str) -> str:
-    if not markdown.startswith("---"):
-        return markdown
-
-    match = re.match(r"^---(?:\r?\n)(.*?)(?:\r?\n)---(?:\r?\n|$)", markdown, re.S)
-    if not match:
-        return markdown
-    return markdown[match.end():]
+def body(text: str) -> str:
+    return split_frontmatter(text)[1]
 
 
-def normalized_title(value: str) -> str:
-    """Normalización para comparar títulos sin alterar acentos."""
+def clean_title(value: str) -> str:
+    value = re.sub(r"^[*_]+|[*_]+$", "", value.strip()).strip()
+    return re.sub(r"\s+", " ", value)
+
+
+def h1(text: str) -> str | None:
+    match = re.search(r"(?m)^#\s+(.+?)\s*$", body(text))
+    return clean_title(match.group(1)) if match else None
+
+
+def h2s(text: str) -> list[str]:
+    return [clean_title(m.group(1)) for m in re.finditer(r"(?m)^##\s+(.+?)\s*$", body(text))]
+
+
+def norm(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip().casefold()
 
 
+def slug(value: str) -> str:
+    value = unicodedata.normalize("NFKD", value)
+    value = "".join(ch for ch in value if not unicodedata.combining(ch))
+    parts = re.findall(r"[A-Za-z0-9]+", value)
+    return "".join(p[:1].upper() + p[1:] for p in parts) or "Entidad"
+
+
 def is_index(path: Path) -> bool:
-    return path.name.lower().endswith("-index.md")
+    return path.name.casefold().endswith("-index.md")
 
 
-def is_alt_path(path: Path) -> bool:
+def is_alt(path: Path) -> bool:
     return any(part.endswith(" (Alt)") for part in path.parts)
 
 
-def source_files(es_root: Path) -> list[Path]:
-    files: list[Path] = []
-
-    classes_dir = es_root / "Clases"
-    for name in CLASS_FILES:
-        path = classes_dir / name
-        if not path.is_file():
-            raise FileNotFoundError(f"Falta la clase esperada: {path}")
-        files.append(path)
-
-    for dirname in SOURCE_DIRS:
-        folder = es_root / dirname
-        if not folder.is_dir():
-            raise FileNotFoundError(f"Falta la carpeta esperada: {folder}")
-        files.extend(
-            path
-            for path in sorted(folder.glob("*.md"))
-            if not is_index(path)
-        )
-
-    return files
+def is_spell(text: str) -> bool:
+    return all(x in text for x in (
+        "**Tiempo de lanzamiento:**", "**Alcance:**",
+        "**Componentes:**", "**Duración:**",
+    ))
 
 
-def build_catalog(es_root: Path) -> tuple[dict[str, Concept], dict[str, list[Concept]]]:
-    by_key: dict[str, list[Concept]] = defaultdict(list)
+def is_statblock(text: str) -> bool:
+    return all(x in text for x in ("**CA:**", "**PG:**", "**Velocidad:**"))
 
-    for path in source_files(es_root):
+
+def is_magic_item(text: str) -> bool:
+    content = body(text)
+    title = re.search(r"(?m)^#\s+.+?\s*$", content)
+    if not title:
+        return False
+    first = next((line.strip() for line in content[title.end():].splitlines() if line.strip()), "")
+    if not (first.startswith("*") and first.endswith("*")):
+        return False
+    first = first.casefold()
+    return any(word in first for word in (
+        "común", "infrecuente", "raro", "muy raro", "legendario", "artefacto"
+    ))
+
+
+def file_concepts(es: Path) -> list[Concept]:
+    result: list[Concept] = []
+
+    def add(path: Path, kind: str, predicate=None) -> None:
         text = path.read_text(encoding="utf-8")
-        title = first_h1(text)
-        if not title:
-            print(f"AVISO: sin H1, se omite del catálogo: {path}", file=sys.stderr)
-            continue
+        if predicate and not predicate(text):
+            return
+        title = h1(text)
+        if title:
+            result.append(Concept(title, path.relative_to(es), kind))
 
-        concept = Concept(title=title, path=path.relative_to(es_root))
-        by_key[normalized_title(title)].append(concept)
+    for name in CLASS_FILES:
+        add(es / "Clases" / name, "clase")
 
-    ambiguous = {key: values for key, values in by_key.items() if len(values) > 1}
-    unique = {key: values[0] for key, values in by_key.items() if len(values) == 1}
-    return unique, ambiguous
+    for folder, kind in (("Animales", "animal"), ("MonstruosDeLaAALaZ", "monstruo")):
+        for path in sorted((es / folder).glob("*.md")):
+            if not is_index(path):
+                add(path, kind, is_statblock)
 
+    for path in sorted((es / "Conjuros").glob("*.md")):
+        if not is_index(path):
+            add(path, "conjuro", is_spell)
 
-def compile_matcher(catalog: dict[str, Concept]) -> re.Pattern[str]:
-    # Más largos primero para evitar que un concepto corto "robe" parte de otro.
-    titles = sorted(
-        (concept.title for concept in catalog.values()),
-        key=lambda value: (-len(value), value.casefold()),
-    )
-
-    alternatives = []
-    for title in titles:
-        escaped = re.escape(title)
-        escaped = escaped.replace(r"\ ", r"\s+")
-        alternatives.append(escaped)
-
-    if not alternatives:
-        raise RuntimeError("El catálogo de conceptos está vacío.")
-
-    # Límites de palabra Unicode. Evita, por ejemplo, enlazar "Mago" dentro de
-    # una palabra mayor, pero permite títulos con espacios o puntuación.
-    return re.compile(
-        r"(?<!\w)(" + "|".join(alternatives) + r")(?!\w)",
-        re.IGNORECASE,
-    )
-
-
-def iter_target_notes(es_root: Path):
-    """Notas de contenido que se enriquecen con relaciones automáticas."""
-    for path in sorted(es_root.rglob("*.md")):
-        rel = path.relative_to(es_root)
-        if is_alt_path(rel):
-            continue
-        if is_index(rel):
-            continue
-        yield path
-
-
-def detect_links(
-    note_path: Path,
-    markdown: str,
-    es_root: Path,
-    catalog: dict[str, Concept],
-    matcher: re.Pattern[str],
-) -> list[str]:
-    body = strip_frontmatter(markdown)
-    current_rel = note_path.relative_to(es_root)
-
-    links: list[str] = []
-    seen: set[str] = set()
-
-    for match in matcher.finditer(body):
-        key = normalized_title(match.group(1))
-        concept = catalog.get(key)
-        if concept is None:
-            continue
-        if concept.path == current_rel:
-            continue
-
-        wikilink = concept.wikilink
-        if wikilink not in seen:
-            seen.add(wikilink)
-            links.append(wikilink)
-
-    return links
-
-
-def yaml_quote(value: str) -> str:
-    escaped = value.replace("\\", "\\\\").replace('"', '\\"')
-    return f'"{escaped}"'
-
-
-def remove_auto_property(frontmatter_lines: list[str]) -> list[str]:
-    """Elimina una propiedad wikilinks_auto previa, sea lista o valor simple."""
-    result: list[str] = []
-    i = 0
-    key_pattern = re.compile(rf"^{re.escape(AUTO_PROPERTY)}\s*:")
-
-    while i < len(frontmatter_lines):
-        line = frontmatter_lines[i]
-        if key_pattern.match(line):
-            i += 1
-            while i < len(frontmatter_lines):
-                next_line = frontmatter_lines[i]
-                if next_line.startswith((" ", "\t")) or not next_line.strip():
-                    i += 1
-                    continue
-                break
-            continue
-
-        result.append(line)
-        i += 1
+    for path in sorted((es / "ObjetosMagicos").glob("*.md")):
+        if not is_index(path):
+            add(path, "objeto_magico", is_magic_item)
 
     return result
 
 
-def update_frontmatter(markdown: str, links: list[str]) -> str:
-    newline = "\r\n" if "\r\n" in markdown[:200] else "\n"
+def add_embedded(
+    entities: dict[tuple[str, str], EmbeddedEntity],
+    title: str,
+    kind: str,
+    source: Path,
+    section: str | None,
+) -> None:
+    title = clean_title(title)
+    if not title:
+        return
+    key = (kind, norm(title))
+    entity = entities.setdefault(key, EmbeddedEntity(title, kind))
+    pair = (source, section)
+    if pair not in entity.sources:
+        entity.sources.append(pair)
 
-    if markdown.startswith("---" + newline):
-        lines = markdown.splitlines(keepends=True)
-        close_idx = None
-        for idx in range(1, len(lines)):
-            if lines[idx].strip() == "---":
-                close_idx = idx
-                break
 
-        if close_idx is None:
-            raise ValueError("Frontmatter abierto pero sin delimitador de cierre.")
+def strip_price(title: str) -> str:
+    return re.sub(
+        r"\s*\((?:[^()]*(?:po|pp|pc|pe|ppt|variable)[^()]*)\)\s*$",
+        "", title, flags=re.IGNORECASE,
+    ).strip()
 
-        fm_lines = [line.rstrip("\r\n") for line in lines[1:close_idx]]
-        body = "".join(lines[close_idx + 1 :])
-    else:
-        fm_lines = []
-        body = markdown
 
-    fm_lines = remove_auto_property(fm_lines)
+def embedded_entities(es: Path) -> list[EmbeddedEntity]:
+    entities: dict[tuple[str, str], EmbeddedEntity] = {}
 
-    # Evita acumular líneas vacías al final del frontmatter.
-    while fm_lines and not fm_lines[-1].strip():
-        fm_lines.pop()
+    for name in FEAT_FILES:
+        path = es / "Dotes" / name
+        for title in h2s(path.read_text(encoding="utf-8")):
+            add_embedded(entities, title, "dote", path.relative_to(es), title)
 
+    for name in EQUIPMENT_HEADING_FILES:
+        path = es / "Equipo" / name
+        for raw in h2s(path.read_text(encoding="utf-8")):
+            title = strip_price(raw)
+            if norm(title) not in GENERIC_EQUIPMENT_HEADINGS:
+                add_embedded(entities, title, "equipo", path.relative_to(es), raw)
+
+    headers = {x.casefold() for x in TABLE_HEADERS}
+    for name in EQUIPMENT_TABLE_FILES:
+        path = es / "Equipo" / name
+        section = None
+        for line in body(path.read_text(encoding="utf-8")).splitlines():
+            heading = re.match(r"^#{2,4}\s+(.+?)\s*$", line)
+            if heading:
+                section = clean_title(heading.group(1))
+                continue
+            if not line.startswith("|"):
+                continue
+            cells = [x.strip() for x in line.strip().strip("|").split("|")]
+            if not cells:
+                continue
+            first = clean_title(cells[0])
+            if not first or first.replace(":", "").replace("-", "").strip() == "":
+                continue
+            if norm(first) in headers:
+                continue
+            title = first
+            if name == "MonturasYVehiculos.md" and norm(section or "") == "sillas":
+                title = "Silla " + first.casefold()
+            add_embedded(entities, title, "equipo", path.relative_to(es), section)
+
+    return list(entities.values())
+
+
+def yaml_quote(value: str) -> str:
+    return '"' + value.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def entity_path(entity: EmbeddedEntity) -> Path:
+    folder = "Dotes" if entity.kind == "dote" else "Equipo"
+    return Path(GENERATED_ROOT) / folder / (slug(entity.title) + ".md")
+
+
+def source_link(note: Path, section: str | None) -> str:
+    target = note.with_suffix("").as_posix()
+    return f"[[{target}#{section}|{section}]]" if section else f"[[{target}]]"
+
+
+def render_entity(entity: EmbeddedEntity) -> str:
+    tag = "entidad_dote" if entity.kind == "dote" else "entidad_equipo"
+    lines = [
+        "---",
+        f"aliases: [{yaml_quote(entity.title)}]",
+        f"tags: [srd, espanol, generado, {tag}]",
+        f"entity_type: {entity.kind}",
+        "generated: true",
+        "generated_by: scripts/generar_wikilinks_es.py",
+        "sources:",
+    ]
+    for note, section in entity.sources:
+        lines.append("  - " + yaml_quote(source_link(note, section)))
+    lines.append("---")
+    return "\n".join(lines) + "\n"
+
+
+def generated_concepts(es: Path, entities: list[EmbeddedEntity], dry_run: bool) -> list[Concept]:
+    by_path: dict[Path, EmbeddedEntity] = {}
+    for entity in entities:
+        path = entity_path(entity)
+        previous = by_path.get(path)
+        if previous and norm(previous.title) != norm(entity.title):
+            raise RuntimeError(f"Colisión: {previous.title} / {entity.title} -> {path}")
+        by_path[path] = entity
+
+    concepts = [Concept(entity.title, path, entity.kind) for path, entity in by_path.items()]
+
+    if not dry_run:
+        root = es / GENERATED_ROOT
+        if root.exists():
+            shutil.rmtree(root)
+        for path, entity in by_path.items():
+            target = es / path
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(render_entity(entity), encoding="utf-8", newline="")
+
+    return concepts
+
+
+def catalog(concepts: list[Concept]) -> dict[str, list[Concept]]:
+    result: dict[str, list[Concept]] = defaultdict(list)
+    for concept in concepts:
+        result[norm(concept.title)].append(concept)
+    for values in result.values():
+        values.sort(key=lambda x: (x.kind, x.path.as_posix()))
+    return dict(result)
+
+
+def build_matcher(cat: dict[str, list[Concept]]) -> re.Pattern[str]:
+    titles = sorted((v[0].title for v in cat.values()), key=lambda x: (-len(x), x.casefold()))
+    parts = [re.escape(x).replace(r"\ ", r"\s+") for x in titles]
+    return re.compile(r"(?<!\w)(" + "|".join(parts) + r")(?!\w)", re.IGNORECASE)
+
+
+def searchable(text: str) -> str:
+    content = body(text)
+    content = re.sub(r"!?\[\[.*?\]\]", " ", content)
+    return re.sub(r"(?m)^#\s+.+?\s*$", " ", content, count=1)
+
+
+def target_notes(es: Path):
+    for path in sorted(es.rglob("*.md")):
+        rel = path.relative_to(es)
+        if rel.parts and rel.parts[0] == GENERATED_ROOT:
+            continue
+        if is_alt(rel) or is_index(rel) or rel == Path("Espanol.md"):
+            continue
+        yield path
+
+
+def detect(path: Path, text: str, es: Path, cat: dict[str, list[Concept]], rx: re.Pattern[str]) -> list[str]:
+    current = path.relative_to(es)
+    result, seen = [], set()
+    for match in rx.finditer(searchable(text)):
+        for concept in cat.get(norm(match.group(1)), []):
+            if concept.path == current:
+                continue
+            link = concept.wikilink
+            if link not in seen:
+                seen.add(link)
+                result.append(link)
+    return result
+
+
+def remove_auto(lines: list[str]) -> list[str]:
+    result, i = [], 0
+    key = re.compile(rf"^{re.escape(AUTO_PROPERTY)}\s*:")
+    while i < len(lines):
+        if key.match(lines[i]):
+            i += 1
+            while i < len(lines) and (lines[i].startswith((" ", "\t")) or not lines[i].strip()):
+                i += 1
+            continue
+        result.append(lines[i])
+        i += 1
+    return result
+
+
+def update_frontmatter(text: str, links: list[str]) -> str:
+    fm, content, newline = split_frontmatter(text)
+    had = fm is not None
+    fm = [] if fm is None else remove_auto(fm)
+    while fm and not fm[-1].strip():
+        fm.pop()
     if links:
-        fm_lines.append(AUTO_PROPERTY + ":")
-        fm_lines.extend(f"  - {yaml_quote(link)}" for link in links)
-
-    # Si una nota no tenía frontmatter y tampoco tiene relaciones, no se toca.
-    if not fm_lines and not markdown.startswith("---" + newline):
-        return markdown
-
-    frontmatter = (
-        "---"
-        + newline
-        + newline.join(fm_lines)
-        + newline
-        + "---"
-        + newline
-    )
-
-    # Si ya había frontmatter, el cuerpo comienza exactamente donde comenzaba.
-    # Si se crea uno nuevo, se añade una línea en blanco antes del cuerpo.
-    if markdown.startswith("---" + newline):
-        return frontmatter + body
-    # No añadimos una línea en blanco artificial: el cuerpo original empieza
-    # exactamente en el mismo primer byte que antes, tras el nuevo frontmatter.
-    return frontmatter + body
+        fm.append(AUTO_PROPERTY + ":")
+        fm.extend("  - " + yaml_quote(link) for link in links)
+    if not fm and not had:
+        return text
+    return "---" + newline + newline.join(fm) + newline + "---" + newline + content
 
 
 def main() -> int:
-    args = parse_args()
-    root = args.root.resolve()
-    es_root = root / "ES"
+    opt = parse_args()
+    root = opt.root.resolve()
+    es = root / "ES"
+    files = file_concepts(es)
+    generated = generated_concepts(es, embedded_entities(es), opt.dry_run)
+    cat = catalog(files + generated)
+    rx = build_matcher(cat)
 
-    if not es_root.is_dir():
-        print(f"ERROR: no existe {es_root}", file=sys.stderr)
-        return 2
-
-    catalog, ambiguous = build_catalog(es_root)
-
-    if ambiguous:
-        print(
-            f"AVISO: {len(ambiguous)} títulos ambiguos se omiten para evitar enlaces incorrectos:",
-            file=sys.stderr,
-        )
-        for concepts in ambiguous.values():
-            details = ", ".join(str(c.path) for c in concepts)
-            print(f"  - {concepts[0].title}: {details}", file=sys.stderr)
-
-    matcher = compile_matcher(catalog)
-
-    scanned = 0
-    changed = 0
-    generated_links = 0
-
-    for path in iter_target_notes(es_root):
+    scanned = changed = links_count = 0
+    for path in target_notes(es):
         scanned += 1
         original = path.read_text(encoding="utf-8")
-        links = detect_links(path, original, es_root, catalog, matcher)
+        links = detect(path, original, es, cat, rx)
         updated = update_frontmatter(original, links)
+        if updated != original:
+            changed += 1
+            links_count += len(links)
+            if opt.verbose:
+                print(path.relative_to(root), links)
+            if not opt.dry_run:
+                path.write_text(updated, encoding="utf-8", newline="")
 
-        if updated == original:
-            continue
-
-        changed += 1
-        generated_links += len(links)
-
-        if args.verbose:
-            rel = path.relative_to(root)
-            print(f"{rel}: {len(links)} enlaces")
-            for link in links:
-                print(f"  {link}")
-
-        if not args.dry_run:
-            path.write_text(updated, encoding="utf-8", newline="")
-
-    mode = "DRY-RUN" if args.dry_run else "ESCRITURA"
+    duplicates = {k: v for k, v in cat.items() if len(v) > 1}
+    mode = "DRY-RUN" if opt.dry_run else "ESCRITURA"
     print(
-        f"[{mode}] conceptos={len(catalog)} "
-        f"ambiguos={len(ambiguous)} "
-        f"notas_escaneadas={scanned} "
-        f"notas_modificadas={changed} "
-        f"wikilinks_generados={generated_links}"
+        f"[{mode}] entidades_con_nota={len(files)} entidades_generadas={len(generated)} "
+        f"titulos={len(cat)} duplicados={len(duplicates)} notas={scanned} "
+        f"modificadas={changed} wikilinks={links_count}"
     )
+    for values in sorted(duplicates.values(), key=lambda x: x[0].title.casefold()):
+        print("DUPLICADO:", values[0].title, "->", ", ".join(x.path.as_posix() for x in values))
     return 0
 
 
