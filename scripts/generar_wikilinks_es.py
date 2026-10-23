@@ -304,7 +304,9 @@ def update_frontmatter(markdown: str, links: list[str]) -> str:
     # Si se crea uno nuevo, se añade una línea en blanco antes del cuerpo.
     if markdown.startswith("---" + newline):
         return frontmatter + body
-    return frontmatter + newline + body
+    # No añadimos una línea en blanco artificial: el cuerpo original empieza
+    # exactamente en el mismo primer byte que antes, tras el nuevo frontmatter.
+    return frontmatter + body
 
 
 def main() -> int:
