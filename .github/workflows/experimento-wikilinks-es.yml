@@ -70,6 +70,7 @@ jobs:
 
           body_errors = []
           forbidden_errors = []
+          generated_link_errors = []
 
           for name in changed:
               path = Path(name)
@@ -96,6 +97,12 @@ jobs:
                   if token in text:
                       forbidden_errors.append((name, token))
 
+              # Los nodos auxiliares son identidades puras. Incluso la
+              # trazabilidad hacia su fuente debe ser texto, no un wikilink,
+              # para no reintroducir capítulos contenedores en el grafo.
+              if path.is_relative_to(GENERATED) and "[[" in text:
+                  generated_link_errors.append(name)
+
           if body_errors:
               print("ERROR: se modificó el cuerpo Markdown:")
               for name in body_errors:
@@ -106,6 +113,12 @@ jobs:
               print("ERROR: quedan destinos contenedores prohibidos:")
               for name, token in forbidden_errors:
                   print(f"  - {name}: {token}")
+              sys.exit(1)
+
+          if generated_link_errors:
+              print("ERROR: un nodo auxiliar contiene wikilinks de trazabilidad:")
+              for name in generated_link_errors:
+                  print(f"  - {name}")
               sys.exit(1)
 
           print(f"OK: {len(changed)} archivos cambian respetando los invariantes v2.")
