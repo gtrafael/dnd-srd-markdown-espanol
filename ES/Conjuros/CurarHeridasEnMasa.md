@@ -5,6 +5,8 @@ related_en: "[[Spells/Mass Cure Wounds|Mass Cure Wounds (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Curar heridas en masa

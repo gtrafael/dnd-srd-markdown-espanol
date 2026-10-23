@@ -3,6 +3,9 @@ aliases: ["Cerradura arcana", "Arcane Lock"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Arcane Lock|Arcane Lock (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cerradura|Cerradura]]"
   - "[[Conjuros/Abrir|Abrir]]"
 ---
 

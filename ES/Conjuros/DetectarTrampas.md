@@ -5,10 +5,12 @@ related_en: "[[Spells/Find Traps|Find Traps (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Alarma|Alarma]]"
   - "[[Conjuros/GlifoCustodio|Glifo custodio]]"
+  - "[[_Entidades/Dotes/Alerta|Alerta]]"
 ---
 
 # Detectar trampas

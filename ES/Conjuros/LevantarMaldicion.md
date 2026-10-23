@@ -5,6 +5,8 @@ related_en: "[[Spells/Remove Curse|Remove Curse (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Clases/Paladin|Paladín]]"
 ---
 

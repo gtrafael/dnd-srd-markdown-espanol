@@ -4,10 +4,6 @@ tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Creating a Background|Creating a Background (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Dotes/DotesDeOrigen|Dotes de origen]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
-  - "[[Equipo/Armas|Armas]]"
-  - "[[Equipo/Armaduras|Armaduras]]"
 ---
 
 # Crear un trasfondo

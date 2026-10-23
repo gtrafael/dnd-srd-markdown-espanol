@@ -5,7 +5,11 @@ related_en: "[[Spells/Hallucinatory Terrain|Hallucinatory Terrain (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Terreno alucinatorio

@@ -6,8 +6,8 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Ralentizar|Ralentizar]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Gólem de piedra

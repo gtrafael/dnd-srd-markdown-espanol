@@ -5,7 +5,10 @@ related_en: "[[Spells/Prismatic Spray|Prismatic Spray (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Luz|Luz]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---

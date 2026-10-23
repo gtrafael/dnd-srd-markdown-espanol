@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spirit Guardians|Spirit Guardians (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
 ---
 
 # Espíritus guardianes

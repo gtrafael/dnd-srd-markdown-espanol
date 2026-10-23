@@ -3,7 +3,10 @@ aliases: ["Hoja de fuego", "Flame Blade"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Flame Blade|Flame Blade (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
   - "[[Conjuros/Luz|Luz]]"
 ---
 

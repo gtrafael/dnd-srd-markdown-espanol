@@ -3,7 +3,11 @@ aliases: ["Nube incendiaria", "Incendiary Cloud"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Incendiary Cloud|Incendiary Cloud (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
 ---
 

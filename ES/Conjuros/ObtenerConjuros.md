@@ -3,14 +3,16 @@ aliases: ["Obtener conjuros", "Spellcasting"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Gaining Spells]]"
 wikilinks_auto:
-  - "[[ObjetosMagicos/PergaminoDeConjuro|Pergamino de conjuro]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[_Entidades/Equipo/PergaminoDeConjuro|Pergamino de conjuro]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Clases/Paladin|Paladín]]"
 ---
 

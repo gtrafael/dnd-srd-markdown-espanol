@@ -4,6 +4,8 @@ tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Social Interaction]]"
 wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
+  - "[[_Entidades/Equipo/Papel|Papel]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
   - "[[MonstruosDeLaAALaZ/Bandido|Bandido]]"
   - "[[Conjuros/Cautiverio|Cautiverio]]"
   - "[[Clases/Guerrero|Guerrero]]"

@@ -4,6 +4,9 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Create or Destroy Water|Create or Destroy Water (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Crear o destruir agua

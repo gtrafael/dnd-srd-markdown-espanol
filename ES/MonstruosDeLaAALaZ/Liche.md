@@ -3,10 +3,12 @@ aliases: ["Liche", "Lich"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Lich|Lich (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[_Entidades/Equipo/SaquitoDeComponentes|Saquito de componentes]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
@@ -23,6 +25,7 @@ wikilinks_auto:
   - "[[Conjuros/RelampagoEnCadena|Relámpago en cadena]]"
   - "[[Conjuros/Contrahechizo|Contrahechizo]]"
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
   - "[[Conjuros/Terror|Terror]]"
   - "[[Conjuros/Teletransporte|Teletransporte]]"
 ---

@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Stone of Controlling Earth Elementals|Stone of Controlling Earth Elementals (EN)]]"
 wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/ElementalDeTierra|Elemental de tierra]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Piedra de controlar elementales de tierra

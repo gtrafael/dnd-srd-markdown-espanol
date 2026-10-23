@@ -5,10 +5,13 @@ related_en: "[[Gameplay Toolbox/Combat Encounters|Combat Encounters (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Animales/Arana|Araña]]"
+  - "[[_Entidades/Equipo/Aceite|Aceite]]"
   - "[[MonstruosDeLaAALaZ/GuerreroOsgo|Guerrero osgo]]"
   - "[[MonstruosDeLaAALaZ/Tumulario|Tumulario]]"
   - "[[MonstruosDeLaAALaZ/CaballoDeGuerraEsqueleto|Caballo de guerra esqueleto]]"
   - "[[MonstruosDeLaAALaZ/Ogro|Ogro]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Encuentros de combate

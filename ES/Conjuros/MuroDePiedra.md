@@ -3,7 +3,12 @@ aliases: ["Muro de piedra", "Wall of Stone"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Wall of Stone|Wall of Stone (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Danar|Dañar]]"
 ---
 

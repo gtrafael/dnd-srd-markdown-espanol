@@ -5,6 +5,8 @@ related_en: "[[Spells/Stinking Cloud|Stinking Cloud (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
 ---
 

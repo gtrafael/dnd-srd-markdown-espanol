@@ -3,7 +3,10 @@ aliases: ["Espía", "Spy"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Spy|Spy (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
+  - "[[_Entidades/Equipo/BallestaDeMano|Ballesta de mano]]"
+  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
+  - "[[_Entidades/Equipo/HerramientasDeLadron|Herramientas de ladrón]]"
 ---
 
 # Espía

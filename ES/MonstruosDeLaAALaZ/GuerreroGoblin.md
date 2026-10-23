@@ -3,7 +3,11 @@ aliases: ["Guerrero goblin", "Goblin Warrior"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Goblin Warrior|Goblin Warrior (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/ArcoCorto|Arco corto]]"
+  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
+  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

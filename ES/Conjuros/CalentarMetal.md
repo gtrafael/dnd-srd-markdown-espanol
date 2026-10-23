@@ -4,6 +4,8 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Heat Metal|Heat Metal (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Calentar metal

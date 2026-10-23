@@ -2,6 +2,8 @@
 aliases: ["Munición +1, +2 o +3", "Ammunition, 1, 2, or 3"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ammunition, +1, +2, or +3]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Municion|Munición]]"
 ---
 
 # Munición +1, +2 o +3

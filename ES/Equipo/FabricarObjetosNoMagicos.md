@@ -4,7 +4,8 @@ tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Crafting Nonmagical Items|Crafting Nonmagical Items (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Fabricar|Fabricar]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[_Entidades/Equipo/ArmaduraDePlacas|Armadura de placas]]"
+  - "[[_Entidades/Equipo/BallestaPesada|Ballesta pesada]]"
 ---
 
 # Fabricar objetos no mágicos

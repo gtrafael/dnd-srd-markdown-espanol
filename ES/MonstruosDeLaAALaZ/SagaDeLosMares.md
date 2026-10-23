@@ -5,13 +5,13 @@ related_en: "[[Monsters A-Z/Sea Hag|Sea Hag (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Augurio|Augurio]]"
   - "[[Conjuros/EncontrarFamiliar|Encontrar familiar]]"
   - "[[Conjuros/Escudrinar|Escudriñar]]"
   - "[[Conjuros/Identificar|Identificar]]"
   - "[[Conjuros/LocalizarObjeto|Localizar objeto]]"
   - "[[Conjuros/SirvienteInvisible|Sirviente invisible]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Disfrazarse|Disfrazarse]]"
 ---
 

@@ -3,8 +3,8 @@ aliases: ["Caparazón antivida", "Antilife Shell"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Antilife Shell|Antilife Shell (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
-  - "[[Equipo/Armas|Armas]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Caparazón antivida

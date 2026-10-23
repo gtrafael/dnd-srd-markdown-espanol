@@ -4,8 +4,12 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Control Water|Control Water (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Abrir|Abrir]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Controlar agua

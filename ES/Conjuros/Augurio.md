@@ -5,7 +5,10 @@ related_en: "[[Spells/Augury|Augury (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Augurio

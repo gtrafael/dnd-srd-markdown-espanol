@@ -6,6 +6,8 @@ wikilinks_auto:
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Clavo mental

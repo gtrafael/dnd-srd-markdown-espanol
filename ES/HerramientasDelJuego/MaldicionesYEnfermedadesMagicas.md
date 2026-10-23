@@ -10,9 +10,9 @@ wikilinks_auto:
   - "[[Conjuros/Prohibicion|Prohibición]]"
   - "[[Conjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
   - "[[MonstruosDeLaAALaZ/Aparicion|Aparición]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Curar|Curar]]"
   - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
+  - "[[_Entidades/Equipo/UtilesDeHerborista|Útiles de herborista]]"
 ---
 
 # Maldiciones y enfermedades mágicas

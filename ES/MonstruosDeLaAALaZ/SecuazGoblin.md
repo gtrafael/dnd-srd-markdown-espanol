@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Goblin Minion|Goblin Minion (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[_Entidades/Equipo/Daga|Daga]]"
 ---
 
 # Secuaz goblin

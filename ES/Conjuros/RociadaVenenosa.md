@@ -4,7 +4,11 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Poison Spray|Poison Spray (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Rociada venenosa

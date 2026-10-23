@@ -4,6 +4,8 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Animate Dead|Animate Dead (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Esqueleto|Esqueleto]]"
   - "[[MonstruosDeLaAALaZ/Zombi|Zombi]]"
 ---

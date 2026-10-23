@@ -3,8 +3,10 @@ aliases: ["Druida", "Druid"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Druid|Druid (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[_Entidades/Equipo/ArmaduraDeCueroTachonado|Armadura de cuero tachonado]]"
+  - "[[_Entidades/Equipo/Baston|Bastón]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/HablarConLosAnimales|Hablar con los animales]]"
   - "[[Conjuros/SaberDruidico|Saber druídico]]"
   - "[[Conjuros/Enmaranar|Enmarañar]]"

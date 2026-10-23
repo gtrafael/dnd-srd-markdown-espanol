@@ -4,7 +4,11 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Sunburst|Sunburst (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"

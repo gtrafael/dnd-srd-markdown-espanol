@@ -3,6 +3,7 @@ aliases: ["Morral práctico", "Handy Haversack"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Handy Haversack|Handy Haversack (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Mochila|Mochila]]"
   - "[[ObjetosMagicos/AgujeroPortatil|Agujero portátil]]"
   - "[[ObjetosMagicos/BolsaDeContencion|Bolsa de contención]]"
   - "[[Conjuros/Portal|Portal]]"

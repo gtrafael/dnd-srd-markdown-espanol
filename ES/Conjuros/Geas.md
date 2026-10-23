@@ -5,11 +5,14 @@ related_en: "[[Spells/Geas|Geas (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Clases/Paladin|Paladín]]"
   - "[[Conjuros/Deseo|Deseo]]"
   - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Geas

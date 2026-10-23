@@ -3,25 +3,26 @@ aliases: ["Crear tu personaje"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Creation/Create Your Character|Create Your Character (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Juego|Juego]]"
   - "[[Clases/Barbaro|Bárbaro]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Guerrero|Guerrero]]"
-  - "[[Equipo/Armas|Armas]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Clases/Monje|Monje]]"
   - "[[Clases/Paladin|Paladín]]"
+  - "[[_Entidades/Dotes/Defensa|Defensa]]"
   - "[[Clases/Picaro|Pícaro]]"
   - "[[Conjuros/Creacion|Creación]]"
-  - "[[Equipo/Armaduras|Armaduras]]"
-  - "[[Equipo/Monedas|Monedas]]"
   - "[[Conjuros/Guia|Guía]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
 ---
 
 # Crear tu personaje

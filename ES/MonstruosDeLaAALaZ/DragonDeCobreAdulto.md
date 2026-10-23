@@ -4,11 +4,11 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Copper Dragon|Adult Copper Dragon (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
   - "[[Conjuros/ClavoMental|Clavo mental]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/IlusionMenor|Ilusión menor]]"

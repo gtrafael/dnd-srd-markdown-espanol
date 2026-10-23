@@ -2,6 +2,8 @@
 aliases: ["Bastón de impacto"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Striking]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Baston|Bastón]]"
 ---
 
 # Bastón de impacto

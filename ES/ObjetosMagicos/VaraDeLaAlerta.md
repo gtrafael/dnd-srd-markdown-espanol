@@ -3,14 +3,13 @@ aliases: ["Vara de la alerta"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Rod of Alertness]]"
 wikilinks_auto:
-  - "[[Equipo/Propiedades|Propiedades]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Vara|Vara]]"
+  - "[[_Entidades/Dotes/Alerta|Alerta]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DetectarVenenosYEnfermedades|Detectar venenos y enfermedades]]"
   - "[[Conjuros/VerInvisibilidad|Ver invisibilidad]]"
   - "[[Conjuros/Luz|Luz]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Vara de la alerta

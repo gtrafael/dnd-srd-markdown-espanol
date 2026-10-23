@@ -3,6 +3,7 @@ aliases: ["Gelatina ocre", "Ochre Jelly"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ochre Jelly|Ochre Jelly (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---

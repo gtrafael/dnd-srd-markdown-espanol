@@ -5,6 +5,8 @@ related_en: "[[Spells/Demiplane|Demiplane (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Semiplano

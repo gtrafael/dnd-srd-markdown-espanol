@@ -3,9 +3,7 @@ aliases: ["Armadura demoníaca", "Demon Armor"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Demon Armor|Demon Armor (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
   - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Armadura demoníaca

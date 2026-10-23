@@ -4,6 +4,8 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Irresistible Dance|Irresistible Dance (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Baile irresistible

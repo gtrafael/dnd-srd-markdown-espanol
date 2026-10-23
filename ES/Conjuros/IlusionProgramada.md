@@ -4,8 +4,10 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Programmed Illusion|Programmed Illusion (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Abrir|Abrir]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Enganar|Engañar]]"
 ---
 

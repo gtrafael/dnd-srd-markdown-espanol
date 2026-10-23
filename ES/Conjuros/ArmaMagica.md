@@ -5,6 +5,8 @@ related_en: "[[Spells/Magic Weapon|Magic Weapon (EN)]]"
 wikilinks_auto:
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Clases/Paladin|Paladín]]"
 ---
 

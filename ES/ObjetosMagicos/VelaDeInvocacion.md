@@ -3,9 +3,11 @@ aliases: ["Vela de invocación", "Candle of Invocation"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Candle of Invocation|Candle of Invocation (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Vela|Vela]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Conjuros/Portal|Portal]]"
 ---
 

@@ -2,6 +2,9 @@
 aliases: ["Simulacro", "Simulacrum"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Simulacrum|Simulacrum (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Simulacro

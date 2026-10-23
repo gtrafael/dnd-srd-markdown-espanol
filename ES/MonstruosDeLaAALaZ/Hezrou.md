@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Salto|Salto]]"
 ---
 

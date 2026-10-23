@@ -4,13 +4,15 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Imprisonment|Imprisonment (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Semiplano|Semiplano]]"
   - "[[Conjuros/Laberinto|Laberinto]]"
   - "[[Conjuros/Despertar|Despertar]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Cautiverio

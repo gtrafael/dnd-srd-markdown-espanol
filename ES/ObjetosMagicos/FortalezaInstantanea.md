@@ -3,6 +3,7 @@ aliases: ["Fortaleza instantánea", "Instant Fortress"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Instant Fortress|Instant Fortress (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Escalera|Escalera]]"
   - "[[Conjuros/Abrir|Abrir]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/Deseo|Deseo]]"

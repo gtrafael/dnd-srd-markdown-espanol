@@ -3,9 +3,15 @@ aliases: ["Filo de la fortuna"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Luck Blade]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
+  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
+  - "[[_Entidades/Equipo/EspadaLarga|Espada larga]]"
+  - "[[_Entidades/Equipo/Espadon|Espadón]]"
+  - "[[_Entidades/Equipo/Estoque|Estoque]]"
+  - "[[_Entidades/Equipo/Guja|Guja]]"
+  - "[[_Entidades/Equipo/Hoz|Hoz]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
   - "[[Conjuros/Deseo|Deseo]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Filo de la fortuna

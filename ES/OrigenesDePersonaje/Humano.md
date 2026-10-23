@@ -2,6 +2,8 @@
 aliases: ["Humano", "Human"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Human|Human (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Dotes/Habilidoso|Habilidoso]]"
 ---
 
 # Humano

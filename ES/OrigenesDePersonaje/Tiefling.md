@@ -3,7 +3,6 @@ aliases: ["Tiefling", "Tiefling"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Tiefling|Tiefling (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"

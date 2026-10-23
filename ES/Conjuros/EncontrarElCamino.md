@@ -6,7 +6,9 @@ wikilinks_auto:
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Encontrar el camino

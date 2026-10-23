@@ -2,6 +2,8 @@
 aliases: ["Aljaba eficiente", "Efficient Quiver"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Efficient Quiver|Efficient Quiver (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Aljaba|Aljaba]]"
 ---
 
 # Aljaba eficiente

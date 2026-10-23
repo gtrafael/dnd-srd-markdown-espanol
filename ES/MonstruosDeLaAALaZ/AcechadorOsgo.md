@@ -3,7 +3,10 @@ aliases: ["Acechador osgo", "Bugbear Stalker"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Bugbear Stalker|Bugbear Stalker (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/CamisaDeMalla|Camisa de malla]]"
+  - "[[_Entidades/Equipo/LuceroDelAlba|Lucero del alba]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[_Entidades/Equipo/Jabalina|Jabalina]]"
 ---
 
 # Acechador osgo

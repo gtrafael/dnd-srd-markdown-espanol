@@ -5,8 +5,10 @@ related_en: "[[Spells/Freedom of Movement|Freedom of Movement (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Esposas|Esposas]]"
 ---
 
 # Libertad de movimiento

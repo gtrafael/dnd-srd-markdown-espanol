@@ -4,8 +4,11 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Polymorph|Polymorph (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Polimorfar

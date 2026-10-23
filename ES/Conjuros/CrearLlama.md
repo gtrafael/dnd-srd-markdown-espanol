@@ -3,6 +3,8 @@ aliases: ["Crear llama", "Produce Flame"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Produce Flame|Produce Flame (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Conjuros/Luz|Luz]]"
 ---
 

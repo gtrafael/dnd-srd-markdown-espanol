@@ -5,7 +5,9 @@ related_en: "[[Magic Items/Robe of the Archmagi|Robe of the Archmagi (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Tunica|Túnica]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 

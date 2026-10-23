@@ -3,7 +3,7 @@ aliases: ["Piedra Ioun"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ioun Stone]]"
 wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Piedra Ioun

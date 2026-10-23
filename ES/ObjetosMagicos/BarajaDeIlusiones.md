@@ -11,6 +11,8 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Caballero|Caballero]]"
   - "[[MonstruosDeLaAALaZ/CapitanBandido|Capitán bandido]]"
   - "[[MonstruosDeLaAALaZ/DragonRojoAdulto|Dragón rojo adulto]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Erinia|Erinia]]"
   - "[[MonstruosDeLaAALaZ/Ettin|Ettin]]"
   - "[[MonstruosDeLaAALaZ/GiganteDeEscarcha|Gigante de escarcha]]"

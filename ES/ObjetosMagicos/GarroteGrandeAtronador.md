@@ -3,10 +3,9 @@ aliases: ["Garrote grande atronador", "Thunderous Greatclub"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Thunderous Greatclub|Thunderous Greatclub (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/GarroteGrande|Garrote grande]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
   - "[[Conjuros/Terremoto|Terremoto]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Garrote grande atronador

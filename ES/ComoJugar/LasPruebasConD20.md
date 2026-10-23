@@ -4,13 +4,11 @@ tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/D20 Tests]]"
 wikilinks_auto:
   - "[[Conjuros/Abrir|Abrir]]"
+  - "[[_Entidades/Equipo/Cerradura|Cerradura]]"
   - "[[Conjuros/Enganar|Engañar]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
   - "[[Conjuros/Identificar|Identificar]]"
-  - "[[Equipo/Armas|Armas]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[_Entidades/Dotes/TiroConArco|Tiro con arco]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Las pruebas con d20

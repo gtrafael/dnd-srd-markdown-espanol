@@ -5,6 +5,7 @@ related_en: "[[Monsters A-Z/Sprite|Sprite (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Duende

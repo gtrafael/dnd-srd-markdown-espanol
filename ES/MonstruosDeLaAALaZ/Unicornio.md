@@ -5,8 +5,7 @@ related_en: "[[Monsters A-Z/Unicorn|Unicorn (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
   - "[[Conjuros/SaberDruidico|Saber druídico]]"
   - "[[Conjuros/CalmarEmociones|Calmar emociones]]"
@@ -18,6 +17,7 @@ wikilinks_auto:
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
   - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
 ---
 
 # Unicornio

@@ -5,7 +5,8 @@ related_en: "[[Spells/Seeming|Seeming (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Apariencia

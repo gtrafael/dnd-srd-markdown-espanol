@@ -3,7 +3,7 @@ aliases: ["Talismán del mal definitivo", "Talisman of Ultimate Evil"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Talisman of Ultimate Evil|Talisman of Ultimate Evil (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Simbolo|Símbolo]]"
+  - "[[_Entidades/Equipo/SimboloSagrado|Símbolo sagrado]]"
 ---
 
 # Talismán del mal definitivo

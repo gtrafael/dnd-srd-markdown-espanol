@@ -2,6 +2,9 @@
 aliases: ["Bote plegable", "Folding Boat"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Folding Boat|Folding Boat (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/BoteDeRemos|Bote de remos]]"
+  - "[[_Entidades/Equipo/Barcaza|Barcaza]]"
 ---
 
 # Bote plegable

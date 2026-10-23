@@ -2,6 +2,9 @@
 aliases: ["Muro de espinas", "Wall of Thorns"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Wall of Thorns|Wall of Thorns (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Muro de espinas

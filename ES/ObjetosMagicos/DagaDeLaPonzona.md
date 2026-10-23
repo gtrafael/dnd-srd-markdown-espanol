@@ -3,8 +3,8 @@ aliases: ["Daga de la ponzoña", "Dagger of Venom"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dagger of Venom|Dagger of Venom (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Daga|Daga]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Daga de la ponzoña

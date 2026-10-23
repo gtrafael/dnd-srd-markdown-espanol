@@ -6,10 +6,10 @@ wikilinks_auto:
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Animales/Murcielago|Murciélago]]"
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Quasit

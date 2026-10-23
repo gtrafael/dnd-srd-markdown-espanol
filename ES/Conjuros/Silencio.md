@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Explorador|Explorador]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Silencio

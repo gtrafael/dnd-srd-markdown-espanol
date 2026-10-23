@@ -2,6 +2,9 @@
 aliases: ["Pirata", "Pirate"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Pirate|Pirate (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
+  - "[[_Entidades/Equipo/Daga|Daga]]"
 ---
 
 # Pirata

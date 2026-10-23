@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Censer of Controlling Air Elementals|Censer of Controlling Air Elementals (EN)]]"
 wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/ElementalDeAire|Elemental de aire]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Incensario de controlar elementales de aire

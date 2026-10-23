@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Gaseous Form]]"
 wikilinks_auto:
   - "[[Conjuros/FormaGaseosa|Forma gaseosa]]"
+  - "[[_Entidades/Equipo/Frasco|Frasco]]"
 ---
 
 # Poción de forma gaseosa

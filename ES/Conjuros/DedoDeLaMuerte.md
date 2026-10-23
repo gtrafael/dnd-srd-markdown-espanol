@@ -5,6 +5,8 @@ related_en: "[[Spells/Finger of Death|Finger of Death (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Zombi|Zombi]]"
 ---
 

@@ -5,6 +5,9 @@ related_en: "[[Spells/Forcecage|Forcecage (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Teletransporte|Teletransporte]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
 ---

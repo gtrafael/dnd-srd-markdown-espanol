@@ -4,7 +4,10 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Faerie Fire|Faerie Fire (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Conjuros/Luz|Luz]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Fuego feérico

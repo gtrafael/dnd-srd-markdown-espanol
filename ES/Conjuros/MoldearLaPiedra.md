@@ -4,6 +4,11 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Stone Shape|Stone Shape (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cofre|Cofre]]"
 ---
 
 # Moldear la piedra

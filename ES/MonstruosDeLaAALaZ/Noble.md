@@ -2,6 +2,9 @@
 aliases: ["Noble"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Noble|Noble (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Coraza|Coraza]]"
+  - "[[_Entidades/Equipo/Estoque|Estoque]]"
 ---
 
 # Noble

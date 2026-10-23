@@ -4,6 +4,9 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Guards and Wards|Guards and Wards (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Vara|Vara]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
   - "[[Animales/Arana|Araña]]"
   - "[[Conjuros/Telarana|Telaraña]]"

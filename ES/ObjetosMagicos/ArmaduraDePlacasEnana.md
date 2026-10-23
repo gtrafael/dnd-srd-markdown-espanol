@@ -2,6 +2,9 @@
 aliases: ["Armadura de placas enana", "Dwarven Plate"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dwarven Plate|Dwarven Plate (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/ArmaduraDePlacas|Armadura de placas]]"
+  - "[[_Entidades/Equipo/MediaArmadura|Media armadura]]"
 ---
 
 # Armadura de placas enana

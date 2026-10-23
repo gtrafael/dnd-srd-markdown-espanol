@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Cape of the Mountebank|Cape of the Mountebank (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/PuertaDimensional|Puerta dimensional]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Capa del charlatán

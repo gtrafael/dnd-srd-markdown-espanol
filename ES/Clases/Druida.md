@@ -3,16 +3,18 @@ aliases: ["Druida", "Druid"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Druid|Druid (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
-  - "[[Equipo/Armaduras|Armaduras]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[_Entidades/Equipo/UtilesDeHerborista|Útiles de herborista]]"
+  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Clases/Explorador|Explorador]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Hoz|Hoz]]"
+  - "[[_Entidades/Equipo/CanalizadorDruidico|Canalizador druídico]]"
+  - "[[_Entidades/Equipo/Baston|Bastón]]"
+  - "[[_Entidades/Equipo/PaqueteDeExplorador|Paquete de explorador]]"
+  - "[[_Entidades/Dotes/MejoraDeCaracteristica|Mejora de característica]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/HablarConLosAnimales|Hablar con los animales]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
   - "[[Conjuros/CrearLlama|Crear llama]]"
   - "[[Conjuros/SaberDruidico|Saber druídico]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
@@ -26,6 +28,9 @@ wikilinks_auto:
   - "[[Animales/Rata|Rata]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[_Entidades/Dotes/DonDelViajeDimensional|Don del viaje dimensional]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Elementalismo|Elementalismo]]"
   - "[[Conjuros/Guia|Guía]]"
   - "[[Conjuros/Adivinacion|Adivinación]]"
@@ -155,6 +160,7 @@ wikilinks_auto:
   - "[[Conjuros/Telarana|Telaraña]]"
   - "[[Conjuros/NubeApestosa|Nube apestosa]]"
   - "[[Conjuros/Santuario|Santuario]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Druida

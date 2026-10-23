@@ -4,8 +4,7 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Couatl|Couatl (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"

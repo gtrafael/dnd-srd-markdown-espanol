@@ -5,6 +5,8 @@ related_en: "[[Spells/Mislead|Mislead (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
 ---
 

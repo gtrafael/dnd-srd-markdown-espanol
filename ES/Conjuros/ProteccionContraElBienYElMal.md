@@ -5,7 +5,13 @@ related_en: "[[Spells/Protection from Evil and Good|Protection from Evil and Goo
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Clases/Paladin|Paladín]]"
+  - "[[_Entidades/Equipo/Frasco|Frasco]]"
+  - "[[_Entidades/Equipo/AguaBendita|Agua bendita]]"
 ---
 
 # Protección contra el bien y el mal

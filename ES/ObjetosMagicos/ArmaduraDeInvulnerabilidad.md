@@ -3,8 +3,8 @@ aliases: ["Armadura de invulnerabilidad"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Armor of Invulnerability]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/ArmaduraDePlacas|Armadura de placas]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Armadura de invulnerabilidad

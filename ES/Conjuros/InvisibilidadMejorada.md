@@ -5,6 +5,8 @@ related_en: "[[Spells/Greater Invisibility|Greater Invisibility (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Invisibilidad mejorada

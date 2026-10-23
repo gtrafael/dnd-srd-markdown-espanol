@@ -3,11 +3,11 @@ aliases: ["Yelmo de fulgor", "Helm of Brilliance"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Helm of Brilliance|Helm of Brilliance (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/LuzDelDia|Luz del día]]"
   - "[[Conjuros/MuroDeFuego|Muro de fuego]]"
   - "[[Conjuros/RociadaPrismatica|Rociada prismática]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
 ---

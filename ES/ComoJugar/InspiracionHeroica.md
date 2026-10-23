@@ -4,8 +4,6 @@ tags: [srd, espanol, tag_comojugar, recuadro]
 related_en: "[[Playing the Game/Heroic Inspiration|Heroic Inspiration (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Creacion|Creación]]"
-  - "[[Equipo/Armaduras|Armaduras]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 # Inspiración heroica
 

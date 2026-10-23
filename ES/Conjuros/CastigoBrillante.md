@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Shining Smite|Shining Smite (EN)]]"
 wikilinks_auto:
   - "[[Clases/Paladin|Paladín]]"
-  - "[[Equipo/Armas|Armas]]"
   - "[[Conjuros/Luz|Luz]]"
 ---
 

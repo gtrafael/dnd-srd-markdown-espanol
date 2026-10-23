@@ -2,8 +2,6 @@
 aliases: ["Brazales de arquería", "Bracers of Archery"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Bracers of Archery|Bracers of Archery (EN)]]"
-wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Brazales de arquería

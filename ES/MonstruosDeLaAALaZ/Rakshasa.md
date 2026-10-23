@@ -3,11 +3,9 @@ aliases: ["Rakshasa"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Rakshasa|Rakshasa (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
   - "[[Conjuros/Bendicion|Bendición]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
   - "[[Conjuros/Disfrazarse|Disfrazarse]]"

@@ -4,6 +4,9 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Chromatic Orb|Chromatic Orb (EN)]]"
 wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
 ---
 

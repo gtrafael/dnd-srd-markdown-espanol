@@ -2,6 +2,8 @@
 aliases: ["Grimlock"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Grimlock|Grimlock (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Garrote|Garrote]]"
 ---
 
 # Grimlock

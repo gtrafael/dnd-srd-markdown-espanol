@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Sending Stones|Sending Stones (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Recado|Recado]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Piedras mensajeras

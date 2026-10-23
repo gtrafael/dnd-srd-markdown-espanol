@@ -2,6 +2,8 @@
 aliases: ["Elegir una hoja de personaje"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Creation/Choose a Character Sheet|Choose a Character Sheet (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Papel|Papel]]"
 ---
 
 # Elegir una hoja de personaje

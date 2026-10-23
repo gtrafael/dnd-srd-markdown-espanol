@@ -3,10 +3,10 @@ aliases: ["Gólem de arcilla", "Clay Golem"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Clay Golem|Clay Golem (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Gólem de arcilla

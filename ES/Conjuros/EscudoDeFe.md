@@ -5,6 +5,7 @@ related_en: "[[Spells/Shield of Faith|Shield of Faith (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Paladin|Paladín]]"
+  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
 ---
 
 # Escudo de fe

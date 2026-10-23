@@ -3,7 +3,11 @@ aliases: ["Invertir la gravedad", "Reverse Gravity"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Reverse Gravity|Reverse Gravity (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Invertir la gravedad

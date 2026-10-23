@@ -5,6 +5,8 @@ related_en: "[[Spells/Darkness|Darkness (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Animales/Murcielago|Murciélago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Luz|Luz]]"

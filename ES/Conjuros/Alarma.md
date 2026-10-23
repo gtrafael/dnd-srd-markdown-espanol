@@ -4,6 +4,10 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Alarm|Alarm (EN)]]"
 wikilinks_auto:
   - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Campana|Campana]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Alarma

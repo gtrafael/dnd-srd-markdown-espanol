@@ -2,6 +2,9 @@
 aliases: ["Pasamuros", "Passwall"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Passwall|Passwall (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Pasamuros

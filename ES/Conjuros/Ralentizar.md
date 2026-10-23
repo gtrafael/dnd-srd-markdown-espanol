@@ -5,6 +5,10 @@ related_en: "[[Spells/Slow|Slow (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Ralentizar

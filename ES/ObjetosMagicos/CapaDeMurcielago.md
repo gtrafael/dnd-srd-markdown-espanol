@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/Oscuridad|Oscuridad]]"
   - "[[Conjuros/Polimorfar|Polimorfar]]"
   - "[[Animales/Murcielago|Murciélago]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Capa de murciélago

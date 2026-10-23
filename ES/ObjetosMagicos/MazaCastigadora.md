@@ -3,6 +3,7 @@ aliases: ["Maza castigadora", "Mace of Smiting"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Mace of Smiting|Mace of Smiting (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Maza|Maza]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---
 

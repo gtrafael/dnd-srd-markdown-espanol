@@ -5,6 +5,11 @@ related_en: "[[Spells/Illusory Script|Illusory Script (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Tinta|Tinta]]"
+  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
+  - "[[_Entidades/Equipo/Papel|Papel]]"
   - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 

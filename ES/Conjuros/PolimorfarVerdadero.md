@@ -5,7 +5,8 @@ related_en: "[[Spells/True Polymorph|True Polymorph (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Polimorfar verdadero

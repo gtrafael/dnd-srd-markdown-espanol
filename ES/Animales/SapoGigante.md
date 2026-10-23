@@ -5,6 +5,7 @@ related_en: "[[Animals/Giant Toad|Giant Toad (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Salto|Salto]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
 ---
 
 # Sapo gigante

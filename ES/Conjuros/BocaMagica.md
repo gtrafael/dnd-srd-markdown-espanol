@@ -4,7 +4,10 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Magic Mouth|Magic Mouth (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Mensaje|Mensaje]]"
+  - "[[_Entidades/Equipo/Campana|Campana]]"
 ---
 
 # Boca mágica

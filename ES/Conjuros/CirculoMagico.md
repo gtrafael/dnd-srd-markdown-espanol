@@ -5,6 +5,8 @@ related_en: "[[Spells/Magic Circle|Magic Circle (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Clases/Paladin|Paladín]]"
   - "[[Conjuros/Teletransporte|Teletransporte]]"
 ---

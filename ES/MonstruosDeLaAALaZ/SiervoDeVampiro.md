@@ -5,6 +5,7 @@ related_en: "[[Monsters A-Z/Vampire Familiar|Vampire Familiar (EN)]]"
 wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Vampiro|Vampiro]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[_Entidades/Equipo/Daga|Daga]]"
 ---
 
 # Siervo de vampiro

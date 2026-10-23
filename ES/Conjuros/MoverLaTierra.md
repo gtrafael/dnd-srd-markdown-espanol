@@ -3,7 +3,12 @@ aliases: ["Mover la tierra", "Move Earth"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Move Earth|Move Earth (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Pala|Pala]]"
   - "[[Conjuros/CrecimientoVegetal|Crecimiento vegetal]]"
 ---
 

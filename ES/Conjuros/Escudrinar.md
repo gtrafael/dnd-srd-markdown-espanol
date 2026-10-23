@@ -7,7 +7,12 @@ wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[ObjetosMagicos/BolaDeCristal|Bola de cristal]]"
+  - "[[_Entidades/Equipo/Espejo|Espejo]]"
 ---
 
 # Escudriñar

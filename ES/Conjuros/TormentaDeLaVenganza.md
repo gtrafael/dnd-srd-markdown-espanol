@@ -3,8 +3,10 @@ aliases: ["Tormenta de la venganza", "Storm of Vengeance"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Storm of Vengeance|Storm of Vengeance (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
-  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Tormenta de la venganza

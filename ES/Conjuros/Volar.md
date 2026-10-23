@@ -5,6 +5,9 @@ related_en: "[[Spells/Fly|Fly (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Pluma|Pluma]]"
   - "[[Conjuros/Levitar|Levitar]]"
 ---
 

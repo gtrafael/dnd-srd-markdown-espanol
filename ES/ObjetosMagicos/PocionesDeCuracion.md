@@ -2,6 +2,8 @@
 aliases: ["Pociones de curación"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potions of Healing]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/PocionDeCuracion|Poción de curación]]"
 ---
 
 # Pociones de curación

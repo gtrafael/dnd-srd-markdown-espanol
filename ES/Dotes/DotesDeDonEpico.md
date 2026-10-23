@@ -3,11 +3,17 @@ aliases: ["Dotes de don épico"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Feats/Epic Boon Feats|Epic Boon Feats (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Dotes/DonDeLaPericiaEnCombate|Don de la pericia en combate]]"
+  - "[[_Entidades/Dotes/MejoraDeCaracteristica|Mejora de característica]]"
+  - "[[_Entidades/Dotes/DonDeLaVisionVerdadera|Don de la visión verdadera]]"
+  - "[[_Entidades/Dotes/DonDelAtaqueImparable|Don del ataque imparable]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[_Entidades/Dotes/DonDelDestino|Don del destino]]"
+  - "[[_Entidades/Dotes/DonDelEspirituDeLaNoche|Don del espíritu de la noche]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[_Entidades/Dotes/DonDelRecuerdoDeConjuros|Don del recuerdo de conjuros]]"
+  - "[[_Entidades/Dotes/DonDelViajeDimensional|Don del viaje dimensional]]"
 ---
 
 # Dotes de don épico

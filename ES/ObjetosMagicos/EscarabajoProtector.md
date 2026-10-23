@@ -3,8 +3,8 @@ aliases: ["Escarabajo protector", "Scarab of Protection"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Scarab of Protection|Scarab of Protection (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Dotes/Defensa|Defensa]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Escarabajo protector

@@ -5,6 +5,9 @@ related_en: "[[Spells/Feather Fall|Feather Fall (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Pluma|Pluma]]"
 ---
 
 # Caída de pluma

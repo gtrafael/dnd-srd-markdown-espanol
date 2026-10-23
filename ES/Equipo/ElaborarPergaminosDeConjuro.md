@@ -3,8 +3,9 @@ aliases: ["Elaborar pergaminos de conjuro"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Scribing Spell Scrolls|Scribing Spell Scrolls (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
-  - "[[ObjetosMagicos/PergaminoDeConjuro|Pergamino de conjuro]]"
+  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
+  - "[[_Entidades/Equipo/PergaminoDeConjuro|Pergamino de conjuro]]"
+  - "[[_Entidades/Equipo/SuministrosDeCaligrafo|Suministros de calígrafo]]"
 ---
 
 # Elaborar pergaminos de conjuro

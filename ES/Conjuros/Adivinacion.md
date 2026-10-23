@@ -4,7 +4,10 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Divination|Divination (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Adivinación

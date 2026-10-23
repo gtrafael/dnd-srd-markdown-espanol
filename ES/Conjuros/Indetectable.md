@@ -5,7 +5,8 @@ related_en: "[[Spells/Nondetection|Nondetection (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Explorador|Explorador]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Adivinacion|Adivinación]]"
 ---
 

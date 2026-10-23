@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Acechador invisible

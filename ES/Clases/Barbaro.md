@@ -3,16 +3,16 @@ aliases: ["Barbaro", "Barbarian"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Barbarian|Barbarian (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
-  - "[[Equipo/Armaduras|Armaduras]]"
-  - "[[Clases/Explorador|Explorador]]"
+  - "[[_Entidades/Equipo/HachaADosManos|Hacha a dos manos]]"
+  - "[[_Entidades/Equipo/PaqueteDeExplorador|Paquete de explorador]]"
+  - "[[_Entidades/Dotes/Defensa|Defensa]]"
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
+  - "[[_Entidades/Dotes/MejoraDeCaracteristica|Mejora de característica]]"
   - "[[Conjuros/Salto|Salto]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
-  - "[[Equipo/PropiedadesDeMaestria|Propiedades de maestría]]"
   - "[[MonstruosDeLaAALaZ/Berserker|Berserker]]"
+  - "[[_Entidades/Dotes/DonDelAtaqueImparable|Don del ataque imparable]]"
   - "[[Conjuros/Terror|Terror]]"
 ---
 

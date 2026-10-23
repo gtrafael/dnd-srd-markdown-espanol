@@ -5,7 +5,6 @@ related_en: "[[Magic Items/Crystal Ball of Telepathy|Crystal Ball of Telepathy (
 wikilinks_auto:
   - "[[Conjuros/Escudrinar|Escudriñar]]"
   - "[[Conjuros/Sugestion|Sugestión]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Bola de cristal de telepatía

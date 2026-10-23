@@ -6,6 +6,7 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Animales/Rana|Rana]]"
   - "[[Conjuros/Salto|Salto]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
 ---
 
 # Rana gigante

@@ -5,8 +5,8 @@ related_en: "[[Spells/Identify|Identify (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Bardo|Bardo]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Identificar

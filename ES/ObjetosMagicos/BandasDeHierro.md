@@ -2,8 +2,6 @@
 aliases: ["Bandas de hierro", "Iron Bands"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Iron Bands|Iron Bands (EN)]]"
-wikilinks_auto:
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Bandas de hierro

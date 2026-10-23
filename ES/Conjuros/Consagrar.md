@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Conjuros/Teletransporte|Teletransporte]]"
   - "[[Conjuros/LuzDelDia|Luz del día]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/Silencio|Silencio]]"

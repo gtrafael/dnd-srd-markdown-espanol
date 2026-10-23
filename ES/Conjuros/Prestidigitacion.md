@@ -6,8 +6,12 @@ wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
+  - "[[_Entidades/Equipo/Vela|Vela]]"
+  - "[[_Entidades/Equipo/Antorcha|Antorcha]]"
   - "[[Conjuros/Simbolo|Símbolo]]"
 ---
 

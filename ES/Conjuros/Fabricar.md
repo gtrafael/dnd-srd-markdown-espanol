@@ -3,9 +3,10 @@ aliases: ["Fabricar", "Fabricate"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Fabricate|Fabricate (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
-  - "[[Equipo/Armaduras|Armaduras]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Fabricar

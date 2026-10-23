@@ -4,7 +4,7 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ice Devil|Ice Devil (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/MuroDeHielo|Muro de hielo]]"
 ---
 

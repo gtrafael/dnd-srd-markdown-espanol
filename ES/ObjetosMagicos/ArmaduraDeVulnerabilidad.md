@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Armor of Vulnerability]]"
 wikilinks_auto:
   - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Identificar|Identificar]]"
   - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
 ---

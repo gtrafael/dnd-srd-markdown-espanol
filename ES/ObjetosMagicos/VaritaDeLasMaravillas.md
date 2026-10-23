@@ -3,7 +3,7 @@ aliases: ["Varita de las maravillas"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Wand of Wonder|Wand of Wonder (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/FuegoFeerico|Fuego feérico]]"
   - "[[Conjuros/NubeApestosa|Nube apestosa]]"

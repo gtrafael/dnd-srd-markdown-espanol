@@ -6,8 +6,11 @@ wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Animales/Leon|León]]"
+  - "[[_Entidades/Equipo/Cofre|Cofre]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Luz|Luz]]"
 ---
 

@@ -4,8 +4,8 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Erinyes|Erinyes (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
+  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Erinia

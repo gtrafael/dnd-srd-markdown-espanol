@@ -2,6 +2,8 @@
 aliases: ["Armadura adamantina", "Adamantine Armor"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Adamantine Armor|Adamantine Armor (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/ArmaduraDePieles|Armadura de pieles]]"
 ---
 
 # Armadura adamantina

@@ -2,6 +2,8 @@
 aliases: ["Bastón de marchitamiento"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Withering]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Baston|Bastón]]"
 ---
 
 # Bastón de marchitamiento

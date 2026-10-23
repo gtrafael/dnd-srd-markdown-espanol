@@ -4,8 +4,11 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Water Walk|Water Walk (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
 ---
 
 # Caminar sobre el agua

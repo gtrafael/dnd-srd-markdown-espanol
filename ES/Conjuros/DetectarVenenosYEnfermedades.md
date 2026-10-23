@@ -5,6 +5,8 @@ related_en: "[[Spells/Detect Poison and Disease|Detect Poison and Disease (EN)]]
 wikilinks_auto:
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Paladin|Paladín]]"
 ---

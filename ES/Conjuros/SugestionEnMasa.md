@@ -5,7 +5,8 @@ related_en: "[[Spells/Mass Suggestion|Mass Suggestion (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Equipo/Armas|Armas]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Sugestión en masa

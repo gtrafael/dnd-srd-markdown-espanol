@@ -3,7 +3,6 @@ aliases: ["Anillo de influencia animal"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ring of Animal Influence]]"
 wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/EncantarAnimal|Encantar animal]]"
   - "[[Conjuros/HablarConLosAnimales|Hablar con los animales]]"
   - "[[Conjuros/Terror|Terror]]"

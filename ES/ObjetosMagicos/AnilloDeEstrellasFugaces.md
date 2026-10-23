@@ -5,8 +5,8 @@ related_en: "[[Magic Items/Ring of Shooting Stars]]"
 wikilinks_auto:
   - "[[Conjuros/LucesDanzantes|Luces danzantes]]"
   - "[[Conjuros/Luz|Luz]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
   - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/FuegoFeerico|Fuego feérico]]"
 ---
 

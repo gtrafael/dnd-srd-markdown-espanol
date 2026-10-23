@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Arrow-Catching Shield|Arrow-Catching Shield (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
 ---
 
 # Escudo atrapaflechas

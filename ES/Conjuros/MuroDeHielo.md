@@ -3,6 +3,8 @@ aliases: ["Muro de hielo", "Wall of Ice"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Wall of Ice|Wall of Ice (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Danar|Dañar]]"
 ---
 

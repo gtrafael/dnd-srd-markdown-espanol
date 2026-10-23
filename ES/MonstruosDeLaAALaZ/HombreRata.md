@@ -3,6 +3,7 @@ aliases: ["Hombre rata", "Wererat"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Wererat|Wererat (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/BallestaDeMano|Ballesta de mano]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Animales/Rata|Rata]]"
 ---

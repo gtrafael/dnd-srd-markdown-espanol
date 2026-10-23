@@ -5,6 +5,7 @@ related_en: "[[Monsters A-Z/Behir|Behir (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
 ---
 
 # Behir

@@ -2,8 +2,6 @@
 aliases: ["Varita del mago de guerra +1, +2 o +3"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Wand of the War Mage, +1, +2, or +3|Wand of the War Mage, +1, +2, or +3 (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Varita del mago de guerra +1, +2 o +3

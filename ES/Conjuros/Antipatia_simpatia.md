@@ -4,6 +4,10 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Antipathy-Sympathy|Antipathy-Sympathy (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Antipatía/simpatía

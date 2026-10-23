@@ -2,8 +2,6 @@
 aliases: ["Anillo de retorno de conjuros"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ring of Spell Turning]]"
-wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Anillo de retorno de conjuros

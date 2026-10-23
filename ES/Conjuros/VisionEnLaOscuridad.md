@@ -3,8 +3,12 @@ aliases: ["Visión en la oscuridad", "Darkvision"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Darkvision|Darkvision (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Visión en la oscuridad

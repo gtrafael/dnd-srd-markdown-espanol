@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Bracers of Defense|Bracers of Defense (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
 ---
 
 # Brazales de defensa

@@ -3,10 +3,12 @@ aliases: ["Sanctasanctórum privado", "Private Sanctum"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Private Sanctum|Private Sanctum (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Sanctasanctórum privado

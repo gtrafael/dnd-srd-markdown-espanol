@@ -3,9 +3,11 @@ aliases: ["Bastón de poder"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Power]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Baston|Bastón]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/ConoDeFrio|Cono de frío]]"
   - "[[Conjuros/GloboDeInvulnerabilidad|Globo de invulnerabilidad]]"
@@ -15,7 +17,6 @@ wikilinks_auto:
   - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"
   - "[[Conjuros/RayoDebilitador|Rayo debilitador]]"
   - "[[Conjuros/Relampago|Relámpago]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
 ---
 
 # Bastón de poder

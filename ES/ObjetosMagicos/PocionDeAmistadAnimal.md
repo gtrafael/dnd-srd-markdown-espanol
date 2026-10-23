@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Animal Friendship]]"
 wikilinks_auto:
   - "[[Conjuros/EncantarAnimal|Encantar animal]]"
+  - "[[_Entidades/Equipo/Pluma|Pluma]]"
   - "[[Animales/Gato|Gato]]"
 ---
 

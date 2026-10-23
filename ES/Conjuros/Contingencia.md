@@ -3,7 +3,8 @@ aliases: ["Contingencia", "Contingency"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Contingency|Contingency (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 

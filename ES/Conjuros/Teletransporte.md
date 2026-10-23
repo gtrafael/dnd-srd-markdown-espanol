@@ -5,7 +5,11 @@ related_en: "[[Spells/Teleport|Teleport (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/CirculoDeTeletransportacion|Círculo de teletransportación]]"
+  - "[[_Entidades/Equipo/Libro|Libro]]"
+  - "[[_Entidades/Equipo/Mapa|Mapa]]"
 ---
 
 # Teletransporte

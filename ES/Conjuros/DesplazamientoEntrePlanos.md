@@ -5,7 +5,12 @@ related_en: "[[Spells/Plane Shift|Plane Shift (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Vara|Vara]]"
   - "[[Conjuros/CirculoDeTeletransportacion|Círculo de teletransportación]]"
 ---
 

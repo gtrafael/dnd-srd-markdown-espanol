@@ -2,6 +2,11 @@
 aliases: ["Shillelagh"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Shillelagh|Shillelagh (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[_Entidades/Equipo/Baston|Bastón]]"
+  - "[[_Entidades/Equipo/Garrote|Garrote]]"
 ---
 
 # Shillelagh

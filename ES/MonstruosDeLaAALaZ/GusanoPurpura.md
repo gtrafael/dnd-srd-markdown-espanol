@@ -2,6 +2,8 @@
 aliases: ["Gusano púrpura", "Purple Worm"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Purple Worm|Purple Worm (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
 ---
 
 # Gusano púrpura

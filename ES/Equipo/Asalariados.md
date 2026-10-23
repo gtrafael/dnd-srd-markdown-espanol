@@ -2,9 +2,6 @@
 aliases: ["Asalariados"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Hirelings|Hirelings (EN)]]"
-wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
 ---
 
 # Asalariados

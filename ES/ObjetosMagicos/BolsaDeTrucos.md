@@ -3,7 +3,7 @@ aliases: ["Bolsa de trucos", "Bag of Tricks"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Bag of Tricks|Bag of Tricks (EN)]]"
 wikilinks_auto:
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
+  - "[[_Entidades/Equipo/Bolsa|Bolsa]]"
   - "[[Animales/Comadreja|Comadreja]]"
   - "[[Animales/RataGigante|Rata gigante]]"
   - "[[Animales/Tejon|Tejón]]"

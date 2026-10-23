@@ -3,7 +3,11 @@ aliases: ["Guerrero hobgoblin", "Hobgoblin Warrior"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Hobgoblin Warrior|Hobgoblin Warrior (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/ArcoLargo|Arco largo]]"
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/EspadaLarga|Espada larga]]"
+  - "[[_Entidades/Equipo/MediaArmadura|Media armadura]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

@@ -7,11 +7,11 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Animales/Arana|Araña]]"
   - "[[Animales/Cuervo|Cuervo]]"
   - "[[Animales/Rata|Rata]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Diablillo

@@ -4,10 +4,13 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Disintegrate|Disintegrate (EN)]]"
 wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/MuroDeFuerza|Muro de fuerza]]"
   - "[[Conjuros/Deseo|Deseo]]"
   - "[[Conjuros/ResurreccionVerdadera|Resurrección verdadera]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Desintegrar

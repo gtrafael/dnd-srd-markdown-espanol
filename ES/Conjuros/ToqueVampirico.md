@@ -5,6 +5,8 @@ related_en: "[[Spells/Vampiric Touch|Vampiric Touch (EN)]]"
 wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Curar|Curar]]"
 ---
 

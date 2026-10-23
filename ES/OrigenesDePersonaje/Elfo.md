@@ -4,7 +4,8 @@ tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Elf|Elf (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Prestidigitacion|Prestidigitación]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/PasoBrumoso|Paso brumoso]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"

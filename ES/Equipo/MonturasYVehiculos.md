@@ -3,7 +3,13 @@ aliases: ["Transporte", "Transportation"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Mounts and Vehicles|Mounts and Vehicles (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armaduras|Armaduras]]"
+  - "[[_Entidades/Equipo/Carreta|Carreta]]"
+  - "[[_Entidades/Equipo/Carro|Carro]]"
+  - "[[_Entidades/Equipo/CarroDeGuerra|Carro de guerra]]"
+  - "[[_Entidades/Equipo/Carruaje|Carruaje]]"
+  - "[[_Entidades/Equipo/Trineo|Trineo]]"
+  - "[[_Entidades/Equipo/SillaMilitar|Silla militar]]"
+  - "[[_Entidades/Equipo/SillaExotica|Silla exótica]]"
   - "[[Animales/CaballoDeGuerra|Caballo de guerra]]"
   - "[[Animales/CaballoDeMonta|Caballo de monta]]"
   - "[[Animales/CaballoDeTiro|Caballo de tiro]]"
@@ -12,7 +18,15 @@ wikilinks_auto:
   - "[[Animales/Mastin|Mastín]]"
   - "[[Animales/Mula|Mula]]"
   - "[[Animales/Poni|Poni]]"
-  - "[[Equipo/Asalariados|Asalariados]]"
+  - "[[_Entidades/Equipo/AlimentoPorDia|Alimento por día]]"
+  - "[[_Entidades/Equipo/EstabuladoPorDia|Estabulado por día]]"
+  - "[[_Entidades/Equipo/BoteDeRemos|Bote de remos]]"
+  - "[[_Entidades/Equipo/Barcaza|Barcaza]]"
+  - "[[_Entidades/Equipo/Aeronave|Aeronave]]"
+  - "[[_Entidades/Equipo/Drakkar|Drakkar]]"
+  - "[[_Entidades/Equipo/Galera|Galera]]"
+  - "[[_Entidades/Equipo/NavioDeGuerra|Navío de guerra]]"
+  - "[[_Entidades/Equipo/Velero|Velero]]"
   - "[[Conjuros/Reparar|Reparar]]"
 ---
 

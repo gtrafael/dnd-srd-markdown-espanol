@@ -5,6 +5,8 @@ related_en: "[[Spells/Dancing Lights|Dancing Lights (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
   - "[[Conjuros/Luz|Luz]]"
 ---

@@ -3,7 +3,9 @@ aliases: ["Aceite de afilado", "Oil of Sharpness"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Oil of Sharpness|Oil of Sharpness (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
+  - "[[_Entidades/Equipo/Vial|Vial]]"
+  - "[[_Entidades/Equipo/Aceite|Aceite]]"
+  - "[[_Entidades/Equipo/Municion|Munición]]"
 ---
 
 # Aceite de afilado

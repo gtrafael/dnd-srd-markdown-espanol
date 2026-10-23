@@ -5,6 +5,8 @@ related_en: "[[Spells/Locate Animals or Plants|Locate Animals or Plants (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
 ---
 

@@ -2,6 +2,8 @@
 aliases: ["Sirénido", "Experto en escaramuzas sirénido", "Merfolk Skirmisher"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Merfolk Skirmisher|Merfolk Skirmisher (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Experto en escaramuzas sirénido

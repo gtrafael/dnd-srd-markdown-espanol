@@ -5,9 +5,9 @@ related_en: "[[Spells/Disguise Self|Disguise Self (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Equipo/Armas|Armas]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Disfrazarse

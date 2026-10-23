@@ -4,11 +4,11 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Black Dragon|Ancient Black Dragon (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
   - "[[Conjuros/FlechaAcida|Flecha ácida]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/Terror|Terror]]"
   - "[[Conjuros/CrearMuertoViviente|Crear muerto viviente]]"

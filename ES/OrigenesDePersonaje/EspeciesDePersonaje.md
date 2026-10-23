@@ -2,6 +2,8 @@
 aliases: ["Especies de personaje", "EspeciesDePersonaje"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Character Species|Character Species (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Especies de personaje

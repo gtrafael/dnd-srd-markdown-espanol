@@ -3,6 +3,9 @@ aliases: ["Jefe pendenciero", "Tough Boss"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Tough Boss|Tough Boss (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/BallestaPesada|Ballesta pesada]]"
+  - "[[_Entidades/Equipo/CotaDeMalla|Cota de malla]]"
+  - "[[_Entidades/Equipo/MartilloDeGuerra|Martillo de guerra]]"
   - "[[MonstruosDeLaAALaZ/Pendenciero|Pendenciero]]"
 ---
 

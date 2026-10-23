@@ -3,6 +3,7 @@ aliases: ["Guerrero Sahuagin", "Sahuagin Warrior"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Sahuagin Warrior|Sahuagin Warrior (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

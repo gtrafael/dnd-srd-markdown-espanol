@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Stone Giant|Stone Giant (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[_Entidades/Equipo/Garrote|Garrote]]"
 ---
 
 # Gigante de piedra

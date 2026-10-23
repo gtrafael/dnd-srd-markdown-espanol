@@ -6,6 +6,7 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"
   - "[[Conjuros/Bendicion|Bendición]]"
+  - "[[_Entidades/Equipo/AguaBendita|Agua bendita]]"
 ---
 
 # Lémur

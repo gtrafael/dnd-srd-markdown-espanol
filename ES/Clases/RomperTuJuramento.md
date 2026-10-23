@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_clases, recuadro]
 related_en: "[[Classes/Breaking Your Oath|Breaking Your Oath (EN)]]"
 wikilinks_auto:
   - "[[Clases/Paladin|Paladín]]"
+  - "[[_Entidades/Equipo/Vela|Vela]]"
 ---
 # Romper tu juramento
 

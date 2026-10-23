@@ -2,6 +2,9 @@
 aliases: ["Conjurar feérico", "Conjure Fey"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Conjure Fey|Conjure Fey (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Conjurar feérico

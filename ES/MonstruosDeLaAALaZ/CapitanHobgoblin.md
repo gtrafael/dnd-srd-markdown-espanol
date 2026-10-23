@@ -3,6 +3,9 @@ aliases: ["Capitán hobgoblin", "Hobgoblin Captain"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Hobgoblin Captain|Hobgoblin Captain (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/ArcoLargo|Arco largo]]"
+  - "[[_Entidades/Equipo/Espadon|Espadón]]"
+  - "[[_Entidades/Equipo/MediaArmadura|Media armadura]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

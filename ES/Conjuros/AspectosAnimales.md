@@ -3,7 +3,8 @@ aliases: ["Aspectos animales", "Animal Shapes"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Animal Shapes|Animal Shapes (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Aspectos animales

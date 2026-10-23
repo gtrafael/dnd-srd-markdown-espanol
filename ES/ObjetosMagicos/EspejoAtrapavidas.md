@@ -3,6 +3,7 @@ aliases: ["Espejo atrapavidas", "Mirror of Life Trapping"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Mirror of Life Trapping|Mirror of Life Trapping (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Espejo|Espejo]]"
   - "[[Conjuros/Dormir|Dormir]]"
   - "[[ObjetosMagicos/AgujeroPortatil|Agujero portátil]]"
   - "[[ObjetosMagicos/BolsaDeContencion|Bolsa de contención]]"

@@ -3,8 +3,12 @@ aliases: ["Piel pétrea", "Stoneskin"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Stoneskin|Stoneskin (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 

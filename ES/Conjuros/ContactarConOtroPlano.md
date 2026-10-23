@@ -5,6 +5,8 @@ related_en: "[[Spells/Contact Other Plane|Contact Other Plane (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/HacerAnicos|Hacer añicos]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---

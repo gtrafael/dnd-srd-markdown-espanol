@@ -3,7 +3,7 @@ aliases: ["Arco juramentado", "Oathbow"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Oathbow|Oathbow (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
+  - "[[_Entidades/Equipo/ArcoCorto|Arco corto]]"
 ---
 
 # Arco juramentado

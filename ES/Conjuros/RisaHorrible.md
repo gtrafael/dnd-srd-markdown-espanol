@@ -5,6 +5,9 @@ related_en: "[[Spells/Hideous Laughter|Hideous Laughter (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Pluma|Pluma]]"
 ---
 
 # Risa horrible

@@ -4,6 +4,7 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Werewolf|Werewolf (EN)]]"
 wikilinks_auto:
   - "[[Animales/Lobo|Lobo]]"
+  - "[[_Entidades/Equipo/ArcoLargo|Arco largo]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

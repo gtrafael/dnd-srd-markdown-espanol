@@ -4,9 +4,10 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Priest|Priest (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/CamisaDeMalla|Camisa de malla]]"
+  - "[[_Entidades/Equipo/Maza|Maza]]"
+  - "[[_Entidades/Equipo/SimboloSagrado|Símbolo sagrado]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/EspiritusGuardianes|Espíritus guardianes]]"

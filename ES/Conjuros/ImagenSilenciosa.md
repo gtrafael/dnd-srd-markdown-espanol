@@ -5,8 +5,10 @@ related_en: "[[Spells/Silent Image|Silent Image (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/Enganar|Engañar]]"
 ---
 

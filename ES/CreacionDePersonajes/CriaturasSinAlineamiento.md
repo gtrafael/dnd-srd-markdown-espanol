@@ -2,6 +2,8 @@
 aliases: ["Criaturas sin alineamiento", "Unaligned Creatures"]
 tags: [srd, espanol, tag_creacion, recuadro]
 related_en: "[[Character Creation/Unaligned Creatures|Unaligned Creatures (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 # Criaturas sin alineamiento
 

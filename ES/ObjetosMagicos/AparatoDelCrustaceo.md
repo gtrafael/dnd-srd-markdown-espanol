@@ -3,6 +3,7 @@ aliases: ["Aparato del crustáceo", "Apparatus of the Crab"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Apparatus of the Crab|Apparatus of the Crab (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Barril|Barril]]"
   - "[[Conjuros/Luz|Luz]]"
 ---
 

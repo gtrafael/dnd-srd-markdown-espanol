@@ -4,7 +4,7 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Spellguard Shield|Spellguard Shield (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
 ---
 
 # Escudo de guarda contra conjuros

@@ -2,8 +2,6 @@
 aliases: ["Dotes adicionales en el nivel 20"]
 tags: [srd, espanol, tag_caracterizaciones, recuadro]
 related_en: "[[Character Creation/Bonus Feats at Level 20|Bonus Feats at Level 20 (EN)]]"
-wikilinks_auto:
-  - "[[Dotes/DotesDeDonEpico|Dotes de don épico]]"
 ---
 
 # Dotes adicionales en el nivel 20

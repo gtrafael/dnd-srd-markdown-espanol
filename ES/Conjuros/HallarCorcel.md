@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Animales/Camello|Camello]]"
   - "[[Animales/LoboTerrible|Lobo terrible]]"
   - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Hallar corcel

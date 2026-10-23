@@ -4,7 +4,8 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Arcane Hand|Arcane Hand (EN)]]"
 wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Mano arcana

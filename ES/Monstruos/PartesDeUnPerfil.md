@@ -3,13 +3,13 @@ aliases: ["Partes de un perfil", "Parts of a Stat Block"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters/Parts of a Stat Block|Parts of a Stat Block (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Papel|Papel]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/Volar|Volar]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
+  - "[[_Entidades/Equipo/Municion|Munición]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
 ---
 

@@ -5,8 +5,10 @@ related_en: "[[Spells/Phantasmal Force|Phantasmal Force (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
   - "[[MonstruosDeLaAALaZ/Fantasma|Fantasma]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Fuerza fantasmal

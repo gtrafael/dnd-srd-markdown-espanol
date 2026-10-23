@@ -3,6 +3,9 @@ aliases: ["Viajar con el viento", "Wind Walk"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Wind Walk|Wind Walk (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[_Entidades/Equipo/Vela|Vela]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
   - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/Resistencia|Resistencia]]"

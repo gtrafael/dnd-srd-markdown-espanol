@@ -6,6 +6,7 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Identificar|Identificar]]"
   - "[[Conjuros/Reparar|Reparar]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Monstruo corrosivo

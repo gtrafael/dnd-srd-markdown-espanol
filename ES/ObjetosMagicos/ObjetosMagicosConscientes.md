@@ -3,12 +3,9 @@ aliases: ["Objetos mágicos conscientes"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Sentient Magic Items|Sentient Magic Items (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Perdicion|Perdición]]"
   - "[[Animales/Lobo|Lobo]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Objetos mágicos conscientes

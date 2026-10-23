@@ -5,6 +5,9 @@ related_en: "[[Spells/Unseen Servant|Unseen Servant (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
 ---
 
 # Sirviente invisible

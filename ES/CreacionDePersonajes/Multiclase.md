@@ -4,20 +4,23 @@ tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Creation/Multiclassing|Multiclassing (EN)]]"
 wikilinks_auto:
   - "[[Clases/Barbaro|Bárbaro]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Guerrero|Guerrero]]"
   - "[[Clases/Paladin|Paladín]]"
-  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[_Entidades/Dotes/Defensa|Defensa]]"
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Monje|Monje]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Clases/Brujo|Brujo]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/ManosArdientes|Manos ardientes]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Multiclase

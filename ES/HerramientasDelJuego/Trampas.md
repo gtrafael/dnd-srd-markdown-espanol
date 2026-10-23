@@ -3,12 +3,16 @@ aliases: ["Trampas", "Traps"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Traps|Traps (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Cerradura|Cerradura]]"
   - "[[Conjuros/Abrir|Abrir]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/CerraduraArcana|Cerradura arcana]]"
   - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
-  - "[[Equipo/EquipoDeAventureros|Equipo de aventureros]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[_Entidades/Equipo/Red|Red]]"
+  - "[[_Entidades/Equipo/HerramientasDeLadron|Herramientas de ladrón]]"
   - "[[Conjuros/Ralentizar|Ralentizar]]"
 ---
 

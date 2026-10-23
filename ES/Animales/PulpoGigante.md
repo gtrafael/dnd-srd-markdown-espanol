@@ -6,6 +6,8 @@ wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Animales/Pulpo|Pulpo]]"
   - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
+  - "[[_Entidades/Equipo/Tinta|Tinta]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Pulpo gigante

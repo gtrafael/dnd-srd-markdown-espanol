@@ -4,6 +4,8 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Sanctuary|Sanctuary (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[_Entidades/Equipo/Espejo|Espejo]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Santuario

@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Conjuros/Revivir|Revivir]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Resurrección

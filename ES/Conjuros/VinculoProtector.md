@@ -6,6 +6,7 @@ wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Paladin|Paladín]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Vínculo protector

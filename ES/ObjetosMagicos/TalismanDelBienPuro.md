@@ -7,6 +7,7 @@ wikilinks_auto:
   - "[[Clases/Paladin|Paladín]]"
   - "[[Conjuros/Simbolo|Símbolo]]"
   - "[[Conjuros/Luz|Luz]]"
+  - "[[_Entidades/Equipo/SimboloSagrado|Símbolo sagrado]]"
 ---
 
 # Talismán del bien puro

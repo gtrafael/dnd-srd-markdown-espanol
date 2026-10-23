@@ -5,7 +5,6 @@ related_en: "[[Character Creation/Starting at Higher Levels|Starting at Higher L
 wikilinks_auto:
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/Guia|Guía]]"
-  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Comenzar en niveles superiores

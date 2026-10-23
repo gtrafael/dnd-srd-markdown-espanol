@@ -2,8 +2,6 @@
 aliases: ["Talismán de salud", "Periapt of Health"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Periapt of Health|Periapt of Health (EN)]]"
-wikilinks_auto:
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Talismán de salud

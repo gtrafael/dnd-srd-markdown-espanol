@@ -5,10 +5,15 @@ related_en: "[[Spells/Glyph of Warding|Glyph of Warding (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Libro|Libro]]"
+  - "[[_Entidades/Equipo/Cofre|Cofre]]"
   - "[[Conjuros/Abrir|Abrir]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Creacion|Creación]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
 ---
 
 # Glifo custodio

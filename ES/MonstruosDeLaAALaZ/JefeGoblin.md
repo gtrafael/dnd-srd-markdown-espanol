@@ -3,7 +3,11 @@ aliases: ["Jefe goblin", "Goblin Boss"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Goblin Boss|Goblin Boss (EN)]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/ArcoCorto|Arco corto]]"
+  - "[[_Entidades/Equipo/CamisaDeMalla|Camisa de malla]]"
+  - "[[_Entidades/Equipo/Cimitarra|Cimitarra]]"
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

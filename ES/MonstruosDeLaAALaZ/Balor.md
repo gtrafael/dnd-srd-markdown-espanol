@@ -6,7 +6,7 @@ wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Latigo|Látigo]]"
   - "[[Conjuros/Teletransporte|Teletransporte]]"
 ---
 

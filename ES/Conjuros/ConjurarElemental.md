@@ -3,6 +3,10 @@ aliases: ["Conjurar elemental", "Conjure Elemental"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Conjure Elemental|Conjure Elemental (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Relampago|Relámpago]]"
 ---
 

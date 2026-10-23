@@ -4,13 +4,11 @@ tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Magic Items|Magic Items (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Identificar|Identificar]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
   - "[[ObjetosMagicos/AnilloDeCaidaDePluma|Anillo de caída de pluma]]"
   - "[[ObjetosMagicos/AnilloDeNatacion|Anillo de natación]]"
   - "[[Conjuros/Escudo|Escudo]]"
+  - "[[_Entidades/Equipo/Escudo|Escudo]]"
   - "[[ObjetosMagicos/AnilloDeProteccion|Anillo de protección]]"
-  - "[[Equipo/Armaduras|Armaduras]]"
-  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Objetos mágicos

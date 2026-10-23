@@ -4,7 +4,11 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Creation|Creation (EN)]]"
 wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Sombra|Sombra]]"
+  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
+  - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 
 # Creación

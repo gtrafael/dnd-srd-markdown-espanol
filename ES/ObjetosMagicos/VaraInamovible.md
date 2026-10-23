@@ -2,6 +2,8 @@
 aliases: ["Vara inamovible", "Immovable Rod"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Immovable Rod|Immovable Rod (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Vara|Vara]]"
 ---
 
 # Vara inamovible

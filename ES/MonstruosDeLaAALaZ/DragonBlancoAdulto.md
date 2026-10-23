@@ -6,8 +6,8 @@ wikilinks_auto:
   - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/Terror|Terror]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Dragón blanco adulto

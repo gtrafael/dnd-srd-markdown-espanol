@@ -4,7 +4,9 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Freezing Sphere|Freezing Sphere (EN)]]"
 wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Honda|Honda]]"
 ---
 
 # Esfera congelante

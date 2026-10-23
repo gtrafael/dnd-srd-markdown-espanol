@@ -4,9 +4,10 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Necklace of Prayer Beads|Necklace of Prayer Beads (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Paladin|Paladín]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
-  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
   - "[[Conjuros/CastigoBrillante|Castigo brillante]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
   - "[[Conjuros/Bendicion|Bendición]]"

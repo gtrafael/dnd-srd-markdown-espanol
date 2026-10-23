@@ -5,6 +5,8 @@ related_en: "[[Spells/Dream|Dream (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Despertar|Despertar]]"
   - "[[Conjuros/Mensaje|Mensaje]]"
 ---

@@ -3,7 +3,9 @@ aliases: ["Propiedades"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Properties|Properties (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
+  - "[[_Entidades/Equipo/Municion|Munición]]"
+  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
+  - "[[_Entidades/Equipo/Daga|Daga]]"
 ---
 
 # Propiedades

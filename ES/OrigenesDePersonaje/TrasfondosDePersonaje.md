@@ -3,9 +3,26 @@ aliases: ["Trasfondos", "Backgrounds"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Character Backgrounds|Backgrounds (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[_Entidades/Dotes/IniciadoEnLaMagia|Iniciado en la magia]]"
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
+  - "[[_Entidades/Equipo/SuministrosDeCaligrafo|Suministros de calígrafo]]"
+  - "[[_Entidades/Equipo/Libro|Libro]]"
+  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
+  - "[[_Entidades/Equipo/SimboloSagrado|Símbolo sagrado]]"
+  - "[[_Entidades/Equipo/Tunica|Túnica]]"
+  - "[[_Entidades/Dotes/Alerta|Alerta]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
+  - "[[_Entidades/Equipo/HerramientasDeLadron|Herramientas de ladrón]]"
+  - "[[_Entidades/Equipo/Palanqueta|Palanqueta]]"
+  - "[[_Entidades/Equipo/RopasDeViaje|Ropas de viaje]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Baston|Bastón]]"
+  - "[[_Entidades/Dotes/AtacanteSalvaje|Atacante salvaje]]"
+  - "[[_Entidades/Equipo/Lanza|Lanza]]"
+  - "[[_Entidades/Equipo/ArcoCorto|Arco corto]]"
+  - "[[_Entidades/Equipo/Aljaba|Aljaba]]"
+  - "[[_Entidades/Equipo/UtilesDeSanador|Útiles de sanador]]"
 ---
 
 # Trasfondos de personaje

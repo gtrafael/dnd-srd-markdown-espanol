@@ -5,7 +5,7 @@ related_en: "[[Monsters A-Z/Tarrasque|Tarrasque (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Acido|Ácido]]"
 ---
 
 # Tarasca

@@ -3,12 +3,11 @@ aliases: ["Competencia"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Proficiency]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
   - "[[Conjuros/Creacion|Creación]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[_Entidades/Equipo/Disfraz|Disfraz]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
   - "[[Conjuros/Prestidigitacion|Prestidigitación]]"
   - "[[Conjuros/Silencio|Silencio]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
 ---
 
 # Competencia

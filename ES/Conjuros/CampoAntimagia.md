@@ -4,9 +4,8 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Antimagic Field|Antimagic Field (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
 ---
 

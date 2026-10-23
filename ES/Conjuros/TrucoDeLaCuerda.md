@@ -3,8 +3,10 @@ aliases: ["Truco de la cuerda", "Rope Trick"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Rope Trick|Rope Trick (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[_Entidades/Equipo/Cuerda|Cuerda]]"
   - "[[Conjuros/Portal|Portal]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Truco de la cuerda

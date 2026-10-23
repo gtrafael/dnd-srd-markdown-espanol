@@ -5,7 +5,6 @@ related_en: "[[Magic Items/Holy Avenger|Holy Avenger (EN)]]"
 wikilinks_auto:
   - "[[Clases/Paladin|Paladín]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Vengadora sagrada

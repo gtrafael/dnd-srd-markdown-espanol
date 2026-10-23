@@ -3,8 +3,12 @@ aliases: ["Nube de oscurecimiento", "Fog Cloud"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Fog Cloud|Fog Cloud (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
 ---
 

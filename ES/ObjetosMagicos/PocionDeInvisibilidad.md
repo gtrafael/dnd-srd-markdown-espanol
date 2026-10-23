@@ -2,6 +2,8 @@
 aliases: ["Poción de invisibilidad"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Invisibility]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Frasco|Frasco]]"
 ---
 
 # Poción de invisibilidad

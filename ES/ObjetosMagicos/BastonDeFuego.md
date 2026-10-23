@@ -3,10 +3,14 @@ aliases: ["Bastón de fuego"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Fire]]"
 wikilinks_auto:
+  - "[[_Entidades/Equipo/Baston|Bastón]]"
   - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Conjuros|Conjuros]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/ManosArdientes|Manos ardientes]]"
   - "[[Conjuros/MuroDeFuego|Muro de fuego]]"

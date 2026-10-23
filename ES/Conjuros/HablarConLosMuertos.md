@@ -5,6 +5,8 @@ related_en: "[[Spells/Speak with Dead|Speak with Dead (EN)]]"
 wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
 ---
 

@@ -3,15 +3,22 @@ aliases: ["Picaro", "Rogue"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Rogue|Rogue (EN)]]"
 wikilinks_auto:
-  - "[[Equipo/Armas|Armas]]"
-  - "[[Equipo/Propiedades|Propiedades]]"
-  - "[[Equipo/Herramientas|Herramientas]]"
-  - "[[Equipo/Armaduras|Armaduras]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
+  - "[[_Entidades/Equipo/HerramientasDeLadron|Herramientas de ladrón]]"
+  - "[[_Entidades/Equipo/ArmaduraDeCuero|Armadura de cuero]]"
+  - "[[_Entidades/Equipo/EspadaCorta|Espada corta]]"
+  - "[[_Entidades/Equipo/ArcoCorto|Arco corto]]"
+  - "[[_Entidades/Equipo/Aljaba|Aljaba]]"
+  - "[[_Entidades/Equipo/PaqueteDeLadron|Paquete de ladrón]]"
+  - "[[_Entidades/Dotes/MejoraDeCaracteristica|Mejora de característica]]"
   - "[[Conjuros/Creacion|Creación]]"
-  - "[[Equipo/PropiedadesDeMaestria|Propiedades de maestría]]"
+  - "[[_Entidades/Equipo/UtilesDeEnvenenador|Útiles de envenenador]]"
+  - "[[_Entidades/Dotes/DonDelEspirituDeLaNoche|Don del espíritu de la noche]]"
   - "[[Clases/Explorador|Explorador]]"
+  - "[[_Entidades/Equipo/Cerradura|Cerradura]]"
   - "[[Conjuros/Salto|Salto]]"
-  - "[[ObjetosMagicos/PergaminoDeConjuro|Pergamino de conjuro]]"
+  - "[[_Entidades/Equipo/PergaminoDeConjuro|Pergamino de conjuro]]"
+  - "[[_Entidades/Equipo/Pergamino|Pergamino]]"
 ---
 
 # Pícaro

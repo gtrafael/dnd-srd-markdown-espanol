@@ -2,6 +2,8 @@
 aliases: ["Plebeyo", "Commoner"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Commoner|Commoner (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Garrote|Garrote]]"
 ---
 
 # Plebeyo

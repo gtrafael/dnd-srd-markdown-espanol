@@ -2,6 +2,8 @@
 aliases: ["Descripción general de los perfiles", "Stat Block Overview"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters/Stat Block Overview|Stat Block Overview (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Descripción general de los perfiles

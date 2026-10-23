@@ -4,9 +4,11 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Alter Self|Alter Self (EN)]]"
 wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
-  - "[[Equipo/Armas|Armas]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
+  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Alterar el propio aspecto

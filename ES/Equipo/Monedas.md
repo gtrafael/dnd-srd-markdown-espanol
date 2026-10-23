@@ -2,6 +2,8 @@
 aliases: ["Monedas", "Coinage"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Coins|Coins (EN)]]"
+wikilinks_auto:
+  - "[[_Entidades/Equipo/Juego|Juego]]"
 ---
 
 # Monedas

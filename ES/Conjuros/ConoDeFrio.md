@@ -3,7 +3,11 @@ aliases: ["Cono de frío", "Cone of Cold"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Cone of Cold|Cone of Cold (EN)]]"
 wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Cono de frío
