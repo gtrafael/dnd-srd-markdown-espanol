@@ -4,8 +4,6 @@ tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Cleric|Cleric (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[MonstruosDeLaAALaZ/Sacerdote|Sacerdote]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/Guia|Guía]]"
   - "[[Conjuros/LlamaSagrada|Llama sagrada]]"
@@ -105,6 +103,7 @@ wikilinks_auto:
   - "[[Conjuros/PalabraDivina|Palabra divina]]"
   - "[[Conjuros/Regenerar|Regenerar]]"
   - "[[Conjuros/Resurreccion|Resurrección]]"
+  - "[[Conjuros/Simbolo|Símbolo]]"
   - "[[Conjuros/TormentaDeFuego|Tormenta de fuego]]"
   - "[[Conjuros/AuraSagrada|Aura sagrada]]"
   - "[[Conjuros/CampoAntimagia|Campo antimagia]]"

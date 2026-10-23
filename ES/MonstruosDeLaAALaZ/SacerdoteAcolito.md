@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Priest Acolyte|Priest Acolyte (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
   - "[[MonstruosDeLaAALaZ/Sacerdote|Sacerdote]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Taumaturgia|Taumaturgia]]"

@@ -10,7 +10,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Abrir|Abrir]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Terror|Terror]]"
 ---
 

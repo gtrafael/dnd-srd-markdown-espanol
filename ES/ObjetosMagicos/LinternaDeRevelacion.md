@@ -2,8 +2,6 @@
 aliases: ["Linterna de revelación", "Lantern of Revealing"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Lantern of Revealing|Lantern of Revealing (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Linterna de revelación

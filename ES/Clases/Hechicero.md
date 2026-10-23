@@ -3,7 +3,6 @@ aliases: ["Hechicero", "Sorcerer"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Sorcerer|Sorcerer (EN)]]"
 wikilinks_auto:
-  - "[[Clases/Explorador|Explorador]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/AgarreElectrizante|Agarre electrizante]]"
   - "[[Conjuros/EstallidoMagico|Estallido mágico]]"

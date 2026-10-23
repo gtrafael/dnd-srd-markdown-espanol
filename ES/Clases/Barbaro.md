@@ -3,9 +3,7 @@ aliases: ["Barbaro", "Barbarian"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Barbarian|Barbarian (EN)]]"
 wikilinks_auto:
-  - "[[Clases/Explorador|Explorador]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Conjuros/Salto|Salto]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[MonstruosDeLaAALaZ/Berserker|Berserker]]"
   - "[[Conjuros/Terror|Terror]]"

@@ -5,7 +5,6 @@ related_en: "[[Classes/Druid|Druid (EN)]]"
 wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Clases/Explorador|Explorador]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/HablarConLosAnimales|Hablar con los animales]]"
   - "[[Conjuros/CrearLlama|Crear llama]]"

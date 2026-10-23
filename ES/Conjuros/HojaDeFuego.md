@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Hoja de fuego

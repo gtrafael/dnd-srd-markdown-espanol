@@ -3,8 +3,6 @@ aliases: ["Guerrero", "Fighter"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Fighter|Fighter (EN)]]"
 wikilinks_auto:
-  - "[[Clases/Explorador|Explorador]]"
-  - "[[Conjuros/Desplazamiento|Desplazamiento]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/Ralentizar|Ralentizar]]"
 ---

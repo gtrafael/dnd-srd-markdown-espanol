@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Conjuros/Dormir|Dormir]]"
   - "[[Animales/Gato|Gato]]"
   - "[[Animales/Rata|Rata]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Pirata|Pirata]]"

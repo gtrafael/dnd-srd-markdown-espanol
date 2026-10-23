@@ -26,7 +26,6 @@ wikilinks_auto:
   - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/Salto|Salto]]"
   - "[[Conjuros/HablarConLosMuertos|Hablar con los muertos]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Oscuridad|Oscuridad]]"
   - "[[Conjuros/Invisibilidad|Invisibilidad]]"
   - "[[Conjuros/FalsaVida|Falsa vida]]"

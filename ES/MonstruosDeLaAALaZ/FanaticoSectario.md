@@ -3,7 +3,6 @@ aliases: ["Fanático sectario", "Cultist Fanatic"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Cultist Fanatic|Cultist Fanatic (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Simbolo|Símbolo]]"
   - "[[MonstruosDeLaAALaZ/Sectario|Sectario]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Taumaturgia|Taumaturgia]]"

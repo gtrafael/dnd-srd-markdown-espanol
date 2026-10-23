@@ -13,7 +13,6 @@ wikilinks_auto:
   - "[[Conjuros/Enganar|Engañar]]"
   - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
   - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"

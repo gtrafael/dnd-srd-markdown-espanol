@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Character Backgrounds|Backgrounds (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---

@@ -12,12 +12,11 @@ wikilinks_auto:
   - "[[Clases/Paladin|Paladín]]"
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Monje|Monje]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Clases/Brujo|Brujo]]"
-  - "[[Clases/Explorador|Explorador]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Clases/Explorador|Explorador]]"
   - "[[Conjuros/ManosArdientes|Manos ardientes]]"
 ---
 

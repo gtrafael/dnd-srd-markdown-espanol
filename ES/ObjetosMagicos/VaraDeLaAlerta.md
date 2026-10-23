@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DetectarVenenosYEnfermedades|Detectar venenos y enfermedades]]"
   - "[[Conjuros/VerInvisibilidad|Ver invisibilidad]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Vara de la alerta

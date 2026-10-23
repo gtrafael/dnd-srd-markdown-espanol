@@ -5,7 +5,6 @@ related_en: "[[Animals/Giant Frog|Giant Frog (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Animales/Rana|Rana]]"
-  - "[[Conjuros/Salto|Salto]]"
 ---
 
 # Rana gigante

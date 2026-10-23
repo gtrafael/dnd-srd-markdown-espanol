@@ -4,8 +4,6 @@ tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Paladin|Paladín (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
-  - "[[MonstruosDeLaAALaZ/Sacerdote|Sacerdote]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
   - "[[Conjuros/CastigoAbrasador|Castigo abrasador]]"
@@ -52,12 +50,12 @@ wikilinks_auto:
   - "[[Conjuros/Geas|Geas]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
   - "[[MonstruosDeLaAALaZ/Caballero|Caballero]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/SenalDeEsperanza|Señal de esperanza]]"
   - "[[Conjuros/GuardianDeLaFe|Guardián de la fe]]"
   - "[[Conjuros/LibertadDeMovimiento|Libertad de movimiento]]"
   - "[[Conjuros/Comunion|Comunión]]"
   - "[[Conjuros/GolpeFlamigero|Golpe flamígero]]"
+  - "[[Conjuros/Luz|Luz]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
 ---
 

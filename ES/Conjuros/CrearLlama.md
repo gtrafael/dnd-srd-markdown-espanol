@@ -5,7 +5,6 @@ related_en: "[[Spells/Produce Flame|Produce Flame (EN)]]"
 wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Crear llama
