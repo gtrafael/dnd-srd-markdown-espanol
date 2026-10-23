@@ -387,10 +387,10 @@ def main() -> int:
         scanned += 1
         original = path.read_text(encoding="utf-8")
         links = detect(path, original, es, cat, rx)
+        links_count += len(links)
         updated = update_frontmatter(original, links)
         if updated != original:
             changed += 1
-            links_count += len(links)
             if opt.verbose:
                 print(path.relative_to(root), links)
             if not opt.dry_run:
