@@ -206,10 +206,12 @@ def embedded_entities(es: Path) -> list[EmbeddedEntity]:
     for name in EQUIPMENT_TABLE_FILES:
         path = es / "Equipo" / name
         section = None
+        table_header = None
         for line in body(path.read_text(encoding="utf-8")).splitlines():
             heading = re.match(r"^#{2,4}\s+(.+?)\s*$", line)
             if heading:
                 section = clean_title(heading.group(1))
+                table_header = None
                 continue
             if not line.startswith("|"):
                 continue
@@ -220,9 +222,10 @@ def embedded_entities(es: Path) -> list[EmbeddedEntity]:
             if not first or first.replace(":", "").replace("-", "").strip() == "":
                 continue
             if norm(first) in headers:
+                table_header = norm(first)
                 continue
             title = first
-            if name == "MonturasYVehiculos.md" and norm(section or "") == "sillas":
+            if name == "MonturasYVehiculos.md" and table_header == "silla":
                 title = "Silla " + first.casefold()
             add_embedded(entities, title, "equipo", path.relative_to(es), section)
 
