@@ -159,7 +159,6 @@ wikilinks_auto:
   - "[[Conjuros/SalpicaduraAcida|Salpicadura ácida]]"
   - "[[Conjuros/Telarana|Telaraña]]"
   - "[[Conjuros/NubeApestosa|Nube apestosa]]"
-  - "[[Conjuros/Santuario|Santuario]]"
   - "[[_Entidades/Equipo/Cubo|Cubo]]"
 ---
 

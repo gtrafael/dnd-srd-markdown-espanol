@@ -2,11 +2,6 @@
 aliases: ["Dotes de estilo de combate"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Feats/Fighting Style Feats|Fighting Style Feats (EN)]]"
-wikilinks_auto:
-  - "[[_Entidades/Dotes/CombateConArmasADosManos|Combate con armas a dos manos]]"
-  - "[[_Entidades/Dotes/CombateConDosArmas|Combate con dos armas]]"
-  - "[[_Entidades/Dotes/Defensa|Defensa]]"
-  - "[[_Entidades/Dotes/TiroConArco|Tiro con arco]]"
 ---
 
 # Dotes de estilo de combate

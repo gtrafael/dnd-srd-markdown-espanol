@@ -3,7 +3,6 @@ aliases: ["Dotes generales"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Feats/General Feats|General Feats (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Dotes/Apresador|Apresador]]"
   - "[[_Entidades/Dotes/MejoraDeCaracteristica|Mejora de característica]]"
 ---
 

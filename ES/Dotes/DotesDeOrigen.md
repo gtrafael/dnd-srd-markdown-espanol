@@ -3,10 +3,6 @@ aliases: ["Dotes de origen"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Feats/Origin Feats|Origin Feats (EN)]]"
 wikilinks_auto:
-  - "[[_Entidades/Dotes/Alerta|Alerta]]"
-  - "[[_Entidades/Dotes/AtacanteSalvaje|Atacante salvaje]]"
-  - "[[_Entidades/Dotes/Habilidoso|Habilidoso]]"
-  - "[[_Entidades/Dotes/IniciadoEnLaMagia|Iniciado en la magia]]"
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
