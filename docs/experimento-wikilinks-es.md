@@ -129,3 +129,50 @@ El siguiente experimento debería medir qué estrategia reduce más el ruido sin
 perder relaciones útiles. Algunas opciones son: exigir contexto según categoría,
 mantener una lista de títulos inherentemente ambiguos, o aplicar reglas más
 estrictas a nombres cortos y genéricos.
+
+
+## v2: relaciones por entidad
+
+La v2 abandona deliberadamente los capítulos o notas contenedoras como destinos
+del grafo. Una relación automática solo puede apuntar a una entidad concreta.
+
+### Entidades con nota propia
+
+Se reutilizan directamente las notas reales de:
+
+- clases;
+- animales;
+- conjuros;
+- monstruos;
+- objetos mágicos.
+
+El catálogo se construye por estructura, no por el simple hecho de que exista
+un archivo Markdown. Así, notas como Conjuros.md, Armas.md o los índices no
+pueden convertirse accidentalmente en conceptos enlazables.
+
+### Dotes y equipo
+
+Dotes y Equipo contienen muchas entidades dentro de una misma nota. Como el
+grafo de Obsidian trabaja a nivel de nota, la v2 genera nodos auxiliares en:
+
+- ES/_Entidades/Dotes/
+- ES/_Entidades/Equipo/
+
+Son notas generadas que contienen solo frontmatter. No duplican el contenido
+del SRD. Guardan el nombre de la entidad y un enlace source a la sección
+original. Esto permite que Alerta, Honda, Escudo, Linterna de ojo de buey,
+etc. sean nodos independientes del grafo sin convertir DotesGenerales.md o
+Armas.md en hubs artificiales.
+
+### Desambiguación determinista
+
+El buscador ordena los nombres por longitud y consume primero la coincidencia
+más larga. Por ejemplo, Paquete de explorador se reconoce antes que Explorador,
+por lo que esa frase no genera además una relación con la clase Explorador.
+
+Cuando un mismo nombre representa varias entidades legítimas, se conservan
+todos los destinos. Por ejemplo, Druida y Mago pueden apuntar tanto a la clase
+como al perfil de monstruo correspondiente.
+
+El workflow verifica además dos invariantes: ningún cuerpo Markdown existente
+puede cambiar y no pueden reaparecer destinos contenedores prohibidos.
