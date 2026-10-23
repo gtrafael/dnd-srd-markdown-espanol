@@ -159,8 +159,9 @@ grafo de Obsidian trabaja a nivel de nota, la v2 genera nodos auxiliares en:
 - ES/_Entidades/Equipo/
 
 Son notas generadas que contienen solo frontmatter. No duplican el contenido
-del SRD. Guardan el nombre de la entidad y un enlace source a la sección
-original. Esto permite que Alerta, Honda, Escudo, Linterna de ojo de buey,
+del SRD. Guardan el nombre de la entidad y su procedencia como texto YAML
+(`note` y `section`), deliberadamente sin wikilinks para que la nota
+contenedora no reaparezca como hub del grafo. Esto permite que Alerta, Honda, Escudo, Linterna de ojo de buey,
 etc. sean nodos independientes del grafo sin convertir DotesGenerales.md o
 Armas.md en hubs artificiales.
 
@@ -176,3 +177,24 @@ como al perfil de monstruo correspondiente.
 
 El workflow verifica además dos invariantes: ningún cuerpo Markdown existente
 puede cambiar y no pueden reaparecer destinos contenedores prohibidos.
+
+
+### Resultado v2
+
+La generación estabilizada de la v2 produce:
+
+- 861 entidades que ya disponen de nota propia;
+- 191 nodos auxiliares generados para Dotes y Equipo;
+- 1049 nombres distintos en el catálogo;
+- 3 nombres con varios destinos legítimos: Druida, Mago y Escudo;
+- 1027 notas de contenido analizadas;
+- 5323 relaciones automáticas detectadas.
+
+Una ejecución consecutiva produce cero modificaciones, lo que confirma que el
+proceso es idempotente. El workflow comprueba además que no cambia el cuerpo de
+las notas existentes, que no aparecen destinos contenedores prohibidos y que
+los nodos auxiliares no contienen wikilinks de trazabilidad.
+
+La v2 también excluye los encabezados Markdown de la detección: un encabezado
+como "Defensa sin armadura" describe la estructura de la nota y no se considera
+por sí mismo una referencia a la dote "Defensa".
