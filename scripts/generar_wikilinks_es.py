@@ -247,12 +247,13 @@ def entity_path(entity: EmbeddedEntity) -> Path:
     return Path(GENERATED_ROOT) / folder / (slug(entity.title) + ".md")
 
 
-def source_link(note: Path, section: str | None) -> str:
-    target = note.with_suffix("").as_posix()
-    return f"[[{target}#{section}|{section}]]" if section else f"[[{target}]]"
-
-
 def render_entity(entity: EmbeddedEntity) -> str:
+    """Nodo de identidad sin enlaces a la nota contenedora.
+
+    La procedencia se guarda como texto YAML deliberadamente. Si usáramos un
+    wikilink en sources, Obsidian volvería a introducir el capítulo contenedor
+    (por ejemplo Equipo/Armas) en el grafo.
+    """
     tag = "entidad_dote" if entity.kind == "dote" else "entidad_equipo"
     lines = [
         "---",
@@ -264,7 +265,9 @@ def render_entity(entity: EmbeddedEntity) -> str:
         "sources:",
     ]
     for note, section in entity.sources:
-        lines.append("  - " + yaml_quote(source_link(note, section)))
+        lines.append("  - note: " + yaml_quote(note.as_posix()))
+        if section:
+            lines.append("    section: " + yaml_quote(section))
     lines.append("---")
     return "\n".join(lines) + "\n"
 
