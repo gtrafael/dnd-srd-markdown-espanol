@@ -1,0 +1,95 @@
+name: Experimento wikilinks ES
+
+on:
+  push:
+    branches:
+      - experimento/wikilinks-es
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          ref: experimento/wikilinks-es
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validar sintaxis
+        run: python -m py_compile scripts/generar_wikilinks_es.py
+
+      - name: Simular generación
+        run: python scripts/generar_wikilinks_es.py --dry-run
+
+      - name: Generar wikilinks
+        run: python scripts/generar_wikilinks_es.py
+
+      - name: Comprobar que solo cambia frontmatter
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import subprocess
+          import sys
+
+          def strip_frontmatter(text: str) -> str:
+              if not text.startswith("---"):
+                  return text
+              lines = text.splitlines(keepends=True)
+              for i in range(1, len(lines)):
+                  if lines[i].strip() == "---":
+                      return "".join(lines[i + 1:])
+              return text
+
+          changed = subprocess.check_output(
+              ["git", "diff", "--name-only", "--", "ES"],
+              text=True,
+          ).splitlines()
+
+          errors = []
+          for name in changed:
+              path = Path(name)
+              if path.suffix != ".md":
+                  continue
+
+              before = subprocess.check_output(
+                  ["git", "show", f"HEAD:{name}"],
+                  text=True,
+              )
+              after = path.read_text(encoding="utf-8")
+
+              if strip_frontmatter(before) != strip_frontmatter(after):
+                  errors.append(name)
+
+          if errors:
+              print("ERROR: se modificó el cuerpo Markdown:")
+              for name in errors:
+                  print(f"  - {name}")
+              sys.exit(1)
+
+          print(f"OK: {len(changed)} notas cambian solo en frontmatter.")
+          PY
+
+      - name: Guardar resultado
+        shell: bash
+        run: |
+          if git diff --quiet -- ES; then
+            echo "No hay cambios que guardar."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ES
+          git commit -m "experimento: generar wikilinks automáticos ES"
+          git push
