@@ -2,6 +2,12 @@
 aliases: ["Atadura planar", "Planar Binding"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Planar Binding|Planar Binding (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/CirculoMagico|Círculo mágico]]"
+  - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 
 # Atadura planar

@@ -2,6 +2,8 @@
 aliases: ["Guardián de la fe", "Guardian of Faith"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Guardian of Faith|Guardian of Faith (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Guardián de la fe

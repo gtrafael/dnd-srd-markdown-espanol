@@ -2,6 +2,8 @@
 aliases: ["Murciélago", "Bat"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Bat|Bat (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Murciélago

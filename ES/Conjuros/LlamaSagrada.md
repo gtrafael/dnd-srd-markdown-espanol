@@ -2,6 +2,8 @@
 aliases: ["Llama sagrada", "Sacred Flame"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Sacred Flame|Sacred Flame (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Llama sagrada

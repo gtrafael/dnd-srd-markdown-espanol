@@ -2,6 +2,8 @@
 aliases: ["Conjurar elementales menores", "Conjure Minor Elementals"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Conjure Minor Elementals|Conjure Minor Elementals (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Conjurar elementales menores

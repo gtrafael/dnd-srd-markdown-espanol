@@ -2,6 +2,10 @@
 aliases: ["Diablo gélido", "Ice Devil"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ice Devil|Ice Devil (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/MuroDeHielo|Muro de hielo]]"
 ---
 
 # Diablo gélido

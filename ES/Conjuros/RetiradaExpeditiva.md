@@ -2,6 +2,9 @@
 aliases: ["Retirada expeditiva", "Expeditious Retreat"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Expeditious Retreat|Expeditious Retreat (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Retirada expeditiva

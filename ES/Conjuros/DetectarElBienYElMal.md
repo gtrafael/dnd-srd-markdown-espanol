@@ -2,6 +2,11 @@
 aliases: ["Detectar el bien y el mal", "Detect Evil and Good"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Detect Evil and Good|Detect Evil and Good (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/Consagrar|Consagrar]]"
 ---
 
 # Detectar el bien y el mal

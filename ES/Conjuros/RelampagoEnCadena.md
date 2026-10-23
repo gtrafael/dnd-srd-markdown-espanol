@@ -2,6 +2,9 @@
 aliases: ["Relámpago en cadena", "Chain Lightning"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Chain Lightning|Chain Lightning (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Relámpago en cadena

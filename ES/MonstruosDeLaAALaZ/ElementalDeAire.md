@@ -2,6 +2,11 @@
 aliases: ["Elemental de aire", "Air Elemental"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Air Elemental|Air Elemental (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Levitar|Levitar]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Elemental de aire

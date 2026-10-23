@@ -2,6 +2,18 @@
 aliases: ["EquipoGeneral", "Gear"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Adventuring Gear|Adventuring Gear (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[MonstruosDeLaAALaZ/Sacerdote|Sacerdote]]"
+  - "[[ObjetosMagicos/PergaminoDeConjuro|Pergamino de conjuro]]"
+  - "[[Conjuros/Simbolo|Símbolo]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Dormir|Dormir]]"
+  - "[[Conjuros/Escudo|Escudo]]"
+  - "[[Conjuros/Salto|Salto]]"
 ---
 
 # Equipo de aventureros

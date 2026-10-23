@@ -2,6 +2,9 @@
 aliases: ["EfectosAmbientales", "Environmental Effects"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Environmental Effects|Environmental Effects (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Efectos ambientales

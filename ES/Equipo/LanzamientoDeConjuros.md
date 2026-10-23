@@ -2,6 +2,8 @@
 aliases: ["Lanzamiento de conjuros"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Spellcasting|Spellcasting (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Lanzamiento de conjuros

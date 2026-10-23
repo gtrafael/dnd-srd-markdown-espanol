@@ -2,6 +2,9 @@
 aliases: ["Nube incendiaria", "Incendiary Cloud"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Incendiary Cloud|Incendiary Cloud (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
 ---
 
 # Nube incendiaria

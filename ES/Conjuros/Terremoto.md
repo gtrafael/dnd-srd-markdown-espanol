@@ -2,6 +2,9 @@
 aliases: ["Terremoto", "Earthquake"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Earthquake|Earthquake (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Terremoto

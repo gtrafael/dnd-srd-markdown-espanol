@@ -2,6 +2,10 @@
 aliases: ["Toque vampírico", "Vampiric Touch"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Vampiric Touch|Vampiric Touch (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Curar|Curar]]"
 ---
 
 # Toque vampírico

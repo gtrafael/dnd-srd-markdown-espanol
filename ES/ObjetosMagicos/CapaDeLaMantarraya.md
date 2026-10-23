@@ -2,6 +2,8 @@
 aliases: ["Capa de la mantarraya", "Cloak of the Manta Ray"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Cloak of the Manta Ray|Cloak of the Manta Ray (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Capa de la mantarraya

@@ -2,6 +2,9 @@
 aliases: ["Contingencia", "Contingency"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Contingency|Contingency (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Contingencia

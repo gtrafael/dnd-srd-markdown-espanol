@@ -2,6 +2,11 @@
 aliases: ["Esfinge de las maravillas", "Sphinx of Wonder"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Sphinx of Wonder|Sphinx of Wonder (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Esfinge de las maravillas

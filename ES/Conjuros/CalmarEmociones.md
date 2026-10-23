@@ -2,6 +2,9 @@
 aliases: ["Calmar emociones", "Calm Emotions"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Calm Emotions|Calm Emotions (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Calmar emociones

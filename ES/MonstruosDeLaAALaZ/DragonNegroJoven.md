@@ -2,6 +2,9 @@
 aliases: ["Dragón negro joven", "Young Black Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Young Black Dragon|Young Black Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Dragón negro joven

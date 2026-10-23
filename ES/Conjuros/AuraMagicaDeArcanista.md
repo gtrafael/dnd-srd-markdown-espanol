@@ -2,6 +2,9 @@
 aliases: ["Aura mágica de arcanista", "Arcanists Magic Aura"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Arcanists Magic Aura|Arcanists Magic Aura (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
 ---
 
 # Aura mágica de arcanista

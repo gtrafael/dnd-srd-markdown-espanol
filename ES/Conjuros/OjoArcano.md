@@ -2,6 +2,10 @@
 aliases: ["Ojo arcano", "Arcane Eye"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Arcane Eye|Arcane Eye (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Animales/Murcielago|Murciélago]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Ojo arcano

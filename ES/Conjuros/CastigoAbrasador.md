@@ -2,6 +2,9 @@
 aliases: ["Castigo abrasador", "Searing Smite"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Searing Smite|Searing Smite (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Castigo abrasador

@@ -2,6 +2,12 @@
 aliases: ["Manual de gólems", "Manual of Golems"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Manual of Golems|Manual of Golems (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[MonstruosDeLaAALaZ/GolemDeArcilla|Gólem de arcilla]]"
+  - "[[MonstruosDeLaAALaZ/GolemDeCarne|Gólem de carne]]"
+  - "[[MonstruosDeLaAALaZ/GolemDeHierro|Gólem de hierro]]"
+  - "[[MonstruosDeLaAALaZ/GolemDePiedra|Gólem de piedra]]"
 ---
 
 # Manual de gólems

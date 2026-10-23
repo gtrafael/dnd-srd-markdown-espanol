@@ -2,6 +2,10 @@
 aliases: ["Hierro de escarcha"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Frost Brand]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Hierro de escarcha

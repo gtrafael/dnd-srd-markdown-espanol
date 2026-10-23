@@ -2,6 +2,8 @@
 aliases: ["Lobo", "Wolf"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Wolf|Wolf (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Lobo

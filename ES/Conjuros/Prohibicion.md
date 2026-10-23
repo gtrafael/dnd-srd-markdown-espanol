@@ -2,6 +2,10 @@
 aliases: ["Prohibición", "Forbiddance"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Forbiddance|Forbiddance (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Portal|Portal]]"
+  - "[[Conjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
 ---
 
 # Prohibición

@@ -2,6 +2,10 @@
 aliases: ["Nube apestosa", "Stinking Cloud"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Stinking Cloud|Stinking Cloud (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
 ---
 
 # Nube apestosa

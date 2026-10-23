@@ -2,6 +2,8 @@
 aliases: ["Camello", "Camel"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Camel|Camel (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Camello

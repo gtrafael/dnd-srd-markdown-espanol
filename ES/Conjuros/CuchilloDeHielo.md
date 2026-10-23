@@ -2,6 +2,8 @@
 aliases: ["Cuchillo de hielo", "Ice Knife"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Ice Knife|Ice Knife (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Cuchillo de hielo

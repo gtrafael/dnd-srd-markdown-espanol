@@ -2,6 +2,11 @@
 aliases: ["Excursión etérea", "Etherealness"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Etherealness|Etherealness (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Excursión etérea

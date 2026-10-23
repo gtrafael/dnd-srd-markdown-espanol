@@ -2,6 +2,8 @@
 aliases: ["Poción de vitalidad"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Vitality]]"
+wikilinks_auto:
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Poción de vitalidad

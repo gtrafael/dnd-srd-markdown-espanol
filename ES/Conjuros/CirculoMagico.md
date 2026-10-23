@@ -2,6 +2,11 @@
 aliases: ["Círculo mágico", "Magic Circle"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Magic Circle|Magic Circle (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/Teletransporte|Teletransporte]]"
 ---
 
 # Círculo mágico

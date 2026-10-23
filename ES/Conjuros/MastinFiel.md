@@ -2,6 +2,8 @@
 aliases: ["Mastín fiel", "Faithful Hound"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Faithful Hound|Faithful Hound (EN)]]"
+wikilinks_auto:
+  - "[[Animales/Mastin|Mastín]]"
 ---
 
 # Mastín fiel

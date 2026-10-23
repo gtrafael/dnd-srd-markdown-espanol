@@ -2,6 +2,12 @@
 aliases: ["Disfrazarse", "Disguise Self"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Disguise Self|Disguise Self (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Conjuros/Apariencia|Apariencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Disfrazarse

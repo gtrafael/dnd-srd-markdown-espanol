@@ -2,6 +2,9 @@
 aliases: ["Varita de relámpagos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Wand of Lightning Bolts|Wand of Lightning Bolts (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Varita de relámpagos

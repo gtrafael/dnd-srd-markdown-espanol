@@ -2,6 +2,8 @@
 aliases: ["Dotes generales"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Feats/General Feats|General Feats (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Dotes generales

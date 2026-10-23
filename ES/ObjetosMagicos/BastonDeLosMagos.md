@@ -2,6 +2,29 @@
 aliases: ["Bastón de los magos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of the Magi]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[Conjuros/Agrandar_reducir|Agrandar/reducir]]"
+  - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/CerraduraArcana|Cerradura arcana]]"
+  - "[[Conjuros/ConjurarElemental|Conjurar elemental]]"
+  - "[[Conjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/EsferaDeLlamas|Esfera de llamas]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/ManoDeMago|Mano de mago]]"
+  - "[[Conjuros/MuroDeFuego|Muro de fuego]]"
+  - "[[Conjuros/Pasamuros|Pasamuros]]"
+  - "[[Conjuros/ProteccionContraElBienYElMal|Protección contra el bien y el mal]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/Telarana|Telaraña]]"
+  - "[[Conjuros/Telequinesis|Telequinesis]]"
+  - "[[Conjuros/TormentaDeHielo|Tormenta de hielo]]"
 ---
 
 # Bastón de los magos

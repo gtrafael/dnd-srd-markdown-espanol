@@ -2,6 +2,10 @@
 aliases: ["Patrón hipnótico", "Hypnotic Pattern"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Hypnotic Pattern|Hypnotic Pattern (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Patrón hipnótico

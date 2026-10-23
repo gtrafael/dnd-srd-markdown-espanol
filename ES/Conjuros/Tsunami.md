@@ -2,6 +2,9 @@
 aliases: ["Tsunami"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Tsunami|Tsunami (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/Aparicion|Aparición]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Tsunami

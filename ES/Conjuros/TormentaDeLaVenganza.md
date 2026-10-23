@@ -2,6 +2,9 @@
 aliases: ["Tormenta de la venganza", "Storm of Vengeance"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Storm of Vengeance|Storm of Vengeance (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Tormenta de la venganza

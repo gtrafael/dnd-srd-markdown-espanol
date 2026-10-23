@@ -2,6 +2,9 @@
 aliases: ["Regenerar", "Regenerate"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Regenerate|Regenerate (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Regenerar

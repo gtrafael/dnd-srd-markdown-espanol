@@ -2,6 +2,11 @@
 aliases: ["Escudo de fuego", "Fire Shield"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Fire Shield|Fire Shield (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/Escudo|Escudo]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Escudo de fuego

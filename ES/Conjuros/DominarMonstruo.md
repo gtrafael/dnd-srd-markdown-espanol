@@ -2,6 +2,10 @@
 aliases: ["Dominar monstruo", "Dominate Monster"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Dominate Monster|Dominate Monster (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Dominar monstruo

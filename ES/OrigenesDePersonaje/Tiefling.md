@@ -2,6 +2,20 @@
 aliases: ["Tiefling", "Tiefling"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Tiefling|Tiefling (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Taumaturgia|Taumaturgia]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/RociadaVenenosa|Rociada venenosa]]"
+  - "[[Conjuros/RayoNauseabundo|Rayo nauseabundo]]"
+  - "[[Conjuros/InmovilizarPersona|Inmovilizar persona]]"
+  - "[[Conjuros/ToqueHelado|Toque helado]]"
+  - "[[Conjuros/FalsaVida|Falsa vida]]"
+  - "[[Conjuros/RayoDebilitador|Rayo debilitador]]"
+  - "[[Conjuros/DescargaDeFuego|Descarga de fuego]]"
+  - "[[Conjuros/ReprensionInfernal|Reprensión infernal]]"
+  - "[[Conjuros/Oscuridad|Oscuridad]]"
 ---
 
 # Tiefling

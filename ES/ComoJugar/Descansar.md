@@ -2,6 +2,8 @@
 aliases: ["Descansar", "Resting"]
 tags: [srd, espanol, tag_comojugar, recuadro]
 related_en: "[[Playing the Game/Resting|Resting (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
 ---
 # Descansar
 

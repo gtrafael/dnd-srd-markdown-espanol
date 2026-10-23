@@ -2,6 +2,17 @@
 aliases: ["Collar de plegarias", "Necklace of Prayer Beads"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Necklace of Prayer Beads|Necklace of Prayer Beads (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
+  - "[[Conjuros/CastigoBrillante|Castigo brillante]]"
+  - "[[Conjuros/CurarHeridas|Curar heridas]]"
+  - "[[Conjuros/Bendicion|Bendición]]"
+  - "[[Conjuros/ViajarConElViento|Viajar con el viento]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
+  - "[[Conjuros/GuardianDeLaFe|Guardián de la fe]]"
 ---
 
 # Collar de plegarias

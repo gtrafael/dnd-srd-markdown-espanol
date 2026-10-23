@@ -2,6 +2,8 @@
 aliases: ["Varita de parálisis"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Wand of Paralysis|Wand of Paralysis (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Varita de parálisis

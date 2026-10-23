@@ -2,6 +2,11 @@
 aliases: ["El ritmo de juego", "Gameplay"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Rhythm of Play|Rhythm of Play (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Simbolo|Símbolo]]"
+  - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[MonstruosDeLaAALaZ/Noble|Noble]]"
 ---
 
 # El ritmo de juego

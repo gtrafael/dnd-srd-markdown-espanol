@@ -2,6 +2,10 @@
 aliases: ["Piel pétrea", "Stoneskin"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Stoneskin|Stoneskin (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Piel pétrea

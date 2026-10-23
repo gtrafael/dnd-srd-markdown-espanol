@@ -2,6 +2,10 @@
 aliases: ["Las excepciones se imponen a las reglas generales"]
 tags: [srd, espanol, tag_comojugar, recuadro]
 related_en: "[[Playing the Game/Exceptions Supersede General Rules|Exceptions Supersede General Rules (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Las excepciones se imponen a las reglas generales

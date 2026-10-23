@@ -2,6 +2,9 @@
 aliases: ["Semiplano", "Demiplane"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Demiplane|Demiplane (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Semiplano

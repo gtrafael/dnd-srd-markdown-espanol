@@ -2,6 +2,13 @@
 aliases: ["Disipar magia", "Dispel Magic"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Dispel Magic|Dispel Magic (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Disipar magia

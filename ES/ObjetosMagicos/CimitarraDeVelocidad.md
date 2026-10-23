@@ -2,6 +2,8 @@
 aliases: ["Cimitarra de velocidad", "Scimitar of Speed"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Scimitar of Speed|Scimitar of Speed (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Cimitarra de velocidad

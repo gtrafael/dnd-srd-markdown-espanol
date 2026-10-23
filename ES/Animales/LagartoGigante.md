@@ -2,6 +2,10 @@
 aliases: ["Lagarto gigante", "Giant Lizard"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Lizard|Giant Lizard (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
+  - "[[Animales/Lagarto|Lagarto]]"
 ---
 
 # Lagarto gigante

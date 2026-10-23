@@ -2,6 +2,9 @@
 aliases: ["Golpe apresador", "Ensnaring Strike"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Ensnaring Strike|Ensnaring Strike (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Golpe apresador

@@ -2,6 +2,8 @@
 aliases: ["Poción de crecimiento"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Growth]]"
+wikilinks_auto:
+  - "[[Conjuros/Agrandar_reducir|Agrandar/reducir]]"
 ---
 
 # Poción de crecimiento

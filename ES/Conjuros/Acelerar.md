@@ -2,6 +2,8 @@
 aliases: ["Acelerar", "Haste"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Haste|Haste (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Acelerar

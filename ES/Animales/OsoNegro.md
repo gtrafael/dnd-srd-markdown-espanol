@@ -2,6 +2,8 @@
 aliases: ["Oso negro", "Black Bear"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Black Bear|Black Bear (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Oso negro

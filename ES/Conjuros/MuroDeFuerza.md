@@ -2,6 +2,9 @@
 aliases: ["Muro de fuerza", "Wall of Force"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Wall of Force|Wall of Force (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/Desintegrar|Desintegrar]]"
 ---
 
 # Muro de fuerza

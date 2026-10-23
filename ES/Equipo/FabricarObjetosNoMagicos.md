@@ -2,6 +2,9 @@
 aliases: ["Artesania", "Crafting"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Crafting Nonmagical Items|Crafting Nonmagical Items (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Fabricar|Fabricar]]"
+  - "[[Equipo/Herramientas|Herramientas]]"
 ---
 
 # Fabricar objetos no mágicos

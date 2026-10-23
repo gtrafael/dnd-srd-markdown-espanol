@@ -2,6 +2,9 @@
 aliases: ["Crecimiento espinoso", "Spike Growth"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spike Growth|Spike Growth (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Crecimiento espinoso

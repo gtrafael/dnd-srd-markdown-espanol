@@ -2,6 +2,11 @@
 aliases: ["Círculo de teletransportación", "Teleportation Circle"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Teleportation Circle|Teleportation Circle (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Portal|Portal]]"
 ---
 
 # Círculo de teletransportación

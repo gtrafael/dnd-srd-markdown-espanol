@@ -2,6 +2,12 @@
 aliases: ["Clarividencia", "Clairvoyance"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Clairvoyance|Clairvoyance (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/VerInvisibilidad|Ver invisibilidad]]"
 ---
 
 # Clarividencia

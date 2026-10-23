@@ -2,6 +2,12 @@
 aliases: ["Protección contra energía", "Protection from Energy"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Protection from Energy|Protection from Energy (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Protección contra energía

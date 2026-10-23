@@ -2,6 +2,9 @@
 aliases: ["Dominar persona", "Dominate Person"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Dominate Person|Dominate Person (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Dominar persona

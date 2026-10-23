@@ -2,6 +2,9 @@
 aliases: ["Rociada venenosa", "Poison Spray"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Poison Spray|Poison Spray (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Rociada venenosa

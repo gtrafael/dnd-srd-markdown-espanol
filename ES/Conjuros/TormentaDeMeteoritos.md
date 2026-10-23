@@ -2,6 +2,8 @@
 aliases: ["Tormenta de meteoritos", "Meteor Swarm"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Meteor Swarm|Meteor Swarm (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Tormenta de meteoritos

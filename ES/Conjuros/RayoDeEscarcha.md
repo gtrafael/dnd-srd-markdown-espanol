@@ -2,6 +2,9 @@
 aliases: ["Rayo de escarcha", "Ray of Frost"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Ray of Frost|Ray of Frost (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Rayo de escarcha

@@ -2,6 +2,8 @@
 aliases: ["Dotes de estilo de combate"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Feats/Fighting Style Feats|Fighting Style Feats (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Dotes de estilo de combate

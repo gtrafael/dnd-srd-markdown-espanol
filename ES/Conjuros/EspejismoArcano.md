@@ -2,6 +2,8 @@
 aliases: ["Espejismo arcano", "Mirage Arcane"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Mirage Arcane|Mirage Arcane (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
 ---
 
 # Espejismo arcano

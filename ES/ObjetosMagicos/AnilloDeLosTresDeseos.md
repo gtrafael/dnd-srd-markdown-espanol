@@ -2,6 +2,8 @@
 aliases: ["Anillo de los tres deseos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ring of Three Wishes]]"
+wikilinks_auto:
+  - "[[Conjuros/Deseo|Deseo]]"
 ---
 
 # Anillo de los tres deseos

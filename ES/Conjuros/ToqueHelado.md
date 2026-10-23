@@ -2,6 +2,9 @@
 aliases: ["Toque helado", "Chill Touch"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Chill Touch|Chill Touch (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Toque helado

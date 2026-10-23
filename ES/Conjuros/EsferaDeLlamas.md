@@ -2,6 +2,9 @@
 aliases: ["Esfera de llamas", "Flaming Sphere"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Flaming Sphere|Flaming Sphere (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Esfera de llamas

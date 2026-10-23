@@ -2,6 +2,8 @@
 aliases: ["Medallón de los pensamientos", "Medallion of Thoughts"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Medallion of Thoughts|Medallion of Thoughts (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
 ---
 
 # Medallón de los pensamientos

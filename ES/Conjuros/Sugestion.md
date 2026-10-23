@@ -2,6 +2,10 @@
 aliases: ["Sugestión", "Suggestion"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Suggestion|Suggestion (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Sugestión

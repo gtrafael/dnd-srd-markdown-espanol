@@ -2,6 +2,10 @@
 aliases: ["Dragón azul joven", "Young Blue Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Young Blue Dragon|Young Blue Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Dragón azul joven

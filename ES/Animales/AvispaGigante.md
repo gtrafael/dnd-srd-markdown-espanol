@@ -2,6 +2,8 @@
 aliases: ["Avispa gigante", "Giant Wasp"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Wasp|Giant Wasp (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Avispa gigante

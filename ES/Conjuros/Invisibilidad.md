@@ -2,6 +2,10 @@
 aliases: ["Invisibilidad", "Invisibility"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Invisibility|Invisibility (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Invisibilidad

@@ -2,6 +2,8 @@
 aliases: ["Oso polar", "Polar Bear"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Polar Bear|Polar Bear (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Oso polar

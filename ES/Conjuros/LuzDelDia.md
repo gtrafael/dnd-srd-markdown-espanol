@@ -2,6 +2,14 @@
 aliases: ["Luz del día", "Daylight"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Daylight|Daylight (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
+  - "[[Conjuros/Oscuridad|Oscuridad]]"
 ---
 
 # Luz del día

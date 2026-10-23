@@ -2,6 +2,25 @@
 aliases: ["Saga de la noche", "Night Hag"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Night Hag|Night Hag (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Augurio|Augurio]]"
+  - "[[Conjuros/EncontrarFamiliar|Encontrar familiar]]"
+  - "[[Conjuros/Escudrinar|Escudriñar]]"
+  - "[[Conjuros/Identificar|Identificar]]"
+  - "[[Conjuros/LocalizarObjeto|Localizar objeto]]"
+  - "[[Conjuros/SirvienteInvisible|Sirviente invisible]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/ExcursionEterea|Excursión etérea]]"
+  - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"
+  - "[[Conjuros/AsesinoFantasmal|Asesino fantasmal]]"
+  - "[[Conjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
+  - "[[Conjuros/Ensueno|Ensueño]]"
+  - "[[Conjuros/ProteccionContraElBienYElMal|Protección contra el bien y el mal]]"
+  - "[[Conjuros/CirculoMagico|Círculo mágico]]"
 ---
 
 # Saga de la noche

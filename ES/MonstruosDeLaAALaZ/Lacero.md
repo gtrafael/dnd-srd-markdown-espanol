@@ -2,6 +2,10 @@
 aliases: ["Lacero", "Roper"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Roper|Roper (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
+  - "[[Conjuros/Danar|Dañar]]"
 ---
 
 # Lacero

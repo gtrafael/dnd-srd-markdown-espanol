@@ -2,6 +2,10 @@
 aliases: ["Animar objetos", "Animate Objects"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Animate Objects|Animate Objects (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Animar objetos

@@ -2,6 +2,21 @@
 aliases: ["Deva"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Deva|Deva (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Levitar|Levitar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
+  - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"
+  - "[[Conjuros/Comunion|Comunión]]"
+  - "[[Conjuros/Auxilio|Auxilio]]"
+  - "[[Conjuros/CurarHeridas|Curar heridas]]"
+  - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
+  - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
 ---
 
 # Deva

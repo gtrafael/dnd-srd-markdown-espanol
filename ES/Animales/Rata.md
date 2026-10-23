@@ -2,6 +2,8 @@
 aliases: ["Rata", "Rat"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Rat|Rat (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Rata

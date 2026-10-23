@@ -2,6 +2,11 @@
 aliases: ["Auxilio", "Aid"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Aid|Aid (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Auxilio

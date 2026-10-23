@@ -2,6 +2,8 @@
 aliases: ["Tormenta de hielo", "Ice Storm"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Ice Storm|Ice Storm (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Tormenta de hielo

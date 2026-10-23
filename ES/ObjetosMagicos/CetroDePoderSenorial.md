@@ -2,6 +2,10 @@
 aliases: ["Cetro de poder señorial"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Rod of Lordly Might]]"
+wikilinks_auto:
+  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Cetro de poder señorial

@@ -2,6 +2,9 @@
 aliases: ["Rana", "Frog"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Frog|Frog (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Salto|Salto]]"
 ---
 
 # Rana

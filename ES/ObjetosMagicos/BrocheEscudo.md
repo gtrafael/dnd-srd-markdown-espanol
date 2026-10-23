@@ -2,6 +2,9 @@
 aliases: ["Broche escudo", "Brooch of Shielding"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Brooch of Shielding|Brooch of Shielding (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"
 ---
 
 # Broche escudo

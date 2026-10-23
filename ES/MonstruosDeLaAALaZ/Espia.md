@@ -2,6 +2,8 @@
 aliases: ["Espía", "Spy"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Spy|Spy (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Herramientas|Herramientas]]"
 ---
 
 # Espía

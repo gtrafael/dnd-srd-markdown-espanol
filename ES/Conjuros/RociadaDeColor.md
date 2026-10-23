@@ -2,6 +2,9 @@
 aliases: ["Rociada de color", "Color Spray"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Color Spray|Color Spray (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Rociada de color

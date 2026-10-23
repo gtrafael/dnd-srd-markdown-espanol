@@ -2,6 +2,11 @@
 aliases: ["Jaula de fuerza", "Forcecage"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Forcecage|Forcecage (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Conjuros/Teletransporte|Teletransporte]]"
+  - "[[Conjuros/DisiparMagia|Disipar magia]]"
 ---
 
 # Jaula de fuerza

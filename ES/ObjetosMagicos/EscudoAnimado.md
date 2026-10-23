@@ -2,6 +2,8 @@
 aliases: ["Escudo animado", "Animated Shield"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Animated Shield|Animated Shield (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Escudo|Escudo]]"
 ---
 
 # Escudo animado

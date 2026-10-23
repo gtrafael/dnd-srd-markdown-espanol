@@ -2,6 +2,8 @@
 aliases: ["Espada ladrona de vida"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Sword of Life Stealing]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Espada ladrona de vida

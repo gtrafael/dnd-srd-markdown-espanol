@@ -2,6 +2,12 @@
 aliases: ["Deseo", "Wish"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Wish|Wish (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Creacion|Creación]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Deseo

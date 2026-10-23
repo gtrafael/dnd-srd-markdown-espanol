@@ -2,6 +2,10 @@
 aliases: ["Sugestión en masa", "Mass Suggestion"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Mass Suggestion|Mass Suggestion (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Sugestión en masa

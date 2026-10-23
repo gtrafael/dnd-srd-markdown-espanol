@@ -2,6 +2,8 @@
 aliases: ["Rayo debilitador", "Ray of Enfeeblement"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Ray of Enfeeblement|Ray of Enfeeblement (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
 ---
 
 # Rayo debilitador

@@ -2,6 +2,10 @@
 aliases: ["Perdición", "Bane"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Bane|Bane (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Perdición

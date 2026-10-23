@@ -2,6 +2,9 @@
 aliases: ["Rayo de luna", "Moonbeam"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Moonbeam|Moonbeam (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/Polimorfar|Polimorfar]]"
 ---
 
 # Rayo de luna

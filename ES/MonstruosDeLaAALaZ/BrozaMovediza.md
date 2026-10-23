@@ -2,6 +2,8 @@
 aliases: ["Broza movediza", "Shambling Mound"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Shambling Mound|Shambling Mound (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Broza movediza

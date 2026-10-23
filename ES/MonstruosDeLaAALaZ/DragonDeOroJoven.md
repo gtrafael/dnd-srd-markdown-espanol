@@ -2,6 +2,9 @@
 aliases: ["Dragón de oro joven", "Young Gold Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Young Gold Dragon|Young Gold Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Dragón de oro joven

@@ -2,6 +2,9 @@
 aliases: ["Perla de poder", "Pearl of Power"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Pearl of Power|Pearl of Power (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Perla de poder

@@ -2,6 +2,10 @@
 aliases: ["Mephit de vapor", "Steam Mephit"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Steam Mephit|Steam Mephit (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Mephit de vapor

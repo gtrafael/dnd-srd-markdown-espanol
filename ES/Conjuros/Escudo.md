@@ -2,6 +2,9 @@
 aliases: ["Escudo", "Shield"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Shield|Shield (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"
 ---
 
 # Escudo

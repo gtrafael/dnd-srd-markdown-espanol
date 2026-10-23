@@ -2,6 +2,20 @@
 aliases: ["Dragón de plata anciano", "Ancient Silver Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Silver Dragon|Ancient Silver Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/CuchilloDeHielo|Cuchillo de hielo]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/InmovilizarMonstruo|Inmovilizar monstruo]]"
+  - "[[Conjuros/ControlarElClima|Controlar el clima]]"
+  - "[[Conjuros/Teletransporte|Teletransporte]]"
+  - "[[Conjuros/TormentaDeHielo|Tormenta de hielo]]"
+  - "[[Conjuros/ZonaDeLaVerdad|Zona de la verdad]]"
 ---
 
 # Dragón de plata anciano

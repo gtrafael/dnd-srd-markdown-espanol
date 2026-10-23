@@ -2,6 +2,18 @@
 aliases: ["Oni"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Oni|Oni (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Levitar|Levitar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[MonstruosDeLaAALaZ/Pesadilla|Pesadilla]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Dormir|Dormir]]"
+  - "[[Conjuros/FormaGaseosa|Forma gaseosa]]"
+  - "[[Conjuros/HechizarPersona|Hechizar persona]]"
+  - "[[Conjuros/Oscuridad|Oscuridad]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
 ---
 
 # Oni

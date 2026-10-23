@@ -2,6 +2,9 @@
 aliases: ["Enjambre de ratas", "Swarm of Rats"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Swarm of Rats|Swarm of Rats (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Rata|Rata]]"
 ---
 
 # Enjambre de ratas

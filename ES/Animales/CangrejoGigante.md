@@ -2,6 +2,8 @@
 aliases: ["Cangrejo gigante", "Giant Crab"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Crab|Giant Crab (EN)]]"
+wikilinks_auto:
+  - "[[Animales/Cangrejo|Cangrejo]]"
 ---
 
 # Cangrejo gigante

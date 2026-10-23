@@ -2,6 +2,8 @@
 aliases: ["Pasar sin rastro", "Pass without Trace"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Pass without Trace|Pass without Trace (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Pasar sin rastro

@@ -2,6 +2,8 @@
 aliases: ["Rayo abrasador", "Scorching Ray"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Scorching Ray|Scorching Ray (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Rayo abrasador

@@ -2,6 +2,9 @@
 aliases: ["Duende", "Sprite"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Sprite|Sprite (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
 ---
 
 # Duende

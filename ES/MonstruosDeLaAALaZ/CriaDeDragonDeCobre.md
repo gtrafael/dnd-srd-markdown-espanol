@@ -2,6 +2,9 @@
 aliases: ["Cría de dragón de cobre", "Copper Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Copper Dragon Wyrmling|Copper Dragon Wyrmling (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cría de dragón de cobre

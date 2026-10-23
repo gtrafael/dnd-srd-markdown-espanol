@@ -2,6 +2,10 @@
 aliases: ["Trasfondos", "Backgrounds"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Character Backgrounds|Backgrounds (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Simbolo|Símbolo]]"
 ---
 
 # Trasfondos de personaje

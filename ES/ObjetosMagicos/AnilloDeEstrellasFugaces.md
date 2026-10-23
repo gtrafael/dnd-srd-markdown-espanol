@@ -2,6 +2,12 @@
 aliases: ["Anillo de estrellas fugaces"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ring of Shooting Stars]]"
+wikilinks_auto:
+  - "[[Conjuros/LucesDanzantes|Luces danzantes]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/FuegoFeerico|Fuego feérico]]"
 ---
 
 # Anillo de estrellas fugaces

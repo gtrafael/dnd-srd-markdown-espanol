@@ -2,6 +2,10 @@
 aliases: ["Festín de héroes", "Heroes Feast"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Heroes Feast|Heroes Feast (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Festín de héroes

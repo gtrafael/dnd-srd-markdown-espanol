@@ -2,6 +2,15 @@
 aliases: ["Las pruebas con d20"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/D20 Tests]]"
+wikilinks_auto:
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[Conjuros/Enganar|Engañar]]"
+  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[Conjuros/Identificar|Identificar]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Equipo/Propiedades|Propiedades]]"
 ---
 
 # Las pruebas con d20

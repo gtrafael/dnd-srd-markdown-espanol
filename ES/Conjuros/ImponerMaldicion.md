@@ -2,6 +2,9 @@
 aliases: ["Imponer maldición", "Bestow Curse"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Bestow Curse|Bestow Curse (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Imponer maldición

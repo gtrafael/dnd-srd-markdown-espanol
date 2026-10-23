@@ -2,6 +2,8 @@
 aliases: ["Muro de fuego", "Wall of Fire"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Wall of Fire|Wall of Fire (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Muro de fuego

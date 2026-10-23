@@ -2,6 +2,8 @@
 aliases: ["Infligir heridas", "Inflict Wounds"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Inflict Wounds|Inflict Wounds (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Infligir heridas

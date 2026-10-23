@@ -2,6 +2,12 @@
 aliases: ["Oscuridad", "Darkness"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Darkness|Darkness (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Animales/Murcielago|Murciélago]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Oscuridad

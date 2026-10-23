@@ -2,6 +2,8 @@
 aliases: ["Matadragones", "Dragon Slayer"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dragon Slayer|Dragon Slayer (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Matadragones

@@ -2,6 +2,10 @@
 aliases: ["Homúnculo", "Homunculus"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Homunculus|Homunculus (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/EnlaceTelepatico|Enlace telepático]]"
 ---
 
 # Homúnculo

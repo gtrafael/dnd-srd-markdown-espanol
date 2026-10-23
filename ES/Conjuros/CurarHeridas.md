@@ -2,6 +2,11 @@
 aliases: ["Curar heridas", "Cure Wounds"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Cure Wounds|Cure Wounds (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Curar heridas

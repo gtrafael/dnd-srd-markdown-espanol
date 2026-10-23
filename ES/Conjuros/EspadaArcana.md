@@ -2,6 +2,8 @@
 aliases: ["Espada arcana", "Arcane Sword"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Arcane Sword|Arcane Sword (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
 ---
 
 # Espada arcana

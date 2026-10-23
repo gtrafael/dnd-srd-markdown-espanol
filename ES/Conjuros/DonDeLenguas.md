@@ -2,6 +2,12 @@
 aliases: ["Don de lenguas", "Tongues"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Tongues|Tongues (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Don de lenguas

@@ -2,6 +2,18 @@
 aliases: ["Barbaro", "Barbarian"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Barbarian|Barbarian (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Equipo/Armaduras|Armaduras]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Escudo|Escudo]]"
+  - "[[Conjuros/Salto|Salto]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
+  - "[[Equipo/PropiedadesDeMaestria|Propiedades de maestría]]"
+  - "[[MonstruosDeLaAALaZ/Berserker|Berserker]]"
+  - "[[Conjuros/Terror|Terror]]"
 ---
 
 # Bárbaro

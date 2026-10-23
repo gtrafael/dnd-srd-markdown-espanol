@@ -2,6 +2,10 @@
 aliases: ["Pigmentos maravillosos", "Marvelous Pigments"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Marvelous Pigments|Marvelous Pigments (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Conjuros/Creacion|Creación]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Pigmentos maravillosos

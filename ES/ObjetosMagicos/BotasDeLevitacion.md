@@ -2,6 +2,8 @@
 aliases: ["Botas de levitación", "Boots of Levitation"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Boots of Levitation|Boots of Levitation (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Levitar|Levitar]]"
 ---
 
 # Botas de levitación

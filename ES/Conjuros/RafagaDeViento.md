@@ -2,6 +2,9 @@
 aliases: ["Ráfaga de viento", "Gust of Wind"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Gust of Wind|Gust of Wind (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Ráfaga de viento

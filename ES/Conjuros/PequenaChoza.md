@@ -2,6 +2,10 @@
 aliases: ["Pequeña choza", "Tiny Hut"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Tiny Hut|Tiny Hut (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Pequeña choza

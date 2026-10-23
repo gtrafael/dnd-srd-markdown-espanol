@@ -2,6 +2,8 @@
 aliases: ["Cambiar de forma", "Shapechange"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Shapechange|Shapechange (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
 ---
 
 # Cambiar de forma

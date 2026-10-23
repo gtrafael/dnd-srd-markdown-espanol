@@ -2,6 +2,9 @@
 aliases: ["Piel robliza", "Barkskin"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Barkskin|Barkskin (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Apariencia|Apariencia]]"
 ---
 
 # Piel robliza

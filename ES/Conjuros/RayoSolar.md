@@ -2,6 +2,11 @@
 aliases: ["Rayo solar", "Sunbeam"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Sunbeam|Sunbeam (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
 ---
 
 # Rayo solar

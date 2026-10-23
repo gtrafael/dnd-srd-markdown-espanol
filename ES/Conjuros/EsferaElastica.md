@@ -2,6 +2,10 @@
 aliases: ["Esfera elástica", "Resilient Sphere"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Resilient Sphere|Resilient Sphere (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Danar|Dañar]]"
+  - "[[Conjuros/Desintegrar|Desintegrar]]"
 ---
 
 # Esfera elástica

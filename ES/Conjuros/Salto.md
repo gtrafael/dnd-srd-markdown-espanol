@@ -2,6 +2,9 @@
 aliases: ["Salto", "Jump"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Jump|Jump (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Salto

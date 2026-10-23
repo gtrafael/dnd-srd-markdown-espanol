@@ -2,6 +2,10 @@
 aliases: ["Orden imperiosa", "Command"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Command|Command (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Orden imperiosa

@@ -2,6 +2,9 @@
 aliases: ["Dominar bestia", "Dominate Beast"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Dominate Beast|Dominate Beast (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Dominar bestia

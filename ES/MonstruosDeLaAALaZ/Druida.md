@@ -2,6 +2,16 @@
 aliases: ["Druida", "Druid"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Druid|Druid (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/HablarConLosAnimales|Hablar con los animales]]"
+  - "[[Conjuros/SaberDruidico|Saber druídico]]"
+  - "[[Conjuros/Enmaranar|Enmarañar]]"
+  - "[[Conjuros/OlaAtronadora|Ola atronadora]]"
+  - "[[Conjuros/MensajeroAnimal|Mensajero animal]]"
+  - "[[Conjuros/RayoDeLuna|Rayo de luna]]"
+  - "[[Conjuros/ZancadaProdigiosa|Zancada prodigiosa]]"
 ---
 
 # Druida

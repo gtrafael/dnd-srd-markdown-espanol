@@ -2,6 +2,9 @@
 aliases: ["Ampliar y sustituir un libro de conjuros", "Expanding and Replacing a Spellbook"]
 tags: [srd, espanol, tag_clases, recuadro]
 related_en: "[[Classes/Expanding and Replacing a Spellbook|Expanding and Replacing a Spellbook (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[ObjetosMagicos/PergaminoDeConjuro|Pergamino de conjuro]]"
 ---
 # Ampliar y sustituir un libro de conjuros
 

@@ -2,6 +2,8 @@
 aliases: ["Matagigantes", "Giant Slayer"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Giant Slayer|Giant Slayer (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Matagigantes

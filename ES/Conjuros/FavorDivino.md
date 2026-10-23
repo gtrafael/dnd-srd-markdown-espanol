@@ -2,6 +2,9 @@
 aliases: ["Favor divino", "Divine Favor"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Divine Favor|Divine Favor (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Favor divino

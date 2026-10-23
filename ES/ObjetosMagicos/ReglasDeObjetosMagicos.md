@@ -2,6 +2,8 @@
 aliases: ["Reglas de objetos mágicos", "Magic Item Rules"]
 tags: [srd, espanol, tag_tesoro, recuadro]
 related_en: "[[Magic Items/Magic Item Rules|Magic Item Rules (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 # Reglas de objetos mágicos
 

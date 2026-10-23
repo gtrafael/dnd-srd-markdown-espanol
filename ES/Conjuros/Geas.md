@@ -2,6 +2,14 @@
 aliases: ["Geas"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Geas|Geas (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/Deseo|Deseo]]"
+  - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Geas

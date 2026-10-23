@@ -2,6 +2,17 @@
 aliases: ["Herramientas", "Tools"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Tools|Tools (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Fabricar|Fabricar]]"
+  - "[[Equipo/FabricarObjetosNoMagicos|Fabricar objetos no mágicos]]"
+  - "[[Equipo/ElaborarPocionesDeCuracion|Elaborar pociones de curación]]"
+  - "[[Equipo/ElaborarPergaminosDeConjuro|Elaborar pergaminos de conjuro]]"
+  - "[[Conjuros/Simbolo|Símbolo]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Equipo/Armaduras|Armaduras]]"
+  - "[[Conjuros/Identificar|Identificar]]"
+  - "[[ObjetosMagicos/PergaminoDeConjuro|Pergamino de conjuro]]"
+  - "[[Conjuros/Disfrazarse|Disfrazarse]]"
 ---
 
 # Herramientas

@@ -2,6 +2,8 @@
 aliases: ["Defensora", "Defender"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Defender|Defender (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Defensora

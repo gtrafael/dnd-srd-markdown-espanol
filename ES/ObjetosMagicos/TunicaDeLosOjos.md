@@ -2,6 +2,10 @@
 aliases: ["Túnica de los ojos", "Robe of Eyes"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Robe of Eyes|Robe of Eyes (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/LuzDelDia|Luz del día]]"
 ---
 
 # Túnica de los ojos

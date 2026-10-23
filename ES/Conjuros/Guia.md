@@ -2,6 +2,9 @@
 aliases: ["Guía", "Guidance"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Guidance|Guidance (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Guía

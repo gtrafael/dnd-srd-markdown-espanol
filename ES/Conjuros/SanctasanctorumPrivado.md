@@ -2,6 +2,11 @@
 aliases: ["Sanctasanctórum privado", "Private Sanctum"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Private Sanctum|Private Sanctum (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Adivinacion|Adivinación]]"
 ---
 
 # Sanctasanctórum privado

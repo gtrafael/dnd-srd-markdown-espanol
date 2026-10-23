@@ -2,6 +2,8 @@
 aliases: ["Pegaso", "Pegasus"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Pegasus|Pegasus (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Pegaso

@@ -2,6 +2,9 @@
 aliases: ["Ralentizar", "Slow"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Slow|Slow (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Ralentizar

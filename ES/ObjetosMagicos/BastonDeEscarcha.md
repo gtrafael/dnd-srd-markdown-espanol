@@ -2,6 +2,15 @@
 aliases: ["Bastón de escarcha"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Frost]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/ConoDeFrio|Cono de frío]]"
+  - "[[Conjuros/MuroDeHielo|Muro de hielo]]"
+  - "[[Conjuros/NubeDeOscurecimiento|Nube de oscurecimiento]]"
+  - "[[Conjuros/TormentaDeHielo|Tormenta de hielo]]"
 ---
 
 # Bastón de escarcha

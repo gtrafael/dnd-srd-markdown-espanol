@@ -2,6 +2,10 @@
 aliases: ["Bastón de truenos y relámpagos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Thunder and Lightning]]"
+wikilinks_auto:
+  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Bastón de truenos y relámpagos

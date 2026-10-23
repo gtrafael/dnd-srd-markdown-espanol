@@ -2,6 +2,8 @@
 aliases: ["Conjurar animales", "Conjure Animals"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Conjure Animals|Conjure Animals (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Conjurar animales

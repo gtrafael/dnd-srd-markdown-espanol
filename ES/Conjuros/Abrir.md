@@ -2,6 +2,10 @@
 aliases: ["Abrir", "Knock"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Knock|Knock (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/CerraduraArcana|Cerradura arcana]]"
 ---
 
 # Abrir

@@ -2,6 +2,9 @@
 aliases: ["Labia", "Glibness"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Glibness|Glibness (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
 ---
 
 # Labia

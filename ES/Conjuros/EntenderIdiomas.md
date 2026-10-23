@@ -2,6 +2,11 @@
 aliases: ["Entender idiomas", "Comprehend Languages"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Comprehend Languages|Comprehend Languages (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Entender idiomas

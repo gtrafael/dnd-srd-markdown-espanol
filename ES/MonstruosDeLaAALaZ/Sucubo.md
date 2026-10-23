@@ -2,6 +2,12 @@
 aliases: ["Súcubo", "Succubus"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Succubus|Succubus (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[MonstruosDeLaAALaZ/Incubo|Íncubo]]"
+  - "[[Conjuros/DominarPersona|Dominar persona]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Súcubo

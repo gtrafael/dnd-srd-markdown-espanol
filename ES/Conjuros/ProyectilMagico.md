@@ -2,6 +2,8 @@
 aliases: ["Proyectil mágico", "Magic Missile"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Magic Missile|Magic Missile (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Proyectil mágico

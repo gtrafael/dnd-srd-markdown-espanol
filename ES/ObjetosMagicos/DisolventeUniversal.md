@@ -2,6 +2,8 @@
 aliases: ["Disolvente universal", "Universal Solvent"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Universal Solvent|Universal Solvent (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/PegamentoSoberano|Pegamento soberano]]"
 ---
 
 # Disolvente universal

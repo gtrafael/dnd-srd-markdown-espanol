@@ -2,6 +2,14 @@
 aliases: ["Localizar objeto", "Locate Object"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Locate Object|Locate Object (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Localizar objeto

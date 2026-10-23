@@ -2,6 +2,8 @@
 aliases: ["Alarma", "Alarm"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Alarm|Alarm (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Alarma

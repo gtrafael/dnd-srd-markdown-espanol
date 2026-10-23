@@ -2,6 +2,10 @@
 aliases: ["Agrandar_reducir", "Enlarge-Reduce"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Enlarge-Reduce|Enlarge-Reduce (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Agrandar/reducir

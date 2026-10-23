@@ -2,6 +2,11 @@
 aliases: ["Insecto gigante", "Giant Insect"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Giant Insect|Giant Insect (EN)]]"
+wikilinks_auto:
+  - "[[Animales/Arana|Araña]]"
+  - "[[Animales/CiempiesGigante|Ciempiés gigante]]"
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Insecto gigante

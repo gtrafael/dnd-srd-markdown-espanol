@@ -2,6 +2,9 @@
 aliases: ["Behir"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Behir|Behir (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Behir

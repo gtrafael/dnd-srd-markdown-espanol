@@ -2,6 +2,11 @@
 aliases: ["Protección contra veneno", "Protection from Poison"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Protection from Poison|Protection from Poison (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Protección contra veneno

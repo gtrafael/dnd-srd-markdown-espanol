@@ -2,6 +2,9 @@
 aliases: ["Esfera congelante", "Freezing Sphere"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Freezing Sphere|Freezing Sphere (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Esfera congelante

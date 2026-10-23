@@ -2,6 +2,13 @@
 aliases: ["Aparición", "Wraith"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Wraith|Wraith (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Levitar|Levitar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
+  - "[[MonstruosDeLaAALaZ/Espectro|Espectro]]"
 ---
 
 # Aparición

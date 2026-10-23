@@ -2,6 +2,11 @@
 aliases: ["Ensueño", "Dream"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Dream|Dream (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Conjuros/Despertar|Despertar]]"
+  - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 
 # Ensueño

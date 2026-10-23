@@ -2,6 +2,11 @@
 aliases: ["Luces danzantes", "Dancing Lights"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Dancing Lights|Dancing Lights (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Apariencia|Apariencia]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Luces danzantes

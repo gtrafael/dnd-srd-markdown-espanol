@@ -2,6 +2,10 @@
 aliases: ["Controlar agua", "Control Water"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Control Water|Control Water (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Controlar agua

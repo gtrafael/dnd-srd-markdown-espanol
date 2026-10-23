@@ -2,6 +2,11 @@
 aliases: ["Fuerza fantasmal", "Phantasmal Force"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Phantasmal Force|Phantasmal Force (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[MonstruosDeLaAALaZ/Fantasma|Fantasma]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Fuerza fantasmal

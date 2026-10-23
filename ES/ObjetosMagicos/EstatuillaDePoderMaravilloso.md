@@ -2,6 +2,24 @@
 aliases: ["Estatuilla de poder maravilloso"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Figurine of Wondrous Power]]"
+wikilinks_auto:
+  - "[[Animales/Buho|Búho]]"
+  - "[[Animales/BuhoGigante|Búho gigante]]"
+  - "[[Animales/Cabra|Cabra]]"
+  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[Animales/CabraGigante|Cabra gigante]]"
+  - "[[Animales/CaballoDeMonta|Caballo de monta]]"
+  - "[[Conjuros/Terror|Terror]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[MonstruosDeLaAALaZ/Pesadilla|Pesadilla]]"
+  - "[[Animales/Cuervo|Cuervo]]"
+  - "[[Conjuros/MensajeroAnimal|Mensajero animal]]"
+  - "[[Animales/Elefante|Elefante]]"
+  - "[[MonstruosDeLaAALaZ/Grifo|Grifo]]"
+  - "[[Animales/Leon|León]]"
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Mastin|Mastín]]"
 ---
 
 # Estatuilla de poder maravilloso

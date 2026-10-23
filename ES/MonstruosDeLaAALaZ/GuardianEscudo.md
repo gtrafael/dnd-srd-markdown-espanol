@@ -2,6 +2,9 @@
 aliases: ["Guardián escudo", "Shield Guardian"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Shield Guardian|Shield Guardian (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Guardián escudo

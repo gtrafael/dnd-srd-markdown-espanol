@@ -2,6 +2,9 @@
 aliases: ["Enano", "Dwarf"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Dwarf|Dwarf (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Enano

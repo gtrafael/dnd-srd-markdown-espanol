@@ -2,6 +2,9 @@
 aliases: ["Cuenco para controlar elementales de agua", "Bowl of Commanding Water Elementals"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Bowl of Commanding Water Elementals|Bowl of Commanding Water Elementals (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/ElementalDeAgua|Elemental de agua]]"
+  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Cuenco para controlar elementales de agua

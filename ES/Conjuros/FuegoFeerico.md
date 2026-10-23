@@ -2,6 +2,9 @@
 aliases: ["Fuego feérico", "Faerie Fire"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Faerie Fire|Faerie Fire (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Fuego feérico

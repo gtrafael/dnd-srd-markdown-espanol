@@ -2,6 +2,14 @@
 aliases: ["Combate", "Combat"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Combat|Combat (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/Creacion|Creación]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Danar|Dañar]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Combate

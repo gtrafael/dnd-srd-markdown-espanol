@@ -2,6 +2,10 @@
 aliases: ["Polvo de estornudar y atragantarse", "Dust of Sneezing and Choking"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dust of Sneezing and Choking|Dust of Sneezing and Choking (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/PolvoDeDesaparicion|Polvo de desaparición]]"
+  - "[[Conjuros/Identificar|Identificar]]"
+  - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
 ---
 
 # Polvo de estornudar y atragantarse

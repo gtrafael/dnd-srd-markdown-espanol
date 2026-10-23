@@ -2,6 +2,8 @@
 aliases: ["Murciélago gigante", "Giant Bat"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Bat|Giant Bat (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Murciélago gigante

@@ -2,6 +2,8 @@
 aliases: ["Cerradura arcana", "Arcane Lock"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Arcane Lock|Arcane Lock (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Abrir|Abrir]]"
 ---
 
 # Cerradura arcana

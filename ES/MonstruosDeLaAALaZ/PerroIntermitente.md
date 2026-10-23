@@ -2,6 +2,9 @@
 aliases: ["Perro intermitente", "Blink Dog"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Blink Dog|Blink Dog (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Teletransporte|Teletransporte]]"
 ---
 
 # Perro intermitente

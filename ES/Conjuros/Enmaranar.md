@@ -2,6 +2,9 @@
 aliases: ["Enmarañar", "Entangle"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Entangle|Entangle (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Enmarañar

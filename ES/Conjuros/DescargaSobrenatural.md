@@ -2,6 +2,8 @@
 aliases: ["Descarga sobrenatural", "Eldritch Blast"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Eldritch Blast|Eldritch Blast (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
 ---
 
 # Descarga sobrenatural

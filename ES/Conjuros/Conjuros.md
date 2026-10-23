@@ -2,6 +2,8 @@
 aliases: ["Spells"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spells|Spells (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Conjuros

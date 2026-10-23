@@ -2,6 +2,10 @@
 aliases: ["Despertar", "Awaken"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Awaken|Awaken (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[MonstruosDeLaAALaZ/ArbustoDespertado|Arbusto despertado]]"
+  - "[[MonstruosDeLaAALaZ/ArbolDespertado|Árbol despertado]]"
 ---
 
 # Despertar

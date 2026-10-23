@@ -2,6 +2,10 @@
 aliases: ["Dotes de origen"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Feats/Origin Feats|Origin Feats (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Dotes de origen

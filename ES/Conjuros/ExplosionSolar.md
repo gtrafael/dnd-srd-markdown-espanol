@@ -2,6 +2,12 @@
 aliases: ["Explosión solar", "Sunburst"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Sunburst|Sunburst (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
+  - "[[Conjuros/Oscuridad|Oscuridad]]"
 ---
 
 # Explosión solar

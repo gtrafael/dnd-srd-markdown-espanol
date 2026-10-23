@@ -2,6 +2,10 @@
 aliases: ["Alterar los recuerdos", "Modify Memory"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Modify Memory|Modify Memory (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---
 
 # Alterar los recuerdos

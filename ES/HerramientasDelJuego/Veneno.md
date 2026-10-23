@@ -2,6 +2,14 @@
 aliases: ["Venenos", "Poisons"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Poison|Poisons (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Animales/Arana|Araña]]"
+  - "[[MonstruosDeLaAALaZ/Asesino|Asesino]]"
+  - "[[Conjuros/Curar|Curar]]"
+  - "[[MonstruosDeLaAALaZ/Guiverno|Guiverno]]"
+  - "[[MonstruosDeLaAALaZ/GusanoPurpura|Gusano púrpura]]"
 ---
 
 # Veneno

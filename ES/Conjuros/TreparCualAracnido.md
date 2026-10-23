@@ -2,6 +2,10 @@
 aliases: ["Trepar cual arácnido", "Spider Climb"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spider Climb|Spider Climb (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Animales/Arana|Araña]]"
 ---
 
 # Trepar cual arácnido

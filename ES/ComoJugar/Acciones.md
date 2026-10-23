@@ -2,6 +2,11 @@
 aliases: ["Acciones"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Actions]]"
+wikilinks_auto:
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Conjuros/DetectarTrampas|Detectar trampas]]"
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Acciones

@@ -2,6 +2,12 @@
 aliases: ["Balor"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Balor|Balor (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Teletransporte|Teletransporte]]"
 ---
 
 # Balor

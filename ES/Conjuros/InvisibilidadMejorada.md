@@ -2,6 +2,9 @@
 aliases: ["Invisibilidad mejorada", "Greater Invisibility"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Greater Invisibility|Greater Invisibility (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Invisibilidad mejorada

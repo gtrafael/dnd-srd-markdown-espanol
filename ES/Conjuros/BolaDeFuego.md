@@ -2,6 +2,9 @@
 aliases: ["Bola de fuego", "Fireball"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Fireball|Fireball (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Animales/Murcielago|Murciélago]]"
 ---
 
 # Bola de fuego

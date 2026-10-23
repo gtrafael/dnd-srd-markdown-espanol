@@ -2,6 +2,10 @@
 aliases: ["Telaraña", "Web"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Web|Web (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Animales/Arana|Araña]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Telaraña

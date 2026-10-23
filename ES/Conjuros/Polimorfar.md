@@ -2,6 +2,10 @@
 aliases: ["Polimorfar", "Polymorph"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Polymorph|Polymorph (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Polimorfar

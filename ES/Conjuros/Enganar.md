@@ -2,6 +2,10 @@
 aliases: ["Engañar", "Mislead"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Mislead|Mislead (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
 ---
 
 # Engañar

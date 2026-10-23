@@ -2,6 +2,12 @@
 aliases: ["Invocar dragón", "Summon Dragon"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Summon Dragon|Summon Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Invocar dragón

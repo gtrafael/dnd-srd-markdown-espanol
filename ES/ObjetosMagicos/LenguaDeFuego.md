@@ -2,6 +2,9 @@
 aliases: ["Lengua de fuego", "Flame Tongue"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Flame Tongue|Flame Tongue (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Lengua de fuego

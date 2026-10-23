@@ -2,6 +2,10 @@
 aliases: ["Texto ilusorio", "Illusory Script"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Illusory Script|Illusory Script (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 
 # Texto ilusorio

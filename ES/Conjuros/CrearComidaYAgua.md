@@ -2,6 +2,9 @@
 aliases: ["Crear comida y agua", "Create Food and Water"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Create Food and Water|Create Food and Water (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Crear comida y agua

@@ -2,6 +2,8 @@
 aliases: ["Buitre", "Vulture"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Vulture|Vulture (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Buitre

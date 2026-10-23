@@ -2,6 +2,9 @@
 aliases: ["Proyección astral", "Astral Projection"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Astral Projection|Astral Projection (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Proyección astral

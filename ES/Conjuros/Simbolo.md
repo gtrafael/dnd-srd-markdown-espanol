@@ -2,6 +2,13 @@
 aliases: ["Símbolo", "Symbol"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Symbol|Symbol (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/Terror|Terror]]"
 ---
 
 # Símbolo

@@ -2,6 +2,9 @@
 aliases: ["Zancada prodigiosa", "Longstrider"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Longstrider|Longstrider (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Zancada prodigiosa

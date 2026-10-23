@@ -2,6 +2,11 @@
 aliases: ["Pegamento soberano", "Sovereign Glue"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Sovereign Glue|Sovereign Glue (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/AceiteEscurridizo|Aceite escurridizo]]"
+  - "[[ObjetosMagicos/DisolventeUniversal|Disolvente universal]]"
+  - "[[ObjetosMagicos/AceiteDeEtereidad|Aceite de etereidad]]"
+  - "[[Conjuros/Deseo|Deseo]]"
 ---
 
 # Pegamento soberano

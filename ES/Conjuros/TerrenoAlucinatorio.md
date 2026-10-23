@@ -2,6 +2,10 @@
 aliases: ["Terreno alucinatorio", "Hallucinatory Terrain"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Hallucinatory Terrain|Hallucinatory Terrain (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Terreno alucinatorio

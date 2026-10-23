@@ -2,6 +2,8 @@
 aliases: ["Manos ardientes", "Burning Hands"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Burning Hands|Burning Hands (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Manos ardientes

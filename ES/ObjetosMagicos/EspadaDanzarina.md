@@ -2,6 +2,9 @@
 aliases: ["Espada danzarina"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dancing Sword]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
+  - "[[Conjuros/Levitar|Levitar]]"
 ---
 
 # Espada danzarina

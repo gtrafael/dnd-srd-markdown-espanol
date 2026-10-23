@@ -2,6 +2,11 @@
 aliases: ["Detectar pensamientos", "Detect Thoughts"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Detect Thoughts|Detect Thoughts (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Detectar pensamientos

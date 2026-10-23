@@ -2,6 +2,11 @@
 aliases: ["Ilusión programada", "Programmed Illusion"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Programmed Illusion|Programmed Illusion (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Enganar|Engañar]]"
 ---
 
 # Ilusión programada

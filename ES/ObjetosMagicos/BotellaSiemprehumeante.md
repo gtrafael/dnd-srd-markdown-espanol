@@ -2,6 +2,9 @@
 aliases: ["Botella siemprehumeante", "Eversmoking Bottle"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Eversmoking Bottle|Eversmoking Bottle (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
 ---
 
 # Botella siemprehumeante

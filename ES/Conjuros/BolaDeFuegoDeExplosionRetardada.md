@@ -2,6 +2,10 @@
 aliases: ["Bola de fuego de explosión retardada", "Delayed Blast Fireball"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Delayed Blast Fireball|Delayed Blast Fireball (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Animales/Murcielago|Murciélago]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Bola de fuego de explosión retardada

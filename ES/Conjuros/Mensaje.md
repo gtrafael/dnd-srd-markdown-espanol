@@ -2,6 +2,10 @@
 aliases: ["Mensaje", "Message"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Message|Message (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Silencio|Silencio]]"
 ---
 
 # Mensaje

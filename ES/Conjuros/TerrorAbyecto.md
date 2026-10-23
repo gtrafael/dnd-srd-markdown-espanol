@@ -2,6 +2,8 @@
 aliases: ["Terror abyecto", "Weird"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Weird|Weird (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
 ---
 
 # Terror abyecto

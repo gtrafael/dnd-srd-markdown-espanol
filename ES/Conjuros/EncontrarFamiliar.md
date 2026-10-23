@@ -2,6 +2,18 @@
 aliases: ["Encontrar familiar", "Find Familiar"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Find Familiar|Find Familiar (EN)]]"
+wikilinks_auto:
+  - "[[Animales/Arana|Araña]]"
+  - "[[Animales/Buho|Búho]]"
+  - "[[Animales/Comadreja|Comadreja]]"
+  - "[[Animales/Cuervo|Cuervo]]"
+  - "[[Animales/Gato|Gato]]"
+  - "[[Animales/Halcon|Halcón]]"
+  - "[[Animales/Lagarto|Lagarto]]"
+  - "[[Animales/Murcielago|Murciélago]]"
+  - "[[Animales/Pulpo|Pulpo]]"
+  - "[[Animales/Rana|Rana]]"
+  - "[[Animales/Rata|Rata]]"
 ---
 
 # Encontrar familiar

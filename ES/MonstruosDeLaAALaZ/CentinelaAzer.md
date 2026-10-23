@@ -2,6 +2,8 @@
 aliases: ["Centinela azer", "Azer Sentinel"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Azer Sentinel|Azer Sentinel (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Centinela azer

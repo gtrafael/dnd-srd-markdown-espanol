@@ -2,6 +2,8 @@
 aliases: ["Cieno gris", "Gray Ooze"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Gray Ooze|Gray Ooze (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Reparar|Reparar]]"
 ---
 
 # Cieno gris

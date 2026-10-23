@@ -2,6 +2,8 @@
 aliases: ["Arma +1, +2 o +3"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Weapon, +1, +2, or +3|Weapon, +1, +2, or +3 (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Arma +1, +2 o +3

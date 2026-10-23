@@ -2,6 +2,11 @@
 aliases: ["Yelmo de telepatía", "Helm of Telepathy"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Helm of Telepathy|Helm of Telepathy (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
+  - "[[Conjuros/Sugestion|Sugestión]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Yelmo de telepatía

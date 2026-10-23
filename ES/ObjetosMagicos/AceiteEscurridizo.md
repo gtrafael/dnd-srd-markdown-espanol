@@ -2,6 +2,9 @@
 aliases: ["Aceite escurridizo", "Oil of Slipperiness"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Oil of Slipperiness|Oil of Slipperiness (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/LibertadDeMovimiento|Libertad de movimiento]]"
+  - "[[Conjuros/Grasa|Grasa]]"
 ---
 
 # Aceite escurridizo

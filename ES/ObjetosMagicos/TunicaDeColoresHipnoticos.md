@@ -2,6 +2,8 @@
 aliases: ["Túnica de colores hipnóticos", "Robe of Scintillating Colors"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Robe of Scintillating Colors|Robe of Scintillating Colors (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Túnica de colores hipnóticos

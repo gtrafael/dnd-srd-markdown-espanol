@@ -2,6 +2,13 @@
 aliases: ["Glifo custodio", "Glyph of Warding"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Glyph of Warding|Glyph of Warding (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/Creacion|Creación]]"
 ---
 
 # Glifo custodio

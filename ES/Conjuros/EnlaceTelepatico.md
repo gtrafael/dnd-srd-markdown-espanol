@@ -2,6 +2,9 @@
 aliases: ["Enlace telepático", "Telepathic Bond"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Telepathic Bond|Telepathic Bond (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
 ---
 
 # Enlace telepático

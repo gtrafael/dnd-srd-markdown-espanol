@@ -2,6 +2,22 @@
 aliases: ["Dragón de bronce adulto", "Adult Bronze Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Bronze Dragon|Adult Bronze Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/SaetaGuia|Saeta guía]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/HablarConLosAnimales|Hablar con los animales]]"
+  - "[[Conjuros/Taumaturgia|Taumaturgia]]"
+  - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
+  - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/Guia|Guía]]"
 ---
 
 # Dragón de bronce adulto

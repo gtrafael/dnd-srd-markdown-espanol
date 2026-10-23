@@ -2,6 +2,9 @@
 aliases: ["Martillo arrojadizo enano", "Dwarven Thrower"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dwarven Thrower|Dwarven Thrower (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/CinturonEnano|Cinturón enano]]"
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Martillo arrojadizo enano

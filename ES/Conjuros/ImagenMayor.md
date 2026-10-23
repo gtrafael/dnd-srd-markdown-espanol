@@ -2,6 +2,13 @@
 aliases: ["Imagen mayor", "Major Image"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Major Image|Major Image (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Apariencia|Apariencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Enganar|Engañar]]"
 ---
 
 # Imagen mayor

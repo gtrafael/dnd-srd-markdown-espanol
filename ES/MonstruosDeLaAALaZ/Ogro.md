@@ -2,6 +2,8 @@
 aliases: ["Ogro", "Ogre"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ogre|Ogre (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Ogro

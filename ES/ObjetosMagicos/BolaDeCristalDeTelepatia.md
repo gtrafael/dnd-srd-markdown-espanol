@@ -2,6 +2,10 @@
 aliases: ["Bola de cristal de telepatía", "Crystal Ball of Telepathy"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Crystal Ball of Telepathy|Crystal Ball of Telepathy (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Escudrinar|Escudriñar]]"
+  - "[[Conjuros/Sugestion|Sugestión]]"
+  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Bola de cristal de telepatía

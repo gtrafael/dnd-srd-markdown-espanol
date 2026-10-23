@@ -2,6 +2,12 @@
 aliases: ["Mensajero animal", "Animal Messenger"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Animal Messenger|Animal Messenger (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Mensaje|Mensaje]]"
+  - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Mensajero animal

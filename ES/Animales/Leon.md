@@ -2,6 +2,9 @@
 aliases: ["León", "Lion"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Lion|Lion (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Salto|Salto]]"
 ---
 
 # León

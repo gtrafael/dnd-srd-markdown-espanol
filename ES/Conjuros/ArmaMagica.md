@@ -2,6 +2,10 @@
 aliases: ["Arma mágica", "Magic Weapon"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Magic Weapon|Magic Weapon (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Arma mágica

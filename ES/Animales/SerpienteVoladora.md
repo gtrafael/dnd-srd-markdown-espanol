@@ -2,6 +2,8 @@
 aliases: ["Serpiente voladora", "Flying Snake"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Flying Snake|Flying Snake (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Serpiente voladora

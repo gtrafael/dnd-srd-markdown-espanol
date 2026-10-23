@@ -2,6 +2,21 @@
 aliases: ["Mago", "Mage"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Mage|Mage (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/ArmaduraDeMago|Armadura de mago]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/ManoDeMago|Mano de mago]]"
+  - "[[Conjuros/Prestidigitacion|Prestidigitación]]"
+  - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[Conjuros/ConoDeFrio|Cono de frío]]"
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/PasoBrumoso|Paso brumoso]]"
+  - "[[Conjuros/Contrahechizo|Contrahechizo]]"
+  - "[[Conjuros/Escudo|Escudo]]"
 ---
 
 # Mago

@@ -2,6 +2,9 @@
 aliases: ["Orbe cromático", "Chromatic Orb"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Chromatic Orb|Chromatic Orb (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Orbe cromático

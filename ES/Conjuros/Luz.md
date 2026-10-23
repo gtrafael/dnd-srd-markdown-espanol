@@ -2,6 +2,10 @@
 aliases: ["Luz", "Light"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Light|Light (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Luz

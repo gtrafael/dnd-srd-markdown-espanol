@@ -2,6 +2,10 @@
 aliases: ["Bolsa de contención", "Bag of Holding"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Bag of Holding|Bag of Holding (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/AgujeroPortatil|Agujero portátil]]"
+  - "[[ObjetosMagicos/MorralPractico|Morral práctico]]"
+  - "[[Conjuros/Portal|Portal]]"
 ---
 
 # Bolsa de contención

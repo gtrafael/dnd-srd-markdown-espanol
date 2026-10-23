@@ -2,6 +2,9 @@
 aliases: ["Chuul"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Chuul|Chuul (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
 ---
 
 # Chuul

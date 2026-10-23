@@ -2,6 +2,8 @@
 aliases: ["Arma espiritual", "Spiritual Weapon"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spiritual Weapon|Spiritual Weapon (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Arma espiritual

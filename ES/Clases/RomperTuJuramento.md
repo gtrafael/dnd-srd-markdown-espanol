@@ -2,6 +2,8 @@
 aliases: ["Romper tu juramento", "Breaking Your Oath"]
 tags: [srd, espanol, tag_clases, recuadro]
 related_en: "[[Classes/Breaking Your Oath|Breaking Your Oath (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Paladin|Paladín]]"
 ---
 # Romper tu juramento
 

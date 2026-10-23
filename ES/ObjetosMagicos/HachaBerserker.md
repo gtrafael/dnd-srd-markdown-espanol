@@ -2,6 +2,9 @@
 aliases: ["Hacha berserker", "Berserker Axe"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Berserker Axe|Berserker Axe (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
+  - "[[Equipo/Armas|Armas]]"
 ---
 
 # Hacha berserker

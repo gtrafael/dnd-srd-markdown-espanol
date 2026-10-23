@@ -2,6 +2,9 @@
 aliases: ["Risa horrible", "Hideous Laughter"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Hideous Laughter|Hideous Laughter (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
 ---
 
 # Risa horrible

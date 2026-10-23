@@ -2,6 +2,9 @@
 aliases: ["Embelesar", "Enthrall"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Enthrall|Enthrall (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
 ---
 
 # Embelesar

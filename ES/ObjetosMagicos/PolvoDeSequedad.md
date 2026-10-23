@@ -2,6 +2,8 @@
 aliases: ["Polvo de sequedad", "Dust of Dryness"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dust of Dryness|Dust of Dryness (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/ElementalDeAgua|Elemental de agua]]"
 ---
 
 # Polvo de sequedad

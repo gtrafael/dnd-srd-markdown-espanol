@@ -2,6 +2,8 @@
 aliases: ["Laberinto", "Maze"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Maze|Maze (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Semiplano|Semiplano]]"
 ---
 
 # Laberinto

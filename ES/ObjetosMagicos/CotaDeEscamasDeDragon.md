@@ -2,6 +2,10 @@
 aliases: ["Cota de escamas de dragón", "Dragon Scale Mail"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dragon Scale Mail|Dragon Scale Mail (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Cota de escamas de dragón

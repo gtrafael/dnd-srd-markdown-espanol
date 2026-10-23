@@ -2,6 +2,10 @@
 aliases: ["Espada solar", "Sun Blade"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Sun Blade|Sun Blade (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
 ---
 
 # Espada solar

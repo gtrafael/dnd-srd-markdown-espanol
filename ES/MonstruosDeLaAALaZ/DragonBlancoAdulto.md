@@ -2,6 +2,12 @@
 aliases: ["Dragón blanco adulto", "Adult White Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult White Dragon|Adult White Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Terror|Terror]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Dragón blanco adulto

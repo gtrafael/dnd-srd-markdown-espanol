@@ -2,6 +2,8 @@
 aliases: ["Desplazamiento", "Blink"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Blink|Blink (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Desplazamiento

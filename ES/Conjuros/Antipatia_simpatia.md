@@ -2,6 +2,8 @@
 aliases: ["Antipatía_simpatía", "Antipathy-Sympathy"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Antipathy-Sympathy|Antipathy-Sympathy (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
 ---
 
 # Antipatía/simpatía

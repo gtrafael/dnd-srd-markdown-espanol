@@ -2,6 +2,8 @@
 aliases: ["Falsa vida", "False Life"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/False Life|False Life (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Falsa vida

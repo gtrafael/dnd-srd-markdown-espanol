@@ -2,6 +2,9 @@
 aliases: ["Armadura", "Armor"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Armor|Armor (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Escudo|Escudo]]"
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Armaduras

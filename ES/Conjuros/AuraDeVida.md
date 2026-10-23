@@ -2,6 +2,10 @@
 aliases: ["Aura de vida", "Aura of Life"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Aura of Life|Aura of Life (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Aura de vida

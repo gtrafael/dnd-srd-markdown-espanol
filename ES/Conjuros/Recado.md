@@ -2,6 +2,11 @@
 aliases: ["Recado", "Sending"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Sending|Sending (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 
 # Recado

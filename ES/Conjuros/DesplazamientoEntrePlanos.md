@@ -2,6 +2,11 @@
 aliases: ["Desplazamiento entre planos", "Plane Shift"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Plane Shift|Plane Shift (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/CirculoDeTeletransportacion|Círculo de teletransportación]]"
 ---
 
 # Desplazamiento entre planos

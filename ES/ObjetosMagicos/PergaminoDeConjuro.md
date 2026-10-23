@@ -2,6 +2,8 @@
 aliases: ["Pergamino de conjuro"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Spell Scroll]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Pergamino de conjuro

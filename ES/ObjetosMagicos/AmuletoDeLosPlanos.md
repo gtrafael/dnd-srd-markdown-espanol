@@ -2,6 +2,8 @@
 aliases: ["Amuleto de los planos", "Amulet of the Planes"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Amulet of the Planes|Amulet of the Planes (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
 ---
 
 # Amuleto de los planos

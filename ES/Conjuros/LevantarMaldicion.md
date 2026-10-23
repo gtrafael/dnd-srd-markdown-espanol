@@ -2,6 +2,10 @@
 aliases: ["Levantar maldición", "Remove Curse"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Remove Curse|Remove Curse (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Levantar maldición

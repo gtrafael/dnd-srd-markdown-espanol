@@ -2,6 +2,9 @@
 aliases: ["Truco de la cuerda", "Rope Trick"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Rope Trick|Rope Trick (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Portal|Portal]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Truco de la cuerda

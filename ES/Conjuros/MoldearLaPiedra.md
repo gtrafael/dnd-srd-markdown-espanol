@@ -2,6 +2,8 @@
 aliases: ["Moldear la piedra", "Stone Shape"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Stone Shape|Stone Shape (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Moldear la piedra

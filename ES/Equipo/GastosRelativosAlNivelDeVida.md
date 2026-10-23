@@ -2,6 +2,8 @@
 aliases: ["Gastos", "Expenses"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Lifestyle Expenses|Lifestyle Expenses (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Dormir|Dormir]]"
 ---
 
 # Gastos relativos al nivel de vida

@@ -2,6 +2,8 @@
 aliases: ["Conjurar seres del bosque", "Conjure Woodland Beings"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Conjure Woodland Beings|Conjure Woodland Beings (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Conjurar seres del bosque

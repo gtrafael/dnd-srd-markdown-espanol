@@ -2,6 +2,14 @@
 aliases: ["Goliat", "Goliath"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Goliath|Goliath (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/GiganteDeFuego|Gigante de fuego]]"
+  - "[[MonstruosDeLaAALaZ/GiganteDeLasColinas|Gigante de las colinas]]"
+  - "[[MonstruosDeLaAALaZ/GiganteDeLasNubes|Gigante de las nubes]]"
+  - "[[MonstruosDeLaAALaZ/GiganteDeEscarcha|Gigante de escarcha]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[MonstruosDeLaAALaZ/GiganteDePiedra|Gigante de piedra]]"
+  - "[[MonstruosDeLaAALaZ/GiganteDeLasTormentas|Gigante de las tormentas]]"
 ---
 
 # Goliat

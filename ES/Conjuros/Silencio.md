@@ -2,6 +2,11 @@
 aliases: ["Silencio", "Silence"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Silence|Silence (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Silencio

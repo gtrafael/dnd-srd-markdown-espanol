@@ -2,6 +2,15 @@
 aliases: ["Orbe Dragontino", "Dragon Orb"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dragon Orb|Dragon Orb (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Sugestion|Sugestión]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/CurarHeridas|Curar heridas]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/Escudrinar|Escudriñar]]"
+  - "[[Conjuros/GuardaContraLaMuerte|Guarda contra la muerte]]"
+  - "[[Conjuros/LuzDelDia|Luz del día]]"
+  - "[[Conjuros/Desintegrar|Desintegrar]]"
 ---
 
 # Orbe Dragontino

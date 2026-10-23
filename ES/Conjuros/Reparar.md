@@ -2,6 +2,10 @@
 aliases: ["Reparar", "Mending"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Mending|Mending (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Reparar

@@ -2,6 +2,16 @@
 aliases: ["Diablillo", "Imp"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Imp|Imp (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Oscuridad|Oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Animales/Arana|Araña]]"
+  - "[[Animales/Cuervo|Cuervo]]"
+  - "[[Animales/Rata|Rata]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
 ---
 
 # Diablillo

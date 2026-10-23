@@ -2,6 +2,11 @@
 aliases: ["Contactar con otro plano", "Contact Other Plane"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Contact Other Plane|Contact Other Plane (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Conjuros/HacerAnicos|Hacer añicos]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---
 
 # Contactar con otro plano

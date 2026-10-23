@@ -2,6 +2,9 @@
 aliases: ["Boca mágica", "Magic Mouth"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Magic Mouth|Magic Mouth (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 
 # Boca mágica

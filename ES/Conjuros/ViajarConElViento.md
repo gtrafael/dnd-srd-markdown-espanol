@@ -2,6 +2,10 @@
 aliases: ["Viajar con el viento", "Wind Walk"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Wind Walk|Wind Walk (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Apariencia|Apariencia]]"
+  - "[[Conjuros/Levitar|Levitar]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Viajar con el viento

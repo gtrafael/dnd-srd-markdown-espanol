@@ -2,6 +2,9 @@
 aliases: ["Crecimiento vegetal", "Plant Growth"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Plant Growth|Plant Growth (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Crecimiento vegetal

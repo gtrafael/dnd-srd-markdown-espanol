@@ -2,6 +2,9 @@
 aliases: ["Palabra divina", "Divine Word"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Divine Word|Divine Word (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Deseo|Deseo]]"
 ---
 
 # Palabra divina

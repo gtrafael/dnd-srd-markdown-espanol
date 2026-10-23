@@ -2,6 +2,11 @@
 aliases: ["Indetectable", "Nondetection"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Nondetection|Nondetection (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Adivinacion|Adivinación]]"
 ---
 
 # Indetectable

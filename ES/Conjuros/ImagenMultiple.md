@@ -2,6 +2,10 @@
 aliases: ["Imagen múltiple", "Mirror Image"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Mirror Image|Mirror Image (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Imagen múltiple

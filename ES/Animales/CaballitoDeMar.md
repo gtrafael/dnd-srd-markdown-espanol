@@ -2,6 +2,8 @@
 aliases: ["Caballito de mar", "Seahorse"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Seahorse|Seahorse (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Caballito de mar

@@ -2,6 +2,8 @@
 aliases: ["Relámpago", "Lightning Bolt"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Lightning Bolt|Lightning Bolt (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Relámpago

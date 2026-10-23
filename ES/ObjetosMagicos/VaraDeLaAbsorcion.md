@@ -2,6 +2,9 @@
 aliases: ["Vara de la absorción"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Rod of Absorption]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Vara de la absorción

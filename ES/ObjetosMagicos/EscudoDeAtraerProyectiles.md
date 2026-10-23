@@ -2,6 +2,11 @@
 aliases: ["Escudo de atraer proyectiles", "Shield of Missile Attraction"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Shield of Missile Attraction|Shield of Missile Attraction (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Escudo|Escudo]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
 ---
 
 # Escudo de atraer proyectiles

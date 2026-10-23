@@ -2,6 +2,9 @@
 aliases: ["Tormenta de fuego", "Fire Storm"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Fire Storm|Fire Storm (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Tormenta de fuego

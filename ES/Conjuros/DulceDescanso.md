@@ -2,6 +2,11 @@
 aliases: ["Dulce descanso", "Gentle Repose"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Gentle Repose|Gentle Repose (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"
 ---
 
 # Dulce descanso

@@ -2,6 +2,11 @@
 aliases: ["Potenciar característica", "Enhance Ability"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Enhance Ability|Enhance Ability (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Potenciar característica

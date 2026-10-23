@@ -2,6 +2,10 @@
 aliases: ["Conocer las leyendas", "Legend Lore"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Legend Lore|Legend Lore (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Conocer las leyendas

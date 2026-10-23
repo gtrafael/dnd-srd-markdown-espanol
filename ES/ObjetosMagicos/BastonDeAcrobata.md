@@ -2,6 +2,10 @@
 aliases: ["Bastón de acróbata", "Quarterstaff of the Acrobat"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Quarterstaff of the Acrobat|Quarterstaff of the Acrobat (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Equipo/Propiedades|Propiedades]]"
 ---
 
 # Bastón de acróbata

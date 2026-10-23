@@ -2,6 +2,8 @@
 aliases: ["Identificar un conjuro activo", "Identifying an Ongoing Spell"]
 tags: [srd, espanol, tag_conjuros, recuadro]
 related_en: "[[Spells/Identifying an Ongoing Spell|Identifying an Ongoing Spell (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Identificar|Identificar]]"
 ---
 # Identificar un conjuro activo
 

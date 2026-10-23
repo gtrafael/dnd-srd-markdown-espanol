@@ -2,6 +2,11 @@
 aliases: ["Restablecimiento menor", "Lesser Restoration"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Lesser Restoration|Lesser Restoration (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Restablecimiento menor

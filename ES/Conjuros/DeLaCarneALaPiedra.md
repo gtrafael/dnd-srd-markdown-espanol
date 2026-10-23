@@ -2,6 +2,10 @@
 aliases: ["De la carne a la piedra", "Flesh to Stone"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Flesh to Stone|Flesh to Stone (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[MonstruosDeLaAALaZ/Cocatriz|Cocatriz]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---
 
 # De la carne a la piedra

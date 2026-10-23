@@ -2,6 +2,8 @@
 aliases: ["Invertir la gravedad", "Reverse Gravity"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Reverse Gravity|Reverse Gravity (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Invertir la gravedad

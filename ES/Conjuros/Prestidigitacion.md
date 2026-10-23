@@ -2,6 +2,13 @@
 aliases: ["Prestidigitación", "Prestidigitation"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Prestidigitation|Prestidigitation (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Creacion|Creación]]"
+  - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
+  - "[[Conjuros/Simbolo|Símbolo]]"
 ---
 
 # Prestidigitación

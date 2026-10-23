@@ -2,6 +2,9 @@
 aliases: ["Palabra de curación", "Healing Word"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Healing Word|Healing Word (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Palabra de curación

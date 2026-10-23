@@ -2,6 +2,23 @@
 aliases: ["Progresión de niveles"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Creation/Level Advancement|Level Advancement (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Barbaro|Bárbaro]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Guerrero|Guerrero]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Monje|Monje]]"
+  - "[[Clases/Picaro|Pícaro]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"
+  - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Conjuros/Heroismo|Heroísmo]]"
 ---
 
 # Progresión de niveles

@@ -2,6 +2,9 @@
 aliases: ["Cría de dragón negro", "Black Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Black Dragon Wyrmling|Black Dragon Wyrmling (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cría de dragón negro

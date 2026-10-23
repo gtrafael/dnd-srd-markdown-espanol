@@ -2,6 +2,12 @@
 aliases: ["Forma gaseosa", "Gaseous Form"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Gaseous Form|Gaseous Form (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Levitar|Levitar]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Forma gaseosa

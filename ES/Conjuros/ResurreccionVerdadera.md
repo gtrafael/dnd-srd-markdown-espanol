@@ -2,6 +2,8 @@
 aliases: ["Resurrección verdadera", "True Resurrection"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/True Resurrection|True Resurrection (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Resurrección verdadera

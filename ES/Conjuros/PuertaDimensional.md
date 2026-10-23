@@ -2,6 +2,10 @@
 aliases: ["Puerta dimensional", "Dimension Door"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Dimension Door|Dimension Door (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Puerta dimensional

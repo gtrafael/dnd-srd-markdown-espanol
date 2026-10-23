@@ -2,6 +2,20 @@
 aliases: ["Muro prismático", "Prismatic Wall"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Prismatic Wall|Prismatic Wall (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[Conjuros/CampoAntimagia|Campo antimagia]]"
+  - "[[Conjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/Pasamuros|Pasamuros]]"
+  - "[[Conjuros/Abrir|Abrir]]"
+  - "[[Conjuros/Portal|Portal]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
+  - "[[Conjuros/LuzDelDia|Luz del día]]"
 ---
 
 # Muro prismático

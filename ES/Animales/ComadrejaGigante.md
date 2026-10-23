@@ -2,6 +2,8 @@
 aliases: ["Comadreja gigante", "Giant Weasel"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Weasel|Giant Weasel (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Comadreja gigante

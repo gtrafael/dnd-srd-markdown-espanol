@@ -2,6 +2,8 @@
 aliases: ["Salpicadura ácida", "Acid Splash"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Acid Splash|Acid Splash (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Salpicadura ácida

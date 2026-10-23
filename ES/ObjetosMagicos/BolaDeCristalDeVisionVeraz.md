@@ -2,6 +2,8 @@
 aliases: ["Bola de cristal de visión veraz", "Crystal Ball of True Seeing"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Crystal Ball of True Seeing|Crystal Ball of True Seeing (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Escudrinar|Escudriñar]]"
 ---
 
 # Bola de cristal de visión veraz

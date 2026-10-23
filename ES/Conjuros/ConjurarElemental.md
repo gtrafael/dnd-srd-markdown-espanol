@@ -2,6 +2,8 @@
 aliases: ["Conjurar elemental", "Conjure Elemental"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Conjure Elemental|Conjure Elemental (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Conjurar elemental

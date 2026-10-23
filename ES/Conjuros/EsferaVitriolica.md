@@ -2,6 +2,8 @@
 aliases: ["Esfera vitriólica", "Vitriolic Sphere"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Vitriolic Sphere|Vitriolic Sphere (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Esfera vitriólica

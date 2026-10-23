@@ -2,6 +2,12 @@
 aliases: ["Impacto certero", "True Strike"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/True Strike|True Strike (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Guia|Guía]]"
 ---
 
 # Impacto certero

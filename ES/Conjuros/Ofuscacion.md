@@ -2,6 +2,13 @@
 aliases: ["Ofuscación", "Befuddlement"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Befuddlement|Befuddlement (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
+  - "[[Conjuros/Curar|Curar]]"
+  - "[[Conjuros/Deseo|Deseo]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---
 
 # Ofuscación

@@ -2,6 +2,9 @@
 aliases: ["Plaga de insectos", "Insect Plague"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Insect Plague|Insect Plague (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Plaga de insectos

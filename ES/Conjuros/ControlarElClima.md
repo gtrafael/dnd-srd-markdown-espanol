@@ -2,6 +2,8 @@
 aliases: ["Controlar el clima", "Control Weather"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Control Weather|Control Weather (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Controlar el clima

@@ -2,6 +2,8 @@
 aliases: ["Tomo de liderazgo e influencia", "Tome of Leadership and Influence"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Tome of Leadership and Influence|Tome of Leadership and Influence (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Embelesar|Embelesar]]"
 ---
 
 # Tomo de liderazgo e influencia

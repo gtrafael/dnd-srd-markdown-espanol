@@ -2,6 +2,11 @@
 aliases: ["Pesadilla", "Nightmare"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Nightmare|Nightmare (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Levitar|Levitar]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Pesadilla

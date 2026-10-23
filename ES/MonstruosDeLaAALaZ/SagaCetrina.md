@@ -2,6 +2,21 @@
 aliases: ["Saga cetrina", "Green Hag"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Green Hag|Green Hag (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Augurio|Augurio]]"
+  - "[[Conjuros/EncontrarFamiliar|Encontrar familiar]]"
+  - "[[Conjuros/Escudrinar|Escudriñar]]"
+  - "[[Conjuros/Identificar|Identificar]]"
+  - "[[Conjuros/LocalizarObjeto|Localizar objeto]]"
+  - "[[Conjuros/SirvienteInvisible|Sirviente invisible]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/Disfrazarse|Disfrazarse]]"
+  - "[[Conjuros/IlusionMenor|Ilusión menor]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[Conjuros/LucesDanzantes|Luces danzantes]]"
+  - "[[Conjuros/RayoNauseabundo|Rayo nauseabundo]]"
 ---
 
 # Saga cetrina

@@ -2,6 +2,8 @@
 aliases: ["Poción de heroísmo"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Heroism]]"
+wikilinks_auto:
+  - "[[Conjuros/Bendicion|Bendición]]"
 ---
 
 # Poción de heroísmo

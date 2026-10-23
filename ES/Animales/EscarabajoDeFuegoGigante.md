@@ -2,6 +2,8 @@
 aliases: ["Escarabajo de fuego gigante", "Giant Fire Beetle"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Fire Beetle|Giant Fire Beetle (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Escarabajo de fuego gigante

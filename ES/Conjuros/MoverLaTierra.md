@@ -2,6 +2,9 @@
 aliases: ["Mover la tierra", "Move Earth"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Move Earth|Move Earth (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/CrecimientoVegetal|Crecimiento vegetal]]"
 ---
 
 # Mover la tierra

@@ -2,6 +2,10 @@
 aliases: ["Sordera_ceguera", "Blindness-Deafness"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Blindness-Deafness|Blindness-Deafness (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Sordera/ceguera

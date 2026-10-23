@@ -2,6 +2,8 @@
 aliases: ["El siguiente amanecer"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/The Next Dawn|The Next Dawn (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Propiedades|Propiedades]]"
 ---
 
 # El siguiente amanecer

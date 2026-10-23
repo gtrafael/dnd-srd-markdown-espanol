@@ -2,6 +2,10 @@
 aliases: ["Terror", "Fear"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Fear|Fear (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Terror

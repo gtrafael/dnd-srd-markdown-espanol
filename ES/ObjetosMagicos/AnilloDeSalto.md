@@ -2,6 +2,8 @@
 aliases: ["Anillo de salto"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ring of Jumping]]"
+wikilinks_auto:
+  - "[[Conjuros/Salto|Salto]]"
 ---
 
 # Anillo de salto

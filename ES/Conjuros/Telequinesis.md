@@ -2,6 +2,8 @@
 aliases: ["Telequinesis", "Telekinesis"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Telekinesis|Telekinesis (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Telequinesis

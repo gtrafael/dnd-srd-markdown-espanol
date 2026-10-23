@@ -2,6 +2,9 @@
 aliases: ["Dormir", "Sleep"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Sleep|Sleep (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Dormir

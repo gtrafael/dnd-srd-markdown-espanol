@@ -2,6 +2,19 @@
 aliases: ["Dragón azul adulto", "Adult Blue Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Blue Dragon|Adult Blue Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/HacerAnicos|Hacer añicos]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[Conjuros/ManoDeMago|Mano de mago]]"
+  - "[[Conjuros/Escudrinar|Escudriñar]]"
+  - "[[Conjuros/Recado|Recado]]"
 ---
 
 # Dragón azul adulto

@@ -2,6 +2,10 @@
 aliases: ["Hechizar monstruo", "Charm Monster"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Charm Monster|Charm Monster (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Hechizar monstruo

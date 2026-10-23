@@ -2,6 +2,13 @@
 aliases: ["Hallar corcel", "Find Steed"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Find Steed|Find Steed (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Animales/Alce|Alce]]"
+  - "[[Animales/Camello|Camello]]"
+  - "[[Animales/LoboTerrible|Lobo terrible]]"
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Hallar corcel

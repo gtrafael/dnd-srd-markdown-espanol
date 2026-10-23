@@ -2,6 +2,9 @@
 aliases: ["Comunión con la naturaleza", "Commune with Nature"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Commune with Nature|Commune with Nature (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Comunión con la naturaleza

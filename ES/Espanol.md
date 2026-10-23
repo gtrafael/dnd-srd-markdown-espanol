@@ -1,3 +1,9 @@
+---
+wikilinks_auto:
+  - "[[Conjuros/Creacion|Creación]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Equipo/Herramientas|Herramientas]]"
+---
 # Español
 
 Documento de Referencia del Sistema 5.2.1 (SRD 5.2.1) en español.

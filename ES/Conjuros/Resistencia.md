@@ -2,6 +2,9 @@
 aliases: ["Resistencia", "Resistance"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Resistance|Resistance (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Resistencia

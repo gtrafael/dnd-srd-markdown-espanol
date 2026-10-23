@@ -2,6 +2,11 @@
 aliases: ["Rareza de los objetos mágicos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Item Rarity|Magic Item Rarity (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/OrbeDragontino|Orbe Dragontino]]"
+  - "[[Equipo/Monedas|Monedas]]"
+  - "[[ObjetosMagicos/PergaminoDeConjuro|Pergamino de conjuro]]"
+  - "[[Equipo/ElaborarPergaminosDeConjuro|Elaborar pergaminos de conjuro]]"
 ---
 
 # Rareza de los objetos mágicos

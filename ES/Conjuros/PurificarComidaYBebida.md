@@ -2,6 +2,9 @@
 aliases: ["Purificar comida y bebida", "Purify Food and Drink"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Purify Food and Drink|Purify Food and Drink (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Purificar comida y bebida

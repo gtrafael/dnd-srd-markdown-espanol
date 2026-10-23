@@ -2,6 +2,8 @@
 aliases: ["Calentar metal", "Heat Metal"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Heat Metal|Heat Metal (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
 ---
 
 # Calentar metal

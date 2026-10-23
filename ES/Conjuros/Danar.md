@@ -2,6 +2,8 @@
 aliases: ["Dañar", "Harm"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Harm|Harm (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Dañar

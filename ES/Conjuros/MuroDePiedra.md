@@ -2,6 +2,9 @@
 aliases: ["Muro de piedra", "Wall of Stone"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Wall of Stone|Wall of Stone (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Danar|Dañar]]"
 ---
 
 # Muro de piedra

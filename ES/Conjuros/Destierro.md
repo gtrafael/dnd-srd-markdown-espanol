@@ -2,6 +2,12 @@
 aliases: ["Destierro", "Banishment"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Banishment|Banishment (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/Semiplano|Semiplano]]"
 ---
 
 # Destierro

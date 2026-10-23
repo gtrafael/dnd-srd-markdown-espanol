@@ -2,6 +2,12 @@
 aliases: ["Bastón de curación"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Staff of Healing]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/CurarHeridas|Curar heridas]]"
+  - "[[Conjuros/CurarHeridasEnMasa|Curar heridas en masa]]"
+  - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
 ---
 
 # Bastón de curación

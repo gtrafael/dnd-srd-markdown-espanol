@@ -2,6 +2,10 @@
 aliases: ["Teletransporte", "Teleport"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Teleport|Teleport (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/CirculoDeTeletransportacion|Círculo de teletransportación]]"
 ---
 
 # Teletransporte

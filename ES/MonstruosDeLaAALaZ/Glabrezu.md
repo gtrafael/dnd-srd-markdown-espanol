@@ -2,6 +2,17 @@
 aliases: ["Glabrezu"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Glabrezu|Glabrezu (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/Oscuridad|Oscuridad]]"
+  - "[[Conjuros/Confusion|Confusión]]"
+  - "[[Conjuros/PalabraDePoderAturdir|Palabra de poder: aturdir]]"
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Glabrezu

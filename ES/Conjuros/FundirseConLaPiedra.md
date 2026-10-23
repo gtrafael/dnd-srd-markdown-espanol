@@ -2,6 +2,10 @@
 aliases: ["Fundirse con la piedra", "Meld into Stone"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Meld into Stone|Meld into Stone (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/LanzarConjuros|Lanzar conjuros]]"
 ---
 
 # Fundirse con la piedra

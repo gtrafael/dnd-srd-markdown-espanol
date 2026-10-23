@@ -2,6 +2,14 @@
 aliases: ["Diablo de la sima", "Pit Fiend"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Pit Fiend|Pit Fiend (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/InmovilizarMonstruo|Inmovilizar monstruo]]"
+  - "[[Conjuros/MuroDeFuego|Muro de fuego]]"
 ---
 
 # Diablo de la sima

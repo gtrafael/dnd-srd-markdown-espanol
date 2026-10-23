@@ -2,6 +2,8 @@
 aliases: ["Elementalismo", "Elementalism"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Elementalism|Elementalism (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Elementalismo

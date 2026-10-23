@@ -2,6 +2,10 @@
 aliases: ["Pudin negro", "Black Pudding"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Black Pudding|Black Pudding (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/Reparar|Reparar]]"
+  - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 
 # Pudin negro

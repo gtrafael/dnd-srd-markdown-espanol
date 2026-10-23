@@ -2,6 +2,8 @@
 aliases: ["Basilisco", "Basilisk"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Basilisk|Basilisk (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Basilisco

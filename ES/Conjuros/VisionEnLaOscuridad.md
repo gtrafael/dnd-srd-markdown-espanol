@@ -2,6 +2,9 @@
 aliases: ["Visión en la oscuridad", "Darkvision"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Darkvision|Darkvision (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Visión en la oscuridad

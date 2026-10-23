@@ -2,6 +2,29 @@
 aliases: ["Liche", "Lich"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Lich|Lich (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
+  - "[[Conjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[Conjuros/ManoDeMago|Mano de mago]]"
+  - "[[Conjuros/Prestidigitacion|Prestidigitación]]"
+  - "[[Conjuros/AnimarALosMuertos|Animar a los muertos]]"
+  - "[[Conjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
+  - "[[Conjuros/PuertaDimensional|Puerta dimensional]]"
+  - "[[Conjuros/DedoDeLaMuerte|Dedo de la muerte]]"
+  - "[[Conjuros/Escudrinar|Escudriñar]]"
+  - "[[Conjuros/PalabraDePoderMatar|Palabra de poder: matar]]"
+  - "[[Conjuros/RelampagoEnCadena|Relámpago en cadena]]"
+  - "[[Conjuros/Contrahechizo|Contrahechizo]]"
+  - "[[Conjuros/Escudo|Escudo]]"
+  - "[[Conjuros/Terror|Terror]]"
+  - "[[Conjuros/Teletransporte|Teletransporte]]"
 ---
 
 # Liche

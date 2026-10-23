@@ -2,6 +2,13 @@
 aliases: ["Detectar trampas", "Find Traps"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Find Traps|Find Traps (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/Alarma|Alarma]]"
+  - "[[Conjuros/GlifoCustodio|Glifo custodio]]"
 ---
 
 # Detectar trampas

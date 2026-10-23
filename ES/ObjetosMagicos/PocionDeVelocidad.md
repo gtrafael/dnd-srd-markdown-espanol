@@ -2,6 +2,8 @@
 aliases: ["Poción de velocidad"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Speed]]"
+wikilinks_auto:
+  - "[[Conjuros/Acelerar|Acelerar]]"
 ---
 
 # Poción de velocidad

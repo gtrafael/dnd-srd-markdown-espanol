@@ -2,6 +2,9 @@
 aliases: ["Llama permanente", "Continual Flame"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Continual Flame|Continual Flame (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Llama permanente

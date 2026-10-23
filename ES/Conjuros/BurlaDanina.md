@@ -2,6 +2,8 @@
 aliases: ["Burla dañina", "Vicious Mockery"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Vicious Mockery|Vicious Mockery (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
 ---
 
 # Burla dañina

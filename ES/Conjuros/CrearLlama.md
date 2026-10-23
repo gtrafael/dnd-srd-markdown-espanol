@@ -2,6 +2,8 @@
 aliases: ["Crear llama", "Produce Flame"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Produce Flame|Produce Flame (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Crear llama

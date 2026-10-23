@@ -2,6 +2,10 @@
 aliases: ["Ver invisibilidad", "See Invisibility"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/See Invisibility|See Invisibility (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Adivinacion|Adivinación]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Ver invisibilidad

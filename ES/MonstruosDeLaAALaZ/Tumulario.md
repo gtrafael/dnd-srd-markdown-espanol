@@ -2,6 +2,11 @@
 aliases: ["Tumulario", "Wight"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Wight|Wight (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
+  - "[[MonstruosDeLaAALaZ/Zombi|Zombi]]"
 ---
 
 # Tumulario

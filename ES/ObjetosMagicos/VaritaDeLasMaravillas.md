@@ -2,6 +2,26 @@
 aliases: ["Varita de las maravillas"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Wand of Wonder|Wand of Wonder (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/FuegoFeerico|Fuego feérico]]"
+  - "[[Conjuros/NubeApestosa|Nube apestosa]]"
+  - "[[Conjuros/Oscuridad|Oscuridad]]"
+  - "[[Conjuros/Ralentizar|Ralentizar]]"
+  - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/Agrandar_reducir|Agrandar/reducir]]"
+  - "[[Animales/Elefante|Elefante]]"
+  - "[[Animales/Rata|Rata]]"
+  - "[[Animales/Rinoceronte|Rinoceronte]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[Conjuros/Polimorfar|Polimorfar]]"
+  - "[[Animales/AvispaGigante|Avispa gigante]]"
+  - "[[Animales/OsoNegro|Oso negro]]"
+  - "[[Animales/Rana|Rana]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---
 
 # Varita de las maravillas

@@ -2,6 +2,12 @@
 aliases: ["Vrock"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Vrock|Vrock (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Vrock

@@ -2,6 +2,8 @@
 aliases: ["Espada hiriente"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Sword of Wounding]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Espada hiriente

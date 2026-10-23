@@ -2,6 +2,11 @@
 aliases: ["Mano de mago", "Mage Hand"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Mage Hand|Mage Hand (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Abrir|Abrir]]"
 ---
 
 # Mano de mago

@@ -2,6 +2,9 @@
 aliases: ["Plegaria de curación", "Prayer of Healing"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Prayer of Healing|Prayer of Healing (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Plegaria de curación

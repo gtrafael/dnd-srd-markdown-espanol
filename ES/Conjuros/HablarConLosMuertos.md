@@ -2,6 +2,10 @@
 aliases: ["Hablar con los muertos", "Speak with Dead"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Speak with Dead|Speak with Dead (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/Apariencia|Apariencia]]"
 ---
 
 # Hablar con los muertos

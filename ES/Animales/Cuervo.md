@@ -2,6 +2,8 @@
 aliases: ["Cuervo", "Raven"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Raven|Raven (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Cuervo

@@ -2,6 +2,9 @@
 aliases: ["Poción de resistencia"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Resistance]]"
+wikilinks_auto:
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Poción de resistencia

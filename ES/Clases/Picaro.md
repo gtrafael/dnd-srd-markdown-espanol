@@ -2,6 +2,16 @@
 aliases: ["Picaro", "Rogue"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Rogue|Rogue (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Equipo/Propiedades|Propiedades]]"
+  - "[[Equipo/Herramientas|Herramientas]]"
+  - "[[Equipo/Armaduras|Armaduras]]"
+  - "[[Conjuros/Creacion|Creación]]"
+  - "[[Equipo/PropiedadesDeMaestria|Propiedades de maestría]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Salto|Salto]]"
+  - "[[ObjetosMagicos/PergaminoDeConjuro|Pergamino de conjuro]]"
 ---
 
 # Pícaro

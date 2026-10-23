@@ -2,6 +2,12 @@
 aliases: ["Rociada prismática", "Prismatic Spray"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Prismatic Spray|Prismatic Spray (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Luz|Luz]]"
+  - "[[Conjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---
 
 # Rociada prismática

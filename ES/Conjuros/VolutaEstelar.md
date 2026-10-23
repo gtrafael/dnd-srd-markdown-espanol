@@ -2,6 +2,9 @@
 aliases: ["Voluta estelar", "Starry Wisp"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Starry Wisp|Starry Wisp (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Voluta estelar

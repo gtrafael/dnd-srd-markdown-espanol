@@ -2,6 +2,9 @@
 aliases: ["Maza del terror", "Mace of Terror"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Mace of Terror|Mace of Terror (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/ArmaMagica|Arma mágica]]"
+  - "[[Conjuros/Terror|Terror]]"
 ---
 
 # Maza del terror

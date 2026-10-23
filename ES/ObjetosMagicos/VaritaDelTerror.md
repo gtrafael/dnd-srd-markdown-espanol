@@ -2,6 +2,10 @@
 aliases: ["Varita del terror"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Wand of Fear|Wand of Fear (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
+  - "[[Conjuros/OrdenImperiosa|Orden imperiosa]]"
+  - "[[Conjuros/Terror|Terror]]"
 ---
 
 # Varita del terror

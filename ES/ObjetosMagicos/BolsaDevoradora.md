@@ -2,6 +2,8 @@
 aliases: ["Bolsa devoradora", "Bag of Devouring"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Bag of Devouring|Bag of Devouring (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/BolsaDeContencion|Bolsa de contención]]"
 ---
 
 # Bolsa devoradora

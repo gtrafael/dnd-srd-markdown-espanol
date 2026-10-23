@@ -2,6 +2,9 @@
 aliases: ["Brasero para controlar elementales de fuego", "Brazier of Commanding Fire Elementals"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Brazier of Commanding Fire Elementals|Brazier of Commanding Fire Elementals (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/ElementalDeFuego|Elemental de fuego]]"
+  - "[[ObjetosMagicos/ElSiguienteAmanecer|El siguiente amanecer]]"
 ---
 
 # Brasero para controlar elementales de fuego

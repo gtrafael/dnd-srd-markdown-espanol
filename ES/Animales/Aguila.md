@@ -2,6 +2,8 @@
 aliases: ["Águila", "Eagle"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Eagle|Eagle (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Águila

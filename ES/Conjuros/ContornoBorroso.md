@@ -2,6 +2,8 @@
 aliases: ["Contorno borroso", "Blur"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Blur|Blur (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Contorno borroso

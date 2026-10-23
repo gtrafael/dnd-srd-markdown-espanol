@@ -2,6 +2,11 @@
 aliases: ["Inmovilizar persona", "Hold Person"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Hold Person|Hold Person (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Inmovilizar persona

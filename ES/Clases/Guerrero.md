@@ -2,6 +2,14 @@
 aliases: ["Guerrero", "Fighter"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Fighter|Fighter (EN)]]"
+wikilinks_auto:
+  - "[[Equipo/Armas|Armas]]"
+  - "[[Equipo/Armaduras|Armaduras]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/Desplazamiento|Desplazamiento]]"
+  - "[[Equipo/PropiedadesDeMaestria|Propiedades de maestría]]"
+  - "[[Conjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/Ralentizar|Ralentizar]]"
 ---
 
 # Guerrero

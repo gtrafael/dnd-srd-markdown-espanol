@@ -2,6 +2,8 @@
 aliases: ["Tentáculos negros", "Black Tentacles"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Black Tentacles|Black Tentacles (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/Conjuros|Conjuros]]"
 ---
 
 # Tentáculos negros

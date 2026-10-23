@@ -2,6 +2,10 @@
 aliases: ["Volar", "Fly"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Fly|Fly (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Conjuros/Levitar|Levitar]]"
 ---
 
 # Volar
