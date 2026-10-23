@@ -76,6 +76,11 @@ jobs:
               if path.suffix != ".md":
                   continue
 
+              # git diff también lista archivos eliminados. Si el generador ha
+              # retirado un nodo obsoleto, no hay contenido actual que validar.
+              if not path.exists():
+                  continue
+
               text = path.read_text(encoding="utf-8")
 
               if not path.is_relative_to(GENERATED):
