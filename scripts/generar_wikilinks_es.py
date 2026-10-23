@@ -82,6 +82,33 @@ def normalized(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip().casefold()
 
 
+def heading_titles(markdown: str) -> list[str]:
+    return [
+        clean_title(match.group(1))
+        for match in re.finditer(
+            r"(?m)^#{2,6}\s+(.+?)\s*$",
+            strip_frontmatter(markdown),
+        )
+    ]
+
+
+def blocker_variants(heading: str) -> set[str]:
+    variants = {heading.strip()}
+
+    # Los encabezados de rasgos suelen llevar un prefijo mecánico de nivel.
+    # Queremos que "Nivel 7: Salto instintivo" también bloquee la frase
+    # "Salto instintivo" cuando aparezca en una tabla o en prosa.
+    without_level = re.sub(
+        r"(?i)^Nivel\s+\d+\s*:\s*",
+        "",
+        heading,
+    ).strip()
+    if without_level:
+        variants.add(without_level)
+
+    return variants
+
+
 def is_index(path: Path) -> bool:
     return path.name.casefold().endswith("-index.md")
 
@@ -209,12 +236,66 @@ def build_catalog(es_root: Path) -> dict[str, list[Concept]]:
     return dict(catalog)
 
 
-def compile_matcher(catalog: dict[str, list[Concept]]) -> re.Pattern[str]:
-    titles = [concepts[0].title for concepts in catalog.values()]
-    titles.sort(key=lambda value: (-len(value), value.casefold()))
+def build_blockers(
+    es_root: Path,
+    catalog: dict[str, list[Concept]],
+) -> dict[str, str]:
+    """Frases estructurales que consumen texto pero nunca crean enlaces."""
+    blockers: dict[str, str] = {}
+    entity_titles = {
+        key: concepts[0].title
+        for key, concepts in catalog.items()
+    }
+
+    for path in sorted(es_root.rglob("*.md")):
+        relative = path.relative_to(es_root)
+        if is_alt_path(relative) or is_index(relative):
+            continue
+
+        markdown = path.read_text(encoding="utf-8")
+
+        for heading in heading_titles(markdown):
+            for candidate in blocker_variants(heading):
+                candidate_key = normalized(candidate)
+
+                # Un bloqueador nunca sustituye una entidad cuyo título es
+                # exactamente el mismo.
+                if candidate_key in catalog:
+                    continue
+
+                # Solo nos interesa una frase si realmente contiene el nombre
+                # completo de alguna entidad enlazable.
+                contains_entity = any(
+                    re.search(
+                        r"(?<!\w)"
+                        + re.escape(title).replace(r"\ ", r"\s+")
+                        + r"(?!\w)",
+                        candidate,
+                        flags=re.IGNORECASE,
+                    )
+                    for title in entity_titles.values()
+                )
+
+                if contains_entity:
+                    blockers[candidate_key] = candidate
+
+    return blockers
+
+
+def compile_matcher(
+    catalog: dict[str, list[Concept]],
+    blockers: dict[str, str],
+) -> re.Pattern[str]:
+    phrases = [
+        concepts[0].title
+        for concepts in catalog.values()
+    ] + list(blockers.values())
+
+    phrases.sort(key=lambda value: (-len(value), value.casefold()))
+
     alternatives = [
-        re.escape(title).replace(r"\ ", r"\s+")
-        for title in titles
+        re.escape(phrase).replace(r"\ ", r"\s+")
+        for phrase in phrases
     ]
 
     if not alternatives:
@@ -249,6 +330,7 @@ def detect_links(
     markdown: str,
     es_root: Path,
     catalog: dict[str, list[Concept]],
+    blockers: dict[str, str],
     matcher: re.Pattern[str],
 ) -> list[str]:
     current = note_path.relative_to(es_root)
@@ -257,6 +339,11 @@ def detect_links(
 
     for match in matcher.finditer(searchable_body(markdown)):
         key = normalized(match.group(1))
+
+        # Los bloqueadores participan en el mismo longest-match que las
+        # entidades, pero consumen el intervalo sin producir ninguna arista.
+        if key in blockers:
+            continue
 
         for concept in catalog.get(key, []):
             if concept.path == current:
@@ -339,7 +426,8 @@ def main() -> int:
         raise SystemExit(f"No existe {es_root}")
 
     catalog = build_catalog(es_root)
-    matcher = compile_matcher(catalog)
+    blockers = build_blockers(es_root, catalog)
+    matcher = compile_matcher(catalog, blockers)
 
     scanned = 0
     changed = 0
@@ -348,7 +436,14 @@ def main() -> int:
     for path in iter_target_notes(es_root):
         scanned += 1
         original = path.read_text(encoding="utf-8")
-        links = detect_links(path, original, es_root, catalog, matcher)
+        links = detect_links(
+            path,
+            original,
+            es_root,
+            catalog,
+            blockers,
+            matcher,
+        )
         link_count += len(links)
         updated = update_frontmatter(original, links)
 
@@ -384,7 +479,8 @@ def main() -> int:
 
     print(
         f"[{mode}] entidades={sum(counts.values())} "
-        f"titulos={len(catalog)} duplicados={len(duplicates)} "
+        f"titulos={len(catalog)} bloqueadores={len(blockers)} "
+        f"duplicados={len(duplicates)} "
         f"notas={scanned} modificadas={changed} "
         f"wikilinks={link_count} {kinds}"
     )
