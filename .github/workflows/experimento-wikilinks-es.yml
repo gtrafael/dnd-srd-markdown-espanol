@@ -35,6 +35,45 @@ jobs:
       - name: Generar wikilinks v3
         run: python scripts/generar_wikilinks_es.py
 
+      - name: Validar longest-match y bloqueadores
+        shell: bash
+        run: |
+          python - <<'PY'
+          import importlib.util
+          from pathlib import Path
+
+          script = Path("scripts/generar_wikilinks_es.py")
+          spec = importlib.util.spec_from_file_location("wikilinks_es", script)
+          module = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(module)
+
+          es = Path("ES")
+          catalog = module.build_catalog(es)
+          blockers = module.build_blockers(es, catalog)
+          matcher = module.compile_matcher(catalog, blockers)
+
+          fake_path = es / "__prueba__.md"
+
+          def links(text):
+              return module.detect_links(
+                  fake_path,
+                  text,
+                  es,
+                  catalog,
+                  blockers,
+                  matcher,
+              )
+
+          only_package = links("Un paquete de explorador contiene equipo útil.")
+          assert not any("Clases/Explorador" in link for link in only_package), only_package
+
+          both = links("El explorador lleva un paquete de explorador.")
+          explorer = [link for link in both if "Clases/Explorador" in link]
+          assert len(explorer) == 1, both
+
+          print("OK: longest-match conserva Explorador independiente y bloquea el interior de Paquete de explorador.")
+          PY
+
       - name: Validar invariantes
         shell: bash
         run: |
