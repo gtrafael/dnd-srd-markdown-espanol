@@ -313,7 +313,12 @@ def build_matcher(cat: dict[str, list[Concept]]) -> re.Pattern[str]:
 def searchable(text: str) -> str:
     content = body(text)
     content = re.sub(r"!?\[\[.*?\]\]", " ", content)
-    return re.sub(r"(?m)^#\s+.+?\s*$", " ", content, count=1)
+
+    # Los encabezados describen la estructura de la nota actual. No son
+    # evidencia de una relación externa: "Defensa sin armadura" no debe
+    # convertir "Defensa" en una referencia automática a la dote Defensa.
+    content = re.sub(r"(?m)^#{1,6}\s+.+?\s*$", " ", content)
+    return content
 
 
 def target_notes(es: Path):
