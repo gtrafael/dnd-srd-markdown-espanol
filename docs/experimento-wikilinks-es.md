@@ -88,3 +88,44 @@ lejos:
 
 Si el enfoque funciona, el siguiente paso natural es convertir el catálogo y
 las exclusiones en configuración explícita y extender el mismo mecanismo a EN.
+
+
+## Resultado de la primera ejecución
+
+La primera generación completa sobre ES produjo:
+
+- 977 notas candidatas en las familias configuradas;
+- 971 conceptos utilizables de forma inequívoca;
+- 3 títulos ambiguos, cada uno presente en dos notas:
+  - `Druida`: clase y monstruo;
+  - `Mago`: clase y monstruo;
+  - `Objetos mágicos`: nota de Equipo y nota de ObjetosMagicos;
+- 1028 notas de contenido analizadas;
+- 877 notas con alguna relación generada;
+- 4031 wikilinks automáticos.
+
+El workflow valida además que la generación no modifica el cuerpo Markdown de
+ninguna nota.
+
+### Hallazgo principal: ambigüedad semántica
+
+La coincidencia textual demuestra que la infraestructura funciona, pero también
+que "el mismo texto" no siempre significa "el mismo concepto".
+
+Ejemplos observados:
+
+- en `Clases/Barbaro.md`, "paquete de explorador" puede generar un enlace a
+  la clase `Explorador`;
+- "escudo" puede referirse al equipo y no al conjuro `Escudo`;
+- "guardia" puede ser un sustantivo común y no el perfil de monstruo
+  `Guardia`;
+- en cambio, `Conjuros/BolaDeFuego.md` relaciona de forma razonable
+  `Hechicero` y `Murciélago`.
+
+Por tanto, esta primera versión debe considerarse deliberadamente un
+**baseline léxico**, no una versión lista para fusionar en `main`.
+
+El siguiente experimento debería medir qué estrategia reduce más el ruido sin
+perder relaciones útiles. Algunas opciones son: exigir contexto según categoría,
+mantener una lista de títulos inherentemente ambiguos, o aplicar reglas más
+estrictas a nombres cortos y genéricos.
