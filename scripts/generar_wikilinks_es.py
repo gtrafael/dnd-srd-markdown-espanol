@@ -106,6 +106,18 @@ def blocker_variants(heading: str) -> set[str]:
     if without_level:
         variants.add(without_level)
 
+    # Equipo usa metadatos de presentación en el propio encabezado, por
+    # ejemplo "Paquete de explorador (10 po)". La frase que aparece en otras
+    # notas suele omitir ese precio.
+    for value in tuple(variants):
+        without_suffix = re.sub(
+            r"\s*\([^()]+\)\s*$",
+            "",
+            value,
+        ).strip()
+        if without_suffix:
+            variants.add(without_suffix)
+
     return variants
 
 
@@ -242,10 +254,22 @@ def build_blockers(
 ) -> dict[str, str]:
     """Frases estructurales que consumen texto pero nunca crean enlaces."""
     blockers: dict[str, str] = {}
-    entity_titles = {
-        key: concepts[0].title
-        for key, concepts in catalog.items()
-    }
+
+    entity_titles = [
+        concepts[0].title
+        for concepts in catalog.values()
+    ]
+    entity_titles.sort(key=lambda value: (-len(value), value.casefold()))
+
+    entity_matcher = re.compile(
+        r"(?<!\w)("
+        + "|".join(
+            re.escape(title).replace(r"\ ", r"\s+")
+            for title in entity_titles
+        )
+        + r")(?!\w)",
+        re.IGNORECASE,
+    )
 
     for path in sorted(es_root.rglob("*.md")):
         relative = path.relative_to(es_root)
@@ -263,20 +287,9 @@ def build_blockers(
                 if candidate_key in catalog:
                     continue
 
-                # Solo nos interesa una frase si realmente contiene el nombre
-                # completo de alguna entidad enlazable.
-                contains_entity = any(
-                    re.search(
-                        r"(?<!\w)"
-                        + re.escape(title).replace(r"\ ", r"\s+")
-                        + r"(?!\w)",
-                        candidate,
-                        flags=re.IGNORECASE,
-                    )
-                    for title in entity_titles.values()
-                )
-
-                if contains_entity:
+                # Un único matcher comprueba si la frase contiene alguna
+                # entidad; evita recorrer todo el catálogo por encabezado.
+                if entity_matcher.search(candidate):
                     blockers[candidate_key] = candidate
 
     return blockers
