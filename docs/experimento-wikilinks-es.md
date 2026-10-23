@@ -78,3 +78,47 @@ alteraba la estructura y el número de notas de la bóveda.
 
 La v3 descarta esa estrategia y hace que el grafo refleje estrictamente la
 granularidad física real del repositorio.
+
+
+## Resultado estable de la v3
+
+La primera regeneración completa de la v3 produjo:
+
+- 861 entidades físicas reconocidas;
+- 859 nombres distintos;
+- 2 homónimos reales: Druida y Mago;
+- 1027 notas analizadas;
+- 4288 wikilinks automáticos;
+- 418 notas cuyo frontmatter cambió respecto a la v2;
+- 0 cambios en una segunda ejecución consecutiva.
+
+Distribución del catálogo:
+
+- 95 animales;
+- 12 clases;
+- 339 conjuros;
+- 235 monstruos;
+- 180 objetos mágicos.
+
+Actualmente no entra ninguna dote como destino porque el repositorio no contiene
+notas físicas individuales de dote que cumplan la firma de entidad definida por
+la v3.
+
+## Mayúsculas y minúsculas
+
+Se evaluó usar la capitalización como filtro de desambiguación.
+
+Ayuda en algunos falsos positivos. Por ejemplo, "terror" como sustantivo común
+no debería enlazar necesariamente al conjuro Terror.
+
+Sin embargo no puede aplicarse globalmente porque el SRD contiene referencias
+válidas en minúsculas, como los nombres de clase dentro de las fichas de
+conjuros ("hechicero, mago") y nombres de conjuros usados en prosa.
+
+Además, varios falsos positivos sobreviven aunque respetemos mayúsculas:
+"Resistencia al daño", "Salto instintivo" o la propiedad de maestría
+"Ralentizar" aparecen capitalizados.
+
+Por tanto, la v3 mantiene por ahora la comparación sin distinguir mayúsculas y
+minúsculas. Cualquier refinamiento posterior debe ser más conservador y medirse
+sobre ejemplos reales antes de incorporarse.
