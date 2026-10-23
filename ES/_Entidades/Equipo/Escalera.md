@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Escalera (1 pp)|Escalera (1 pp)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Escalera (1 pp)"
 ---

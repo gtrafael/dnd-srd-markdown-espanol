@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeDonEpico#Don del espíritu de la noche|Don del espíritu de la noche]]"
+  - note: "Dotes/DotesDeDonEpico.md"
+    section: "Don del espíritu de la noche"
 ---

@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Libro (25 po)|Libro (25 po)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Libro (25 po)"
 ---

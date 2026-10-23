@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/Herramientas#Útiles para disfrazarse (25 po)|Útiles para disfrazarse (25 po)]]"
+  - note: "Equipo/Herramientas.md"
+    section: "Útiles para disfrazarse (25 po)"
 ---

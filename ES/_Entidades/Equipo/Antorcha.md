@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Antorcha (1 pc)|Antorcha (1 pc)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Antorcha (1 pc)"
 ---

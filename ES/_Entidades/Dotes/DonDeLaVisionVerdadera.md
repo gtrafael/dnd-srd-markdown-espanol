@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeDonEpico#Don de la visión verdadera|Don de la visión verdadera]]"
+  - note: "Dotes/DotesDeDonEpico.md"
+    section: "Don de la visión verdadera"
 ---

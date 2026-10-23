@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Vela (1 pc)|Vela (1 pc)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Vela (1 pc)"
 ---

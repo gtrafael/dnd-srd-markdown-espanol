@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Jarro (2 pc)|Jarro (2 pc)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Jarro (2 pc)"
 ---

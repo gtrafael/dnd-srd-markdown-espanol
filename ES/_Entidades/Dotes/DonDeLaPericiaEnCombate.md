@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeDonEpico#Don de la pericia en combate|Don de la pericia en combate]]"
+  - note: "Dotes/DotesDeDonEpico.md"
+    section: "Don de la pericia en combate"
 ---

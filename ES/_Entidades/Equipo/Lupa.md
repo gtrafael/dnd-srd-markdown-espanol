@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Lupa (100 po)|Lupa (100 po)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Lupa (100 po)"
 ---

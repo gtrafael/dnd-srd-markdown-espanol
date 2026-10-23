@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Manta (5 pp)|Manta (5 pp)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Manta (5 pp)"
 ---

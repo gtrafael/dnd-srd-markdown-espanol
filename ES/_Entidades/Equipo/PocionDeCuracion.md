@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Poción de curación (50 po)|Poción de curación (50 po)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Poción de curación (50 po)"
 ---

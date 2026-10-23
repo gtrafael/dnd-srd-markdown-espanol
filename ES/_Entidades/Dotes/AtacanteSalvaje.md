@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeOrigen#Atacante salvaje|Atacante salvaje]]"
+  - note: "Dotes/DotesDeOrigen.md"
+    section: "Atacante salvaje"
 ---

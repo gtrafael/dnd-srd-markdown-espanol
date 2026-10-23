@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Saquito de componentes (25 po)|Saquito de componentes (25 po)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Saquito de componentes (25 po)"
 ---

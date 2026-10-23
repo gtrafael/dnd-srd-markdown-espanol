@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeOrigen#Iniciado en la magia|Iniciado en la magia]]"
+  - note: "Dotes/DotesDeOrigen.md"
+    section: "Iniciado en la magia"
 ---

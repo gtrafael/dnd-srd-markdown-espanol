@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeEstiloDeCombate#Defensa|Defensa]]"
+  - note: "Dotes/DotesDeEstiloDeCombate.md"
+    section: "Defensa"
 ---

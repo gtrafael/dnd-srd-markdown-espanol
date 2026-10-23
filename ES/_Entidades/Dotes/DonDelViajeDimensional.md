@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeDonEpico#Don del viaje dimensional|Don del viaje dimensional]]"
+  - note: "Dotes/DotesDeDonEpico.md"
+    section: "Don del viaje dimensional"
 ---

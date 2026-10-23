@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Veneno básico (100 po)|Veneno básico (100 po)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Veneno básico (100 po)"
 ---

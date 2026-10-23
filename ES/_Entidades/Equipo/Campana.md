@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Campana (1 po)|Campana (1 po)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Campana (1 po)"
 ---

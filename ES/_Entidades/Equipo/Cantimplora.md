@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Cantimplora (2 pp)|Cantimplora (2 pp)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Cantimplora (2 pp)"
 ---

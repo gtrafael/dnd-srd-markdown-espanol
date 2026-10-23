@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeEstiloDeCombate#Combate con dos armas|Combate con dos armas]]"
+  - note: "Dotes/DotesDeEstiloDeCombate.md"
+    section: "Combate con dos armas"
 ---

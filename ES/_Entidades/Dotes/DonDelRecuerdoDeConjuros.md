@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeDonEpico#Don del recuerdo de conjuros|Don del recuerdo de conjuros]]"
+  - note: "Dotes/DotesDeDonEpico.md"
+    section: "Don del recuerdo de conjuros"
 ---

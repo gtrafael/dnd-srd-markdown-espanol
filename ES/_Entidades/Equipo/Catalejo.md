@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Catalejo (1000 po)|Catalejo (1000 po)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Catalejo (1000 po)"
 ---

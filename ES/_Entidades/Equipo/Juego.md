@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/Herramientas#Juego (variable)|Juego (variable)]]"
+  - note: "Equipo/Herramientas.md"
+    section: "Juego (variable)"
 ---

@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Trampa para cazar (5 po)|Trampa para cazar (5 po)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Trampa para cazar (5 po)"
 ---

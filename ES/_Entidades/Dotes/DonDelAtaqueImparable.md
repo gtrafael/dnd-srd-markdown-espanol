@@ -5,5 +5,6 @@ entity_type: dote
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Dotes/DotesDeDonEpico#Don del ataque imparable|Don del ataque imparable]]"
+  - note: "Dotes/DotesDeDonEpico.md"
+    section: "Don del ataque imparable"
 ---

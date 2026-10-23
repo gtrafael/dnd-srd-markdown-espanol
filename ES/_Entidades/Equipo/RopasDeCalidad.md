@@ -5,5 +5,6 @@ entity_type: equipo
 generated: true
 generated_by: scripts/generar_wikilinks_es.py
 sources:
-  - "[[Equipo/EquipoDeAventureros#Ropas de calidad (15 po)|Ropas de calidad (15 po)]]"
+  - note: "Equipo/EquipoDeAventureros.md"
+    section: "Ropas de calidad (15 po)"
 ---
