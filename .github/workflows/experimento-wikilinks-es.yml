@@ -32,7 +32,7 @@ jobs:
       - name: Simular generación
         run: python scripts/generar_wikilinks_es.py --dry-run
 
-      - name: Generar wikilinks v2
+      - name: Generar wikilinks v3
         run: python scripts/generar_wikilinks_es.py
 
       - name: Validar invariantes
@@ -43,24 +43,19 @@ jobs:
           import subprocess
           import sys
 
-          GENERATED = Path("ES/_Entidades")
-          FORBIDDEN = (
-              "[[Equipo/Armas|",
-              "[[Equipo/Armaduras|",
-              "[[Equipo/EquipoDeAventureros|",
-              "[[Equipo/Herramientas|",
-              "[[Conjuros/Conjuros|",
-              "[[Dotes/Dotes",
-              "[[Clases/Clases-Index|",
-          )
+          if Path("ES/_Entidades").exists():
+              print("ERROR: v3 no permite ES/_Entidades.")
+              sys.exit(1)
 
           def strip_frontmatter(text: str) -> str:
               if not text.startswith("---"):
                   return text
+
               lines = text.splitlines(keepends=True)
-              for i in range(1, len(lines)):
-                  if lines[i].strip() == "---":
-                      return "".join(lines[i + 1:])
+              for index in range(1, len(lines)):
+                  if lines[index].strip() == "---":
+                      return "".join(lines[index + 1:])
+
               return text
 
           changed = subprocess.check_output(
@@ -69,39 +64,25 @@ jobs:
           ).splitlines()
 
           body_errors = []
-          forbidden_errors = []
-          generated_link_errors = []
 
           for name in changed:
               path = Path(name)
-              if path.suffix != ".md":
+              if not path.exists() or path.suffix != ".md":
                   continue
 
-              # git diff también lista archivos eliminados. Si el generador ha
-              # retirado un nodo obsoleto, no hay contenido actual que validar.
-              if not path.exists():
+              before = subprocess.run(
+                  ["git", "show", f"HEAD:{name}"],
+                  text=True,
+                  capture_output=True,
+              )
+
+              if before.returncode != 0:
                   continue
 
-              text = path.read_text(encoding="utf-8")
+              after = path.read_text(encoding="utf-8")
 
-              if not path.is_relative_to(GENERATED):
-                  before = subprocess.run(
-                      ["git", "show", f"HEAD:{name}"],
-                      text=True,
-                      capture_output=True,
-                  )
-                  if before.returncode == 0 and strip_frontmatter(before.stdout) != strip_frontmatter(text):
-                      body_errors.append(name)
-
-              for token in FORBIDDEN:
-                  if token in text:
-                      forbidden_errors.append((name, token))
-
-              # Los nodos auxiliares son identidades puras. Incluso la
-              # trazabilidad hacia su fuente debe ser texto, no un wikilink,
-              # para no reintroducir capítulos contenedores en el grafo.
-              if path.is_relative_to(GENERATED) and "[[" in text:
-                  generated_link_errors.append(name)
+              if strip_frontmatter(before.stdout) != strip_frontmatter(after):
+                  body_errors.append(name)
 
           if body_errors:
               print("ERROR: se modificó el cuerpo Markdown:")
@@ -109,20 +90,16 @@ jobs:
                   print("  -", name)
               sys.exit(1)
 
-          if forbidden_errors:
-              print("ERROR: quedan destinos contenedores prohibidos:")
-              for name, token in forbidden_errors:
-                  print(f"  - {name}: {token}")
-              sys.exit(1)
-
-          if generated_link_errors:
-              print("ERROR: un nodo auxiliar contiene wikilinks de trazabilidad:")
-              for name in generated_link_errors:
-                  print(f"  - {name}")
-              sys.exit(1)
-
-          print(f"OK: {len(changed)} archivos cambian respetando los invariantes v2.")
+          print(f"OK: {len(changed)} archivos cambian únicamente en frontmatter.")
           PY
+
+      - name: Validar idempotencia
+        shell: bash
+        run: |
+          git diff -- ES > /tmp/antes.diff
+          python scripts/generar_wikilinks_es.py
+          git diff -- ES > /tmp/despues.diff
+          cmp /tmp/antes.diff /tmp/despues.diff
 
       - name: Guardar resultado
         shell: bash
@@ -135,5 +112,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ES
-          git commit -m "experimento: regenerar wikilinks ES v2"
+          git commit -m "experimento: regenerar wikilinks ES v3"
           git push
