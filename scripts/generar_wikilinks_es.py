@@ -224,6 +224,12 @@ def embedded_entities(es: Path) -> list[EmbeddedEntity]:
             if norm(first) in headers:
                 table_header = norm(first)
                 continue
+
+            # Las filas de la tabla de animales ya tienen identidad propia en
+            # ES/Animales. No generamos un segundo nodo de Equipo para ellas.
+            if name == "MonturasYVehiculos.md" and table_header == "animal":
+                continue
+
             title = first
             if name == "MonturasYVehiculos.md" and table_header == "silla":
                 title = "Silla " + first.casefold()
