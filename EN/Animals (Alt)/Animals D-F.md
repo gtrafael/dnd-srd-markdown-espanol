@@ -1,7 +1,5 @@
 # Animals D-F
 
-**Entradas:** 8
-
 - [[Animals/Deer|Deer]]
 - [[Animals/Dire Wolf|Dire Wolf]]
 - [[Animals/Draft Horse|Draft Horse]]

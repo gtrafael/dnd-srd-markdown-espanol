@@ -32,6 +32,10 @@ When you score a Critical Hit, you deal extra damage. Roll the attack's damage d
 
 Damage dealt via saving throws uses these rules.
 
+### Resting
+
+Adventurers can't spend every hour adventuring. They need rest. Any creature can take hour-long Short Rests in the midst of a day and an 8-hour Long Rest to end it. Regaining Hit Points is one of the main benefits of a rest. "Rules Glossary" provides the rules for Short and Long Rests.
+
 ### Damage against Multiple Targets
 
 When you create a damaging effect that forces two or more targets to make saving throws against it at the same time, roll the damage once for all the targets. For example, when a wizard casts Fireball, the spell's damage is rolled once for all creatures caught in the blast.
@@ -89,6 +93,10 @@ If your character dies, others might find a magical way to revive your character
 ### Falling Unconscious
 
 If you reach 0 Hit Points and don't die instantly, you have the Unconscious condition (see "Rules Glossary") until you regain any Hit Points, and you now face making Death Saving Throws (see below).
+
+### Knocking Out a Creature
+
+When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the Unconscious condition. It then starts a Short Rest, at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful DC 10 Wisdom (Medicine) check.
 
 ### Death Saving Throws
 

@@ -1,7 +1,5 @@
 # Monsters A-Z G-I
 
-**Entradas:** 40
-
 - [[Monsters A-Z/Gargoyle|Gargoyle]]
 - [[Monsters A-Z/Gelatinous Cube|Gelatinous Cube]]
 - [[Monsters A-Z/Ghast|Ghast]]

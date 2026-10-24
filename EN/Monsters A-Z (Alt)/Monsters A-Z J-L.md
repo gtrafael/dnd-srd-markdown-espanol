@@ -1,7 +1,5 @@
 # Monsters A-Z J-L
 
-**Entradas:** 6
-
 - [[Monsters A-Z/Knight|Knight]]
 - [[Monsters A-Z/Kobold Warrior|Kobold Warrior]]
 - [[Monsters A-Z/Kraken|Kraken]]

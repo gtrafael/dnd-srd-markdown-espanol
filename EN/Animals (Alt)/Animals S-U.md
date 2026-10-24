@@ -1,7 +1,5 @@
 # Animals S-U
 
-**Entradas:** 13
-
 - [[Animals/Saber-Toothed Tiger|Saber-Toothed Tiger]]
 - [[Animals/Scorpion|Scorpion]]
 - [[Animals/Seahorse|Seahorse]]

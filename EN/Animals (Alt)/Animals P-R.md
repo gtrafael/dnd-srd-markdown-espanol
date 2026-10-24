@@ -1,7 +1,5 @@
 # Animals P-R
 
-**Entradas:** 11
-
 - [[Animals/Panther|Panther]]
 - [[Animals/Piranha|Piranha]]
 - [[Animals/Plesiosaurus|Plesiosaurus]]

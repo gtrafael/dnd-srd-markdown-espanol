@@ -33,6 +33,10 @@ Each ability has a score from 1 to 20, although some monsters have a score as hi
 | 21–29 | This represents an extraordinary capability.                                                                      |
 | 30    | This is the highest a score can go.                                                                               |
 
+### Round Down
+
+Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
+
 ## Ability Modifiers
 
 Each ability has a modifier that you apply whenever you make a D20 Test with that ability (explained in "D20 Tests"). An ability modifier is derived from its score, as shown in the Ability Modifiers table.

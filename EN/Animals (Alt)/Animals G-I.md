@@ -1,7 +1,5 @@
 # Animals G-I
 
-**Entradas:** 33
-
 - [[Animals/Giant Ape|Giant Ape]]
 - [[Animals/Giant Badger|Giant Badger]]
 - [[Animals/Giant Bat|Giant Bat]]

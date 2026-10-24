@@ -30,6 +30,14 @@ Cuando causes un crítico, infligirás daño adicional. Tira los dados de daño 
 
 El daño causado por medio de una tirada de salvación aplica estas reglas.
 
+### Descansar
+
+Los personajes no pueden pasarse cada momento del día enfrascados en sus aventuras. Necesitan descansar. Todas las criaturas pueden hacer descansos cortos de una hora durante el día y uno largo de 8 horas al finalizarlo. Recuperar puntos de golpe es uno de los beneficios principales de descansar. En el capítulo “Glosario de reglas” se explica cómo funcionan los descansos cortos y los largos.
+
+### Daño contra varios objetivos
+
+Cuando crees un efecto dañino que obligue a dos o más objetivos a hacer tiradas de salvación contra él al mismo tiempo, tira el daño una vez para todos los objetivos. Por ejemplo, si una maga lanza una bola de fuego, se tira el daño del conjuro una única vez para todas las criaturas atrapadas en la deflagración.
+
 ## Mitad del daño
 
 Muchos efectos con tiradas de salvación causan la mitad del daño (redondeado hacia abajo) a un objetivo cuando este supera la tirada. El daño reducido equivale a la mitad del daño que habría sufrido al fallar la tirada de salvación.
@@ -74,7 +82,19 @@ Muerte de monstruos. Un monstruo muere en cuanto sus puntos de golpe se reducen 
 
 Puntos de golpe máximos de 0. Una criatura muere si sus puntos de golpe máximos llegan a 0. Ciertos efectos absorben la energía vital y reducen los puntos de golpe máximos de las criaturas.
 
-Daño considerable. Si el daño reduce a 0 los puntos de golpe de un personaje y sigue quedando daño por asignar, ese personaje morirá si el daño restante es mayor o igual a sus puntos de golpe máximos. Por ejemplo, si tu personaje tiene 12 puntos de
+Daño considerable. Si el daño reduce a 0 los puntos de golpe de un personaje y sigue quedando daño por asignar, ese personaje morirá si el daño restante es mayor o igual a sus puntos de golpe máximos. Por ejemplo, si tu personaje tiene 12 puntos de golpe máximos, pero ahora le quedan 6 y sufre 18 de daño, sus puntos de golpe se reducirán a 0 y aún quedarán 12 de daño por asignar. En ese caso, el personaje morirá, ya que 12 es igual a sus puntos de golpe máximos.
+
+### Muerte de personajes
+
+Si tu personaje muere, los otros podrían encontrar un medio mágico de revivirlo, como el conjuro alzar a los muertos. También puedes plantear a tu GM crear un personaje nuevo que se unirá al grupo. El capítulo “Glosario de reglas” contiene más información sobre estar muerto.
+
+### Caer inconsciente
+
+Si tus puntos de golpe se reducen a 0, pero no mueres al instante, tendrás el estado de inconsciente (consulta el capítulo “Glosario de reglas”) hasta que recuperes cualquier cantidad de puntos de golpe y deberás realizar tiradas de salvación contra muerte (consulta a continuación).
+
+### Noquear a una criatura
+
+Si fueses a reducir a 0 los puntos de golpe de una criatura con un ataque cuerpo a cuerpo, puedes optar por dejarla con 1 punto de golpe e imponerle el estado de inconsciente. En ese caso, comenzará un descanso corto y, al terminarlo, se librará de dicho estado. El estado concluirá antes si la criatura recupera puntos de golpe o si alguien utiliza una acción para administrarle primeros auxilios superando una prueba de Sabiduría (Medicina) con CD 10.
 
 ## Tiradas de salvación contra muerte
 

@@ -1,7 +1,5 @@
 # Monstruos A-Z P-R
 
-**Entradas:** 16
-
 - [[MonstruosDeLaAALaZ/Pegaso|Pegaso]]
 - [[MonstruosDeLaAALaZ/Pendenciero|Pendenciero]]
 - [[MonstruosDeLaAALaZ/PerroDelInframundo|Perro del inframundo]]

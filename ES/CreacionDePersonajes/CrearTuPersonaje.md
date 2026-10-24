@@ -252,6 +252,12 @@ Neutral malvado (NM). Neutral malvado es el alineamiento de las personas a las q
 
 Caótico malvado (CM). Las criaturas caóticas malvadas recurren a la violencia arbitrariamente, movidas por el odio o el ansia de sangre. Un villano que maquina venganzas y siembra el caos probablemente sea caótico malvado.
 
+### Criaturas sin alineamiento
+
+La mayoría de las criaturas que carecen de raciocinio no poseen alineamiento alguno: son sin alineamiento. Los tiburones son depredadores salvajes, por ejemplo, pero no son malvados; simplemente, no tienen alineamiento.
+
+El juego da por hecho que los personajes de los jugadores no tienen un alineamiento malvado. Habla con tu GM antes de crear un personaje malvado.
+
 ### Paso 5: detalles de la creación del personaje
 
 Ahora completa el resto de la hoja de personaje.

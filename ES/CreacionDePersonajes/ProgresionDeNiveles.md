@@ -77,3 +77,7 @@ En el tercer escalón, los personajes habrán alcanzado un nivel de poder que le
 ## Escalón 4 (niveles 17 a 20)
 
 En el cuarto escalón, los personajes alcanzan la cúspide de sus rasgos de clase y se transforman en arquetipos de heroísmo. El destino del mundo e incluso el orden fundamental del multiverso podrían pender de un hilo en sus aventuras.
+
+### Dotes adicionales en el nivel 20
+
+Los GM pueden utilizar las dotes como herramienta de progreso una vez que los personajes han alcanzado el nivel 20 para proporcionar más poder a quienes ya no pueden subir más de nivel. De esta forma, cada personaje obtiene una dote de su elección por cada 30 000 PX que consiga por encima de los 355 000. Las dotes de don épico son especialmente apropiadas como dotes adicionales, pero un jugador puede escoger cualquier dote a la que pueda optar su personaje de nivel 20.

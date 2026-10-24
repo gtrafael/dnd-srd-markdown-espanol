@@ -1,7 +1,5 @@
 # Monsters A-Z M-O
 
-**Entradas:** 23
-
 - [[Monsters A-Z/Mage|Mage]]
 - [[Monsters A-Z/Magma Mephit|Magma Mephit]]
 - [[Monsters A-Z/Magmin|Magmin]]

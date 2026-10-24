@@ -1,7 +1,5 @@
 # Monstruos A-Z M-O
 
-**Entradas:** 26
-
 - [[MonstruosDeLaAALaZ/Magmin|Magmin]]
 - [[MonstruosDeLaAALaZ/Mago|Mago]]
 - [[MonstruosDeLaAALaZ/Manto|Manto]]

@@ -1,7 +1,5 @@
 # Animales J-L
 
-**Entradas:** 7
-
 - [[Animales/Jabali|Jabalí]]
 - [[Animales/JabaliGigante|Jabalí gigante]]
 - [[Animales/Lagarto|Lagarto]]

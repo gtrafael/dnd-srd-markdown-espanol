@@ -18,6 +18,14 @@ Propiedades. Las propiedades de un arma se muestran en la columna “Propiedades
 
 Maestría. Cada arma tiene una propiedad de maestría, que se define en la sección “Propiedades de maestría”. Para utilizar esa propiedad, debes tener un rasgo que te lo permita.
 
+## Armas improvisadas
+
+Si utilizas un objeto como una pata de una mesa, una sartén o una botella como arma provisional, consulta “Armas improvisadas” en el capítulo “Glosario de reglas”. Consulta esas reglas también si usas un arma de una forma atípica, como utilizar un arma a distancia para hacer un ataque cuerpo a cuerpo.
+
+## Vender equipo
+
+El equipo se vende a la mitad de su precio de compra. Sin embargo, las mercancías y los objetos valiosos, como las gemas y las obras de arte, mantienen su valor completo en el mercado. El capítulo “Objetos mágicos” contiene precios para los objetos mágicos.
+
 ## Competencia con armas
 
 Todo el mundo puede blandir un arma, pero debes ser competente con ella para poder sumar el bonificador por competencia a cualquier tirada de ataque que hagas con ella. Los rasgos de un personaje pueden proporcionar competencias con armas. Un monstruo es competente con cualquier arma que aparezca en su perfil.

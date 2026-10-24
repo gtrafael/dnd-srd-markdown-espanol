@@ -1,7 +1,5 @@
 # Animales M-O
 
-**Entradas:** 9
-
 - [[Animales/Mamut|Mamut]]
 - [[Animales/Mastin|Mastín]]
 - [[Animales/Mula|Mula]]

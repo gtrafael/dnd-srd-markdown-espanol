@@ -1,7 +1,5 @@
 # Monsters A-Z S-U
 
-**Entradas:** 33
-
 - [[Monsters A-Z/Sahuagin Warrior|Sahuagin Warrior]]
 - [[Monsters A-Z/Salamander|Salamander]]
 - [[Monsters A-Z/Satyr|Satyr]]

@@ -1,0 +1,11 @@
+---
+aliases: ["Anteojos de encantamiento", "Eyes of Charming"]
+tags: [srd, espanol, tag_tesoro]
+related_en: "[[Magic Items/Magic Items A-Z/Eyes of Charming|Eyes of Charming (EN)]]"
+---
+
+# Anteojos de encantamiento
+
+*Objeto maravilloso, infrecuente (requiere sintonización)*
+
+Estas lentes de cristal cubren los ojos y tienen 3 cargas. Mientras las lleves puestas, puedes gastar 1 o más cargas para lanzar hechizar persona (CD de salvación 13). Si empleas 1 carga, podrás lanzar la versión de nivel 1 del conjuro. Aumentarás el nivel del conjuro en 1 por cada carga adicional que emplees. Las lentes recuperan todas las cargas empleadas cada día, al amanecer.

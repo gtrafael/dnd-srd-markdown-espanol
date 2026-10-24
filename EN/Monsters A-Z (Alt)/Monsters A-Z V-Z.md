@@ -1,7 +1,5 @@
 # Monsters A-Z V-Z
 
-**Entradas:** 33
-
 - [[Monsters A-Z/Vampire|Vampire]]
 - [[Monsters A-Z/Vampire Familiar|Vampire Familiar]]
 - [[Monsters A-Z/Vampire Spawn|Vampire Spawn]]

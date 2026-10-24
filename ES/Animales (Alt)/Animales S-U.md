@@ -1,7 +1,5 @@
 # Animales S-U
 
-**Entradas:** 18
-
 - [[Animales/SapoGigante|Sapo gigante]]
 - [[Animales/SerpienteConstrictora|Serpiente constrictora]]
 - [[Animales/SerpienteConstrictoraGigante|Serpiente constrictora gigante]]

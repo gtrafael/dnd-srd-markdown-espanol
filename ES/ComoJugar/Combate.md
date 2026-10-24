@@ -36,7 +36,37 @@ Empates. Si hay un empate en las tiradas de iniciativa, cada GM elige el orden e
 
 En tu turno puedes moverte una distancia que no supere tu velocidad y llevar a cabo una acción. Puedes elegir si primero quieres moverte o realizar tu acción.
 
-Las principales acciones que puedes llevar a cabo se describen en el apartado “Acciones” anteriormente en “Cómo jugar”. Los rasgos de un personaje y el perfil de un monstruo amplían el abanico de acciones. El apartado “Movimiento y posición”, que
+Las principales acciones que puedes llevar a cabo se describen en el apartado “Acciones” anteriormente en “Cómo jugar”. Los rasgos de un personaje y el perfil de un monstruo amplían el abanico de acciones. El apartado “Movimiento y posición”, que aparece más adelante en “Cómo jugar”, contiene las normas que regulan el movimiento.
+
+Comunicarse. En tu turno puedes comunicarte en la medida que resulte posible, ya sea con frases cortas o gestos. Para ello, no necesitas invertir tu movimiento ni tu acción.
+
+Sin embargo, una comunicación más amplia, como una explicación detallada o un intento de persuadir a un enemigo, requiere una acción. Para tratar de influir en un monstruo, utiliza la acción de influir.
+
+Interactuar con cosas. Puedes interactuar con un objeto o un elemento del entorno sin coste alguno como parte de tu movimiento o acción. Por ejemplo, podrías abrir una puerta durante tu movimiento cuando avances hacia un enemigo.
+
+Si quieres interactuar con un segundo objeto, tendrás que realizar la acción de utilizar. Algunos objetos mágicos, así como otros objetos especiales, precisan siempre de una acción para poder usarlos, como se indica en sus descripciones.
+
+En cualquier caso, tu GM tiene libertad de exigirte usar una acción para estas actividades si se requiere un cuidado especial o si se trata de un obstáculo fuera de lo normal. Por ejemplo, tu GM te podría pedir que uses la acción de utilizar para abrir una puerta atascada o girar una manivela que baje un puente levadizo.
+
+No hacer nada en tu turno. Si quieres, puedes renunciar a moverte o a llevar a cabo tu acción, o incluso decidir que no haces absolutamente nada en tu turno. Si no sabes qué hacer, plantéate llevar a cabo la acción defensiva de esquivar o la de preparar una acción para retrasar tu intervención.
+
+### Terminar el combate
+
+El combate concluye cuando uno de los bandos resulta vencido, lo que puede significar que las criaturas hayan muerto, hayan perdido el sentido, se hayan rendido o hayan huido. El combate puede acabar también cuando ambos bandos acuerden terminarlo.
+
+### Jugar con una cuadrícula
+
+Si juegas con una cuadrícula y miniaturas u otras fichas, sigue estas reglas.
+
+Casillas. Cada casilla representa 1,5 m.
+
+Velocidad. Te desplazas casilla a casilla por la cuadrícula, por lo que utilizas tu velocidad en incrementos de 1,5 m. Puedes traducir tu velocidad en casillas dividiéndola entre 1,5. Por ejemplo, una velocidad de 9 m se traduce en 6 casillas. Si sueles emplear una cuadrícula, plantéate anotar tu velocidad en casillas en tu hoja de personaje.
+
+Entrar en una casilla. Para entrar en una casilla, te debe quedar movimiento suficiente que tendrás que invertir. Cuesta 1 casilla de movimiento entrar en una casilla sin ocupar que esté adyacente a la casilla en la que te encuentras (en perpendicular o diagonal). Entrar en una casilla de terreno difícil cuesta 2 casillas de movimiento. Otros efectos podrían aumentar el coste en casillas.
+
+Esquinas. Los movimientos en diagonal no pueden atravesar la esquina de un muro, un árbol grande u otro elemento del terreno que ocupe su espacio.
+
+Alcances. Para determinar el alcance entre dos elementos (criaturas u objetos) en una cuadrícula, cuenta las casillas que los separan comenzando por la casilla adyacente a uno de ellos y terminando en la casilla del otro. Sigue el camino más corto.
 
 ## Movimiento y posición
 
@@ -110,6 +140,14 @@ Cobertura
 | Media        | Bonificador de +2 a la CA y a las tiradas de salvación de Destreza | Otra criatura o un objeto que cubra al menos la mitad del objetivo |
 | Tres cuartos | Bonificador de +5 a la CA y a las tiradas de salvación de Destreza | Un objeto que cubra al menos tres cuartos del objetivo             |
 | Completa     | No puede ser objetivo directo de ataques ni conjuros               | Un objeto que cubre todo el objetivo                               |
+
+#### Atacantes y objetivos ocultos
+
+Cuando ataques a un objetivo al que no puedas ver, tendrás desventaja en la tirada. Esta regla se aplica tanto si estás intentando adivinar la ubicación del objetivo como si haces objetivo a una criatura a la que puedes oír pero no ver. Si el objetivo no se encuentra en el lugar al que diriges tu ataque, fallarás.
+
+Cuando ataques a un objetivo que no te pueda ver, tendrás ventaja en la tirada de ataque.
+
+Si estás escondido cuando haces una tirada de ataque, revelarás tu ubicación tanto si el ataque acierta como si no.
 
 #### Ataques a distancia
 

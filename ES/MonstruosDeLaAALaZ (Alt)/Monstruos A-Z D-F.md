@@ -1,7 +1,5 @@
 # Monstruos A-Z D-F
 
-**Entradas:** 70
-
 - [[MonstruosDeLaAALaZ/Deva|Deva]]
 - [[MonstruosDeLaAALaZ/Diablillo|Diablillo]]
 - [[MonstruosDeLaAALaZ/DiabloAstado|Diablo astado]]

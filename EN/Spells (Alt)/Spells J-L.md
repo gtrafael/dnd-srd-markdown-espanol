@@ -1,15 +1,13 @@
 # Spells J-L
 
-**Entradas:** 11
-
-- [[Spells/Jump|Jump]]
-- [[Spells/Knock|Knock]]
-- [[Spells/Legend Lore|Legend Lore]]
-- [[Spells/Lesser Restoration|Lesser Restoration]]
-- [[Spells/Levitate|Levitate]]
-- [[Spells/Light|Light]]
-- [[Spells/Lightning Bolt|Lightning Bolt]]
-- [[Spells/Locate Animals or Plants|Locate Animals or Plants]]
-- [[Spells/Locate Creature|Locate Creature]]
-- [[Spells/Locate Object|Locate Object]]
-- [[Spells/Longstrider|Longstrider]]
+- [[Spells/Spell Descriptions/Jump|Jump]]
+- [[Spells/Spell Descriptions/Knock|Knock]]
+- [[Spells/Spell Descriptions/Legend Lore|Legend Lore]]
+- [[Spells/Spell Descriptions/Lesser Restoration|Lesser Restoration]]
+- [[Spells/Spell Descriptions/Levitate|Levitate]]
+- [[Spells/Spell Descriptions/Light|Light]]
+- [[Spells/Spell Descriptions/Lightning Bolt|Lightning Bolt]]
+- [[Spells/Spell Descriptions/Locate Animals or Plants|Locate Animals or Plants]]
+- [[Spells/Spell Descriptions/Locate Creature|Locate Creature]]
+- [[Spells/Spell Descriptions/Locate Object|Locate Object]]
+- [[Spells/Spell Descriptions/Longstrider|Longstrider]]
