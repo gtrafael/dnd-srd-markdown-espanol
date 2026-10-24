@@ -122,3 +122,47 @@ Además, varios falsos positivos sobreviven aunque respetemos mayúsculas:
 Por tanto, la v3 mantiene por ahora la comparación sin distinguir mayúsculas y
 minúsculas. Cualquier refinamiento posterior debe ser más conservador y medirse
 sobre ejemplos reales antes de incorporarse.
+
+
+## V3.1: conjuros de una palabra
+
+La auditoría de la v3 mostró que la mayor parte del ruido restante procedía de
+conjuros cuyo nombre también es vocabulario ordinario: Luz, Escudo, Resistencia,
+Dormir, Volar, Terror, Ralentizar, Adivinación, etc.
+
+No se aplica sensibilidad global a mayúsculas/minúsculas, porque el SRD contiene
+muchas referencias válidas en minúscula a clases, monstruos, animales y
+conjuros.
+
+La v3.1 añade una regla únicamente para destinos de tipo conjuro cuyo título
+consta de una sola palabra:
+
+- en tablas, la coincidencia solo es válida si cae en una columna cuyo
+  encabezado contiene "Conjuro" o "Truco";
+- en prosa, la coincidencia necesita contexto cercano explícito de conjuro,
+  como conjuro/conjuros, truco/trucos, lanzar, preparar o aprender.
+
+Los conjuros de varias palabras y las demás categorías conservan el
+comportamiento anterior.
+
+Ejemplos:
+
+- "el águila puede volar 18 m" no enlaza al conjuro Volar;
+- "puedes lanzar el conjuro volar" sí enlaza Volar;
+- Adivinación en la columna Escuela no enlaza el conjuro Adivinación;
+- Adivinación en la columna Conjuro sí lo enlaza;
+- Ralentizar en una columna Maestría no enlaza el conjuro Ralentizar.
+
+El workflow contiene pruebas de regresión para estos casos.
+
+### Resultado
+
+Tras aplicar esta protección, el grafo pasa de 4234 a 3639 wikilinks
+automáticos. La reducción es de 595 relaciones. La revisión de muestras confirma
+que desaparecen falsos positivos masivos como Volar en velocidades de animales,
+Luz en iluminación, Escudo como equipo, Ralentizar como maestría y Adivinación
+como escuela mágica, mientras se conservan las apariciones dentro de listas de
+conjuros y en contexto explícito de lanzamiento.
+
+La generación sigue siendo idempotente y el workflow completo termina
+correctamente.
