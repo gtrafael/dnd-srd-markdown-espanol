@@ -109,19 +109,22 @@ jobs:
           assert not any("Conjuros/Volar" in x for x in links("El águila puede volar 18 m."))
           assert any("Conjuros/Volar" in x for x in links("Puedes lanzar el conjuro volar sobre una criatura."))
 
-          tabla_conjuro = """| Conjuro | Escuela |
-|---|---|
-| Adivinación | Adivinación |
-"""
-          tabla_escuela = """| Nombre | Escuela |
-| Detectar magia | Adivinación |
-"""
+          tabla_conjuro = (
+              "| Conjuro | Escuela |\n"
+              "|---|---|\n"
+              "| Adivinación | Adivinación |\n"
+          )
+          tabla_escuela = (
+              "| Nombre | Escuela |\n"
+              "| Detectar magia | Adivinación |\n"
+          )
           assert any("Conjuros/Adivinacion" in x for x in links(tabla_conjuro))
           assert not any("Conjuros/Adivinacion" in x for x in links(tabla_escuela))
 
-          tabla_maestria = """| Arma | Maestría |
-| Garrote | Ralentizar |
-"""
+          tabla_maestria = (
+              "| Arma | Maestría |\n"
+              "| Garrote | Ralentizar |\n"
+          )
           assert not any("Conjuros/Ralentizar" in x for x in links(tabla_maestria))
 
           print("OK: los conjuros de una palabra exigen contexto estructural o léxico de conjuro.")
