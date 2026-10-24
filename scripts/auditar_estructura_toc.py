@@ -63,6 +63,18 @@ def primer_h1(texto: str) -> str | None:
     return None
 
 
+def titulos_descendientes(meta: dict) -> set[str]:
+    out: set[str] = set()
+    children = meta.get("children", {})
+    if not isinstance(children, dict):
+        return out
+    for titulo, child in children.items():
+        out.add(clave(titulo))
+        if isinstance(child, dict):
+            out |= titulos_descendientes(child)
+    return out
+
+
 def indice_esperado(folder: Path) -> str:
     return f"00-{folder.name}-Index.md"
 
@@ -122,6 +134,7 @@ def auditar(indice: dict, raiz: Path) -> dict:
         catalogos_faltantes = []
 
         claves_hijos = {clave(x) for x in children}
+        descendientes = titulos_descendientes(meta)
 
         for titulo in children:
             catalogo = CATALOGOS.get((capitulo, titulo))
@@ -140,7 +153,7 @@ def auditar(indice: dict, raiz: Path) -> dict:
 
         for nombre, info in archivos.items():
             k = info["clave_h1"]
-            if k == clave(capitulo) or k in claves_hijos:
+            if k == clave(capitulo) or k in claves_hijos or k in descendientes:
                 continue
             if carpeta in CARPETAS_ENTIDADES:
                 continue
