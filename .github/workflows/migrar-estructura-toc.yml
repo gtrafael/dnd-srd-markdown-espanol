@@ -33,6 +33,18 @@ jobs:
         run: |
           python -m py_compile scripts/migrar_estructura_toc.py
           python -m py_compile scripts/generar_indices_obsidian.py
+          python -m py_compile scripts/auditar_estructura_toc.py
+          python -m py_compile scripts/generar_corpus_limpio.py
+
+      - name: Gates estructurales
+        run: |
+          python scripts/auditar_estructura_toc.py \
+            --indice src/SP_SRD_CC_V5.2.1_index.json \
+            --es ES \
+            --salida auditoria-toc-es.json
+          python scripts/auditar_simetria_es_en.py --salida auditoria-simetria.json
+          python scripts/auditar_tablas_semanticas.py \
+            --es ES --en EN --salida auditoria-tablas.json
 
       - name: Publicar migración
         shell: bash
