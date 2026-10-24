@@ -151,45 +151,30 @@ def validar_salida(relaciones: list[dict]) -> None:
             )
 
 
-def validar_fronteras_recuadros() -> None:
-    combate = (ROOT / "ES/ComoJugar/Combate.md").read_text(encoding="utf-8")
-    ocultos = (ROOT / "ES/ComoJugar/AtacantesYObjetivosOcultos.md").read_text(encoding="utf-8")
+def validar_recuadros_integrados() -> None:
+    """Los recuadros son contenido del padre, nunca notas canónicas separadas."""
+    separados = []
+    for idioma in ("ES", "EN"):
+        for path in (ROOT / idioma).rglob("*.md"):
+            if "(Alt)" in path.as_posix() or path.name.endswith("-Index.md"):
+                continue
+            fm = leer_frontmatter(path.read_text(encoding="utf-8")).casefold()
+            if "recuadro" in fm or "callout" in fm:
+                separados.append(str(path.relative_to(ROOT)))
+    if separados:
+        raise SystemExit("Quedan recuadros separados: " + ", ".join(separados))
 
-    frase = (
-        "Intentar un ataque a distancia se complica si el enemigo está junto a ti. "
-        "Cuando hagas un ataque a distancia, ya sea con un arma, un conjuro o cualquier "
-        "otro medio, tendrás desventaja en la tirada si estás a 1,5 m o menos de un enemigo "
-        "que pueda verte y no tenga el estado de incapacitado "
-        "(consulta el capítulo “Glosario de reglas”)."
-    )
-    cola_espuria = "otro medio, tendrás desventaja en la tirada"
-
-    if frase not in combate:
-        raise SystemExit(
-            "Regresión de frontera: la frase de ataques a distancia quedó truncada en Combate.md"
-        )
-    if cola_espuria in ocultos:
-        raise SystemExit(
-            "Regresión de frontera: AtacantesYObjetivosOcultos.md absorbió prosa de Combate.md"
-        )
-
-    lanzar = (ROOT / "ES/Conjuros/LanzarConjuros.md").read_text(encoding="utf-8")
-    armadura = (ROOT / "ES/Conjuros/LanzarConjurosConArmadura.md").read_text(encoding="utf-8")
-    casting = (ROOT / "EN/Spells/Casting Spells.md").read_text(encoding="utf-8")
-
-    if "## Nivel del conjuro" not in lanzar or "## Listas de conjuros de clases" not in lanzar:
-        raise SystemExit(
-            "Regresión de frontera: LanzarConjuros.md perdió secciones anteriores al callout de armadura"
-        )
-    if "Nivel del conjuro" in armadura:
-        raise SystemExit(
-            "Regresión de frontera: LanzarConjurosConArmadura.md absorbió contenido del documento padre"
-        )
-    if "## Casting in Armour" in casting:
-        raise SystemExit(
-            "Regresión de frontera: Casting in Armor sigue duplicado dentro de Casting Spells.md"
-        )
-
+    esperados = {
+        "ES/Clases/Mago.md": "### Ampliar y sustituir un libro de conjuros",
+        "EN/Classes/Wizard.md": "### Expanding and Replacing a Spellbook",
+        "ES/Conjuros/LanzarConjuros.md": "## Lanzar conjuros con armadura",
+        "EN/Spells/Casting Spells.md": "## Casting in Armor",
+        "ES/ComoJugar/Combate.md": "### Jugar con una cuadrícula",
+        "EN/Playing the Game/Combat.md": "### Playing on a Grid",
+    }
+    for rel, heading in esperados.items():
+        if heading not in (ROOT / rel).read_text(encoding="utf-8"):
+            raise SystemExit(f"Falta recuadro integrado {heading!r} en {rel}")
 
 def main() -> int:
     relaciones: list[dict] = []
