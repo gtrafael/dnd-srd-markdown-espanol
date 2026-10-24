@@ -125,15 +125,15 @@ motor ni introducir reglas paralelas.
 
 Tras la primera regeneración completa ES-EN:
 
-- ES conserva exactamente su comportamiento anterior:
-  - 861 entidades;
-  - 859 títulos;
-  - 193 bloqueadores;
-  - 2 homónimos reales: Druida y Mago;
-  - 3636 wikilinks.
-- EN genera:
+- ES:
   - 939 entidades;
-  - 938 títulos;
+  - 937 títulos únicos;
+  - 194 bloqueadores;
+  - 2 homónimos reales: Druida y Mago;
+  - 3655 wikilinks.
+- EN:
+  - 939 entidades;
+  - 938 títulos únicos;
   - 200 bloqueadores;
   - 1 homónimo real: Druid clase y Druid monstruo;
   - 3247 wikilinks.
@@ -160,3 +160,50 @@ normales del mismo idioma. Por ejemplo:
 
 El workflow contiene una prueba explícita para conservar estas relaciones en
 ambos idiomas.
+
+
+## Auditoría de simetría ES-EN
+
+La estructura física de las familias de entidad es simétrica:
+
+- 12 clases/classes;
+- 95 animales/animals;
+- 339 conjuros/spells;
+- 235 monstruos/monsters;
+- 258 objetos mágicos/magic items.
+
+También existen 1010 notas analizables en cada idioma.
+
+La diferencia inicial de 861 entidades ES frente a 939 EN no procedía del
+corpus. El detector español de objetos mágicos dependía de palabras de rareza
+del descriptor y omitía formas femeninas y entradas de rareza variable. La
+carpeta canónica `ObjetosMagicos/ObjetosMagicosDeLaAALaZ` ya contiene una nota
+física por entidad, por lo que ahora se usa esa estructura como fuente de
+verdad, igual que `Magic Items/Magic Items A-Z` en EN.
+
+Tras el cambio ambos idiomas contienen 939 entidades. La diferencia de títulos
+únicos (937 ES frente a 938 EN) es legítima: ES tiene dos homónimos
+clase/monstruo (Druida y Mago), mientras EN solo tiene Druid; Wizard y Mage son
+nombres distintos.
+
+El workflow comprueba dinámicamente que todos los objetos mágicos físicos de las
+carpetas canónicas sean detectados, sin fijar el número 258 en el código.
+
+## Pendientes semánticos para la decisión final del grafo
+
+La auditoría ha identificado relaciones léxicamente válidas o ambiguas cuya
+conveniencia depende de qué queramos que signifique una arista. No se han
+corregido todavía:
+
+- Guard/Guardia puede aparecer por expresiones ordinarias como "drop their
+  guard" o "bajar/montar guardia";
+- Spy puede aparecer por el verbo inglés "to spy";
+- el filtro contextual de spells/conjuros de una palabra todavía puede aceptar
+  Creation/Creación o Shield/Escudo cuando una referencia ordinaria queda cerca
+  de las palabras spell/conjuro en una frase larga;
+- Fireball/Bola de fuego enlaza Bat/Murciélago por el componente material
+  "bat guano/guano de murciélago", una mención literal cuya utilidad en el grafo
+  depende de la semántica que finalmente adoptemos.
+
+Estos casos se mantienen sin cambios hasta decidir si el grafo representa
+menciones textuales o relaciones reglísticas significativas.
