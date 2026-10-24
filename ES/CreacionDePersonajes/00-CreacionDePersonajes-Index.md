@@ -1,4 +1,4 @@
-# CreacionDePersonajes
+# Creación de personajes
 
 - [[CreacionDePersonajes/Bagatelas|Bagatelas]]
 - [[CreacionDePersonajes/ComenzarEnNivelesSuperiores|Comenzar en niveles superiores]]

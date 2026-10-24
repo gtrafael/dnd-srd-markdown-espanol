@@ -1,4 +1,4 @@
-# HerramientasDelJuego
+# Herramientas del juego
 
 - [[HerramientasDelJuego/CrearUnTrasfondo|Crear un trasfondo]]
 - [[HerramientasDelJuego/EfectosAmbientales|Efectos ambientales]]

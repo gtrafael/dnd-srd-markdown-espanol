@@ -1,4 +1,4 @@
-# OrigenesDePersonaje
+# Orígenes de personaje
 
 - [[OrigenesDePersonaje/Draconido|Dracónido]]
 - [[OrigenesDePersonaje/Elfo|Elfo]]

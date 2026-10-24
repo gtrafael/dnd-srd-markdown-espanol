@@ -1,4 +1,4 @@
-# ComoJugar
+# Cómo jugar
 
 - [[ComoJugar/Acciones|Acciones]]
 - [[ComoJugar/Combate|Combate]]
