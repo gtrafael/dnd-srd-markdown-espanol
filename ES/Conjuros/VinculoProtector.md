@@ -5,7 +5,6 @@ related_en: "[[Spells/Warding Bond|Warding Bond (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Paladin|Paladín]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Vínculo protector

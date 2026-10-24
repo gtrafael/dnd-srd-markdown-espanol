@@ -2,8 +2,6 @@
 aliases: ["Elixir de salud", "Elixir of Health"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Elixir of Health|Elixir of Health (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Elixir de salud

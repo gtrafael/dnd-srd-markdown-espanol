@@ -11,7 +11,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Protección contra energía

@@ -5,8 +5,6 @@ related_en: "[[Magic Items/Talisman of Pure Good|Talisman of Pure Good (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Paladin|Paladín]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Talismán del bien puro

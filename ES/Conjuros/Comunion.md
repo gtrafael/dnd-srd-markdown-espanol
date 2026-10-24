@@ -3,7 +3,6 @@ aliases: ["Comunión", "Commune"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Commune|Commune (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Clerigo|Clérigo]]"
 ---
 

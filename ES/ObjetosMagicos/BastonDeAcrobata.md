@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Quarterstaff of the Acrobat|Quarterstaff of the Acrobat (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Bastón de acróbata

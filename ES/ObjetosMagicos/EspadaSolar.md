@@ -5,7 +5,6 @@ related_en: "[[Magic Items/Sun Blade|Sun Blade (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Espada solar

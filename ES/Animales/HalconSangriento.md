@@ -3,7 +3,6 @@ aliases: ["Halcón sangriento", "Blood Hawk"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Blood Hawk|Blood Hawk (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Animales/Halcon|Halcón]]"
 ---
 

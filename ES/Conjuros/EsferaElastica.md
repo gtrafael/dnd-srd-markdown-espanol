@@ -5,7 +5,6 @@ related_en: "[[Spells/Resilient Sphere|Resilient Sphere (EN)]]"
 wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Danar|Dañar]]"
   - "[[Conjuros/Desintegrar|Desintegrar]]"
 ---
 

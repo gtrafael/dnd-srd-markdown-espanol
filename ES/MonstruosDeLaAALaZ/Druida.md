@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[Conjuros/HablarConLosAnimales|Hablar con los animales]]"
   - "[[Conjuros/SaberDruidico|Saber druídico]]"
-  - "[[Conjuros/Enmaranar|Enmarañar]]"
   - "[[Conjuros/OlaAtronadora|Ola atronadora]]"
   - "[[Conjuros/MensajeroAnimal|Mensajero animal]]"
   - "[[Conjuros/RayoDeLuna|Rayo de luna]]"

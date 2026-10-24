@@ -7,13 +7,10 @@ wikilinks_auto:
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
-  - "[[Conjuros/Disfrazarse|Disfrazarse]]"
   - "[[Conjuros/IlusionMenor|Ilusión menor]]"
   - "[[Conjuros/ManoDeMago|Mano de mago]]"
   - "[[Conjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
   - "[[Conjuros/ImagenMayor|Imagen mayor]]"
-  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
-  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Rakshasa

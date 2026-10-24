@@ -5,7 +5,6 @@ related_en: "[[Magic Items/Rod of Resurrection]]"
 wikilinks_auto:
   - "[[Conjuros/Curar|Curar]]"
   - "[[Conjuros/Resurreccion|Resurrección]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Vara de la resurrección

@@ -5,9 +5,7 @@ related_en: "[[Monsters A-Z/Vampire Spawn|Vampire Spawn (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[MonstruosDeLaAALaZ/Vampiro|Vampiro]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
-  - "[[Conjuros/Prohibicion|Prohibición]]"
   - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 

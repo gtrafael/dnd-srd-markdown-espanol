@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/ManosArdientes|Manos ardientes]]"
   - "[[Conjuros/MuroDeFuego|Muro de fuego]]"

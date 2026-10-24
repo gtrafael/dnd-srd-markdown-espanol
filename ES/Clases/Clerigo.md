@@ -3,7 +3,6 @@ aliases: ["Clerigo", "Cleric"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Cleric|Cleric (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Escudo|Escudo]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/Guia|Guía]]"
   - "[[Conjuros/LlamaSagrada|Llama sagrada]]"
@@ -13,7 +12,6 @@ wikilinks_auto:
   - "[[Conjuros/EscudoDeFe|Escudo de fe]]"
   - "[[Conjuros/SaetaGuia|Saeta guía]]"
   - "[[Conjuros/Deseo|Deseo]]"
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/PiedadConLosMoribundos|Piedad con los moribundos]]"
   - "[[Conjuros/Reparar|Reparar]]"
@@ -65,6 +63,7 @@ wikilinks_auto:
   - "[[Conjuros/Recado|Recado]]"
   - "[[Conjuros/Revivir|Revivir]]"
   - "[[Conjuros/SenalDeEsperanza|Señal de esperanza]]"
+  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Conjuros/AuraDeVida|Aura de vida]]"
   - "[[Conjuros/ControlarAgua|Controlar agua]]"
   - "[[Conjuros/Destierro|Destierro]]"

@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Abrir|Abrir]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Creacion|Creación]]"
 ---
 

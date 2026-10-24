@@ -3,7 +3,6 @@ aliases: ["Detectar venenos y enfermedades", "Detect Poison and Disease"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Detect Poison and Disease|Detect Poison and Disease (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"

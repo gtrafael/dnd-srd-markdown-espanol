@@ -2,8 +2,6 @@
 aliases: ["Roc"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Roc|Roc (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Roc

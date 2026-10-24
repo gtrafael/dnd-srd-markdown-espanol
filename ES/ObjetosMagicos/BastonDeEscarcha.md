@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/ConoDeFrio|Cono de frío]]"
   - "[[Conjuros/MuroDeHielo|Muro de hielo]]"
   - "[[Conjuros/NubeDeOscurecimiento|Nube de oscurecimiento]]"

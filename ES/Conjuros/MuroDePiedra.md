@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Danar|Dañar]]"
 ---
 
 # Muro de piedra

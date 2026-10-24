@@ -2,8 +2,6 @@
 aliases: ["Poción de invulnerabilidad"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Potion of Invulnerability]]"
-wikilinks_auto:
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Poción de invulnerabilidad

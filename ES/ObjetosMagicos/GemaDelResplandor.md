@@ -2,8 +2,6 @@
 aliases: ["Gema del resplandor", "Gem of Brightness"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Gem of Brightness|Gem of Brightness (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Gema del resplandor

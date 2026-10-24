@@ -2,8 +2,6 @@
 aliases: ["Comenzar en niveles superiores"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Creation/Starting at Higher Levels|Starting at Higher Levels (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Guia|Guía]]"
 ---
 
 # Comenzar en niveles superiores

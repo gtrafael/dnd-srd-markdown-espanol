@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Despertar|Despertar]]"
-  - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 
 # Ensueño

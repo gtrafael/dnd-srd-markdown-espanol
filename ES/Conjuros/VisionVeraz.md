@@ -3,7 +3,6 @@ aliases: ["Visión veraz", "True Seeing"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/True Seeing|True Seeing (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Clerigo|Clérigo]]"

@@ -2,8 +2,6 @@
 aliases: ["Grilletes dimensionales", "Dimensional Shackles"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Dimensional Shackles|Dimensional Shackles (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Portal|Portal]]"
 ---
 
 # Grilletes dimensionales

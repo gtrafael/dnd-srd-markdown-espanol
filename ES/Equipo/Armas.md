@@ -2,8 +2,6 @@
 aliases: ["Armas", "Weapons"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Weapons|Weapons (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Ralentizar|Ralentizar]]"
 ---
 
 # Armas

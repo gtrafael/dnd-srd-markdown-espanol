@@ -3,12 +3,7 @@ aliases: ["Anillo de comandar elementales"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ring of Elemental Command]]"
 wikilinks_auto:
-  - "[[Conjuros/Compulsion|Compulsión]]"
-  - "[[Conjuros/Perdicion|Perdición]]"
   - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
-  - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/CaminarSobreElAgua|Caminar sobre el agua]]"
   - "[[Conjuros/CrearODestruirAgua|Crear o destruir agua]]"
   - "[[Conjuros/MuroDeHielo|Muro de hielo]]"

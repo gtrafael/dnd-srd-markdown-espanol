@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Apariencia|Apariencia]]"
   - "[[Conjuros/Enganar|Engañar]]"
 ---
 

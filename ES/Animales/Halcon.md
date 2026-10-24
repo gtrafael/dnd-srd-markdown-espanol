@@ -2,8 +2,6 @@
 aliases: ["Halcón", "Hawk"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Hawk|Hawk (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Halcón

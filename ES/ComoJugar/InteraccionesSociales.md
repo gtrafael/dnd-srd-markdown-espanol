@@ -5,10 +5,8 @@ related_en: "[[Playing the Game/Social Interaction]]"
 wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
   - "[[MonstruosDeLaAALaZ/Bandido|Bandido]]"
-  - "[[Conjuros/Cautiverio|Cautiverio]]"
   - "[[Clases/Guerrero|Guerrero]]"
   - "[[MonstruosDeLaAALaZ/Noble|Noble]]"
-  - "[[Conjuros/Enganar|Engañar]]"
   - "[[Clases/Picaro|Pícaro]]"
 ---
 

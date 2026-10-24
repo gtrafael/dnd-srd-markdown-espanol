@@ -11,7 +11,6 @@ wikilinks_auto:
   - "[[Animales/Mastin|Mastín]]"
   - "[[Animales/Mula|Mula]]"
   - "[[Animales/Poni|Poni]]"
-  - "[[Conjuros/Reparar|Reparar]]"
 ---
 
 # Monturas y vehículos

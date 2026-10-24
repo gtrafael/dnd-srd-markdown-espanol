@@ -3,7 +3,6 @@ aliases: ["Identificar", "Identify"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Identify|Identify (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"

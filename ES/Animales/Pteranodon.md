@@ -2,8 +2,6 @@
 aliases: ["Pteranodon"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Pteranodon|Pteranodon (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Pteranodon

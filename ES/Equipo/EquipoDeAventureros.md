@@ -2,11 +2,6 @@
 aliases: ["EquipoGeneral", "Gear"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Adventuring Gear|Adventuring Gear (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Luz|Luz]]"
-  - "[[Conjuros/Dormir|Dormir]]"
-  - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
 ---
 
 # Equipo de aventureros

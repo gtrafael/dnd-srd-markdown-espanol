@@ -4,8 +4,6 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Cultist Fanatic|Cultist Fanatic (EN)]]"
 wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Sectario|Sectario]]"
-  - "[[Conjuros/Luz|Luz]]"
-  - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/OrdenImperiosa|Orden imperiosa]]"
   - "[[Conjuros/InmovilizarPersona|Inmovilizar persona]]"
   - "[[Conjuros/ArmaEspiritual|Arma espiritual]]"

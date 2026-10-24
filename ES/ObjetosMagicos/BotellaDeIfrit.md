@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Efreeti Bottle|Efreeti Bottle (EN)]]"
 wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Ifrit|Ifrit]]"
-  - "[[Conjuros/Deseo|Deseo]]"
 ---
 
 # Botella de ifrit

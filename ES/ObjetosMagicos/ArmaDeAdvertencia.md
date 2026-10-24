@@ -2,8 +2,6 @@
 aliases: ["Arma de advertencia"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Weapon of Warning|Weapon of Warning (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Alarma|Alarma]]"
 ---
 
 # Arma de advertencia

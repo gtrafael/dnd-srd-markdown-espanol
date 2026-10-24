@@ -5,9 +5,7 @@ related_en: "[[Monsters A-Z/Phase Spider|Phase Spider (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Animales/Arana|Araña]]"
-  - "[[Conjuros/Telarana|Telaraña]]"
   - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
-  - "[[Conjuros/Salto|Salto]]"
 ---
 
 # Araña de fase

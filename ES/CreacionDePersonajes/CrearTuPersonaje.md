@@ -17,9 +17,6 @@ wikilinks_auto:
   - "[[Clases/Monje|Monje]]"
   - "[[Clases/Paladin|Paladín]]"
   - "[[Clases/Picaro|Pícaro]]"
-  - "[[Conjuros/Creacion|Creación]]"
-  - "[[Conjuros/Guia|Guía]]"
-  - "[[Conjuros/Escudo|Escudo]]"
 ---
 
 # Crear tu personaje

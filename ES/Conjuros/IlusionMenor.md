@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Animales/Leon|León]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Ilusión menor

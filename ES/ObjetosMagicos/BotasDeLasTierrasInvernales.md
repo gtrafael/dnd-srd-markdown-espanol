@@ -2,8 +2,6 @@
 aliases: ["Botas de las tierras invernales", "Boots of the Winterlands"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Boots of the Winterlands|Boots of the Winterlands (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Botas de las tierras invernales

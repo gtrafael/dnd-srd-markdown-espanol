@@ -7,8 +7,8 @@ wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Clases/Explorador|Explorador]]"
-  - "[[Conjuros/Mensaje|Mensaje]]"
   - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
+  - "[[Conjuros/Mensaje|Mensaje]]"
   - "[[Conjuros/Volar|Volar]]"
 ---
 

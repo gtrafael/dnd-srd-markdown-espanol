@@ -3,7 +3,6 @@ aliases: ["Enjambre de cuervos", "Swarm of Ravens"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Swarm of Ravens|Swarm of Ravens (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Animales/Cuervo|Cuervo]]"
 ---
 

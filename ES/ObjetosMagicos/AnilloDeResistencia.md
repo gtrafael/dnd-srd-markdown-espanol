@@ -2,9 +2,6 @@
 aliases: ["Anillo de resistencia"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Ring of Resistance]]"
-wikilinks_auto:
-  - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Anillo de resistencia

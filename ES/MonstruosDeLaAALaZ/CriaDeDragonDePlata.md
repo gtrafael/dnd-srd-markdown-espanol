@@ -3,7 +3,6 @@ aliases: ["Cría de dragón de plata", "Silver Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Silver Dragon Wyrmling|Silver Dragon Wyrmling (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

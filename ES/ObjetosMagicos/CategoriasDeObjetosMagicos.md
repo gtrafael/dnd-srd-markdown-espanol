@@ -4,15 +4,11 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Item Categories|Magic Item Categories (EN)]]"
 wikilinks_auto:
   - "[[ObjetosMagicos/AnilloDeInvisibilidad|Anillo de invisibilidad]]"
-  - "[[Conjuros/Escudo|Escudo]]"
   - "[[ObjetosMagicos/BastonDeImpacto|Bastón de impacto]]"
   - "[[ObjetosMagicos/BolsaDeContencion|Bolsa de contención]]"
   - "[[ObjetosMagicos/BotasElficas|Botas élficas]]"
   - "[[ObjetosMagicos/VaraInamovible|Vara inamovible]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
-  - "[[Conjuros/Apariencia|Apariencia]]"
-  - "[[Conjuros/Creacion|Creación]]"
-  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
 ---
 

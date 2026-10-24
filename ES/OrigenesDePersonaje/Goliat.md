@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/GiganteDeLasColinas|Gigante de las colinas]]"
   - "[[MonstruosDeLaAALaZ/GiganteDeLasNubes|Gigante de las nubes]]"
   - "[[MonstruosDeLaAALaZ/GiganteDeEscarcha|Gigante de escarcha]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[MonstruosDeLaAALaZ/GiganteDePiedra|Gigante de piedra]]"
   - "[[MonstruosDeLaAALaZ/GiganteDeLasTormentas|Gigante de las tormentas]]"
 ---

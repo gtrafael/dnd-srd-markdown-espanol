@@ -5,21 +5,16 @@ related_en: "[[Magic Items/Hat of Many Spells|Hat of Many Spells (EN)]]"
 wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Agrandar_reducir|Agrandar/reducir]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/FuegoFeerico|Fuego feérico]]"
   - "[[Conjuros/FuerzaFantasmal|Fuerza fantasmal]]"
-  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
   - "[[Conjuros/NubeApestosa|Nube apestosa]]"
-  - "[[Conjuros/Polimorfar|Polimorfar]]"
   - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Animales/Camello|Camello]]"
   - "[[Animales/Elefante|Elefante]]"
   - "[[Animales/Mula|Mula]]"
   - "[[Animales/SerpienteConstrictora|Serpiente constrictora]]"
   - "[[Animales/EnjambreDeMurcielagos|Enjambre de murciélagos]]"
-  - "[[Conjuros/Portal|Portal]]"
 ---
 
 # Sombrero de múltiples conjuros

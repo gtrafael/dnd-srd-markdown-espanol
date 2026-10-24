@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Cat|Cat (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Salto|Salto]]"
 ---
 
 # Gato

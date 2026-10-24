@@ -7,9 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Conjuros/Deseo|Deseo]]"
   - "[[MonstruosDeLaAALaZ/Esqueleto|Esqueleto]]"
-  - "[[Conjuros/Revivir|Revivir]]"
-  - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Levitar|Levitar]]"
   - "[[MonstruosDeLaAALaZ/Medusa|Medusa]]"
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
 ---

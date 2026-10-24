@@ -4,15 +4,11 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Vampire|Vampire (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
-  - "[[Conjuros/Prohibicion|Prohibición]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
   - "[[Animales/Murcielago|Murciélago]]"
   - "[[MonstruosDeLaAALaZ/EngendroVampirico|Engendro vampírico]]"
-  - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/HechizarPersona|Hechizar persona]]"
   - "[[Conjuros/OrdenImperiosa|Orden imperiosa]]"
 ---

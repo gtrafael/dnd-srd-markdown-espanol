@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
   - "[[Animales/Lobo|Lobo]]"
   - "[[MonstruosDeLaAALaZ/Momia|Momia]]"
-  - "[[Conjuros/Prohibicion|Prohibición]]"
   - "[[Conjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
   - "[[MonstruosDeLaAALaZ/Aparicion|Aparición]]"
   - "[[Conjuros/Curar|Curar]]"

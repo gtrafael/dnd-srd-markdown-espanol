@@ -3,7 +3,6 @@ aliases: ["EncuentrosDeCombate", "Combat Encounters"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Combat Encounters|Combat Encounters (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Animales/Arana|Araña]]"
   - "[[MonstruosDeLaAALaZ/GuerreroOsgo|Guerrero osgo]]"
   - "[[MonstruosDeLaAALaZ/Tumulario|Tumulario]]"

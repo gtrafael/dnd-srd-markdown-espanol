@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Animales/Murcielago|Murciélago]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Bola de fuego de explosión retardada

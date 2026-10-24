@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Festín de héroes

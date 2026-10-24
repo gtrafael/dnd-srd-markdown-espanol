@@ -3,9 +3,7 @@ aliases: ["Picaro", "Rogue"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Rogue|Rogue (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Creacion|Creación]]"
   - "[[Clases/Explorador|Explorador]]"
-  - "[[Conjuros/Salto|Salto]]"
 ---
 
 # Pícaro

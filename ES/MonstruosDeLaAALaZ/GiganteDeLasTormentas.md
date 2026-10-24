@@ -3,12 +3,8 @@ aliases: ["Gigante de las tormentas", "Storm Giant"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Storm Giant|Storm Giant (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Levitar|Levitar]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/ControlarElClima|Controlar el clima]]"
 ---
 

@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Mace of Disruption|Mace of Disruption (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Maza disruptiva

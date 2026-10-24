@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Instant Fortress|Instant Fortress (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Abrir|Abrir]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/Deseo|Deseo]]"
   - "[[Conjuros/Reparar|Reparar]]"
 ---

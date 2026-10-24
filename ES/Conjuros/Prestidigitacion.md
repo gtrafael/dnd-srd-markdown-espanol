@@ -8,9 +8,7 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
-  - "[[Conjuros/Simbolo|Símbolo]]"
 ---
 
 # Prestidigitación

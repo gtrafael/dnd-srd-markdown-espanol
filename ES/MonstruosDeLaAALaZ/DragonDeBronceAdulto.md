@@ -3,10 +3,7 @@ aliases: ["Dragón de bronce adulto", "Adult Bronze Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Bronze Dragon|Adult Bronze Dragon (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/SaetaGuia|Saeta guía]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"

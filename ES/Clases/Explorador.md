@@ -15,7 +15,6 @@ wikilinks_auto:
   - "[[Conjuros/Alarma|Alarma]]"
   - "[[Conjuros/BuenasBayas|Buenas bayas]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Conjuros/DetectarVenenosYEnfermedades|Detectar venenos y enfermedades]]"
   - "[[Conjuros/EncantarAnimal|Encantar animal]]"
   - "[[Conjuros/Enmaranar|Enmarañar]]"
@@ -58,7 +57,6 @@ wikilinks_auto:
   - "[[Conjuros/ComunionConLaNaturaleza|Comunión con la naturaleza]]"
   - "[[Conjuros/PasoArboreo|Paso arbóreo]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Explorador

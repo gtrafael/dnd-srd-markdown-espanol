@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Barbaro|Bárbaro]]"
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[Conjuros/Creacion|Creación]]"
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Guerrero|Guerrero]]"
   - "[[Clases/Paladin|Paladín]]"

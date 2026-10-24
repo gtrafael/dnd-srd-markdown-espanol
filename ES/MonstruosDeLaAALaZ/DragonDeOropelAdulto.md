@@ -3,9 +3,7 @@ aliases: ["Dragón de oropel adulto", "Adult Brass Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Brass Dragon|Adult Brass Dragon (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/RayoAbrasador|Rayo abrasador]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"

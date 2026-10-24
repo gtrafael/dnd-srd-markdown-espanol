@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
-  - "[[Conjuros/Apariencia|Apariencia]]"
 ---
 
 # Alterar el propio aspecto

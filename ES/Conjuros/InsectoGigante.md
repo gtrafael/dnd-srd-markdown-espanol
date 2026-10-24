@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Animales/Arana|Araña]]"
   - "[[Animales/CiempiesGigante|Ciempiés gigante]]"
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

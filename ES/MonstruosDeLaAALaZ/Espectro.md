@@ -3,11 +3,7 @@ aliases: ["Espectro", "Specter"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Specter|Specter (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Levitar|Levitar]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
 ---
 

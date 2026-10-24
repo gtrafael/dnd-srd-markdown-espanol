@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Conjuros/Identificar|Identificar]]"
   - "[[ObjetosMagicos/AnilloDeCaidaDePluma|Anillo de caída de pluma]]"
   - "[[ObjetosMagicos/AnilloDeNatacion|Anillo de natación]]"
-  - "[[Conjuros/Escudo|Escudo]]"
   - "[[ObjetosMagicos/AnilloDeProteccion|Anillo de protección]]"
 ---
 

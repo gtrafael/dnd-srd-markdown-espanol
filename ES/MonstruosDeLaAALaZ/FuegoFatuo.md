@@ -3,11 +3,7 @@ aliases: ["Fuego fatuo", "Will-o-Wisp"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Will-o-Wisp|Will-o-Wisp (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Levitar|Levitar]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Luz|Luz]]"
 ---
 
 # Fuego fatuo

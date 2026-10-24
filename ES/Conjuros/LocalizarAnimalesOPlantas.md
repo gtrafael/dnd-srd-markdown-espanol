@@ -3,7 +3,6 @@ aliases: ["Localizar animales o plantas", "Locate Animals or Plants"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Locate Animals or Plants|Locate Animals or Plants (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"

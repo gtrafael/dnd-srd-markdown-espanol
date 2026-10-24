@@ -19,7 +19,6 @@ wikilinks_auto:
   - "[[Conjuros/PalabraDePoderMatar|Palabra de poder: matar]]"
   - "[[Conjuros/IlusionMenor|Ilusión menor]]"
   - "[[Conjuros/ImpactoCertero|Impacto certero]]"
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/ManoDeMago|Mano de mago]]"
   - "[[Conjuros/Mensaje|Mensaje]]"

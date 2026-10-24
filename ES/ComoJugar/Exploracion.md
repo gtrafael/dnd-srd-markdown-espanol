@@ -3,11 +3,7 @@ aliases: ["Aventurarse", "Adventuring"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Exploration|Exploration (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Luz|Luz]]"
-  - "[[Conjuros/Abrir|Abrir]]"
-  - "[[Conjuros/Oscuridad|Oscuridad]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Danar|Dañar]]"
 ---
 
 # Exploración

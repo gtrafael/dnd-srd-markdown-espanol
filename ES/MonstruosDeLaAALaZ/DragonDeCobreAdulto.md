@@ -3,9 +3,7 @@ aliases: ["Dragón de cobre adulto", "Adult Copper Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Copper Dragon|Adult Copper Dragon (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/ClavoMental|Clavo mental]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"

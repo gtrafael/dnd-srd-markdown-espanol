@@ -5,7 +5,6 @@ related_en: "[[Spells/Moonbeam|Moonbeam (EN)]]"
 wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Polimorfar|Polimorfar]]"
 ---
 

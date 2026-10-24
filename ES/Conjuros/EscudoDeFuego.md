@@ -8,8 +8,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Escudo de fuego

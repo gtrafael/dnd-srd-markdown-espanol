@@ -3,12 +3,9 @@ aliases: ["Dragón verde adulto", "Adult Green Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Green Dragon|Adult Green Dragon (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/ClavoMental|Clavo mental]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/Geas|Geas]]"
 ---
 
 # Dragón verde adulto

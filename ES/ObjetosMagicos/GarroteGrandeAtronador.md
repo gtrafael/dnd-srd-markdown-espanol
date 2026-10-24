@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Thunderous Greatclub|Thunderous Greatclub (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/ArmaMagica|Arma mágica]]"
-  - "[[Conjuros/Terremoto|Terremoto]]"
 ---
 
 # Garrote grande atronador

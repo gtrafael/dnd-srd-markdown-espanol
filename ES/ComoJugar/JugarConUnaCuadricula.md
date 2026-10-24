@@ -2,8 +2,6 @@
 aliases: ["Jugar con una cuadrícula", "Playing on a Grid"]
 tags: [srd, espanol, tag_comojugar, recuadro]
 related_en: "[[Playing the Game/Playing on a Grid|Playing on a Grid (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Abrir|Abrir]]"
 ---
 # Jugar con una cuadrícula
 

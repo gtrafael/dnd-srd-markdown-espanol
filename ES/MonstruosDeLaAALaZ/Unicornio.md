@@ -9,13 +9,10 @@ wikilinks_auto:
   - "[[Conjuros/SaberDruidico|Saber druídico]]"
   - "[[Conjuros/CalmarEmociones|Calmar emociones]]"
   - "[[Conjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
-  - "[[Conjuros/Enmaranar|Enmarañar]]"
   - "[[Conjuros/PalabraDeRegreso|Palabra de regreso]]"
   - "[[Conjuros/PasarSinRastro|Pasar sin rastro]]"
-  - "[[Conjuros/Bendicion|Bendición]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
   - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
-  - "[[Conjuros/Escudo|Escudo]]"
 ---
 
 # Unicornio

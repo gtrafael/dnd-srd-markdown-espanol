@@ -2,8 +2,6 @@
 aliases: ["Arpía", "Harpy"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Harpy|Harpy (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Arpía

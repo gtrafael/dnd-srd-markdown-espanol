@@ -5,7 +5,6 @@ related_en: "[[Spells/Storm of Vengeance|Storm of Vengeance (EN)]]"
 wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Tormenta de la venganza

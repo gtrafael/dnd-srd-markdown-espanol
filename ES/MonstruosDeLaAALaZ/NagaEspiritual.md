@@ -12,7 +12,6 @@ wikilinks_auto:
   - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
   - "[[Conjuros/InmovilizarPersona|Inmovilizar persona]]"
   - "[[Conjuros/PuertaDimensional|Puerta dimensional]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
 ---
 
 # Naga espiritual

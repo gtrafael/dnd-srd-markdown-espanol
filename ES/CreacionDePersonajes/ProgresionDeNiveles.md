@@ -20,7 +20,6 @@ wikilinks_auto:
   - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
   - "[[Conjuros/Relampago|Relámpago]]"
-  - "[[Conjuros/Heroismo|Heroísmo]]"
 ---
 
 # Progresión de niveles

@@ -7,8 +7,6 @@ wikilinks_auto:
   - "[[Conjuros/LuzDelDia|Luz del día]]"
   - "[[Conjuros/MuroDeFuego|Muro de fuego]]"
   - "[[Conjuros/RociadaPrismatica|Rociada prismática]]"
-  - "[[Conjuros/Luz|Luz]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Yelmo de fulgor

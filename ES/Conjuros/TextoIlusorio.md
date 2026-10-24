@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 
 # Texto ilusorio

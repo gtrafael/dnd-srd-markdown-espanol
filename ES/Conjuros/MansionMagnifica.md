@@ -6,7 +6,6 @@ wikilinks_auto:
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Apariencia|Apariencia]]"
 ---
 
 # Mansión magnífica

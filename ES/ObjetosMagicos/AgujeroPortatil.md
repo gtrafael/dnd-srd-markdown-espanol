@@ -5,7 +5,6 @@ related_en: "[[Magic Items/Portable Hole|Portable Hole (EN)]]"
 wikilinks_auto:
   - "[[ObjetosMagicos/BolsaDeContencion|Bolsa de contención]]"
   - "[[ObjetosMagicos/MorralPractico|Morral práctico]]"
-  - "[[Conjuros/Portal|Portal]]"
 ---
 
 # Agujero portátil

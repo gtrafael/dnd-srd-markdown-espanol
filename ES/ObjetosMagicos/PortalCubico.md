@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Cubic Gate|Cubic Gate (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
-  - "[[Conjuros/Portal|Portal]]"
 ---
 
 # Portal cúbico

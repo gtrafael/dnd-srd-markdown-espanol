@@ -3,10 +3,7 @@ aliases: ["Acechador invisible", "Invisible Stalker"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Invisible Stalker|Invisible Stalker (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Levitar|Levitar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
 ---
 
 # Acechador invisible

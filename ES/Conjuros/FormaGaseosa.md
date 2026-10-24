@@ -7,8 +7,6 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Levitar|Levitar]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Forma gaseosa

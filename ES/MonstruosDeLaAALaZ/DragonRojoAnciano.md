@@ -3,14 +3,11 @@ aliases: ["Dragón rojo anciano", "Ancient Red Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Red Dragon|Ancient Red Dragon (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/RayoAbrasador|Rayo abrasador]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/OrdenImperiosa|Orden imperiosa]]"
   - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
-  - "[[Conjuros/Escudrinar|Escudriñar]]"
 ---
 
 # Dragón rojo anciano

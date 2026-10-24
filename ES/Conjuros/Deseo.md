@@ -6,9 +6,7 @@ wikilinks_auto:
   - "[[Clases/Hechicero|Hechicero]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Deseo

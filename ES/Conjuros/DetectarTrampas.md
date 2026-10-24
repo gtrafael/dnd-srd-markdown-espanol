@@ -3,7 +3,6 @@ aliases: ["Detectar trampas", "Find Traps"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Find Traps|Find Traps (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"

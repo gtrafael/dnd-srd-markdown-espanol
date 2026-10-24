@@ -5,7 +5,6 @@ related_en: "[[Spells/Casting Spells]]"
 wikilinks_auto:
   - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Conjuros/Mensaje|Mensaje]]"
   - "[[Conjuros/Silencio|Silencio]]"
   - "[[Conjuros/OlaAtronadora|Ola atronadora]]"

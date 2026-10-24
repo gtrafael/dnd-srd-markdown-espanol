@@ -3,7 +3,6 @@ aliases: ["Hablar con los animales", "Speak with Animals"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Speak with Animals|Speak with Animals (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Druida|Druida]]"

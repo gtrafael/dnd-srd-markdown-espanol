@@ -2,9 +2,6 @@
 aliases: ["Guerrero", "Fighter"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Fighter|Fighter (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Ralentizar|Ralentizar]]"
 ---
 
 # Guerrero

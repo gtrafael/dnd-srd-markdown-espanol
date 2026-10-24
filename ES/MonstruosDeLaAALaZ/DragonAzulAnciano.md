@@ -3,16 +3,12 @@ aliases: ["Dragón azul anciano", "Ancient Blue Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Blue Dragon|Ancient Blue Dragon (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/HacerAnicos|Hacer añicos]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
   - "[[Conjuros/ManoDeMago|Mano de mago]]"
-  - "[[Conjuros/Escudrinar|Escudriñar]]"
-  - "[[Conjuros/Recado|Recado]]"
+  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
+  - "[[Conjuros/Volar|Volar]]"
 ---
 
 # Dragón azul anciano

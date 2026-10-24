@@ -11,7 +11,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/CirculoMagico|Círculo mágico]]"
-  - "[[Conjuros/Mensaje|Mensaje]]"
 ---
 
 # Atadura planar

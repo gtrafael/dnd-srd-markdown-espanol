@@ -4,11 +4,7 @@ tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Priest|Priest (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Luz|Luz]]"
-  - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/EspiritusGuardianes|Espíritus guardianes]]"
-  - "[[Conjuros/Auxilio|Auxilio]]"
-  - "[[Conjuros/Bendicion|Bendición]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
   - "[[Conjuros/PalabraDeCuracion|Palabra de curación]]"
   - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"

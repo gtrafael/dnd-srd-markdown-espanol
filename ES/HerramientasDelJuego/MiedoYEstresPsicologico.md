@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Fear and Mental Stress|Fear and Mental Stress (EN)]]"
 wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Aparicion|Aparición]]"
-  - "[[Conjuros/Portal|Portal]]"
   - "[[Conjuros/CalmarEmociones|Calmar emociones]]"
   - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
   - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"

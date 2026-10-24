@@ -2,8 +2,6 @@
 aliases: ["Venenos", "Poisons"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Poison|Poisons (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Curar|Curar]]"
 ---
 
 # Veneno

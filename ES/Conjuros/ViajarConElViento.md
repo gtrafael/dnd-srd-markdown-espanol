@@ -6,8 +6,6 @@ wikilinks_auto:
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
   - "[[Conjuros/Apariencia|Apariencia]]"
-  - "[[Conjuros/Levitar|Levitar]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Viajar con el viento

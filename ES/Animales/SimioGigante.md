@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Ape|Giant Ape (EN)]]"
 wikilinks_auto:
   - "[[Animales/Simio|Simio]]"
-  - "[[Conjuros/Salto|Salto]]"
 ---
 
 # Simio gigante

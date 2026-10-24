@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Clases/Paladin|Paladín]]"
-  - "[[Conjuros/Teletransporte|Teletransporte]]"
 ---
 
 # Círculo mágico

@@ -3,17 +3,14 @@ aliases: ["Elfo", "Elf"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Elf|Elf (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Prestidigitacion|Prestidigitación]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/PasoBrumoso|Paso brumoso]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/LucesDanzantes|Luces danzantes]]"
   - "[[Conjuros/FuegoFeerico|Fuego feérico]]"
-  - "[[Conjuros/Oscuridad|Oscuridad]]"
   - "[[Conjuros/SaberDruidico|Saber druídico]]"
   - "[[Conjuros/ZancadaProdigiosa|Zancada prodigiosa]]"
   - "[[Conjuros/PasarSinRastro|Pasar sin rastro]]"
-  - "[[Conjuros/Dormir|Dormir]]"
 ---
 
 # Elfo

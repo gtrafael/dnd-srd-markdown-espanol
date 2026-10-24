@@ -3,15 +3,12 @@ aliases: ["Dragón de oro adulto", "Adult Gold Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Gold Dragon|Adult Gold Dragon (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/SaetaGuia|Saeta guía]]"
   - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/GolpeFlamigero|Golpe flamígero]]"
   - "[[Conjuros/ZonaDeLaVerdad|Zona de la verdad]]"
-  - "[[Conjuros/Semiplano|Semiplano]]"
   - "[[Conjuros/Luz|Luz]]"
   - "[[Conjuros/Guia|Guía]]"
 ---

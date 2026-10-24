@@ -3,7 +3,6 @@ aliases: ["Augurio", "Augury"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Augury|Augury (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Druida|Druida]]"
   - "[[MonstruosDeLaAALaZ/Druida|Druida]]"

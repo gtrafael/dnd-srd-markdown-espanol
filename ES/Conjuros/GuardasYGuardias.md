@@ -14,7 +14,6 @@ wikilinks_auto:
   - "[[Conjuros/BocaMagica|Boca mágica]]"
   - "[[Conjuros/NubeApestosa|Nube apestosa]]"
   - "[[Conjuros/RafagaDeViento|Ráfaga de viento]]"
-  - "[[Conjuros/Sugestion|Sugestión]]"
 ---
 
 # Guardas y guardias

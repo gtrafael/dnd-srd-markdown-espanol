@@ -3,7 +3,6 @@ aliases: ["Mephit de hielo", "Ice Mephit"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ice Mephit|Ice Mephit (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Volar|Volar]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/NubeDeOscurecimiento|Nube de oscurecimiento]]"
 ---

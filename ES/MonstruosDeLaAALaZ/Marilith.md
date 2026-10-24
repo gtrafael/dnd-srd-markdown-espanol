@@ -3,9 +3,7 @@ aliases: ["Marilith"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Marilith|Marilith (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Teletransporte|Teletransporte]]"
 ---
 
 # Marilith

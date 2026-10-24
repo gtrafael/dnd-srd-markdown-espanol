@@ -4,8 +4,8 @@ tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Word of Recall|Word of Recall (EN)]]"
 wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Santuario|Santuario]]"
   - "[[Conjuros/Teletransporte|Teletransporte]]"
+  - "[[Conjuros/Santuario|Santuario]]"
 ---
 
 # Palabra de regreso

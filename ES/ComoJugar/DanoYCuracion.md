@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Damage and Healing]]"
 wikilinks_auto:
   - "[[Clases/Picaro|Pícaro]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
 ---
 

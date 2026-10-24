@@ -3,7 +3,6 @@ aliases: ["Marca del cazador", "Hunters Mark"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Hunters Mark|Hunters Mark (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Explorador|Explorador]]"
 ---
 

@@ -9,7 +9,6 @@ wikilinks_auto:
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/CerraduraArcana|Cerradura arcana]]"
   - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
-  - "[[Conjuros/Ralentizar|Ralentizar]]"
 ---
 
 # Trampas

@@ -4,7 +4,6 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Cloak of Arachnida|Cloak of Arachnida (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/Telarana|Telaraña]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 

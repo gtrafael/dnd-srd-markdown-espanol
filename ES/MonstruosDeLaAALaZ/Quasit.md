@@ -3,12 +3,9 @@ aliases: ["Quasit"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Quasit|Quasit (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Relampago|Relámpago]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Animales/Murcielago|Murciélago]]"
-  - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
 ---
 
 # Quasit

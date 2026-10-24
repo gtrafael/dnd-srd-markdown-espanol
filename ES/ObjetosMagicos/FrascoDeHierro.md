@@ -3,7 +3,6 @@ aliases: ["Frasco de hierro", "Iron Flask"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Iron Flask|Iron Flask (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Cautiverio|Cautiverio]]"
   - "[[Conjuros/Identificar|Identificar]]"
 ---
 

@@ -7,9 +7,7 @@ wikilinks_auto:
   - "[[MonstruosDeLaAALaZ/Momia|Momia]]"
   - "[[Conjuros/Resistencia|Resistencia]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
-  - "[[Conjuros/Taumaturgia|Taumaturgia]]"
   - "[[Conjuros/AnimarALosMuertos|Animar a los muertos]]"
-  - "[[Conjuros/Danar|Dañar]]"
   - "[[Conjuros/PlagaDeInsectos|Plaga de insectos]]"
   - "[[Conjuros/OrdenImperiosa|Orden imperiosa]]"
 ---

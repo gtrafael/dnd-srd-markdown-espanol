@@ -8,7 +8,6 @@ wikilinks_auto:
   - "[[Conjuros/HechizarMonstruo|Hechizar monstruo]]"
   - "[[Conjuros/EncantarAnimal|Encantar animal]]"
   - "[[Conjuros/SaberDruidico|Saber druídico]]"
-  - "[[Conjuros/Enmaranar|Enmarañar]]"
   - "[[Conjuros/PasarSinRastro|Pasar sin rastro]]"
   - "[[Conjuros/PasoArboreo|Paso arbóreo]]"
 ---

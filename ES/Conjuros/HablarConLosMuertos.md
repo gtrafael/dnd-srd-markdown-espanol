@@ -7,7 +7,6 @@ wikilinks_auto:
   - "[[Clases/Clerigo|Clérigo]]"
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/Apariencia|Apariencia]]"
 ---
 
 # Hablar con los muertos

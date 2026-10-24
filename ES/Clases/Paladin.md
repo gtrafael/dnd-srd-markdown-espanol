@@ -3,7 +3,6 @@ aliases: ["Paladín"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Paladin|Paladín (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Escudo|Escudo]]"
   - "[[Conjuros/Creacion|Creación]]"
   - "[[Conjuros/CurarHeridas|Curar heridas]]"
   - "[[Conjuros/CastigoAbrasador|Castigo abrasador]]"
@@ -17,7 +16,6 @@ wikilinks_auto:
   - "[[Conjuros/HallarCorcel|Hallar corcel]]"
   - "[[Conjuros/Bendicion|Bendición]]"
   - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Conjuros/DetectarMagia|Detectar magia]]"
   - "[[Conjuros/DetectarVenenosYEnfermedades|Detectar venenos y enfermedades]]"
   - "[[Conjuros/EscudoDeFe|Escudo de fe]]"
@@ -55,7 +53,6 @@ wikilinks_auto:
   - "[[Conjuros/LibertadDeMovimiento|Libertad de movimiento]]"
   - "[[Conjuros/Comunion|Comunión]]"
   - "[[Conjuros/GolpeFlamigero|Golpe flamígero]]"
-  - "[[Conjuros/Luz|Luz]]"
   - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
 ---
 

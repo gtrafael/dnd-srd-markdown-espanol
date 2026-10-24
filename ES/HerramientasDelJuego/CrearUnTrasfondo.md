@@ -2,8 +2,6 @@
 aliases: ["CrearUnTrasfondo", "Creating a Background"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Creating a Background|Creating a Background (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Crear un trasfondo

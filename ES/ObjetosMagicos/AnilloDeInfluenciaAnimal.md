@@ -5,7 +5,6 @@ related_en: "[[Magic Items/Ring of Animal Influence]]"
 wikilinks_auto:
   - "[[Conjuros/EncantarAnimal|Encantar animal]]"
   - "[[Conjuros/HablarConLosAnimales|Hablar con los animales]]"
-  - "[[Conjuros/Terror|Terror]]"
 ---
 
 # Anillo de influencia animal

@@ -3,7 +3,6 @@ aliases: ["Presciencia", "Foresight"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Foresight|Foresight (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Adivinacion|Adivinación]]"
   - "[[Clases/Bardo|Bardo]]"
   - "[[Clases/Brujo|Brujo]]"
   - "[[Clases/Druida|Druida]]"

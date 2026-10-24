@@ -10,9 +10,7 @@ wikilinks_auto:
   - "[[Conjuros/Identificar|Identificar]]"
   - "[[Conjuros/LocalizarObjeto|Localizar objeto]]"
   - "[[Conjuros/SirvienteInvisible|Sirviente invisible]]"
-  - "[[Conjuros/Disfrazarse|Disfrazarse]]"
   - "[[Conjuros/IlusionMenor|Ilusión menor]]"
-  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
   - "[[Conjuros/LucesDanzantes|Luces danzantes]]"
   - "[[Conjuros/RayoNauseabundo|Rayo nauseabundo]]"
 ---

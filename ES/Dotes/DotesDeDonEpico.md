@@ -2,9 +2,6 @@
 aliases: ["Dotes de don épico"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Feats/Epic Boon Feats|Epic Boon Feats (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/Oscuridad|Oscuridad]]"
 ---
 
 # Dotes de don épico

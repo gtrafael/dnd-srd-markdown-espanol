@@ -3,10 +3,7 @@ aliases: ["Monje", "Monk"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Monk|Monk (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Conjuros/Salto|Salto]]"
   - "[[Clases/Guerrero|Guerrero]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Monje

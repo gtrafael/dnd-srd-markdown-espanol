@@ -7,10 +7,6 @@ wikilinks_auto:
   - "[[Clases/Mago|Mago]]"
   - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
   - "[[Conjuros/Adivinacion|Adivinación]]"
-  - "[[Conjuros/Luz|Luz]]"
-  - "[[Conjuros/Semiplano|Semiplano]]"
-  - "[[Conjuros/Laberinto|Laberinto]]"
-  - "[[Conjuros/Despertar|Despertar]]"
   - "[[Conjuros/DisiparMagia|Disipar magia]]"
 ---
 

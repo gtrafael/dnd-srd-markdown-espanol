@@ -3,7 +3,6 @@ aliases: ["Jefe goblin", "Goblin Boss"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Goblin Boss|Goblin Boss (EN)]]"
 wikilinks_auto:
-  - "[[Conjuros/Escudo|Escudo]]"
   - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 

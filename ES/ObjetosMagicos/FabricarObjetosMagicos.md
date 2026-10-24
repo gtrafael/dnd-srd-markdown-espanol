@@ -2,8 +2,6 @@
 aliases: ["Fabricar objetos mágicos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Crafting Magic Items|Crafting Magic Items (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Fabricar|Fabricar]]"
 ---
 
 # Fabricar objetos mágicos
