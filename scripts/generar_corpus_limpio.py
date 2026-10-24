@@ -177,10 +177,10 @@ def validar_recuadros_integrados() -> None:
             raise SystemExit(f"Falta recuadro integrado {heading!r} en {rel}")
 
 def main() -> int:
+    validar_recuadros_integrados()
     relaciones: list[dict] = []
     preparar_idioma("ES", relaciones)
     preparar_idioma("EN", relaciones)
-    validar_fronteras_recuadros()
     validar_salida(relaciones)
 
     metadata = ROOT / "metadata"
