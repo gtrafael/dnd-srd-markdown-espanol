@@ -93,7 +93,7 @@ def audit(es_root: Path, en_root: Path) -> dict:
                 continue
             archivos = {p.name for p in alt.glob("*.md")}
             esperados_archivos = {
-                f"{nombre} (Alt).md",
+                f"00-{nombre} (Alt)-Index.md",
                 *(f"{nombre} {rango}.md" for rango in rangos),
             }
             if archivos != esperados_archivos:
@@ -130,17 +130,35 @@ def audit(es_root: Path, en_root: Path) -> dict:
                 "enlaces_en": enlaces_en,
             })
 
-    indices_es = sorted(
-        p.relative_to(es_root).as_posix()
-        for p in es_root.rglob("*-Index.md")
-        if "(Alt)" not in p.as_posix()
-    )
-    indices_en = sorted(
-        p.relative_to(en_root).as_posix()
-        for p in en_root.rglob("*-Index.md")
-        if "(Alt)" not in p.as_posix()
-    )
-    if len(indices_es) != 13 or len(indices_en) != 13:
+    def indices_canonicos(root: Path, idioma: str) -> list[str]:
+        encontrados = sorted(
+            p.relative_to(root).as_posix()
+            for p in root.rglob("*-Index.md")
+            if "(Alt)" not in p.as_posix()
+        )
+
+        esperados = []
+        root_index = "00-Espanol-Index.md" if idioma == "es" else "00-English-Index.md"
+        esperados.append(root_index)
+        for folder in sorted(
+            p for p in root.rglob("*")
+            if p.is_dir() and "(Alt)" not in p.name
+        ):
+            rel = folder.relative_to(root)
+            esperados.append((rel / f"00-{folder.name}-Index.md").as_posix())
+
+        if encontrados != sorted(esperados):
+            fallos.append({
+                "tipo": "indices_navegacion_incompletos",
+                "idioma": idioma,
+                "esperados": sorted(esperados),
+                "encontrados": encontrados,
+            })
+        return encontrados
+
+    indices_es = indices_canonicos(es_root, "es")
+    indices_en = indices_canonicos(en_root, "en")
+    if len(indices_es) != len(indices_en):
         fallos.append({
             "tipo": "indices_navegacion_asimetricos",
             "indices_es": len(indices_es),
