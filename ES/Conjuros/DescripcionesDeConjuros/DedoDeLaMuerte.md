@@ -2,6 +2,12 @@
 aliases: ["Dedo de la muerte", "Finger of Death"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Finger of Death|Finger of Death (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Zombi|Zombi]]"
 ---
 
 # Dedo de la muerte

@@ -2,6 +2,11 @@
 aliases: ["Agarre electrizante", "Shocking Grasp"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Shocking Grasp|Shocking Grasp (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Relampago|Relámpago]]"
 ---
 
 # Agarre electrizante

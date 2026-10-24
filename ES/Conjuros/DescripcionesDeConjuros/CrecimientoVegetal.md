@@ -2,6 +2,11 @@
 aliases: ["Crecimiento vegetal", "Plant Growth"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Plant Growth|Plant Growth (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Crecimiento vegetal

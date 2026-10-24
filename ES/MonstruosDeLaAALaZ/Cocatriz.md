@@ -2,6 +2,8 @@
 aliases: ["Cocatriz", "Cockatrice"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Cockatrice|Cockatrice (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cocatriz

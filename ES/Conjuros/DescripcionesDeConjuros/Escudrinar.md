@@ -2,6 +2,15 @@
 aliases: ["Escudriñar", "Scrying"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Scrying|Scrying (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolaDeCristal|Bola de cristal]]"
 ---
 
 # Escudriñar

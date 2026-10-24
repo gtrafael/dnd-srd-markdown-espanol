@@ -2,6 +2,8 @@
 aliases: ["Botella de ifrit", "Efreeti Bottle"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Efreeti Bottle|Efreeti Bottle (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/Ifrit|Ifrit]]"
 ---
 
 # Botella de ifrit

@@ -2,6 +2,9 @@
 aliases: ["Filo de la fortuna"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Luck Blade]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Deseo|Deseo]]"
 ---
 
 # Filo de la fortuna

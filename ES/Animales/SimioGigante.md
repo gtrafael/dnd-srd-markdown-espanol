@@ -2,6 +2,8 @@
 aliases: ["Simio gigante", "Giant Ape"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Ape|Giant Ape (EN)]]"
+wikilinks_auto:
+  - "[[Animales/Simio|Simio]]"
 ---
 
 # Simio gigante

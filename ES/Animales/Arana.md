@@ -2,6 +2,9 @@
 aliases: ["Araña", "Spider"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Spider|Spider (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 
 # Araña

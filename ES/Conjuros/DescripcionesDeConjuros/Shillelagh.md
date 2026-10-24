@@ -2,6 +2,9 @@
 aliases: ["Shillelagh"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Shillelagh|Shillelagh (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Shillelagh

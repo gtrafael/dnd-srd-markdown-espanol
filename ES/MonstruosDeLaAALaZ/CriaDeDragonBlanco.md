@@ -2,6 +2,8 @@
 aliases: ["Cría de dragón blanco", "White Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/White Dragon Wyrmling|White Dragon Wyrmling (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cría de dragón blanco

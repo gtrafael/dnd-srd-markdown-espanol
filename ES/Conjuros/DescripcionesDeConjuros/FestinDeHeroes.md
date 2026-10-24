@@ -2,6 +2,11 @@
 aliases: ["Festín de héroes", "Heroes Feast"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Heroes Feast|Heroes Feast (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Festín de héroes

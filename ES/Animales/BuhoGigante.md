@@ -2,6 +2,11 @@
 aliases: ["Búho gigante", "Giant Owl"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Owl|Giant Owl (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Buho|Búho]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
 ---
 
 # Búho gigante

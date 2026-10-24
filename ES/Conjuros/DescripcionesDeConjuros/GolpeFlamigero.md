@@ -2,6 +2,8 @@
 aliases: ["Golpe flamígero", "Flame Strike"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Flame Strike|Flame Strike (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Golpe flamígero

@@ -2,6 +2,9 @@
 aliases: ["Capa arácnida", "Cloak of Arachnida"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Cloak of Arachnida|Cloak of Arachnida (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Telarana|Telaraña]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 
 # Capa arácnida

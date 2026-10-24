@@ -2,6 +2,8 @@
 aliases: ["Bastón de la pitón"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Staff of the Python]]"
+wikilinks_auto:
+  - "[[Animales/SerpienteConstrictoraGigante|Serpiente constrictora gigante]]"
 ---
 
 # Bastón de la pitón

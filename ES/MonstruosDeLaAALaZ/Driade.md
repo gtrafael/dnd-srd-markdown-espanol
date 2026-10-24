@@ -2,6 +2,14 @@
 aliases: ["Dríade", "Dryad"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Dryad|Dryad (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/HechizarMonstruo|Hechizar monstruo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/EncantarAnimal|Encantar animal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/SaberDruidico|Saber druídico]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PasarSinRastro|Pasar sin rastro]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PasoArboreo|Paso arbóreo]]"
 ---
 
 # Dríade

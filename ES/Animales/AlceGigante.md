@@ -2,6 +2,9 @@
 aliases: ["Alce gigante", "Giant Elk"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Elk|Giant Elk (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Alce|Alce]]"
 ---
 
 # Alce gigante

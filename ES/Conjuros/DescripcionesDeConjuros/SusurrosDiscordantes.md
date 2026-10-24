@@ -2,6 +2,8 @@
 aliases: ["Susurros discordantes", "Dissonant Whispers"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Dissonant Whispers|Dissonant Whispers (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
 ---
 
 # Susurros discordantes

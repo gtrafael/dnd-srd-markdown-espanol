@@ -2,6 +2,14 @@
 aliases: ["Dragón de cobre adulto", "Adult Copper Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Copper Dragon|Adult Copper Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ClavoMental|Clavo mental]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/IlusionMenor|Ilusión menor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ImagenMayor|Imagen mayor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---
 
 # Dragón de cobre adulto

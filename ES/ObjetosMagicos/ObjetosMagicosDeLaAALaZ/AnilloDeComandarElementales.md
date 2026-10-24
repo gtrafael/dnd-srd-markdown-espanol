@@ -2,6 +2,25 @@
 aliases: ["Anillo de comandar elementales"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Ring of Elemental Command]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CaminarSobreElAgua|Caminar sobre el agua]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CrearODestruirAgua|Crear o destruir agua]]"
+  - "[[Conjuros/DescripcionesDeConjuros/MuroDeHielo|Muro de hielo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TormentaDeHielo|Tormenta de hielo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Tsunami|Tsunami]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CaidaDePluma|Caída de pluma]]"
+  - "[[Conjuros/DescripcionesDeConjuros/MuroDeViento|Muro de viento]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RafagaDeViento|Ráfaga de viento]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RelampagoEnCadena|Relámpago en cadena]]"
+  - "[[Conjuros/DescripcionesDeConjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ManosArdientes|Manos ardientes]]"
+  - "[[Conjuros/DescripcionesDeConjuros/MuroDeFuego|Muro de fuego]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TormentaDeFuego|Tormenta de fuego]]"
+  - "[[Conjuros/DescripcionesDeConjuros/MoldearLaPiedra|Moldear la piedra]]"
+  - "[[Conjuros/DescripcionesDeConjuros/MuroDePiedra|Muro de piedra]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PielPetrea|Piel pétrea]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Terremoto|Terremoto]]"
 ---
 
 # Anillo de comandar elementales

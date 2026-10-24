@@ -2,6 +2,8 @@
 aliases: ["Barrera de cuchillas", "Blade Barrier"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Blade Barrier|Blade Barrier (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Barrera de cuchillas

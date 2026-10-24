@@ -2,6 +2,9 @@
 aliases: ["Ettercap"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ettercap|Ettercap (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 
 # Ettercap

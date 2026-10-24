@@ -2,6 +2,11 @@
 aliases: ["Recluir", "Sequester"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Sequester|Sequester (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Adivinacion|Adivinación]]"
+  - "[[MonstruosDeLaAALaZ/Tarasca|Tarasca]]"
 ---
 
 # Recluir

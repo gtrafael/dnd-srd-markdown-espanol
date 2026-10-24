@@ -2,6 +2,15 @@
 aliases: ["Maldiciones", "Curses", "Curses and Magical Contagions"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Curses and Magical Contagions|Curses (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ImponerMaldicion|Imponer maldición]]"
+  - "[[Conjuros/DescripcionesDeConjuros/LevantarMaldicion|Levantar maldición]]"
+  - "[[Animales/Lobo|Lobo]]"
+  - "[[MonstruosDeLaAALaZ/Momia|Momia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
+  - "[[MonstruosDeLaAALaZ/Aparicion|Aparición]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Curar|Curar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RestablecimientoMenor|Restablecimiento menor]]"
 ---
 
 # Maldiciones y enfermedades mágicas

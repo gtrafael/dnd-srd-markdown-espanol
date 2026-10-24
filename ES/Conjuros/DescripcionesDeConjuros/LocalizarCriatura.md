@@ -2,6 +2,18 @@
 aliases: ["Localizar criatura", "Locate Creature"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Locate Creature|Locate Creature (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[MonstruosDeLaAALaZ/Unicornio|Unicornio]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DeLaCarneALaPiedra|De la carne a la piedra]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Polimorfar|Polimorfar]]"
 ---
 
 # Localizar criatura

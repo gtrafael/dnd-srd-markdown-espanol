@@ -2,6 +2,8 @@
 aliases: ["Cría de dragón verde", "Green Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Green Dragon Wyrmling|Green Dragon Wyrmling (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cría de dragón verde

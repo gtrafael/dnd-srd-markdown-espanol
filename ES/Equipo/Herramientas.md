@@ -2,6 +2,8 @@
 aliases: ["Herramientas", "Tools"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Tools|Tools (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Fabricar|Fabricar]]"
 ---
 
 # Herramientas

@@ -2,6 +2,8 @@
 aliases: ["Varita de bolas de fuego"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Wand of Fireballs|Wand of Fireballs (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/BolaDeFuego|Bola de fuego]]"
 ---
 
 # Varita de bolas de fuego

@@ -2,6 +2,8 @@
 aliases: ["Cría de dragón rojo", "Red Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Red Dragon Wyrmling|Red Dragon Wyrmling (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cría de dragón rojo

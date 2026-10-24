@@ -2,6 +2,8 @@
 aliases: ["Aceite de etereidad", "Oil of Etherealness"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Oil of Etherealness|Oil of Etherealness (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ExcursionEterea|Excursión etérea]]"
 ---
 
 # Aceite de etereidad

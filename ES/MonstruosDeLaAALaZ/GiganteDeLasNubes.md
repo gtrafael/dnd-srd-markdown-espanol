@@ -2,6 +2,12 @@
 aliases: ["Gigante de las nubes", "Cloud Giant"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Cloud Giant|Cloud Giant (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/NubeDeOscurecimiento|Nube de oscurecimiento]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ControlarElClima|Controlar el clima]]"
+  - "[[Conjuros/DescripcionesDeConjuros/FormaGaseosa|Forma gaseosa]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PasoBrumoso|Paso brumoso]]"
 ---
 
 # Gigante de las nubes

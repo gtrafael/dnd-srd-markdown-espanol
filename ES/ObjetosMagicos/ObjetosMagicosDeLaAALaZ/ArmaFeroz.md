@@ -2,6 +2,8 @@
 aliases: ["Arma feroz", "Vicious Weapon"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Vicious Weapon|Vicious Weapon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Arma feroz

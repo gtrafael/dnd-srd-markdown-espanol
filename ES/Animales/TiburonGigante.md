@@ -2,6 +2,8 @@
 aliases: ["Tiburón gigante", "Giant Shark"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Shark|Giant Shark (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Tiburón gigante

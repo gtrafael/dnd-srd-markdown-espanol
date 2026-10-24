@@ -2,6 +2,13 @@
 aliases: ["Ilusión menor", "Minor Illusion"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Animales/Leon|León]]"
 ---
 
 # Ilusión menor

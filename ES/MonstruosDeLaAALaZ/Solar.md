@@ -2,6 +2,15 @@
 aliases: ["Solar"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Solar|Solar (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
+  - "[[MonstruosDeLaAALaZ/Asesino|Asesino]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ControlarElClima|Controlar el clima]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CurarHeridas|Curar heridas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/LevantarMaldicion|Levantar maldición]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RestablecimientoMenor|Restablecimiento menor]]"
 ---
 
 # Solar

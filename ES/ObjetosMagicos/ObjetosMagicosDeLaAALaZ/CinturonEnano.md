@@ -2,6 +2,8 @@
 aliases: ["Cinturón enano", "Belt of Dwarvenkind"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Belt of Dwarvenkind|Belt of Dwarvenkind (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cinturón enano

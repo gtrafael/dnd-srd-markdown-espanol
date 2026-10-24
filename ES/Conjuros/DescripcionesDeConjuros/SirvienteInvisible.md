@@ -2,6 +2,11 @@
 aliases: ["Sirviente invisible", "Unseen Servant"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Unseen Servant|Unseen Servant (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Sirviente invisible

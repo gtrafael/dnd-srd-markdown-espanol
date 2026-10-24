@@ -2,6 +2,10 @@
 aliases: ["Desplazamiento", "Blink"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Blink|Blink (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Desplazamiento

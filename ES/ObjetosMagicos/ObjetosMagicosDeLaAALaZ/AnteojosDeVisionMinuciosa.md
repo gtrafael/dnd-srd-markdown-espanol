@@ -2,6 +2,8 @@
 aliases: ["Anteojos de visión minuciosa", "Eyes of Minute Seeing"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Eyes of Minute Seeing|Eyes of Minute Seeing (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Anteojos de visión minuciosa

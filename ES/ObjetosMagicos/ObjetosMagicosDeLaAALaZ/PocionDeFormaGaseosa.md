@@ -2,6 +2,8 @@
 aliases: ["Poción de forma gaseosa"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Potion of Gaseous Form]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/FormaGaseosa|Forma gaseosa]]"
 ---
 
 # Poción de forma gaseosa

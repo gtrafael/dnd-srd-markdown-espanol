@@ -2,6 +2,19 @@
 aliases: ["Bastón de enjambre de insectos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Staff of Swarming Insects]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Animales/EnjambreDeInsectos|Enjambre de insectos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RafagaDeViento|Ráfaga de viento]]"
+  - "[[Conjuros/DescripcionesDeConjuros/InsectoGigante|Insecto gigante]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PlagaDeInsectos|Plaga de insectos]]"
 ---
 
 # Bastón de enjambre de insectos

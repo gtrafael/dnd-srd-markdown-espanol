@@ -2,6 +2,11 @@
 aliases: ["Daño y curación"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Damage and Healing]]"
+wikilinks_auto:
+  - "[[Clases/Picaro|Pícaro]]"
+  - "[[Conjuros/DescripcionesDeConjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CurarHeridas|Curar heridas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/AlzarALosMuertos|Alzar a los muertos]]"
 ---
 
 # Daño y curación

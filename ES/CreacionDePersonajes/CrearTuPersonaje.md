@@ -2,6 +2,21 @@
 aliases: ["Crear tu personaje"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Creation/Create Your Character|Create Your Character (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Barbaro|Bárbaro]]"
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Guerrero|Guerrero]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Clases/Monje|Monje]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Clases/Picaro|Pícaro]]"
 ---
 
 # Crear tu personaje

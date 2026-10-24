@@ -2,6 +2,9 @@
 aliases: ["Taumaturgia", "Thaumaturgy"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Animales/Cuervo|Cuervo]]"
 ---
 
 # Taumaturgia

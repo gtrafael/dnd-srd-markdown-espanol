@@ -2,6 +2,9 @@
 aliases: ["Rana gigante", "Giant Frog"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Frog|Giant Frog (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Rana|Rana]]"
 ---
 
 # Rana gigante

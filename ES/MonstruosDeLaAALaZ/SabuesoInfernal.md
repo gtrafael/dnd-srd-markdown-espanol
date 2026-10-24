@@ -2,6 +2,8 @@
 aliases: ["Sabueso infernal", "Hell Hound"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Hell Hound|Hell Hound (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Sabueso infernal

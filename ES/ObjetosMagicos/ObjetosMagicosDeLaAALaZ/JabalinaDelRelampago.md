@@ -2,6 +2,8 @@
 aliases: ["Jabalina del relámpago", "Javelin of Lightning"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Javelin of Lightning|Javelin of Lightning (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Jabalina del relámpago

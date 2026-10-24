@@ -2,6 +2,10 @@
 aliases: ["Comunión con la naturaleza", "Commune with Nature"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Commune with Nature|Commune with Nature (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Comunión con la naturaleza

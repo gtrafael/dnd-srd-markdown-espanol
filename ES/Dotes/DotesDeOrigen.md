@@ -2,6 +2,11 @@
 aliases: ["Dotes de origen"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Feats/Origin Feats|Origin Feats (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Dotes de origen

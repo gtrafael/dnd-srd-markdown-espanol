@@ -2,6 +2,8 @@
 aliases: ["Daga de la ponzoña", "Dagger of Venom"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Dagger of Venom|Dagger of Venom (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Daga de la ponzoña

@@ -2,6 +2,9 @@
 aliases: ["Vengadora sagrada", "Holy Avenger"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Holy Avenger|Holy Avenger (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Vengadora sagrada

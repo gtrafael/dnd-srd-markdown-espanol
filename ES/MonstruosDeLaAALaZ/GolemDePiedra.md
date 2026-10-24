@@ -2,6 +2,11 @@
 aliases: ["Gólem de piedra", "Stone Golem"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Stone Golem|Stone Golem (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Ralentizar|Ralentizar]]"
 ---
 
 # Gólem de piedra

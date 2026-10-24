@@ -2,6 +2,14 @@
 aliases: ["Protección contra el bien y el mal", "Protection from Evil and Good"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Protection from Evil and Good|Protection from Evil and Good (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Protección contra el bien y el mal

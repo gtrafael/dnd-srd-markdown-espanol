@@ -2,6 +2,10 @@
 aliases: ["Buenas bayas", "Goodberry"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Goodberry|Goodberry (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Buenas bayas

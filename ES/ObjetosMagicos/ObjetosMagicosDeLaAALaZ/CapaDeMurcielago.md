@@ -2,6 +2,10 @@
 aliases: ["Capa de murciélago", "Cloak of the Bat"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Cloak of the Bat|Cloak of the Bat (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Oscuridad|Oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Polimorfar|Polimorfar]]"
+  - "[[Animales/Murcielago|Murciélago]]"
 ---
 
 # Capa de murciélago

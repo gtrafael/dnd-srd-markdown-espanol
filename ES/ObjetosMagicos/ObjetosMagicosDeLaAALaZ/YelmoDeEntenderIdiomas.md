@@ -2,6 +2,8 @@
 aliases: ["Yelmo de entender idiomas", "Helm of Comprehending Languages"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Helm of Comprehending Languages|Helm of Comprehending Languages (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/EntenderIdiomas|Entender idiomas]]"
 ---
 
 # Yelmo de entender idiomas

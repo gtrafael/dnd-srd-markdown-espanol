@@ -2,6 +2,9 @@
 aliases: ["Diablo astado", "Horned Devil"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Horned Devil|Horned Devil (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
 ---
 
 # Diablo astado

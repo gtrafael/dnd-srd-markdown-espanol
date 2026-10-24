@@ -2,6 +2,11 @@
 aliases: ["Aliento de dragón", "Dragons Breath"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Dragons Breath|Dragons Breath (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Relampago|Relámpago]]"
 ---
 
 # Aliento de dragón

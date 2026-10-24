@@ -2,6 +2,8 @@
 aliases: ["Flauta de las cloacas", "Pipes of the Sewers"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Pipes of the Sewers|Pipes of the Sewers (EN)]]"
+wikilinks_auto:
+  - "[[Animales/EnjambreDeRatas|Enjambre de ratas]]"
 ---
 
 # Flauta de las cloacas

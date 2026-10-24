@@ -2,6 +2,10 @@
 aliases: ["Llamar al relámpago", "Call Lightning"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Call Lightning|Call Lightning (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Relampago|Relámpago]]"
 ---
 
 # Llamar al relámpago

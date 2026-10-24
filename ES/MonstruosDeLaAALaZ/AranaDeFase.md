@@ -2,6 +2,10 @@
 aliases: ["Araña de fase", "Phase Spider"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Phase Spider|Phase Spider (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Arana|Araña]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 
 # Araña de fase

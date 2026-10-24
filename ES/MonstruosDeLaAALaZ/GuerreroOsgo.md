@@ -2,6 +2,8 @@
 aliases: ["Guerrero osgo", "Bugbear Warrior"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Bugbear Warrior|Bugbear Warrior (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Guerrero osgo

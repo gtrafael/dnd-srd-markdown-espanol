@@ -2,6 +2,10 @@
 aliases: ["Zona de la verdad", "Zone of Truth"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Zone of Truth|Zone of Truth (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Zona de la verdad

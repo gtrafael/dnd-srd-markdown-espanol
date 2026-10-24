@@ -2,6 +2,18 @@
 aliases: ["Guardas y guardias", "Guards and Wards"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Guards and Wards|Guards and Wards (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
+  - "[[Animales/Arana|Araña]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Telarana|Telaraña]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CerraduraArcana|Cerradura arcana]]"
+  - "[[Conjuros/DescripcionesDeConjuros/LucesDanzantes|Luces danzantes]]"
+  - "[[Conjuros/DescripcionesDeConjuros/BocaMagica|Boca mágica]]"
+  - "[[Conjuros/DescripcionesDeConjuros/NubeApestosa|Nube apestosa]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RafagaDeViento|Ráfaga de viento]]"
 ---
 
 # Guardas y guardias

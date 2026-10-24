@@ -2,6 +2,11 @@
 aliases: ["Contrahechizo", "Counterspell"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Counterspell|Counterspell (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Contrahechizo

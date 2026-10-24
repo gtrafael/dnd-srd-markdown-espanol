@@ -2,6 +2,8 @@
 aliases: ["Conjurar celestial", "Conjure Celestial"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Conjure Celestial|Conjure Celestial (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Conjurar celestial

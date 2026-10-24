@@ -2,6 +2,9 @@
 aliases: ["Esfera de aniquilación", "Sphere of Annihilation"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Sphere of Annihilation|Sphere of Annihilation (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Portal|Portal]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AgujeroPortatil|Agujero portátil]]"
 ---
 
 # Esfera de aniquilación

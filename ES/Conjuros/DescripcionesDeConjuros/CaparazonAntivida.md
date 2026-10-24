@@ -2,6 +2,9 @@
 aliases: ["Caparazón antivida", "Antilife Shell"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Antilife Shell|Antilife Shell (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Caparazón antivida

@@ -2,6 +2,8 @@
 aliases: ["Espíritus guardianes", "Spirit Guardians"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Spirit Guardians|Spirit Guardians (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Espíritus guardianes

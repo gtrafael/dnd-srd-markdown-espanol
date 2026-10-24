@@ -2,6 +2,9 @@
 aliases: ["Diablo de las cadenas", "Chain Devil"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Chain Devil|Chain Devil (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
 ---
 
 # Diablo de las cadenas

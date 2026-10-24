@@ -2,6 +2,16 @@
 aliases: ["Bastón de los bosques"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Staff of the Woodlands]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Despertar|Despertar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/EncantarAnimal|Encantar animal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/HablarConLasPlantas|Hablar con las plantas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/HablarConLosAnimales|Hablar con los animales]]"
+  - "[[Conjuros/DescripcionesDeConjuros/LocalizarAnimalesOPlantas|Localizar animales o plantas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/MuroDeEspinas|Muro de espinas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PasarSinRastro|Pasar sin rastro]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PielRobliza|Piel robliza]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
 ---
 
 # Bastón de los bosques

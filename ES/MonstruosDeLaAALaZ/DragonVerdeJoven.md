@@ -2,6 +2,8 @@
 aliases: ["Dragón verde joven", "Young Green Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Young Green Dragon|Young Green Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Dragón verde joven

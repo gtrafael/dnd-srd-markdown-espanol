@@ -2,6 +2,9 @@
 aliases: ["Vara de la resurrección"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Rod of Resurrection]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Curar|Curar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resurreccion|Resurrección]]"
 ---
 
 # Vara de la resurrección

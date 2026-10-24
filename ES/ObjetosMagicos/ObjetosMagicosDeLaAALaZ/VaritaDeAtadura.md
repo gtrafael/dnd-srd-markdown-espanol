@@ -2,6 +2,9 @@
 aliases: ["Varita de atadura"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Wand of Binding|Wand of Binding (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/InmovilizarMonstruo|Inmovilizar monstruo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/InmovilizarPersona|Inmovilizar persona]]"
 ---
 
 # Varita de atadura

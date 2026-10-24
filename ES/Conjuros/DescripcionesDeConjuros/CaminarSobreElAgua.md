@@ -2,6 +2,12 @@
 aliases: ["Caminar sobre el agua", "Water Walk"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Water Walk|Water Walk (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Hechicero|Hechicero]]"
 ---
 
 # Caminar sobre el agua

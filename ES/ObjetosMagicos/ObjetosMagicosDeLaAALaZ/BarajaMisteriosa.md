@@ -2,6 +2,13 @@
 aliases: ["Baraja misteriosa", "Mysterious Deck"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Mysterious Deck|Mysterious Deck (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/Caballero|Caballero]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Adivinacion|Adivinación]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Deseo|Deseo]]"
+  - "[[MonstruosDeLaAALaZ/Esqueleto|Esqueleto]]"
+  - "[[MonstruosDeLaAALaZ/Medusa|Medusa]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Baraja misteriosa

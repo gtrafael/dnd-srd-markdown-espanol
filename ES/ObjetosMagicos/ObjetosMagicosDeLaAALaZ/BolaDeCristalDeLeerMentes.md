@@ -2,6 +2,9 @@
 aliases: ["Bola de cristal de leer mentes", "Crystal Ball of Mind Reading"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Crystal Ball of Mind Reading|Crystal Ball of Mind Reading (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Escudrinar|Escudriñar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarPensamientos|Detectar pensamientos]]"
 ---
 
 # Bola de cristal de leer mentes

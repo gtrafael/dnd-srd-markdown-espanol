@@ -2,6 +2,12 @@
 aliases: ["Interacciones sociales"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Social Interaction]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
+  - "[[MonstruosDeLaAALaZ/Bandido|Bandido]]"
+  - "[[Clases/Guerrero|Guerrero]]"
+  - "[[MonstruosDeLaAALaZ/Noble|Noble]]"
+  - "[[Clases/Picaro|Pícaro]]"
 ---
 
 # Interacciones sociales

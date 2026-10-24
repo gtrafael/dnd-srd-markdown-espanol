@@ -2,6 +2,8 @@
 aliases: ["Cría de dragón de oropel", "Brass Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Brass Dragon Wyrmling|Brass Dragon Wyrmling (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cría de dragón de oropel

@@ -2,6 +2,12 @@
 aliases: ["Túnica del archimago", "Robe of the Archmagi"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Robe of the Archmagi|Robe of the Archmagi (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
 ---
 
 # Túnica del archimago

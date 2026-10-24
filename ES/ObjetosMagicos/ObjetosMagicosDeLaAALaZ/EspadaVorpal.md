@@ -2,6 +2,8 @@
 aliases: ["Espada vorpal", "Vorpal Sword"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Vorpal Sword|Vorpal Sword (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Espada vorpal

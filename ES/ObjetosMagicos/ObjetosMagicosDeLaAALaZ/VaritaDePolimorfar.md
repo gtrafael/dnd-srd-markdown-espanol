@@ -2,6 +2,8 @@
 aliases: ["Varita de polimorfar"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Wand of Polymorph|Wand of Polymorph (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Polimorfar|Polimorfar]]"
 ---
 
 # Varita de polimorfar

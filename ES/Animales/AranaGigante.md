@@ -2,6 +2,10 @@
 aliases: ["Araña gigante", "Giant Spider"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Spider|Giant Spider (English)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Arana|Araña]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 
 # Araña gigante

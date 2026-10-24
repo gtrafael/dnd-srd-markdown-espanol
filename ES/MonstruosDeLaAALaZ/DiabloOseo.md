@@ -2,6 +2,9 @@
 aliases: ["Diablo óseo", "Bone Devil"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Bone Devil|Bone Devil (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
 ---
 
 # Diablo óseo

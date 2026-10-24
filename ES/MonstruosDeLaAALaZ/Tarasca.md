@@ -2,6 +2,9 @@
 aliases: ["Tarasca", "Tarrasque"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Tarrasque|Tarrasque (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ProyectilMagico|Proyectil mágico]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
 ---
 
 # Tarasca

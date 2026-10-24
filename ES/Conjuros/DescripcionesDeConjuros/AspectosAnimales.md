@@ -2,6 +2,9 @@
 aliases: ["Aspectos animales", "Animal Shapes"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Animal Shapes|Animal Shapes (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Aspectos animales

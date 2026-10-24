@@ -2,6 +2,16 @@
 aliases: ["Naga espiritual", "Spirit Naga"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Spirit Naga|Spirit Naga (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Deseo|Deseo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/IlusionMenor|Ilusión menor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ManoDeMago|Mano de mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarPensamientos|Detectar pensamientos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/InmovilizarPersona|Inmovilizar persona]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PuertaDimensional|Puerta dimensional]]"
 ---
 
 # Naga espiritual

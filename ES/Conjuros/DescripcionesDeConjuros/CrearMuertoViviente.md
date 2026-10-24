@@ -2,6 +2,12 @@
 aliases: ["Crear muerto viviente", "Create Undead"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Create Undead|Create Undead (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Gul|Gul]]"
 ---
 
 # Crear muerto viviente

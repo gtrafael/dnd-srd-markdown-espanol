@@ -2,6 +2,15 @@
 aliases: ["Rakshasa"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Rakshasa|Rakshasa (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Bendicion|Bendición]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarPensamientos|Detectar pensamientos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/IlusionMenor|Ilusión menor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ManoDeMago|Mano de mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ImagenMayor|Imagen mayor]]"
 ---
 
 # Rakshasa

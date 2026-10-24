@@ -2,6 +2,9 @@
 aliases: ["Viajar mediante plantas", "Transport via Plants"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Transport via Plants|Transport via Plants (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Viajar mediante plantas

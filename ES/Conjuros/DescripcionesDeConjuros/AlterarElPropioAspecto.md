@@ -2,6 +2,11 @@
 aliases: ["Alterar el propio aspecto", "Alter Self"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Alter Self|Alter Self (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Alterar el propio aspecto

@@ -2,6 +2,16 @@
 aliases: ["Dragón de oropel adulto", "Adult Brass Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Brass Dragon|Adult Brass Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RayoAbrasador|Rayo abrasador]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/HablarConLosAnimales|Hablar con los animales]]"
+  - "[[Conjuros/DescripcionesDeConjuros/IlusionMenor|Ilusión menor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ControlarElClima|Controlar el clima]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarPensamientos|Detectar pensamientos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Luz|Luz]]"
 ---
 
 # Dragón de oropel adulto

@@ -2,6 +2,19 @@
 aliases: ["Sombrero de múltiples conjuros", "Hat of Many Spells"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Hat of Many Spells|Hat of Many Spells (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/DescripcionesDeConjuros/FuegoFeerico|Fuego feérico]]"
+  - "[[Conjuros/DescripcionesDeConjuros/FuerzaFantasmal|Fuerza fantasmal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/NubeApestosa|Nube apestosa]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RafagaDeViento|Ráfaga de viento]]"
+  - "[[Animales/Camello|Camello]]"
+  - "[[Animales/Elefante|Elefante]]"
+  - "[[Animales/Mula|Mula]]"
+  - "[[Animales/SerpienteConstrictora|Serpiente constrictora]]"
+  - "[[Animales/EnjambreDeMurcielagos|Enjambre de murciélagos]]"
 ---
 
 # Sombrero de múltiples conjuros

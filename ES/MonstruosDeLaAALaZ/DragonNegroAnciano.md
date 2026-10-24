@@ -2,6 +2,14 @@
 aliases: ["Dragón negro anciano", "Ancient Black Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Black Dragon|Ancient Black Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/FlechaAcida|Flecha ácida]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CrearMuertoViviente|Crear muerto viviente]]"
+  - "[[Conjuros/DescripcionesDeConjuros/EsferaVitriolica|Esfera vitriólica]]"
+  - "[[Conjuros/DescripcionesDeConjuros/HablarConLosMuertos|Hablar con los muertos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Terror|Terror]]"
 ---
 
 # Dragón negro anciano

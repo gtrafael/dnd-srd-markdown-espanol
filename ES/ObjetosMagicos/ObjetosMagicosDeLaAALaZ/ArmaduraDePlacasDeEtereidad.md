@@ -2,6 +2,8 @@
 aliases: ["Armadura de placas de etereidad", "Plate Armor of Etherealness"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Plate Armor of Etherealness|Plate Armor of Etherealness (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ExcursionEterea|Excursión etérea]]"
 ---
 
 # Armadura de placas de etereidad

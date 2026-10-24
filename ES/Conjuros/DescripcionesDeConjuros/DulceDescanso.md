@@ -2,6 +2,12 @@
 aliases: ["Dulce descanso", "Gentle Repose"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Gentle Repose|Gentle Repose (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Clases/Paladin|Paladín]]"
+  - "[[Conjuros/DescripcionesDeConjuros/AlzarALosMuertos|Alzar a los muertos]]"
 ---
 
 # Dulce descanso

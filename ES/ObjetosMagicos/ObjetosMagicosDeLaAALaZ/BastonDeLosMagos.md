@@ -2,6 +2,30 @@
 aliases: ["Bastón de los magos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Staff of the Magi]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Abrir|Abrir]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Agrandar_reducir|Agrandar/reducir]]"
+  - "[[Conjuros/DescripcionesDeConjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CerraduraArcana|Cerradura arcana]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ConjurarElemental|Conjurar elemental]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/EsferaDeLlamas|Esfera de llamas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Invisibilidad|Invisibilidad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Luz|Luz]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ManoDeMago|Mano de mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/MuroDeFuego|Muro de fuego]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Pasamuros|Pasamuros]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ProteccionContraElBienYElMal|Protección contra el bien y el mal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Relampago|Relámpago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Telarana|Telaraña]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Telequinesis|Telequinesis]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TormentaDeHielo|Tormenta de hielo]]"
 ---
 
 # Bastón de los magos

@@ -2,6 +2,12 @@
 aliases: ["Naga guardiana", "Guardian Naga"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Guardian Naga|Guardian Naga (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CurarHeridas|Curar heridas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/GolpeFlamigero|Golpe flamígero]]"
+  - "[[Conjuros/DescripcionesDeConjuros/VisionVeraz|Visión veraz]]"
 ---
 
 # Naga guardiana

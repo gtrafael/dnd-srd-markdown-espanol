@@ -2,6 +2,8 @@
 aliases: ["Espada de hoja afilada", "Sword of Sharpness"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Sword of Sharpness|Sword of Sharpness (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Espada de hoja afilada

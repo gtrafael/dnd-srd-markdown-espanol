@@ -2,6 +2,8 @@
 aliases: ["Portal cúbico", "Cubic Gate"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Cubic Gate|Cubic Gate (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
 ---
 
 # Portal cúbico

@@ -2,6 +2,12 @@
 aliases: ["Jaula de fuerza", "Forcecage"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Forcecage|Forcecage (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
 ---
 
 # Jaula de fuerza

@@ -2,6 +2,8 @@
 aliases: ["Favor divino", "Divine Favor"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Divine Favor|Divine Favor (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Favor divino

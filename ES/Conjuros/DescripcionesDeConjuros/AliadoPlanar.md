@@ -2,6 +2,9 @@
 aliases: ["Aliado planar", "Planar Ally"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Planar Ally|Planar Ally (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[MonstruosDeLaAALaZ/Espia|Espía]]"
 ---
 
 # Aliado planar

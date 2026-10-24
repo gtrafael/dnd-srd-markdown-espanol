@@ -2,6 +2,10 @@
 aliases: ["Enjambre de pirañas", "Swarm of Piranhas"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Swarm of Piranhas|Swarm of Piranhas (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Pirana|Piraña]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Enjambre de pirañas

@@ -2,6 +2,9 @@
 aliases: ["Saber druídico", "Druidcraft"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Druidcraft|Druidcraft (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Saber druídico

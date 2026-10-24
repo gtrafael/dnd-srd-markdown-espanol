@@ -2,6 +2,8 @@
 aliases: ["Poción de encoger"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Potion of Diminution]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Agrandar_reducir|Agrandar/reducir]]"
 ---
 
 # Poción de encoger

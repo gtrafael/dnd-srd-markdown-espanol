@@ -2,6 +2,10 @@
 aliases: ["Fortaleza instantánea", "Instant Fortress"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Instant Fortress|Instant Fortress (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Abrir|Abrir]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Deseo|Deseo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Reparar|Reparar]]"
 ---
 
 # Fortaleza instantánea

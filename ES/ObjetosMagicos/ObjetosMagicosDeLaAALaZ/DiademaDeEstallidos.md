@@ -2,6 +2,8 @@
 aliases: ["Diadema de estallidos", "Circlet of Blasting"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Circlet of Blasting|Circlet of Blasting (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/RayoAbrasador|Rayo abrasador]]"
 ---
 
 # Diadema de estallidos

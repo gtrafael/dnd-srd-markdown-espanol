@@ -2,6 +2,15 @@
 aliases: ["Muro prismático", "Prismatic Wall"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Prismatic Wall|Prismatic Wall (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CampoAntimagia|Campo antimagia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RafagaDeViento|Ráfaga de viento]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RestablecimientoMayor|Restablecimiento mayor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/LuzDelDia|Luz del día]]"
 ---
 
 # Muro prismático

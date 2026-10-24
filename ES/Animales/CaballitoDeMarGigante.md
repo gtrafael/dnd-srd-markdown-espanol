@@ -2,6 +2,9 @@
 aliases: ["Caballito de mar gigante", "Giant Seahorse"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Seahorse|Giant Seahorse (EN)]]"
+wikilinks_auto:
+  - "[[Animales/CaballitoDeMar|Caballito de mar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Caballito de mar gigante

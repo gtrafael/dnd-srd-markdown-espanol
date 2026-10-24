@@ -2,6 +2,9 @@
 aliases: ["Semidragón", "Half-Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Half-Dragon|Half-Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/AlientoDeDragon|Aliento de dragón]]"
 ---
 
 # Semidragón

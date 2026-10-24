@@ -2,6 +2,12 @@
 aliases: ["Hablar con las plantas", "Speak with Plants"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Speak with Plants|Speak with Plants (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CrecimientoVegetal|Crecimiento vegetal]]"
 ---
 
 # Hablar con las plantas

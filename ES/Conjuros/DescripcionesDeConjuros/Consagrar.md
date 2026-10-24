@@ -2,6 +2,12 @@
 aliases: ["Consagrar", "Hallow"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Hallow|Hallow (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DonDeLenguas|Don de lenguas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/LuzDelDia|Luz del día]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Oscuridad|Oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Luz|Luz]]"
 ---
 
 # Consagrar

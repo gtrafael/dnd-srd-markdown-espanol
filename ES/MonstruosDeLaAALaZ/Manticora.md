@@ -2,6 +2,8 @@
 aliases: ["Mantícora", "Manticore"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Manticore|Manticore (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Mantícora

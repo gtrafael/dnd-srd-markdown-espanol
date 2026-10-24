@@ -2,6 +2,10 @@
 aliases: ["Pulpo gigante", "Giant Octopus"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Octopus|Giant Octopus (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Pulpo|Pulpo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Pulpo gigante

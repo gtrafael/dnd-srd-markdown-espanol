@@ -2,6 +2,12 @@
 aliases: ["Oni"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Oni|Oni (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[MonstruosDeLaAALaZ/Pesadilla|Pesadilla]]"
+  - "[[Conjuros/DescripcionesDeConjuros/FormaGaseosa|Forma gaseosa]]"
+  - "[[Conjuros/DescripcionesDeConjuros/HechizarPersona|Hechizar persona]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Invisibilidad|Invisibilidad]]"
 ---
 
 # Oni

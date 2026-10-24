@@ -2,6 +2,10 @@
 aliases: ["Globo de invulnerabilidad", "Globe of Invulnerability"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Globe of Invulnerability|Globe of Invulnerability (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Globo de invulnerabilidad

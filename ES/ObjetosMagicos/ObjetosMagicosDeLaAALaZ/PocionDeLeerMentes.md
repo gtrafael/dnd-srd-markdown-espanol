@@ -2,6 +2,8 @@
 aliases: ["Poción de leer mentes"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Potion of Mind Reading]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarPensamientos|Detectar pensamientos]]"
 ---
 
 # Poción de leer mentes

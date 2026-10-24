@@ -2,6 +2,11 @@
 aliases: ["Objetos mágicos"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Magic Items|Magic Items (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Identificar|Identificar]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeCaidaDePluma|Anillo de caída de pluma]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeNatacion|Anillo de natación]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeProteccion|Anillo de protección]]"
 ---
 
 # Objetos mágicos

@@ -2,6 +2,10 @@
 aliases: ["Esfera elástica", "Resilient Sphere"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Resilient Sphere|Resilient Sphere (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Desintegrar|Desintegrar]]"
 ---
 
 # Esfera elástica

@@ -2,6 +2,9 @@
 aliases: ["Invocación instantánea", "Instant Summons"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Instant Summons|Instant Summons (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Invocación instantánea

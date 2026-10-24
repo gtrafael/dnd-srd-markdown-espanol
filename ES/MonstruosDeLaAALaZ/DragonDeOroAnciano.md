@@ -2,6 +2,16 @@
 aliases: ["Dragón de oro anciano", "Ancient Gold Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Gold Dragon|Ancient Gold Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/SaetaGuia|Saeta guía]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/GolpeFlamigero|Golpe flamígero]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PalabraDeRegreso|Palabra de regreso]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ZonaDeLaVerdad|Zona de la verdad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Luz|Luz]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Guia|Guía]]"
 ---
 
 # Dragón de oro anciano

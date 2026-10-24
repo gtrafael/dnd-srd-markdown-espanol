@@ -2,6 +2,9 @@
 aliases: ["Poción de amistad animal"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Potion of Animal Friendship]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/EncantarAnimal|Encantar animal]]"
+  - "[[Animales/Gato|Gato]]"
 ---
 
 # Poción de amistad animal

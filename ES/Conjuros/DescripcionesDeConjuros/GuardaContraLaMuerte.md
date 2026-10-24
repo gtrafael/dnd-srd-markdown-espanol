@@ -2,6 +2,9 @@
 aliases: ["Guarda contra la muerte", "Death Ward"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Death Ward|Death Ward (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Guarda contra la muerte

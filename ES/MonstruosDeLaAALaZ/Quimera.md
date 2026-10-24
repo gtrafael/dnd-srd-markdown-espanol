@@ -2,6 +2,8 @@
 aliases: ["Quimera", "Chimera"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Chimera|Chimera (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Quimera

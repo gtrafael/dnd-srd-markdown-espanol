@@ -2,6 +2,11 @@
 aliases: ["Conjurar elementales menores", "Conjure Minor Elementals"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Conjure Minor Elementals|Conjure Minor Elementals (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Conjurar elementales menores

@@ -2,6 +2,10 @@
 aliases: ["Laberinto", "Maze"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Maze|Maze (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Semiplano|Semiplano]]"
 ---
 
 # Laberinto

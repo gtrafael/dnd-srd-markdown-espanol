@@ -2,6 +2,8 @@
 aliases: ["Frasco de hierro", "Iron Flask"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Iron Flask|Iron Flask (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Identificar|Identificar]]"
 ---
 
 # Frasco de hierro

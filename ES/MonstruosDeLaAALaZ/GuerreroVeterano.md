@@ -2,6 +2,8 @@
 aliases: ["Guerrero veterano", "Warrior Veteran"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Warrior Veteran|Warrior Veteran (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Guerrero|Guerrero]]"
 ---
 
 # Guerrero veterano

@@ -2,6 +2,18 @@
 aliases: ["Bastón del cautivador"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Staff of Charming]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/EntenderIdiomas|Entender idiomas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/HechizarPersona|Hechizar persona]]"
+  - "[[Conjuros/DescripcionesDeConjuros/OrdenImperiosa|Orden imperiosa]]"
 ---
 
 # Bastón del cautivador

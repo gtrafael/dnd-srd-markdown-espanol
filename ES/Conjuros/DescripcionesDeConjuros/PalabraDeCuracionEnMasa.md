@@ -2,6 +2,9 @@
 aliases: ["Palabra de curación en masa", "Mass Healing Word"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Mass Healing Word|Mass Healing Word (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Palabra de curación en masa

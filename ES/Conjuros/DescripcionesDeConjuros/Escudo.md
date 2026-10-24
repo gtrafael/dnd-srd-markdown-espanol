@@ -2,6 +2,11 @@
 aliases: ["Escudo", "Shield"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Shield|Shield (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ProyectilMagico|Proyectil mágico]]"
 ---
 
 # Escudo

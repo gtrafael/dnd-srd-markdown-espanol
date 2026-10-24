@@ -2,6 +2,8 @@
 aliases: ["Reprensión infernal", "Hellish Rebuke"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Hellish Rebuke|Hellish Rebuke (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
 ---
 
 # Reprensión infernal

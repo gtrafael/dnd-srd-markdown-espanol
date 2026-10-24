@@ -2,6 +2,12 @@
 aliases: ["Cautiverio", "Imprisonment"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Imprisonment|Imprisonment (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Adivinacion|Adivinación]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
 ---
 
 # Cautiverio

@@ -2,6 +2,8 @@
 aliases: ["Marca del cazador", "Hunters Mark"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Hunters Mark|Hunters Mark (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Marca del cazador

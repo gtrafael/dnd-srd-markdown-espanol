@@ -2,6 +2,9 @@
 aliases: ["Reencarnar", "Reincarnate"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Reincarnate|Reincarnate (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
 ---
 
 # Reencarnar

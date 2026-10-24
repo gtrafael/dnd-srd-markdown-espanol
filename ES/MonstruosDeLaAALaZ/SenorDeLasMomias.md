@@ -2,6 +2,14 @@
 aliases: ["Señor de las momias", "Mummy Lord"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Mummy Lord|Mummy Lord (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[MonstruosDeLaAALaZ/Momia|Momia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/AnimarALosMuertos|Animar a los muertos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PlagaDeInsectos|Plaga de insectos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/OrdenImperiosa|Orden imperiosa]]"
 ---
 
 # Señor de las momias

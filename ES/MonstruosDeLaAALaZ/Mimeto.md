@@ -2,6 +2,8 @@
 aliases: ["Mimeto", "Mimic"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Mimic|Mimic (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Mimeto

@@ -2,6 +2,8 @@
 aliases: ["Comunión", "Commune"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Commune|Commune (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
 ---
 
 # Comunión

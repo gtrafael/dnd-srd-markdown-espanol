@@ -2,6 +2,16 @@
 aliases: ["Dragón de oropel anciano", "Ancient Brass Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Brass Dragon|Ancient Brass Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RayoAbrasador|Rayo abrasador]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/HablarConLosAnimales|Hablar con los animales]]"
+  - "[[Conjuros/DescripcionesDeConjuros/IlusionMenor|Ilusión menor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ControlarElClima|Controlar el clima]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarPensamientos|Detectar pensamientos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Luz|Luz]]"
 ---
 
 # Dragón de oropel anciano

@@ -2,6 +2,8 @@
 aliases: ["Poción de clarividencia"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Potion of Clairvoyance]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Clarividencia|Clarividencia]]"
 ---
 
 # Poción de clarividencia

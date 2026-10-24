@@ -2,6 +2,8 @@
 aliases: ["Alce", "Elk"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Elk|Elk (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Alce

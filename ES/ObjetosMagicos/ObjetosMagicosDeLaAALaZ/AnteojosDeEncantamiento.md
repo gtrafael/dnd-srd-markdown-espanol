@@ -2,6 +2,8 @@
 aliases: ["Anteojos de encantamiento", "Eyes of Charming"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Eyes of Charming|Eyes of Charming (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/HechizarPersona|Hechizar persona]]"
 ---
 
 # Anteojos de encantamiento

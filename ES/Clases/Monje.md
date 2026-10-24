@@ -2,6 +2,8 @@
 aliases: ["Monje", "Monk"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Monk|Monk (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Guerrero|Guerrero]]"
 ---
 
 # Monje

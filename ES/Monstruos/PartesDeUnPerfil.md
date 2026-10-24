@@ -2,6 +2,8 @@
 aliases: ["Partes de un perfil", "Parts of a Stat Block"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters/Parts of a Stat Block|Parts of a Stat Block (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Invisibilidad|Invisibilidad]]"
 ---
 
 # Partes de un perfil

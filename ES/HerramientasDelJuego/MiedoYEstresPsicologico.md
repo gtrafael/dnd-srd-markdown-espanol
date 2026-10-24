@@ -2,6 +2,11 @@
 aliases: ["MiedoEstresMental", "Fear and Mental Stress"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Fear and Mental Stress|Fear and Mental Stress (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/Aparicion|Aparición]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CalmarEmociones|Calmar emociones]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RestablecimientoMenor|Restablecimiento menor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---
 
 # Miedo y estrés psicológico

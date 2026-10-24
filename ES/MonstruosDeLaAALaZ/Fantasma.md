@@ -2,6 +2,9 @@
 aliases: ["Fantasma", "Ghost"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ghost|Ghost (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ExcursionEterea|Excursión etérea]]"
 ---
 
 # Fantasma

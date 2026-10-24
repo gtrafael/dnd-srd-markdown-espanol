@@ -2,6 +2,8 @@
 aliases: ["Maleficio", "Hex"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Hex|Hex (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Brujo|Brujo]]"
 ---
 
 # Maleficio

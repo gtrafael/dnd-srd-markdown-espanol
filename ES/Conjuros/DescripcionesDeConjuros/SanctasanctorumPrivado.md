@@ -2,6 +2,11 @@
 aliases: ["Sanctasanctórum privado", "Private Sanctum"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Private Sanctum|Private Sanctum (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Adivinacion|Adivinación]]"
 ---
 
 # Sanctasanctórum privado

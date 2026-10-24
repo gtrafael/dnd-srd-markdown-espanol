@@ -2,6 +2,9 @@
 aliases: ["Cofre oculto", "Secret Chest"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Secret Chest|Secret Chest (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Cofre oculto

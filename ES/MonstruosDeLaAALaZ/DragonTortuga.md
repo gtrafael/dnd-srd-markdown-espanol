@@ -2,6 +2,8 @@
 aliases: ["Dragón tortuga", "Dragon Turtle"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Dragon Turtle|Dragon Turtle (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Dragón tortuga

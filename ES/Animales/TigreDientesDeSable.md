@@ -2,6 +2,9 @@
 aliases: ["Tigre dientes de sable", "Saber-Toothed Tiger"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Saber-Toothed Tiger|Saber-Toothed Tiger (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Animales/Tigre|Tigre]]"
 ---
 
 # Tigre dientes de sable

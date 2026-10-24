@@ -2,6 +2,23 @@
 aliases: ["Saga de la noche", "Night Hag"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Night Hag|Night Hag (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Augurio|Augurio]]"
+  - "[[Conjuros/DescripcionesDeConjuros/EncontrarFamiliar|Encontrar familiar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Escudrinar|Escudriñar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Identificar|Identificar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/LocalizarObjeto|Localizar objeto]]"
+  - "[[Conjuros/DescripcionesDeConjuros/SirvienteInvisible|Sirviente invisible]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ExcursionEterea|Excursión etérea]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ProyectilMagico|Proyectil mágico]]"
+  - "[[Conjuros/DescripcionesDeConjuros/AsesinoFantasmal|Asesino fantasmal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Ensueno|Ensueño]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ProteccionContraElBienYElMal|Protección contra el bien y el mal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CirculoMagico|Círculo mágico]]"
 ---
 
 # Saga de la noche

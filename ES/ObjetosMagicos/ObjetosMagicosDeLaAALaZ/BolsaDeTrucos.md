@@ -2,6 +2,31 @@
 aliases: ["Bolsa de trucos", "Bag of Tricks"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Bag of Tricks|Bag of Tricks (EN)]]"
+wikilinks_auto:
+  - "[[Animales/Comadreja|Comadreja]]"
+  - "[[Animales/RataGigante|Rata gigante]]"
+  - "[[Animales/Tejon|Tejón]]"
+  - "[[Animales/Jabali|Jabalí]]"
+  - "[[Animales/Pantera|Pantera]]"
+  - "[[Animales/TejonGigante|Tejón gigante]]"
+  - "[[Animales/LoboTerrible|Lobo terrible]]"
+  - "[[Animales/AlceGigante|Alce gigante]]"
+  - "[[Animales/Rata|Rata]]"
+  - "[[Animales/Buho|Búho]]"
+  - "[[Animales/Mastin|Mastín]]"
+  - "[[Animales/Cabra|Cabra]]"
+  - "[[Animales/CabraGigante|Cabra gigante]]"
+  - "[[Animales/JabaliGigante|Jabalí gigante]]"
+  - "[[Animales/Leon|León]]"
+  - "[[Animales/OsoPardo|Oso pardo]]"
+  - "[[Animales/Chacal|Chacal]]"
+  - "[[Animales/Simio|Simio]]"
+  - "[[Animales/Babuino|Babuino]]"
+  - "[[MonstruosDeLaAALaZ/PicoDeHacha|Pico de hacha]]"
+  - "[[Animales/OsoNegro|Oso negro]]"
+  - "[[Animales/ComadrejaGigante|Comadreja gigante]]"
+  - "[[Animales/HienaGigante|Hiena gigante]]"
+  - "[[Animales/Tigre|Tigre]]"
 ---
 
 # Bolsa de trucos

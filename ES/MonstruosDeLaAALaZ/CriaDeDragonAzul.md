@@ -2,6 +2,8 @@
 aliases: ["Cría de dragón azul", "Blue Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Blue Dragon Wyrmling|Blue Dragon Wyrmling (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cría de dragón azul

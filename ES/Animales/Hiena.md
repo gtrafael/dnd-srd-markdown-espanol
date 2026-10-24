@@ -2,6 +2,8 @@
 aliases: ["Hiena", "Hyena"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Hyena|Hyena (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Hiena

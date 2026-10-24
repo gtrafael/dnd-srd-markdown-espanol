@@ -2,6 +2,9 @@
 aliases: ["Armadura de vulnerabilidad"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Armor of Vulnerability]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Identificar|Identificar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/LevantarMaldicion|Levantar maldición]]"
 ---
 
 # Armadura de vulnerabilidad

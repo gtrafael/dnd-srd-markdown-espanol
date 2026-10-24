@@ -2,6 +2,10 @@
 aliases: ["Mansión magnífica", "Magnificent Mansion"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Magnificent Mansion|Magnificent Mansion (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Mansión magnífica

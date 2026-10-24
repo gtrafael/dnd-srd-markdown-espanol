@@ -2,6 +2,8 @@
 aliases: ["Merrow"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Merrow|Merrow (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Merrow

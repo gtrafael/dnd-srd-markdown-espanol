@@ -2,6 +2,10 @@
 aliases: ["Gólem de hierro", "Iron Golem"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Iron Golem|Iron Golem (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
 ---
 
 # Gólem de hierro

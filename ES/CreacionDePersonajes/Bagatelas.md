@@ -2,6 +2,17 @@
 aliases: ["Bagatelas", "Trinkets"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Creation/Trinkets|Trinkets (EN)]]"
+wikilinks_auto:
+  - "[[Animales/Cuervo|Cuervo]]"
+  - "[[MonstruosDeLaAALaZ/Duende|Duende]]"
+  - "[[Animales/Gato|Gato]]"
+  - "[[Animales/Rata|Rata]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Pirata|Pirata]]"
+  - "[[Animales/Cangrejo|Cangrejo]]"
+  - "[[Animales/Arana|Araña]]"
+  - "[[MonstruosDeLaAALaZ/Grifo|Grifo]]"
 ---
 
 # Bagatelas

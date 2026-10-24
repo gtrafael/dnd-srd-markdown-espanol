@@ -2,6 +2,9 @@
 aliases: ["Vínculo protector", "Warding Bond"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Warding Bond|Warding Bond (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Vínculo protector

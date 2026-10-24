@@ -2,6 +2,8 @@
 aliases: ["Combate", "Combat"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Combat|Combat (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
 ---
 
 # Combate

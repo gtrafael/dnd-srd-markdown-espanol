@@ -2,6 +2,11 @@
 aliases: ["Mente en blanco", "Mind Blank"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Mind Blank|Mind Blank (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Deseo|Deseo]]"
 ---
 
 # Mente en blanco

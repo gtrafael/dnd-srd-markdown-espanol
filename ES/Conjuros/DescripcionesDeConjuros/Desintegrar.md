@@ -2,6 +2,14 @@
 aliases: ["Desintegrar", "Disintegrate"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Disintegrate|Disintegrate (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/MuroDeFuerza|Muro de fuerza]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Deseo|Deseo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ResurreccionVerdadera|Resurrección verdadera]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Creacion|Creación]]"
 ---
 
 # Desintegrar

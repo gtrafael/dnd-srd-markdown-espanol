@@ -2,6 +2,8 @@
 aliases: ["Escudo de guarda contra conjuros", "Spellguard Shield"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Spellguard Shield|Spellguard Shield (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Escudo|Escudo]]"
 ---
 
 # Escudo de guarda contra conjuros

@@ -2,6 +2,9 @@
 aliases: ["Guerrero Kobold", "Kobold", "Kobold Warrior"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Kobold Warrior|Kobold Warrior (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
 ---
 
 # Guerrero Kobold

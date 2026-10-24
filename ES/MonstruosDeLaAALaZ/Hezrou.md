@@ -2,6 +2,9 @@
 aliases: ["Hezrou"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Hezrou|Hezrou (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
 ---
 
 # Hezrou

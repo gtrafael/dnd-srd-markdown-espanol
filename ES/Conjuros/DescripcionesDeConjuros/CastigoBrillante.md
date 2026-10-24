@@ -2,6 +2,8 @@
 aliases: ["Castigo brillante", "Shining Smite"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Shining Smite|Shining Smite (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Castigo brillante

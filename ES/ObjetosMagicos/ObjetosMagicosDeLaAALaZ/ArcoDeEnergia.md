@@ -2,6 +2,8 @@
 aliases: ["Arco de energía", "Energy Bow"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Energy Bow|Energy Bow (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
 ---
 
 # Arco de energía

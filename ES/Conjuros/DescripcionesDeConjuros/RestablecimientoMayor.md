@@ -2,6 +2,13 @@
 aliases: ["Restablecimiento mayor", "Greater Restoration"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Paladin|Paladín]]"
 ---
 
 # Restablecimiento mayor

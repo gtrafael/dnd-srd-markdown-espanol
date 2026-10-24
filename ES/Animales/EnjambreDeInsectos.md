@@ -2,6 +2,8 @@
 aliases: ["Enjambre de insectos", "Swarm of Insects"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Swarm of Insects|Swarm of Insects (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 
 # Enjambre de insectos

@@ -2,6 +2,13 @@
 aliases: ["Cubo de fuerza", "Cube of Force"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Cube of Force|Cube of Force (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaduraDeMago|Armadura de mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Escudo|Escudo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PequenaChoza|Pequeña choza]]"
+  - "[[Conjuros/DescripcionesDeConjuros/EsferaElastica|Esfera elástica]]"
+  - "[[Conjuros/DescripcionesDeConjuros/SanctasanctorumPrivado|Sanctasanctórum privado]]"
+  - "[[Conjuros/DescripcionesDeConjuros/MuroDeFuerza|Muro de fuerza]]"
 ---
 
 # Cubo de fuerza

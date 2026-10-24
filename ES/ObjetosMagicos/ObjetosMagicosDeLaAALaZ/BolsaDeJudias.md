@@ -2,6 +2,12 @@
 aliases: ["Bolsa de judías", "Bag of Beans"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Bag of Beans|Bag of Beans (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/Ent|Ent]]"
+  - "[[MonstruosDeLaAALaZ/Bulette|Bulette]]"
+  - "[[MonstruosDeLaAALaZ/Momia|Momia]]"
+  - "[[MonstruosDeLaAALaZ/SenorDeLasMomias|Señor de las momias]]"
+  - "[[MonstruosDeLaAALaZ/GiganteDeLasNubes|Gigante de las nubes]]"
 ---
 
 # Bolsa de judías

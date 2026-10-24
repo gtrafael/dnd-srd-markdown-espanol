@@ -2,6 +2,10 @@
 aliases: ["Tarántula gigante", "Giant Wolf Spider"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Wolf Spider|Giant Wolf Spider (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TreparCualAracnido|Trepar cual arácnido]]"
+  - "[[Animales/Arana|Araña]]"
 ---
 
 # Tarántula gigante

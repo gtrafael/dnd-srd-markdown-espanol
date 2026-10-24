@@ -2,6 +2,12 @@
 aliases: ["Gnomo", "Gnome"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Gnome|Gnome (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Prestidigitacion|Prestidigitación]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Reparar|Reparar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/IlusionMenor|Ilusión menor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/HablarConLosAnimales|Hablar con los animales]]"
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Gnomo

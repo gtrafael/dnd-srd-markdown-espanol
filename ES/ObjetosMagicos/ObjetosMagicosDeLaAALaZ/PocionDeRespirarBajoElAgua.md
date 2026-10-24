@@ -2,6 +2,8 @@
 aliases: ["Poción de respirar bajo el agua"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Potion of Water Breathing]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/Medusa|Medusa]]"
 ---
 
 # Poción de respirar bajo el agua

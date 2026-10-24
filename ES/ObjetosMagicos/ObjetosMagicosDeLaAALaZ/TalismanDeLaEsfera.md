@@ -2,6 +2,8 @@
 aliases: ["Talismán de la esfera", "Talisman of the Sphere"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Talisman of the Sphere|Talisman of the Sphere (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EsferaDeAniquilacion|Esfera de aniquilación]]"
 ---
 
 # Talismán de la esfera

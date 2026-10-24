@@ -2,6 +2,16 @@
 aliases: ["Saga de los mares", "Sea Hag"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Sea Hag|Sea Hag (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Augurio|Augurio]]"
+  - "[[Conjuros/DescripcionesDeConjuros/EncontrarFamiliar|Encontrar familiar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Escudrinar|Escudriñar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Identificar|Identificar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/LocalizarObjeto|Localizar objeto]]"
+  - "[[Conjuros/DescripcionesDeConjuros/SirvienteInvisible|Sirviente invisible]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Apariencia|Apariencia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Disfrazarse|Disfrazarse]]"
 ---
 
 # Saga de los mares

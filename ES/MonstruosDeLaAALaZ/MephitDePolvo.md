@@ -2,6 +2,9 @@
 aliases: ["Mephit de polvo", "Dust Mephit"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Dust Mephit|Dust Mephit (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Dormir|Dormir]]"
 ---
 
 # Mephit de polvo

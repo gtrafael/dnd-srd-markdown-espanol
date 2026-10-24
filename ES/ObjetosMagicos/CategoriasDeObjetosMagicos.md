@@ -2,6 +2,14 @@
 aliases: ["Categorías de objetos mágicos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Item Categories|Magic Item Categories (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeInvisibilidad|Anillo de invisibilidad]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeImpacto|Bastón de impacto]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeContencion|Bolsa de contención]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotasElficas|Botas élficas]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaraInamovible|Vara inamovible]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
 ---
 
 # Categorías de objetos mágicos

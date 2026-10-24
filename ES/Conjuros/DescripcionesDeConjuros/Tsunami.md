@@ -2,6 +2,10 @@
 aliases: ["Tsunami"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Tsunami|Tsunami (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
+  - "[[MonstruosDeLaAALaZ/Aparicion|Aparición]]"
 ---
 
 # Tsunami

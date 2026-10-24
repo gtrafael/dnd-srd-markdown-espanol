@@ -2,6 +2,14 @@
 aliases: ["Dragón de plata adulto", "Adult Silver Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Silver Dragon|Adult Silver Dragon (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CuchilloDeHielo|Cuchillo de hielo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CambiarDeForma|Cambiar de forma]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/InmovilizarMonstruo|Inmovilizar monstruo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/TormentaDeHielo|Tormenta de hielo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ZonaDeLaVerdad|Zona de la verdad]]"
 ---
 
 # Dragón de plata adulto

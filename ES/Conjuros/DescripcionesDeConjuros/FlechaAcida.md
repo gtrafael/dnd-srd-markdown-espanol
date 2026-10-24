@@ -2,6 +2,9 @@
 aliases: ["Flecha ácida", "Acid Arrow"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Acid Arrow|Acid Arrow (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Flecha ácida

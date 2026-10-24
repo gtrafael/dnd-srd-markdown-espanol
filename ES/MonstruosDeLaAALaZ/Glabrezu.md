@@ -2,6 +2,11 @@
 aliases: ["Glabrezu"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Glabrezu|Glabrezu (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PalabraDePoderAturdir|Palabra de poder: aturdir]]"
 ---
 
 # Glabrezu

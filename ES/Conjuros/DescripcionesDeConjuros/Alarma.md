@@ -2,6 +2,10 @@
 aliases: ["Alarma", "Alarm"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Alarm|Alarm (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Explorador|Explorador]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Alarma

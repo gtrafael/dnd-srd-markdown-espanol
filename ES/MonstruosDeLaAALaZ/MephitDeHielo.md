@@ -2,6 +2,9 @@
 aliases: ["Mephit de hielo", "Ice Mephit"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ice Mephit|Ice Mephit (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/NubeDeOscurecimiento|Nube de oscurecimiento]]"
 ---
 
 # Mephit de hielo

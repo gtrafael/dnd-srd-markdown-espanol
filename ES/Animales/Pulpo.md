@@ -2,6 +2,9 @@
 aliases: ["Pulpo", "Octopus"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Octopus|Octopus (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Pulpo

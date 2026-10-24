@@ -2,6 +2,17 @@
 aliases: ["Unicornio", "Unicorn"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Unicorn|Unicorn (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Resistencia|Resistencia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/SaberDruidico|Saber druídico]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CalmarEmociones|Calmar emociones]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PalabraDeRegreso|Palabra de regreso]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PasarSinRastro|Pasar sin rastro]]"
+  - "[[Conjuros/DescripcionesDeConjuros/CurarHeridas|Curar heridas]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RestablecimientoMenor|Restablecimiento menor]]"
 ---
 
 # Unicornio

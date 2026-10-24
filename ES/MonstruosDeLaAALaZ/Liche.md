@@ -2,6 +2,23 @@
 aliases: ["Liche", "Lich"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Lich|Lich (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/BolaDeFuego|Bola de fuego]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarPensamientos|Detectar pensamientos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ManoDeMago|Mano de mago]]"
+  - "[[Conjuros/DescripcionesDeConjuros/AnimarALosMuertos|Animar a los muertos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PuertaDimensional|Puerta dimensional]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DedoDeLaMuerte|Dedo de la muerte]]"
+  - "[[Conjuros/DescripcionesDeConjuros/PalabraDePoderMatar|Palabra de poder: matar]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RelampagoEnCadena|Relámpago en cadena]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Contrahechizo|Contrahechizo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Escudo|Escudo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Terror|Terror]]"
 ---
 
 # Liche

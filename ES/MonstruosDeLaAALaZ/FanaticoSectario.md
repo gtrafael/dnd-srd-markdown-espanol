@@ -2,6 +2,11 @@
 aliases: ["Fanático sectario", "Cultist Fanatic"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Cultist Fanatic|Cultist Fanatic (EN)]]"
+wikilinks_auto:
+  - "[[MonstruosDeLaAALaZ/Sectario|Sectario]]"
+  - "[[Conjuros/DescripcionesDeConjuros/OrdenImperiosa|Orden imperiosa]]"
+  - "[[Conjuros/DescripcionesDeConjuros/InmovilizarPersona|Inmovilizar persona]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ArmaEspiritual|Arma espiritual]]"
 ---
 
 # Fanático sectario

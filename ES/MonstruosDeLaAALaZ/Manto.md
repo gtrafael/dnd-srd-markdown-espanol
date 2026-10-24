@@ -2,6 +2,9 @@
 aliases: ["Manto", "Cloaker"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Cloaker|Cloaker (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ImagenMultiple|Imagen múltiple]]"
 ---
 
 # Manto

@@ -2,6 +2,8 @@
 aliases: ["Poción de veneno"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Potion of Poison]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Identificar|Identificar]]"
 ---
 
 # Poción de veneno

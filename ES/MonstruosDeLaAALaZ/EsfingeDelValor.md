@@ -2,6 +2,13 @@
 aliases: ["Esfinge del valor", "Sphinx of Valor"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Sphinx of Valor|Sphinx of Valor (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DetectarMagia|Detectar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
+  - "[[Conjuros/DescripcionesDeConjuros/FestinDeHeroes|Festín de héroes]]"
+  - "[[Conjuros/DescripcionesDeConjuros/RestablecimientoMayor|Restablecimiento mayor]]"
+  - "[[Conjuros/DescripcionesDeConjuros/ZonaDeLaVerdad|Zona de la verdad]]"
 ---
 
 # Esfinge del valor

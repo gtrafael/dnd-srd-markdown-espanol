@@ -2,6 +2,10 @@
 aliases: ["Corcel fantasma", "Phantom Steed"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Phantom Steed|Phantom Steed (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
+  - "[[Animales/CaballoDeMonta|Caballo de monta]]"
 ---
 
 # Corcel fantasma

@@ -2,6 +2,8 @@
 aliases: ["Varita de telaraña"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Wand of Web|Wand of Web (EN)]]"
+wikilinks_auto:
+  - "[[Conjuros/DescripcionesDeConjuros/Telarana|Telaraña]]"
 ---
 
 # Varita de telaraña

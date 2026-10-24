@@ -2,6 +2,9 @@
 aliases: ["Agujero portátil", "Portable Hole"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Portable Hole|Portable Hole (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeContencion|Bolsa de contención]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MorralPractico|Morral práctico]]"
 ---
 
 # Agujero portátil

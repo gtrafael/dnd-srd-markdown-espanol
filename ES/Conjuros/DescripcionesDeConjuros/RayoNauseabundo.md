@@ -2,6 +2,10 @@
 aliases: ["Rayo nauseabundo", "Ray of Sickness"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Ray of Sickness|Ray of Sickness (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Hechicero|Hechicero]]"
+  - "[[Clases/Mago|Mago]]"
+  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Rayo nauseabundo

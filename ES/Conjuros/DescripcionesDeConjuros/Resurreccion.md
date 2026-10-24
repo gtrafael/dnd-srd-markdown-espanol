@@ -2,6 +2,10 @@
 aliases: ["Resurrección", "Resurrection"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Spell Descriptions/Resurrection|Resurrection (EN)]]"
+wikilinks_auto:
+  - "[[Clases/Bardo|Bardo]]"
+  - "[[Clases/Clerigo|Clérigo]]"
+  - "[[Conjuros/DescripcionesDeConjuros/Revivir|Revivir]]"
 ---
 
 # Resurrección
