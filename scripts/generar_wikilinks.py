@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
-"""Genera wikilinks automáticos en ES sin crear ni alterar entidades.
+"""Genera wikilinks automáticos deterministas en las bóvedas ES y EN.
 
-V3:
+Principios:
 - solo enlaza a notas físicas que ya representan una entidad;
 - nunca crea notas auxiliares;
 - nunca modifica el cuerpo Markdown;
 - excluye índices, carpetas (Alt) y notas contenedoras como destinos;
 - resuelve primero la coincidencia textual más larga;
-- conserva todos los destinos cuando dos entidades reales comparten nombre.
+- conserva todos los destinos cuando dos entidades reales comparten nombre;
+- protege los conjuros/spells de una sola palabra mediante contexto.
 """
 
 from __future__ import annotations
@@ -19,6 +20,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 AUTO_PROPERTY = "wikilinks_auto"
+LANGUAGES = ("ES", "EN")
 
 
 @dataclass(frozen=True)
@@ -33,15 +35,89 @@ class Concept:
         return f"[[{target}|{self.title}]]"
 
 
+ENTITY_RULES = {
+    "ES": (
+        ("Clases", "class"),
+        ("Animales", "animal"),
+        ("Conjuros", "spell"),
+        ("Dotes", "feat"),
+        ("MonstruosDeLaAALaZ", "monster"),
+        ("ObjetosMagicos", "magic_item"),
+    ),
+    "EN": (
+        ("Classes", "class"),
+        ("Animals", "animal"),
+        ("Spells", "spell"),
+        ("Feats", "feat"),
+        ("Monsters A-Z", "monster"),
+        ("Magic Items/Magic Items A-Z", "magic_item"),
+    ),
+}
+
+SPELL_MARKERS = {
+    "ES": (
+        "**Tiempo de lanzamiento:**",
+        "**Alcance:**",
+        "**Componentes:**",
+        "**Duración:**",
+    ),
+    "EN": (
+        "**Casting Time:**",
+        "**Range:**",
+        "**Components:**",
+        "**Duration:**",
+    ),
+}
+
+RARITY_WORDS = {
+    "ES": ("común", "infrecuente", "raro", "muy raro", "legendario", "artefacto"),
+    "EN": ("common", "uncommon", "rare", "very rare", "legendary", "artifact"),
+}
+
+SPELL_TABLE_TERMS = {
+    "ES": ("conjuro", "truco"),
+    "EN": ("spell", "cantrip"),
+}
+
+SPELL_PROSE_CONTEXT = {
+    "ES": re.compile(
+        r"(?i)\b(?:"
+        r"conjuro|conjuros|"
+        r"truco|trucos|"
+        r"lanzar|lance|lances|lanzado|lanzada|lanzados|lanzadas|lanzando|"
+        r"preparar|preparas|prepara|preparado|preparada|preparados|preparadas|"
+        r"aprender|aprendes|aprende|aprendido|aprendida|aprendidos|aprendidas"
+        r")\b"
+    ),
+    "EN": re.compile(
+        r"(?i)\b(?:"
+        r"spell|spells|"
+        r"cantrip|cantrips|"
+        r"cast|casts|casting|casted|"
+        r"prepare|prepares|prepared|preparing|"
+        r"learn|learns|learned|learning"
+        r")\b"
+    ),
+}
+
+HEADING_RE = re.compile(r"(?m)^#{1,6}\s+(.+?)\s*$")
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Genera relaciones Obsidian entre entidades físicas de ES."
+        description="Genera relaciones Obsidian deterministas en ES y/o EN."
     )
     parser.add_argument(
         "--root",
         type=Path,
         default=Path(__file__).resolve().parents[1],
         help="Raíz del repositorio.",
+    )
+    parser.add_argument(
+        "--lang",
+        choices=("ES", "EN", "all"),
+        default="all",
+        help="Idioma a procesar. Por defecto procesa ES y EN.",
     )
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--verbose", action="store_true")
@@ -73,9 +149,14 @@ def clean_title(value: str) -> str:
     return re.sub(r"\s+", " ", value)
 
 
-def first_h1(markdown: str) -> str | None:
-    match = re.search(r"(?m)^#\s+(.+?)\s*$", strip_frontmatter(markdown))
+def first_heading(markdown: str) -> str | None:
+    match = HEADING_RE.search(strip_frontmatter(markdown))
     return clean_title(match.group(1)) if match else None
+
+
+def first_heading_match(markdown: str) -> tuple[re.Match[str] | None, str]:
+    body = strip_frontmatter(markdown)
+    return HEADING_RE.search(body), body
 
 
 def normalized(value: str) -> str:
@@ -92,23 +173,18 @@ def heading_titles(markdown: str) -> list[str]:
     ]
 
 
-def blocker_variants(heading: str) -> set[str]:
+def blocker_variants(heading: str, language: str) -> set[str]:
     variants = {heading.strip()}
+    level_word = "Nivel" if language == "ES" else "Level"
 
-    # Los encabezados de rasgos suelen llevar un prefijo mecánico de nivel.
-    # Queremos que "Nivel 7: Salto instintivo" también bloquee la frase
-    # "Salto instintivo" cuando aparezca en una tabla o en prosa.
     without_level = re.sub(
-        r"(?i)^Nivel\s+\d+\s*:\s*",
+        rf"(?i)^{level_word}\s+\d+\s*:\s*",
         "",
         heading,
     ).strip()
     if without_level:
         variants.add(without_level)
 
-    # Equipo usa metadatos de presentación en el propio encabezado, por
-    # ejemplo "Paquete de explorador (10 po)". La frase que aparece en otras
-    # notas suele omitir ese precio.
     for value in tuple(variants):
         without_suffix = re.sub(
             r"\s*\([^()]+\)\s*$",
@@ -129,70 +205,62 @@ def is_alt_path(path: Path) -> bool:
     return any(part.endswith(" (Alt)") for part in path.parts)
 
 
-def is_class(markdown: str) -> bool:
+def is_class(markdown: str, language: str) -> bool:
     body = strip_frontmatter(markdown)
+
+    if language == "ES":
+        return bool(
+            re.search(r"(?mi)^Atributos básicos de\s+", body)
+            and re.search(r"(?mi)^##\s+Convertirse en\s+", body)
+        )
+
     return bool(
-        re.search(r"(?mi)^Atributos básicos de\s+", body)
-        and re.search(r"(?mi)^##\s+Convertirse en\s+", body)
+        re.search(r"(?mi)^##\s+Core\s+.+?\s+Traits\s*$", body)
+        and re.search(r"(?mi)^##\s+Becoming a\s+", body)
     )
 
 
-def is_statblock(markdown: str) -> bool:
-    return all(
-        marker in markdown
-        for marker in ("**CA:**", "**PG:**", "**Velocidad:**")
-    )
+def is_statblock(markdown: str, language: str) -> bool:
+    if language == "ES":
+        return all(
+            marker in markdown
+            for marker in ("**CA:**", "**PG:**", "**Velocidad:**")
+        )
 
-
-def is_spell(markdown: str) -> bool:
     return all(
-        marker in markdown
-        for marker in (
-            "**Tiempo de lanzamiento:**",
-            "**Alcance:**",
-            "**Componentes:**",
-            "**Duración:**",
+        re.search(pattern, markdown, flags=re.MULTILINE)
+        for pattern in (
+            r"^\*\*AC\b",
+            r"^\*\*HP\b",
+            r"^\*\*Speed\b",
         )
     )
 
 
-def is_magic_item(markdown: str) -> bool:
-    body = strip_frontmatter(markdown)
-    heading = re.search(r"(?m)^#\s+.+?\s*$", body)
+def is_spell(markdown: str, language: str) -> bool:
+    return all(marker in markdown for marker in SPELL_MARKERS[language])
+
+
+def is_magic_item(markdown: str, language: str) -> bool:
+    heading, body = first_heading_match(markdown)
     if not heading:
         return False
 
-    first_nonblank = next(
-        (
-            line.strip()
-            for line in body[heading.end() :].splitlines()
-            if line.strip()
-        ),
-        "",
-    )
-    if not (
-        first_nonblank.startswith("*")
-        and first_nonblank.endswith("*")
-    ):
-        return False
+    following = [
+        line.strip().strip("*_").strip()
+        for line in body[heading.end() :].splitlines()
+        if line.strip()
+    ][:4]
+    descriptor = " ".join(following).casefold()
 
-    descriptor = first_nonblank.casefold()
     return any(
-        word in descriptor
-        for word in (
-            "común",
-            "infrecuente",
-            "raro",
-            "muy raro",
-            "legendario",
-            "artefacto",
-        )
+        re.search(rf"(?<!\w){re.escape(word)}(?!\w)", descriptor)
+        for word in RARITY_WORDS[language]
     )
 
 
-def is_feat(markdown: str) -> bool:
-    body = strip_frontmatter(markdown)
-    heading = re.search(r"(?m)^#\s+.+?\s*$", body)
+def is_feat(markdown: str, language: str) -> bool:
+    heading, body = first_heading_match(markdown)
     if not heading:
         return False
 
@@ -204,37 +272,48 @@ def is_feat(markdown: str) -> bool:
         ),
         "",
     )
-    return bool(re.match(r"(?i)^Dote(?:\s|$)", first_nonblank))
+
+    if language == "ES":
+        return bool(re.match(r"(?i)^Dote(?:\s|$)", first_nonblank))
+
+    return bool(re.search(r"(?i)\bFeat\s*$", first_nonblank))
 
 
-ENTITY_RULES = (
-    ("Clases", "clase", is_class),
-    ("Animales", "animal", is_statblock),
-    ("Conjuros", "conjuro", is_spell),
-    ("Dotes", "dote", is_feat),
-    ("MonstruosDeLaAALaZ", "monstruo", is_statblock),
-    ("ObjetosMagicos", "objeto_magico", is_magic_item),
-)
+def is_entity(markdown: str, language: str, kind: str) -> bool:
+    if kind == "class":
+        return is_class(markdown, language)
+    if kind in {"animal", "monster"}:
+        return is_statblock(markdown, language)
+    if kind == "spell":
+        return is_spell(markdown, language)
+    if kind == "feat":
+        return is_feat(markdown, language)
+    if kind == "magic_item":
+        return is_magic_item(markdown, language)
+    raise ValueError(f"Tipo de entidad desconocido: {kind}")
 
 
-def build_catalog(es_root: Path) -> dict[str, list[Concept]]:
+def build_catalog(
+    language_root: Path,
+    language: str,
+) -> dict[str, list[Concept]]:
     catalog: dict[str, list[Concept]] = defaultdict(list)
 
-    for folder_name, kind, validator in ENTITY_RULES:
-        folder = es_root / folder_name
+    for folder_name, kind in ENTITY_RULES[language]:
+        folder = language_root / folder_name
         if not folder.is_dir():
             continue
 
         for path in sorted(folder.rglob("*.md")):
-            relative = path.relative_to(es_root)
+            relative = path.relative_to(language_root)
             if is_index(relative) or is_alt_path(relative):
                 continue
 
             markdown = path.read_text(encoding="utf-8")
-            if not validator(markdown):
+            if not is_entity(markdown, language, kind):
                 continue
 
-            title = first_h1(markdown)
+            title = first_heading(markdown)
             if not title:
                 continue
 
@@ -249,8 +328,9 @@ def build_catalog(es_root: Path) -> dict[str, list[Concept]]:
 
 
 def build_blockers(
-    es_root: Path,
+    language_root: Path,
     catalog: dict[str, list[Concept]],
+    language: str,
 ) -> dict[str, str]:
     """Frases estructurales que consumen texto pero nunca crean enlaces."""
     blockers: dict[str, str] = {}
@@ -271,24 +351,20 @@ def build_blockers(
         re.IGNORECASE,
     )
 
-    for path in sorted(es_root.rglob("*.md")):
-        relative = path.relative_to(es_root)
+    for path in sorted(language_root.rglob("*.md")):
+        relative = path.relative_to(language_root)
         if is_alt_path(relative) or is_index(relative):
             continue
 
         markdown = path.read_text(encoding="utf-8")
 
         for heading in heading_titles(markdown):
-            for candidate in blocker_variants(heading):
+            for candidate in blocker_variants(heading, language):
                 candidate_key = normalized(candidate)
 
-                # Un bloqueador nunca sustituye una entidad cuyo título es
-                # exactamente el mismo.
                 if candidate_key in catalog:
                     continue
 
-                # Un único matcher comprueba si la frase contiene alguna
-                # entidad; evita recorrer todo el catálogo por encabezado.
                 if entity_matcher.search(candidate):
                     blockers[candidate_key] = candidate
 
@@ -328,18 +404,18 @@ def searchable_body(markdown: str) -> str:
     return body
 
 
-def iter_target_notes(es_root: Path):
-    for path in sorted(es_root.rglob("*.md")):
-        relative = path.relative_to(es_root)
+def iter_target_notes(language_root: Path):
+    for path in sorted(language_root.rglob("*.md")):
+        relative = path.relative_to(language_root)
+
         if is_alt_path(relative) or is_index(relative):
             continue
-        if relative == Path("Espanol.md"):
-            continue
+
         yield path
 
 
 def is_single_word_spell(concept: Concept) -> bool:
-    return concept.kind == "conjuro" and not re.search(r"\s", concept.title)
+    return concept.kind == "spell" and not re.search(r"\s", concept.title)
 
 
 def split_table_cells(line: str) -> list[str]:
@@ -360,7 +436,6 @@ def is_table_separator(cells: list[str]) -> bool:
 
 
 def table_headers_by_line(lines: list[str]) -> dict[int, list[str]]:
-    """Asocia cada fila de datos Markdown con las cabeceras de su tabla."""
     headers_by_line: dict[int, list[str]] = {}
     current_headers: list[str] | None = None
     in_table = False
@@ -388,26 +463,12 @@ def table_headers_by_line(lines: list[str]) -> dict[int, list[str]]:
 
 
 def table_cell_index(line: str, position: int) -> int | None:
-    """Devuelve la columna Markdown que contiene una posición de la línea."""
     if not line.lstrip().startswith("|"):
         return None
 
-    # En tablas del repositorio las filas empiezan por "|". Cada separador
-    # anterior al match incrementa el índice de columna.
     prefix = line[:position]
     index = prefix.count("|") - 1
     return index if index >= 0 else None
-
-
-SPELL_PROSE_CONTEXT = re.compile(
-    r"(?i)\b(?:"
-    r"conjuro|conjuros|"
-    r"truco|trucos|"
-    r"lanzar|lance|lances|lanzado|lanzada|lanzados|lanzadas|lanzando|"
-    r"preparar|preparas|prepara|preparado|preparada|preparados|preparadas|"
-    r"aprender|aprendes|aprende|aprendido|aprendida|aprendidos|aprendidas"
-    r")\b"
-)
 
 
 def single_word_spell_has_context(
@@ -415,8 +476,8 @@ def single_word_spell_has_context(
     line_index: int,
     match: re.Match[str],
     headers_by_line: dict[int, list[str]],
+    language: str,
 ) -> bool:
-    """Exige evidencia explícita para conjuros cuyo nombre es una sola palabra."""
     headers = headers_by_line.get(line_index)
 
     if headers is not None:
@@ -425,25 +486,24 @@ def single_word_spell_has_context(
             return False
 
         header = normalized(headers[column])
-        return "conjuro" in header or "truco" in header
+        return any(term in header for term in SPELL_TABLE_TERMS[language])
 
-    # En prosa se usa una ventana local para evitar que la palabra "conjuro"
-    # en otro extremo de un párrafo largo legitime una coincidencia accidental.
     start = max(0, match.start() - 120)
     end = min(len(line), match.end() + 120)
     context = line[start:end]
-    return bool(SPELL_PROSE_CONTEXT.search(context))
+    return bool(SPELL_PROSE_CONTEXT[language].search(context))
 
 
 def detect_links(
     note_path: Path,
     markdown: str,
-    es_root: Path,
+    language_root: Path,
     catalog: dict[str, list[Concept]],
     blockers: dict[str, str],
     matcher: re.Pattern[str],
+    language: str,
 ) -> list[str]:
-    current = note_path.relative_to(es_root)
+    current = note_path.relative_to(language_root)
     links: list[str] = []
     seen: set[str] = set()
 
@@ -455,8 +515,6 @@ def detect_links(
         for match in matcher.finditer(line):
             key = normalized(match.group(1))
 
-            # Los bloqueadores participan en el mismo longest-match que las
-            # entidades, pero consumen el intervalo sin producir ninguna arista.
             if key in blockers:
                 continue
 
@@ -464,10 +522,6 @@ def detect_links(
                 if concept.path == current:
                     continue
 
-                # Los conjuros de una sola palabra son especialmente ambiguos
-                # con vocabulario ordinario ("luz", "resistencia", "dormir",
-                # "escudo"...). Solo se enlazan con evidencia estructural o
-                # léxica de que el texto está hablando de un conjuro.
                 if (
                     is_single_word_spell(concept)
                     and not single_word_spell_has_context(
@@ -475,6 +529,7 @@ def detect_links(
                         line_index,
                         match,
                         headers_by_line,
+                        language,
                     )
                 ):
                     continue
@@ -547,32 +602,36 @@ def update_frontmatter(markdown: str, links: list[str]) -> str:
     )
 
 
-def main() -> int:
-    options = parse_args()
-    root = options.root.resolve()
-    es_root = root / "ES"
+def process_language(
+    root: Path,
+    language: str,
+    dry_run: bool,
+    verbose: bool,
+) -> dict[str, int]:
+    language_root = root / language
 
-    if not es_root.is_dir():
-        raise SystemExit(f"No existe {es_root}")
+    if not language_root.is_dir():
+        raise SystemExit(f"No existe {language_root}")
 
-    catalog = build_catalog(es_root)
-    blockers = build_blockers(es_root, catalog)
+    catalog = build_catalog(language_root, language)
+    blockers = build_blockers(language_root, catalog, language)
     matcher = compile_matcher(catalog, blockers)
 
     scanned = 0
     changed = 0
     link_count = 0
 
-    for path in iter_target_notes(es_root):
+    for path in iter_target_notes(language_root):
         scanned += 1
         original = path.read_text(encoding="utf-8")
         links = detect_links(
             path,
             original,
-            es_root,
+            language_root,
             catalog,
             blockers,
             matcher,
+            language,
         )
         link_count += len(links)
         updated = update_frontmatter(original, links)
@@ -582,12 +641,12 @@ def main() -> int:
 
         changed += 1
 
-        if options.verbose:
+        if verbose:
             print(f"{path.relative_to(root)}: {len(links)} enlaces")
             for link in links:
                 print(f"  {link}")
 
-        if not options.dry_run:
+        if not dry_run:
             path.write_text(updated, encoding="utf-8", newline="")
 
     duplicates = {
@@ -601,14 +660,14 @@ def main() -> int:
         for concept in concepts:
             counts[concept.kind] += 1
 
-    mode = "DRY-RUN" if options.dry_run else "ESCRITURA"
+    mode = "DRY-RUN" if dry_run else "ESCRITURA"
     kinds = " ".join(
         f"{kind}={count}"
         for kind, count in sorted(counts.items())
     )
 
     print(
-        f"[{mode}] entidades={sum(counts.values())} "
+        f"[{mode}][{language}] entidades={sum(counts.values())} "
         f"titulos={len(catalog)} bloqueadores={len(blockers)} "
         f"duplicados={len(duplicates)} "
         f"notas={scanned} modificadas={changed} "
@@ -620,8 +679,33 @@ def main() -> int:
         key=lambda values: values[0].title.casefold(),
     ):
         print(
-            f"DUPLICADO: {concepts[0].title} -> "
+            f"DUPLICADO[{language}]: {concepts[0].title} -> "
             + ", ".join(concept.path.as_posix() for concept in concepts)
+        )
+
+    return {
+        "entities": sum(counts.values()),
+        "titles": len(catalog),
+        "blockers": len(blockers),
+        "duplicates": len(duplicates),
+        "notes": scanned,
+        "changed": changed,
+        "wikilinks": link_count,
+    }
+
+
+def main() -> int:
+    options = parse_args()
+    root = options.root.resolve()
+
+    languages = LANGUAGES if options.lang == "all" else (options.lang,)
+
+    for language in languages:
+        process_language(
+            root=root,
+            language=language,
+            dry_run=options.dry_run,
+            verbose=options.verbose,
         )
 
     return 0

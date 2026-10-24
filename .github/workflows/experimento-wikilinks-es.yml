@@ -1,4 +1,4 @@
-name: Experimento wikilinks ES
+name: Experimento wikilinks ES-EN
 
 on:
   push:
@@ -27,13 +27,13 @@ jobs:
           python-version: '3.12'
 
       - name: Validar sintaxis
-        run: python -m py_compile scripts/generar_wikilinks_es.py
+        run: python -m py_compile scripts/generar_wikilinks.py
 
-      - name: Simular generación
-        run: python scripts/generar_wikilinks_es.py --dry-run
+      - name: Simular generación bilingüe
+        run: python scripts/generar_wikilinks.py --dry-run
 
-      - name: Generar wikilinks v3
-        run: python scripts/generar_wikilinks_es.py
+      - name: Generar wikilinks ES y EN
+        run: python scripts/generar_wikilinks.py
 
       - name: Validar longest-match y bloqueadores
         shell: bash
@@ -43,37 +43,46 @@ jobs:
           import sys
           from pathlib import Path
 
-          script = Path("scripts/generar_wikilinks_es.py")
-          spec = importlib.util.spec_from_file_location("wikilinks_es", script)
+          script = Path("scripts/generar_wikilinks.py")
+          spec = importlib.util.spec_from_file_location("wikilinks", script)
           module = importlib.util.module_from_spec(spec)
           sys.modules[spec.name] = module
           spec.loader.exec_module(module)
 
-          es = Path("ES")
-          catalog = module.build_catalog(es)
-          blockers = module.build_blockers(es, catalog)
-          matcher = module.compile_matcher(catalog, blockers)
+          def setup(language):
+              root = Path(language)
+              catalog = module.build_catalog(root, language)
+              blockers = module.build_blockers(root, catalog, language)
+              matcher = module.compile_matcher(catalog, blockers)
+              fake_path = root / "__prueba__.md"
 
-          fake_path = es / "__prueba__.md"
+              def links(text):
+                  return module.detect_links(
+                      fake_path,
+                      text,
+                      root,
+                      catalog,
+                      blockers,
+                      matcher,
+                      language,
+                  )
 
-          def links(text):
-              return module.detect_links(
-                  fake_path,
-                  text,
-                  es,
-                  catalog,
-                  blockers,
-                  matcher,
-              )
+              return links
 
-          only_package = links("Un paquete de explorador contiene equipo útil.")
+          es_links = setup("ES")
+          only_package = es_links("Un paquete de explorador contiene equipo útil.")
           assert not any("Clases/Explorador" in link for link in only_package), only_package
 
-          both = links("El explorador lleva un paquete de explorador.")
+          both = es_links("El explorador lleva un paquete de explorador.")
           explorer = [link for link in both if "Clases/Explorador" in link]
           assert len(explorer) == 1, both
 
-          print("OK: longest-match conserva Explorador independiente y bloquea el interior de Paquete de explorador.")
+          en_links = setup("EN")
+          mage_armor = en_links("The mage casts Mage Armor.")
+          assert any("|Mage Armor]]" in link for link in mage_armor), mage_armor
+          assert not any("Monsters A-Z/Mage|" in link for link in mage_armor), mage_armor
+
+          print("OK: longest-match y bloqueadores funcionan en ES y EN.")
           PY
 
       - name: Validar contexto de conjuros de una palabra
@@ -84,30 +93,35 @@ jobs:
           import sys
           from pathlib import Path
 
-          script = Path("scripts/generar_wikilinks_es.py")
-          spec = importlib.util.spec_from_file_location("wikilinks_es", script)
+          script = Path("scripts/generar_wikilinks.py")
+          spec = importlib.util.spec_from_file_location("wikilinks", script)
           module = importlib.util.module_from_spec(spec)
           sys.modules[spec.name] = module
           spec.loader.exec_module(module)
 
-          es = Path("ES")
-          catalog = module.build_catalog(es)
-          blockers = module.build_blockers(es, catalog)
-          matcher = module.compile_matcher(catalog, blockers)
-          fake_path = es / "__prueba_conjuros__.md"
+          def setup(language):
+              root = Path(language)
+              catalog = module.build_catalog(root, language)
+              blockers = module.build_blockers(root, catalog, language)
+              matcher = module.compile_matcher(catalog, blockers)
+              fake_path = root / "__prueba_conjuros__.md"
 
-          def links(text):
-              return module.detect_links(
-                  fake_path,
-                  text,
-                  es,
-                  catalog,
-                  blockers,
-                  matcher,
-              )
+              def links(text):
+                  return module.detect_links(
+                      fake_path,
+                      text,
+                      root,
+                      catalog,
+                      blockers,
+                      matcher,
+                      language,
+                  )
 
-          assert not any("Conjuros/Volar" in x for x in links("El águila puede volar 18 m."))
-          assert any("Conjuros/Volar" in x for x in links("Puedes lanzar el conjuro volar sobre una criatura."))
+              return links
+
+          es_links = setup("ES")
+          assert not any("|Volar]]" in x for x in es_links("El águila puede volar 18 m."))
+          assert any("|Volar]]" in x for x in es_links("Puedes lanzar el conjuro volar sobre una criatura."))
 
           tabla_conjuro = (
               "| Conjuro | Escuela |\n"
@@ -118,16 +132,38 @@ jobs:
               "| Nombre | Escuela |\n"
               "| Detectar magia | Adivinación |\n"
           )
-          assert any("Conjuros/Adivinacion" in x for x in links(tabla_conjuro))
-          assert not any("Conjuros/Adivinacion" in x for x in links(tabla_escuela))
+          assert any("|Adivinación]]" in x for x in es_links(tabla_conjuro))
+          assert not any("|Adivinación]]" in x for x in es_links(tabla_escuela))
 
           tabla_maestria = (
               "| Arma | Maestría |\n"
               "| Garrote | Ralentizar |\n"
           )
-          assert not any("Conjuros/Ralentizar" in x for x in links(tabla_maestria))
+          assert not any("|Ralentizar]]" in x for x in es_links(tabla_maestria))
 
-          print("OK: los conjuros de una palabra exigen contexto estructural o léxico de conjuro.")
+          en_links = setup("EN")
+          assert not any("|Fly]]" in x for x in en_links("The eagle can fly 60 feet."))
+          assert any("|Fly]]" in x for x in en_links("You can cast the Fly spell on a creature."))
+
+          spell_table = (
+              "| Spell | School |\n"
+              "|---|---|\n"
+              "| Divination | Divination |\n"
+          )
+          school_table = (
+              "| Name | School |\n"
+              "| Detect Magic | Divination |\n"
+          )
+          assert any("|Divination]]" in x for x in en_links(spell_table))
+          assert not any("|Divination]]" in x for x in en_links(school_table))
+
+          mastery_table = (
+              "| Weapon | Mastery |\n"
+              "| Club | Slow |\n"
+          )
+          assert not any("|Slow]]" in x for x in en_links(mastery_table))
+
+          print("OK: los conjuros/spells de una palabra exigen contexto en ES y EN.")
           PY
 
       - name: Validar invariantes
@@ -138,8 +174,12 @@ jobs:
           import subprocess
           import sys
 
-          if Path("ES/_Entidades").exists():
-              print("ERROR: v3 no permite ES/_Entidades.")
+          forbidden = [Path("ES/_Entidades"), Path("EN/_Entities")]
+          existing = [path for path in forbidden if path.exists()]
+          if existing:
+              print("ERROR: no se permiten carpetas de entidades auxiliares:")
+              for path in existing:
+                  print("  -", path)
               sys.exit(1)
 
           def strip_frontmatter(text: str) -> str:
@@ -154,7 +194,7 @@ jobs:
               return text
 
           changed = subprocess.check_output(
-              ["git", "diff", "--name-only", "--", "ES"],
+              ["git", "diff", "--name-only", "--", "ES", "EN"],
               text=True,
           ).splitlines()
 
@@ -191,21 +231,21 @@ jobs:
       - name: Validar idempotencia
         shell: bash
         run: |
-          git diff -- ES > /tmp/antes.diff
-          python scripts/generar_wikilinks_es.py
-          git diff -- ES > /tmp/despues.diff
+          git diff -- ES EN > /tmp/antes.diff
+          python scripts/generar_wikilinks.py
+          git diff -- ES EN > /tmp/despues.diff
           cmp /tmp/antes.diff /tmp/despues.diff
 
       - name: Guardar resultado
         shell: bash
         run: |
-          if git diff --quiet -- ES; then
+          if git diff --quiet -- ES EN; then
             echo "No hay cambios que guardar."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ES
-          git commit -m "experimento: regenerar wikilinks ES v3"
+          git add ES EN
+          git commit -m "experimento: regenerar wikilinks ES-EN"
           git push
