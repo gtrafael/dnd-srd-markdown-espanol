@@ -76,6 +76,57 @@ jobs:
           print("OK: longest-match conserva Explorador independiente y bloquea el interior de Paquete de explorador.")
           PY
 
+      - name: Validar contexto de conjuros de una palabra
+        shell: bash
+        run: |
+          python - <<'PY'
+          import importlib.util
+          import sys
+          from pathlib import Path
+
+          script = Path("scripts/generar_wikilinks_es.py")
+          spec = importlib.util.spec_from_file_location("wikilinks_es", script)
+          module = importlib.util.module_from_spec(spec)
+          sys.modules[spec.name] = module
+          spec.loader.exec_module(module)
+
+          es = Path("ES")
+          catalog = module.build_catalog(es)
+          blockers = module.build_blockers(es, catalog)
+          matcher = module.compile_matcher(catalog, blockers)
+          fake_path = es / "__prueba_conjuros__.md"
+
+          def links(text):
+              return module.detect_links(
+                  fake_path,
+                  text,
+                  es,
+                  catalog,
+                  blockers,
+                  matcher,
+              )
+
+          assert not any("Conjuros/Volar" in x for x in links("El águila puede volar 18 m."))
+          assert any("Conjuros/Volar" in x for x in links("Puedes lanzar el conjuro volar sobre una criatura."))
+
+          tabla_conjuro = """| Conjuro | Escuela |
+|---|---|
+| Adivinación | Adivinación |
+"""
+          tabla_escuela = """| Nombre | Escuela |
+| Detectar magia | Adivinación |
+"""
+          assert any("Conjuros/Adivinacion" in x for x in links(tabla_conjuro))
+          assert not any("Conjuros/Adivinacion" in x for x in links(tabla_escuela))
+
+          tabla_maestria = """| Arma | Maestría |
+| Garrote | Ralentizar |
+"""
+          assert not any("Conjuros/Ralentizar" in x for x in links(tabla_maestria))
+
+          print("OK: los conjuros de una palabra exigen contexto estructural o léxico de conjuro.")
+          PY
+
       - name: Validar invariantes
         shell: bash
         run: |
