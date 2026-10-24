@@ -5,6 +5,7 @@ related_en: "[[Magic Items/Magic Items A-Z/Sovereign Glue|Sovereign Glue (EN)]]"
 wikilinks_auto:
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AceiteEscurridizo|Aceite escurridizo]]"
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/DisolventeUniversal|Disolvente universal]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AceiteDeEtereidad|Aceite de etereidad]]"
   - "[[Conjuros/DescripcionesDeConjuros/Deseo|Deseo]]"
 ---
 

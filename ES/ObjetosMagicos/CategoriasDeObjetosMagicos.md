@@ -8,7 +8,9 @@ wikilinks_auto:
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeContencion|Bolsa de contención]]"
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotasElficas|Botas élficas]]"
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaraInamovible|Vara inamovible]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeBolasDeFuego|Varita de bolas de fuego]]"
   - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeInvisibilidad|Poción de invisibilidad]]"
   - "[[Conjuros/DescripcionesDeConjuros/DisiparMagia|Disipar magia]]"
 ---
 
