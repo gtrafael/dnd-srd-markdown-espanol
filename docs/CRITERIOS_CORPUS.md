@@ -2,29 +2,58 @@
 
 Estas son las reglas mínimas para mantener `main` y generar `corpus`.
 
-## 1. Qué es autoridad
+## 1. Autoridad
 
 - Los PDF oficiales SRD 5.2.1 ES y EN mandan sobre el contenido.
 - **ES es la referencia estructural primaria.**
 - EN debe ser su espejo conceptual y, cuando el TOC lo permita, también documental.
 - Una diferencia EN solo se acepta si está respaldada por el PDF oficial EN.
 
-## 2. Estructura
+## 2. Estructura canónica
 
-El TOC oficial decide la estructura principal.
+El TOC oficial decide la estructura documental.
 
-- capítulo → carpeta;
-- unidad documental del TOC → archivo;
+- capítulo de nivel superior → carpeta;
+- unidad directa del capítulo → archivo;
+- sección contenedora de un catálogo → subcarpeta;
 - niveles inferiores → encabezados dentro del archivo padre;
-- entidades de catálogo (conjuros, objetos, monstruos, animales) → notas hoja;
-- recuadros normativos → notas propias;
-- una sola estructura normativa por idioma;
-- los `(Alt)` están permitidos únicamente como índices generados para Obsidian, con la misma forma en ES y EN;
-- los `(Alt)` no contienen texto normativo y nunca pasan a `corpus`.
+- entidades de catálogo → notas hoja;
+- la maquetación visual no crea estructura por sí sola.
 
-La maquetación del PDF no crea relaciones ni archivos por sí sola.
+Esto último incluye explícitamente los recuadros: **un recuadro nunca crea una nota independiente solo por ser un recuadro**. Su contenido permanece dentro de la nota padre correspondiente.
 
-## 3. Simetría ES → EN
+Ejemplos:
+
+```
+Conjuros/
+  LanzarConjuros.md
+  ObtenerConjuros.md
+  DescripcionesDeConjuros/
+    ...
+
+ObjetosMagicos/
+  CategoriasDeObjetosMagicos.md
+  ...
+  ObjetosMagicosDeLaAALaZ/
+    ...
+```
+
+## 3. Navegación humana
+
+Toda carpeta canónica contiene exactamente un índice generado:
+
+`00-<Nombre>-Index.md`
+
+Los índices:
+
+- contienen solo enlaces;
+- no contienen contadores, totales ni estado manual;
+- no son contenido normativo;
+- no pasan a `corpus`.
+
+Los grandes catálogos pueden tener además una carpeta `(Alt)` generada con navegación por bloques alfabéticos. Esa vista es exclusivamente humana y tampoco pasa a `corpus`.
+
+## 4. Simetría ES → EN
 
 Toda nota normativa ES debe apuntar a su equivalente EN mediante `related_en` o `related_en_section`.
 
@@ -32,9 +61,9 @@ Ese destino debe existir. El equivalente EN debe apuntar de vuelta cuando sea un
 
 `sin-equivalente` solo es válido si se ha comprobado en el PDF EN que la unidad realmente no existe.
 
-No se fuerza a ES a adoptar la estructura histórica de EN.
+La simetría se aplica también a las carpetas contenedoras de catálogos.
 
-## 4. Tablas
+## 5. Tablas
 
 Las tablas representan datos, no la disposición visual de la página.
 
@@ -43,17 +72,18 @@ Las tablas representan datos, no la disposición visual de la página.
 - tablas realmente multidimensionales → se conservan;
 - una celda vacía nunca se interpreta automáticamente: se contrasta con el PDF.
 
-## 5. Ramas
+## 6. Ramas
 
 ### `main`
 
-Fuente humana editable:
+Fuente humana editable y canónica:
 
 - Markdown para Obsidian;
-- índices `(Alt)` derivados y simétricos para navegar catálogos grandes;
+- estructura basada en el TOC;
+- índices `00-*-Index.md` derivados;
+- índices `(Alt)` derivados para catálogos grandes;
 - frontmatter, aliases y relaciones bilingües;
-- contenido corregido;
-- estructura canónica.
+- contenido corregido.
 
 ### `corpus`
 
@@ -61,20 +91,22 @@ Producto generado desde `main`:
 
 - sin frontmatter;
 - sin índices de navegación;
+- sin carpetas `(Alt)`;
 - wikilinks convertidos a texto;
 - solo contenido útil para consumo automático.
 
 **No se corrige a mano.**
 
-La referencia `upstream-baseline-2026-10-23` conserva únicamente la procedencia histórica. No participa en el flujo de trabajo ni se sincroniza con `main`.
+La referencia `upstream-baseline-2026-10-23` conserva únicamente la procedencia histórica.
 
-## 6. Gate
+## 7. Gate
 
 Cuando aparece una nueva familia de error:
 
 1. se corrige en `main`;
 2. se revisa el equivalente EN;
-3. se añade una comprobación simple si puede repetirse;
-4. se regenera `corpus`.
+3. se añade una comprobación sencilla si puede repetirse;
+4. se regeneran los índices;
+5. se regenera `corpus`.
 
 No se preparan datasets de entrenamiento hasta aprobar el corpus.
