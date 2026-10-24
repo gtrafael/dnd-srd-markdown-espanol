@@ -2,6 +2,8 @@
 aliases: ["Monk"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Monje|Monje (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Harm|Harm]]"
 ---
 
 # Monk

@@ -2,6 +2,9 @@
 aliases: ["Crystal Ball of Mind Reading"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolaDeCristalDeLeerMentes|Bola de cristal de leer mentes (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
 ---
 
 ### Crystal Ball of Mind Reading

@@ -2,6 +2,11 @@
 aliases: ["Reverse Gravity"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/InvertirLaGravedad|Invertir la gravedad (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Reverse Gravity

@@ -2,6 +2,10 @@
 aliases: ["See Invisibility"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/VerInvisibilidad|Ver invisibilidad (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### See Invisibility

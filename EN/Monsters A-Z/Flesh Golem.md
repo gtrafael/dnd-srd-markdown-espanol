@@ -2,6 +2,9 @@
 aliases: ["Flesh Golem"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GolemDeCarne|Gólem de carne (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Frost Giant|Frost Giant]]"
 ---
 
 ## Flesh Golem

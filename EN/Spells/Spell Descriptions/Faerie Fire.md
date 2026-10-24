@@ -2,6 +2,10 @@
 aliases: ["Faerie Fire"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/FuegoFeerico|Fuego feérico (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
 ---
 
 ### Faerie Fire

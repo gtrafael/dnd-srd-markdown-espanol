@@ -2,6 +2,8 @@
 aliases: ["Secret Chest"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CofreOculto|Cofre oculto (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Secret Chest

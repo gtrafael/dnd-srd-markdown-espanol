@@ -2,6 +2,10 @@
 aliases: ["Chill Touch"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ToqueHelado|Toque helado (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Chill Touch

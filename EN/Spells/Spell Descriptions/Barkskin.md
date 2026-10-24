@@ -2,6 +2,10 @@
 aliases: ["Barkskin"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/PielRobliza|Piel robliza (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
 ---
 
 ### Barkskin

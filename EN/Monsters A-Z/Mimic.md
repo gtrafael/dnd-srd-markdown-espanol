@@ -2,6 +2,8 @@
 aliases: ["Mimic"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Mimeto|Mimeto (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Minotaur of Baphomet|Minotaur of Baphomet]]"
 ---
 
 ## Mimic

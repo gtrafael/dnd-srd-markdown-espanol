@@ -2,6 +2,8 @@
 aliases: ["Feather Token"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FichaDePluma]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Roc|Roc]]"
 ---
 
 # Feather Token

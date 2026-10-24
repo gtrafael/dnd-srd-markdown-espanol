@@ -2,6 +2,16 @@
 aliases: ["Tiefling"]
 tags: [srd, english, tag_species]
 related_es: "[[OrigenesDePersonaje/Tiefling|Tiefling (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Poison Spray|Poison Spray]]"
+  - "[[Spells/Spell Descriptions/Ray of Sickness|Ray of Sickness]]"
+  - "[[Spells/Spell Descriptions/Hold Person|Hold Person]]"
+  - "[[Spells/Spell Descriptions/Chill Touch|Chill Touch]]"
+  - "[[Spells/Spell Descriptions/False Life|False Life]]"
+  - "[[Spells/Spell Descriptions/Ray of Enfeeblement|Ray of Enfeeblement]]"
+  - "[[Spells/Spell Descriptions/Fire Bolt|Fire Bolt]]"
+  - "[[Spells/Spell Descriptions/Hellish Rebuke|Hellish Rebuke]]"
+  - "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy]]"
 ---
 
 # Tiefling

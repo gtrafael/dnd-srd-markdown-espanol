@@ -2,6 +2,10 @@
 aliases: ["Circle of Death"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CirculoDeMuerte|Círculo de muerte (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Circle of Death

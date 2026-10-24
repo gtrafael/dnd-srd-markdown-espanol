@@ -2,6 +2,8 @@
 aliases: ["Giant Boar"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/JabaliGigante|Jabalí gigante (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Boar|Boar]]"
 ---
 
 ## Giant Boar

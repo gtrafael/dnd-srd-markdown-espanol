@@ -2,6 +2,13 @@
 aliases: ["Imp"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Diablillo|Diablillo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Animals/Rat|Rat]]"
+  - "[[Animals/Raven|Raven]]"
+  - "[[Animals/Spider|Spider]]"
+  - "[[Monsters A-Z/Incubus|Incubus]]"
 ---
 
 ## Imp

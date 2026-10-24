@@ -2,6 +2,15 @@
 aliases: ["Dragon Orb"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/OrbeDragontino|Orbe Dragontino (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Suggestion|Suggestion]]"
+  - "[[Spells/Spell Descriptions/Cure Wounds|Cure Wounds]]"
+  - "[[Spells/Spell Descriptions/Daylight|Daylight]]"
+  - "[[Spells/Spell Descriptions/Death Ward|Death Ward]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
+  - "[[Spells/Spell Descriptions/Disintegrate|Disintegrate]]"
+  - "[[Spells/Spell Descriptions/Harm|Harm]]"
 ---
 
 ### Dragon Orb

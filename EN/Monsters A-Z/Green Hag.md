@@ -2,6 +2,20 @@
 aliases: ["Green Hag"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/SagaCetrina|Saga cetrina (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Augury|Augury]]"
+  - "[[Spells/Spell Descriptions/Find Familiar|Find Familiar]]"
+  - "[[Spells/Spell Descriptions/Identify|Identify]]"
+  - "[[Spells/Spell Descriptions/Locate Object|Locate Object]]"
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
+  - "[[Spells/Spell Descriptions/Unseen Servant|Unseen Servant]]"
+  - "[[Monsters A-Z/Mimic|Mimic]]"
+  - "[[Spells/Spell Descriptions/Dancing Lights|Dancing Lights]]"
+  - "[[Spells/Spell Descriptions/Disguise Self|Disguise Self]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion]]"
+  - "[[Spells/Spell Descriptions/Ray of Sickness|Ray of Sickness]]"
+  - "[[Monsters A-Z/Grick|Grick]]"
 ---
 
 ## Green Hag

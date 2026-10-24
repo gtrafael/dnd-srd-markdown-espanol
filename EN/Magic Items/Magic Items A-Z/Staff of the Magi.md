@@ -2,6 +2,10 @@
 aliases: ["Staff of the Magi"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeLosMagos]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 # Staff of the Magi

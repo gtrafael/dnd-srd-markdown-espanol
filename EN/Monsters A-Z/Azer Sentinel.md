@@ -2,6 +2,8 @@
 aliases: ["Azer Sentinel"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/CentinelaAzer|Centinela azer (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Balor|Balor]]"
 ---
 
 ## Azer Sentinel

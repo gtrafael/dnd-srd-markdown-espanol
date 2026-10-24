@@ -2,6 +2,9 @@
 aliases: ["Planar Ally"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/AliadoPlanar|Aliado planar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Monsters A-Z/Spy|Spy]]"
 ---
 
 ### Planar Ally

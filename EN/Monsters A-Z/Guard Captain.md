@@ -2,6 +2,9 @@
 aliases: ["Guard Captain"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/CapitanDeLaGuardia|Capitán de la guardia (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Guard|Guard]]"
+  - "[[Monsters A-Z/Half-Dragon|Half-Dragon]]"
 ---
 
 ## Guard Captain

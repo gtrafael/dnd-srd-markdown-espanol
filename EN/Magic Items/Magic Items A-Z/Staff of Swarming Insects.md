@@ -2,6 +2,15 @@
 aliases: ["Staff of Swarming Insects"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeEnjambreDeInsectos]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Animals/Swarm of Insects|Swarm of Insects]]"
 ---
 
 # Staff of Swarming Insects

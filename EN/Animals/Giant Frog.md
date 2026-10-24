@@ -2,6 +2,8 @@
 aliases: ["Giant Frog"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/RanaGigante|Rana gigante (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Frog|Frog]]"
 ---
 
 ## Giant Frog

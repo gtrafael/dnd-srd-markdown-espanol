@@ -2,6 +2,11 @@
 aliases: ["Fire Shield"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/EscudoDeFuego|Escudo de fuego (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Fire Shield

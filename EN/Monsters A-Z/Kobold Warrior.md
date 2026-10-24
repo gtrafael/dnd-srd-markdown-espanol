@@ -2,6 +2,8 @@
 aliases: ["Kobold", "Kobold Warrior"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GuerreroKobold|Guerrero Kobold (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Kraken|Kraken]]"
 ---
 
 ## Kobold Warrior

@@ -2,6 +2,21 @@
 aliases: ["Multiclassing"]
 tags: [srd, english, tag_characterizations]
 related_es: "[[CreacionDePersonajes/Multiclase|Multiclase (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Barbarian|Barbarian]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Fighter|Fighter]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Classes/Rogue|Rogue]]"
+  - "[[Classes/Monk|Monk]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Burning Hands|Burning Hands]]"
 ---
 
 # Multiclassing

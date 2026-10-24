@@ -2,6 +2,10 @@
 aliases: ["Hammer of Thunderbolts"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MartilloDeRayos|Martillo de rayos (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
+  - "[[Magic Items/Magic Items A-Z/Belt of Giant Strength|Belt of Giant Strength]]"
+  - "[[Magic Items/Magic Items A-Z/Gauntlets of Ogre Power|Gauntlets of Ogre Power]]"
 ---
 
 ### Hammer of Thunderbolts

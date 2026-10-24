@@ -2,6 +2,9 @@
 aliases: ["Phantom Steed"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CorcelFantasma|Corcel fantasma (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Animals/Riding Horse|Riding Horse]]"
 ---
 
 ### Phantom Steed

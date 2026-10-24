@@ -2,6 +2,11 @@
 aliases: ["Wind Wall"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/MuroDeViento|Muro de viento (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Spells/Spell Descriptions/Gaseous Form|Gaseous Form]]"
 ---
 
 ### Wind Wall

@@ -2,6 +2,9 @@
 aliases: ["Transport via Plants"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ViajarMediantePlantas|Viajar mediante plantas (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
 ---
 
 ### Transport via Plants

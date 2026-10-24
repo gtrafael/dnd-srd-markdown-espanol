@@ -2,6 +2,10 @@
 aliases: ["Shapechange"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CambiarDeForma|Cambiar de forma (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Shapechange

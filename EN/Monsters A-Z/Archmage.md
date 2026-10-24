@@ -2,6 +2,28 @@
 aliases: ["Archmage"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Archimago|Archimago (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Mind Blank|Mind Blank]]"
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
+  - "[[Spells/Spell Descriptions/Disguise Self|Disguise Self]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Mage Armor|Mage Armor]]"
+  - "[[Spells/Spell Descriptions/Mage Hand|Mage Hand]]"
+  - "[[Spells/Spell Descriptions/Prestidigitation|Prestidigitation]]"
+  - "[[Spells/Spell Descriptions/Fly|Fly]]"
+  - "[[Spells/Spell Descriptions/Lightning Bolt|Lightning Bolt]]"
+  - "[[Spells/Spell Descriptions/Cone of Cold|Cone of Cold]]"
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
+  - "[[Spells/Spell Descriptions/Teleport|Teleport]]"
+  - "[[Spells/Spell Descriptions/Misty Step|Misty Step]]"
+  - "[[Monsters A-Z/Mage|Mage]]"
+  - "[[Spells/Spell Descriptions/Counterspell|Counterspell]]"
+  - "[[Spells/Spell Descriptions/Shield|Shield]]"
+  - "[[Monsters A-Z/Magmin|Magmin]]"
 ---
 
 ## Archmage

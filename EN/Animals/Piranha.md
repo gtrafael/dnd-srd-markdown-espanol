@@ -2,6 +2,8 @@
 aliases: ["Piranha"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Pirana|Piraña (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
 ---
 
 ## Piranha

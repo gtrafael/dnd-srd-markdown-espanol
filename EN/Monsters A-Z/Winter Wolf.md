@@ -2,6 +2,9 @@
 aliases: ["Winter Wolf"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/LoboInvernal|Lobo invernal (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Wolf|Wolf]]"
+  - "[[Monsters A-Z/Worg|Worg]]"
 ---
 
 ## Winter Wolf

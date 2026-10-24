@@ -2,6 +2,8 @@
 aliases: ["Mace of Terror"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MazaDelTerror|Maza del terror (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Mace of Terror

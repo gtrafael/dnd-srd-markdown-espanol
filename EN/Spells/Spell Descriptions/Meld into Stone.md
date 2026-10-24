@@ -2,6 +2,12 @@
 aliases: ["Meld into Stone"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/FundirseConLaPiedra|Fundirse con la piedra (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Spells/Spell Descriptions/Harm|Harm]]"
 ---
 
 ### Meld into Stone

@@ -2,6 +2,15 @@
 aliases: ["Dryad"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Driade|Dríade (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Charm Monster|Charm Monster]]"
+  - "[[Spells/Spell Descriptions/Animal Friendship|Animal Friendship]]"
+  - "[[Spells/Spell Descriptions/Druidcraft|Druidcraft]]"
+  - "[[Spells/Spell Descriptions/Entangle|Entangle]]"
+  - "[[Spells/Spell Descriptions/Pass without Trace|Pass without Trace]]"
+  - "[[Spells/Spell Descriptions/Tree Stride|Tree Stride]]"
+  - "[[Monsters A-Z/Earth Elemental|Earth Elemental]]"
 ---
 
 ## Dryad

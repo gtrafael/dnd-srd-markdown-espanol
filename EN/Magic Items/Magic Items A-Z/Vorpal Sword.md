@@ -2,6 +2,8 @@
 aliases: ["Vorpal Sword"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspadaVorpal|Espada vorpal (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 # Vorpal Sword

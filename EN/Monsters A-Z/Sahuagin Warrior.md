@@ -2,6 +2,8 @@
 aliases: ["Sahuagin Warrior"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GuerreroSahuagin|Guerrero Sahuagin (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Salamander|Salamander]]"
 ---
 
 ## Sahuagin Warrior

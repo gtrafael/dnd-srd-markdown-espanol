@@ -2,6 +2,8 @@
 aliases: ["Swarm of Rats"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EnjambreDeRatas|Enjambre de ratas (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Rat|Rat]]"
 ---
 
 ## Swarm of Rats

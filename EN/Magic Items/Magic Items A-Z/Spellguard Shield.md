@@ -2,6 +2,8 @@
 aliases: ["Spellguard Shield"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscudoDeGuardaContraConjuros]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Shield|Shield]]"
 ---
 
 # Spellguard Shield

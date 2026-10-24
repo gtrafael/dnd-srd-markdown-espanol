@@ -2,6 +2,8 @@
 aliases: ["Darkmantle"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Mantoscuro|Mantoscuro (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Death Dog|Death Dog]]"
 ---
 
 ## Darkmantle

@@ -2,6 +2,8 @@
 aliases: ["Stone of Controlling Earth Elementals"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PiedraDeControlarElementalesDeTierra|Piedra de controlar elementales de tierra (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Earth Elemental|Earth Elemental]]"
 ---
 
 ### Stone of Controlling Earth Elementals

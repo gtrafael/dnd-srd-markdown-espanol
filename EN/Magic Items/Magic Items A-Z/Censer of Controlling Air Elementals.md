@@ -2,6 +2,8 @@
 aliases: ["Censer of Controlling Air Elementals"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/IncensarioDeControlarElementalesDeAire|Incensario de controlar elementales de aire (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Air Elemental|Air Elemental]]"
 ---
 
 ### Censer of Controlling Air Elementals

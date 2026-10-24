@@ -2,6 +2,22 @@
 aliases: ["Hat of Many Spells"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/SombreroDeMultiplesConjuros|Sombrero de múltiples conjuros (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Enlarge-Reduce|Enlarge/Reduce]]"
+  - "[[Spells/Spell Descriptions/Faerie Fire|Faerie Fire]]"
+  - "[[Spells/Spell Descriptions/Fireball|Fireball]]"
+  - "[[Spells/Spell Descriptions/Gust of Wind|Gust of Wind]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Spells/Spell Descriptions/Lightning Bolt|Lightning Bolt]]"
+  - "[[Spells/Spell Descriptions/Phantasmal Force|Phantasmal Force]]"
+  - "[[Spells/Spell Descriptions/Polymorph|Polymorph]]"
+  - "[[Spells/Spell Descriptions/Stinking Cloud|Stinking Cloud]]"
+  - "[[Animals/Camel|Camel]]"
+  - "[[Animals/Constrictor Snake|Constrictor Snake]]"
+  - "[[Animals/Elephant|Elephant]]"
+  - "[[Animals/Mule|Mule]]"
+  - "[[Animals/Swarm of Bats|Swarm of Bats]]"
 ---
 
 ### Hat of Many Spells

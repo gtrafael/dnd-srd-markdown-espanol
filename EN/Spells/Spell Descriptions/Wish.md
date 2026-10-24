@@ -2,6 +2,9 @@
 aliases: ["Wish"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Deseo|Deseo (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Wish

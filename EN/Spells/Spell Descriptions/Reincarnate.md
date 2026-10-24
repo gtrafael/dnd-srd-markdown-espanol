@@ -2,6 +2,9 @@
 aliases: ["Reincarnate"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Reencarnar|Reencarnar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
 ---
 
 ### Reincarnate

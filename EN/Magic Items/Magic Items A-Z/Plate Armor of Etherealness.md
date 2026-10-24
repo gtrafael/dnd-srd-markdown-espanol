@@ -2,6 +2,8 @@
 aliases: ["Plate Armor of Etherealness"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaduraDePlacasDeEtereidad|Armadura de placas de etereidad (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Etherealness|Etherealness]]"
 ---
 
 ### Plate Armor of Etherealness

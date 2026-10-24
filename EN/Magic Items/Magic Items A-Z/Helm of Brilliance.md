@@ -2,6 +2,13 @@
 aliases: ["Helm of Brilliance"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/YelmoDeFulgor|Yelmo de fulgor (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Daylight|Daylight]]"
+  - "[[Spells/Spell Descriptions/Fireball|Fireball]]"
+  - "[[Spells/Spell Descriptions/Prismatic Spray|Prismatic Spray]]"
+  - "[[Spells/Spell Descriptions/Wall of Fire|Wall of Fire]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ### Helm of Brilliance

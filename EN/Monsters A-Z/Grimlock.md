@@ -2,6 +2,8 @@
 aliases: ["Grimlock"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Grimlock|Grimlock (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Guardian Naga|Guardian Naga]]"
 ---
 
 ## Grimlock

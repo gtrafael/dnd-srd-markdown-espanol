@@ -2,6 +2,14 @@
 aliases: ["Staff of Charming"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDelCautivador]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 # Staff of Charming

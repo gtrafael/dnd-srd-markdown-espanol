@@ -2,6 +2,9 @@
 aliases: ["Araña gigante", "Giant Spider"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/AranaGigante|Araña gigante (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Animals/Spider|Spider]]"
 ---
 
 ## Giant Spider

@@ -2,6 +2,8 @@
 aliases: ["Gray Ooze"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/CienoGris|Cieno gris (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Mending|Mending]]"
 ---
 
 ## Gray Ooze

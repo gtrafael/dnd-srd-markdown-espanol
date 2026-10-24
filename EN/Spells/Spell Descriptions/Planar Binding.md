@@ -2,6 +2,16 @@
 aliases: ["Planar Binding"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/AtaduraPlanar|Atadura planar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Magic Circle|Magic Circle]]"
+  - "[[Spells/Spell Descriptions/Command|Command]]"
+  - "[[Monsters A-Z/Guard|Guard]]"
 ---
 
 ### Planar Binding

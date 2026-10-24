@@ -2,6 +2,14 @@
 aliases: ["Incubus"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Incubo|Íncubo (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Succubus|Succubus]]"
+  - "[[Spells/Spell Descriptions/Disguise Self|Disguise Self]]"
+  - "[[Spells/Spell Descriptions/Etherealness|Etherealness]]"
+  - "[[Spells/Spell Descriptions/Dream|Dream]]"
+  - "[[Spells/Spell Descriptions/Hypnotic Pattern|Hypnotic Pattern]]"
+  - "[[Monsters A-Z/Nightmare|Nightmare]]"
+  - "[[Monsters A-Z/Invisible Stalker|Invisible Stalker]]"
 ---
 
 ## Incubus

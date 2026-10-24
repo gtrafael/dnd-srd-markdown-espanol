@@ -2,6 +2,8 @@
 aliases: ["Dretch"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Dretch|Dretch (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Drider|Drider]]"
 ---
 
 ## Dretch

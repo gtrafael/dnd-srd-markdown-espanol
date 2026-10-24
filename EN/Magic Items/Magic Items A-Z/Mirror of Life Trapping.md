@@ -2,6 +2,9 @@
 aliases: ["Mirror of Life Trapping"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspejoAtrapavidas|Espejo atrapavidas (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Bag of Holding|Bag of Holding]]"
+  - "[[Magic Items/Magic Items A-Z/Portable Hole|Portable Hole]]"
 ---
 
 ### Mirror of Life Trapping

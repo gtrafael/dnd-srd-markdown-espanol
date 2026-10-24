@@ -2,6 +2,8 @@
 aliases: ["Flame Strike"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/GolpeFlamigero|Golpe flamígero (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
 ---
 
 ### Flame Strike

@@ -2,6 +2,20 @@
 aliases: ["Couatl"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Couatl|Couatl (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Detect Evil and Good|Detect Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
+  - "[[Spells/Spell Descriptions/Shapechange|Shapechange]]"
+  - "[[Spells/Spell Descriptions/Create Food and Water|Create Food and Water]]"
+  - "[[Spells/Spell Descriptions/Dream|Dream]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
+  - "[[Spells/Spell Descriptions/Sleep|Sleep]]"
+  - "[[Spells/Spell Descriptions/Aid|Aid]]"
+  - "[[Spells/Spell Descriptions/Bless|Bless]]"
+  - "[[Spells/Spell Descriptions/Lesser Restoration|Lesser Restoration]]"
+  - "[[Spells/Spell Descriptions/Sanctuary|Sanctuary]]"
 ---
 
 ## Couatl

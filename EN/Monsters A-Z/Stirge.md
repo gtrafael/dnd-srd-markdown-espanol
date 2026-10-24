@@ -2,6 +2,8 @@
 aliases: ["Stirge"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Estirge|Estirge (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Stone Giant|Stone Giant]]"
 ---
 
 ## Stirge

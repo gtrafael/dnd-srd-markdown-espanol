@@ -2,6 +2,9 @@
 aliases: ["Bandit Captain"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/CapitanBandido|Capitán bandido (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Bandit|Bandit]]"
+  - "[[Monsters A-Z/Barbed Devil|Barbed Devil]]"
 ---
 
 ## Bandit Captain

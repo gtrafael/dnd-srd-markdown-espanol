@@ -2,6 +2,11 @@
 aliases: ["Storm Giant"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GiganteDeLasTormentas|Gigante de las tormentas (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Control Weather|Control Weather]]"
+  - "[[Monsters A-Z/Succubus|Succubus]]"
 ---
 
 ## Storm Giant

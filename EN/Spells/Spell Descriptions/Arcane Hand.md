@@ -2,6 +2,9 @@
 aliases: ["Arcane Hand"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ManoArcana|Mano arcana (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Arcane Hand

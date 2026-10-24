@@ -2,6 +2,8 @@
 aliases: ["Defender"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/Defensora|Defensora (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Defender

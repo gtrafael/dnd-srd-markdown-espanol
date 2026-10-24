@@ -2,6 +2,8 @@
 aliases: ["Salamander"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Salamandra|Salamandra (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Satyr|Satyr]]"
 ---
 
 ## Salamander

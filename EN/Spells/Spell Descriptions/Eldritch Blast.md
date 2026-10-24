@@ -2,6 +2,8 @@
 aliases: ["Eldritch Blast"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DescargaSobrenatural|Descarga sobrenatural (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Warlock|Warlock]]"
 ---
 
 ### Eldritch Blast

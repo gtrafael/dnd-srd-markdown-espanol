@@ -2,6 +2,8 @@
 aliases: ["Potion of Animal Friendship"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeAmistadAnimal]]"
+wikilinks_auto:
+  - "[[Animals/Cat|Cat]]"
 ---
 
 # Potion of Animal Friendship

@@ -2,6 +2,8 @@
 aliases: ["Earth Elemental"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/ElementalDeTierra|Elemental de tierra (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Efreeti|Efreeti]]"
 ---
 
 ## Earth Elemental

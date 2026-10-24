@@ -2,6 +2,9 @@
 aliases: ["Ray of Sickness"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/RayoNauseabundo|Rayo nauseabundo (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Ray of Sickness

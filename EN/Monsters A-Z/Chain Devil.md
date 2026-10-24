@@ -2,6 +2,9 @@
 aliases: ["Chain Devil"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DiabloDeLasCadenas|Diablo de las cadenas (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Chimera|Chimera]]"
 ---
 
 ## Chain Devil

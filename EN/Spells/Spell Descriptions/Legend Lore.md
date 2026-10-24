@@ -2,6 +2,10 @@
 aliases: ["Legend Lore"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ConocerLasLeyendas|Conocer las leyendas (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Legend Lore

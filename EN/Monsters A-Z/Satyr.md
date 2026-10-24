@@ -2,6 +2,9 @@
 aliases: ["Satyr"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Satiro|Sátiro (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Scout|Scout]]"
 ---
 
 ## Satyr

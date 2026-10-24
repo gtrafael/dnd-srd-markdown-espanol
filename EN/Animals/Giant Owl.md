@@ -2,6 +2,11 @@
 aliases: ["Giant Owl"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/BuhoGigante|Búho gigante (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Owl|Owl]]"
+  - "[[Spells/Spell Descriptions/Detect Evil and Good|Detect Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Clairvoyance|Clairvoyance]]"
 ---
 
 ## Giant Owl

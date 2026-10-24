@@ -2,6 +2,8 @@
 aliases: ["Gargoyle"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Gargola|Gárgola (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Gelatinous Cube|Gelatinous Cube]]"
 ---
 
 ## Gargoyle

@@ -2,6 +2,9 @@
 aliases: ["Weird"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/TerrorAbyecto|Terror abyecto (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Weird

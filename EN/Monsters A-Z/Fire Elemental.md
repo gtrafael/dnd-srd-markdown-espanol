@@ -2,6 +2,8 @@
 aliases: ["Fire Elemental"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/ElementalDeFuego|Elemental de fuego (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Fire Giant|Fire Giant]]"
 ---
 
 ## Fire Elemental

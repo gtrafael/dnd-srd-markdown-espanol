@@ -2,6 +2,9 @@
 aliases: ["Dwarven Thrower"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MartilloArrojadizoEnano|Martillo arrojadizo enano (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Belt of Dwarvenkind|Belt of Dwarvenkind]]"
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Dwarven Thrower

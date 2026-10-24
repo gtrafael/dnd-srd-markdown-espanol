@@ -2,6 +2,8 @@
 aliases: ["Stone Giant"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GiganteDePiedra|Gigante de piedra (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Stone Golem|Stone Golem]]"
 ---
 
 ## Stone Giant

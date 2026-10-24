@@ -2,6 +2,9 @@
 aliases: ["Travel"]
 tags: [srd, english, tag_gamemastering]
 related_es: "[[HerramientasDelJuego/RitmoDeViaje|Viaje (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Wind Walk|Wind Walk]]"
+  - "[[Magic Items/Magic Items A-Z/Carpet of Flying|Carpet of Flying]]"
 ---
 
 # Travel Pace

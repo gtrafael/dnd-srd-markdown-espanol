@@ -2,6 +2,8 @@
 aliases: ["Eversmoking Bottle"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotellaSiemprehumeante|Botella siemprehumeante (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Gust of Wind|Gust of Wind]]"
 ---
 
 ### Eversmoking Bottle

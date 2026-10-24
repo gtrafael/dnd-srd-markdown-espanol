@@ -2,6 +2,9 @@
 aliases: ["Fire Bolt"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DescargaDeFuego|Descarga de fuego (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Fire Bolt

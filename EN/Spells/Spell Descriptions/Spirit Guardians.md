@@ -2,6 +2,8 @@
 aliases: ["Spirit Guardians"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/EspiritusGuardianes|Espíritus guardianes (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
 ---
 
 ### Spirit Guardians

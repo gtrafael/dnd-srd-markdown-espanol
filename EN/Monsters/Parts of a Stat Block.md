@@ -2,6 +2,8 @@
 aliases: ["Parts of a Stat Block", "Partes de un perfil"]
 tags: [srd, english, tag_monsters]
 related_es: "[[Monstruos/PartesDeUnPerfil|Partes de un perfil (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Green Hag|Green Hag]]"
 ---
 
 # Parts of a Stat Block

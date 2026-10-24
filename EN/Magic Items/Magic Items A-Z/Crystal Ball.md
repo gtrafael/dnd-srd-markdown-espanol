@@ -2,6 +2,8 @@
 aliases: ["Crystal Ball"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolaDeCristal|Bola de cristal (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
 ---
 
 ### Crystal Ball

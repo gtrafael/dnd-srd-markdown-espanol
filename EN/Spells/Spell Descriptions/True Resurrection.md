@@ -2,6 +2,10 @@
 aliases: ["True Resurrection"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ResurreccionVerdadera|Resurrección verdadera (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
 ---
 
 ### True Resurrection

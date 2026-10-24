@@ -2,6 +2,8 @@
 aliases: ["Mass Heal"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CurarEnMasa|Curar en masa (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
 ---
 
 ### Mass Heal

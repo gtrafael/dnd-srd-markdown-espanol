@@ -2,6 +2,12 @@
 aliases: ["Modify Memory"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/AlterarLosRecuerdos|Alterar los recuerdos (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Dream|Dream]]"
+  - "[[Spells/Spell Descriptions/Remove Curse|Remove Curse]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
 ---
 
 ### Modify Memory

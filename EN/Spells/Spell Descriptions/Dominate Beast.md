@@ -2,6 +2,11 @@
 aliases: ["Dominate Beast"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DominarBestia|Dominar bestia (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
 ---
 
 ### Dominate Beast

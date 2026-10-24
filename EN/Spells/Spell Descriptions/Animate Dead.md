@@ -2,6 +2,13 @@
 aliases: ["Animate Dead"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/AnimarALosMuertos|Animar a los muertos (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Monsters A-Z/Skeleton|Skeleton]]"
+  - "[[Monsters A-Z/Zombie|Zombie]]"
+  - "[[Spells/Spell Descriptions/Command|Command]]"
+  - "[[Monsters A-Z/Guard|Guard]]"
 ---
 
 ### Animate Dead

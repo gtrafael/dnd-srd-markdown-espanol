@@ -2,6 +2,8 @@
 aliases: ["Will-o-Wisp"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/FuegoFatuo|Fuego fatuo (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Winter Wolf|Winter Wolf]]"
 ---
 
 ## Will-o’-Wisp

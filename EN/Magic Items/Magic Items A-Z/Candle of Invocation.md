@@ -2,6 +2,12 @@
 aliases: ["Candle of Invocation"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VelaDeInvocacion|Vela de invocación (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Spells/Spell Descriptions/Gate|Gate]]"
 ---
 
 ### Candle of Invocation

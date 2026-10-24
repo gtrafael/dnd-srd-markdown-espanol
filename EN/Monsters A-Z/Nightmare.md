@@ -2,6 +2,8 @@
 aliases: ["Nightmare"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Pesadilla|Pesadilla (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Noble|Noble]]"
 ---
 
 ## Nightmare

@@ -2,6 +2,9 @@
 aliases: ["Ray of Enfeeblement"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/RayoDebilitador|Rayo debilitador (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Ray of Enfeeblement

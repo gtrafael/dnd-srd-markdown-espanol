@@ -2,6 +2,9 @@
 aliases: ["Bearded Devil"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DiabloBarbado|Diablo barbado (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Behir|Behir]]"
 ---
 
 ## Bearded Devil

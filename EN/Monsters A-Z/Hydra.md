@@ -2,6 +2,8 @@
 aliases: ["Hydra"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Hidra|Hidra (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Ice Devil|Ice Devil]]"
 ---
 
 ## Hydra

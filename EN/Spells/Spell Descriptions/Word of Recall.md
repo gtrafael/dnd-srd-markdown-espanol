@@ -2,6 +2,10 @@
 aliases: ["Word of Recall"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/PalabraDeRegreso|Palabra de regreso (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Spells/Spell Descriptions/Teleport|Teleport]]"
+  - "[[Spells/Spell Descriptions/Sanctuary|Sanctuary]]"
 ---
 
 ### Word of Recall

@@ -2,6 +2,8 @@
 aliases: ["Ankheg"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Ankheg|Ankheg (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Assassin|Assassin]]"
 ---
 
 ## Ankheg

@@ -2,6 +2,8 @@
 aliases: ["Gorgon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Gorgon|Gorgon (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Gray Ooze|Gray Ooze]]"
 ---
 
 ## Gorgon

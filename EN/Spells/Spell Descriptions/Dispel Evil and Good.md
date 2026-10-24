@@ -2,6 +2,9 @@
 aliases: ["Dispel Evil and Good"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DisiparElBienYElMal|Disipar el bien y el mal (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Paladin|Paladin]]"
 ---
 
 ### Dispel Evil and Good

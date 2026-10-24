@@ -2,6 +2,9 @@
 aliases: ["Tarrasque"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Tarasca|Tarasca (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Magic Missile|Magic Missile]]"
 ---
 
 ## Tarrasque

@@ -2,6 +2,9 @@
 aliases: ["Shield of Missile Attraction"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscudoDeAtraerProyectiles|Escudo de atraer proyectiles (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Shield|Shield]]"
+  - "[[Spells/Spell Descriptions/Remove Curse|Remove Curse]]"
 ---
 
 ### Shield of Missile Attraction

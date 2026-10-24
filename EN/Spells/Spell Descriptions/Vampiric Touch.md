@@ -2,6 +2,12 @@
 aliases: ["Vampiric Touch"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ToqueVampirico|Toque vampírico (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Monsters A-Z/Shadow|Shadow]]"
+  - "[[Spells/Spell Descriptions/Heal|Heal]]"
 ---
 
 ### Vampiric Touch

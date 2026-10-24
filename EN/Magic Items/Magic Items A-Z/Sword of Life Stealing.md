@@ -2,6 +2,8 @@
 aliases: ["Sword of Life Stealing"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspadaLadronaDeVida]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 # Sword of Life Stealing

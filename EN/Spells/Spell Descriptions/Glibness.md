@@ -2,6 +2,9 @@
 aliases: ["Glibness"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Labia|Labia (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Warlock|Warlock]]"
 ---
 
 ### Glibness

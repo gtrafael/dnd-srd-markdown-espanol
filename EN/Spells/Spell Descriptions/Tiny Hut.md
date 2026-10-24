@@ -2,6 +2,11 @@
 aliases: ["Tiny Hut"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/PequenaChoza|Pequeña choza (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Command|Command]]"
+  - "[[Spells/Spell Descriptions/Darkness|Darkness]]"
 ---
 
 ### Tiny Hut

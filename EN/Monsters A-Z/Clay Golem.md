@@ -2,6 +2,9 @@
 aliases: ["Clay Golem"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GolemDeArcilla|Gólem de arcilla (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Cloaker|Cloaker]]"
 ---
 
 ## Clay Golem

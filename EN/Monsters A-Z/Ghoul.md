@@ -2,6 +2,8 @@
 aliases: ["Ghoul"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Gul|Gul (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Gibbering Mouther|Gibbering Mouther]]"
 ---
 
 ## Ghoul

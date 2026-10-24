@@ -2,6 +2,18 @@
 aliases: ["Figurine of Wondrous Power"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EstatuillaDePoderMaravilloso]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Griffon|Griffon]]"
+  - "[[Animals/Lion|Lion]]"
+  - "[[Animals/Goat|Goat]]"
+  - "[[Animals/Giant Goat|Giant Goat]]"
+  - "[[Animals/Riding Horse|Riding Horse]]"
+  - "[[Animals/Elephant|Elephant]]"
+  - "[[Monsters A-Z/Nightmare|Nightmare]]"
+  - "[[Animals/Mastiff|Mastiff]]"
+  - "[[Animals/Owl|Owl]]"
+  - "[[Animals/Giant Owl|Giant Owl]]"
+  - "[[Animals/Raven|Raven]]"
 ---
 
 # Figurine of Wondrous Power

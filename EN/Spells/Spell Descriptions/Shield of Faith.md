@@ -2,6 +2,9 @@
 aliases: ["Shield of Faith"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/EscudoDeFe|Escudo de fe (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Paladin|Paladin]]"
 ---
 
 ### Shield of Faith

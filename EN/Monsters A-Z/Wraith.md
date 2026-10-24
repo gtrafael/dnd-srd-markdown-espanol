@@ -2,6 +2,9 @@
 aliases: ["Wraith"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Aparicion|Aparición (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Specter|Specter]]"
+  - "[[Monsters A-Z/Wyvern|Wyvern]]"
 ---
 
 ## Wraith

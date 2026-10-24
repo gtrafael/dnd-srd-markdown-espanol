@@ -2,6 +2,8 @@
 aliases: ["Wall of Ice"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/MuroDeHielo|Muro de hielo (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Wall of Ice

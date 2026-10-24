@@ -2,6 +2,8 @@
 aliases: ["Crystal Ball of True Seeing"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolaDeCristalDeVisionVeraz|Bola de cristal de visión veraz (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
 ---
 
 ### Crystal Ball of True Seeing

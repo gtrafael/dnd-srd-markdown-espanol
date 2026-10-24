@@ -2,6 +2,9 @@
 aliases: ["Ettercap"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Ettercap|Ettercap (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Monsters A-Z/Ettin|Ettin]]"
 ---
 
 ## Ettercap

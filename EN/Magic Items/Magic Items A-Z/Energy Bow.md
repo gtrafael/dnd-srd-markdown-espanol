@@ -2,6 +2,8 @@
 aliases: ["Energy Bow"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArcoDeEnergia|Arco de energía (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Energy Bow

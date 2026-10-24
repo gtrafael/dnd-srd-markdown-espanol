@@ -2,6 +2,8 @@
 aliases: ["Scarab of Protection"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscarabajoProtector|Escarabajo protector (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
 ---
 
 ### Scarab of Protection

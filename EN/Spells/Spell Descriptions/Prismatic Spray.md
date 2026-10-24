@@ -2,6 +2,11 @@
 aliases: ["Prismatic Spray"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/RociadaPrismatica|Rociada prismática (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
 ---
 
 ### Prismatic Spray

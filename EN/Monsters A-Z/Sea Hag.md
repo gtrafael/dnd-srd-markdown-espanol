@@ -2,6 +2,15 @@
 aliases: ["Sea Hag"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/SagaDeLosMares|Saga de los mares (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Augury|Augury]]"
+  - "[[Spells/Spell Descriptions/Find Familiar|Find Familiar]]"
+  - "[[Spells/Spell Descriptions/Identify|Identify]]"
+  - "[[Spells/Spell Descriptions/Locate Object|Locate Object]]"
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
+  - "[[Spells/Spell Descriptions/Unseen Servant|Unseen Servant]]"
+  - "[[Spells/Spell Descriptions/Disguise Self|Disguise Self]]"
+  - "[[Monsters A-Z/Shadow|Shadow]]"
 ---
 
 ## Sea Hag

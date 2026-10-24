@@ -2,6 +2,9 @@
 aliases: ["Acid Splash"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/SalpicaduraAcida|Salpicadura ácida (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Acid Splash

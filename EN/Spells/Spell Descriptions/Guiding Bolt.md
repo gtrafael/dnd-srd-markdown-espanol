@@ -2,6 +2,9 @@
 aliases: ["Guiding Bolt"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/SaetaGuia|Saeta guía (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ### Guiding Bolt

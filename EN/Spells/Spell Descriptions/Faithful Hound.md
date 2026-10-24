@@ -2,6 +2,8 @@
 aliases: ["Faithful Hound"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/MastinFiel|Mastín fiel (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Faithful Hound

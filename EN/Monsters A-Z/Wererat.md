@@ -2,6 +2,9 @@
 aliases: ["Wererat"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/HombreRata|Hombre rata (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Rat|Rat]]"
+  - "[[Monsters A-Z/Weretiger|Weretiger]]"
 ---
 
 ## Wererat

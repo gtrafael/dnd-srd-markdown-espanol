@@ -2,6 +2,9 @@
 aliases: ["Resilient Sphere"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/EsferaElastica|Esfera elástica (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Disintegrate|Disintegrate]]"
 ---
 
 ### Resilient Sphere

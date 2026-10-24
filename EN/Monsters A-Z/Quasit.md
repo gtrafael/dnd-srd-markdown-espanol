@@ -2,6 +2,11 @@
 aliases: ["Quasit"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Quasit|Quasit (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Animals/Bat|Bat]]"
+  - "[[Monsters A-Z/Rakshasa|Rakshasa]]"
 ---
 
 ## Quasit

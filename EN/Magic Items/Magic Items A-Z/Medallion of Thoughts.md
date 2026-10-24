@@ -2,6 +2,8 @@
 aliases: ["Medallion of Thoughts"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MedallonDeLosPensamientos|Medallón de los pensamientos (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
 ---
 
 ### Medallion of Thoughts

@@ -2,6 +2,8 @@
 aliases: ["Dust Mephit"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/MephitDePolvo|Mephit de polvo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Sleep|Sleep]]"
 ---
 
 ## Dust Mephit

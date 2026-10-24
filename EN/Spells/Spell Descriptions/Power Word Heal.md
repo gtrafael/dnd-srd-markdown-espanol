@@ -2,6 +2,9 @@
 aliases: ["Power Word Heal"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/PalabraDePoderSanar|Palabra de poder_ sanar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
 ---
 
 ### Power Word Heal

@@ -2,6 +2,17 @@
 aliases: ["Priest"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Sacerdote|Sacerdote (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy]]"
+  - "[[Spells/Spell Descriptions/Spirit Guardians|Spirit Guardians]]"
+  - "[[Spells/Spell Descriptions/Aid|Aid]]"
+  - "[[Spells/Spell Descriptions/Bless|Bless]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
+  - "[[Spells/Spell Descriptions/Healing Word|Healing Word]]"
+  - "[[Spells/Spell Descriptions/Lesser Restoration|Lesser Restoration]]"
+  - "[[Monsters A-Z/Pseudodragon|Pseudodragon]]"
 ---
 
 ## Priest

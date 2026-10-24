@@ -2,6 +2,15 @@
 aliases: ["Cloud Giant"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GiganteDeLasNubes|Gigante de las nubes (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Fog Cloud|Fog Cloud]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Control Weather|Control Weather]]"
+  - "[[Spells/Spell Descriptions/Gaseous Form|Gaseous Form]]"
+  - "[[Spells/Spell Descriptions/Telekinesis|Telekinesis]]"
+  - "[[Spells/Spell Descriptions/Misty Step|Misty Step]]"
+  - "[[Monsters A-Z/Cockatrice|Cockatrice]]"
 ---
 
 ## Cloud Giant

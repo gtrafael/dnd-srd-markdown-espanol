@@ -2,6 +2,8 @@
 aliases: ["Vicious Mockery"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/BurlaDanina|Burla dañina (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
 ---
 
 ### Vicious Mockery

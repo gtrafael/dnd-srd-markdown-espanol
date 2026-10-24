@@ -2,6 +2,9 @@
 aliases: ["Telepathic Bond"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/EnlaceTelepatico|Enlace telepático (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Telepathic Bond

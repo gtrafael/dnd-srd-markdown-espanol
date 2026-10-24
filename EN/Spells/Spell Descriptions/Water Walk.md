@@ -2,6 +2,12 @@
 aliases: ["Water Walk"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CaminarSobreElAgua|Caminar sobre el agua (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
 ---
 
 ### Water Walk

@@ -2,6 +2,15 @@
 aliases: ["Ancient Copper Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonDeCobreAnciano|Dragón de cobre anciano (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Mind Spike|Mind Spike]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion]]"
+  - "[[Spells/Spell Descriptions/Shapechange|Shapechange]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
+  - "[[Spells/Spell Descriptions/Major Image|Major Image]]"
+  - "[[Spells/Spell Descriptions/Project Image|Project Image]]"
+  - "[[Monsters A-Z/Couatl|Couatl]]"
 ---
 
 ## Ancient Copper Dragon

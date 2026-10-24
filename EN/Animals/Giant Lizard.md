@@ -2,6 +2,9 @@
 aliases: ["Giant Lizard"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/LagartoGigante|Lagarto gigante (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Animals/Lizard|Lizard]]"
 ---
 
 ## Giant Lizard

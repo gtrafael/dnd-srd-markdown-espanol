@@ -2,6 +2,12 @@
 aliases: ["Elf"]
 tags: [srd, english, tag_species]
 related_es: "[[OrigenesDePersonaje/Elfo|Elfo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Dancing Lights|Dancing Lights]]"
+  - "[[Spells/Spell Descriptions/Faerie Fire|Faerie Fire]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Misty Step|Misty Step]]"
+  - "[[Spells/Spell Descriptions/Pass without Trace|Pass without Trace]]"
 ---
 
 # Elf

@@ -2,6 +2,9 @@
 aliases: ["Resurrection"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Resurreccion|Resurrección (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
 ---
 
 ### Resurrection

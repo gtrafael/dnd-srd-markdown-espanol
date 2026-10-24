@@ -2,6 +2,9 @@
 aliases: ["Bless"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Bendicion|Bendición (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Paladin|Paladin]]"
 ---
 
 ### Bless

@@ -2,6 +2,10 @@
 aliases: ["Conjure Woodland Beings"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ConjurarSeresDelBosque|Conjurar seres del bosque (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
 ---
 
 ### Conjure Woodland Beings

@@ -2,6 +2,11 @@
 aliases: ["Starry Wisp"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/VolutaEstelar|Voluta estelar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ### Starry Wisp

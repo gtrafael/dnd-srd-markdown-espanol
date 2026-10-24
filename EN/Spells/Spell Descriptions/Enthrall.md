@@ -2,6 +2,9 @@
 aliases: ["Enthrall"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Embelesar|Embelesar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Warlock|Warlock]]"
 ---
 
 ### Enthrall

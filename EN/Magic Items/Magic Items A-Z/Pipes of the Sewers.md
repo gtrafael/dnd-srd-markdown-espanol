@@ -2,6 +2,8 @@
 aliases: ["Pipes of the Sewers"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FlautaDeLasCloacas|Flauta de las cloacas (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Swarm of Rats|Swarm of Rats]]"
 ---
 
 ### Pipes of the Sewers

@@ -2,6 +2,9 @@
 aliases: ["Pirate Captain"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/CapitanPirata|Capitán pirata (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Pirate|Pirate]]"
+  - "[[Monsters A-Z/Pit Fiend|Pit Fiend]]"
 ---
 
 ## Pirate Captain

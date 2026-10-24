@@ -2,6 +2,10 @@
 aliases: ["Chain Lightning"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/RelampagoEnCadena|Relámpago en cadena (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Lightning Bolt|Lightning Bolt]]"
 ---
 
 ### Chain Lightning

@@ -2,6 +2,15 @@
 aliases: ["Magic Item Categories"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/CategoriasDeObjetosMagicos|Categorías de objetos mágicos (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Ring of Invisibility|Ring of Invisibility]]"
+  - "[[Magic Items/Magic Items A-Z/Immovable Rod|Immovable Rod]]"
+  - "[[Magic Items/Magic Items A-Z/Spell Scroll|Spell Scroll]]"
+  - "[[Magic Items/Magic Items A-Z/Staff of Striking|Staff of Striking]]"
+  - "[[Magic Items/Magic Items A-Z/Wand of Fireballs|Wand of Fireballs]]"
+  - "[[Magic Items/Magic Items A-Z/Bag of Holding|Bag of Holding]]"
+  - "[[Magic Items/Magic Items A-Z/Boots of Elvenkind|Boots of Elvenkind]]"
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 # Magic Item Categories

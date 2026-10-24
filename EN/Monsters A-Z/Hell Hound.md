@@ -2,6 +2,8 @@
 aliases: ["Hell Hound"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/SabuesoInfernal|Sabueso infernal (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Hezrou|Hezrou]]"
 ---
 
 ## Hell Hound

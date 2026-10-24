@@ -2,6 +2,8 @@
 aliases: ["Sorcerous Burst"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/EstallidoMagico|Estallido mágico (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
 ---
 
 ### Sorcerous Burst

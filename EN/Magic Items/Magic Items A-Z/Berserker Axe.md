@@ -2,6 +2,8 @@
 aliases: ["Berserker Axe"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/HachaBerserker|Hacha berserker (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Berserker Axe

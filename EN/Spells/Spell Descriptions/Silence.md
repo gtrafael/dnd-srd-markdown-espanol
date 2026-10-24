@@ -2,6 +2,10 @@
 aliases: ["Silence"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Silencio|Silencio (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Ranger|Ranger]]"
 ---
 
 ### Silence

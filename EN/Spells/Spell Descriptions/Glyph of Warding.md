@@ -2,6 +2,10 @@
 aliases: ["Glyph of Warding"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/GlifoCustodio|Glifo custodio (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Glyph of Warding

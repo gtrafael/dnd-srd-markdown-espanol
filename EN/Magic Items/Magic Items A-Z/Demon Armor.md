@@ -2,6 +2,8 @@
 aliases: ["Demon Armor"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaduraDemoniaca|Armadura demoníaca (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Remove Curse|Remove Curse]]"
 ---
 
 ### Demon Armor

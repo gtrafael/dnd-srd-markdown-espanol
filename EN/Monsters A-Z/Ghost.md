@@ -2,6 +2,9 @@
 aliases: ["Ghost"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Fantasma|Fantasma (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Etherealness|Etherealness]]"
+  - "[[Monsters A-Z/Ghoul|Ghoul]]"
 ---
 
 ## Ghost

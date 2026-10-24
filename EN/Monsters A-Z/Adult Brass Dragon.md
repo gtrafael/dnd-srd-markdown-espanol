@@ -2,6 +2,16 @@
 aliases: ["Adult Brass Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonDeOropelAdulto|Dragón de oropel adulto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Sleep|Sleep]]"
+  - "[[Spells/Spell Descriptions/Scorching Ray|Scorching Ray]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion]]"
+  - "[[Spells/Spell Descriptions/Shapechange|Shapechange]]"
+  - "[[Spells/Spell Descriptions/Speak with Animals|Speak with Animals]]"
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
+  - "[[Spells/Spell Descriptions/Control Weather|Control Weather]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ## Adult Brass Dragon

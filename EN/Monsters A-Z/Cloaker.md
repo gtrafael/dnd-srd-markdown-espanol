@@ -2,6 +2,9 @@
 aliases: ["Cloaker"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Manto|Manto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Mirror Image|Mirror Image]]"
+  - "[[Monsters A-Z/Cloud Giant|Cloud Giant]]"
 ---
 
 ## Cloaker

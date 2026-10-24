@@ -2,6 +2,13 @@
 aliases: ["Adult Gold Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonDeOroAdulto|Dragón de oro adulto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Guiding Bolt|Guiding Bolt]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Shapechange|Shapechange]]"
+  - "[[Spells/Spell Descriptions/Flame Strike|Flame Strike]]"
+  - "[[Spells/Spell Descriptions/Zone of Truth|Zone of Truth]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ## Adult Gold Dragon

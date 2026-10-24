@@ -2,6 +2,13 @@
 aliases: ["Flesh to Stone"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DeLaCarneALaPiedra|De la carne a la piedra (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Monsters A-Z/Cockatrice|Cockatrice]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
 ---
 
 ### Flesh to Stone

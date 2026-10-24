@@ -2,6 +2,8 @@
 aliases: ["Otyugh"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Otyugh|Otyugh (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Owlbear|Owlbear]]"
 ---
 
 ## Otyugh

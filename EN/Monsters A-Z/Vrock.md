@@ -2,6 +2,8 @@
 aliases: ["Vrock"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Vrock|Vrock (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
 ---
 
 ## Vrock

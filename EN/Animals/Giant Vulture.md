@@ -2,6 +2,8 @@
 aliases: ["Giant Vulture"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/BuitreGigante|Buitre gigante (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Vulture|Vulture]]"
 ---
 
 ## Giant Vulture

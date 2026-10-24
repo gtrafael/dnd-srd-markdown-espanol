@@ -2,6 +2,12 @@
 aliases: ["Nondetection"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Indetectable|Indetectable (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Divination|Divination]]"
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
 ---
 
 ### Nondetection

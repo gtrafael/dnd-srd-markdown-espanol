@@ -2,6 +2,8 @@
 aliases: ["Wyvern"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Guiverno|Guiverno (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Xorn|Xorn]]"
 ---
 
 ## Wyvern

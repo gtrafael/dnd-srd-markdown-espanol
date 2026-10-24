@@ -2,6 +2,12 @@
 aliases: ["Mirror Image"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ImagenMultiple|Imagen múltiple (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Monsters A-Z/Mimic|Mimic]]"
 ---
 
 ### Mirror Image

@@ -2,6 +2,12 @@
 aliases: ["Ancient Red Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonRojoAnciano|Dragón rojo anciano (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Scorching Ray|Scorching Ray]]"
+  - "[[Spells/Spell Descriptions/Command|Command]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Fireball|Fireball]]"
+  - "[[Monsters A-Z/Remorhaz|Remorhaz]]"
 ---
 
 ## Ancient Red Dragon

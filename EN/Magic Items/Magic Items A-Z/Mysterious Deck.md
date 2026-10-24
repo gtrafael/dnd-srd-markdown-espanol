@@ -2,6 +2,15 @@
 aliases: ["Mysterious Deck"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BarajaMisteriosa|Baraja misteriosa (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Knight|Knight]]"
+  - "[[Classes/Rogue|Rogue]]"
+  - "[[Spells/Spell Descriptions/Divination|Divination]]"
+  - "[[Spells/Spell Descriptions/Wish|Wish]]"
+  - "[[Monsters A-Z/Medusa|Medusa]]"
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
+  - "[[Monsters A-Z/Skeleton|Skeleton]]"
+  - "[[Monsters A-Z/Guard|Guard]]"
 ---
 
 ### Mysterious Deck

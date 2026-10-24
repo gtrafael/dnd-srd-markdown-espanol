@@ -2,6 +2,9 @@
 aliases: ["Crystal Ball of Telepathy"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolaDeCristalDeTelepatia|Bola de cristal de telepatía (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
+  - "[[Spells/Spell Descriptions/Suggestion|Suggestion]]"
 ---
 
 ### Crystal Ball of Telepathy

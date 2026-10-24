@@ -2,6 +2,8 @@
 aliases: ["Arcane Lock"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CerraduraArcana|Cerradura arcana (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Arcane Lock

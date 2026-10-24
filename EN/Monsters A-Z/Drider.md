@@ -2,6 +2,14 @@
 aliases: ["Drider"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Drana|Draña (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Animals/Spider|Spider]]"
+  - "[[Spells/Spell Descriptions/Darkness|Darkness]]"
+  - "[[Spells/Spell Descriptions/Faerie Fire|Faerie Fire]]"
+  - "[[Spells/Spell Descriptions/Web|Web]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
 ---
 
 ## Drider

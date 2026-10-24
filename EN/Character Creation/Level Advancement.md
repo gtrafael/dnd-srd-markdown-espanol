@@ -2,6 +2,20 @@
 aliases: ["Level Advancement"]
 tags: [srd, english, tag_character_creation]
 related_es: "[[CreacionDePersonajes/ProgresionDeNiveles|Progresión de niveles (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Barbarian|Barbarian]]"
+  - "[[Classes/Fighter|Fighter]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Monk|Monk]]"
+  - "[[Classes/Rogue|Rogue]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 # Level Advancement

@@ -2,6 +2,8 @@
 aliases: ["Rope Trick"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/TrucoDeLaCuerda|Truco de la cuerda (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Rope Trick

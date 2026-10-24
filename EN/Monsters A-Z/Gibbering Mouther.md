@@ -2,6 +2,8 @@
 aliases: ["Gibbering Mouther"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/BoconBarbotante|Bocón barbotante (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Glabrezu|Glabrezu]]"
 ---
 
 ## Gibbering Mouther

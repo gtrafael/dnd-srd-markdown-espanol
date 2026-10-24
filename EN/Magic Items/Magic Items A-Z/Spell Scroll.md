@@ -2,6 +2,8 @@
 aliases: ["Spell Scroll"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PergaminoDeConjuro]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 # Spell Scroll

@@ -2,6 +2,9 @@
 aliases: ["Heroism"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Heroismo|Heroísmo (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Paladin|Paladin]]"
 ---
 
 ### Heroism

@@ -2,6 +2,17 @@
 aliases: ["Trinkets"]
 tags: [srd, english, tag_characterizations]
 related_es: "[[CreacionDePersonajes/Bagatelas|Bagatelas (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Raven|Raven]]"
+  - "[[Monsters A-Z/Sprite|Sprite]]"
+  - "[[Animals/Cat|Cat]]"
+  - "[[Animals/Rat|Rat]]"
+  - "[[Monsters A-Z/Archmage|Archmage]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Monsters A-Z/Pirate|Pirate]]"
+  - "[[Animals/Crab|Crab]]"
+  - "[[Animals/Spider|Spider]]"
+  - "[[Monsters A-Z/Griffon|Griffon]]"
 ---
 
 # Trinkets

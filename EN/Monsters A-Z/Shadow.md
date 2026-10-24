@@ -2,6 +2,8 @@
 aliases: ["Shadow"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Sombra|Sombra (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Shambling Mound|Shambling Mound]]"
 ---
 
 ## Shadow

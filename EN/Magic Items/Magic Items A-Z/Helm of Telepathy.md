@@ -2,6 +2,9 @@
 aliases: ["Helm of Telepathy"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/YelmoDeTelepatia|Yelmo de telepatía (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
+  - "[[Spells/Spell Descriptions/Suggestion|Suggestion]]"
 ---
 
 ### Helm of Telepathy

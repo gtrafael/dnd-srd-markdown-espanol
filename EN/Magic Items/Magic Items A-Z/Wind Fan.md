@@ -2,6 +2,8 @@
 aliases: ["Wind Fan"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AbanicoDelViento|Abanico del viento (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Gust of Wind|Gust of Wind]]"
 ---
 
 ### Wind Fan

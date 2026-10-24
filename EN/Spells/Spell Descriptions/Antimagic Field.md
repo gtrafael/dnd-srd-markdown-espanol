@@ -2,6 +2,11 @@
 aliases: ["Antimagic Field"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CampoAntimagia|Campo antimagia (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Teleport|Teleport]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
 ---
 
 ### Antimagic Field

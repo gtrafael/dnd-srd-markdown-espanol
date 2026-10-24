@@ -2,6 +2,8 @@
 aliases: ["Behir"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Behir|Behir (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Berserker|Berserker]]"
 ---
 
 ## Behir

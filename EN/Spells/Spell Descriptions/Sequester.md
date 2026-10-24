@@ -2,6 +2,10 @@
 aliases: ["Sequester"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Recluir|Recluir (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Divination|Divination]]"
+  - "[[Monsters A-Z/Tarrasque|Tarrasque]]"
 ---
 
 ### Sequester

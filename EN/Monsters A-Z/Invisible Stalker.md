@@ -2,6 +2,8 @@
 aliases: ["Invisible Stalker"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/AcechadorInvisible|Acechador invisible (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Iron Golem|Iron Golem]]"
 ---
 
 ## Invisible Stalker

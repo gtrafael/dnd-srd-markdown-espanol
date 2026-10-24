@@ -2,6 +2,17 @@
 aliases: ["Geas"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Geas|Geas (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Command|Command]]"
+  - "[[Spells/Spell Descriptions/Remove Curse|Remove Curse]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
+  - "[[Spells/Spell Descriptions/Wish|Wish]]"
 ---
 
 ### Geas

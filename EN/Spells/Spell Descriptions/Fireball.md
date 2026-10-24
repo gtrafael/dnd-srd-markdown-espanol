@@ -2,6 +2,10 @@
 aliases: ["Fireball"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/BolaDeFuego|Bola de fuego (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Animals/Bat|Bat]]"
 ---
 
 ### Fireball

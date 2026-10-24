@@ -2,6 +2,8 @@
 aliases: ["Bugbear Warrior"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GuerreroOsgo|Guerrero osgo (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Bulette|Bulette]]"
 ---
 
 ## Bugbear Warrior

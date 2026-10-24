@@ -2,6 +2,12 @@
 aliases: ["Adult Black Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonNegroAdulto|Dragón negro adulto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Acid Arrow|Acid Arrow]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Fear|Fear]]"
+  - "[[Spells/Spell Descriptions/Speak with Dead|Speak with Dead]]"
+  - "[[Spells/Spell Descriptions/Vitriolic Sphere|Vitriolic Sphere]]"
 ---
 
 ## Adult Black Dragon

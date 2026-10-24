@@ -2,6 +2,9 @@
 aliases: ["Wereboar"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/HombreJabali|Hombre jabalí (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Boar|Boar]]"
+  - "[[Monsters A-Z/Wererat|Wererat]]"
 ---
 
 ## Wereboar

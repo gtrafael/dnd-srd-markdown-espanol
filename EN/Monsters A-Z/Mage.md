@@ -2,6 +2,18 @@
 aliases: ["Mage"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Mago|Mago (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Mage Armor|Mage Armor]]"
+  - "[[Spells/Spell Descriptions/Mage Hand|Mage Hand]]"
+  - "[[Spells/Spell Descriptions/Prestidigitation|Prestidigitation]]"
+  - "[[Spells/Spell Descriptions/Fireball|Fireball]]"
+  - "[[Spells/Spell Descriptions/Cone of Cold|Cone of Cold]]"
+  - "[[Spells/Spell Descriptions/Misty Step|Misty Step]]"
+  - "[[Spells/Spell Descriptions/Counterspell|Counterspell]]"
+  - "[[Spells/Spell Descriptions/Shield|Shield]]"
 ---
 
 ## Mage

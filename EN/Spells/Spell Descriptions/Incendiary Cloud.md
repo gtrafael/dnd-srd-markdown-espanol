@@ -2,6 +2,12 @@
 aliases: ["Incendiary Cloud"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/NubeIncendiaria|Nube incendiaria (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Gust of Wind|Gust of Wind]]"
 ---
 
 ### Incendiary Cloud

@@ -2,6 +2,9 @@
 aliases: ["Troll Limb"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/ExtremidadDeTroll|Extremidad de troll (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Troll|Troll]]"
+  - "[[Monsters A-Z/Unicorn|Unicorn]]"
 ---
 
 ## Troll Limb

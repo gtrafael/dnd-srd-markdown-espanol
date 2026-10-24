@@ -2,6 +2,8 @@
 aliases: ["Blood Hawk"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/HalconSangriento|Halcón sangriento (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Hawk|Hawk]]"
 ---
 
 ## Blood Hawk

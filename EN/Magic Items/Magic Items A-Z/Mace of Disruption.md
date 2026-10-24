@@ -2,6 +2,8 @@
 aliases: ["Mace of Disruption"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MazaDisruptiva|Maza disruptiva (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Mace of Disruption

@@ -2,6 +2,10 @@
 aliases: ["Cloak of the Bat"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaDeMurcielago|Capa de murciélago (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Darkness|Darkness]]"
+  - "[[Spells/Spell Descriptions/Polymorph|Polymorph]]"
+  - "[[Animals/Bat|Bat]]"
 ---
 
 ### Cloak of the Bat

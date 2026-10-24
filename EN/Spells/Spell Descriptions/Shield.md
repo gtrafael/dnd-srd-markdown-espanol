@@ -2,6 +2,10 @@
 aliases: ["Shield"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Escudo|Escudo (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Magic Missile|Magic Missile]]"
 ---
 
 ### Shield

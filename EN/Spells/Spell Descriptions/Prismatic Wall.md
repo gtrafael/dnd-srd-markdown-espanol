@@ -2,6 +2,16 @@
 aliases: ["Prismatic Wall"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/MuroPrismatico|Muro prismático (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Harm|Harm]]"
+  - "[[Spells/Spell Descriptions/Antimagic Field|Antimagic Field]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
+  - "[[Spells/Spell Descriptions/Gust of Wind|Gust of Wind]]"
+  - "[[Spells/Spell Descriptions/Passwall|Passwall]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
+  - "[[Spells/Spell Descriptions/Daylight|Daylight]]"
 ---
 
 ### Prismatic Wall

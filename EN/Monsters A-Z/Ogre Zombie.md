@@ -2,6 +2,8 @@
 aliases: ["Ogre Zombie"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/OgroZombi|Ogro zombi (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Zombie|Zombie]]"
 ---
 
 ## Ogre Zombie

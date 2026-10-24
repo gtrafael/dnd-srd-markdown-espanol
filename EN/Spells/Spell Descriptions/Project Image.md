@@ -2,6 +2,9 @@
 aliases: ["Project Image"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ProyectarImagen|Proyectar imagen (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Project Image

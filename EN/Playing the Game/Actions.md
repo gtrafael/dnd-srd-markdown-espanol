@@ -2,6 +2,8 @@
 aliases: ["Actions"]
 tags: [srd, english, tag_gameplay]
 related_es: "[[ComoJugar/Acciones|Acciones (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Rogue|Rogue]]"
 ---
 
 # Actions

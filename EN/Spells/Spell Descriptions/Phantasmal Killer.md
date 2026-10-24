@@ -2,6 +2,9 @@
 aliases: ["Phantasmal Killer"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/AsesinoFantasmal|Asesino fantasmal (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Phantasmal Killer

@@ -2,6 +2,8 @@
 aliases: ["Acid Arrow"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/FlechaAcida|Flecha ácida (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Acid Arrow

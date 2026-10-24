@@ -2,6 +2,8 @@
 aliases: ["Werewolf"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/HombreLobo|Hombre lobo (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Wolf|Wolf]]"
 ---
 
 ## Werewolf

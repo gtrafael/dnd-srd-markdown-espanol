@@ -2,6 +2,14 @@
 aliases: ["Druid"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Druida|Druida (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Spells/Spell Descriptions/Druidcraft|Druidcraft]]"
+  - "[[Spells/Spell Descriptions/Speak with Animals|Speak with Animals]]"
+  - "[[Spells/Spell Descriptions/Entangle|Entangle]]"
+  - "[[Spells/Spell Descriptions/Thunderwave|Thunderwave]]"
+  - "[[Spells/Spell Descriptions/Animal Messenger|Animal Messenger]]"
+  - "[[Monsters A-Z/Dryad|Dryad]]"
 ---
 
 ## Druid

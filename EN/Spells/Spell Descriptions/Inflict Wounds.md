@@ -2,6 +2,8 @@
 aliases: ["Inflict Wounds"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/InfligirHeridas|Infligir heridas (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
 ---
 
 ### Inflict Wounds

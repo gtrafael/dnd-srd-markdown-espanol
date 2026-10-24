@@ -2,6 +2,11 @@
 aliases: ["Find Steed"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/HallarCorcel|Hallar corcel (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Animals/Camel|Camel]]"
+  - "[[Animals/Dire Wolf|Dire Wolf]]"
+  - "[[Animals/Elk|Elk]]"
 ---
 
 ### Find Steed

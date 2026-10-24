@@ -2,6 +2,11 @@
 aliases: ["Speak with Dead"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/HablarConLosMuertos|Hablar con los muertos (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Compulsion|Compulsion]]"
 ---
 
 ### Speak with Dead

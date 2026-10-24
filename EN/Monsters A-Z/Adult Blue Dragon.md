@@ -2,6 +2,14 @@
 aliases: ["Adult Blue Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonAzulAdulto|Dragón azul adulto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Shatter|Shatter]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Spells/Spell Descriptions/Mage Hand|Mage Hand]]"
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
+  - "[[Spells/Spell Descriptions/Sending|Sending]]"
+  - "[[Spells/Spell Descriptions/Fly|Fly]]"
 ---
 
 ## Adult Blue Dragon

@@ -2,6 +2,9 @@
 aliases: ["Arcane Eye"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/OjoArcano|Ojo arcano (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Animals/Bat|Bat]]"
 ---
 
 ### Arcane Eye

@@ -2,6 +2,10 @@
 aliases: ["Commune with Nature"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ComunionConLaNaturaleza|Comunión con la naturaleza (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
 ---
 
 ### Commune with Nature

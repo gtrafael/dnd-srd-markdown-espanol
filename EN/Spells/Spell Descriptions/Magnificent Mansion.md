@@ -2,6 +2,10 @@
 aliases: ["Magnificent Mansion"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/MansionMagnifica|Mansión magnífica (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ### Magnificent Mansion

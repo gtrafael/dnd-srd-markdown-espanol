@@ -2,6 +2,8 @@
 aliases: ["Ice Mephit"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/MephitDeHielo|Mephit de hielo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Fog Cloud|Fog Cloud]]"
 ---
 
 ## Ice Mephit

@@ -2,6 +2,9 @@
 aliases: ["Weretiger"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/HombreTigre|Hombre tigre (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Tiger|Tiger]]"
+  - "[[Monsters A-Z/Werewolf|Werewolf]]"
 ---
 
 ## Weretiger

@@ -2,6 +2,18 @@
 aliases: ["Rakshasa"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Rakshasa|Rakshasa (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Bless|Bless]]"
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
+  - "[[Spells/Spell Descriptions/Disguise Self|Disguise Self]]"
+  - "[[Spells/Spell Descriptions/Mage Hand|Mage Hand]]"
+  - "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion]]"
+  - "[[Spells/Spell Descriptions/Fly|Fly]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Spells/Spell Descriptions/Major Image|Major Image]]"
+  - "[[Spells/Spell Descriptions/Plane Shift|Plane Shift]]"
 ---
 
 ## Rakshasa

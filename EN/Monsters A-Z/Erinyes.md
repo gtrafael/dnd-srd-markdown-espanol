@@ -2,6 +2,9 @@
 aliases: ["Erinyes"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Erinia|Erinia (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Ettercap|Ettercap]]"
 ---
 
 ## Erinyes

@@ -2,6 +2,8 @@
 aliases: ["Lizard"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Lagarto|Lagarto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
 ---
 
 ## Lizard

@@ -2,6 +2,8 @@
 aliases: ["Quarterstaff of the Acrobat"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeAcrobata]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 # Quarterstaff of the Acrobat

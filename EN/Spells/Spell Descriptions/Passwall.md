@@ -2,6 +2,8 @@
 aliases: ["Passwall"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Pasamuros|Pasamuros (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Passwall

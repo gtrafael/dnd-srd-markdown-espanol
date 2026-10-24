@@ -2,6 +2,11 @@
 aliases: ["Giant Insect"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/InsectoGigante|Insecto gigante (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Animals/Giant Centipede|Giant Centipede]]"
+  - "[[Animals/Spider|Spider]]"
 ---
 
 ### Giant Insect

@@ -2,6 +2,14 @@
 aliases: ["Daylight"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/LuzDelDia|Luz del día (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Spells/Spell Descriptions/Darkness|Darkness]]"
 ---
 
 ### Daylight

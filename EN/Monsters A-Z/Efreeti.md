@@ -2,6 +2,17 @@
 aliases: ["Efreeti"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Ifrit|Ifrit (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Wish|Wish]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Elementalism|Elementalism]]"
+  - "[[Spells/Spell Descriptions/Gaseous Form|Gaseous Form]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Spells/Spell Descriptions/Major Image|Major Image]]"
+  - "[[Spells/Spell Descriptions/Plane Shift|Plane Shift]]"
+  - "[[Spells/Spell Descriptions/Wall of Fire|Wall of Fire]]"
+  - "[[Monsters A-Z/Erinyes|Erinyes]]"
 ---
 
 ## Efreeti

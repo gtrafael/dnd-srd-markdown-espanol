@@ -2,6 +2,16 @@
 aliases: ["Necklace of Prayer Beads"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CollarDePlegarias|Collar de plegarias (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Spells/Spell Descriptions/Cure Wounds|Cure Wounds]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
+  - "[[Spells/Spell Descriptions/Shining Smite|Shining Smite]]"
+  - "[[Spells/Spell Descriptions/Guardian of Faith|Guardian of Faith]]"
+  - "[[Spells/Spell Descriptions/Wind Walk|Wind Walk]]"
 ---
 
 ### Necklace of Prayer Beads

@@ -2,6 +2,12 @@
 aliases: ["Damage and Healing"]
 tags: [srd, english, tag_gameplay]
 related_es: "[[ComoJugar/DanoYCuracion|Daño y curación (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Rogue|Rogue]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Fireball|Fireball]]"
+  - "[[Spells/Spell Descriptions/Cure Wounds|Cure Wounds]]"
+  - "[[Spells/Spell Descriptions/Raise Dead|Raise Dead]]"
 ---
 
 # Damage and Healing

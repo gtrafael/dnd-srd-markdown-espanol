@@ -2,6 +2,11 @@
 aliases: ["Finger of Death"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DedoDeLaMuerte|Dedo de la muerte (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Monsters A-Z/Zombie|Zombie]]"
 ---
 
 ### Finger of Death

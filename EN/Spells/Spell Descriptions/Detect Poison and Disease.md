@@ -2,6 +2,13 @@
 aliases: ["Detect Poison and Disease"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DetectarVenenosYEnfermedades|Detectar venenos y enfermedades (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Spells/Spell Descriptions/Contagion|Contagion]]"
 ---
 
 ### Detect Poison and Disease

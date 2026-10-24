@@ -2,6 +2,8 @@
 aliases: ["Animated Rug of Smothering"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/AlfombraAsfixianteAnimada|Alfombra asfixiante animada (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Ankheg|Ankheg]]"
 ---
 
 ## Animated Rug of Smothering

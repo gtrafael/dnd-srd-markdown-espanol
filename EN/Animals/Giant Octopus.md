@@ -2,6 +2,9 @@
 aliases: ["Giant Octopus"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/PulpoGigante|Pulpo gigante (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
+  - "[[Animals/Octopus|Octopus]]"
 ---
 
 ## Giant Octopus

@@ -2,6 +2,12 @@
 aliases: ["Combat Encounters"]
 tags: [srd, english, tag_gamemastering]
 related_es: "[[HerramientasDelJuego/EncuentrosDeCombate|EncuentrosDeCombate (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Bugbear Warrior|Bugbear Warrior]]"
+  - "[[Monsters A-Z/Wight|Wight]]"
+  - "[[Monsters A-Z/Warhorse Skeleton|Warhorse Skeleton]]"
+  - "[[Monsters A-Z/Ogre|Ogre]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 # Combat Encounters

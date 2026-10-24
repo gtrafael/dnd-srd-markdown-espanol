@@ -2,6 +2,8 @@
 aliases: ["Hill Giant"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GiganteDeLasColinas|Gigante de las colinas (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Hippogriff|Hippogriff]]"
 ---
 
 ## Hill Giant

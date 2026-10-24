@@ -2,6 +2,8 @@
 aliases: ["Barbarian"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Barbaro|Barbaro (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Berserker|Berserker]]"
 ---
 
 # Barbarian

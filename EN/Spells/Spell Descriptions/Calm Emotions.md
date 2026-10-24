@@ -2,6 +2,9 @@
 aliases: ["Calm Emotions"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CalmarEmociones|Calmar emociones (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
 ---
 
 ### Calm Emotions

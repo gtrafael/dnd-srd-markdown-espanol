@@ -2,6 +2,8 @@
 aliases: ["Giant Shark"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TiburonGigante|Tiburón gigante (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
 ---
 
 ## Giant Shark

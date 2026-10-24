@@ -2,6 +2,13 @@
 aliases: ["Vampire"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Vampiro|Vampiro (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Animals/Bat|Bat]]"
+  - "[[Monsters A-Z/Vampire Spawn|Vampire Spawn]]"
+  - "[[Spells/Spell Descriptions/Charm Person|Charm Person]]"
+  - "[[Spells/Spell Descriptions/Command|Command]]"
+  - "[[Monsters A-Z/Vrock|Vrock]]"
 ---
 
 ## Vampire

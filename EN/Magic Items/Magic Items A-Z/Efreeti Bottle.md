@@ -2,6 +2,9 @@
 aliases: ["Efreeti Bottle"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotellaDeIfrit|Botella de ifrit (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Efreeti|Efreeti]]"
+  - "[[Spells/Spell Descriptions/Wish|Wish]]"
 ---
 
 ### Efreeti Bottle

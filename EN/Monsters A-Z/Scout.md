@@ -2,6 +2,8 @@
 aliases: ["Scout"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Batidor|Batidor (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Sea Hag|Sea Hag]]"
 ---
 
 ## Scout

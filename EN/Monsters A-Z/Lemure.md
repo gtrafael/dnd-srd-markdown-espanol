@@ -2,6 +2,9 @@
 aliases: ["Lemure"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Lemur|Lémur (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Bless|Bless]]"
+  - "[[Monsters A-Z/Lich|Lich]]"
 ---
 
 ## Lemure

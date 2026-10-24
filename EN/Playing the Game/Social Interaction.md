@@ -2,6 +2,12 @@
 aliases: ["Social Interaction"]
 tags: [srd, english, tag_gameplay]
 related_es: "[[ComoJugar/InteraccionesSociales|Interacciones sociales (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Guard|Guard]]"
+  - "[[Monsters A-Z/Bandit|Bandit]]"
+  - "[[Animals/Badger|Badger]]"
+  - "[[Monsters A-Z/Noble|Noble]]"
+  - "[[Classes/Rogue|Rogue]]"
 ---
 
 # Social Interaction

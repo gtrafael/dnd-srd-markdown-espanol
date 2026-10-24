@@ -2,6 +2,23 @@
 aliases: ["Night Hag"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/SagaDeLaNoche|Saga de la noche (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Augury|Augury]]"
+  - "[[Spells/Spell Descriptions/Find Familiar|Find Familiar]]"
+  - "[[Spells/Spell Descriptions/Identify|Identify]]"
+  - "[[Spells/Spell Descriptions/Locate Object|Locate Object]]"
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
+  - "[[Spells/Spell Descriptions/Unseen Servant|Unseen Servant]]"
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Nightmare|Nightmare]]"
+  - "[[Spells/Spell Descriptions/Dream|Dream]]"
+  - "[[Spells/Spell Descriptions/Protection from Evil and Good|Protection from Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Magic Circle|Magic Circle]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Etherealness|Etherealness]]"
+  - "[[Spells/Spell Descriptions/Magic Missile|Magic Missile]]"
+  - "[[Spells/Spell Descriptions/Phantasmal Killer|Phantasmal Killer]]"
+  - "[[Spells/Spell Descriptions/Plane Shift|Plane Shift]]"
 ---
 
 ## Night Hag

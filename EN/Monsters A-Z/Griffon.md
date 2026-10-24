@@ -2,6 +2,8 @@
 aliases: ["Griffon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Grifo|Grifo (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Grimlock|Grimlock]]"
 ---
 
 ## Griffon

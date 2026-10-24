@@ -2,6 +2,18 @@
 aliases: ["Planetar"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Planetar|Planetar (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Detect Evil and Good|Detect Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Commune|Commune]]"
+  - "[[Spells/Spell Descriptions/Control Weather|Control Weather]]"
+  - "[[Spells/Spell Descriptions/Dispel Evil and Good|Dispel Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Raise Dead|Raise Dead]]"
+  - "[[Spells/Spell Descriptions/Aid|Aid]]"
+  - "[[Spells/Spell Descriptions/Cure Wounds|Cure Wounds]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Spells/Spell Descriptions/Lesser Restoration|Lesser Restoration]]"
+  - "[[Spells/Spell Descriptions/Remove Curse|Remove Curse]]"
 ---
 
 ## Planetar

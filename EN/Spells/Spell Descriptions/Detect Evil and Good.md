@@ -2,6 +2,10 @@
 aliases: ["Detect Evil and Good"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DetectarElBienYElMal|Detectar el bien y el mal (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Spells/Spell Descriptions/Hallow|Hallow]]"
 ---
 
 ### Detect Evil and Good

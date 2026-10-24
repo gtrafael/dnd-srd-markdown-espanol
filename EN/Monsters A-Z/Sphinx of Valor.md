@@ -2,6 +2,15 @@
 aliases: ["Sphinx of Valor"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/EsfingeDelValor|Esfinge del valor (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Detect Evil and Good|Detect Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
+  - "[[Spells/Spell Descriptions/Heroes Feast|Heroes’ Feast]]"
+  - "[[Spells/Spell Descriptions/Zone of Truth|Zone of Truth]]"
+  - "[[Monsters A-Z/Spirit Naga|Spirit Naga]]"
 ---
 
 ## Sphinx of Valor

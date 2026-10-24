@@ -2,6 +2,9 @@
 aliases: ["Sprite"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Duende|Duende (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Monsters A-Z/Spy|Spy]]"
 ---
 
 ## Sprite

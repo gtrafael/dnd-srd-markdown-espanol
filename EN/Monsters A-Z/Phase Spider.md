@@ -2,6 +2,9 @@
 aliases: ["Phase Spider"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/AranaDeFase|Araña de fase (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Spider|Spider]]"
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
 ---
 
 ## Phase Spider

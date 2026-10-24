@@ -2,6 +2,8 @@
 aliases: ["Owlbear"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/OsoLechuza|Oso lechuza (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Pegasus|Pegasus]]"
 ---
 
 ## Owlbear

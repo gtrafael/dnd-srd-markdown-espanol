@@ -2,6 +2,8 @@
 aliases: ["Merrow"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Merrow|Merrow (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Mimic|Mimic]]"
 ---
 
 ## Merrow

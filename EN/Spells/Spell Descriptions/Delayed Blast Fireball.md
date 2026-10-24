@@ -2,6 +2,11 @@
 aliases: ["Delayed Blast Fireball"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/BolaDeFuegoDeExplosionRetardada|Bola de fuego de explosión retardada (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Animals/Bat|Bat]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ### Delayed Blast Fireball

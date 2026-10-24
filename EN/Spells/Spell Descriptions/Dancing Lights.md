@@ -2,6 +2,11 @@
 aliases: ["Dancing Lights"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/LucesDanzantes|Luces danzantes (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ### Dancing Lights

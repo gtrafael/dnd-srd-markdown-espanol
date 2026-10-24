@@ -2,6 +2,8 @@
 aliases: ["Saber-Toothed Tiger"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TigreDientesDeSable|Tigre dientes de sable (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Tiger|Tiger]]"
 ---
 
 ## Saber-Toothed Tiger

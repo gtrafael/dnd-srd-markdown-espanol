@@ -2,6 +2,9 @@
 aliases: ["Chromatic Orb"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/OrbeCromatico|Orbe cromático (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Chromatic Orb

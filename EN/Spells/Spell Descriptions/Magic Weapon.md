@@ -2,6 +2,11 @@
 aliases: ["Magic Weapon"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Magic Weapon

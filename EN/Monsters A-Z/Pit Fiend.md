@@ -2,6 +2,12 @@
 aliases: ["Pit Fiend"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DiabloDeLaSima|Diablo de la sima (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Fireball|Fireball]]"
+  - "[[Spells/Spell Descriptions/Hold Monster|Hold Monster]]"
+  - "[[Spells/Spell Descriptions/Wall of Fire|Wall of Fire]]"
+  - "[[Monsters A-Z/Planetar|Planetar]]"
 ---
 
 ## Pit Fiend

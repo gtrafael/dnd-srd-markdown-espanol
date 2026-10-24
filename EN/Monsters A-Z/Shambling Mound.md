@@ -2,6 +2,8 @@
 aliases: ["Shambling Mound"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/BrozaMovediza|Broza movediza (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Shield Guardian|Shield Guardian]]"
 ---
 
 ## Shambling Mound

@@ -2,6 +2,13 @@
 aliases: ["Wand of Wonder"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeLasMaravillas|Wand of Wonder (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Rhinoceros|Rhinoceros]]"
+  - "[[Animals/Elephant|Elephant]]"
+  - "[[Animals/Rat|Rat]]"
+  - "[[Animals/Black Bear|Black Bear]]"
+  - "[[Animals/Giant Wasp|Giant Wasp]]"
+  - "[[Animals/Frog|Frog]]"
 ---
 
 # Wand of Wonder

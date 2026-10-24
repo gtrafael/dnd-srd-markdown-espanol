@@ -2,6 +2,14 @@
 aliases: ["Casting Spells"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/LanzarConjuros|Lanzar conjuros (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Magic Missile|Magic Missile]]"
+  - "[[Spells/Spell Descriptions/Cure Wounds|Cure Wounds]]"
+  - "[[Spells/Spell Descriptions/Silence|Silence]]"
+  - "[[Spells/Spell Descriptions/Thunderwave|Thunderwave]]"
+  - "[[Spells/Spell Descriptions/Identify|Identify]]"
+  - "[[Spells/Spell Descriptions/Bless|Bless]]"
 ---
 
 # Casting Spells

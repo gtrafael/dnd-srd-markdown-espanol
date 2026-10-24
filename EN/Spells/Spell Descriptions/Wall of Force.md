@@ -2,6 +2,10 @@
 aliases: ["Wall of Force"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/MuroDeFuerza|Muro de fuerza (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
+  - "[[Spells/Spell Descriptions/Disintegrate|Disintegrate]]"
 ---
 
 ### Wall of Force

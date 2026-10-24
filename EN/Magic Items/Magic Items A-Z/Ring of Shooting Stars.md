@@ -2,6 +2,8 @@
 aliases: ["Ring of Shooting Stars"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeEstrellasFugaces]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Faerie Fire|Faerie Fire]]"
 ---
 
 # Ring of Shooting Stars

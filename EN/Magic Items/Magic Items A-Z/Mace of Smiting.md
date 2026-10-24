@@ -2,6 +2,8 @@
 aliases: ["Mace of Smiting"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MazaCastigadora|Maza castigadora (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Mace of Smiting

@@ -2,6 +2,8 @@
 aliases: ["Holy Aura"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/AuraSagrada|Aura sagrada (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
 ---
 
 ### Holy Aura

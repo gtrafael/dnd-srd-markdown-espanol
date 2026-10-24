@@ -2,6 +2,8 @@
 aliases: ["Compulsion"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Compulsion|Compulsión (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
 ---
 
 ### Compulsion

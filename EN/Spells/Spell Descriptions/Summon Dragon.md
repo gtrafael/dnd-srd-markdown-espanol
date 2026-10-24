@@ -2,6 +2,8 @@
 aliases: ["Summon Dragon"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/InvocarDragon|Invocar dragón (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Summon Dragon

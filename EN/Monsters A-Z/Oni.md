@@ -2,6 +2,14 @@
 aliases: ["Oni"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Oni|Oni (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Nightmare|Nightmare]]"
+  - "[[Spells/Spell Descriptions/Charm Person|Charm Person]]"
+  - "[[Spells/Spell Descriptions/Darkness|Darkness]]"
+  - "[[Spells/Spell Descriptions/Gaseous Form|Gaseous Form]]"
+  - "[[Spells/Spell Descriptions/Sleep|Sleep]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Monsters A-Z/Otyugh|Otyugh]]"
 ---
 
 ## Oni

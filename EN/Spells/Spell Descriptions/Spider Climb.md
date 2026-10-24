@@ -2,6 +2,11 @@
 aliases: ["Spider Climb"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/TreparCualAracnido|Trepar cual arácnido (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Animals/Spider|Spider]]"
 ---
 
 ### Spider Climb

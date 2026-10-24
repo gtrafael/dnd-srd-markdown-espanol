@@ -2,6 +2,9 @@
 aliases: ["Cape of the Mountebank"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaDelCharlatan|Capa del charlatán (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Dimension Door|Dimension Door]]"
+  - "[[Spells/Spell Descriptions/Teleport|Teleport]]"
 ---
 
 ### Cape of the Mountebank

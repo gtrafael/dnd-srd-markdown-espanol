@@ -2,6 +2,9 @@
 aliases: ["Chuul"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Chuul|Chuul (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Monsters A-Z/Clay Golem|Clay Golem]]"
 ---
 
 ## Chuul

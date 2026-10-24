@@ -2,6 +2,8 @@
 aliases: ["Swarm of Ravens"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EnjambreDeCuervos|Enjambre de cuervos (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Raven|Raven]]"
 ---
 
 ## Swarm of Ravens

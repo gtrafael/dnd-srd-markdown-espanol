@@ -2,6 +2,10 @@
 aliases: ["Adult Green Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonVerdeAdulto|Dragón verde adulto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Mind Spike|Mind Spike]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Geas|Geas]]"
 ---
 
 ## Adult Green Dragon

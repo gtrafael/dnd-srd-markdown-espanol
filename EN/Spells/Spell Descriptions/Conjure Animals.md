@@ -2,6 +2,10 @@
 aliases: ["Conjure Animals"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ConjurarAnimales|Conjurar animales (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
 ---
 
 ### Conjure Animals

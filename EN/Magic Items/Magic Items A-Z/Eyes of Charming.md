@@ -2,6 +2,8 @@
 aliases: ["Eyes of Charming"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnteojosDeEncantamiento|Anteojos de encantamiento (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Charm Person|Charm Person]]"
 ---
 
 ### Eyes of Charming

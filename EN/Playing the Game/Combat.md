@@ -2,6 +2,8 @@
 aliases: ["Combat"]
 tags: [srd, english, tag_gameplay]
 related_es: "[[ComoJugar/Combate|Combate (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Guard|Guard]]"
 ---
 
 # Combat

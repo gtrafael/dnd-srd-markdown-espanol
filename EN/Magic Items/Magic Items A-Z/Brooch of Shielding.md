@@ -2,6 +2,9 @@
 aliases: ["Brooch of Shielding"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BrocheEscudo|Broche escudo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Magic Missile|Magic Missile]]"
 ---
 
 ### Brooch of Shielding

@@ -2,6 +2,9 @@
 aliases: ["Bag of Holding"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeContencion|Bolsa de contención (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Handy Haversack|Handy Haversack]]"
+  - "[[Magic Items/Magic Items A-Z/Portable Hole|Portable Hole]]"
 ---
 
 ### Bag of Holding

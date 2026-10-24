@@ -2,6 +2,8 @@
 aliases: ["Aboleth"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Aboleth|Aboleth (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Air Elemental|Air Elemental]]"
 ---
 
 ## Aboleth

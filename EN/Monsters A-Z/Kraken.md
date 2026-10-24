@@ -2,6 +2,8 @@
 aliases: ["Kraken"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Kraken|Kraken (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Lamia|Lamia]]"
 ---
 
 ## Kraken

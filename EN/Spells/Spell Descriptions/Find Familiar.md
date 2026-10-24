@@ -2,6 +2,19 @@
 aliases: ["Find Familiar"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/EncontrarFamiliar|Encontrar familiar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Animals/Bat|Bat]]"
+  - "[[Animals/Cat|Cat]]"
+  - "[[Animals/Frog|Frog]]"
+  - "[[Animals/Hawk|Hawk]]"
+  - "[[Animals/Lizard|Lizard]]"
+  - "[[Animals/Octopus|Octopus]]"
+  - "[[Animals/Owl|Owl]]"
+  - "[[Animals/Rat|Rat]]"
+  - "[[Animals/Raven|Raven]]"
+  - "[[Animals/Spider|Spider]]"
+  - "[[Animals/Weasel|Weasel]]"
 ---
 
 ### Find Familiar

@@ -2,6 +2,11 @@
 aliases: ["Elemental Gem"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GemaElemental|Gema elemental (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Air Elemental|Air Elemental]]"
+  - "[[Monsters A-Z/Water Elemental|Water Elemental]]"
+  - "[[Monsters A-Z/Fire Elemental|Fire Elemental]]"
+  - "[[Monsters A-Z/Earth Elemental|Earth Elemental]]"
 ---
 
 ### Elemental Gem

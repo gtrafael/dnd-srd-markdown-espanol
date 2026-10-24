@@ -2,6 +2,9 @@
 aliases: ["Minotaur Skeleton"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/MinotauroEsqueleto|Minotauro esqueleto (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Skeleton|Skeleton]]"
+  - "[[Monsters A-Z/Solar|Solar]]"
 ---
 
 ## Minotaur Skeleton

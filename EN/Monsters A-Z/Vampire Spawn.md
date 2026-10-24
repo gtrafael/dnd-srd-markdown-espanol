@@ -2,6 +2,9 @@
 aliases: ["Vampire Spawn"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/EngendroVampirico|Engendro vampírico (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Monsters A-Z/Vampire|Vampire]]"
 ---
 
 ## Vampire Spawn

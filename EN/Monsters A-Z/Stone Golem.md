@@ -2,6 +2,10 @@
 aliases: ["Stone Golem"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GolemDePiedra|Gólem de piedra (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Slow|Slow]]"
+  - "[[Monsters A-Z/Storm Giant|Storm Giant]]"
 ---
 
 ## Stone Golem

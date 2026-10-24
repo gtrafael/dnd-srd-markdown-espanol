@@ -2,6 +2,13 @@
 aliases: ["Darkness"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Oscuridad|Oscuridad (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Animals/Bat|Bat]]"
+  - "[[Spells/Spell Descriptions/Darkvision|Darkvision]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ### Darkness

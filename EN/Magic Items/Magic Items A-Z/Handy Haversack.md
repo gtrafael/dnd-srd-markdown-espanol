@@ -2,6 +2,9 @@
 aliases: ["Handy Haversack"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MorralPractico|Morral práctico (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Bag of Holding|Bag of Holding]]"
+  - "[[Magic Items/Magic Items A-Z/Portable Hole|Portable Hole]]"
 ---
 
 ### Handy Haversack

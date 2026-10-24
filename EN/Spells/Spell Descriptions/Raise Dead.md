@@ -2,6 +2,10 @@
 aliases: ["Raise Dead"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/AlzarALosMuertos|Alzar a los muertos (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Paladin|Paladin]]"
 ---
 
 ### Raise Dead

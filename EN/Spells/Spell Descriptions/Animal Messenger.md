@@ -2,6 +2,13 @@
 aliases: ["Animal Messenger"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/MensajeroAnimal|Mensajero animal (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Monsters A-Z/Guard|Guard]]"
+  - "[[Spells/Spell Descriptions/Message|Message]]"
 ---
 
 ### Animal Messenger

@@ -2,6 +2,9 @@
 aliases: ["Horned Devil"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DiabloAstado|Diablo astado (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Hydra|Hydra]]"
 ---
 
 ## Horned Devil

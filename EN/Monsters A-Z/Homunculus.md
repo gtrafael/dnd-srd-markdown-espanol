@@ -2,6 +2,9 @@
 aliases: ["Homunculus"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Homunculo|Homúnculo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Telepathic Bond|Telepathic Bond]]"
+  - "[[Monsters A-Z/Horned Devil|Horned Devil]]"
 ---
 
 ## Homunculus

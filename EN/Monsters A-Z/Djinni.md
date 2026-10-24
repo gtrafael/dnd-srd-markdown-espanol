@@ -2,6 +2,17 @@
 aliases: ["Djinni"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Djinn|Djinn (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Wish|Wish]]"
+  - "[[Spells/Spell Descriptions/Detect Evil and Good|Detect Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Create Food and Water|Create Food and Water]]"
+  - "[[Spells/Spell Descriptions/Wind Walk|Wind Walk]]"
+  - "[[Spells/Spell Descriptions/Gaseous Form|Gaseous Form]]"
+  - "[[Spells/Spell Descriptions/Major Image|Major Image]]"
+  - "[[Spells/Spell Descriptions/Plane Shift|Plane Shift]]"
+  - "[[Monsters A-Z/Doppelganger|Doppelganger]]"
 ---
 
 ## Djinni

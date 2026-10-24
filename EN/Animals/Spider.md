@@ -2,6 +2,8 @@
 aliases: ["Spider"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Arana|Araña (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
 ---
 
 ## Spider

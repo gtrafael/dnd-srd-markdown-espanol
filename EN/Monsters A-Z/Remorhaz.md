@@ -2,6 +2,8 @@
 aliases: ["Remorhaz"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Remorhaz|Remorhaz (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Roc|Roc]]"
 ---
 
 ## Remorhaz

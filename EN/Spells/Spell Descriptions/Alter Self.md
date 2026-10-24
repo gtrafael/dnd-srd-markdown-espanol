@@ -2,6 +2,9 @@
 aliases: ["Alter Self"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/AlterarElPropioAspecto|Alterar el propio aspecto (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Alter Self

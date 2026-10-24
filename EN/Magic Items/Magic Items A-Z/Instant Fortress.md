@@ -2,6 +2,8 @@
 aliases: ["Instant Fortress"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FortalezaInstantanea]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Command|Command]]"
 ---
 
 # Instant Fortress

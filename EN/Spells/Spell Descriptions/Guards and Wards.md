@@ -2,6 +2,17 @@
 aliases: ["Guards and Wards"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/GuardasYGuardias|Guardas y guardias (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
+  - "[[Spells/Spell Descriptions/Arcane Lock|Arcane Lock]]"
+  - "[[Spells/Spell Descriptions/Web|Web]]"
+  - "[[Spells/Spell Descriptions/Dancing Lights|Dancing Lights]]"
+  - "[[Spells/Spell Descriptions/Magic Mouth|Magic Mouth]]"
+  - "[[Spells/Spell Descriptions/Stinking Cloud|Stinking Cloud]]"
+  - "[[Spells/Spell Descriptions/Gust of Wind|Gust of Wind]]"
+  - "[[Spells/Spell Descriptions/Suggestion|Suggestion]]"
 ---
 
 ### Guards and Wards

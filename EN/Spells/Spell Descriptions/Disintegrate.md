@@ -2,6 +2,13 @@
 aliases: ["Disintegrate"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Desintegrar|Desintegrar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Creation|Creation]]"
+  - "[[Spells/Spell Descriptions/Wall of Force|Wall of Force]]"
+  - "[[Spells/Spell Descriptions/True Resurrection|True Resurrection]]"
+  - "[[Spells/Spell Descriptions/Wish|Wish]]"
 ---
 
 ### Disintegrate

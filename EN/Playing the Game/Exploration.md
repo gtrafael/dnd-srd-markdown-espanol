@@ -2,6 +2,8 @@
 aliases: ["Exploration"]
 tags: [srd, english, tag_gameplay]
 related_es: "[[ComoJugar/Exploracion|Exploración (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Spy|Spy]]"
 ---
 
 # Exploration

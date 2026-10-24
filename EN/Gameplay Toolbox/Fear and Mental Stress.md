@@ -2,6 +2,10 @@
 aliases: ["Fear and Mental Stress"]
 tags: [srd, english, tag_gamemastering]
 related_es: "[[HerramientasDelJuego/MiedoYEstresPsicologico|MiedoEstresMental (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Calm Emotions|Calm Emotions]]"
+  - "[[Spells/Spell Descriptions/Lesser Restoration|Lesser Restoration]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
 ---
 
 # Fear and Mental Stress

@@ -2,6 +2,11 @@
 aliases: ["Manual of Golems"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ManualDeGolems|Manual de gólems (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Clay Golem|Clay Golem]]"
+  - "[[Monsters A-Z/Flesh Golem|Flesh Golem]]"
+  - "[[Monsters A-Z/Iron Golem|Iron Golem]]"
+  - "[[Monsters A-Z/Stone Golem|Stone Golem]]"
 ---
 
 ### Manual of Golems

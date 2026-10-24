@@ -2,6 +2,9 @@
 aliases: ["Roper"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Lacero|Lacero (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Monsters A-Z/Rust Monster|Rust Monster]]"
 ---
 
 ## Roper

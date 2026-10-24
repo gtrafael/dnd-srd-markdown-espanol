@@ -2,6 +2,8 @@
 aliases: ["Weapon, +1, +2, or +3"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/Arma12O3|Weapon, +1, +2, or +3 (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 # Weapon, +1, +2, or +3

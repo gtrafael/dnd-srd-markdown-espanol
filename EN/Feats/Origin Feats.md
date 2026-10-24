@@ -2,6 +2,10 @@
 aliases: ["Origin Feats"]
 tags: [srd, english, tag_feats]
 related_es: "[[Dotes/DotesDeOrigen|Dotes de origen (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
 ---
 
 # Origin Feats

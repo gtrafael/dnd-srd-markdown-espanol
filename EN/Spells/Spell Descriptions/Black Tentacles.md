@@ -2,6 +2,8 @@
 aliases: ["Black Tentacles"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/TentaculosNegros|Tentáculos negros (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Black Tentacles

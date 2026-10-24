@@ -2,6 +2,10 @@
 aliases: ["Goodberry"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/BuenasBayas|Buenas bayas (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
 ---
 
 ### Goodberry

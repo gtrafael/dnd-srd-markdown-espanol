@@ -2,6 +2,8 @@
 aliases: ["Purple Worm"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GusanoPurpura|Gusano púrpura (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Quasit|Quasit]]"
 ---
 
 ## Purple Worm

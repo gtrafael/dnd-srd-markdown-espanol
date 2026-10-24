@@ -2,6 +2,10 @@
 aliases: ["Ice Devil"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DiabloGelido|Diablo gélido (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Wall of Ice|Wall of Ice]]"
+  - "[[Monsters A-Z/Imp|Imp]]"
 ---
 
 ## Ice Devil

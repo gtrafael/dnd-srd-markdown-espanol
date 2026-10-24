@@ -2,6 +2,8 @@
 aliases: ["Magmin"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Magmin|Magmin (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Manticore|Manticore]]"
 ---
 
 ## Magmin

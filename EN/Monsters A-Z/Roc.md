@@ -2,6 +2,8 @@
 aliases: ["Roc"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Roc|Roc (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Roper|Roper]]"
 ---
 
 ## Roc

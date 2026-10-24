@@ -2,6 +2,8 @@
 aliases: ["Raven"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Cuervo|Cuervo (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Mimic|Mimic]]"
 ---
 
 ## Raven

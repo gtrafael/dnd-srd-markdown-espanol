@@ -2,6 +2,8 @@
 aliases: ["Divine Smite"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/CastigoDivino|Castigo divino (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Paladin|Paladin]]"
 ---
 
 ### Divine Smite

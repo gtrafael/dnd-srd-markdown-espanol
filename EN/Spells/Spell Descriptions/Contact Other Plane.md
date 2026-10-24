@@ -2,6 +2,10 @@
 aliases: ["Contact Other Plane"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ContactarConOtroPlano|Contactar con otro plano (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
 ---
 
 ### Contact Other Plane

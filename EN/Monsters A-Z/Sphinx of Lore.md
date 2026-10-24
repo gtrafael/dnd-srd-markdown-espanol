@@ -2,6 +2,17 @@
 aliases: ["Sphinx of Lore"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/EsfingeDelConocimiento|Esfinge del conocimiento (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Identify|Identify]]"
+  - "[[Spells/Spell Descriptions/Mage Hand|Mage Hand]]"
+  - "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion]]"
+  - "[[Spells/Spell Descriptions/Prestidigitation|Prestidigitation]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
+  - "[[Spells/Spell Descriptions/Legend Lore|Legend Lore]]"
+  - "[[Spells/Spell Descriptions/Locate Object|Locate Object]]"
+  - "[[Spells/Spell Descriptions/Plane Shift|Plane Shift]]"
+  - "[[Spells/Spell Descriptions/Remove Curse|Remove Curse]]"
 ---
 
 ## Sphinx of Lore

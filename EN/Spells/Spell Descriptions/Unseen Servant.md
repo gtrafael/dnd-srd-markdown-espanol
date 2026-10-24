@@ -2,6 +2,11 @@
 aliases: ["Unseen Servant"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/SirvienteInvisible|Sirviente invisible (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Command|Command]]"
 ---
 
 ### Unseen Servant

@@ -2,6 +2,8 @@
 aliases: ["Robe of Useful Items"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TunicaDeObjetosUtiles]]"
+wikilinks_auto:
+  - "[[Animals/Riding Horse|Riding Horse]]"
 ---
 
 # Robe of Useful Items

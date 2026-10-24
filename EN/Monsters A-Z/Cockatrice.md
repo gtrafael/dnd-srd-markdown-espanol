@@ -2,6 +2,8 @@
 aliases: ["Cockatrice"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Cocatriz|Cocatriz (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Commoner|Commoner]]"
 ---
 
 ## Cockatrice

@@ -2,6 +2,8 @@
 aliases: ["Troll"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Troll|Troll (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Troll Limb|Troll Limb]]"
 ---
 
 # Troll

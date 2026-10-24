@@ -2,6 +2,8 @@
 aliases: ["Vicious Weapon"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaFeroz|Arma feroz (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Vicious Weapon

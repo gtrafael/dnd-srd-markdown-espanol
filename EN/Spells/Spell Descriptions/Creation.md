@@ -2,6 +2,10 @@
 aliases: ["Creation"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Creacion|Creación (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Monsters A-Z/Shadow|Shadow]]"
 ---
 
 ### Creation

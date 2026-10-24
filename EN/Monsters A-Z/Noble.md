@@ -2,6 +2,8 @@
 aliases: ["Noble"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Noble|Noble (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Ochre Jelly|Ochre Jelly]]"
 ---
 
 ## Noble

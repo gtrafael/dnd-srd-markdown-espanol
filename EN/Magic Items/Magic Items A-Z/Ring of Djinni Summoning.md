@@ -2,6 +2,8 @@
 aliases: ["Ring of Djinni Summoning"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeInvocarDjinns]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Djinni|Djinni]]"
 ---
 
 # Ring of Djinni Summoning

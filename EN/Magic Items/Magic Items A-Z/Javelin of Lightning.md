@@ -2,6 +2,9 @@
 aliases: ["Javelin of Lightning"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/JabalinaDelRelampago|Jabalina del relámpago (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
+  - "[[Spells/Spell Descriptions/Lightning Bolt|Lightning Bolt]]"
 ---
 
 ### Javelin of Lightning

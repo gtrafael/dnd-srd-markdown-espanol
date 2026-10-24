@@ -2,6 +2,11 @@
 aliases: ["Forbiddance"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Prohibicion|Prohibición (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Spells/Spell Descriptions/Teleport|Teleport]]"
+  - "[[Spells/Spell Descriptions/Gate|Gate]]"
+  - "[[Spells/Spell Descriptions/Plane Shift|Plane Shift]]"
 ---
 
 ### Forbiddance

@@ -2,6 +2,8 @@
 aliases: ["Thunderous Greatclub"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GarroteGrandeAtronador|Garrote grande atronador (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Thunderous Greatclub

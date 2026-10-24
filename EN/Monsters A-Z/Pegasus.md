@@ -2,6 +2,8 @@
 aliases: ["Pegasus"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Pegaso|Pegaso (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Phase Spider|Phase Spider]]"
 ---
 
 ## Pegasus

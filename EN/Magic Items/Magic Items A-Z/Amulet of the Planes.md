@@ -2,6 +2,8 @@
 aliases: ["Amulet of the Planes"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AmuletoDeLosPlanos|Amuleto de los planos (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Plane Shift|Plane Shift]]"
 ---
 
 ### Amulet of the Planes

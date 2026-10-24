@@ -2,6 +2,11 @@
 aliases: ["Tools"]
 tags: [srd, english, tag_equipment]
 related_es: "[[Equipo/Herramientas|Herramientas (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Potions of Healing|Potions of Healing]]"
+  - "[[Monsters A-Z/Guard|Guard]]"
+  - "[[Magic Items/Magic Items A-Z/Spell Scroll|Spell Scroll]]"
+  - "[[Monsters A-Z/Mimic|Mimic]]"
 ---
 
 # Tools

@@ -2,6 +2,8 @@
 aliases: ["Fire Giant"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GiganteDeFuego|Gigante de fuego (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Flesh Golem|Flesh Golem]]"
 ---
 
 ## Fire Giant

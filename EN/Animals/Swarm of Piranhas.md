@@ -2,6 +2,9 @@
 aliases: ["Swarm of Piranhas"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/EnjambreDePiranas|Enjambre de pirañas (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Piranha|Piranha]]"
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
 ---
 
 ## Swarm of Piranhas

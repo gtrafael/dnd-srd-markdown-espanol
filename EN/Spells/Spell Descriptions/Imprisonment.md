@@ -2,6 +2,12 @@
 aliases: ["Imprisonment"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Cautiverio|Cautiverio (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Divination|Divination]]"
+  - "[[Spells/Spell Descriptions/Teleport|Teleport]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
 ---
 
 ### Imprisonment

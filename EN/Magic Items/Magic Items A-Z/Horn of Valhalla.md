@@ -2,6 +2,8 @@
 aliases: ["Horn of Valhalla"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CuernoDelValhalla|Cuerno del Valhalla (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Berserker|Berserker]]"
 ---
 
 ### Horn of Valhalla

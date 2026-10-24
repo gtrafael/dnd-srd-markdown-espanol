@@ -2,6 +2,8 @@
 aliases: ["Ghast"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Ghast|Ghast (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Ghost|Ghost]]"
 ---
 
 ## Ghast

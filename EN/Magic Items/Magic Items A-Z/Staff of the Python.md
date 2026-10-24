@@ -2,6 +2,9 @@
 aliases: ["Staff of the Python"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeLaPiton]]"
+wikilinks_auto:
+  - "[[Animals/Giant Constrictor Snake|Giant Constrictor Snake]]"
+  - "[[Monsters A-Z/Guard|Guard]]"
 ---
 
 # Staff of the Python

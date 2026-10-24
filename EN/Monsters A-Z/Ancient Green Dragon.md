@@ -2,6 +2,12 @@
 aliases: ["Ancient Green Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonVerdeAnciano|Dragón verde anciano (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Mind Spike|Mind Spike]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Geas|Geas]]"
+  - "[[Spells/Spell Descriptions/Modify Memory|Modify Memory]]"
+  - "[[Monsters A-Z/Green Hag|Green Hag]]"
 ---
 
 ## Ancient Green Dragon

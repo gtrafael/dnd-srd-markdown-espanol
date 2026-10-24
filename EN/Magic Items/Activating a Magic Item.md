@@ -2,6 +2,8 @@
 aliases: ["Activating a Magic Item"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ActivarUnObjetoMagico|Activar un objeto mágico (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Command|Command]]"
 ---
 
 # Activating a Magic Item

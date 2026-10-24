@@ -2,6 +2,10 @@
 aliases: ["Robe of Eyes"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TunicaDeLosOjos|Túnica de los ojos (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Darkvision|Darkvision]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Daylight|Daylight]]"
 ---
 
 ### Robe of Eyes

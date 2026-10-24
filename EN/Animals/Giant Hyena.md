@@ -2,6 +2,8 @@
 aliases: ["Giant Hyena"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/HienaGigante|Hiena gigante (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Hyena|Hyena]]"
 ---
 
 ## Giant Hyena

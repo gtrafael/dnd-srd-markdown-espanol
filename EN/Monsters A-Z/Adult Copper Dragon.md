@@ -2,6 +2,13 @@
 aliases: ["Adult Copper Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonDeCobreAdulto|Dragón de cobre adulto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Mind Spike|Mind Spike]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion]]"
+  - "[[Spells/Spell Descriptions/Shapechange|Shapechange]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
+  - "[[Spells/Spell Descriptions/Major Image|Major Image]]"
 ---
 
 ## Adult Copper Dragon

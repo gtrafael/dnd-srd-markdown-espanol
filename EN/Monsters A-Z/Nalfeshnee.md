@@ -2,6 +2,9 @@
 aliases: ["Nalfeshnee"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Nalfeshnee|Nalfeshnee (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Night Hag|Night Hag]]"
 ---
 
 ## Nalfeshnee

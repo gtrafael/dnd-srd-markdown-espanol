@@ -2,6 +2,17 @@
 aliases: ["Gaining Spells"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/ObtenerConjuros|Obtener conjuros (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Spell Scroll|Spell Scroll]]"
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 # Gaining Spells

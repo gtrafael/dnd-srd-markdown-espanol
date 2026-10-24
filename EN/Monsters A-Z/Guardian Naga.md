@@ -2,6 +2,12 @@
 aliases: ["Guardian Naga"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/NagaGuardiana|Naga guardiana (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy]]"
+  - "[[Spells/Spell Descriptions/Clairvoyance|Clairvoyance]]"
+  - "[[Spells/Spell Descriptions/Cure Wounds|Cure Wounds]]"
+  - "[[Spells/Spell Descriptions/Flame Strike|Flame Strike]]"
+  - "[[Spells/Spell Descriptions/True Seeing|True Seeing]]"
 ---
 
 ## Guardian Naga

@@ -2,6 +2,8 @@
 aliases: ["Ettin"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Ettin|Ettin (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Fire Elemental|Fire Elemental]]"
 ---
 
 ## Ettin

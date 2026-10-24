@@ -2,6 +2,8 @@
 aliases: ["Instant Summons"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/InvocacionInstantanea|Invocación instantánea (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Instant Summons

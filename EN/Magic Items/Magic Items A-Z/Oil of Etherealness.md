@@ -2,6 +2,8 @@
 aliases: ["Oil of Etherealness"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AceiteDeEtereidad|Aceite de etereidad (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Etherealness|Etherealness]]"
 ---
 
 ### Oil of Etherealness

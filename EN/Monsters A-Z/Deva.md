@@ -2,6 +2,17 @@
 aliases: ["Deva"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Deva|Deva (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Detect Evil and Good|Detect Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Shapechange|Shapechange]]"
+  - "[[Spells/Spell Descriptions/Commune|Commune]]"
+  - "[[Spells/Spell Descriptions/Raise Dead|Raise Dead]]"
+  - "[[Spells/Spell Descriptions/Aid|Aid]]"
+  - "[[Spells/Spell Descriptions/Cure Wounds|Cure Wounds]]"
+  - "[[Spells/Spell Descriptions/Lesser Restoration|Lesser Restoration]]"
+  - "[[Spells/Spell Descriptions/Remove Curse|Remove Curse]]"
+  - "[[Monsters A-Z/Djinni|Djinni]]"
 ---
 
 ## Deva

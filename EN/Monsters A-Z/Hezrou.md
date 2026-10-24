@@ -2,6 +2,9 @@
 aliases: ["Hezrou"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Hezrou|Hezrou (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Hill Giant|Hill Giant]]"
 ---
 
 ## Hezrou

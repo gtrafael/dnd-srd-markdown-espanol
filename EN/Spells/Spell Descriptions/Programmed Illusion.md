@@ -2,6 +2,9 @@
 aliases: ["Programmed Illusion"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/IlusionProgramada|Ilusión programada (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Programmed Illusion

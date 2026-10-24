@@ -2,6 +2,14 @@
 aliases: ["Cultist Fanatic"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/FanaticoSectario|Fanático sectario (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Cultist|Cultist]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy]]"
+  - "[[Spells/Spell Descriptions/Command|Command]]"
+  - "[[Spells/Spell Descriptions/Hold Person|Hold Person]]"
+  - "[[Spells/Spell Descriptions/Spiritual Weapon|Spiritual Weapon]]"
+  - "[[Monsters A-Z/Darkmantle|Darkmantle]]"
 ---
 
 ## Cultist Fanatic

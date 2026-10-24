@@ -2,6 +2,8 @@
 aliases: ["Adult White Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonBlancoAdulto|Dragón blanco adulto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Fear|Fear]]"
 ---
 
 ## Adult White Dragon

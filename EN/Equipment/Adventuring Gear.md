@@ -2,6 +2,16 @@
 aliases: ["Gear"]
 tags: [srd, english, tag_equipment]
 related_es: "[[Equipo/EquipoDeAventureros|EquipoGeneral (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Magic Items/Magic Items A-Z/Spell Scroll|Spell Scroll]]"
 ---
 
 # Adventuring Gear

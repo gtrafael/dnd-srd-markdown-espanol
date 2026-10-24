@@ -2,6 +2,17 @@
 aliases: ["Locate Creature"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/LocalizarCriatura|Localizar criatura (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Monsters A-Z/Unicorn|Unicorn]]"
+  - "[[Spells/Spell Descriptions/Flesh to Stone|Flesh to Stone]]"
+  - "[[Spells/Spell Descriptions/Polymorph|Polymorph]]"
 ---
 
 ### Locate Creature

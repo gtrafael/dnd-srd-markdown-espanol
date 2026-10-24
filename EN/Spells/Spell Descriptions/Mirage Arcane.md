@@ -2,6 +2,11 @@
 aliases: ["Mirage Arcane"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/EspejismoArcano|Espejismo arcano (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Mirage Arcane

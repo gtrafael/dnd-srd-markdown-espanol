@@ -2,6 +2,9 @@
 aliases: ["Giant Seahorse"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/CaballitoDeMarGigante|Caballito de mar gigante (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
+  - "[[Animals/Seahorse|Seahorse]]"
 ---
 
 ## Giant Seahorse

@@ -2,6 +2,11 @@
 aliases: ["Hallow"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Consagrar|Consagrar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Spells/Spell Descriptions/Darkness|Darkness]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Daylight|Daylight]]"
 ---
 
 ### Hallow

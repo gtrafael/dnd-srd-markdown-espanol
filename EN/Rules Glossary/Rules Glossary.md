@@ -2,6 +2,17 @@
 aliases: ["Rules Glossary"]
 tags: [srd, english, tag_rulesglossary]
 related_es: "[[GlosarioDeReglas/GlosarioDeReglas|Glosario de reglas (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Shield|Shield]]"
+  - "[[Spells/Spell Descriptions/Remove Curse|Remove Curse]]"
+  - "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration]]"
+  - "[[Spells/Spell Descriptions/Raise Dead|Raise Dead]]"
+  - "[[Spells/Spell Descriptions/Revivify|Revivify]]"
+  - "[[Spells/Spell Descriptions/Protection from Evil and Good|Protection from Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Dispel Evil and Good|Dispel Evil and Good]]"
+  - "[[Monsters A-Z/Cultist|Cultist]]"
+  - "[[Monsters A-Z/Zombie|Zombie]]"
+  - "[[Spells/Spell Descriptions/Polymorph|Polymorph]]"
 ---
 
 # Rules Glossary

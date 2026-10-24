@@ -2,6 +2,8 @@
 aliases: ["Bone Devil"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DiabloOseo|Diablo óseo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
 ---
 
 ## Bone Devil

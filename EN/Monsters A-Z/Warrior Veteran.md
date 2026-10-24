@@ -2,6 +2,8 @@
 aliases: ["Warrior Veteran"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GuerreroVeterano|Guerrero veterano (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Water Elemental|Water Elemental]]"
 ---
 
 ## Warrior Veteran

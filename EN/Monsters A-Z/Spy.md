@@ -2,6 +2,8 @@
 aliases: ["Spy"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Espia|Espía (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Stirge|Stirge]]"
 ---
 
 ## Spy

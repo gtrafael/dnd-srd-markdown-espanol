@@ -2,6 +2,9 @@
 aliases: ["Luck Blade"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FiloDeLaFortuna]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
+  - "[[Spells/Spell Descriptions/Wish|Wish]]"
 ---
 
 # Luck Blade

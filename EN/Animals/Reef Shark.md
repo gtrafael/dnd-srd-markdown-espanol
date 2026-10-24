@@ -2,6 +2,8 @@
 aliases: ["Reef Shark"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TiburonDeArrecife|Tiburón de arrecife (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
 ---
 
 ## Reef Shark

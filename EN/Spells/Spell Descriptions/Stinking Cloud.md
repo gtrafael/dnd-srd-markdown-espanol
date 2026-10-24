@@ -2,6 +2,11 @@
 aliases: ["Stinking Cloud"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/NubeApestosa|Nube apestosa (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Gust of Wind|Gust of Wind]]"
 ---
 
 ### Stinking Cloud

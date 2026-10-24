@@ -2,6 +2,10 @@
 aliases: ["Bane"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Perdicion|Perdición (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Warlock|Warlock]]"
 ---
 
 ### Bane

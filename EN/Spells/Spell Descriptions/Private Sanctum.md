@@ -2,6 +2,11 @@
 aliases: ["Private Sanctum"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/SanctasanctorumPrivado|Sanctasanctórum privado (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Darkvision|Darkvision]]"
+  - "[[Spells/Spell Descriptions/Divination|Divination]]"
+  - "[[Spells/Spell Descriptions/Teleport|Teleport]]"
 ---
 
 ### Private Sanctum

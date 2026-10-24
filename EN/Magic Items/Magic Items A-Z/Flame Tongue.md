@@ -2,6 +2,8 @@
 aliases: ["Flame Tongue"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/LenguaDeFuego|Lengua de fuego (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 ### Flame Tongue

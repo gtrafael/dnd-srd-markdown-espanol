@@ -2,6 +2,15 @@
 aliases: ["Ancient Silver Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonDePlataAnciano|Dragón de plata anciano (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Ice Knife|Ice Knife]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Hold Monster|Hold Monster]]"
+  - "[[Spells/Spell Descriptions/Shapechange|Shapechange]]"
+  - "[[Spells/Spell Descriptions/Control Weather|Control Weather]]"
+  - "[[Spells/Spell Descriptions/Ice Storm|Ice Storm]]"
+  - "[[Spells/Spell Descriptions/Teleport|Teleport]]"
+  - "[[Spells/Spell Descriptions/Zone of Truth|Zone of Truth]]"
 ---
 
 ## Ancient Silver Dragon

@@ -2,6 +2,8 @@
 aliases: ["Rogue"]
 tags: [srd, english, tag_classes]
 related_es: "[[Clases/Picaro|Picaro (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Spell Scroll|Spell Scroll]]"
 ---
 
 # Rogue

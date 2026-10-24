@@ -2,6 +2,8 @@
 aliases: ["Rust Monster"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/MonstruoCorrosivo|Monstruo corrosivo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Mending|Mending]]"
 ---
 
 ## Rust Monster

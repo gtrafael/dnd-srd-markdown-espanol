@@ -2,6 +2,11 @@
 aliases: ["Moonbeam"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/RayoDeLuna|Rayo de luna (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Polymorph|Polymorph]]"
 ---
 
 ### Moonbeam

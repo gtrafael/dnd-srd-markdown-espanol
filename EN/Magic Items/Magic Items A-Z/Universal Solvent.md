@@ -2,6 +2,8 @@
 aliases: ["Universal Solvent"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/DisolventeUniversal|Disolvente universal (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Sovereign Glue|Sovereign Glue]]"
 ---
 
 ### Universal Solvent

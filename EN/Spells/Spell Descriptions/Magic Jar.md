@@ -2,6 +2,10 @@
 aliases: ["Magic Jar"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/UrnaMagica|Urna mágica (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Protection from Evil and Good|Protection from Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Magic Circle|Magic Circle]]"
 ---
 
 ### Magic Jar

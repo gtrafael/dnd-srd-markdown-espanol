@@ -2,6 +2,8 @@
 aliases: ["Giant Elk"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/AlceGigante|Alce gigante (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Elk|Elk]]"
 ---
 
 ## Giant Elk

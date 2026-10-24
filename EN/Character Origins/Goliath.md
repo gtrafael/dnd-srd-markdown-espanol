@@ -2,6 +2,13 @@
 aliases: ["Goliath"]
 tags: [srd, english, tag_species]
 related_es: "[[OrigenesDePersonaje/Goliat|Goliat (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Cloud Giant|Cloud Giant]]"
+  - "[[Monsters A-Z/Fire Giant|Fire Giant]]"
+  - "[[Monsters A-Z/Frost Giant|Frost Giant]]"
+  - "[[Monsters A-Z/Hill Giant|Hill Giant]]"
+  - "[[Monsters A-Z/Stone Giant|Stone Giant]]"
+  - "[[Monsters A-Z/Storm Giant|Storm Giant]]"
 ---
 
 # Goliath

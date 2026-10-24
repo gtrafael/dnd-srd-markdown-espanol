@@ -2,6 +2,8 @@
 aliases: ["Fabricate"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Fabricar|Fabricar (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Fabricate

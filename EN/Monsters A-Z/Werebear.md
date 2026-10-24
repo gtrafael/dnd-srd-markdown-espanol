@@ -2,6 +2,8 @@
 aliases: ["Werebear"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/HombreOso|Hombre oso (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Wereboar|Wereboar]]"
 ---
 
 ## Werebear

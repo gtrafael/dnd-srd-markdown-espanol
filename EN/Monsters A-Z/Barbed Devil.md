@@ -2,6 +2,9 @@
 aliases: ["Barbed Devil"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DiabloPunzante|Diablo punzante (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Basilisk|Basilisk]]"
 ---
 
 ## Barbed Devil

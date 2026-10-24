@@ -2,6 +2,17 @@
 aliases: ["Mummy Lord"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/SenorDeLasMomias|Señor de las momias (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Monsters A-Z/Mummy|Mummy]]"
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
+  - "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy]]"
+  - "[[Spells/Spell Descriptions/Animate Dead|Animate Dead]]"
+  - "[[Spells/Spell Descriptions/Harm|Harm]]"
+  - "[[Spells/Spell Descriptions/Insect Plague|Insect Plague]]"
+  - "[[Spells/Spell Descriptions/Command|Command]]"
+  - "[[Monsters A-Z/Nalfeshnee|Nalfeshnee]]"
 ---
 
 ## Mummy Lord

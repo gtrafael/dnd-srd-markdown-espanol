@@ -2,6 +2,15 @@
 aliases: ["Adult Bronze Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonDeBronceAdulto|Dragón de bronce adulto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Guiding Bolt|Guiding Bolt]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Shapechange|Shapechange]]"
+  - "[[Spells/Spell Descriptions/Speak with Animals|Speak with Animals]]"
+  - "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy]]"
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
 ---
 
 ## Adult Bronze Dragon

@@ -2,6 +2,9 @@
 aliases: ["Cubic Gate"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PortalCubico|Portal cúbico (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Gate|Gate]]"
+  - "[[Spells/Spell Descriptions/Plane Shift|Plane Shift]]"
 ---
 
 ### Cubic Gate

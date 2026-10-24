@@ -2,6 +2,13 @@
 aliases: ["Adult Silver Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonDePlataAdulto|Dragón de plata adulto (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Ice Knife|Ice Knife]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Hold Monster|Hold Monster]]"
+  - "[[Spells/Spell Descriptions/Shapechange|Shapechange]]"
+  - "[[Spells/Spell Descriptions/Ice Storm|Ice Storm]]"
+  - "[[Spells/Spell Descriptions/Zone of Truth|Zone of Truth]]"
 ---
 
 ## Adult Silver Dragon

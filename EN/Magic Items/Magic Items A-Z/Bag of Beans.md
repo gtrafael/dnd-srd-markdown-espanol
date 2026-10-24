@@ -2,6 +2,12 @@
 aliases: ["Bag of Beans"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeJudias|Bolsa de judías (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Treant|Treant]]"
+  - "[[Monsters A-Z/Bulette|Bulette]]"
+  - "[[Monsters A-Z/Mummy|Mummy]]"
+  - "[[Monsters A-Z/Mummy Lord|Mummy Lord]]"
+  - "[[Monsters A-Z/Cloud Giant|Cloud Giant]]"
 ---
 
 ### Bag of Beans

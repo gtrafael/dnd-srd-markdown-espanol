@@ -2,6 +2,17 @@
 aliases: ["Spirit Naga"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/NagaEspiritual|Naga espiritual (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Wish|Wish]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Mage Hand|Mage Hand]]"
+  - "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion]]"
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
+  - "[[Spells/Spell Descriptions/Dimension Door|Dimension Door]]"
+  - "[[Spells/Spell Descriptions/Hold Person|Hold Person]]"
+  - "[[Spells/Spell Descriptions/Lightning Bolt|Lightning Bolt]]"
+  - "[[Monsters A-Z/Sprite|Sprite]]"
 ---
 
 ## Spirit Naga

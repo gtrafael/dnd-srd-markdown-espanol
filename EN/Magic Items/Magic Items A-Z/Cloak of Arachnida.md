@@ -2,6 +2,10 @@
 aliases: ["Cloak of Arachnida"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaAracnida|Capa arácnida (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Animals/Spider|Spider]]"
+  - "[[Spells/Spell Descriptions/Web|Web]]"
 ---
 
 ### Cloak of Arachnida

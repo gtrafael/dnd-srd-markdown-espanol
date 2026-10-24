@@ -2,6 +2,9 @@
 aliases: ["Doppelganger"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Doppelganger|Doppelganger (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
+  - "[[Monsters A-Z/Dragon Turtle|Dragon Turtle]]"
 ---
 
 ## Doppelganger

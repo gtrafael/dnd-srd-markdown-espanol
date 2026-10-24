@@ -2,6 +2,8 @@
 aliases: ["Beacon of Hope"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/SenalDeEsperanza|Señal de esperanza (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
 ---
 
 ### Beacon of Hope

@@ -2,6 +2,12 @@
 aliases: ["Lamia"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Lamia|Lamia (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Disguise Self|Disguise Self]]"
+  - "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion]]"
+  - "[[Spells/Spell Descriptions/Geas|Geas]]"
+  - "[[Spells/Spell Descriptions/Major Image|Major Image]]"
+  - "[[Monsters A-Z/Lemure|Lemure]]"
 ---
 
 ## Lamia

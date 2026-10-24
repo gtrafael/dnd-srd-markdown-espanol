@@ -2,6 +2,8 @@
 aliases: ["Sword of Sharpness"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspadaDeHojaAfilada]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon]]"
 ---
 
 # Sword of Sharpness

@@ -2,6 +2,9 @@
 aliases: ["Talisman of Pure Good"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TalismanDelBienPuro|Talismán del bien puro (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Paladin|Paladin]]"
 ---
 
 ### Talisman of Pure Good

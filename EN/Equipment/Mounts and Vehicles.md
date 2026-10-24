@@ -2,6 +2,13 @@
 aliases: ["Transportation"]
 tags: [srd, english, tag_equipment]
 related_es: "[[Equipo/MonturasYVehiculos|Transporte (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Camel|Camel]]"
+  - "[[Animals/Elephant|Elephant]]"
+  - "[[Animals/Mastiff|Mastiff]]"
+  - "[[Animals/Mule|Mule]]"
+  - "[[Animals/Pony|Pony]]"
+  - "[[Animals/Warhorse|Warhorse]]"
 ---
 
 # Mounts and Vehicles

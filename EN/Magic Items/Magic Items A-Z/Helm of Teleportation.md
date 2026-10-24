@@ -2,6 +2,8 @@
 aliases: ["Helm of Teleportation"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/YelmoDeTeletransporte|Yelmo de teletransporte (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Teleport|Teleport]]"
 ---
 
 ### Helm of Teleportation

@@ -2,6 +2,9 @@
 aliases: ["Giant Wolf Spider"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/TarantulaGigante|Tarántula gigante (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Animals/Spider|Spider]]"
 ---
 
 ## Giant Wolf Spider

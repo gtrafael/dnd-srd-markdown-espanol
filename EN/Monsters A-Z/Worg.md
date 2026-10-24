@@ -2,6 +2,8 @@
 aliases: ["Worg"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Huargo|Huargo (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Wraith|Wraith]]"
 ---
 
 ## Worg

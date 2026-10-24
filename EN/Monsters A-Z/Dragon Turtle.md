@@ -2,6 +2,8 @@
 aliases: ["Dragon Turtle"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonTortuga|Dragón tortuga (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Dretch|Dretch]]"
 ---
 
 ## Dragon Turtle

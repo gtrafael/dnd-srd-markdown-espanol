@@ -2,6 +2,14 @@
 aliases: ["Curses and Magical Contagions"]
 tags: [srd, english, tag_gameplay_toolbox]
 related_es: "[[HerramientasDelJuego/MaldicionesYEnfermedadesMagicas|Maldiciones y enfermedades mágicas (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Bestow Curse|Bestow Curse]]"
+  - "[[Spells/Spell Descriptions/Remove Curse|Remove Curse]]"
+  - "[[Monsters A-Z/Mummy|Mummy]]"
+  - "[[Spells/Spell Descriptions/Dispel Evil and Good|Dispel Evil and Good]]"
+  - "[[Spells/Spell Descriptions/Contagion|Contagion]]"
+  - "[[Spells/Spell Descriptions/Heal|Heal]]"
+  - "[[Spells/Spell Descriptions/Lesser Restoration|Lesser Restoration]]"
 ---
 
 # Curses and Magical Contagions

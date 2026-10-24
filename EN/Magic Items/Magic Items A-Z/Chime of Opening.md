@@ -2,6 +2,8 @@
 aliases: ["Chime of Opening"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CarillonDeApertura|Carillón de apertura (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Knock|Knock]]"
 ---
 
 ### Chime of Opening

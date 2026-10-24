@@ -2,6 +2,8 @@
 aliases: ["Balor"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Balor|Balor (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
 ---
 
 ## Balor

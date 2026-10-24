@@ -2,6 +2,14 @@
 aliases: ["Ancient Black Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonNegroAnciano|Dragón negro anciano (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Acid Arrow|Acid Arrow]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Fear|Fear]]"
+  - "[[Spells/Spell Descriptions/Create Undead|Create Undead]]"
+  - "[[Spells/Spell Descriptions/Speak with Dead|Speak with Dead]]"
+  - "[[Spells/Spell Descriptions/Vitriolic Sphere|Vitriolic Sphere]]"
+  - "[[Monsters A-Z/Black Pudding|Black Pudding]]"
 ---
 
 ## Ancient Black Dragon

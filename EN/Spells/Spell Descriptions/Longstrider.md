@@ -2,6 +2,12 @@
 aliases: ["Longstrider"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/ZancadaProdigiosa|Zancada prodigiosa (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Longstrider

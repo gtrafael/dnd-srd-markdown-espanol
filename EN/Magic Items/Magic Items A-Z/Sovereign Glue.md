@@ -2,6 +2,11 @@
 aliases: ["Sovereign Glue"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PegamentoSoberano|Pegamento soberano (Español)]]"
+wikilinks_auto:
+  - "[[Magic Items/Magic Items A-Z/Oil of Slipperiness|Oil of Slipperiness]]"
+  - "[[Magic Items/Magic Items A-Z/Universal Solvent|Universal Solvent]]"
+  - "[[Magic Items/Magic Items A-Z/Oil of Etherealness|Oil of Etherealness]]"
+  - "[[Spells/Spell Descriptions/Wish|Wish]]"
 ---
 
 ### Sovereign Glue

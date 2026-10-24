@@ -2,6 +2,9 @@
 aliases: ["Amulet of Proof against Detection and Location"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AmuletoAPruebaDeDeteccionYLocalizacion|Amuleto a prueba de detección y localización (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Divination|Divination]]"
+  - "[[Spells/Spell Descriptions/Scrying|Scrying]]"
 ---
 
 ### Amulet of Proof against Detection and Location

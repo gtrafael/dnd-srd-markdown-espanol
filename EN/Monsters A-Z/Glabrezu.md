@@ -2,6 +2,15 @@
 aliases: ["Glabrezu"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Glabrezu|Glabrezu (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Spells/Spell Descriptions/Darkness|Darkness]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
+  - "[[Spells/Spell Descriptions/Confusion|Confusion]]"
+  - "[[Spells/Spell Descriptions/Fly|Fly]]"
+  - "[[Spells/Spell Descriptions/Power Word Stun|Power Word Stun]]"
+  - "[[Monsters A-Z/Gladiator|Gladiator]]"
 ---
 
 ## Glabrezu

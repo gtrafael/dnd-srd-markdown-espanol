@@ -2,6 +2,10 @@
 aliases: ["Black Pudding"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/PudinNegro|Pudin negro (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Mending|Mending]]"
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Monsters A-Z/Blink Dog|Blink Dog]]"
 ---
 
 ## Black Pudding

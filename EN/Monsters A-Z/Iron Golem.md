@@ -2,6 +2,9 @@
 aliases: ["Iron Golem"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/GolemDeHierro|Gólem de hierro (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Knight|Knight]]"
 ---
 
 ## Iron Golem

@@ -2,6 +2,10 @@
 aliases: ["Succubus"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Sucubo|Súcubo (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Incubus|Incubus]]"
+  - "[[Spells/Spell Descriptions/Dominate Person|Dominate Person]]"
+  - "[[Monsters A-Z/Tarrasque|Tarrasque]]"
 ---
 
 ## Succubus

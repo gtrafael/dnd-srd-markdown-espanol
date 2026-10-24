@@ -2,6 +2,8 @@
 aliases: ["Basilisk"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Basilisco|Basilisco (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Bearded Devil|Bearded Devil]]"
 ---
 
 ## Basilisk

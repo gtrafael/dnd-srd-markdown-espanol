@@ -2,6 +2,9 @@
 aliases: ["Alarm"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Alarma|Alarma (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Alarm

@@ -2,6 +2,12 @@
 aliases: ["Traps"]
 tags: [srd, english, tag_gamemastering]
 related_es: "[[HerramientasDelJuego/Trampas|Trampas (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Arcane Lock|Arcane Lock]]"
+  - "[[Spells/Spell Descriptions/Spider Climb|Spider Climb]]"
+  - "[[Spells/Spell Descriptions/Knock|Knock]]"
 ---
 
 # Traps

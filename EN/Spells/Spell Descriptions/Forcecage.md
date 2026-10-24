@@ -2,6 +2,11 @@
 aliases: ["Forcecage"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/JaulaDeFuerza|Jaula de fuerza (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Warlock|Warlock]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
 ---
 
 ### Forcecage

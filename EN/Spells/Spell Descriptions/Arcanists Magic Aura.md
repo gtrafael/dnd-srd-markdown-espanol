@@ -2,6 +2,9 @@
 aliases: ["Arcanists Magic Aura"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/AuraMagicaDeArcanista|Aura mágica de arcanista (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
 ---
 
 ### Arcanist’s Magic Aura

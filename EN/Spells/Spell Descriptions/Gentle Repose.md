@@ -2,6 +2,11 @@
 aliases: ["Gentle Repose"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DulceDescanso|Dulce descanso (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Paladin|Paladin]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Raise Dead|Raise Dead]]"
 ---
 
 ### Gentle Repose

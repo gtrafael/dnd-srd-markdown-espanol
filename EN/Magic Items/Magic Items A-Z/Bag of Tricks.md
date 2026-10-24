@@ -2,6 +2,31 @@
 aliases: ["Bag of Tricks"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeTrucos|Bolsa de trucos (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Weasel|Weasel]]"
+  - "[[Animals/Giant Rat|Giant Rat]]"
+  - "[[Animals/Badger|Badger]]"
+  - "[[Animals/Boar|Boar]]"
+  - "[[Animals/Panther|Panther]]"
+  - "[[Animals/Giant Badger|Giant Badger]]"
+  - "[[Animals/Dire Wolf|Dire Wolf]]"
+  - "[[Animals/Giant Elk|Giant Elk]]"
+  - "[[Animals/Rat|Rat]]"
+  - "[[Animals/Owl|Owl]]"
+  - "[[Animals/Mastiff|Mastiff]]"
+  - "[[Animals/Goat|Goat]]"
+  - "[[Animals/Giant Goat|Giant Goat]]"
+  - "[[Animals/Giant Boar|Giant Boar]]"
+  - "[[Animals/Lion|Lion]]"
+  - "[[Animals/Brown Bear|Brown Bear]]"
+  - "[[Animals/Jackal|Jackal]]"
+  - "[[Animals/Ape|Ape]]"
+  - "[[Animals/Baboon|Baboon]]"
+  - "[[Monsters A-Z/Axe Beak|Axe Beak]]"
+  - "[[Animals/Black Bear|Black Bear]]"
+  - "[[Animals/Giant Weasel|Giant Weasel]]"
+  - "[[Animals/Giant Hyena|Giant Hyena]]"
+  - "[[Animals/Tiger|Tiger]]"
 ---
 
 ### Bag of Tricks

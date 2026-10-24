@@ -2,6 +2,8 @@
 aliases: ["Hunters Mark"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/MarcaDelCazador|Marca del cazador (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Ranger|Ranger]]"
 ---
 
 ### Hunter’s Mark

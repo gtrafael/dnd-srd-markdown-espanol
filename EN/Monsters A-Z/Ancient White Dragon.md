@@ -2,6 +2,9 @@
 aliases: ["Ancient White Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/DragonBlancoAnciano|Dragón blanco anciano (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Fear|Fear]]"
+  - "[[Monsters A-Z/Wight|Wight]]"
 ---
 
 ## Ancient White Dragon

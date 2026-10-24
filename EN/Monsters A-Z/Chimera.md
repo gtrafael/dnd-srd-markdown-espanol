@@ -2,6 +2,8 @@
 aliases: ["Chimera"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Quimera|Quimera (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Chuul|Chuul]]"
 ---
 
 ## Chimera

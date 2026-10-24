@@ -2,6 +2,9 @@
 aliases: ["Contingency"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Contingencia|Contingencia (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
 ---
 
 ### Contingency

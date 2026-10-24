@@ -2,6 +2,8 @@
 aliases: ["Octopus"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/Pulpo|Pulpo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Water Breathing|Water Breathing]]"
 ---
 
 ## Octopus

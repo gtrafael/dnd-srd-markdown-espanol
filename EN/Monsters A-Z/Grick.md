@@ -2,6 +2,8 @@
 aliases: ["Grick"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Grick|Grick (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Griffon|Griffon]]"
 ---
 
 ## Grick

@@ -2,6 +2,8 @@
 aliases: ["Hex"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Maleficio|Maleficio (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Warlock|Warlock]]"
 ---
 
 ### Hex

@@ -2,6 +2,8 @@
 aliases: ["Hat of Disguise"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/SombreroDeDisfraz|Sombrero de disfraz (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Disguise Self|Disguise Self]]"
 ---
 
 ### Hat of Disguise

@@ -2,6 +2,11 @@
 aliases: ["Gnome"]
 tags: [srd, english, tag_species]
 related_es: "[[OrigenesDePersonaje/Gnomo|Gnomo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion]]"
+  - "[[Spells/Spell Descriptions/Speak with Animals|Speak with Animals]]"
+  - "[[Spells/Spell Descriptions/Mending|Mending]]"
+  - "[[Spells/Spell Descriptions/Prestidigitation|Prestidigitation]]"
 ---
 
 # Gnome

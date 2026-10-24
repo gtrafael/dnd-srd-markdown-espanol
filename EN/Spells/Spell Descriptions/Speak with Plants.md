@@ -2,6 +2,12 @@
 aliases: ["Speak with Plants"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/HablarConLasPlantas|Hablar con las plantas (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Spells/Spell Descriptions/Plant Growth|Plant Growth]]"
 ---
 
 ### Speak with Plants

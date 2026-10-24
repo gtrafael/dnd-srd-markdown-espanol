@@ -2,6 +2,9 @@
 aliases: ["Character Backgrounds", "Backgrounds"]
 tags: [srd, english, tag_character_origins]
 related_es: "[[OrigenesDePersonaje/TrasfondosDePersonaje|Trasfondos de personaje (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 # Character Backgrounds

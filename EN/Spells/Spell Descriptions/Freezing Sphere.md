@@ -2,6 +2,9 @@
 aliases: ["Freezing Sphere"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/EsferaCongelante|Esfera congelante (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
 ---
 
 ### Freezing Sphere

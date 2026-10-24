@@ -2,6 +2,9 @@
 aliases: ["Oil of Slipperiness"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AceiteEscurridizo|Aceite escurridizo (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Freedom of Movement|Freedom of Movement]]"
+  - "[[Spells/Spell Descriptions/Grease|Grease]]"
 ---
 
 ### Oil of Slipperiness

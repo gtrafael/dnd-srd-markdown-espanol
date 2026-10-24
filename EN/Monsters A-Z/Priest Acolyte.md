@@ -2,6 +2,15 @@
 aliases: ["Priest Acolyte"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/SacerdoteAcolito|Sacerdote acólito (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Monsters A-Z/Priest|Priest]]"
+  - "[[Spells/Spell Descriptions/Light|Light]]"
+  - "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy]]"
+  - "[[Spells/Spell Descriptions/Aid|Aid]]"
+  - "[[Spells/Spell Descriptions/Bless|Bless]]"
+  - "[[Spells/Spell Descriptions/Healing Word|Healing Word]]"
+  - "[[Spells/Spell Descriptions/Sanctuary|Sanctuary]]"
 ---
 
 ## Priest Acolyte

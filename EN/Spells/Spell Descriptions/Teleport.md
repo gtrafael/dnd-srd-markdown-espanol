@@ -2,6 +2,11 @@
 aliases: ["Teleport"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/Teletransporte|Teletransporte (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Bard|Bard]]"
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Teleportation Circle|Teleportation Circle]]"
 ---
 
 ### Teleport

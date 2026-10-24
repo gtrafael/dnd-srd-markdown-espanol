@@ -2,6 +2,9 @@
 aliases: ["Half-Dragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Semidragon|Semidragón (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Dragons Breath|Dragon’s Breath]]"
+  - "[[Monsters A-Z/Harpy|Harpy]]"
 ---
 
 ## Half-Dragon

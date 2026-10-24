@@ -2,6 +2,8 @@
 aliases: ["Robe of Stars"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TunicaDeLasEstrellas|Túnica de las estrellas (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Magic Missile|Magic Missile]]"
 ---
 
 ### Robe of Stars

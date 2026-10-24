@@ -2,6 +2,8 @@
 aliases: ["Ensnaring Strike"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/GolpeApresador|Golpe apresador (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Ranger|Ranger]]"
 ---
 
 ### Ensnaring Strike

@@ -2,6 +2,8 @@
 aliases: ["Giant Rat"]
 tags: [srd, english, tag_animals]
 related_es: "[[Animales/RataGigante|Rata gigante (Español)]]"
+wikilinks_auto:
+  - "[[Animals/Rat|Rat]]"
 ---
 
 ## Giant Rat

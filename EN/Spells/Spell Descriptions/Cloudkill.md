@@ -2,6 +2,10 @@
 aliases: ["Cloudkill"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/NubeAniquiladora|Nube aniquiladora (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Sorcerer|Sorcerer]]"
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Gust of Wind|Gust of Wind]]"
 ---
 
 ### Cloudkill

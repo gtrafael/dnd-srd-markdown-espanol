@@ -2,6 +2,9 @@
 aliases: ["Wight"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Tumulario|Tumulario (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Zombie|Zombie]]"
+  - "[[Monsters A-Z/Will-o-Wisp|Will-o’-Wisp]]"
 ---
 
 ## Wight

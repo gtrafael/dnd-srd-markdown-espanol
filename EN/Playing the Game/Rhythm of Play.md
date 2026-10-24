@@ -2,6 +2,8 @@
 aliases: ["Rhythm of Play"]
 tags: [srd, english, tag_gameplay]
 related_es: "[[ComoJugar/ElRitmoDeJuego|El ritmo de juego (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Noble|Noble]]"
 ---
 
 # Rhythm of Play

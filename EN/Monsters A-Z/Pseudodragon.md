@@ -2,6 +2,9 @@
 aliases: ["Pseudodragon"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Pseudodragon|Pseudodragón (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Resistance|Resistance]]"
+  - "[[Monsters A-Z/Purple Worm|Purple Worm]]"
 ---
 
 ## Pseudodragon

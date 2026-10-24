@@ -2,6 +2,13 @@
 aliases: ["Cube of Force"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CuboDeFuerza|Cubo de fuerza (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Mage Armor|Mage Armor]]"
+  - "[[Spells/Spell Descriptions/Shield|Shield]]"
+  - "[[Spells/Spell Descriptions/Tiny Hut|Tiny Hut]]"
+  - "[[Spells/Spell Descriptions/Private Sanctum|Private Sanctum]]"
+  - "[[Spells/Spell Descriptions/Resilient Sphere|Resilient Sphere]]"
+  - "[[Spells/Spell Descriptions/Wall of Force|Wall of Force]]"
 ---
 
 ### Cube of Force

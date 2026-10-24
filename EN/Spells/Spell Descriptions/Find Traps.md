@@ -2,6 +2,13 @@
 aliases: ["Find Traps"]
 tags: [srd, english, tag_spells]
 related_es: "[[Conjuros/DescripcionesDeConjuros/DetectarTrampas|Detectar trampas (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Cleric|Cleric]]"
+  - "[[Classes/Druid|Druid]]"
+  - "[[Monsters A-Z/Druid|Druid]]"
+  - "[[Classes/Ranger|Ranger]]"
+  - "[[Spells/Spell Descriptions/Alarm|Alarm]]"
+  - "[[Spells/Spell Descriptions/Glyph of Warding|Glyph of Warding]]"
 ---
 
 ### Find Traps

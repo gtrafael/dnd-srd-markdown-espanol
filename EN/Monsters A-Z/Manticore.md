@@ -2,6 +2,8 @@
 aliases: ["Manticore"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Manticora|Mantícora (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Marilith|Marilith]]"
 ---
 
 ## Manticore

@@ -2,6 +2,8 @@
 aliases: ["Bowl of Commanding Water Elementals"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CuencoParaControlarElementalesDeAgua|Cuenco para controlar elementales de agua (Español)]]"
+wikilinks_auto:
+  - "[[Monsters A-Z/Water Elemental|Water Elemental]]"
 ---
 
 ### Bowl of Commanding Water Elementals

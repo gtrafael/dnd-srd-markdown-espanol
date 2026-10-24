@@ -2,6 +2,8 @@
 aliases: ["Iron Flask"]
 tags: [srd, english, tag_treasure]
 related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FrascoDeHierro|Frasco de hierro (Español)]]"
+wikilinks_auto:
+  - "[[Spells/Spell Descriptions/Identify|Identify]]"
 ---
 
 ### Iron Flask

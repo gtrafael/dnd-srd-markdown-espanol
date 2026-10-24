@@ -2,6 +2,24 @@
 aliases: ["Lich"]
 tags: [srd, english, tag_monsters]
 related_es: "[[MonstruosDeLaAALaZ/Liche|Liche (Español)]]"
+wikilinks_auto:
+  - "[[Classes/Wizard|Wizard]]"
+  - "[[Spells/Spell Descriptions/Detect Magic|Detect Magic]]"
+  - "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts]]"
+  - "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic]]"
+  - "[[Spells/Spell Descriptions/Fireball|Fireball]]"
+  - "[[Spells/Spell Descriptions/Invisibility|Invisibility]]"
+  - "[[Spells/Spell Descriptions/Lightning Bolt|Lightning Bolt]]"
+  - "[[Spells/Spell Descriptions/Mage Hand|Mage Hand]]"
+  - "[[Spells/Spell Descriptions/Animate Dead|Animate Dead]]"
+  - "[[Spells/Spell Descriptions/Dimension Door|Dimension Door]]"
+  - "[[Spells/Spell Descriptions/Plane Shift|Plane Shift]]"
+  - "[[Spells/Spell Descriptions/Chain Lightning|Chain Lightning]]"
+  - "[[Spells/Spell Descriptions/Finger of Death|Finger of Death]]"
+  - "[[Spells/Spell Descriptions/Power Word Kill|Power Word Kill]]"
+  - "[[Spells/Spell Descriptions/Counterspell|Counterspell]]"
+  - "[[Spells/Spell Descriptions/Shield|Shield]]"
+  - "[[Spells/Spell Descriptions/Fear|Fear]]"
 ---
 
 ## Lich
