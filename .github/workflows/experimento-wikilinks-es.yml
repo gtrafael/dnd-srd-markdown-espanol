@@ -166,6 +166,30 @@ jobs:
           print("OK: los conjuros/spells de una palabra exigen contexto en ES y EN.")
           PY
 
+      - name: Validar enlaces conjuro-clase
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          def frontmatter(path):
+              text = Path(path).read_text(encoding="utf-8")
+              match = re.match(r"^---\r?\n([\s\S]*?)\r?\n---", text)
+              assert match, path
+              return match.group(1)
+
+          es = frontmatter("ES/Conjuros/DescripcionesDeConjuros/BolaDeFuego.md")
+          assert "[[Clases/Hechicero|Hechicero]]" in es
+          assert "[[Clases/Mago|Mago]]" in es
+
+          en = frontmatter("EN/Spells/Spell Descriptions/Fireball.md")
+          assert "[[Classes/Sorcerer|Sorcerer]]" in en
+          assert "[[Classes/Wizard|Wizard]]" in en
+
+          print("OK: los conjuros enlazan a sus clases declaradas en ES y EN.")
+          PY
+
       - name: Validar invariantes
         shell: bash
         run: |
