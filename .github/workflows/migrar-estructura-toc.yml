@@ -54,3 +54,5 @@ jobs:
           git add -A ES EN scripts
           git commit -m "refactor: alinear estructura canónica con el TOC"
           git push origin HEAD:migration/toc-canonical
+
+# reintento tras ajustar validación de descendientes
