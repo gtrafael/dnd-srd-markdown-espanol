@@ -338,6 +338,103 @@ def iter_target_notes(es_root: Path):
         yield path
 
 
+def is_single_word_spell(concept: Concept) -> bool:
+    return concept.kind == "conjuro" and not re.search(r"\s", concept.title)
+
+
+def split_table_cells(line: str) -> list[str]:
+    stripped = line.strip()
+    if not stripped.startswith("|"):
+        return []
+    return [
+        cell.strip()
+        for cell in stripped.strip("|").split("|")
+    ]
+
+
+def is_table_separator(cells: list[str]) -> bool:
+    return bool(cells) and all(
+        re.fullmatch(r":?-{3,}:?", cell.replace(" ", ""))
+        for cell in cells
+    )
+
+
+def table_headers_by_line(lines: list[str]) -> dict[int, list[str]]:
+    """Asocia cada fila de datos Markdown con las cabeceras de su tabla."""
+    headers_by_line: dict[int, list[str]] = {}
+    current_headers: list[str] | None = None
+    in_table = False
+
+    for index, line in enumerate(lines):
+        cells = split_table_cells(line)
+
+        if not cells:
+            current_headers = None
+            in_table = False
+            continue
+
+        if not in_table:
+            current_headers = cells
+            in_table = True
+            continue
+
+        if is_table_separator(cells):
+            continue
+
+        if current_headers is not None:
+            headers_by_line[index] = current_headers
+
+    return headers_by_line
+
+
+def table_cell_index(line: str, position: int) -> int | None:
+    """Devuelve la columna Markdown que contiene una posición de la línea."""
+    if not line.lstrip().startswith("|"):
+        return None
+
+    # En tablas del repositorio las filas empiezan por "|". Cada separador
+    # anterior al match incrementa el índice de columna.
+    prefix = line[:position]
+    index = prefix.count("|") - 1
+    return index if index >= 0 else None
+
+
+SPELL_PROSE_CONTEXT = re.compile(
+    r"(?i)\b(?:"
+    r"conjuro|conjuros|"
+    r"truco|trucos|"
+    r"lanzar|lance|lances|lanzado|lanzada|lanzados|lanzadas|lanzando|"
+    r"preparar|preparas|prepara|preparado|preparada|preparados|preparadas|"
+    r"aprender|aprendes|aprende|aprendido|aprendida|aprendidos|aprendidas"
+    r")\b"
+)
+
+
+def single_word_spell_has_context(
+    line: str,
+    line_index: int,
+    match: re.Match[str],
+    headers_by_line: dict[int, list[str]],
+) -> bool:
+    """Exige evidencia explícita para conjuros cuyo nombre es una sola palabra."""
+    headers = headers_by_line.get(line_index)
+
+    if headers is not None:
+        column = table_cell_index(line, match.start())
+        if column is None or column >= len(headers):
+            return False
+
+        header = normalized(headers[column])
+        return "conjuro" in header or "truco" in header
+
+    # En prosa se usa una ventana local para evitar que la palabra "conjuro"
+    # en otro extremo de un párrafo largo legitime una coincidencia accidental.
+    start = max(0, match.start() - 120)
+    end = min(len(line), match.end() + 120)
+    context = line[start:end]
+    return bool(SPELL_PROSE_CONTEXT.search(context))
+
+
 def detect_links(
     note_path: Path,
     markdown: str,
@@ -350,24 +447,44 @@ def detect_links(
     links: list[str] = []
     seen: set[str] = set()
 
-    for match in matcher.finditer(searchable_body(markdown)):
-        key = normalized(match.group(1))
+    text = searchable_body(markdown)
+    lines = text.splitlines()
+    headers_by_line = table_headers_by_line(lines)
 
-        # Los bloqueadores participan en el mismo longest-match que las
-        # entidades, pero consumen el intervalo sin producir ninguna arista.
-        if key in blockers:
-            continue
+    for line_index, line in enumerate(lines):
+        for match in matcher.finditer(line):
+            key = normalized(match.group(1))
 
-        for concept in catalog.get(key, []):
-            if concept.path == current:
+            # Los bloqueadores participan en el mismo longest-match que las
+            # entidades, pero consumen el intervalo sin producir ninguna arista.
+            if key in blockers:
                 continue
 
-            wikilink = concept.wikilink
-            if wikilink in seen:
-                continue
+            for concept in catalog.get(key, []):
+                if concept.path == current:
+                    continue
 
-            seen.add(wikilink)
-            links.append(wikilink)
+                # Los conjuros de una sola palabra son especialmente ambiguos
+                # con vocabulario ordinario ("luz", "resistencia", "dormir",
+                # "escudo"...). Solo se enlazan con evidencia estructural o
+                # léxica de que el texto está hablando de un conjuro.
+                if (
+                    is_single_word_spell(concept)
+                    and not single_word_spell_has_context(
+                        line,
+                        line_index,
+                        match,
+                        headers_by_line,
+                    )
+                ):
+                    continue
+
+                wikilink = concept.wikilink
+                if wikilink in seen:
+                    continue
+
+                seen.add(wikilink)
+                links.append(wikilink)
 
     return links
 
