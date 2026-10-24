@@ -2,13 +2,16 @@
 """Genera wikilinks automáticos deterministas en las bóvedas ES y EN.
 
 Principios:
+- wikilinks_auto representa menciones textuales desambiguadas, no relaciones
+  reglísticas fuertes;
 - solo enlaza a notas físicas que ya representan una entidad;
 - nunca crea notas auxiliares;
 - nunca modifica el cuerpo Markdown;
 - excluye índices, carpetas (Alt) y notas contenedoras como destinos;
 - resuelve primero la coincidencia textual más larga;
 - conserva todos los destinos cuando dos entidades reales comparten nombre;
-- protege los conjuros/spells de una sola palabra mediante contexto.
+- protege los conjuros/spells de una sola palabra mediante contexto;
+- no filtra menciones por importancia o relevancia semántica.
 """
 
 from __future__ import annotations
