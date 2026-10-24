@@ -166,6 +166,48 @@ jobs:
           print("OK: los conjuros/spells de una palabra exigen contexto en ES y EN.")
           PY
 
+      - name: Validar simetría de objetos mágicos
+        shell: bash
+        run: |
+          python - <<'PY'
+          import importlib.util
+          import sys
+          from pathlib import Path
+
+          script = Path("scripts/generar_wikilinks.py")
+          spec = importlib.util.spec_from_file_location("wikilinks", script)
+          module = importlib.util.module_from_spec(spec)
+          sys.modules[spec.name] = module
+          spec.loader.exec_module(module)
+
+          checks = {
+              "ES": Path("ES/ObjetosMagicos/ObjetosMagicosDeLaAALaZ"),
+              "EN": Path("EN/Magic Items/Magic Items A-Z"),
+          }
+
+          for language, folder in checks.items():
+              catalog = module.build_catalog(Path(language), language)
+              detected = sum(
+                  1
+                  for concepts in catalog.values()
+                  for concept in concepts
+                  if concept.kind == "magic_item"
+              )
+              physical = sum(
+                  1
+                  for path in folder.rglob("*.md")
+                  if not module.is_index(path.relative_to(Path(language)))
+                  and not module.is_alt_path(path.relative_to(Path(language)))
+              )
+              assert detected == physical, (
+                  language,
+                  detected,
+                  physical,
+              )
+
+          print("OK: todos los objetos mágicos físicos se detectan en ES y EN.")
+          PY
+
       - name: Validar enlaces conjuro-clase
         shell: bash
         run: |
