@@ -37,11 +37,12 @@ que todas las entidades sean H1.
 Los nombres se ordenan de mayor a menor longitud. Además, encabezados
 estructurales pueden actuar como bloqueadores sin convertirse en nodos.
 
-Ejemplos equivalentes:
+Ejemplos:
 
 - ES: "paquete de explorador" bloquea Explorador dentro de esa frase;
-- EN: "Explorer's Pack" bloquea Ranger dentro de esa frase si la expresión
-  estructural contiene el nombre de entidad correspondiente.
+- EN: el mismo mecanismo se aplica cuando una expresión estructural contiene
+  literalmente el nombre de otra entidad. No se fuerza una equivalencia
+  semántica entre "Explorer" y "Ranger", porque son palabras distintas.
 
 Los prefijos mecánicos "Nivel N:" y "Level N:" se eliminan al crear variantes de
 bloqueo, igual que sufijos entre paréntesis como precios.
@@ -118,3 +119,44 @@ La v3.1 añadió contexto para conjuros de una sola palabra.
 
 La siguiente evolución extiende la misma arquitectura a EN sin duplicar el
 motor ni introducir reglas paralelas.
+
+
+## Resultado bilingüe estable
+
+Tras la primera regeneración completa ES-EN:
+
+- ES conserva exactamente su comportamiento anterior:
+  - 861 entidades;
+  - 859 títulos;
+  - 193 bloqueadores;
+  - 2 homónimos reales: Druida y Mago;
+  - 3636 wikilinks.
+- EN genera:
+  - 939 entidades;
+  - 938 títulos;
+  - 200 bloqueadores;
+  - 1 homónimo real: Druid clase y Druid monstruo;
+  - 3247 wikilinks.
+
+Distribución EN:
+
+- 12 classes;
+- 95 animals;
+- 339 spells;
+- 235 monsters;
+- 258 magic items.
+
+La primera ejecución añadió o actualizó wikilinks_auto en 699 notas EN. Una
+segunda ejecución consecutiva produjo 0 cambios, por lo que la generación
+bilingüe es idempotente.
+
+## Relaciones spell-clase
+
+Las clases declaradas en la cabecera de cada spell se detectan como entidades
+normales del mismo idioma. Por ejemplo:
+
+- Bola de fuego enlaza a Hechicero y Mago;
+- Fireball enlaza a Sorcerer y Wizard.
+
+El workflow contiene una prueba explícita para conservar estas relaciones en
+ambos idiomas.
