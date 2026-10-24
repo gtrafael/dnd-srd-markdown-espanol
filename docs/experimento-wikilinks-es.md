@@ -23,7 +23,7 @@ Se reconocen:
 - animales/animals y monstruos/monsters por sus bloques de estadísticas;
 - conjuros/spells por sus cuatro campos de lanzamiento;
 - dotes/feats si existe una nota física individual con firma de dote;
-- objetos mágicos/magic items por su estructura y rareza.
+- objetos mágicos/magic items por pertenecer a sus carpetas canónicas A-Z, donde cada nota física representa una entidad.
 
 Los índices, carpetas (Alt) y notas contenedoras no son destinos.
 
