@@ -78,7 +78,7 @@ jobs:
           assert len(explorer) == 1, both
 
           en_links = setup("EN")
-          mage_armor = en_links("The mage casts Mage Armor.")
+          mage_armor = en_links("Mage Armor protects the target.")
           assert any("|Mage Armor]]" in link for link in mage_armor), mage_armor
           assert not any("Monsters A-Z/Mage|" in link for link in mage_armor), mage_armor
 
