@@ -1,9 +1,3 @@
----
-aliases: ["Hippogriff"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Hipogrifo|Hipogrifo (Español)]]"
----
-
 ## Hippogriff
 
 *Large Monstrosity, Unaligned*

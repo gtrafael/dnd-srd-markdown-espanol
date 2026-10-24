@@ -1,9 +1,3 @@
----
-aliases: ["Silent Image"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ImagenSilenciosa|Imagen silenciosa (Español)]]"
----
-
 ### Silent Image
 
 *Level 1 Illusion* (Bard, Sorcerer, Wizard)

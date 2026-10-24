@@ -1,9 +1,3 @@
----
-aliases: ["Prestidigitación", "Prestidigitation"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Prestidigitation|Prestidigitation (EN)]]"
----
-
 # Prestidigitación
 
 *Truco de transmutación (bardo, brujo, hechicero, mago)*

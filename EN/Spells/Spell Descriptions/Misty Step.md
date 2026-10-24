@@ -1,9 +1,3 @@
----
-aliases: ["Misty Step"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PasoBrumoso|Paso brumoso (Español)]]"
----
-
 ### Misty Step
 
 *Level 2 Conjuration* (Sorcerer, Warlock, Wizard)

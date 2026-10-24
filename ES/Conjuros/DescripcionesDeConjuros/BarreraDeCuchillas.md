@@ -1,9 +1,3 @@
----
-aliases: ["Barrera de cuchillas", "Blade Barrier"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Blade Barrier|Blade Barrier (EN)]]"
----
-
 # Barrera de cuchillas
 
 *Evocación de nivel 6 (clérigo)*

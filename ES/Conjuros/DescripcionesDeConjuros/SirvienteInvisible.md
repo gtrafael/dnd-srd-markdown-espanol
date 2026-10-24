@@ -1,9 +1,3 @@
----
-aliases: ["Sirviente invisible", "Unseen Servant"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Unseen Servant|Unseen Servant (EN)]]"
----
-
 # Sirviente invisible
 
 *Conjuración de nivel 1 (bardo, brujo, mago)*

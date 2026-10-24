@@ -1,9 +1,3 @@
----
-aliases: ["Dretch"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Dretch|Dretch (EN)]]"
----
-
 # Dretch
 
 *Infernal Pequeño (demonio), caótico malvado*

@@ -1,9 +1,3 @@
----
-aliases: ["Tarántula gigante", "Giant Wolf Spider"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Wolf Spider|Giant Wolf Spider (EN)]]"
----
-
 # Tarántula gigante
 
 *Bestia Mediana, sin alineamiento*

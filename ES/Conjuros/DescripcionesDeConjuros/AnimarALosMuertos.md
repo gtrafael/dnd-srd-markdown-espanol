@@ -1,9 +1,3 @@
----
-aliases: ["Animar a los muertos", "Animate Dead"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Animate Dead|Animate Dead (EN)]]"
----
-
 # Animar a los muertos
 
 *Nigromancia de nivel 3 (clérigo, mago)*

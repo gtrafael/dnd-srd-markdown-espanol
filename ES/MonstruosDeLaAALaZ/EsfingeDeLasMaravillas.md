@@ -1,9 +1,3 @@
----
-aliases: ["Esfinge de las maravillas", "Sphinx of Wonder"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Sphinx of Wonder|Sphinx of Wonder (EN)]]"
----
-
 # Esfinge de las maravillas
 
 *Celestial Diminuto, legal bueno*

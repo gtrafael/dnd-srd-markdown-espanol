@@ -1,9 +1,3 @@
----
-aliases: ["Goliath"]
-tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/Goliat|Goliat (Español)]]"
----
-
 # Goliath
 
 **Creature Type:** Humanoid

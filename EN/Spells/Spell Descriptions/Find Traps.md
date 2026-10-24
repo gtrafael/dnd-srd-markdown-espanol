@@ -1,9 +1,3 @@
----
-aliases: ["Find Traps"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/DetectarTrampas|Detectar trampas (Español)]]"
----
-
 ### Find Traps
 
 *Level 2 Divination* (Cleric, Druid, Ranger)

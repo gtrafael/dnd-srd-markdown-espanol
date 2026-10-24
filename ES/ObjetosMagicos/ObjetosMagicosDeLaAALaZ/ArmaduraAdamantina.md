@@ -1,9 +1,3 @@
----
-aliases: ["Armadura adamantina", "Adamantine Armor"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Adamantine Armor|Adamantine Armor (EN)]]"
----
-
 # Armadura adamantina
 
 *Armadura (cualquier armadura media o pesada, salvo armadura de pieles), infrecuente*

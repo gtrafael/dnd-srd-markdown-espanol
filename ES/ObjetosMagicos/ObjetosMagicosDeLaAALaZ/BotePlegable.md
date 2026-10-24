@@ -1,9 +1,3 @@
----
-aliases: ["Bote plegable", "Folding Boat"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Folding Boat|Folding Boat (EN)]]"
----
-
 # Bote plegable
 
 *Objeto maravilloso, raro*

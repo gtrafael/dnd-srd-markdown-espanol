@@ -1,9 +1,3 @@
----
-aliases: ["Unseen Servant"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/SirvienteInvisible|Sirviente invisible (Español)]]"
----
-
 ### Unseen Servant
 
 *Level 1 Conjuration* (Bard, Warlock, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Maze"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Laberinto|Laberinto (Español)]]"
----
-
 ### Maze
 
 *Level 8 Conjuration* (Wizard)

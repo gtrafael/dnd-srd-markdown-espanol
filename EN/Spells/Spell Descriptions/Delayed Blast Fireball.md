@@ -1,9 +1,3 @@
----
-aliases: ["Delayed Blast Fireball"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/BolaDeFuegoDeExplosionRetardada|Bola de fuego de explosión retardada (Español)]]"
----
-
 ### Delayed Blast Fireball
 
 *Level 7 Evocation* (Sorcerer, Wizard)

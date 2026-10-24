@@ -1,9 +1,3 @@
----
-aliases: ["Water Walk"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CaminarSobreElAgua|Caminar sobre el agua (Español)]]"
----
-
 ### Water Walk
 
 *Level 3 Transmutation* (Cleric, Druid, Ranger, Sorcerer)

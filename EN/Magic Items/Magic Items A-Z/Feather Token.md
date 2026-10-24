@@ -1,9 +1,3 @@
----
-aliases: ["Feather Token"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FichaDePluma]]"
----
-
 # Feather Token
 
 _Wondrous Item, Rarity Varies_

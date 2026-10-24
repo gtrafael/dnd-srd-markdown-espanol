@@ -1,9 +1,3 @@
----
-aliases: ["Tormenta de meteoritos", "Meteor Swarm"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Meteor Swarm|Meteor Swarm (EN)]]"
----
-
 # Tormenta de meteoritos
 
 *Evocación de nivel 9 (hechicero, mago)*

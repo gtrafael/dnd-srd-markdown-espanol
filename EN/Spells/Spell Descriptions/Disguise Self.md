@@ -1,9 +1,3 @@
----
-aliases: ["Disguise Self"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Disfrazarse|Disfrazarse (Español)]]"
----
-
 ### Disguise Self
 
 *Level 1 Illusion* (Bard, Sorcerer, Wizard)

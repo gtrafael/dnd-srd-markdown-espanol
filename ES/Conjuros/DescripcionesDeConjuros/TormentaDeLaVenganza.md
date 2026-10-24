@@ -1,9 +1,3 @@
----
-aliases: ["Tormenta de la venganza", "Storm of Vengeance"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Storm of Vengeance|Storm of Vengeance (EN)]]"
----
-
 # Tormenta de la venganza
 
 *Conjuración de nivel 9 (druida)*

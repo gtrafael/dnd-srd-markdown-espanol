@@ -1,9 +1,3 @@
----
-aliases: ["Young Bronze Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDeBronceJoven|Dragón de bronce joven (Español)]]"
----
-
 ## Young Bronze Dragon
 
 *Large Dragon (Metallic), Lawful Good*

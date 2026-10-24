@@ -1,9 +1,3 @@
----
-aliases: ["Black Bear"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/OsoNegro|Oso negro (Español)]]"
----
-
 ## Black Bear
 
 *Medium Beast, Unaligned*

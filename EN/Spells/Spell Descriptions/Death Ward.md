@@ -1,9 +1,3 @@
----
-aliases: ["Death Ward"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/GuardaContraLaMuerte|Guarda contra la muerte (Español)]]"
----
-
 ### Death Ward
 
 *Level 4 Abjuration* (Cleric, Paladin)

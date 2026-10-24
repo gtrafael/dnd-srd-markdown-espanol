@@ -1,9 +1,3 @@
----
-aliases: ["Vicious Weapon"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaFeroz|Arma feroz (Español)]]"
----
-
 ### Vicious Weapon
 
 *Weapon (Any Simple or Martial), Rare*

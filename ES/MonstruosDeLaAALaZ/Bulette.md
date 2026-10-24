@@ -1,9 +1,3 @@
----
-aliases: ["Bulette"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Bulette|Bulette (EN)]]"
----
-
 # Bulette
 
 *Monstruosidad Grande, sin alineamiento*

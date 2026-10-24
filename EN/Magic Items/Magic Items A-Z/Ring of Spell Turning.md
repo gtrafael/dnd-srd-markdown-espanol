@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Spell Turning"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeRetornoDeConjuros]]"
----
-
 # Ring of Spell Turning
 
 _Ring, Legendary (Requires Attunement)_

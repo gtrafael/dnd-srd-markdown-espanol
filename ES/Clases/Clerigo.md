@@ -1,9 +1,3 @@
----
-aliases: ["Clerigo", "Cleric"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Cleric|Cleric (EN)]]"
----
-
 # Clérigo
 
 Atributos básicos de clérigo

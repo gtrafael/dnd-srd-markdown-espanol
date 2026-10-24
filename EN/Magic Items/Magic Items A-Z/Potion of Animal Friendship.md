@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Animal Friendship"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeAmistadAnimal]]"
----
-
 # Potion of Animal Friendship
 
 _Potion, Uncommon_

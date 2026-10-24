@@ -1,9 +1,3 @@
----
-aliases: ["Animal Messenger"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/MensajeroAnimal|Mensajero animal (Español)]]"
----
-
 ### Animal Messenger
 
 *Level 2 Enchantment* (Bard, Druid, Ranger)

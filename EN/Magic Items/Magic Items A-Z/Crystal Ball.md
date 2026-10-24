@@ -1,9 +1,3 @@
----
-aliases: ["Crystal Ball"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolaDeCristal|Bola de cristal (Español)]]"
----
-
 ### Crystal Ball
 
 *Wondrous Item, Very Rare (Requires Attunement)*

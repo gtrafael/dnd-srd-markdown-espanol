@@ -1,9 +1,3 @@
----
-aliases: ["Cloak of Invisibility"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaDeInvisibilidad|Capa de invisibilidad (Español)]]"
----
-
 ### Cloak of Invisibility
 
 *Wondrous Item, Legendary (Requires Attunement)*

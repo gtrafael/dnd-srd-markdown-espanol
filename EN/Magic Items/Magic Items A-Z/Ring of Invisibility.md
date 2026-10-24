@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Invisibility"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeInvisibilidad]]"
----
-
 # Ring of Invisibility
 
 _Ring, Legendary (Requires Attunement)_

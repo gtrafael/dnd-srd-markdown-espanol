@@ -1,9 +1,3 @@
----
-aliases: ["Guard Captain"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CapitanDeLaGuardia|Capitán de la guardia (Español)]]"
----
-
 ## Guard Captain
 
 *Medium or Small Humanoid, Neutral*

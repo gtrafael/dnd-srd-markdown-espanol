@@ -1,9 +1,3 @@
----
-aliases: ["Death Dog"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/PerroDelInframundo|Perro del inframundo (Español)]]"
----
-
 ## Death Dog
 
 *Medium Monstrosity, Neutral Evil*

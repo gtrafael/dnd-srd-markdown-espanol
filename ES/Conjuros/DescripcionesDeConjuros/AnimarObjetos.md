@@ -1,9 +1,3 @@
----
-aliases: ["Animar objetos", "Animate Objects"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Animate Objects|Animate Objects (EN)]]"
----
-
 # Animar objetos
 
 *Transmutación de nivel 5 (bardo, hechicero, mago)*

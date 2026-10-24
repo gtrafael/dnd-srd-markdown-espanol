@@ -1,9 +1,3 @@
----
-aliases: ["Awakened Shrub"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/ArbustoDespertado|Arbusto despertado (Español)]]"
----
-
 ## Awakened Shrub
 
 *Small Plant, Neutral*

@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Polymorph"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDePolimorfar|Wand of Polymorph (Español)]]"
----
-
 # Wand of Polymorph
 
 _Wand, Very Rare (Requires Attunement by a Spellcaster)_

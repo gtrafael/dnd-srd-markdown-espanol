@@ -1,9 +1,3 @@
----
-aliases: ["Pesadilla", "Nightmare"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Nightmare|Nightmare (EN)]]"
----
-
 # Pesadilla
 
 *Infernal Grande, neutral malvado*

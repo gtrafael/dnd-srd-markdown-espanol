@@ -1,9 +1,3 @@
----
-aliases: ["Scimitar of Speed"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CimitarraDeVelocidad|Cimitarra de velocidad (Español)]]"
----
-
 ### Scimitar of Speed
 
 *Weapon (Scimitar), Very Rare (Requires Attunement)*

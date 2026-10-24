@@ -1,9 +1,3 @@
----
-aliases: ["Chromatic Orb"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/OrbeCromatico|Orbe cromático (Español)]]"
----
-
 ### Chromatic Orb
 
 *Level 1 Evocation* (Sorcerer, Wizard)

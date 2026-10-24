@@ -1,9 +1,3 @@
----
-aliases: ["EncuentrosDeCombate", "Combat Encounters"]
-tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gameplay Toolbox/Combat Encounters|Combat Encounters (EN)]]"
----
-
 # Encuentros de combate
 
 Los siguientes elementos pueden hacer que un encuentro de combate sea más estimulante o desafiante:

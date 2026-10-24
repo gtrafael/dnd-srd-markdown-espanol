@@ -1,9 +1,3 @@
----
-aliases: ["Caballo de tiro", "Draft Horse"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Draft Horse|Draft Horse (EN)]]"
----
-
 # Caballo de tiro
 
 *Bestia Grande, sin alineamiento*

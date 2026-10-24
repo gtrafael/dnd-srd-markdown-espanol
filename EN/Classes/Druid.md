@@ -1,9 +1,3 @@
----
-aliases: ["Druid"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Druida|Druida (Español)]]"
----
-
 # Druid
 
 ## Core Druid Traits

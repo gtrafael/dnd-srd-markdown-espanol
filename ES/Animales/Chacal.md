@@ -1,9 +1,3 @@
----
-aliases: ["Chacal", "Jackal"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Jackal|Jackal (EN)]]"
----
-
 # Chacal
 
 *Bestia Pequeña, sin alineamiento*

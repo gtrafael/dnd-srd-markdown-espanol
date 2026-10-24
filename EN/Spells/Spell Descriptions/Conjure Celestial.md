@@ -1,9 +1,3 @@
----
-aliases: ["Conjure Celestial"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ConjurarCelestial|Conjurar celestial (Español)]]"
----
-
 ### Conjure Celestial
 
 *Level 7 Conjuration* (Cleric)

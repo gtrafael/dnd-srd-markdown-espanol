@@ -1,9 +1,3 @@
----
-aliases: ["Staff of Frost"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeEscarcha]]"
----
-
 # Staff of Frost
 
 _Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)_

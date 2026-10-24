@@ -1,9 +1,3 @@
----
-aliases: ["Dominar bestia", "Dominate Beast"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Dominate Beast|Dominate Beast (EN)]]"
----
-
 # Dominar bestia
 
 *Encantamiento de nivel 4 (druida, explorador, hechicero)*

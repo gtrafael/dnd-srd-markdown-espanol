@@ -1,9 +1,3 @@
----
-aliases: ["Araña gigante", "Giant Spider"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Spider|Giant Spider (English)]]"
----
-
 # Araña gigante
 
 *Bestia Grande, sin alineamiento*

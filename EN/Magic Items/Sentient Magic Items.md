@@ -1,9 +1,3 @@
----
-aliases: ["Sentient Magic Items"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosConscientes|Objetos mágicos conscientes (Español)]]"
----
-
 # Sentient Magic Items
 
 Some magic items have sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the magic used to create it. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.

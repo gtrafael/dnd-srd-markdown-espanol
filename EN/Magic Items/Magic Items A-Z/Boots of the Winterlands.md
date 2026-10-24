@@ -1,9 +1,3 @@
----
-aliases: ["Boots of the Winterlands"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotasDeLasTierrasInvernales|Botas de las tierras invernales (Español)]]"
----
-
 ### Boots of the Winterlands
 
 *Wondrous Item, Uncommon (Requires Attunement)*

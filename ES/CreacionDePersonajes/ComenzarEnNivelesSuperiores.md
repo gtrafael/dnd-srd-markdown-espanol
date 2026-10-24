@@ -1,9 +1,3 @@
----
-aliases: ["Comenzar en niveles superiores"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Creation/Starting at Higher Levels|Starting at Higher Levels (EN)]]"
----
-
 # Comenzar en niveles superiores
 
 Tu GM podría comenzar la aventura de los personajes en un nivel superior al 1. Se recomienda comenzar en el nivel 3 si tu grupo está compuesto por jugadores experimentados de D&D.

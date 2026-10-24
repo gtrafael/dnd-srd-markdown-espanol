@@ -1,9 +1,3 @@
----
-aliases: ["Roc"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Roc|Roc (Español)]]"
----
-
 ## Roc
 
 *Gargantuan Monstrosity, Unaligned*

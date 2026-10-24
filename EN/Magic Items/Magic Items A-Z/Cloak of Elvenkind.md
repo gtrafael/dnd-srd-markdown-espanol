@@ -1,9 +1,3 @@
----
-aliases: ["Cloak of Elvenkind"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaElfica|Capa élfica (Español)]]"
----
-
 ### Cloak of Elvenkind
 
 *Wondrous Item, Uncommon (Requires Attunement)*

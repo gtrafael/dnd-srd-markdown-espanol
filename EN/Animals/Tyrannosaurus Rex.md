@@ -1,9 +1,3 @@
----
-aliases: ["Tyrannosaurus Rex"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/TiranosaurioRex|Tiranosaurio rex (Español)]]"
----
-
 ## Tyrannosaurus Rex
 
 *Huge Beast (Dinosaur), Unaligned*

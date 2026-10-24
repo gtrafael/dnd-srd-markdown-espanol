@@ -1,9 +1,3 @@
----
-aliases: ["Quasit"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Quasit|Quasit (Español)]]"
----
-
 ## Quasit
 
 *Tiny Fiend (Demon), Chaotic Evil*

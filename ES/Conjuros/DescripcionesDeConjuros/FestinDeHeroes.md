@@ -1,9 +1,3 @@
----
-aliases: ["Festín de héroes", "Heroes Feast"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Heroes Feast|Heroes Feast (EN)]]"
----
-
 # Festín de héroes
 
 *Conjuración de nivel 6 (bardo, clérigo, druida)*

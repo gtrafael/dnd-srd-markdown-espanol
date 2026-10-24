@@ -1,9 +1,3 @@
----
-aliases: ["Varita de bolas de fuego"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wand of Fireballs|Wand of Fireballs (EN)]]"
----
-
 # Varita de bolas de fuego
 
 *Varita, rara (requiere sintonización por parte de un lanzador de conjuros)*

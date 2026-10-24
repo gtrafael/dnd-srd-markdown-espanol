@@ -1,9 +1,3 @@
----
-aliases: ["Lizard"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Lagarto|Lagarto (Español)]]"
----
-
 ## Lizard
 
 *Tiny Beast, Unaligned*

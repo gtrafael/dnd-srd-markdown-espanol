@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Djinni Summoning"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeInvocarDjinns]]"
----
-
 # Ring of Djinni Summoning
 
 _Ring, Legendary (Requires Attunement)_

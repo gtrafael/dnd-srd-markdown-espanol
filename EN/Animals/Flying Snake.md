@@ -1,9 +1,3 @@
----
-aliases: ["Flying Snake"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/SerpienteVoladora|Serpiente voladora (Español)]]"
----
-
 ## Flying Snake
 
 *Tiny Monstrosity, Unaligned*

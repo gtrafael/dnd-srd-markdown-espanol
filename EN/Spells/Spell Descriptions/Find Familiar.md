@@ -1,9 +1,3 @@
----
-aliases: ["Find Familiar"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EncontrarFamiliar|Encontrar familiar (Español)]]"
----
-
 ### Find Familiar
 
 *Level 1 Conjuration* (Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Crystal Ball of Telepathy"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolaDeCristalDeTelepatia|Bola de cristal de telepatía (Español)]]"
----
-
 ### Crystal Ball of Telepathy
 
 *Wondrous Item, Legendary (Requires Attunement)*

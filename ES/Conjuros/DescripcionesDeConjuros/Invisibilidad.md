@@ -1,9 +1,3 @@
----
-aliases: ["Invisibilidad", "Invisibility"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Invisibility|Invisibility (EN)]]"
----
-
 # Invisibilidad
 
 *Ilusionismo de nivel 2 (bardo, brujo, hechicero, mago)*

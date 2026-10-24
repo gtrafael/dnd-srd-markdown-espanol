@@ -1,9 +1,3 @@
----
-aliases: ["Sentinel Shield"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscudoCentinela|Escudo centinela (Español)]]"
----
-
 ### Sentinel Shield
 
 *Armor (Shield), Uncommon*

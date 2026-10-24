@@ -1,9 +1,3 @@
----
-aliases: ["Piel robliza", "Barkskin"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Barkskin|Barkskin (EN)]]"
----
-
 # Piel robliza
 
 *Transmutación de nivel 2 (druida, explorador)*

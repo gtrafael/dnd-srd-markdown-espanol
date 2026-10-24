@@ -1,9 +1,3 @@
----
-aliases: ["Barbaro", "Barbarian"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Barbarian|Barbarian (EN)]]"
----
-
 # Bárbaro
 
 Atributos básicos de bárbaro

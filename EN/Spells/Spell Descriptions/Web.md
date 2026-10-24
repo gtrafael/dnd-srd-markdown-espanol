@@ -1,9 +1,3 @@
----
-aliases: ["Web"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Telarana|Telaraña (Español)]]"
----
-
 ### Web
 
 *Level 2 Conjuration* (Sorcerer, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Hammer of Thunderbolts"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MartilloDeRayos|Martillo de rayos (Español)]]"
----
-
 ### Hammer of Thunderbolts
 
 *Weapon (Maul or Warhammer), Legendary (Requires*

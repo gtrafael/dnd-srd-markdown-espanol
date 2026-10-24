@@ -1,9 +1,3 @@
----
-aliases: ["Lobo invernal", "Winter Wolf"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Winter Wolf|Winter Wolf (EN)]]"
----
-
 # Lobo invernal
 
 *Monstruosidad Grande, neutral malvada*

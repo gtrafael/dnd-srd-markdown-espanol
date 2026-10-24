@@ -1,9 +1,3 @@
----
-aliases: ["Berserker Axe"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/HachaBerserker|Hacha berserker (Español)]]"
----
-
 ### Berserker Axe
 
 *Weapon (Battleaxe, Greataxe, or Halberd), Rare (Requires Attunement)*

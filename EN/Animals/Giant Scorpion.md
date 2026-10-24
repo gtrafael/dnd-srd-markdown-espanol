@@ -1,9 +1,3 @@
----
-aliases: ["Giant Scorpion"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/EscorpionGigante|Escorpión gigante (Español)]]"
----
-
 ## Giant Scorpion
 
 *Large Beast, Unaligned*

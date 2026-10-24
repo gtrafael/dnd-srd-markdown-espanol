@@ -1,9 +1,3 @@
----
-aliases: ["Staff of Swarming Insects"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeEnjambreDeInsectos]]"
----
-
 # Staff of Swarming Insects
 
 _Staff, Rare (Requires Attunement by a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard)_

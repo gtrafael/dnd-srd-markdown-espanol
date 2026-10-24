@@ -1,9 +1,3 @@
----
-aliases: ["Buitre", "Vulture"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Vulture|Vulture (EN)]]"
----
-
 # Buitre
 
 *Bestia Mediana, sin alineamiento*

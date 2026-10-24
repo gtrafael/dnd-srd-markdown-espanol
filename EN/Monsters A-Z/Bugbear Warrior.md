@@ -1,9 +1,3 @@
----
-aliases: ["Bugbear Warrior"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GuerreroOsgo|Guerrero osgo (Español)]]"
----
-
 ## Bugbear Warrior
 
 *Medium Fey (Goblinoid), Chaotic Evil*

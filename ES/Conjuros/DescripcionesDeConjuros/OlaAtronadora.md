@@ -1,9 +1,3 @@
----
-aliases: ["Ola atronadora", "Thunderwave"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Thunderwave|Thunderwave (EN)]]"
----
-
 # Ola atronadora
 
 *Evocación de nivel 1 (bardo, druida, hechicero, mago)*

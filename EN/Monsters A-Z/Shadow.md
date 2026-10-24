@@ -1,9 +1,3 @@
----
-aliases: ["Shadow"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Sombra|Sombra (Español)]]"
----
-
 ## Shadow
 
 *Medium Undead, Chaotic Evil*

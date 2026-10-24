@@ -1,9 +1,3 @@
----
-aliases: ["Elixir de salud", "Elixir of Health"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Elixir of Health|Elixir of Health (EN)]]"
----
-
 # Elixir de salud
 
 *Poción, rara*

@@ -1,9 +1,3 @@
----
-aliases: ["Spell Scroll"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PergaminoDeConjuro]]"
----
-
 # Spell Scroll
 
 _Scroll, Rarity Varies_

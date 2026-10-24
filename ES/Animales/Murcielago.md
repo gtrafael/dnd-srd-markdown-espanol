@@ -1,9 +1,3 @@
----
-aliases: ["Murciélago", "Bat"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Bat|Bat (EN)]]"
----
-
 # Murciélago
 
 *Bestia Diminuta, sin alineamiento*

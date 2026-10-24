@@ -1,9 +1,3 @@
----
-aliases: ["Araña gigante", "Giant Spider"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/AranaGigante|Araña gigante (Español)]]"
----
-
 ## Giant Spider
 
 *Large Beast, Unaligned*

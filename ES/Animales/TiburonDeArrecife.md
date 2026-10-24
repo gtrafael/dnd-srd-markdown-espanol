@@ -1,9 +1,3 @@
----
-aliases: ["Tiburón de arrecife", "Reef Shark"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Reef Shark|Reef Shark (EN)]]"
----
-
 # Tiburón de arrecife
 
 *Bestia Mediana, sin alineamiento*

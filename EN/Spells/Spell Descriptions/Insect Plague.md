@@ -1,9 +1,3 @@
----
-aliases: ["Insect Plague"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PlagaDeInsectos|Plaga de insectos (Español)]]"
----
-
 ### Insect Plague
 
 *Level 5 Conjuration* (Cleric, Druid, Sorcerer)

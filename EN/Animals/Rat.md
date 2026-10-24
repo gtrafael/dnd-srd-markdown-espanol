@@ -1,9 +1,3 @@
----
-aliases: ["Rat"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Rata|Rata (Español)]]"
----
-
 ## Rat
 
 *Tiny Beast, Unaligned*

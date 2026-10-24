@@ -1,9 +1,3 @@
----
-aliases: ["Conjurar seres del bosque", "Conjure Woodland Beings"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Conjure Woodland Beings|Conjure Woodland Beings (EN)]]"
----
-
 # Conjurar seres del bosque
 
 *Conjuración de nivel 4 (druida, explorador)*

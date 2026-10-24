@@ -1,9 +1,3 @@
----
-aliases: ["Couatl"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Couatl|Couatl (Español)]]"
----
-
 ## Couatl
 
 *Medium Celestial, Lawful Good*

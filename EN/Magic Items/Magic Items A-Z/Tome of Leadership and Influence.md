@@ -1,9 +1,3 @@
----
-aliases: ["Tome of Leadership and Influence"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TomoDeLiderazgoEInfluencia|Tomo de liderazgo e influencia (Español)]]"
----
-
 ### Tome of Leadership and Influence
 
 *Wondrous Item, Very Rare*

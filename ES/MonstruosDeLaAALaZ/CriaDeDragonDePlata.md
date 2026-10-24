@@ -1,9 +1,3 @@
----
-aliases: ["Cría de dragón de plata", "Silver Dragon Wyrmling"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Silver Dragon Wyrmling|Silver Dragon Wyrmling (EN)]]"
----
-
 # Cría de dragón de plata
 
 *Dragón Mediano (metálico), legal bueno*

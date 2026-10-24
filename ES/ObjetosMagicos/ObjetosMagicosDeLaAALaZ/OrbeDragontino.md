@@ -1,9 +1,3 @@
----
-aliases: ["Orbe Dragontino", "Dragon Orb"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Dragon Orb|Dragon Orb (EN)]]"
----
-
 # Orbe Dragontino
 
 *Objeto maravilloso, artefacto (requiere sintonización)*

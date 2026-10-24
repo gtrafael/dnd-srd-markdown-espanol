@@ -1,9 +1,3 @@
----
-aliases: ["Stone of Good Luck (Luckstone)"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PiedraDeLaBuenaFortunapiedraDeLaSuerte|Piedra de la buena fortuna (piedra de la suerte) (Español)]]"
----
-
 ### Stone of Good Luck (Luckstone)
 
 *Wondrous Item, Uncommon (Requires Attunement)*

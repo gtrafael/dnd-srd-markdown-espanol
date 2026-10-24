@@ -1,9 +1,3 @@
----
-aliases: ["Eyes of Minute Seeing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnteojosDeVisionMinuciosa|Anteojos de visión minuciosa (Español)]]"
----
-
 ### Eyes of Minute Seeing
 
 *Wondrous Item, Uncommon*

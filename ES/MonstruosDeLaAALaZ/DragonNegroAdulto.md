@@ -1,9 +1,3 @@
----
-aliases: ["Dragón negro adulto", "Adult Black Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Adult Black Dragon|Adult Black Dragon (EN)]]"
----
-
 # Dragón negro adulto
 
 *Dragón Enorme (cromático), caótico malvado*

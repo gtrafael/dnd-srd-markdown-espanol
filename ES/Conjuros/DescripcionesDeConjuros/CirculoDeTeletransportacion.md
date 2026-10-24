@@ -1,9 +1,3 @@
----
-aliases: ["Círculo de teletransportación", "Teleportation Circle"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Teleportation Circle|Teleportation Circle (EN)]]"
----
-
 # Círculo de teletransportación
 
 *Conjuración de nivel 5 (bardo, brujo, hechicero, mago)*

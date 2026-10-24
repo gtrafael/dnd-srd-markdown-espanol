@@ -1,9 +1,3 @@
----
-aliases: ["Eyes of the Eagle"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnteojosDeVistaDeAguila]]"
----
-
 # Eyes of the Eagle
 
 _Wondrous Item, Uncommon_

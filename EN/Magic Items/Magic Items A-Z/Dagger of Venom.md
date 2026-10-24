@@ -1,9 +1,3 @@
----
-aliases: ["Dagger of Venom"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/DagaDeLaPonzona]]"
----
-
 # Dagger of Venom
 
 _Weapon (Dagger), Rare_

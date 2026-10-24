@@ -1,9 +1,3 @@
----
-aliases: ["Dracónido", "Dragonborn"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Origins/Dragonborn|Dragonborn (EN)]]"
----
-
 # Dracónido
 
 Tipo de criatura: humanoide

@@ -1,9 +1,3 @@
----
-aliases: ["Arrow-Catching Shield"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscudoAtrapaflechas|Escudo atrapaflechas (Español)]]"
----
-
 ### Arrow-Catching Shield
 
 *Armor (Shield), Rare (Requires Attunement)*

@@ -1,9 +1,3 @@
----
-aliases: ["Elephant"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Elefante|Elefante (Español)]]"
----
-
 ## Elephant
 
 *Huge Beast, Unaligned*

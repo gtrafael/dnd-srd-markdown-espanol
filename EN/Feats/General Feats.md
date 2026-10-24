@@ -1,9 +1,3 @@
----
-aliases: ["General Feats"]
-tags: [srd, english, tag_feats]
-related_es: "[[Dotes/DotesGenerales|Dotes generales (Español)]]"
----
-
 # General Feats
 
 ## Ability Score Improvement

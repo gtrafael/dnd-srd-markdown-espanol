@@ -1,9 +1,3 @@
----
-aliases: ["Invisibilidad mejorada", "Greater Invisibility"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Greater Invisibility|Greater Invisibility (EN)]]"
----
-
 # Invisibilidad mejorada
 
 *Ilusionismo de nivel 4 (bardo, hechicero, mago)*

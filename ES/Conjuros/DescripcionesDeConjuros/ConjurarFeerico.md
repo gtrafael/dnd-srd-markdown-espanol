@@ -1,9 +1,3 @@
----
-aliases: ["Conjurar feérico", "Conjure Fey"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Conjure Fey|Conjure Fey (EN)]]"
----
-
 # Conjurar feérico
 
 *Conjuración de nivel 6 (druida)*

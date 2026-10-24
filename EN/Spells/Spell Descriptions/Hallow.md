@@ -1,9 +1,3 @@
----
-aliases: ["Hallow"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Consagrar|Consagrar (Español)]]"
----
-
 ### Hallow
 
 *Level 5 Abjuration* (Cleric)

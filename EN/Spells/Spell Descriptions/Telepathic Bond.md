@@ -1,9 +1,3 @@
----
-aliases: ["Telepathic Bond"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EnlaceTelepatico|Enlace telepático (Español)]]"
----
-
 ### Telepathic Bond
 
 *Level 5 Divination* (Bard, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Elefante", "Elephant"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Elephant|Elephant (EN)]]"
----
-
 # Elefante
 
 *Bestia Enorme, sin alineamiento*

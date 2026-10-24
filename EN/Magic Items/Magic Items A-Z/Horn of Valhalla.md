@@ -1,9 +1,3 @@
----
-aliases: ["Horn of Valhalla"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CuernoDelValhalla|Cuerno del Valhalla (Español)]]"
----
-
 ### Horn of Valhalla
 
 *Wondrous Item, Rare (Silver or Brass), Very Rare (Bronze), or Legendary (Iron)*

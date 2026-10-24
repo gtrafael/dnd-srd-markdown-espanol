@@ -1,9 +1,3 @@
----
-aliases: ["Seahorse"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/CaballitoDeMar|Caballito de mar (Español)]]"
----
-
 ## Seahorse
 
 *Tiny Beast, Unaligned*

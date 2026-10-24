@@ -1,9 +1,3 @@
----
-aliases: ["Orden imperiosa", "Command"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Command|Command (EN)]]"
----
-
 # Orden imperiosa
 
 *Encantamiento de nivel 1 (bardo, clérigo, paladín)*

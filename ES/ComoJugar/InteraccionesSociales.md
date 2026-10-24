@@ -1,9 +1,3 @@
----
-aliases: ["Interacciones sociales"]
-tags: [srd, espanol, tag_comojugar]
-related_en: "[[Playing the Game/Social Interaction]]"
----
-
 # Interacciones sociales
 
 Durante sus aventuras, los personajes de los jugadores conocerán gente de muchos tipos y se toparán con ciertos monstruos que preferirían hablar en vez de pelear. Esas situaciones propician las interacciones sociales, que adoptan muchas formas. Por ejemplo, podrías intentar persuadir a un ladrón de que confiese una fechoría o tratar de encandilar a un guardia. Tu Game Master interpretará el papel de todos los personajes no jugadores que participen en una interacción social.

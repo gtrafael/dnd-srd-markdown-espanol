@@ -1,9 +1,3 @@
----
-aliases: ["Mastín fiel", "Faithful Hound"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Faithful Hound|Faithful Hound (EN)]]"
----
-
 # Mastín fiel
 
 *Conjuración de nivel 4 (mago)*

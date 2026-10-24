@@ -1,9 +1,3 @@
----
-aliases: ["Hallar corcel", "Find Steed"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Find Steed|Find Steed (EN)]]"
----
-
 # Hallar corcel
 
 *Conjuración de nivel 2 (paladín)*

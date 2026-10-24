@@ -1,9 +1,3 @@
----
-aliases: ["Crear muerto viviente", "Create Undead"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Create Undead|Create Undead (EN)]]"
----
-
 # Crear muerto viviente
 
 *Nigromancia de nivel 6 (brujo, clérigo, mago)*

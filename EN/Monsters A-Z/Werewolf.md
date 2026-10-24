@@ -1,9 +1,3 @@
----
-aliases: ["Werewolf"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/HombreLobo|Hombre lobo (Español)]]"
----
-
 ## Werewolf
 
 *Medium or Small Monstrosity (Lycanthrope), Chaotic Evil*

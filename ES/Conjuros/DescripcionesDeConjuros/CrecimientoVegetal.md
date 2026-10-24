@@ -1,9 +1,3 @@
----
-aliases: ["Crecimiento vegetal", "Plant Growth"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Plant Growth|Plant Growth (EN)]]"
----
-
 # Crecimiento vegetal
 
 *Transmutación de nivel 3 (bardo, druida, explorador)*

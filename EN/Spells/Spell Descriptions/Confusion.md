@@ -1,9 +1,3 @@
----
-aliases: ["Confusion"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Confusion|Confusión (Español)]]"
----
-
 ### Confusion
 
 *Level 4 Enchantment* (Bard, Druid, Sorcerer, Wizard)

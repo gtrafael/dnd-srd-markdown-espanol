@@ -1,9 +1,3 @@
----
-aliases: ["Giant Fire Beetle"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/EscarabajoDeFuegoGigante|Escarabajo de fuego gigante (Español)]]"
----
-
 ## Giant Fire Beetle
 
 *Small Beast, Unaligned*

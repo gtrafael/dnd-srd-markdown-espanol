@@ -1,9 +1,3 @@
----
-aliases: ["Castigo divino", "Divine Smite"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Divine Smite|Divine Smite (EN)]]"
----
-
 # Castigo divino
 
 *Evocación de nivel 1 (paladín)*

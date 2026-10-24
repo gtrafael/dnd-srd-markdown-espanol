@@ -1,9 +1,3 @@
----
-aliases: ["Pulpo", "Octopus"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Octopus|Octopus (EN)]]"
----
-
 # Pulpo
 
 *Bestia Pequeña, sin alineamiento*

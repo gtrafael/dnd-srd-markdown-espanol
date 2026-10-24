@@ -1,9 +1,3 @@
----
-aliases: ["Guidance"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Guia|Guía (Español)]]"
----
-
 ### Guidance
 
 *Divination Cantrip* (Cleric, Druid)

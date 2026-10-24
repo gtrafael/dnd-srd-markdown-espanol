@@ -1,9 +1,3 @@
----
-aliases: ["Sanctuary"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Santuario|Santuario (Español)]]"
----
-
 ### Sanctuary
 
 *Level 1 Abjuration* (Cleric)

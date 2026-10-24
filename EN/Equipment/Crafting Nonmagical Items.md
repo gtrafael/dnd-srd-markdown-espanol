@@ -1,9 +1,3 @@
----
-aliases: ["Crafting Nonmagical Items"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/FabricarObjetosNoMagicos|Fabricar objetos no mágicos (Español)]]"
----
-
 # Crafting Nonmagical Items
 
 To craft a nonmagical item, you need tools, raw materials, and time, each of which is detailed below. If you meet the requirements, you make the item, and you can use it or sell it at its normal price.

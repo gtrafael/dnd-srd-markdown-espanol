@@ -1,9 +1,3 @@
----
-aliases: ["Hombre tigre", "Weretiger"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Weretiger|Weretiger (EN)]]"
----
-
 # Hombre tigre
 
 *Monstruosidad Mediana o Pequeña (licántropo), neutral*

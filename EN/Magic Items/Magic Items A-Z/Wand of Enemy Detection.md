@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Enemy Detection"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeDetectarEnemigos|Wand of Enemy Detection (Español)]]"
----
-
 # Wand of Enemy Detection
 
 _Wand, Rare (Requires Attunement)_

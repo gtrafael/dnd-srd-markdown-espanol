@@ -1,9 +1,3 @@
----
-aliases: ["Varita de detectar enemigos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wand of Enemy Detection|Wand of Enemy Detection (EN)]]"
----
-
 # Varita de detectar enemigos
 
 *Varita, rara (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Grasa", "Grease"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Grease|Grease (EN)]]"
----
-
 # Grasa
 
 *Conjuración de nivel 1 (hechicero, mago)*

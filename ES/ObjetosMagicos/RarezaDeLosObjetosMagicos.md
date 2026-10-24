@@ -1,9 +1,3 @@
----
-aliases: ["Rareza de los objetos mágicos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Item Rarity|Magic Item Rarity (EN)]]"
----
-
 # Rareza de los objetos mágicos
 
 Cada objeto mágico tiene una rareza, que es una manera aproximada de comparar el poder de un objeto mágico respecto a otros. Las rarezas se muestran en la tabla "Rareza y valor de objetos mágicos".

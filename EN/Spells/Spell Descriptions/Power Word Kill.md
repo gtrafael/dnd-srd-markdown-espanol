@@ -1,9 +1,3 @@
----
-aliases: ["Power Word Kill"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PalabraDePoderMatar|Palabra de poder_ matar (Español)]]"
----
-
 ### Power Word Kill
 
 *Level 9 Enchantment* (Bard, Sorcerer, Warlock, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Estatuilla de poder maravilloso"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Figurine of Wondrous Power]]"
----
-
 # Estatuilla de poder maravilloso
 
 *Objeto maravilloso, rareza variable*

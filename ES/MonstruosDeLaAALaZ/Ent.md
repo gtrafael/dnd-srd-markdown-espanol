@@ -1,9 +1,3 @@
----
-aliases: ["Ent", "Treant"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Treant|Treant (EN)]]"
----
-
 # Ent
 
 *Planta Enorme, caótica buena*

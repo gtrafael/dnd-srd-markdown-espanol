@@ -1,9 +1,3 @@
----
-aliases: ["Mastín", "Mastiff"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Mastiff|Mastiff (EN)]]"
----
-
 # Mastín
 
 *Bestia Mediana, sin alineamiento*

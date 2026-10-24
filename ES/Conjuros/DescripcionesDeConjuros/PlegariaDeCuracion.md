@@ -1,9 +1,3 @@
----
-aliases: ["Plegaria de curación", "Prayer of Healing"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Prayer of Healing|Prayer of Healing (EN)]]"
----
-
 # Plegaria de curación
 
 *Abjuración de nivel 2 (clérigo, paladín)*

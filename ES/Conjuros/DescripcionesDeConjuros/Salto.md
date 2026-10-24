@@ -1,9 +1,3 @@
----
-aliases: ["Salto", "Jump"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Jump|Jump (EN)]]"
----
-
 # Salto
 
 *Transmutación de nivel 1 (druida, explorador, hechicero, mago)*

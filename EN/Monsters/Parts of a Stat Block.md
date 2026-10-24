@@ -1,9 +1,3 @@
----
-aliases: ["Parts of a Stat Block", "Partes de un perfil"]
-tags: [srd, english, tag_monsters]
-related_es: "[[Monstruos/PartesDeUnPerfil|Partes de un perfil (Español)]]"
----
-
 # Parts of a Stat Block
 
 The rules for a stat block are detailed in "Rules Glossary" and in this section.

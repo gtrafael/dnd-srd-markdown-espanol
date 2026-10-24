@@ -1,9 +1,3 @@
----
-aliases: ["Ancient Copper Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDeCobreAnciano|Dragón de cobre anciano (Español)]]"
----
-
 ## Ancient Copper Dragon
 
 *Gargantuan Dragon (Metallic), Chaotic Good*

@@ -1,9 +1,3 @@
----
-aliases: ["Bead of Force"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CanicaDeFuerza|Canica de fuerza (Español)]]"
----
-
 ### Bead of Force
 
 *Wondrous Item, Rare*

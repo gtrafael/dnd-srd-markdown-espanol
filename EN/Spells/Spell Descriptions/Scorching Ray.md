@@ -1,9 +1,3 @@
----
-aliases: ["Scorching Ray"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/RayoAbrasador|Rayo abrasador (Español)]]"
----
-
 ### Scorching Ray
 
 *Level 2 Evocation* (Sorcerer, Wizard)

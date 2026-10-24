@@ -1,9 +1,3 @@
----
-aliases: ["Disipar el bien y el mal", "Dispel Evil and Good"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Dispel Evil and Good|Dispel Evil and Good (EN)]]"
----
-
 # Disipar el bien y el mal
 
 *Abjuración de nivel 5 (clérigo, paladín)*

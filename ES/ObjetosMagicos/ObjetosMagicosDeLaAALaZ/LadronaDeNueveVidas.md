@@ -1,9 +1,3 @@
----
-aliases: ["Ladrona de nueve vidas", "Nine Lives Stealer"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Nine Lives Stealer|Nine Lives Stealer (EN)]]"
----
-
 # Ladrona de nueve vidas
 
 *Arma (cualquiera sencilla o marcial), muy rara (requiere sintonización)*

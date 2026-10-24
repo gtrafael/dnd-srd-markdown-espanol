@@ -1,9 +1,3 @@
----
-aliases: ["Impacto certero", "True Strike"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/True Strike|True Strike (EN)]]"
----
-
 # Impacto certero
 
 *Truco de adivinación (bardo, brujo, hechicero, mago)*

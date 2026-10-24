@@ -1,9 +1,3 @@
----
-aliases: ["Dretch"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Dretch|Dretch (Español)]]"
----
-
 ## Dretch
 
 *Small Fiend (Demon), Chaotic Evil*

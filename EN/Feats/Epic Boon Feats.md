@@ -1,9 +1,3 @@
----
-aliases: ["Epic Boon Feats"]
-tags: [srd, english, tag_feats]
-related_es: "[[Dotes/DotesDeDonEpico|Dotes de don épico (Español)]]"
----
-
 # Epic Boon Feats
 
 ## Boon of Combat Prowess

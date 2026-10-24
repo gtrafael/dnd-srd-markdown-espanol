@@ -1,9 +1,3 @@
----
-aliases: ["Esfera de aniquilación", "Sphere of Annihilation"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Sphere of Annihilation|Sphere of Annihilation (EN)]]"
----
-
 # Esfera de aniquilación
 
 *Objeto maravilloso, legendario*

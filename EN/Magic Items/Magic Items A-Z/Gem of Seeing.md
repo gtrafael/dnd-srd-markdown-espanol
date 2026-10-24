@@ -1,9 +1,3 @@
----
-aliases: ["Gem of Seeing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GemaDeVision|Gema de visión (Español)]]"
----
-
 ### Gem of Seeing
 
 *Wondrous Item, Rare (Requires Attunement)*

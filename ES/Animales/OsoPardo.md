@@ -1,9 +1,3 @@
----
-aliases: ["Oso pardo", "Brown Bear"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Brown Bear|Brown Bear (EN)]]"
----
-
 # Oso pardo
 
 *Bestia Grande, sin alineamiento*

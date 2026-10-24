@@ -1,9 +1,3 @@
----
-aliases: ["Terror abyecto", "Weird"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Weird|Weird (EN)]]"
----
-
 # Terror abyecto
 
 *Ilusionismo de nivel 9 (brujo, mago)*

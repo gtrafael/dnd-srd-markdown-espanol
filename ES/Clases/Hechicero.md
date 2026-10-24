@@ -1,9 +1,3 @@
----
-aliases: ["Hechicero", "Sorcerer"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Sorcerer|Sorcerer (EN)]]"
----
-
 # Hechicero
 
 Atributos básicos de hechicero

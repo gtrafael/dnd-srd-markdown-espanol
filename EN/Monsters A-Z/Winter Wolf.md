@@ -1,9 +1,3 @@
----
-aliases: ["Winter Wolf"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/LoboInvernal|Lobo invernal (Español)]]"
----
-
 ## Winter Wolf
 
 *Large Monstrosity, Neutral Evil*

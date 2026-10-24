@@ -1,9 +1,3 @@
----
-aliases: ["Elven Chain"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MallaElfica|Malla élfica (Español)]]"
----
-
 ### Elven Chain
 
 *Armor (Chain Mail or Chain Shirt), Rare*

@@ -1,9 +1,3 @@
----
-aliases: ["Shillelagh"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Shillelagh|Shillelagh (EN)]]"
----
-
 # Shillelagh
 
 *Truco de transmutación (druida)*

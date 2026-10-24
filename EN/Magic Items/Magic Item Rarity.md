@@ -1,9 +1,3 @@
----
-aliases: ["Magic Item Rarity"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/RarezaDeLosObjetosMagicos|Rareza de los objetos mágicos (Español)]]"
----
-
 # Magic Item Rarity
 
 Every magic item has a rarity, which provides a rough measure of an item's power relative to other magic items. The rarities are shown in the table.

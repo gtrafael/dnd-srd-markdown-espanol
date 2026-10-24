@@ -1,9 +1,3 @@
----
-aliases: ["Dotes de don épico"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Feats/Epic Boon Feats|Epic Boon Feats (EN)]]"
----
-
 # Dotes de don épico
 
 ## Don de la pericia en combate

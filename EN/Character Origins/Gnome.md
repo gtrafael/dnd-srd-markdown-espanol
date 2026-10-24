@@ -1,9 +1,3 @@
----
-aliases: ["Gnome"]
-tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/Gnomo|Gnomo (Español)]]"
----
-
 # Gnome
 
 **Creature Type:** Humanoid

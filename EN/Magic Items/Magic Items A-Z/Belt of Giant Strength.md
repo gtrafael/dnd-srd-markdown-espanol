@@ -1,9 +1,3 @@
----
-aliases: ["Belt of Giant Strength"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CinturonDeFuerzaDeGigante]]"
----
-
 # Belt of Giant Strength
 
 _Wondrous Item, Rarity Varies (Requires Attunement)_

@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de invocar djinns"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Djinni Summoning]]"
----
-
 # Anillo de invocar djinns
 
 *Anillo, legendario (requiere sintonización)*

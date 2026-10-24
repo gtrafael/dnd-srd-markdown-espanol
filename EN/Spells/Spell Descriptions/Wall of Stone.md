@@ -1,9 +1,3 @@
----
-aliases: ["Wall of Stone"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/MuroDePiedra|Muro de piedra (Español)]]"
----
-
 ### Wall of Stone
 
 *Level 5 Evocation* (Druid, Sorcerer, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Treant"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Ent|Ent (Español)]]"
----
-
 ## Treant
 
 *Huge Plant, Chaotic Good*

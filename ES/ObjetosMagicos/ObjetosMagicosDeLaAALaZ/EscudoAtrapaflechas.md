@@ -1,9 +1,3 @@
----
-aliases: ["Escudo atrapaflechas", "Arrow-Catching Shield"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Arrow-Catching Shield|Arrow-Catching Shield (EN)]]"
----
-
 # Escudo atrapaflechas
 
 *Armadura (escudo), rara (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Lobo", "Wolf"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Wolf|Wolf (EN)]]"
----
-
 # Lobo
 
 *Bestia Mediana, sin alineamiento*

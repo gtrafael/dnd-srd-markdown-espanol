@@ -1,9 +1,3 @@
----
-aliases: ["Resurrección verdadera", "True Resurrection"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/True Resurrection|True Resurrection (EN)]]"
----
-
 # Resurrección verdadera
 
 *Nigromancia de nivel 9 (clérigo, druida)*

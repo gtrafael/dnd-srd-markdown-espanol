@@ -1,9 +1,3 @@
----
-aliases: ["Gloves of Thievery"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GuantesDeLadron|Guantes de ladrón (Español)]]"
----
-
 ### Gloves of Thievery
 
 *Wondrous Item, Uncommon*

@@ -1,9 +1,3 @@
----
-aliases: ["Azer Sentinel"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CentinelaAzer|Centinela azer (Español)]]"
----
-
 ## Azer Sentinel
 
 *Medium Elemental, Lawful Neutral*

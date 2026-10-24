@@ -1,9 +1,3 @@
----
-aliases: ["Armadura de invulnerabilidad"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Armor of Invulnerability]]"
----
-
 # Armadura de invulnerabilidad
 
 *Armadura (armadura de placas), legendaria (requiere sintonización)*

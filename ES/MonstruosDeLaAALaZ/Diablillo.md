@@ -1,9 +1,3 @@
----
-aliases: ["Diablillo", "Imp"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Imp|Imp (EN)]]"
----
-
 # Diablillo
 
 *Infernal Diminuto (diablo), legal malvado*

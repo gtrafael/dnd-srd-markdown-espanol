@@ -1,9 +1,3 @@
----
-aliases: ["Druid"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Druida|Druida (Español)]]"
----
-
 ## Druid
 
 *Medium or Small Humanoid (Druid), Neutral*

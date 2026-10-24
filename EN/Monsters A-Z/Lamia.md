@@ -1,9 +1,3 @@
----
-aliases: ["Lamia"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Lamia|Lamia (Español)]]"
----
-
 ## Lamia
 
 *Large Fiend, Chaotic Evil*

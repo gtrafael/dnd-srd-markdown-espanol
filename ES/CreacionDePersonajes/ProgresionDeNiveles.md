@@ -1,9 +1,3 @@
----
-aliases: ["Progresión de niveles"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Creation/Level Advancement|Level Advancement (EN)]]"
----
-
 # Progresión de niveles
 
 Al embarcarse en aventuras, tu personaje adquiere experiencia, lo que se representa con los puntos de experiencia (PX). Al alcanzar ciertas cantidades de puntos de experiencia, el personaje se volverá más capaz. Este progreso se conoce como subir de nivel.

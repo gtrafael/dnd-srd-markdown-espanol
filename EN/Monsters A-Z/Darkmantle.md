@@ -1,9 +1,3 @@
----
-aliases: ["Darkmantle"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Mantoscuro|Mantoscuro (Español)]]"
----
-
 ## Darkmantle
 
 *Small Aberration, Unaligned*

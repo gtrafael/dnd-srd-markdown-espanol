@@ -1,9 +1,3 @@
----
-aliases: ["Pteranodon"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Pteranodon|Pteranodon (Español)]]"
----
-
 ## Pteranodon
 
 *Medium Beast (Dinosaur), Unaligned*

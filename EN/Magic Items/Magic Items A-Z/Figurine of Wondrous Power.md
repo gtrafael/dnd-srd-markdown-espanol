@@ -1,9 +1,3 @@
----
-aliases: ["Figurine of Wondrous Power"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EstatuillaDePoderMaravilloso]]"
----
-
 # Figurine of Wondrous Power
 
 _Wondrous Item, Rarity Varies_

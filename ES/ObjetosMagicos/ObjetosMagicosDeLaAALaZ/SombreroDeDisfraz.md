@@ -1,9 +1,3 @@
----
-aliases: ["Sombrero de disfraz", "Hat of Disguise"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Hat of Disguise|Hat of Disguise (EN)]]"
----
-
 # Sombrero de disfraz
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

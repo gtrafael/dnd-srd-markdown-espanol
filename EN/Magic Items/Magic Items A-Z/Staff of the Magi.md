@@ -1,9 +1,3 @@
----
-aliases: ["Staff of the Magi"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeLosMagos]]"
----
-
 # Staff of the Magi
 
 _Staff, Legendary (Requires Attunement by a Sorcerer, Warlock, or Wizard)_

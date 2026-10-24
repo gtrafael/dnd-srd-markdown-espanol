@@ -1,9 +1,3 @@
----
-aliases: ["Lobo terrible", "Dire Wolf"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Dire Wolf|Dire Wolf (EN)]]"
----
-
 # Lobo terrible
 
 *Bestia Grande, sin alineamiento*

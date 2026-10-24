@@ -1,9 +1,3 @@
----
-aliases: ["Escudo centinela", "Sentinel Shield"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Sentinel Shield|Sentinel Shield (EN)]]"
----
-
 # Escudo centinela
 
 *Armadura (escudo), infrecuente*

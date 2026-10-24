@@ -1,9 +1,3 @@
----
-aliases: ["Meteor Swarm"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/TormentaDeMeteoritos|Tormenta de meteoritos (Español)]]"
----
-
 ### Meteor Swarm
 
 *Level 9 Evocation* (Sorcerer, Wizard)

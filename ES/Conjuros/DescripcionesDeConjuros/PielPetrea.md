@@ -1,9 +1,3 @@
----
-aliases: ["Piel pétrea", "Stoneskin"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Stoneskin|Stoneskin (EN)]]"
----
-
 # Piel pétrea
 
 *Transmutación de nivel 4 (druida, explorador, hechicero, mago)*

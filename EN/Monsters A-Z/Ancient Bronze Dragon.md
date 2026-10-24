@@ -1,9 +1,3 @@
----
-aliases: ["Ancient Bronze Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDeBronceAnciano|Dragón de bronce anciano (Español)]]"
----
-
 ## Ancient Bronze Dragon
 
 *Gargantuan Dragon (Metallic), Lawful Good*

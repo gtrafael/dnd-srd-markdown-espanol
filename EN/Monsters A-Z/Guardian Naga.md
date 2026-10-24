@@ -1,9 +1,3 @@
----
-aliases: ["Guardian Naga"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/NagaGuardiana|Naga guardiana (Español)]]"
----
-
 ## Guardian Naga
 
 *Large Celestial, Lawful Good*

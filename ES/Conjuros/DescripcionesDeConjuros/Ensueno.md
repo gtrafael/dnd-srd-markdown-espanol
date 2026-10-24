@@ -1,9 +1,3 @@
----
-aliases: ["Ensueño", "Dream"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Dream|Dream (EN)]]"
----
-
 # Ensueño
 
 *Ilusionismo de nivel 5 (bardo, brujo, mago)*

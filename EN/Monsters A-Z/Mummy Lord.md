@@ -1,9 +1,3 @@
----
-aliases: ["Mummy Lord"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/SenorDeLasMomias|Señor de las momias (Español)]]"
----
-
 ## Mummy Lord
 
 *Medium or Small Undead (Cleric), Lawful Evil*

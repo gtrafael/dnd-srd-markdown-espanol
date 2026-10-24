@@ -1,9 +1,3 @@
----
-aliases: ["Pasar sin rastro", "Pass without Trace"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Pass without Trace|Pass without Trace (EN)]]"
----
-
 # Pasar sin rastro
 
 *Abjuración de nivel 2 (druida, explorador)*

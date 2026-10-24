@@ -1,9 +1,3 @@
----
-aliases: ["Eyebite"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/MalDeOjo|Mal de ojo (Español)]]"
----
-
 ### Eyebite
 
 *Level 6 Necromancy* (Bard, Sorcerer, Warlock, Wizard)

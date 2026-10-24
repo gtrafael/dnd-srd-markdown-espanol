@@ -1,9 +1,3 @@
----
-aliases: ["Tejón gigante", "Giant Badger"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Badger|Giant Badger (EN)]]"
----
-
 # Tejón gigante
 
 *Bestia Mediana, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Silencio", "Silence"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Silence|Silence (EN)]]"
----
-
 # Silencio
 
 *Ilusionismo de nivel 2 (bardo, clérigo, explorador)*

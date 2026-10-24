@@ -1,9 +1,3 @@
----
-aliases: ["Mal de ojo", "Eyebite"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Eyebite|Eyebite (EN)]]"
----
-
 # Mal de ojo
 
 *Nigromancia de nivel 6 (bardo, brujo, hechicero, mago)*

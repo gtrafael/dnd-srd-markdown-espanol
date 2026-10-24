@@ -1,9 +1,3 @@
----
-aliases: ["Guanteletes de fuerza de ogro", "Gauntlets of Ogre Power"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Gauntlets of Ogre Power|Gauntlets of Ogre Power (EN)]]"
----
-
 # Guanteletes de fuerza de ogro
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

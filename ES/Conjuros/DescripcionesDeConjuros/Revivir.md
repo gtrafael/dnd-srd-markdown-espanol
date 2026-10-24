@@ -1,9 +1,3 @@
----
-aliases: ["Revivir", "Revivify"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Revivify|Revivify (EN)]]"
----
-
 # Revivir
 
 *Nigromancia de nivel 3 (clérigo, druida, explorador, paladín)*

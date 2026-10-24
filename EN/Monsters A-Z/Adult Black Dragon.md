@@ -1,9 +1,3 @@
----
-aliases: ["Adult Black Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonNegroAdulto|Dragón negro adulto (Español)]]"
----
-
 ## Adult Black Dragon
 
 *Huge Dragon (Chromatic), Chaotic Evil*

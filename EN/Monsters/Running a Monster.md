@@ -1,8 +1,3 @@
----
-aliases: ["Running a Monster", "Interpretar a un monstruo"]
-tags: [srd, english, tag_monsters]
-related_es: "[[Monstruos/InterpretarAUnMonstruo|Interpretar a un monstruo (Español)]]"
----
 # Running a Monster
 
 To ensure a monster acts in accordance with its Challenge Rating, follow these rules during combat:

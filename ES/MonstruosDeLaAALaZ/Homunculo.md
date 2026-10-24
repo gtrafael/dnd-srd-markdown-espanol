@@ -1,9 +1,3 @@
----
-aliases: ["Homúnculo", "Homunculus"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Homunculus|Homunculus (EN)]]"
----
-
 # Homúnculo
 
 *Autómata Diminuto, neutral*

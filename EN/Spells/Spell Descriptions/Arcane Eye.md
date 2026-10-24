@@ -1,9 +1,3 @@
----
-aliases: ["Arcane Eye"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/OjoArcano|Ojo arcano (Español)]]"
----
-
 ### Arcane Eye
 
 *Level 4 Divination* (Wizard)

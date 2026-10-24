@@ -1,9 +1,3 @@
----
-aliases: ["Escudriñar", "Scrying"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Scrying|Scrying (EN)]]"
----
-
 # Escudriñar
 
 *Adivinación de nivel 5 (bardo, brujo, clérigo, druida, mago)*

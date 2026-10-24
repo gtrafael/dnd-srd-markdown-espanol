@@ -1,9 +1,3 @@
----
-aliases: ["Stirge"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Estirge|Estirge (Español)]]"
----
-
 ## Stirge
 
 *Tiny Monstrosity, Unaligned*

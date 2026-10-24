@@ -1,9 +1,3 @@
----
-aliases: ["Activar un objeto mágico"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Activating a Magic Item|Activating a Magic Item (EN)]]"
----
-
 # Activar un objeto mágico
 
 Normalmente se necesita una acción de magia para activar un objeto mágico, aunque es posible que el usuario también tenga que hacer algo especial. La descripción de cada categoría de objetos o de cada objeto describe cómo se activan. Ciertos objetos utilizan las reglas que se mencionan a continuación para activarlos.

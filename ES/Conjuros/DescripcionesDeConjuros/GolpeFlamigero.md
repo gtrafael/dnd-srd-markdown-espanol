@@ -1,9 +1,3 @@
----
-aliases: ["Golpe flamígero", "Flame Strike"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Flame Strike|Flame Strike (EN)]]"
----
-
 # Golpe flamígero
 
 *Evocación de nivel 5 (clérigo)*

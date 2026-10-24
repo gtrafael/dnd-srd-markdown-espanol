@@ -1,9 +1,3 @@
----
-aliases: ["Freezing Sphere"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EsferaCongelante|Esfera congelante (Español)]]"
----
-
 ### Freezing Sphere
 
 *Level 6 Evocation* (Sorcerer, Wizard)

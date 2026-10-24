@@ -1,9 +1,3 @@
----
-aliases: ["Guardas y guardias", "Guards and Wards"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Guards and Wards|Guards and Wards (EN)]]"
----
-
 # Guardas y guardias
 
 *Abjuración de nivel 6 (bardo, mago)*

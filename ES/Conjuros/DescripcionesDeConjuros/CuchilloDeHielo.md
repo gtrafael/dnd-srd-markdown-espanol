@@ -1,9 +1,3 @@
----
-aliases: ["Cuchillo de hielo", "Ice Knife"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Ice Knife|Ice Knife (EN)]]"
----
-
 # Cuchillo de hielo
 
 *Conjuración de nivel 1 (druida, hechicero, mago)*

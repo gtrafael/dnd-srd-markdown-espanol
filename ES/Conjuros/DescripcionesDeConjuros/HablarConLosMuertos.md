@@ -1,9 +1,3 @@
----
-aliases: ["Hablar con los muertos", "Speak with Dead"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Speak with Dead|Speak with Dead (EN)]]"
----
-
 # Hablar con los muertos
 
 *Nigromancia de nivel 3 (bardo, clérigo, mago)*

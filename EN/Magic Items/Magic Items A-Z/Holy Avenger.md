@@ -1,9 +1,3 @@
----
-aliases: ["Holy Avenger"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VengadoraSagrada|Vengadora sagrada (Español)]]"
----
-
 ### Holy Avenger
 
 *Weapon (Any Simple or Martial), Legendary (Requires*

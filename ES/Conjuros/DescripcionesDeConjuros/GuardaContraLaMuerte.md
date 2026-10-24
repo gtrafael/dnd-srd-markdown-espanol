@@ -1,9 +1,3 @@
----
-aliases: ["Guarda contra la muerte", "Death Ward"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Death Ward|Death Ward (EN)]]"
----
-
 # Guarda contra la muerte
 
 *Abjuración de nivel 4 (clérigo, paladín)*

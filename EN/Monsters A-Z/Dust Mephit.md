@@ -1,9 +1,3 @@
----
-aliases: ["Dust Mephit"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/MephitDePolvo|Mephit de polvo (Español)]]"
----
-
 ## Dust Mephit
 
 *Small Elemental, Neutral Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Purple Worm"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GusanoPurpura|Gusano púrpura (Español)]]"
----
-
 ## Purple Worm
 
 *Gargantuan Monstrosity, Unaligned*

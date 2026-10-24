@@ -1,9 +1,3 @@
----
-aliases: ["Wererat"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/HombreRata|Hombre rata (Español)]]"
----
-
 ## Wererat
 
 *Medium or Small Monstrosity (Lycanthrope), Lawful Evil*

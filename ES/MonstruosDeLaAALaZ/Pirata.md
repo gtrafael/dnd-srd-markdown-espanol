@@ -1,9 +1,3 @@
----
-aliases: ["Pirata", "Pirate"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Pirate|Pirate (EN)]]"
----
-
 # Pirata
 
 *Humanoide Mediano o Pequeño, neutral*

@@ -1,9 +1,3 @@
----
-aliases: ["Grick"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Grick|Grick (Español)]]"
----
-
 ## Grick
 
 *Medium Aberration, Unaligned*

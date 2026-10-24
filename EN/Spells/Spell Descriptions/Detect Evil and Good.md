@@ -1,9 +1,3 @@
----
-aliases: ["Detect Evil and Good"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/DetectarElBienYElMal|Detectar el bien y el mal (Español)]]"
----
-
 ### Detect Evil and Good
 
 *Level 1 Divination* (Cleric, Paladin)

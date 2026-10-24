@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Elemental Command"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeComandarElementales]]"
----
-
 # Ring of Elemental Command
 
 _Ring, Legendary (Requires Attunement)_

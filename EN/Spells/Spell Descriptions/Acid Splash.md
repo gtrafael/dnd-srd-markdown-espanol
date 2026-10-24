@@ -1,9 +1,3 @@
----
-aliases: ["Acid Splash"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/SalpicaduraAcida|Salpicadura ácida (Español)]]"
----
-
 ### Acid Splash
 
 *Evocation Cantrip* (Sorcerer, Wizard)

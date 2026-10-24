@@ -1,9 +1,3 @@
----
-aliases: ["Staff of Fire"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeFuego]]"
----
-
 # Staff of Fire
 
 _Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)_

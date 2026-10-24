@@ -1,9 +1,3 @@
----
-aliases: ["Carillón de apertura", "Chime of Opening"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Chime of Opening|Chime of Opening (EN)]]"
----
-
 # Carillón de apertura
 
 *Objeto maravilloso, raro*

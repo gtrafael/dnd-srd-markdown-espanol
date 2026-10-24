@@ -1,9 +1,3 @@
----
-aliases: ["Polimorfar", "Polymorph"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Polymorph|Polymorph (EN)]]"
----
-
 # Polimorfar
 
 *Transmutación de nivel 4 (bardo, druida, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Escudo de caballero", "Shield of the Cavalier"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Shield of the Cavalier|Shield of the Cavalier (EN)]]"
----
-
 # Escudo de caballero
 
 *Armadura (escudo), muy rara (requiere sintonización)*

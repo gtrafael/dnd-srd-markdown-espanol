@@ -1,9 +1,3 @@
----
-aliases: ["Aliento de dragón", "Dragons Breath"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Dragons Breath|Dragons Breath (EN)]]"
----
-
 # Aliento de dragón
 
 *Transmutación de nivel 2 (hechicero, mago)*

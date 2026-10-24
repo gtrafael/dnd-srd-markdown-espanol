@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Protection"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeProteccion]]"
----
-
 # Ring of Protection
 
 _Ring, Rare (Requires Attunement)_

@@ -1,9 +1,3 @@
----
-aliases: ["Hidra", "Hydra"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Hydra|Hydra (EN)]]"
----
-
 # Hidra
 
 *Monstruosidad Enorme, sin alineamiento*

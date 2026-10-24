@@ -1,9 +1,3 @@
----
-aliases: ["Shield, +1, +2, or +3"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/Escudo12O3]]"
----
-
 # Shield, +1, +2, or +3
 
 _Armor (Shield), Uncommon (+1), Rare (+2), or Very Rare (+3)_

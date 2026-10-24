@@ -1,9 +1,3 @@
----
-aliases: ["Raise Dead"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/AlzarALosMuertos|Alzar a los muertos (Español)]]"
----
-
 ### Raise Dead
 
 *Level 5 Necromancy* (Bard, Cleric, Paladin)

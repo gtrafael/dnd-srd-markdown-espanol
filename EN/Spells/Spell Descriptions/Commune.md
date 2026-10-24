@@ -1,9 +1,3 @@
----
-aliases: ["Commune"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Comunion|Comunión (Español)]]"
----
-
 ### Commune
 
 *Level 5 Divination* (Cleric)

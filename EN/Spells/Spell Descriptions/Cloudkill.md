@@ -1,9 +1,3 @@
----
-aliases: ["Cloudkill"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/NubeAniquiladora|Nube aniquiladora (Español)]]"
----
-
 ### Cloudkill
 
 *Level 5 Conjuration* (Sorcerer, Wizard)

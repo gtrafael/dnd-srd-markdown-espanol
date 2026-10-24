@@ -1,9 +1,3 @@
----
-aliases: ["Adult Bronze Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDeBronceAdulto|Dragón de bronce adulto (Español)]]"
----
-
 ## Adult Bronze Dragon
 
 *Huge Dragon (Metallic), Lawful Good*

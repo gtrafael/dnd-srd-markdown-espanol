@@ -1,9 +1,3 @@
----
-aliases: ["Mummy"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Momia|Momia (Español)]]"
----
-
 ## Mummy
 
 *Medium or Small Undead, Lawful Evil*

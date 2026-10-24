@@ -1,9 +1,3 @@
----
-aliases: ["Libertad de movimiento", "Freedom of Movement"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Freedom of Movement|Freedom of Movement (EN)]]"
----
-
 # Libertad de movimiento
 
 *Abjuración de nivel 4 (bardo, clérigo, druida, explorador)*

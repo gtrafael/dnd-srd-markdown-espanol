@@ -1,9 +1,3 @@
----
-aliases: ["Dust of Sneezing and Choking"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PolvoDeEstornudarYAtragantarse|Polvo de estornudar y atragantarse (Español)]]"
----
-
 ### Dust of Sneezing and Choking
 
 *Wondrous Item, Uncommon*

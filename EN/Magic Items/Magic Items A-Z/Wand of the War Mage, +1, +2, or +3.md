@@ -1,9 +1,3 @@
----
-aliases: ["Wand of the War Mage, +1, +2, or +3"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDelMagoDeGuerra12O3|Wand of the War Mage, +1, +2, or +3 (Español)]]"
----
-
 # Wand of the War Mage, +1, +2, or +3
 
 _Wand, Uncommon (+1), Rare (+2), or Very Rare (+3) (Requires Attunement by a Spellcaster)_

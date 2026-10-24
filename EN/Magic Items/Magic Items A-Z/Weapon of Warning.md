@@ -1,9 +1,3 @@
----
-aliases: ["Weapon of Warning"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaDeAdvertencia|Weapon of Warning (Español)]]"
----
-
 # Weapon of Warning
 
 _Weapon (Any Simple or Martial), Uncommon (Requires Attunement)_

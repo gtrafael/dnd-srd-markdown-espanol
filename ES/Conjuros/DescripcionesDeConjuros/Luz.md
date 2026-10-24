@@ -1,9 +1,3 @@
----
-aliases: ["Luz", "Light"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Light|Light (EN)]]"
----
-
 # Luz
 
 *Truco de evocación (bardo, clérigo, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Anteojos de encantamiento", "Eyes of Charming"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Eyes of Charming|Eyes of Charming (EN)]]"
----
-
 # Anteojos de encantamiento
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

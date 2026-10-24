@@ -1,9 +1,3 @@
----
-aliases: ["Frost Brand"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/HierroDeEscarcha]]"
----
-
 # Frost Brand
 
 _Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Very Rare (Requires Attunement)_

@@ -1,9 +1,3 @@
----
-aliases: ["Elemental Gem"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GemaElemental|Gema elemental (Español)]]"
----
-
 ### Elemental Gem
 
 *Wondrous Item, Uncommon*

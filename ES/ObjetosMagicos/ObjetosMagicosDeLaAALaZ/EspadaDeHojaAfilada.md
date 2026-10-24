@@ -1,9 +1,3 @@
----
-aliases: ["Espada de hoja afilada", "Sword of Sharpness"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Sword of Sharpness|Sword of Sharpness (EN)]]"
----
-
 # Espada de hoja afilada
 
 *Arma (cimitarra, espada larga, espadón o guja), muy rara (requiere sintonización)*

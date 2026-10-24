@@ -1,9 +1,3 @@
----
-aliases: ["Arcane Hand"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ManoArcana|Mano arcana (Español)]]"
----
-
 ### Arcane Hand
 
 *Level 5 Evocation* (Sorcerer, Wizard)

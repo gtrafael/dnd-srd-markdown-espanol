@@ -1,9 +1,3 @@
----
-aliases: ["Tigre", "Tiger"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Tiger|Tiger (EN)]]"
----
-
 # Tigre
 
 *Bestia Grande, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Berserker"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Berserker|Berserker (Español)]]"
----
-
 ## Berserker
 
 _Medium or Small Humanoid, Neutral_

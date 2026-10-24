@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Three Wishes"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeLosTresDeseos]]"
----
-
 # Ring of Three Wishes
 
 _Ring, Legendary_

@@ -1,9 +1,3 @@
----
-aliases: ["Dragón blanco adulto", "Adult White Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Adult White Dragon|Adult White Dragon (EN)]]"
----
-
 # Dragón blanco adulto
 
 *Dragón Enorme (cromático), caótico malvado*

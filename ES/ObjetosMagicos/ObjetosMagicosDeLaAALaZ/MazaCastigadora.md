@@ -1,9 +1,3 @@
----
-aliases: ["Maza castigadora", "Mace of Smiting"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Mace of Smiting|Mace of Smiting (EN)]]"
----
-
 # Maza castigadora
 
 *Arma (maza), rara*

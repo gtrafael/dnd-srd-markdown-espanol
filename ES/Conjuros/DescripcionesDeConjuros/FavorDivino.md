@@ -1,9 +1,3 @@
----
-aliases: ["Favor divino", "Divine Favor"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Divine Favor|Divine Favor (EN)]]"
----
-
 # Favor divino
 
 *Transmutación de nivel 1 (paladín)*

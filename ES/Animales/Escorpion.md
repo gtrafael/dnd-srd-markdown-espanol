@@ -1,9 +1,3 @@
----
-aliases: ["Escorpión", "Scorpion"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Scorpion|Scorpion (EN)]]"
----
-
 # Escorpión
 
 *Bestia Diminuta, sin alineamiento*

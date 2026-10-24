@@ -1,9 +1,3 @@
----
-aliases: ["Mente en blanco", "Mind Blank"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mind Blank|Mind Blank (EN)]]"
----
-
 # Mente en blanco
 
 *Abjuración de nivel 8 (bardo, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Amulet of Health"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AmuletoDeSalud|Amuleto de salud (Español)]]"
----
-
 ### Amulet of Health
 
 *Wondrous Item, Rare (Requires Attunement)*

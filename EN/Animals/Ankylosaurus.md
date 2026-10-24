@@ -1,9 +1,3 @@
----
-aliases: ["Ankylosaurus"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Anquilosaurio|Anquilosaurio (Español)]]"
----
-
 ## Ankylosaurus
 
 *Huge Beast (Dinosaur), Unaligned*

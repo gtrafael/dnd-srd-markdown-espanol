@@ -1,9 +1,3 @@
----
-aliases: ["Hipopótamo", "Hippopotamus"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Hippopotamus|Hippopotamus (EN)]]"
----
-
 # Hipopótamo
 
 *Bestia Grande, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Rayo nauseabundo", "Ray of Sickness"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Ray of Sickness|Ray of Sickness (EN)]]"
----
-
 # Rayo nauseabundo
 
 *Nigromancia de nivel 1 (hechicero, mago)*

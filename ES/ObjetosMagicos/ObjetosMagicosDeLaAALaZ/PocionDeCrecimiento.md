@@ -1,9 +1,3 @@
----
-aliases: ["Poción de crecimiento"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Potion of Growth]]"
----
-
 # Poción de crecimiento
 
 *Poción, infrecuente*

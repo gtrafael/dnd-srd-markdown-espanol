@@ -1,9 +1,3 @@
----
-aliases: ["Tome of Clear Thought"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TomoDePensamientoClaro|Tomo de pensamiento claro (Español)]]"
----
-
 ### Tome of Clear Thought
 
 *Wondrous Item, Very Rare*

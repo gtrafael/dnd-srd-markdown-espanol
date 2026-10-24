@@ -1,9 +1,3 @@
----
-aliases: ["Escudo", "Shield"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Shield|Shield (EN)]]"
----
-
 # Escudo
 
 *Abjuración de nivel 1 (hechicero, mago)*

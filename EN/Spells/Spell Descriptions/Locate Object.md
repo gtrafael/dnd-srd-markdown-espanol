@@ -1,9 +1,3 @@
----
-aliases: ["Locate Object"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/LocalizarObjeto|Localizar objeto (Español)]]"
----
-
 ### Locate Object
 
 *Level 2 Divination* (Bard, Cleric, Druid, Paladin, Ranger, Wizard)

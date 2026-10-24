@@ -1,9 +1,3 @@
----
-aliases: ["Disolvente universal", "Universal Solvent"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Universal Solvent|Universal Solvent (EN)]]"
----
-
 # Disolvente universal
 
 *Objeto maravilloso, legendario*

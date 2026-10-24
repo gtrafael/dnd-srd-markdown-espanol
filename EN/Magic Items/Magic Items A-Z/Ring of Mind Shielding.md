@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Mind Shielding"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeEscudoMental]]"
----
-
 # Ring of Mind Shielding
 
 _Ring, Uncommon (Requires Attunement)_

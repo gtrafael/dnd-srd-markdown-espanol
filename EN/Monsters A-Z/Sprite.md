@@ -1,9 +1,3 @@
----
-aliases: ["Sprite"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Duende|Duende (Español)]]"
----
-
 ## Sprite
 
 *Tiny Fey, Neutral Good*

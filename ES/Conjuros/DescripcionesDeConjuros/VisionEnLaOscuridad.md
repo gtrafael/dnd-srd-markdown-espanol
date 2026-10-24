@@ -1,9 +1,3 @@
----
-aliases: ["Visión en la oscuridad", "Darkvision"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Darkvision|Darkvision (EN)]]"
----
-
 # Visión en la oscuridad
 
 *Transmutación de nivel 2 (druida, explorador, hechicero, mago)*

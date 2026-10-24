@@ -1,9 +1,3 @@
----
-aliases: ["Nube incendiaria", "Incendiary Cloud"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Incendiary Cloud|Incendiary Cloud (EN)]]"
----
-
 # Nube incendiaria
 
 *Conjuración de nivel 8 (druida, hechicero, mago)*

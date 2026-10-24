@@ -1,9 +1,3 @@
----
-aliases: ["Labia", "Glibness"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Glibness|Glibness (EN)]]"
----
-
 # Labia
 
 *Encantamiento de nivel 8 (bardo, brujo)*

@@ -1,9 +1,3 @@
----
-aliases: ["Symbol"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Simbolo|Símbolo (Español)]]"
----
-
 ### Symbol
 
 *Level 7 Abjuration* (Bard, Cleric, Druid, Wizard)

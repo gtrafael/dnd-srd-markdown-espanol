@@ -1,9 +1,3 @@
----
-aliases: ["Will-o-Wisp"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/FuegoFatuo|Fuego fatuo (Español)]]"
----
-
 ## Will-o’-Wisp
 
 *Tiny Undead, Chaotic Evil*

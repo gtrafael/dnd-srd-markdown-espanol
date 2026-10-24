@@ -1,9 +1,3 @@
----
-aliases: ["Barbed Devil"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DiabloPunzante|Diablo punzante (Español)]]"
----
-
 ## Barbed Devil
 
 *Medium Fiend (Devil), Lawful Evil*

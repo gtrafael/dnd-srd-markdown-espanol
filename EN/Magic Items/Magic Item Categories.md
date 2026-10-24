@@ -1,9 +1,3 @@
----
-aliases: ["Magic Item Categories"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/CategoriasDeObjetosMagicos|Categorías de objetos mágicos (Español)]]"
----
-
 # Magic Item Categories
 
 Every magic item belongs to a category. The table lists the nine categories and provides examples. Rules for the categories appear after the table.

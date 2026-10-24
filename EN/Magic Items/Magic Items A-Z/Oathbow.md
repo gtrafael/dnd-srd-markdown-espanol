@@ -1,9 +1,3 @@
----
-aliases: ["Oathbow"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArcoJuramentado|Arco juramentado (Español)]]"
----
-
 ### Oathbow
 
 *Weapon (Longbow or Shortbow), Very Rare (Requires*

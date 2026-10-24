@@ -1,9 +1,3 @@
----
-aliases: ["Alfombra asfixiante animada", "Animated Rug of Smothering"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Animated Rug of Smothering|Animated Rug of Smothering (EN)]]"
----
-
 # Alfombra asfixiante animada
 
 *Autómata Grande, sin alineamiento*

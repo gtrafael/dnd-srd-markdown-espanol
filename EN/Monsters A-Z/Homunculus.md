@@ -1,9 +1,3 @@
----
-aliases: ["Homunculus"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Homunculo|Homúnculo (Español)]]"
----
-
 ## Homunculus
 
 *Tiny Construct, Neutral*

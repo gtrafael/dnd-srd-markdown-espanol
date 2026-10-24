@@ -1,9 +1,3 @@
----
-aliases: ["Piedras mensajeras", "Sending Stones"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Sending Stones|Sending Stones (EN)]]"
----
-
 # Piedras mensajeras
 
 *Objeto maravilloso, infrecuente*

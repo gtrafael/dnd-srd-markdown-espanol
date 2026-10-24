@@ -1,9 +1,3 @@
----
-aliases: ["Caminar sobre el agua", "Water Walk"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Water Walk|Water Walk (EN)]]"
----
-
 # Caminar sobre el agua
 
 *Transmutación de nivel 3 (clérigo, druida, explorador, hechicero)*

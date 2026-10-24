@@ -1,9 +1,3 @@
----
-aliases: ["Helm of Telepathy"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/YelmoDeTelepatia|Yelmo de telepatía (Español)]]"
----
-
 ### Helm of Telepathy
 
 *Wondrous Item, Uncommon (Requires Attunement)*

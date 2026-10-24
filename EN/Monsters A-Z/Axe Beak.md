@@ -1,9 +1,3 @@
----
-aliases: ["Axe Beak"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/PicoDeHacha|Pico de hacha (Español)]]"
----
-
 ## Axe Beak
 
 *Large Monstrosity, Unaligned*

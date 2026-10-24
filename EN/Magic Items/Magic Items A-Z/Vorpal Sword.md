@@ -1,9 +1,3 @@
----
-aliases: ["Vorpal Sword"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspadaVorpal|Espada vorpal (Español)]]"
----
-
 # Vorpal Sword
 
 _Weapon (Glaive, Greatsword, Longsword, or Scimitar), Legendary (Requires Attunement)_

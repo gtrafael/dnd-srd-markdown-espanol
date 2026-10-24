@@ -1,9 +1,3 @@
----
-aliases: ["Relámpago en cadena", "Chain Lightning"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Chain Lightning|Chain Lightning (EN)]]"
----
-
 # Relámpago en cadena
 
 *Evocación de nivel 6 (hechicero, mago)*

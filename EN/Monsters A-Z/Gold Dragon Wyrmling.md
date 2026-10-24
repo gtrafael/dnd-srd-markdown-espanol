@@ -1,9 +1,3 @@
----
-aliases: ["Gold Dragon Wyrmling"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonDeOro|Cría de dragón de oro (Español)]]"
----
-
 ## Gold Dragon Wyrmling
 
 *Medium Dragon (Metallic), Lawful Good*

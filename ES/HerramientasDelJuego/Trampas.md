@@ -1,9 +1,3 @@
----
-aliases: ["Trampas", "Traps"]
-tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gameplay Toolbox/Traps|Traps (EN)]]"
----
-
 # Trampas
 
 Las trampas deben usarse con moderación o perderán su encanto. Un pozo escondido puede ser una sorpresa divertida, pero usar muchas trampas en una aventura puede hacer que los jugadores se vuelvan demasiado precavidos, lo que ralentizará la partida.

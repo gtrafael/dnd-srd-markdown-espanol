@@ -1,9 +1,3 @@
----
-aliases: ["Otyugh"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Otyugh|Otyugh (EN)]]"
----
-
 # Otyugh
 
 *Aberración Grande, neutral*

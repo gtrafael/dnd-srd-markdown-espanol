@@ -1,9 +1,3 @@
----
-aliases: ["Taumaturgia", "Thaumaturgy"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Thaumaturgy|Thaumaturgy (EN)]]"
----
-
 # Taumaturgia
 
 *Truco de transmutación (clérigo)*

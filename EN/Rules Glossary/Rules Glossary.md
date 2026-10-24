@@ -1,9 +1,3 @@
----
-aliases: ["Rules Glossary"]
-tags: [srd, english, tag_rulesglossary]
-related_es: "[[GlosarioDeReglas/GlosarioDeReglas|Glosario de reglas (Español)]]"
----
-
 # Rules Glossary
 
 ## Glossary Conventions

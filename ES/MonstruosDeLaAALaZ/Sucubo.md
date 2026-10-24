@@ -1,9 +1,3 @@
----
-aliases: ["Súcubo", "Succubus"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Succubus|Succubus (EN)]]"
----
-
 # Súcubo
 
 *Infernal Mediano, neutral malvado*

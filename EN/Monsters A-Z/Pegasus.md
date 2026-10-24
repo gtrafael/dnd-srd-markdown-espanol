@@ -1,9 +1,3 @@
----
-aliases: ["Pegasus"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Pegaso|Pegaso (Español)]]"
----
-
 ## Pegasus
 
 *Large Celestial, Chaotic Good*

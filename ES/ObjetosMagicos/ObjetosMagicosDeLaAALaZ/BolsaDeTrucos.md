@@ -1,9 +1,3 @@
----
-aliases: ["Bolsa de trucos", "Bag of Tricks"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Bag of Tricks|Bag of Tricks (EN)]]"
----
-
 # Bolsa de trucos
 
 *Objeto maravilloso, infrecuente*

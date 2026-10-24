@@ -1,9 +1,3 @@
----
-aliases: ["Gema del resplandor", "Gem of Brightness"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Gem of Brightness|Gem of Brightness (EN)]]"
----
-
 # Gema del resplandor
 
 *Objeto maravilloso, infrecuente*

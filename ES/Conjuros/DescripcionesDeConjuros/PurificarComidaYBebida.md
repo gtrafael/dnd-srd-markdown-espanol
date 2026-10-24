@@ -1,9 +1,3 @@
----
-aliases: ["Purificar comida y bebida", "Purify Food and Drink"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Purify Food and Drink|Purify Food and Drink (EN)]]"
----
-
 # Purificar comida y bebida
 
 *Transmutación de nivel 1 (clérigo, druida, paladín)*

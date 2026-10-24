@@ -1,9 +1,3 @@
----
-aliases: ["Elf"]
-tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/Elfo|Elfo (Español)]]"
----
-
 # Elf
 
 **Creature Type:** Humanoid

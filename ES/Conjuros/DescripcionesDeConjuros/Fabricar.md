@@ -1,9 +1,3 @@
----
-aliases: ["Fabricar", "Fabricate"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Fabricate|Fabricate (EN)]]"
----
-
 # Fabricar
 
 *Transmutación de nivel 4 (mago)*

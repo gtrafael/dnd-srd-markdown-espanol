@@ -1,9 +1,3 @@
----
-aliases: ["Energy Bow"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArcoDeEnergia|Arco de energía (Español)]]"
----
-
 ### Energy Bow
 
 *Weapon (Longbow or Shortbow), Very Rare (Requires*

@@ -1,9 +1,3 @@
----
-aliases: ["Proyección astral", "Astral Projection"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Astral Projection|Astral Projection (EN)]]"
----
-
 # Proyección astral
 
 *Nigromancia de nivel 9 (brujo, clérigo, mago)*

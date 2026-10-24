@@ -1,9 +1,3 @@
----
-aliases: ["Golpe apresador", "Ensnaring Strike"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Ensnaring Strike|Ensnaring Strike (EN)]]"
----
-
 # Golpe apresador
 
 *Conjuración de nivel 1 (explorador)*

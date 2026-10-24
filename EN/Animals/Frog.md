@@ -1,9 +1,3 @@
----
-aliases: ["Frog"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Rana|Rana (Español)]]"
----
-
 ## Frog
 
 *Tiny Beast, Unaligned*

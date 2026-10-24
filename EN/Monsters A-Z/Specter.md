@@ -1,9 +1,3 @@
----
-aliases: ["Specter"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Espectro|Espectro (Español)]]"
----
-
 ## Specter
 
 *Medium Undead, Chaotic Evil*

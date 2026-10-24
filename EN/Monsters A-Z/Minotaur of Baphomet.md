@@ -1,9 +1,3 @@
----
-aliases: ["Minotaur of Baphomet"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/MinotauroDeBafomet|Minotauro de Bafomet (Español)]]"
----
-
 ## Minotaur of Baphomet
 
 *Large Monstrosity, Chaotic Evil*

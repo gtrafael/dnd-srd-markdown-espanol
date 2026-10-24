@@ -1,9 +1,3 @@
----
-aliases: ["Warlock"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Brujo|Brujo (Español)]]"
----
-
 # Warlock
 
 ## Core Warlock Traits

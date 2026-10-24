@@ -1,9 +1,3 @@
----
-aliases: ["Poción de amistad animal"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Potion of Animal Friendship]]"
----
-
 # Poción de amistad animal
 
 *Poción, infrecuente*

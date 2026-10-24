@@ -1,9 +1,3 @@
----
-aliases: ["Violet Fungus"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/HongoVioleta|Hongo violeta (Español)]]"
----
-
 ## Violet Fungus
 
 _Medium Plant, Unaligned_

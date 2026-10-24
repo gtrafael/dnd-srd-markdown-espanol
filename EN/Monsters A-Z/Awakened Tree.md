@@ -1,9 +1,3 @@
----
-aliases: ["Awakened Tree"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/ArbolDespertado|Árbol despertado (Español)]]"
----
-
 ## Awakened Tree
 
 _Huge Plant, Neutral_

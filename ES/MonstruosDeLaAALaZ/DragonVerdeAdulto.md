@@ -1,9 +1,3 @@
----
-aliases: ["Dragón verde adulto", "Adult Green Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Adult Green Dragon|Adult Green Dragon (EN)]]"
----
-
 # Dragón verde adulto
 
 *Dragón Enorme (cromático), legal malvado*

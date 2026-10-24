@@ -1,9 +1,3 @@
----
-aliases: ["Traps"]
-tags: [srd, english, tag_gamemastering]
-related_es: "[[HerramientasDelJuego/Trampas|Trampas (Español)]]"
----
-
 # Traps
 
 Traps should be used sparingly, lest they lose their charm. A hidden pit can be a fun surprise, but too many traps in an adventure can lead players to become overly cautious, which slows down the game.

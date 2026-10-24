@@ -1,9 +1,3 @@
----
-aliases: ["Bastón de la pitón"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Staff of the Python]]"
----
-
 # Bastón de la pitón
 
 *Bastón, infrecuente (requiere sintonización)*

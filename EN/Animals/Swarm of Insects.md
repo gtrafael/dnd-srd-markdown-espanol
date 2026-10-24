@@ -1,9 +1,3 @@
----
-aliases: ["Swarm of Insects"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/EnjambreDeInsectos|Enjambre de insectos (Español)]]"
----
-
 ## Swarm of Insects
 
 *Medium Swarm of Tiny Beasts, Unaligned*

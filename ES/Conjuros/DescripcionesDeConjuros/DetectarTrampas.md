@@ -1,9 +1,3 @@
----
-aliases: ["Detectar trampas", "Find Traps"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Find Traps|Find Traps (EN)]]"
----
-
 # Detectar trampas
 
 *Adivinación de nivel 2 (clérigo, druida, explorador)*

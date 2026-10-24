@@ -1,9 +1,3 @@
----
-aliases: ["Capa élfica", "Cloak of Elvenkind"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Cloak of Elvenkind|Cloak of Elvenkind (EN)]]"
----
-
 # Capa élfica
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

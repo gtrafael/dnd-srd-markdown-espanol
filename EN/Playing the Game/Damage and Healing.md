@@ -1,9 +1,3 @@
----
-aliases: ["Damage and Healing"]
-tags: [srd, english, tag_gameplay]
-related_es: "[[ComoJugar/DanoYCuracion|Daño y curación (Español)]]"
----
-
 # Damage and Healing
 
 Injury and death are frequent threats, as detailed in the following rules.

@@ -1,9 +1,3 @@
----
-aliases: ["Helm of Brilliance"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/YelmoDeFulgor|Yelmo de fulgor (Español)]]"
----
-
 ### Helm of Brilliance
 
 *Wondrous Item, Very Rare (Requires Attunement)*

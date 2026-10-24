@@ -1,9 +1,3 @@
----
-aliases: ["Armadura de mithral", "Mithral Armor"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Mithral Armor|Mithral Armor (EN)]]"
----
-
 # Armadura de mithral
 
 *Armadura (cualquier armadura media o pesada, salvo armadura de pieles), infrecuente*

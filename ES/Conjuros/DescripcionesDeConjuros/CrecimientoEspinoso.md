@@ -1,9 +1,3 @@
----
-aliases: ["Crecimiento espinoso", "Spike Growth"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Spike Growth|Spike Growth (EN)]]"
----
-
 # Crecimiento espinoso
 
 *Transmutación de nivel 2 (druida, explorador)*

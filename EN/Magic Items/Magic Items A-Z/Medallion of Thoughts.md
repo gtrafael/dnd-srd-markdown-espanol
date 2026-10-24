@@ -1,9 +1,3 @@
----
-aliases: ["Medallion of Thoughts"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MedallonDeLosPensamientos|Medallón de los pensamientos (Español)]]"
----
-
 ### Medallion of Thoughts
 
 *Wondrous Item, Uncommon (Requires Attunement)*

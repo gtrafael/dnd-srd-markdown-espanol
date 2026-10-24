@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Magic Detection"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeDeteccionMagica|Wand of Magic Detection (Español)]]"
----
-
 # Wand of Magic Detection
 
 _Wand, Uncommon_

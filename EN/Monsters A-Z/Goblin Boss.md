@@ -1,9 +1,3 @@
----
-aliases: ["Goblin Boss"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/JefeGoblin|Jefe goblin (Español)]]"
----
-
 ## Goblin Boss
 
 *Small Fey (Goblinoid), Chaotic Neutral*

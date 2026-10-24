@@ -1,9 +1,3 @@
----
-aliases: ["Circlet of Blasting"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/DiademaDeEstallidos|Diadema de estallidos (Español)]]"
----
-
 ### Circlet of Blasting
 
 *Wondrous Item, Uncommon*

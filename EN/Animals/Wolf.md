@@ -1,9 +1,3 @@
----
-aliases: ["Wolf"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Lobo|Lobo (Español)]]"
----
-
 ## Wolf
 
 *Medium Beast, Unaligned*

@@ -1,9 +1,3 @@
----
-aliases: ["Enjambre de pirañas", "Swarm of Piranhas"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Swarm of Piranhas|Swarm of Piranhas (EN)]]"
----
-
 # Enjambre de pirañas
 
 *Enjambre Mediano de bestias Diminutas, sin alineamiento*

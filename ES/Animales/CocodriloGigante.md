@@ -1,9 +1,3 @@
----
-aliases: ["Cocodrilo gigante", "Giant Crocodile"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Crocodile|Giant Crocodile (EN)]]"
----
-
 # Cocodrilo gigante
 
 *Bestia Enorme, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Confusión", "Confusion"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Confusion|Confusion (EN)]]"
----
-
 # Confusión
 
 *Encantamiento de nivel 4 (bardo, druida, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Young Black Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonNegroJoven|Dragón negro joven (Español)]]"
----
-
 ## Young Black Dragon
 
 *Large Dragon (Chromatic), Chaotic Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Lightning Bolt"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Relampago|Relámpago (Español)]]"
----
-
 ### Lightning Bolt
 
 *Level 3 Evocation* (Sorcerer, Wizard)

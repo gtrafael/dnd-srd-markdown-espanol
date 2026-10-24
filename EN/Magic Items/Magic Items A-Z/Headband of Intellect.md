@@ -1,9 +1,3 @@
----
-aliases: ["Headband of Intellect"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/DiademaDeIntelecto|Diadema de intelecto (Español)]]"
----
-
 ### Headband of Intellect
 
 *Wondrous Item, Uncommon (Requires Attunement)*

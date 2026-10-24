@@ -1,9 +1,3 @@
----
-aliases: ["Huargo", "Worg"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Worg|Worg (EN)]]"
----
-
 # Huargo
 
 *Feérico Grande, neutral malvado*

@@ -1,9 +1,3 @@
----
-aliases: ["Bastón de los bosques"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Staff of the Woodlands]]"
----
-
 # Bastón de los bosques
 
 *Bastón, raro (requiere sintonización)*

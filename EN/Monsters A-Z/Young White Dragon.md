@@ -1,9 +1,3 @@
----
-aliases: ["Young White Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonBlancoJoven|Dragón blanco joven (Español)]]"
----
-
 ## Young White Dragon
 
 *Large Dragon (Chromatic), Chaotic Evil*

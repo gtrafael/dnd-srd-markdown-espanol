@@ -1,9 +1,3 @@
----
-aliases: ["Staff of the Python"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeLaPiton]]"
----
-
 # Staff of the Python
 
 _Staff, Uncommon (Requires Attunement)_

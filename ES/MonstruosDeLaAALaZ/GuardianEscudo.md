@@ -1,9 +1,3 @@
----
-aliases: ["Guardián escudo", "Shield Guardian"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Shield Guardian|Shield Guardian (EN)]]"
----
-
 # Guardián escudo
 
 *Autómata Grande, sin alineamiento*

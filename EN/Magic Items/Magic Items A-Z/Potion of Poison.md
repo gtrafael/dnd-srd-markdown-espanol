@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Poison"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeVeneno]]"
----
-
 # Potion of Poison
 
 _Potion, Uncommon_

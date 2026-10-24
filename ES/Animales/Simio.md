@@ -1,9 +1,3 @@
----
-aliases: ["Simio", "Ape"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Ape|Ape (EN)]]"
----
-
 # Simio
 
 *Bestia Mediana, sin alineamiento*

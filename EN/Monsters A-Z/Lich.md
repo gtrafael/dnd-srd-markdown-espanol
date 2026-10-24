@@ -1,9 +1,3 @@
----
-aliases: ["Lich"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Liche|Liche (Español)]]"
----
-
 ## Lich
 
 *Medium Undead (Wizard), Neutral Evil*

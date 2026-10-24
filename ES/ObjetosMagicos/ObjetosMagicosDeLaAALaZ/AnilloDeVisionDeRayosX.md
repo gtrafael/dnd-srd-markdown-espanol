@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de visión de rayos X"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of X-ray Vision]]"
----
-
 # Anillo de visión de rayos X
 
 *Anillo, raro (requiere sintonización)*

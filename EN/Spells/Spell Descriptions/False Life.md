@@ -1,9 +1,3 @@
----
-aliases: ["False Life"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/FalsaVida|Falsa vida (Español)]]"
----
-
 ### False Life
 
 *Level 1 Necromancy* (Sorcerer, Wizard)

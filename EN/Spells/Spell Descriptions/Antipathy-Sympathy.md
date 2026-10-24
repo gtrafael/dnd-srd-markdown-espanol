@@ -1,9 +1,3 @@
----
-aliases: ["Antipathy-Sympathy"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Antipatia_simpatia|Antipatía_simpatía (Español)]]"
----
-
 ### Antipathy/Sympathy
 
 _Level 8 Enchantment (Bard, Druid, Wizard)_

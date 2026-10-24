@@ -1,9 +1,3 @@
----
-aliases: ["Dragón azul joven", "Young Blue Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Young Blue Dragon|Young Blue Dragon (EN)]]"
----
-
 # Dragón azul joven
 
 *Dragón Grande (cromático), legal malvado*

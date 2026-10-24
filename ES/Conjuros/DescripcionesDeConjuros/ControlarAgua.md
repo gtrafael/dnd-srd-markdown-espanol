@@ -1,9 +1,3 @@
----
-aliases: ["Controlar agua", "Control Water"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Control Water|Control Water (EN)]]"
----
-
 # Controlar agua
 
 *Transmutación de nivel 4 (clérigo, druida, mago)*

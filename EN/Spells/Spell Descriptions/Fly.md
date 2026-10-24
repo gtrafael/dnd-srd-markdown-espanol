@@ -1,9 +1,3 @@
----
-aliases: ["Fly"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Volar|Volar (Español)]]"
----
-
 ### Fly
 
 *Level 3 Transmutation* (Sorcerer, Warlock, Wizard)

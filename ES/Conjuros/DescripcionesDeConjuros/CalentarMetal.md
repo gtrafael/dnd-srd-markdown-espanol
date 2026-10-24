@@ -1,9 +1,3 @@
----
-aliases: ["Calentar metal", "Heat Metal"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Heat Metal|Heat Metal (EN)]]"
----
-
 # Calentar metal
 
 *Transmutación de nivel 2 (bardo, druida)*

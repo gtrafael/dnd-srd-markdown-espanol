@@ -1,9 +1,3 @@
----
-aliases: ["Circle of Death"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CirculoDeMuerte|Círculo de muerte (Español)]]"
----
-
 ### Circle of Death
 
 *Level 6 Necromancy* (Sorcerer, Warlock, Wizard)

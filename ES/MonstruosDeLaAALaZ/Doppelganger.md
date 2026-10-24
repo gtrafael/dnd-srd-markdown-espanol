@@ -1,9 +1,3 @@
----
-aliases: ["Doppelganger"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Doppelganger|Doppelganger (EN)]]"
----
-
 # Doppelganger
 
 *Monstruosidad Mediana, neutral*

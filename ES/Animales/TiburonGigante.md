@@ -1,9 +1,3 @@
----
-aliases: ["Tiburón gigante", "Giant Shark"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Shark|Giant Shark (EN)]]"
----
-
 # Tiburón gigante
 
 *Bestia Enorme, sin alineamiento*

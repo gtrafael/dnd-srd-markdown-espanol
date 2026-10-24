@@ -1,9 +1,3 @@
----
-aliases: ["Bat"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Murcielago|Murciélago (Español)]]"
----
-
 ## Bat
 
 *Tiny Beast, Unaligned*

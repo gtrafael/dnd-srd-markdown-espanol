@@ -1,9 +1,3 @@
----
-aliases: ["Djinn", "Djinni"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Djinni|Djinni (EN)]]"
----
-
 # Djinn
 
 *Elemental Grande (genio), neutral*

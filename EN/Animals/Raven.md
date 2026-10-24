@@ -1,9 +1,3 @@
----
-aliases: ["Raven"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Cuervo|Cuervo (Español)]]"
----
-
 ## Raven
 
 *Tiny Beast, Unaligned*

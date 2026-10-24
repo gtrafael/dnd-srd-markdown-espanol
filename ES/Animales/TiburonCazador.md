@@ -1,9 +1,3 @@
----
-aliases: ["Tiburón cazador", "Hunter Shark"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Hunter Shark|Hunter Shark (EN)]]"
----
-
 # Tiburón cazador
 
 *Bestia Grande, sin alineamiento*

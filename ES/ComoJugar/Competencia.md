@@ -1,9 +1,3 @@
----
-aliases: ["Competencia"]
-tags: [srd, espanol, tag_comojugar]
-related_en: "[[Playing the Game/Proficiency]]"
----
-
 # Competencia
 
 A los personajes y los monstruos se les dan bien diversas cosas. Algunos son habilidosos con muchas armas, mientras que otros solo dominan unas pocas. Hay quienes captan enseguida la motivación de la gente y a quienes se les da mejor descubrir los secretos del multiverso. Todas las criaturas tienen un bonificador por competencia, que refleja el efecto del entrenamiento en las capacidades de la criatura. El bonificador por competencia de un personaje aumenta a medida que este va subiendo de nivel (consulta el capítulo “Creación de personajes”). El bonificador por competencia de un monstruo se basa en su valor de desafío (consulta el capítulo “Glosario de reglas”). La tabla “Bonificador por competencia” muestra cómo se determina.

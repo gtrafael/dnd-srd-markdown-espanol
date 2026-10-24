@@ -1,9 +1,3 @@
----
-aliases: ["Dire Wolf"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/LoboTerrible|Lobo terrible (Español)]]"
----
-
 ## Dire Wolf
 
 *Large Beast, Unaligned*

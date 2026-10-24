@@ -1,9 +1,3 @@
----
-aliases: ["Spirit Naga"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/NagaEspiritual|Naga espiritual (Español)]]"
----
-
 ## Spirit Naga
 
 *Large Fiend, Chaotic Evil*

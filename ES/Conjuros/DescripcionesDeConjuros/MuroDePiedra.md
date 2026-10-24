@@ -1,9 +1,3 @@
----
-aliases: ["Muro de piedra", "Wall of Stone"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Wall of Stone|Wall of Stone (EN)]]"
----
-
 # Muro de piedra
 
 *Evocación de nivel 5 (druida, hechicero, mago)*

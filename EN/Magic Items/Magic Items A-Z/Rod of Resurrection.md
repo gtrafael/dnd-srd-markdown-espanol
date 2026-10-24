@@ -1,9 +1,3 @@
----
-aliases: ["Rod of Resurrection"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaraDeLaResurreccion]]"
----
-
 # Rod of Resurrection
 
 _Rod, Legendary (Requires Attunement)_

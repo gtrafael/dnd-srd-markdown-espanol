@@ -1,9 +1,3 @@
----
-aliases: ["Hombre rata", "Wererat"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Wererat|Wererat (EN)]]"
----
-
 # Hombre rata
 
 *Monstruosidad Mediana o Pequeña (licántropo), legal malvada*

@@ -1,9 +1,3 @@
----
-aliases: ["Protection from Poison"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ProteccionContraVeneno|Protección contra veneno (Español)]]"
----
-
 ### Protection from Poison
 
 *Level 2 Abjuration* (Cleric, Druid, Paladin, Ranger)

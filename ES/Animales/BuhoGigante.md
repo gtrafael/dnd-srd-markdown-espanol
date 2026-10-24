@@ -1,9 +1,3 @@
----
-aliases: ["Búho gigante", "Giant Owl"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Owl|Giant Owl (EN)]]"
----
-
 # Búho gigante
 
 *Celestial Grande, neutral*

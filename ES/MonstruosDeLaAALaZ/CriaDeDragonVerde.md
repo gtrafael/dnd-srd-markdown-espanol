@@ -1,9 +1,3 @@
----
-aliases: ["Cría de dragón verde", "Green Dragon Wyrmling"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Green Dragon Wyrmling|Green Dragon Wyrmling (EN)]]"
----
-
 # Cría de dragón verde
 
 *Dragón Mediano (cromático), legal malvado*

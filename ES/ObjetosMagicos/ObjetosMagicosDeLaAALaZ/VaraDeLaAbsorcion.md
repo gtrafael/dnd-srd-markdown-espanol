@@ -1,9 +1,3 @@
----
-aliases: ["Vara de la absorción"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Rod of Absorption]]"
----
-
 # Vara de la absorción
 
 *Vara, muy rara (requiere sintonización)*

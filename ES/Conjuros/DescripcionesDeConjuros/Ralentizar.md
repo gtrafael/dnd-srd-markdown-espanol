@@ -1,9 +1,3 @@
----
-aliases: ["Ralentizar", "Slow"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Slow|Slow (EN)]]"
----
-
 # Ralentizar
 
 *Transmutación de nivel 3 (bardo, hechicero, mago)*

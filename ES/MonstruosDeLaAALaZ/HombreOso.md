@@ -1,9 +1,3 @@
----
-aliases: ["Hombre oso", "Werebear"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Werebear|Werebear (EN)]]"
----
-
 # Hombre oso
 
 *Monstruosidad Mediana o Pequeña (licántropo), neutral buena*

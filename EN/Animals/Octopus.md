@@ -1,9 +1,3 @@
----
-aliases: ["Octopus"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Pulpo|Pulpo (Español)]]"
----
-
 ## Octopus
 
 *Small Beast, Unaligned*

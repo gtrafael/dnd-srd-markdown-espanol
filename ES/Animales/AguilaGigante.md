@@ -1,9 +1,3 @@
----
-aliases: ["Águila gigante", "Giant Eagle"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Eagle|Giant Eagle (EN)]]"
----
-
 # Águila gigante
 
 *Celestial Grande, neutral bueno*

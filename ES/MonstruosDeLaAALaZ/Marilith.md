@@ -1,9 +1,3 @@
----
-aliases: ["Marilith"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Marilith|Marilith (EN)]]"
----
-
 # Marilith
 
 *Infernal Grande (demonio), caótico malvado*

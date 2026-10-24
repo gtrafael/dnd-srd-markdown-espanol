@@ -1,9 +1,3 @@
----
-aliases: ["Alter Self"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/AlterarElPropioAspecto|Alterar el propio aspecto (Español)]]"
----
-
 ### Alter Self
 
 *Level 2 Transmutation* (Sorcerer, Wizard)

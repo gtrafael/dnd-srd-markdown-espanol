@@ -1,9 +1,3 @@
----
-aliases: ["Otyugh"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Otyugh|Otyugh (Español)]]"
----
-
 ## Otyugh
 
 *Large Aberration, Neutral*

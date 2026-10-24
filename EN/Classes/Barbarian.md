@@ -1,9 +1,3 @@
----
-aliases: ["Barbarian"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Barbaro|Barbaro (Español)]]"
----
-
 # Barbarian
 
 ## Core Barbarian Traits

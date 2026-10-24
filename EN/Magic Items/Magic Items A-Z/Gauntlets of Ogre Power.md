@@ -1,9 +1,3 @@
----
-aliases: ["Gauntlets of Ogre Power"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GuanteletesDeFuerzaDeOgro|Guanteletes de fuerza de ogro (Español)]]"
----
-
 ### Gauntlets of Ogre Power
 
 *Wondrous Item, Uncommon (Requires Attunement)*

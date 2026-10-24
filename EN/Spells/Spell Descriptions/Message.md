@@ -1,9 +1,3 @@
----
-aliases: ["Message"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Mensaje|Mensaje (Español)]]"
----
-
 ### Message
 
 *Transmutation Cantrip* (Bard, Druid, Sorcerer, Wizard)

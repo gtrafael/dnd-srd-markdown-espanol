@@ -1,9 +1,3 @@
----
-aliases: ["Venomous Snake"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/SerpienteVenenosa|Serpiente venenosa (Español)]]"
----
-
 ## Venomous Snake
 
 *Tiny Beast, Unaligned*

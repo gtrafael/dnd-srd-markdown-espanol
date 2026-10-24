@@ -1,9 +1,3 @@
----
-aliases: ["Giant Bat"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/MurcielagoGigante|Murciélago gigante (Español)]]"
----
-
 ## Giant Bat
 
 *Large Beast, Unaligned*

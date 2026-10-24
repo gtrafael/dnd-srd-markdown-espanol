@@ -1,9 +1,3 @@
----
-aliases: ["Staff of Thunder and Lightning"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeTruenosYRelampagos]]"
----
-
 # Staff of Thunder and Lightning
 
 _Staff, Very Rare (Requires Attunement)_

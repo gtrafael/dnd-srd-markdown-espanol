@@ -1,9 +1,3 @@
----
-aliases: ["Brujo", "Warlock"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Warlock|Warlock (EN)]]"
----
-
 # Brujo
 
 Atributos básicos de brujo

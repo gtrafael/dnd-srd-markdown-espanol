@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de regeneración"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Regeneration]]"
----
-
 # Anillo de regeneración
 
 *Anillo, muy raro (requiere sintonización)*

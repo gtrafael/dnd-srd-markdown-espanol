@@ -1,9 +1,3 @@
----
-aliases: ["Acechador osgo", "Bugbear Stalker"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Bugbear Stalker|Bugbear Stalker (EN)]]"
----
-
 # Acechador osgo
 
 *Feérico Mediano (trasgo), caótico malvado*

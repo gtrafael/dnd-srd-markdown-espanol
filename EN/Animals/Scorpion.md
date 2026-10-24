@@ -1,9 +1,3 @@
----
-aliases: ["Scorpion"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Escorpion|Escorpión (Español)]]"
----
-
 ## Scorpion
 
 *Tiny Beast, Unaligned*

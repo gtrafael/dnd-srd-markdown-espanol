@@ -1,9 +1,3 @@
----
-aliases: ["Rakshasa"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Rakshasa|Rakshasa (Español)]]"
----
-
 ## Rakshasa
 
 *Medium Fiend, Lawful Evil*

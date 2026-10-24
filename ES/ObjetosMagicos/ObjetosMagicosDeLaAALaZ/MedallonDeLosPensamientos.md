@@ -1,9 +1,3 @@
----
-aliases: ["Medallón de los pensamientos", "Medallion of Thoughts"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Medallion of Thoughts|Medallion of Thoughts (EN)]]"
----
-
 # Medallón de los pensamientos
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

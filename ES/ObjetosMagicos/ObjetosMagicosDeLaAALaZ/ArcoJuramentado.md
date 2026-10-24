@@ -1,9 +1,3 @@
----
-aliases: ["Arco juramentado", "Oathbow"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Oathbow|Oathbow (EN)]]"
----
-
 # Arco juramentado
 
 *Arma (arco corto o largo), muy rara (requiere sintonización)*

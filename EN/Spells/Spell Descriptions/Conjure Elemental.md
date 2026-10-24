@@ -1,9 +1,3 @@
----
-aliases: ["Conjure Elemental"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ConjurarElemental|Conjurar elemental (Español)]]"
----
-
 ### Conjure Elemental
 
 *Level 5 Conjuration* (Druid, Wizard)

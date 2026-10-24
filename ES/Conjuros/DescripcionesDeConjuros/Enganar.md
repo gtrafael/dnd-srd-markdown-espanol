@@ -1,9 +1,3 @@
----
-aliases: ["Engañar", "Mislead"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mislead|Mislead (EN)]]"
----
-
 # Engañar
 
 *Ilusionismo de nivel 5 (bardo, brujo, mago)*

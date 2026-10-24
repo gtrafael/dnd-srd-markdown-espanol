@@ -1,9 +1,3 @@
----
-aliases: ["Black Pudding"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/PudinNegro|Pudin negro (Español)]]"
----
-
 ## Black Pudding
 
 *Large Ooze, Unaligned*

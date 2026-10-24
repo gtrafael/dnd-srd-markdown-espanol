@@ -1,9 +1,3 @@
----
-aliases: ["Efficient Quiver"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AljabaEficiente|Aljaba eficiente (Español)]]"
----
-
 ### Efficient Quiver
 
 *Wondrous Item, Uncommon*

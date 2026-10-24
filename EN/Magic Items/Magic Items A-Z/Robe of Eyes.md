@@ -1,9 +1,3 @@
----
-aliases: ["Robe of Eyes"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TunicaDeLosOjos|Túnica de los ojos (Español)]]"
----
-
 ### Robe of Eyes
 
 *Wondrous Item, Rare (Requires Attunement)*

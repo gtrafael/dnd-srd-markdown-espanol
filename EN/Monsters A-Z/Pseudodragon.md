@@ -1,9 +1,3 @@
----
-aliases: ["Pseudodragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Pseudodragon|Pseudodragón (Español)]]"
----
-
 ## Pseudodragon
 
 *Tiny Dragon, Neutral Good*

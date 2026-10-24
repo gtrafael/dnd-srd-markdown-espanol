@@ -1,9 +1,3 @@
----
-aliases: ["Heal"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Curar|Curar (Español)]]"
----
-
 ### Heal
 
 *Level 6 Abjuration* (Cleric, Druid)

@@ -1,9 +1,3 @@
----
-aliases: ["Teleport"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Teletransporte|Teletransporte (Español)]]"
----
-
 ### Teleport
 
 *Level 7 Conjuration* (Bard, Sorcerer, Wizard)

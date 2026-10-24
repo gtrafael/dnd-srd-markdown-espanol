@@ -1,9 +1,3 @@
----
-aliases: ["Bagatelas", "Trinkets"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Creation/Trinkets|Trinkets (EN)]]"
----
-
 # Bagatelas
 
 Cuando creas a tu personaje, puedes tirar una vez en la tabla “Bagatelas” para obtener una bagatela Diminuta: un objeto sencillo envuelto en cierto halo de misterio. Los GM también podrían utilizar esta tabla para llenar una estancia de una mazmorra o los bolsillos de una criatura.

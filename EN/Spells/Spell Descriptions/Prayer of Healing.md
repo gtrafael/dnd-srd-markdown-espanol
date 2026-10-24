@@ -1,9 +1,3 @@
----
-aliases: ["Prayer of Healing"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PlegariaDeCuracion|Plegaria de curación (Español)]]"
----
-
 ### Prayer of Healing
 
 *Level 2 Abjuration* (Cleric, Paladin)

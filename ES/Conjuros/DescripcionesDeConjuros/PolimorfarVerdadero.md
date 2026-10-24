@@ -1,9 +1,3 @@
----
-aliases: ["Polimorfar verdadero", "True Polymorph"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/True Polymorph|True Polymorph (EN)]]"
----
-
 # Polimorfar verdadero
 
 *Transmutación de nivel 9 (bardo, brujo, mago)*

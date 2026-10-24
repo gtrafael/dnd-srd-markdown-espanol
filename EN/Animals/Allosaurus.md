@@ -1,9 +1,3 @@
----
-aliases: ["Allosaurus"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Alosaurio|Alosaurio (Español)]]"
----
-
 ## Allosaurus
 
 *Large Beast (Dinosaur), Unaligned*

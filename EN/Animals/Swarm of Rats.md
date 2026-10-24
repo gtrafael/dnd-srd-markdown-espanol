@@ -1,9 +1,3 @@
----
-aliases: ["Swarm of Rats"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/EnjambreDeRatas|Enjambre de ratas (Español)]]"
----
-
 ## Swarm of Rats
 
 *Medium Swarm of Tiny Beasts, Unaligned*

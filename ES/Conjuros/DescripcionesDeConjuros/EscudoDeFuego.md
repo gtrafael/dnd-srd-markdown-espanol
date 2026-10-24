@@ -1,9 +1,3 @@
----
-aliases: ["Escudo de fuego", "Fire Shield"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Fire Shield|Fire Shield (EN)]]"
----
-
 # Escudo de fuego
 
 *Evocación de nivel 4 (druida, hechicero, mago)*

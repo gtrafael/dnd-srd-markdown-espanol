@@ -1,9 +1,3 @@
----
-aliases: ["Categorías de objetos mágicos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Item Categories|Magic Item Categories (EN)]]"
----
-
 # Categorías de objetos mágicos
 
 Todos los objetos mágicos pertenecen a una categoría. La tabla "Categorías de objetos mágicos" contiene las nueve categorías y proporciona algunos ejemplos. Las reglas para cada categoría se indican tras la tabla.

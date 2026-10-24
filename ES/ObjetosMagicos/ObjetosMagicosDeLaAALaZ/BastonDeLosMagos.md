@@ -1,9 +1,3 @@
----
-aliases: ["Bastón de los magos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Staff of the Magi]]"
----
-
 # Bastón de los magos
 
 *Bastón, legendario (requiere sintonización por parte de un brujo, hechicero o mago)*

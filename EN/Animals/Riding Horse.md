@@ -1,9 +1,3 @@
----
-aliases: ["Riding Horse"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/CaballoDeMonta|Caballo de monta (Español)]]"
----
-
 ## Riding Horse
 
 *Large Beast, Unaligned*

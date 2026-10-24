@@ -1,9 +1,3 @@
----
-aliases: ["Telequinesis", "Telekinesis"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Telekinesis|Telekinesis (EN)]]"
----
-
 # Telequinesis
 
 *Transmutación de nivel 5 (hechicero, mago)*

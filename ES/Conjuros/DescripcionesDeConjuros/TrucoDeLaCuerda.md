@@ -1,9 +1,3 @@
----
-aliases: ["Truco de la cuerda", "Rope Trick"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Rope Trick|Rope Trick (EN)]]"
----
-
 # Truco de la cuerda
 
 *Transmutación de nivel 2 (mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Desintegrar", "Disintegrate"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Disintegrate|Disintegrate (EN)]]"
----
-
 # Desintegrar
 
 *Transmutación de nivel 6 (hechicero, mago)*

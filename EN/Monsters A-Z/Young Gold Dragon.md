@@ -1,9 +1,3 @@
----
-aliases: ["Young Gold Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDeOroJoven|Dragón de oro joven (Español)]]"
----
-
 ## Young Gold Dragon
 
 *Large Dragon (Metallic), Lawful Good*

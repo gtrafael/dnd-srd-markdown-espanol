@@ -1,9 +1,3 @@
----
-aliases: ["Stoneskin"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PielPetrea|Piel pétrea (Español)]]"
----
-
 ### Stoneskin
 
 *Level 4 Transmutation* (Druid, Ranger, Sorcerer, Wizard)

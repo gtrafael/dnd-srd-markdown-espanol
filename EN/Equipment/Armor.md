@@ -1,9 +1,3 @@
----
-aliases: ["Armor"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/Armaduras|Armadura (Español)]]"
----
-
 # Armor
 
 The Armor table lists the game's main armor. The table includes the cost and weight of armor, as well as the following details:

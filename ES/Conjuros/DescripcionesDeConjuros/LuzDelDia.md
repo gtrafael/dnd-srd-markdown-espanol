@@ -1,9 +1,3 @@
----
-aliases: ["Luz del día", "Daylight"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Daylight|Daylight (EN)]]"
----
-
 # Luz del día
 
 *Evocación de nivel 3 (clérigo, druida, explorador, hechicero, paladín)*

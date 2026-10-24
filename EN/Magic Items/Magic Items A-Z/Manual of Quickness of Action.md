@@ -1,9 +1,3 @@
----
-aliases: ["Manual of Quickness of Action"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ManualDeRapidezDeAccion|Manual de rapidez de acción (Español)]]"
----
-
 ### Manual of Quickness of Action
 
 *Wondrous Item, Very Rare*

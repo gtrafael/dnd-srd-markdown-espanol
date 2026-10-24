@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Lightning Bolts"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeRelampagos|Wand of Lightning Bolts (Español)]]"
----
-
 # Wand of Lightning Bolts
 
 _Wand, Rare (Requires Attunement by a Spellcaster)_

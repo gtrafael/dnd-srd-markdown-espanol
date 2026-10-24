@@ -1,9 +1,3 @@
----
-aliases: ["Scribing Spell Scrolls"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/ElaborarPergaminosDeConjuro|Elaborar pergaminos de conjuro (Español)]]"
----
-
 # Scribing Spell Scrolls
 
 A spellcaster can transfer a spell to a scroll and create a _Spell Scroll_, using the rules below.

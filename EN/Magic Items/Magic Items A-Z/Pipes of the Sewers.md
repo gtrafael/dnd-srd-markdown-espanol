@@ -1,9 +1,3 @@
----
-aliases: ["Pipes of the Sewers"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FlautaDeLasCloacas|Flauta de las cloacas (Español)]]"
----
-
 ### Pipes of the Sewers
 
 *Wondrous Item, Uncommon (Requires Attunement)*

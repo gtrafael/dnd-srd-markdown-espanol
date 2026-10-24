@@ -1,9 +1,3 @@
----
-aliases: ["Create Undead"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CrearMuertoViviente|Crear muerto viviente (Español)]]"
----
-
 ### Create Undead
 
 *Level 6 Necromancy* (Cleric, Warlock, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Spare the Dying"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PiedadConLosMoribundos|Piedad con los moribundos (Español)]]"
----
-
 ### Spare the Dying
 
 *Necromancy Cantrip* (Cleric, Druid)

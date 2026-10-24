@@ -1,9 +1,3 @@
----
-aliases: ["Curar heridas", "Cure Wounds"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Cure Wounds|Cure Wounds (EN)]]"
----
-
 # Curar heridas
 
 *Abjuración de nivel 1 (bardo, clérigo, druida, explorador, paladín)*

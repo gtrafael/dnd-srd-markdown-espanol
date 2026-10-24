@@ -1,9 +1,3 @@
----
-aliases: ["Erinia", "Erinyes"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Erinyes|Erinyes (EN)]]"
----
-
 # Erinia
 
 *Infernal Mediano (diablo), legal malvado*

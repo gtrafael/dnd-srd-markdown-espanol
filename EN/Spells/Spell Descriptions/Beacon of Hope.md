@@ -1,9 +1,3 @@
----
-aliases: ["Beacon of Hope"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/SenalDeEsperanza|Señal de esperanza (Español)]]"
----
-
 ### Beacon of Hope
 
 *Level 3 Abjuration* (Cleric)

@@ -1,9 +1,3 @@
----
-aliases: ["Broza movediza", "Shambling Mound"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Shambling Mound|Shambling Mound (EN)]]"
----
-
 # Broza movediza
 
 *Planta Grande, sin alineamiento*

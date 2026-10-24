@@ -1,9 +1,3 @@
----
-aliases: ["Vampire Familiar"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/SiervoDeVampiro|Siervo de vampiro (Español)]]"
----
-
 ## Vampire Familiar
 
 *Medium or Small Humanoid, Neutral Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Auxilio", "Aid"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Aid|Aid (EN)]]"
----
-
 # Auxilio
 
 *Abjuración de nivel 2 (bardo, clérigo, druida, explorador, paladín)*

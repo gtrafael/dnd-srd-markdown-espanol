@@ -1,10 +1,3 @@
----
-aliases: ["Weapons"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/Armas|Armas (Español)]]"
----
-
-
 # Weapons
 
 The Weapons table in this section shows the game's main weapons. The table lists the cost and weight of each weapon, as well as the following details:

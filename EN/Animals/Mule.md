@@ -1,9 +1,3 @@
----
-aliases: ["Mule"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Mula|Mula (Español)]]"
----
-
 ## Mule
 
 _Medium Beast, Unaligned_

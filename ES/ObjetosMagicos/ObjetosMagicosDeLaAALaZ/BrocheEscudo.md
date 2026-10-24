@@ -1,9 +1,3 @@
----
-aliases: ["Broche escudo", "Brooch of Shielding"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Brooch of Shielding|Brooch of Shielding (EN)]]"
----
-
 # Broche escudo
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

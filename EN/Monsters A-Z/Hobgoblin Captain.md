@@ -1,9 +1,3 @@
----
-aliases: ["Hobgoblin Captain"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CapitanHobgoblin|Capitán hobgoblin (Español)]]"
----
-
 ## Hobgoblin Captain
 
 *Medium Fey (Goblinoid), Lawful Evil*

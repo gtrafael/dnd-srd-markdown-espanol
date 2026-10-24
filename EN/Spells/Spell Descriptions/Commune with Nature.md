@@ -1,9 +1,3 @@
----
-aliases: ["Commune with Nature"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ComunionConLaNaturaleza|Comunión con la naturaleza (Español)]]"
----
-
 ### Commune with Nature
 
 *Level 5 Divination* (Druid, Ranger)

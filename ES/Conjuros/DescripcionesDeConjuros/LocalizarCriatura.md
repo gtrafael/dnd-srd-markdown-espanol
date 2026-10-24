@@ -1,9 +1,3 @@
----
-aliases: ["Localizar criatura", "Locate Creature"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Locate Creature|Locate Creature (EN)]]"
----
-
 # Localizar criatura
 
 *Adivinación de nivel 4 (bardo, clérigo, druida, explorador, mago, paladín)*

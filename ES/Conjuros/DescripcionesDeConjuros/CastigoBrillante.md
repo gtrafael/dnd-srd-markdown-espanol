@@ -1,9 +1,3 @@
----
-aliases: ["Castigo brillante", "Shining Smite"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Shining Smite|Shining Smite (EN)]]"
----
-
 # Castigo brillante
 
 *Transmutación de nivel 2 (paladín)*

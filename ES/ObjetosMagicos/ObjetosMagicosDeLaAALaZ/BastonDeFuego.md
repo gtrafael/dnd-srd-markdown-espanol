@@ -1,9 +1,3 @@
----
-aliases: ["Bastón de fuego"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Staff of Fire]]"
----
-
 # Bastón de fuego
 
 *Bastón, muy raro (requiere sintonización por parte de un brujo, druida, hechicero o mago)*

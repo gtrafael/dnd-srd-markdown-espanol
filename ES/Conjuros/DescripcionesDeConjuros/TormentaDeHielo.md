@@ -1,9 +1,3 @@
----
-aliases: ["Tormenta de hielo", "Ice Storm"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Ice Storm|Ice Storm (EN)]]"
----
-
 # Tormenta de hielo
 
 *Evocación de nivel 4 (druida, hechicero, mago)*

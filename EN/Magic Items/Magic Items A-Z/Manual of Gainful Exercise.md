@@ -1,9 +1,3 @@
----
-aliases: ["Manual of Gainful Exercise"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ManualDelEjercicioBeneficioso|Manual del ejercicio beneficioso (Español)]]"
----
-
 ### Manual of Gainful Exercise
 
 *Wondrous Item, Very Rare*

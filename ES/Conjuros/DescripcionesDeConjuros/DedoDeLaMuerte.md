@@ -1,9 +1,3 @@
----
-aliases: ["Dedo de la muerte", "Finger of Death"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Finger of Death|Finger of Death (EN)]]"
----
-
 # Dedo de la muerte
 
 *Nigromancia de nivel 7 (brujo, hechicero, mago)*

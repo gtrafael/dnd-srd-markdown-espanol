@@ -1,9 +1,3 @@
----
-aliases: ["Alterar los recuerdos", "Modify Memory"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Modify Memory|Modify Memory (EN)]]"
----
-
 # Alterar los recuerdos
 
 *Encantamiento de nivel 5 (bardo, mago)*

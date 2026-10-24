@@ -1,9 +1,3 @@
----
-aliases: ["Voluta estelar", "Starry Wisp"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Starry Wisp|Starry Wisp (EN)]]"
----
-
 # Voluta estelar
 
 *Truco de evocación (bardo, druida)*

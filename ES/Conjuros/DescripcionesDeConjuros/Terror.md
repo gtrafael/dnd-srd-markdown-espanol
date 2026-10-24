@@ -1,9 +1,3 @@
----
-aliases: ["Terror", "Fear"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Fear|Fear (EN)]]"
----
-
 # Terror
 
 *Ilusionismo de nivel 3 (bardo, brujo, hechicero, mago)*

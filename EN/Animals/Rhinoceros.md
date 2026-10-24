@@ -1,9 +1,3 @@
----
-aliases: ["Rhinoceros"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Rinoceronte|Rinoceronte (Español)]]"
----
-
 ## Rhinoceros
 
 *Large Beast, Unaligned*

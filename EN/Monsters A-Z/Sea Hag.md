@@ -1,9 +1,3 @@
----
-aliases: ["Sea Hag"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/SagaDeLosMares|Saga de los mares (Español)]]"
----
-
 ## Sea Hag
 
 *Medium Fey, Chaotic Evil*

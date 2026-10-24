@@ -1,9 +1,3 @@
----
-aliases: ["Conjurar elementales menores", "Conjure Minor Elementals"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Conjure Minor Elementals|Conjure Minor Elementals (EN)]]"
----
-
 # Conjurar elementales menores
 
 *Conjuración de nivel 4 (druida, mago)*

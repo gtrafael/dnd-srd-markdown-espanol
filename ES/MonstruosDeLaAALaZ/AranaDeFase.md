@@ -1,9 +1,3 @@
----
-aliases: ["Araña de fase", "Phase Spider"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Phase Spider|Phase Spider (EN)]]"
----
-
 # Araña de fase
 
 *Monstruosidad Grande, sin alineamiento*

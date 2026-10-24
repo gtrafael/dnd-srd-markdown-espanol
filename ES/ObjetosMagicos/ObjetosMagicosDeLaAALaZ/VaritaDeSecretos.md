@@ -1,9 +1,3 @@
----
-aliases: ["Varita de secretos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wand of Secrets|Wand of Secrets (EN)]]"
----
-
 # Varita de secretos
 
 *Varita, infrecuente*

@@ -1,9 +1,3 @@
----
-aliases: ["Anquilosaurio", "Ankylosaurus"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Ankylosaurus|Ankylosaurus (EN)]]"
----
-
 # Anquilosaurio
 
 *Bestia Enorme (dinosaurio), sin alineamiento*

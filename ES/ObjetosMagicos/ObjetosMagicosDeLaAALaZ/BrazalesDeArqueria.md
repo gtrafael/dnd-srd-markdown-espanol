@@ -1,9 +1,3 @@
----
-aliases: ["Brazales de arquería", "Bracers of Archery"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Bracers of Archery|Bracers of Archery (EN)]]"
----
-
 # Brazales de arquería
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

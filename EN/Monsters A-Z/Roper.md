@@ -1,9 +1,3 @@
----
-aliases: ["Roper"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Lacero|Lacero (Español)]]"
----
-
 ## Roper
 
 *Large Aberration, Neutral Evil*

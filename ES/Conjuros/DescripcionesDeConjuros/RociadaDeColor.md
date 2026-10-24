@@ -1,9 +1,3 @@
----
-aliases: ["Rociada de color", "Color Spray"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Color Spray|Color Spray (EN)]]"
----
-
 # Rociada de color
 
 *Ilusionismo de nivel 1 (bardo, hechicero, mago)*

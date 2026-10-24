@@ -1,9 +1,3 @@
----
-aliases: ["Sword of Sharpness"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspadaDeHojaAfilada]]"
----
-
 # Sword of Sharpness
 
 _Weapon (Glaive, Greatsword, Longsword, or Scimitar), Very Rare (Requires Attunement)_

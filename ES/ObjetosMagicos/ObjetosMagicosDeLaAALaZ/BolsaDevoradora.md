@@ -1,9 +1,3 @@
----
-aliases: ["Bolsa devoradora", "Bag of Devouring"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Bag of Devouring|Bag of Devouring (EN)]]"
----
-
 # Bolsa devoradora
 
 *Objeto maravilloso, muy raro*

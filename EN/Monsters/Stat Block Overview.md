@@ -1,9 +1,3 @@
----
-aliases: ["Stat Block Overview", "Descripción general de los perfiles"]
-tags: [srd, english, tag_monsters]
-related_es: "[[Monstruos/DescripcionGeneralDeLosPerfiles|Descripción general de los perfiles (Español)]]"
----
-
 # Stat Block Overview
 
 A monster has a stat block that contains the rules necessary to use it in the game. Stat blocks are divided into the following parts:

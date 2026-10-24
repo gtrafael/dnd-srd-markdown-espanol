@@ -1,9 +1,3 @@
----
-aliases: ["Talisman of Ultimate Evil"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TalismanDelMalDefinitivo|Talismán del mal definitivo (Español)]]"
----
-
 ### Talisman of Ultimate Evil
 
 *Wondrous Item, Legendary (Requires Attunement)*

@@ -1,9 +1,3 @@
----
-aliases: ["Faithful Hound"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/MastinFiel|Mastín fiel (Español)]]"
----
-
 ### Faithful Hound
 
 *Level 4 Conjuration* (Wizard)

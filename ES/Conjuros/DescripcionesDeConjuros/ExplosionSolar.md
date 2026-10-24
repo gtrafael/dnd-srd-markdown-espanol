@@ -1,9 +1,3 @@
----
-aliases: ["Explosión solar", "Sunburst"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Sunburst|Sunburst (EN)]]"
----
-
 # Explosión solar
 
 *Evocación de nivel 8 (clérigo, druida, hechicero, mago)*

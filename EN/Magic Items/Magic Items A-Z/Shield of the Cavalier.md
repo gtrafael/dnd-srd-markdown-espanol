@@ -1,9 +1,3 @@
----
-aliases: ["Shield of the Cavalier"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscudoDeCaballero|Escudo de caballero (Español)]]"
----
-
 ### Shield of the Cavalier
 
 *Armor (Shield), Very Rare (Requires Attunement)*

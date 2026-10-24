@@ -1,9 +1,3 @@
----
-aliases: ["Oil of Slipperiness"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AceiteEscurridizo|Aceite escurridizo (Español)]]"
----
-
 ### Oil of Slipperiness
 
 *Potion, Uncommon*

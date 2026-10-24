@@ -1,9 +1,3 @@
----
-aliases: ["Gigante de las colinas", "Hill Giant"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Hill Giant|Hill Giant (EN)]]"
----
-
 # Gigante de las colinas
 
 *Gigante Enorme, caótico malvado*

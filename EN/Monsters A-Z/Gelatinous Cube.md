@@ -1,9 +1,3 @@
----
-aliases: ["Gelatinous Cube"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CuboGelatinoso|Cubo gelatinoso (Español)]]"
----
-
 ## Gelatinous Cube
 
 *Large Ooze, Unaligned*

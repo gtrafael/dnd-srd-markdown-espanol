@@ -1,9 +1,3 @@
----
-aliases: ["Animal Friendship"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EncantarAnimal|Encantar animal (Español)]]"
----
-
 ### Animal Friendship
 
 *Level 1 Enchantment* (Bard, Druid, Ranger)

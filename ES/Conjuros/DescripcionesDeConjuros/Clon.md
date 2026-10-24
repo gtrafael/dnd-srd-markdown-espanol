@@ -1,9 +1,3 @@
----
-aliases: ["Clon", "Clone"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Clone|Clone (EN)]]"
----
-
 # Clon
 
 *Nigromancia de nivel 8 (mago)*

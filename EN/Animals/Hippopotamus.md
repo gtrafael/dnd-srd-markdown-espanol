@@ -1,9 +1,3 @@
----
-aliases: ["Hippopotamus"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Hipopotamo|Hipopótamo (Español)]]"
----
-
 ## Hippopotamus
 
 *Large Beast, Unaligned*

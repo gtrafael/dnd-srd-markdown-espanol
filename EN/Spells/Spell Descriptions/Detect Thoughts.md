@@ -1,9 +1,3 @@
----
-aliases: ["Detect Thoughts"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/DetectarPensamientos|Detectar pensamientos (Español)]]"
----
-
 ### Detect Thoughts
 
 *Level 2 Divination* (Bard, Sorcerer, Wizard)

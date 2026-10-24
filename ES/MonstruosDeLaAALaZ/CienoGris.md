@@ -1,9 +1,3 @@
----
-aliases: ["Cieno gris", "Gray Ooze"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Gray Ooze|Gray Ooze (EN)]]"
----
-
 # Cieno gris
 
 *Cieno Mediano, sin alineamiento*

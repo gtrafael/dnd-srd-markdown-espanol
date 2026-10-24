@@ -1,9 +1,3 @@
----
-aliases: ["Vampire"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Vampiro|Vampiro (Español)]]"
----
-
 ## Vampire
 
 *Medium or Small Undead, Lawful Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Remorhaz"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Remorhaz|Remorhaz (EN)]]"
----
-
 # Remorhaz
 
 *Monstruosidad Enorme, sin alineamiento*

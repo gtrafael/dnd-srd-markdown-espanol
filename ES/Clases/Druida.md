@@ -1,9 +1,3 @@
----
-aliases: ["Druida", "Druid"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Druid|Druid (EN)]]"
----
-
 # Druida
 
 Atributos básicos de druida

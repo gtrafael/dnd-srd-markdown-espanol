@@ -1,9 +1,3 @@
----
-aliases: ["Gema de visión", "Gem of Seeing"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Gem of Seeing|Gem of Seeing (EN)]]"
----
-
 # Gema de visión
 
 *Objeto maravilloso, raro (requiere sintonización)*

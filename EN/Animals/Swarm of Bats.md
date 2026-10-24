@@ -1,9 +1,3 @@
----
-aliases: ["Swarm of Bats"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/EnjambreDeMurcielagos|Enjambre de murciélagos (Español)]]"
----
-
 ## Swarm of Bats
 
 *Large Swarm of Tiny Beasts, Unaligned*

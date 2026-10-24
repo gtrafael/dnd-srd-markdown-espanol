@@ -1,9 +1,3 @@
----
-aliases: ["Inmovilizar persona", "Hold Person"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Hold Person|Hold Person (EN)]]"
----
-
 # Inmovilizar persona
 
 *Encantamiento de nivel 2 (bardo, brujo, clérigo, druida, hechicero, mago)*

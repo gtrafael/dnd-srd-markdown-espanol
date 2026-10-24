@@ -1,9 +1,3 @@
----
-aliases: ["Cone of Cold"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ConoDeFrio|Cono de frío (Español)]]"
----
-
 ### Cone of Cold
 
 *Level 5 Evocation* (Druid, Sorcerer, Wizard)

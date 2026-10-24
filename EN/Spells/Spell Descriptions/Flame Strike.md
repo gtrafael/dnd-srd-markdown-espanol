@@ -1,9 +1,3 @@
----
-aliases: ["Flame Strike"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/GolpeFlamigero|Golpe flamígero (Español)]]"
----
-
 ### Flame Strike
 
 *Level 5 Evocation* (Cleric)

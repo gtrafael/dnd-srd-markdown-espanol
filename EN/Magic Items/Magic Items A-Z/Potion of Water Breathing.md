@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Water Breathing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeRespirarBajoElAgua]]"
----
-
 # Potion of Water Breathing
 
 _Potion, Uncommon_

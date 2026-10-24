@@ -1,9 +1,3 @@
----
-aliases: ["Reef Shark"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/TiburonDeArrecife|Tiburón de arrecife (Español)]]"
----
-
 ## Reef Shark
 
 *Medium Beast, Unaligned*

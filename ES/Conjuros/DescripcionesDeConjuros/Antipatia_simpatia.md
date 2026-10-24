@@ -1,9 +1,3 @@
----
-aliases: ["Antipatía_simpatía", "Antipathy-Sympathy"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Antipathy-Sympathy|Antipathy-Sympathy (EN)]]"
----
-
 # Antipatía/simpatía
 
 *Encantamiento de nivel 8 (bardo, druida, mago)*

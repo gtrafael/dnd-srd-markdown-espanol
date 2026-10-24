@@ -1,9 +1,3 @@
----
-aliases: ["Lifestyle Expenses"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/GastosRelativosAlNivelDeVida|Gastos relativos al nivel de vida (Español)]]"
----
-
 # Lifestyle Expenses
 
 Lifestyle expenses summarize the cost of living in a fantasy world. They cover lodging, food, equipment maintenance, and other necessities.

@@ -1,9 +1,3 @@
----
-aliases: ["Caballo de guerra", "Warhorse"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Warhorse|Warhorse (EN)]]"
----
-
 # Caballo de guerra
 
 *Bestia Grande, sin alineamiento*

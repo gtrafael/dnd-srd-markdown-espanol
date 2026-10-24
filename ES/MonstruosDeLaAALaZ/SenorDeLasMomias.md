@@ -1,9 +1,3 @@
----
-aliases: ["Señor de las momias", "Mummy Lord"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Mummy Lord|Mummy Lord (EN)]]"
----
-
 # Señor de las momias
 
 *Muerto viviente Mediano o Pequeño (clérigo), legal malvado*

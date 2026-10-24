@@ -1,9 +1,3 @@
----
-aliases: ["Muro de viento", "Wind Wall"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Wind Wall|Wind Wall (EN)]]"
----
-
 # Muro de viento
 
 *Evocación de nivel 3 (druida, explorador)*

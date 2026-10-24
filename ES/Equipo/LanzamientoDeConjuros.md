@@ -1,9 +1,3 @@
----
-aliases: ["Lanzamiento de conjuros"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Spellcasting|Spellcasting (EN)]]"
----
-
 # Lanzamiento de conjuros
 
 La mayoría de poblaciones cuentan con individuos que están dispuestos a lanzar conjuros a cambio de dinero. Si un conjuro tiene componentes caros, suma el precio de estos componentes a la remuneración que aparece en la tabla “Servicios de lanzamiento de conjuros”. Cuanto mayor sea el nivel del conjuro deseado, más difícil será encontrar a alguien que lo lance.

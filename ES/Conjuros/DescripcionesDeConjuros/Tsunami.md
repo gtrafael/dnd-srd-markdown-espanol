@@ -1,9 +1,3 @@
----
-aliases: ["Tsunami"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Tsunami|Tsunami (EN)]]"
----
-
 # Tsunami
 
 *Conjuración de nivel 8 (druida)*

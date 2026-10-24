@@ -1,9 +1,3 @@
----
-aliases: ["Brazales de defensa", "Bracers of Defense"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Bracers of Defense|Bracers of Defense (EN)]]"
----
-
 # Brazales de defensa
 
 *Objeto maravilloso, raro (requiere sintonización)*

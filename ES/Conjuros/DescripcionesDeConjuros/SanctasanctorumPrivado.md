@@ -1,9 +1,3 @@
----
-aliases: ["Sanctasanctórum privado", "Private Sanctum"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Private Sanctum|Private Sanctum (EN)]]"
----
-
 # Sanctasanctórum privado
 
 *Abjuración de nivel 4 (mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Harpy"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Arpia|Arpía (Español)]]"
----
-
 ## Harpy
 
 *Medium Monstrosity, Chaotic Evil*

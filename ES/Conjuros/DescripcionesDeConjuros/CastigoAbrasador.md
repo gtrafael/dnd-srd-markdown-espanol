@@ -1,9 +1,3 @@
----
-aliases: ["Castigo abrasador", "Searing Smite"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Searing Smite|Searing Smite (EN)]]"
----
-
 # Castigo abrasador
 
 *Evocación de nivel 1 (paladín)*

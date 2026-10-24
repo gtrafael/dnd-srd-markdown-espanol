@@ -1,9 +1,3 @@
----
-aliases: ["Malla élfica", "Elven Chain"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Elven Chain|Elven Chain (EN)]]"
----
-
 # Malla élfica
 
 *Armadura (camisa de malla o cota de malla), rara*

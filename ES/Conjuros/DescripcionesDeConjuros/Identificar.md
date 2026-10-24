@@ -1,9 +1,3 @@
----
-aliases: ["Identificar", "Identify"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Identify|Identify (EN)]]"
----
-
 # Identificar
 
 *Adivinación de nivel 1 (bardo, mago)*

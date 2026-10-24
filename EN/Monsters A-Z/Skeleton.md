@@ -1,9 +1,3 @@
----
-aliases: ["Skeleton"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Esqueleto|Esqueleto (Español)]]"
----
-
 ## Skeleton
 
 *Medium Undead, Lawful Evil*

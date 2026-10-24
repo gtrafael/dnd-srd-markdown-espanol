@@ -1,9 +1,3 @@
----
-aliases: ["Giant Crab"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/CangrejoGigante|Cangrejo gigante (Español)]]"
----
-
 ## Giant Crab
 
 *Medium Beast, Unaligned*

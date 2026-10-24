@@ -1,9 +1,3 @@
----
-aliases: ["Befuddlement"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Ofuscacion|Ofuscación (Español)]]"
----
-
 ### Befuddlement
 
 *Level 8 Enchantment* (Bard, Druid, Warlock, Wizard)

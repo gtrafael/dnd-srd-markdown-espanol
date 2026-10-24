@@ -1,9 +1,3 @@
----
-aliases: ["Knight"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Caballero|Caballero (Español)]]"
----
-
 ## Knight
 
 *Medium or Small Humanoid, Neutral*

@@ -1,9 +1,3 @@
----
-aliases: ["Freedom of Movement"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/LibertadDeMovimiento|Libertad de movimiento (Español)]]"
----
-
 ### Freedom of Movement
 
 *Level 4 Abjuration* (Bard, Cleric, Druid, Ranger)

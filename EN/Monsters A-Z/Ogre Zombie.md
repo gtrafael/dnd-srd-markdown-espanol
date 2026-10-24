@@ -1,9 +1,3 @@
----
-aliases: ["Ogre Zombie"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/OgroZombi|Ogro zombi (Español)]]"
----
-
 ## Ogre Zombie
 
 *Large Undead, Neutral Evil*

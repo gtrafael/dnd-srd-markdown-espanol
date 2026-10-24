@@ -1,9 +1,3 @@
----
-aliases: ["Frost Giant"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GiganteDeEscarcha|Gigante de escarcha (Español)]]"
----
-
 ## Frost Giant
 
 *Huge Giant, Neutral Evil*

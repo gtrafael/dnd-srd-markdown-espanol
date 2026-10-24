@@ -1,9 +1,3 @@
----
-aliases: ["Explorador", "Ranger"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Ranger|Ranger (EN)]]"
----
-
 # Explorador
 
 Atributos básicos de explorador

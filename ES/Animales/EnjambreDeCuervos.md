@@ -1,9 +1,3 @@
----
-aliases: ["Enjambre de cuervos", "Swarm of Ravens"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Swarm of Ravens|Swarm of Ravens (EN)]]"
----
-
 # Enjambre de cuervos
 
 *Enjambre Mediano de bestias Diminutas, sin alineamiento*

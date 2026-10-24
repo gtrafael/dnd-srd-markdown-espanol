@@ -1,9 +1,3 @@
----
-aliases: ["Buenas bayas", "Goodberry"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Goodberry|Goodberry (EN)]]"
----
-
 # Buenas bayas
 
 *Conjuración de nivel 1 (druida, explorador)*

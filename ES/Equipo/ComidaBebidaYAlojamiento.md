@@ -1,9 +1,3 @@
----
-aliases: ["Comida, bebida y alojamiento"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Food, Drink, and Lodging|Food, Drink, and Lodging (EN)]]"
----
-
 # Comida, bebida y alojamiento
 
 La tabla “Comida, bebida y alojamiento” contiene los precios tanto de alimentos concretos como de alojarse una noche en una posada. Los precios del alojamiento y las comidas diarias se incluyen en los gastos de tu nivel de vida.

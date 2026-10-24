@@ -1,9 +1,3 @@
----
-aliases: ["Handy Haversack"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MorralPractico|Morral práctico (Español)]]"
----
-
 ### Handy Haversack
 
 *Wondrous Item, Rare*

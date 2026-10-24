@@ -1,9 +1,3 @@
----
-aliases: ["Bearded Devil"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DiabloBarbado|Diablo barbado (Español)]]"
----
-
 ## Bearded Devil
 
 *Medium Fiend (Devil), Lawful Evil*

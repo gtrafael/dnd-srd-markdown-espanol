@@ -1,9 +1,3 @@
----
-aliases: ["Caparazón antivida", "Antilife Shell"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Antilife Shell|Antilife Shell (EN)]]"
----
-
 # Caparazón antivida
 
 *Abjuración de nivel 5 (druida)*

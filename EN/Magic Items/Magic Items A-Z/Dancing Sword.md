@@ -1,9 +1,3 @@
----
-aliases: ["Dancing Sword"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspadaDanzarina]]"
----
-
 # Dancing Sword
 
 _Weapon (Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Very Rare (Requires Attunement)_

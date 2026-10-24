@@ -1,9 +1,3 @@
----
-aliases: ["Toque helado", "Chill Touch"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Chill Touch|Chill Touch (EN)]]"
----
-
 # Toque helado
 
 *Truco de nigromancia (brujo, hechicero, mago)*

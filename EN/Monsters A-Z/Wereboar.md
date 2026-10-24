@@ -1,9 +1,3 @@
----
-aliases: ["Wereboar"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/HombreJabali|Hombre jabalí (Español)]]"
----
-
 ## Wereboar
 
 *Medium or Small Monstrosity (Lycanthrope), Neutral Evil*

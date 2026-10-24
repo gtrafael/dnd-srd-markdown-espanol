@@ -1,9 +1,3 @@
----
-aliases: ["Cimitarra de velocidad", "Scimitar of Speed"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Scimitar of Speed|Scimitar of Speed (EN)]]"
----
-
 # Cimitarra de velocidad
 
 *Arma (cimitarra), muy rara (requiere sintonización)*

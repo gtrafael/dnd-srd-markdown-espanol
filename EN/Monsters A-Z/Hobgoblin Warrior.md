@@ -1,9 +1,3 @@
----
-aliases: ["Hobgoblin Warrior"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GuerreroHobgoblin|Guerrero hobgoblin (Español)]]"
----
-
 ## Hobgoblin Warrior
 
 *Medium Fey (Goblinoid), Lawful Evil*

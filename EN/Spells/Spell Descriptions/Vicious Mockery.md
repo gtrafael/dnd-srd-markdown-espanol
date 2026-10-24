@@ -1,9 +1,3 @@
----
-aliases: ["Vicious Mockery"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/BurlaDanina|Burla dañina (Español)]]"
----
-
 ### Vicious Mockery
 
 *Enchantment Cantrip* (Bard)

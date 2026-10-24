@@ -1,9 +1,3 @@
----
-aliases: ["Desplazamiento", "Blink"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Blink|Blink (EN)]]"
----
-
 # Desplazamiento
 
 *Transmutación de nivel 3 (hechicero, mago)*

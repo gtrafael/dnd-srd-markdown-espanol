@@ -1,9 +1,3 @@
----
-aliases: ["Adult Brass Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDeOropelAdulto|Dragón de oropel adulto (Español)]]"
----
-
 ## Adult Brass Dragon
 
 *Huge Dragon (Metallic), Chaotic Good*

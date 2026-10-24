@@ -1,9 +1,3 @@
----
-aliases: ["Túnica de las estrellas", "Robe of Stars"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Robe of Stars|Robe of Stars (EN)]]"
----
-
 # Túnica de las estrellas
 
 *Objeto maravilloso, muy raro (requiere sintonización)*

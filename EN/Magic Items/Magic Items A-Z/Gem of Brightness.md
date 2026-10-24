@@ -1,9 +1,3 @@
----
-aliases: ["Gem of Brightness"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GemaDelResplandor|Gema del resplandor (Español)]]"
----
-
 ### Gem of Brightness
 
 *Wondrous Item, Uncommon*

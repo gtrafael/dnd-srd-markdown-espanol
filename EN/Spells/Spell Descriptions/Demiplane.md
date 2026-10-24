@@ -1,9 +1,3 @@
----
-aliases: ["Demiplane"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Semiplano|Semiplano (Español)]]"
----
-
 ### Demiplane
 
 *Level 8 Conjuration* (Sorcerer, Warlock, Wizard)

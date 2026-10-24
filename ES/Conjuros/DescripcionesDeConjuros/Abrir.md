@@ -1,9 +1,3 @@
----
-aliases: ["Abrir", "Knock"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Knock|Knock (EN)]]"
----
-
 # Abrir
 
 *Transmutación de nivel 2 (bardo, hechicero, mago)*

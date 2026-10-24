@@ -1,9 +1,3 @@
----
-aliases: ["Pigmentos maravillosos", "Marvelous Pigments"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Marvelous Pigments|Marvelous Pigments (EN)]]"
----
-
 # Pigmentos maravillosos
 
 *Objeto maravilloso, muy raro*

@@ -1,9 +1,3 @@
----
-aliases: ["Cuerda enredadora", "Rope of Entanglement"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Rope of Entanglement|Rope of Entanglement (EN)]]"
----
-
 # Cuerda enredadora
 
 *Objeto maravilloso, raro*

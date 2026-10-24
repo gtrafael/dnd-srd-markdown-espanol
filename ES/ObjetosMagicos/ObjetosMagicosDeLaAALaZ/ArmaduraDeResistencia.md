@@ -1,9 +1,3 @@
----
-aliases: ["Armadura de resistencia"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Armor of Resistance]]"
----
-
 # Armadura de resistencia
 
 *Armadura (ligera, media o pesada), rara (requiere sintonización)*

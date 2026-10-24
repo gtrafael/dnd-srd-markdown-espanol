@@ -1,9 +1,3 @@
----
-aliases: ["Ancient Blue Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonAzulAnciano|Dragón azul anciano (Español)]]"
----
-
 ## Ancient Blue Dragon
 
 *Gargantuan Dragon (Chromatic), Lawful Evil*

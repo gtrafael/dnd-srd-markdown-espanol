@@ -1,9 +1,3 @@
----
-aliases: ["Plesiosaurus"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Plesiosaurio|Plesiosaurio (Español)]]"
----
-
 ## Plesiosaurus
 
 *Large Beast (Dinosaur), Unaligned*

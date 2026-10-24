@@ -1,9 +1,3 @@
----
-aliases: ["Solar"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Solar|Solar (EN)]]"
----
-
 # Solar
 
 *Celestial Grande (ángel), legal bueno*

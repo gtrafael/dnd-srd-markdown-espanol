@@ -1,9 +1,3 @@
----
-aliases: ["Hacer añicos", "Shatter"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Shatter|Shatter (EN)]]"
----
-
 # Hacer añicos
 
 *Evocación de nivel 2 (bardo, hechicero, mago)*

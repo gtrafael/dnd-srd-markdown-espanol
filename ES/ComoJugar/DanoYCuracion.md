@@ -1,9 +1,3 @@
----
-aliases: ["Daño y curación"]
-tags: [srd, espanol, tag_comojugar]
-related_en: "[[Playing the Game/Damage and Healing]]"
----
-
 # Daño y curación
 
 Las heridas y el riesgo de morir son amenazas habituales, como se detalla en las siguientes reglas.

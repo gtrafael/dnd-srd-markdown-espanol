@@ -1,9 +1,3 @@
----
-aliases: ["Apparatus of the Crab"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AparatoDelCrustaceo|Aparato del crustáceo (Español)]]"
----
-
 # Apparatus of the Crab
 
 _Wondrous Item, Legendary_

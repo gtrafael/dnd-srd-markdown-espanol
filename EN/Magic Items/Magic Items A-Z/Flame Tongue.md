@@ -1,9 +1,3 @@
----
-aliases: ["Flame Tongue"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/LenguaDeFuego|Lengua de fuego (Español)]]"
----
-
 ### Flame Tongue
 
 *Weapon (Any Melee Weapon), Rare (Requires*

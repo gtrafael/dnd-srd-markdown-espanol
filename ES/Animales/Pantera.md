@@ -1,9 +1,3 @@
----
-aliases: ["Pantera", "Panther"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Panther|Panther (EN)]]"
----
-
 # Pantera
 
 *Bestia Mediana, sin alineamiento*

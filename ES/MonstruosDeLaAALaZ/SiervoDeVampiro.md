@@ -1,9 +1,3 @@
----
-aliases: ["Siervo de vampiro", "Vampire Familiar"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Vampire Familiar|Vampire Familiar (EN)]]"
----
-
 # Siervo de vampiro
 
 *Humanoide Mediano o Pequeño, neutral malvado*

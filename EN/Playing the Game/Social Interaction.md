@@ -1,9 +1,3 @@
----
-aliases: ["Social Interaction"]
-tags: [srd, english, tag_gameplay]
-related_es: "[[ComoJugar/InteraccionesSociales|Interacciones sociales (Español)]]"
----
-
 # Social Interaction
 
 During their adventures, player characters meet many different people and face some monsters that would rather talk than fight. In those situations, it's time for social interaction, which takes many forms. For example, you might try to convince a burglar to confess to wrongdoing or try to flatter a guard. The Game Master assumes the roles of any nonplayer characters who are participating.

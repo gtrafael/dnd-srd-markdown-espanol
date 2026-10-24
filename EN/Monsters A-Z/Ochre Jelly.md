@@ -1,9 +1,3 @@
----
-aliases: ["Ochre Jelly"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GelatinaOcre|Gelatina ocre (Español)]]"
----
-
 ## Ochre Jelly
 
 *Large Ooze, Unaligned*

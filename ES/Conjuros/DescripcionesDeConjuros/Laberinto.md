@@ -1,9 +1,3 @@
----
-aliases: ["Laberinto", "Maze"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Maze|Maze (EN)]]"
----
-
 # Laberinto
 
 *Conjuración de nivel 8 (mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Sahuagin Warrior"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GuerreroSahuagin|Guerrero Sahuagin (Español)]]"
----
-
 ## Sahuagin Warrior
 
 *Medium Fiend, Lawful Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Chimera"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Quimera|Quimera (Español)]]"
----
-
 ## Chimera
 
 *Large Monstrosity, Chaotic Evil*

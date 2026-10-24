@@ -1,9 +1,3 @@
----
-aliases: ["Glabrezu"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Glabrezu|Glabrezu (Español)]]"
----
-
 ## Glabrezu
 
 *Large Fiend (Demon), Chaotic Evil*

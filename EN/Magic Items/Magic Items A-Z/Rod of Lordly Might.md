@@ -1,9 +1,3 @@
----
-aliases: ["Rod of Lordly Might"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CetroDePoderSenorial]]"
----
-
 # Rod of Lordly Might
 
 _Rod, Legendary (Requires Attunement)_

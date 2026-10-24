@@ -1,9 +1,3 @@
----
-aliases: ["Gato", "Cat"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Cat|Cat (EN)]]"
----
-
 # Gato
 
 *Bestia Diminuta, sin alineamiento*

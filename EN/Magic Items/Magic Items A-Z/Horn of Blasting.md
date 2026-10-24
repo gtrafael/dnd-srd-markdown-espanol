@@ -1,9 +1,3 @@
----
-aliases: ["Horn of Blasting"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CuernoDeEstallido|Cuerno de estallido (Español)]]"
----
-
 ### Horn of Blasting
 
 *Wondrous Item, Rare*

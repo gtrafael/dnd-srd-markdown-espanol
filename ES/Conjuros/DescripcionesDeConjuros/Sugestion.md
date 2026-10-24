@@ -1,9 +1,3 @@
----
-aliases: ["Sugestión", "Suggestion"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Suggestion|Suggestion (EN)]]"
----
-
 # Sugestión
 
 *Encantamiento de nivel 2 (bardo, brujo, hechicero, mago)*

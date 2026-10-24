@@ -1,9 +1,3 @@
----
-aliases: ["Wraith"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Aparicion|Aparición (Español)]]"
----
-
 ## Wraith
 
 *Medium or Small Undead, Neutral Evil*

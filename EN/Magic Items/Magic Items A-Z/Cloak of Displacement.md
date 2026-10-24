@@ -1,9 +1,3 @@
----
-aliases: ["Cloak of Displacement"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaDeDesplazamiento|Capa de desplazamiento (Español)]]"
----
-
 ### Cloak of Displacement
 
 *Wondrous Item, Rare (Requires Attunement)*

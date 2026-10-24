@@ -1,9 +1,3 @@
----
-aliases: ["Magic Mouth"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/BocaMagica|Boca mágica (Español)]]"
----
-
 ### Magic Mouth
 
 *Level 2 Illusion* (Bard, Wizard)

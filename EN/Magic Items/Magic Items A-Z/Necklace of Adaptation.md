@@ -1,9 +1,3 @@
----
-aliases: ["Necklace of Adaptation"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CollarDeAdaptacion|Collar de adaptación (Español)]]"
----
-
 ### Necklace of Adaptation
 
 *Wondrous Item, Uncommon (Requires Attunement)*

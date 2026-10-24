@@ -1,9 +1,3 @@
----
-aliases: ["Iron Flask"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FrascoDeHierro|Frasco de hierro (Español)]]"
----
-
 ### Iron Flask
 
 *Wondrous Item, Legendary*

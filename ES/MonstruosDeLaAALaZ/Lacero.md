@@ -1,9 +1,3 @@
----
-aliases: ["Lacero", "Roper"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Roper|Roper (EN)]]"
----
-
 # Lacero
 
 *Aberración Grande, neutral malvada*

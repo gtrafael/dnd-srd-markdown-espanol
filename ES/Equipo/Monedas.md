@@ -1,9 +1,3 @@
----
-aliases: ["Monedas", "Coinage"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Coins|Coins (EN)]]"
----
-
 # Monedas
 
 Los personajes suelen encontrar monedas durante sus aventuras y pueden gastarlas en tiendas, tabernas y otros negocios. Las monedas tienen distintas denominaciones, que se basan en el valor relativo de sus materiales. La tabla “Valores de monedas” recoge las monedas y lo que valen en relación con la pieza de oro, que es la moneda principal del juego. Por ejemplo, 100 piezas de cobre equivalen a 1 pieza de oro.

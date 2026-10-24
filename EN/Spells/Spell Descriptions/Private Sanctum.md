@@ -1,9 +1,3 @@
----
-aliases: ["Private Sanctum"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/SanctasanctorumPrivado|Sanctasanctórum privado (Español)]]"
----
-
 ### Private Sanctum
 
 *Level 4 Abjuration* (Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Troll Limb"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/ExtremidadDeTroll|Extremidad de troll (Español)]]"
----
-
 ## Troll Limb
 
 *Small Giant, Chaotic Evil*

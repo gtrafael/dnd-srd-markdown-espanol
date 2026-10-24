@@ -1,9 +1,3 @@
----
-aliases: ["Lanzar conjuros", "Spellcasting"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Casting Spells]]"
----
-
 # Lanzar conjuros
 
 *La descripción de cada conjuro tiene una serie de apartados con todos los detalles necesarios para lanzarlo. Las próximas secciones explican cada uno de esos apartados, que van después del nombre del conjuro.*

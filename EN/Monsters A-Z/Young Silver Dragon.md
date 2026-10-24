@@ -1,9 +1,3 @@
----
-aliases: ["Young Silver Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDePlataJoven|Dragón de plata joven (Español)]]"
----
-
 ## Young Silver Dragon
 
 *Large Dragon (Metallic), Lawful Good*

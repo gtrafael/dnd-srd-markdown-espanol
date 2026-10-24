@@ -1,9 +1,3 @@
----
-aliases: ["Varita de las maravillas"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wand of Wonder|Wand of Wonder (EN)]]"
----
-
 # Varita de las maravillas
 
 *Varita, rara (requiere sintonización)*

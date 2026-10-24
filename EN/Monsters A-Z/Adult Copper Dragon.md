@@ -1,9 +1,3 @@
----
-aliases: ["Adult Copper Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDeCobreAdulto|Dragón de cobre adulto (Español)]]"
----
-
 ## Adult Copper Dragon
 
 *Huge Dragon (Metallic), Chaotic Good*

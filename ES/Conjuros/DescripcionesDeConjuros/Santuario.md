@@ -1,9 +1,3 @@
----
-aliases: ["Santuario", "Sanctuary"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Sanctuary|Sanctuary (EN)]]"
----
-
 # Santuario
 
 *Abjuración de nivel 1 (clérigo)*

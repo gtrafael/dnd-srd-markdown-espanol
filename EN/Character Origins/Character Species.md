@@ -1,9 +1,3 @@
----
-aliases: ["Character Species", "Species"]
-tags: [srd, english, tag_character_origins]
-related_es: "[[OrigenesDePersonaje/EspeciesDePersonaje|Especies de personaje (Español)]]"
----
-
 # Character Species
 
 When you choose your character's species, you determine whether your character is a human or a member of a fantastical species, such as dragonborn or gnome.

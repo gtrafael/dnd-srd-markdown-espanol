@@ -1,9 +1,3 @@
----
-aliases: ["León", "Lion"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Lion|Lion (EN)]]"
----
-
 # León
 
 *Bestia Grande, sin alineamiento*

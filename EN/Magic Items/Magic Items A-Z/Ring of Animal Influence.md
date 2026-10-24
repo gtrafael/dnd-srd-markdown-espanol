@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Animal Influence"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeInfluenciaAnimal]]"
----
-
 # Ring of Animal Influence
 
 _Ring, Rare_

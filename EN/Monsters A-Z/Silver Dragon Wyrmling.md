@@ -1,9 +1,3 @@
----
-aliases: ["Silver Dragon Wyrmling"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonDePlata|Cría de dragón de plata (Español)]]"
----
-
 ## Silver Dragon Wyrmling
 
 *Medium Dragon (Metallic), Lawful Good*

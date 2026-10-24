@@ -1,9 +1,3 @@
----
-aliases: ["Sugestión en masa", "Mass Suggestion"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mass Suggestion|Mass Suggestion (EN)]]"
----
-
 # Sugestión en masa
 
 *Encantamiento de nivel 6 (bardo, hechicero, mago)*

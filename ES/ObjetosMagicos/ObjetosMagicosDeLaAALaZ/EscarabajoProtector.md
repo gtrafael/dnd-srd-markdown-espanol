@@ -1,9 +1,3 @@
----
-aliases: ["Escarabajo protector", "Scarab of Protection"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Scarab of Protection|Scarab of Protection (EN)]]"
----
-
 # Escarabajo protector
 
 *Objeto maravilloso, legendario (requiere sintonización)*

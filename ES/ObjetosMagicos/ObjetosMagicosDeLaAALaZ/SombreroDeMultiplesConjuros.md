@@ -1,9 +1,3 @@
----
-aliases: ["Sombrero de múltiples conjuros", "Hat of Many Spells"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Hat of Many Spells|Hat of Many Spells (EN)]]"
----
-
 # Sombrero de múltiples conjuros
 
 *Objeto maravilloso, muy raro (requiere sintonización por parte de un mago)*

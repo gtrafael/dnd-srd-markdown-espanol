@@ -1,9 +1,3 @@
----
-aliases: ["Jaula de fuerza", "Forcecage"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Forcecage|Forcecage (EN)]]"
----
-
 # Jaula de fuerza
 
 *Evocación de nivel 7 (bardo, brujo, mago)*

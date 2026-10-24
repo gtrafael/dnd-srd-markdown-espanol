@@ -1,9 +1,3 @@
----
-aliases: ["Spiritual Weapon"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ArmaEspiritual|Arma espiritual (Español)]]"
----
-
 ### Spiritual Weapon
 
 *Level 2 Evocation* (Cleric)

@@ -1,9 +1,3 @@
----
-aliases: ["Cría de dragón azul", "Blue Dragon Wyrmling"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Blue Dragon Wyrmling|Blue Dragon Wyrmling (EN)]]"
----
-
 # Cría de dragón azul
 
 *Dragón Mediano (cromático), legal malvado*

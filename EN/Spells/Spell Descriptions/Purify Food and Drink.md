@@ -1,9 +1,3 @@
----
-aliases: ["Purify Food and Drink"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PurificarComidaYBebida|Purificar comida y bebida (Español)]]"
----
-
 ### Purify Food and Drink
 
 *Level 1 Transmutation* (Cleric, Druid, Paladin)

@@ -1,9 +1,3 @@
----
-aliases: ["Archelon"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Archelon|Archelon (EN)]]"
----
-
 # Archelon
 
 *Bestia Enorme (dinosaurio), sin alineamiento*

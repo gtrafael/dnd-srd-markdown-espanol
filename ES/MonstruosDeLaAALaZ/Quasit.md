@@ -1,9 +1,3 @@
----
-aliases: ["Quasit"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Quasit|Quasit (EN)]]"
----
-
 # Quasit
 
 *Infernal Diminuto (demonio), caótico malvado*

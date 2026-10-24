@@ -1,9 +1,3 @@
----
-aliases: ["Blood Hawk"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/HalconSangriento|Halcón sangriento (Español)]]"
----
-
 ## Blood Hawk
 
 *Small Beast, Unaligned*

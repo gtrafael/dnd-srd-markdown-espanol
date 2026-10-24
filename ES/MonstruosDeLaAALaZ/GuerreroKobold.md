@@ -1,9 +1,3 @@
----
-aliases: ["Guerrero Kobold", "Kobold", "Kobold Warrior"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Kobold Warrior|Kobold Warrior (EN)]]"
----
-
 # Guerrero Kobold
 
 *Dragón Pequeño, neutral*

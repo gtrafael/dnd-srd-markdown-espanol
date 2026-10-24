@@ -1,9 +1,3 @@
----
-aliases: ["Yelmo de teletransporte", "Helm of Teleportation"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Helm of Teleportation|Helm of Teleportation (EN)]]"
----
-
 # Yelmo de teletransporte
 
 *Objeto maravilloso, raro (requiere sintonización)*

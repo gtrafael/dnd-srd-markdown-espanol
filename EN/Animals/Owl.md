@@ -1,9 +1,3 @@
----
-aliases: ["Owl"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Buho|Búho (Español)]]"
----
-
 ## Owl
 
 *Tiny Beast, Unaligned*

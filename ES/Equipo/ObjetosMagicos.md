@@ -1,9 +1,3 @@
----
-aliases: ["Objetos mágicos"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Magic Items|Magic Items (EN)]]"
----
-
 # Objetos mágicos
 
 Las aventuras prometen, aunque sin garantía, que encontrarás objetos mágicos. Más adelante en este documento, en el capítulo “Objetos mágicos”, se describen cientos de objetos mágicos. Aquí se explica lo que debes saber sobre el uso de objetos mágicos.

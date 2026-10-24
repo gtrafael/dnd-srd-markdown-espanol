@@ -1,9 +1,3 @@
----
-aliases: ["Young Red Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonRojoJoven|Dragón rojo joven (Español)]]"
----
-
 ## Young Red Dragon
 
 *Large Dragon (Chromatic), Chaotic Evil*

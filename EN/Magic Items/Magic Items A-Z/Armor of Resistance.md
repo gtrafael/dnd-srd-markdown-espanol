@@ -1,9 +1,3 @@
----
-aliases: ["Armor of Resistance"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaduraDeResistencia]]"
----
-
 # Armor of Resistance
 
 _Armor (Any Light, Medium, or Heavy), Rare (Requires Attunement)_

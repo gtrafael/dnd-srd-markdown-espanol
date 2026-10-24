@@ -1,9 +1,3 @@
----
-aliases: ["Oni"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Oni|Oni (EN)]]"
----
-
 # Oni
 
 *Infernal Grande, legal malvado*

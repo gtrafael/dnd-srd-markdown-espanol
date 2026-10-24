@@ -1,9 +1,3 @@
----
-aliases: ["Gear"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/EquipoDeAventureros|EquipoGeneral (Español)]]"
----
-
 # Adventuring Gear
 
 The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.

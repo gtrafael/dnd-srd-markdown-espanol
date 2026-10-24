@@ -1,9 +1,3 @@
----
-aliases: ["Descarga sobrenatural", "Eldritch Blast"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Eldritch Blast|Eldritch Blast (EN)]]"
----
-
 # Descarga sobrenatural
 
 *Truco de evocación (brujo)*

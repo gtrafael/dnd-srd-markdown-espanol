@@ -1,9 +1,3 @@
----
-aliases: ["Bandas de hierro", "Iron Bands"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Iron Bands|Iron Bands (EN)]]"
----
-
 # Bandas de hierro
 
 *Objeto maravilloso, raro*

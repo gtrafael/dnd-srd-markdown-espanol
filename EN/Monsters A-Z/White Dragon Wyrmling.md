@@ -1,9 +1,3 @@
----
-aliases: ["White Dragon Wyrmling"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonBlanco|Cría de dragón blanco (Español)]]"
----
-
 ## White Dragon Wyrmling
 
 *Medium Dragon (Chromatic), Chaotic Evil*

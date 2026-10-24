@@ -1,9 +1,3 @@
----
-aliases: ["Ice Mephit"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/MephitDeHielo|Mephit de hielo (Español)]]"
----
-
 ## Ice Mephit
 
 *Small Elemental, Neutral Evil*

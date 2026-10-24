@@ -1,9 +1,3 @@
----
-aliases: ["Tumulario", "Wight"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Wight|Wight (EN)]]"
----
-
 # Tumulario
 
 *Muerto viviente Mediano, neutral malvado*

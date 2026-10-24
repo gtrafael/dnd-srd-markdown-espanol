@@ -1,9 +1,3 @@
----
-aliases: ["Dotes generales"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Feats/General Feats|General Feats (EN)]]"
----
-
 # Dotes generales
 
 ## Apresador

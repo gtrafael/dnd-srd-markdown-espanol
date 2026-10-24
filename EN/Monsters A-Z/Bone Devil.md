@@ -1,9 +1,3 @@
----
-aliases: ["Bone Devil"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DiabloOseo|Diablo óseo (Español)]]"
----
-
 ## Bone Devil
 
 *Large Fiend (Devil), Lawful Evil*

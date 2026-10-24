@@ -1,9 +1,3 @@
----
-aliases: ["Espada danzarina"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Dancing Sword]]"
----
-
 # Espada danzarina
 
 *Arma (cimitarra, espada corta, espada larga, espadón o estoque), muy rara (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Quimera", "Chimera"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Chimera|Chimera (EN)]]"
----
-
 # Quimera
 
 *Monstruosidad Grande, caótica malvada*

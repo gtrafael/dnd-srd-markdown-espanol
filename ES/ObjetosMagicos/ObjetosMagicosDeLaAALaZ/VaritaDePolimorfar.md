@@ -1,9 +1,3 @@
----
-aliases: ["Varita de polimorfar"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wand of Polymorph|Wand of Polymorph (EN)]]"
----
-
 # Varita de polimorfar
 
 *Varita, muy rara (requiere sintonización por parte de un lanzador de conjuros)*

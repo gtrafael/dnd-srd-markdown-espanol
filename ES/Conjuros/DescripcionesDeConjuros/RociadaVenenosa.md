@@ -1,9 +1,3 @@
----
-aliases: ["Rociada venenosa", "Poison Spray"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Poison Spray|Poison Spray (EN)]]"
----
-
 # Rociada venenosa
 
 *Truco de nigromancia (brujo, druida, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Alterar el propio aspecto", "Alter Self"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Alter Self|Alter Self (EN)]]"
----
-
 # Alterar el propio aspecto
 
 *Transmutación de nivel 2 (hechicero, mago)*

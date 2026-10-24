@@ -1,9 +1,3 @@
----
-aliases: ["Mensaje", "Message"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Message|Message (EN)]]"
----
-
 # Mensaje
 
 *Truco de transmutación (bardo, druida, hechicero, mago)*

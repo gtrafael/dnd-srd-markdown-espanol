@@ -1,9 +1,3 @@
----
-aliases: ["Vampiro", "Vampire"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Vampire|Vampire (EN)]]"
----
-
 # Vampiro
 
 *Muerto viviente Mediano o Pequeño, legal malvado*

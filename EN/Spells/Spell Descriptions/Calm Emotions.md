@@ -1,9 +1,3 @@
----
-aliases: ["Calm Emotions"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CalmarEmociones|Calmar emociones (Español)]]"
----
-
 ### Calm Emotions
 
 *Level 2 Enchantment* (Bard, Cleric)

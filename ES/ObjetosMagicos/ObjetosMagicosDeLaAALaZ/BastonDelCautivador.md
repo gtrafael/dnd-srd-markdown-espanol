@@ -1,9 +1,3 @@
----
-aliases: ["Bastón del cautivador"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Staff of Charming]]"
----
-
 # Bastón del cautivador
 
 *Bastón, raro (requiere sintonización por parte de un bardo, brujo, clérigo, druida, hechicero o mago)*

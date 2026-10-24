@@ -1,9 +1,3 @@
----
-aliases: ["Hechizar monstruo", "Charm Monster"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Charm Monster|Charm Monster (EN)]]"
----
-
 # Hechizar monstruo
 
 *Encantamiento de nivel 4 (bardo, brujo, druida, hechicero, mago)*

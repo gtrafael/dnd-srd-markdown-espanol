@@ -1,9 +1,3 @@
----
-aliases: ["Bugbear Stalker"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/AcechadorOsgo|Acechador osgo (Español)]]"
----
-
 ## Bugbear Stalker
 
 *Medium Fey (Goblinoid), Chaotic Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Obtener conjuros", "Spellcasting"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Gaining Spells]]"
----
-
 # Obtener conjuros
 
 *Para poder lanzar un conjuro, debes prepararlo en tu mente o tener acceso a él a través de un objeto mágico, como un pergamino de conjuro. Tus rasgos indican a qué conjuros tienes acceso (de tenerlo), si tienes ciertos conjuros preparados siempre y si puedes cambiar la lista de conjuros que tengas preparados.*

@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Giant Strength"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeFuerzaDeGigante]]"
----
-
 # Potion of Giant Strength
 
 _Potion, Rarity Varies_

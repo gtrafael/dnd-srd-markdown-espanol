@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de salto"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Jumping]]"
----
-
 # Anillo de salto
 
 *Anillo, infrecuente (requiere sintonización)*

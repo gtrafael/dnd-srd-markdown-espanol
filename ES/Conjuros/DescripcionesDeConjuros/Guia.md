@@ -1,9 +1,3 @@
----
-aliases: ["Guía", "Guidance"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Guidance|Guidance (EN)]]"
----
-
 # Guía
 
 *Truco de adivinación (clérigo, druida)*

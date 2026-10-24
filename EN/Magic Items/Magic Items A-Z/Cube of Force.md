@@ -1,9 +1,3 @@
----
-aliases: ["Cube of Force"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CuboDeFuerza|Cubo de fuerza (Español)]]"
----
-
 ### Cube of Force
 
 *Wondrous Item, Rare (Requires Attunement)*

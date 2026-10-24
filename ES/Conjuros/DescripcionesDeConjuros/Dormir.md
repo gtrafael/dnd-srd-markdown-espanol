@@ -1,9 +1,3 @@
----
-aliases: ["Dormir", "Sleep"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Sleep|Sleep (EN)]]"
----
-
 # Dormir
 
 *Encantamiento de nivel 1 (bardo, hechicero, mago)*

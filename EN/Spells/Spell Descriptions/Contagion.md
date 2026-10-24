@@ -1,9 +1,3 @@
----
-aliases: ["Contagion"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Contagio|Contagio (Español)]]"
----
-
 ### Contagion
 
 *Level 5 Necromancy* (Cleric, Druid)

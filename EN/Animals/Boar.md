@@ -1,9 +1,3 @@
----
-aliases: ["Boar"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Jabali|Jabalí (Español)]]"
----
-
 ## Boar
 
 *Medium Beast, Unaligned*

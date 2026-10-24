@@ -1,9 +1,3 @@
----
-aliases: ["Giant Octopus"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/PulpoGigante|Pulpo gigante (Español)]]"
----
-
 ## Giant Octopus
 
 *Large Beast, Unaligned*

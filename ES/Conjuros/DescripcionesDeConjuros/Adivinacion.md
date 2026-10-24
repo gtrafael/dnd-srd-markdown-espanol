@@ -1,9 +1,3 @@
----
-aliases: ["Adivinación", "Divination"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Divination|Divination (EN)]]"
----
-
 # Adivinación
 
 *Adivinación de nivel 4 (clérigo, druida, mago)*

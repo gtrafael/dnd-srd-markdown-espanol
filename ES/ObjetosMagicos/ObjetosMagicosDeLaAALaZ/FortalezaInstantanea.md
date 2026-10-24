@@ -1,9 +1,3 @@
----
-aliases: ["Fortaleza instantánea", "Instant Fortress"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Instant Fortress|Instant Fortress (EN)]]"
----
-
 # Fortaleza instantánea
 
 *Objeto maravilloso, raro (requiere sintonización)*

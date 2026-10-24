@@ -1,9 +1,3 @@
----
-aliases: ["Disintegrate"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Desintegrar|Desintegrar (Español)]]"
----
-
 ### Disintegrate
 
 *Level 6 Transmutation* (Sorcerer, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Ghast"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Ghast|Ghast (Español)]]"
----
-
 ## Ghast
 
 *Medium Undead, Chaotic Evil*

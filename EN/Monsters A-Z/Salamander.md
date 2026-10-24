@@ -1,9 +1,3 @@
----
-aliases: ["Salamander"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Salamandra|Salamandra (Español)]]"
----
-
 ## Salamander
 
 *Large Elemental, Neutral Evil*

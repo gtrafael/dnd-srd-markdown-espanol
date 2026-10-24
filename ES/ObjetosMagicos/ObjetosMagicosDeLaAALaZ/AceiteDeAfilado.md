@@ -1,9 +1,3 @@
----
-aliases: ["Aceite de afilado", "Oil of Sharpness"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Oil of Sharpness|Oil of Sharpness (EN)]]"
----
-
 # Aceite de afilado
 
 *Poción, muy rara*

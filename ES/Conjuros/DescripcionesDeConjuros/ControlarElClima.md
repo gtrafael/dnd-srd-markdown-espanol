@@ -1,9 +1,3 @@
----
-aliases: ["Controlar el clima", "Control Weather"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Control Weather|Control Weather (EN)]]"
----
-
 # Controlar el clima
 
 *Transmutación de nivel 8 (clérigo, druida, mago)*

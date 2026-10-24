@@ -1,9 +1,3 @@
----
-aliases: ["Conjure Woodland Beings"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ConjurarSeresDelBosque|Conjurar seres del bosque (Español)]]"
----
-
 ### Conjure Woodland Beings
 
 *Level 4 Conjuration* (Druid, Ranger)

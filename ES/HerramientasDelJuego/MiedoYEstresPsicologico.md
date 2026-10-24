@@ -1,9 +1,3 @@
----
-aliases: ["MiedoEstresMental", "Fear and Mental Stress"]
-tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gameplay Toolbox/Fear and Mental Stress|Fear and Mental Stress (EN)]]"
----
-
 # Miedo y estrés psicológico
 
 Debido a la naturaleza de su vocación, los aventureros tienden a ser menos susceptibles al miedo y al estrés psicológico que el pueblo llano. Mientras que un granjero huiría despavorido ante un oso o una aparición, los aventureros están hechos de otra pasta. Ahora bien, ciertas criaturas y efectos del juego pueden aterrorizar o turbar la mente de los aventureros más firmes.

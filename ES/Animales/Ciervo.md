@@ -1,9 +1,3 @@
----
-aliases: ["Ciervo", "Deer"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Deer|Deer (EN)]]"
----
-
 # Ciervo
 
 *Bestia Mediana, sin alineamiento*

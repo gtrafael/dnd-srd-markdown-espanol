@@ -1,9 +1,3 @@
----
-aliases: ["Hat of Many Spells"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/SombreroDeMultiplesConjuros|Sombrero de múltiples conjuros (Español)]]"
----
-
 ### Hat of Many Spells
 
 *Wondrous Item, Very Rare (Requires Attunement by a*

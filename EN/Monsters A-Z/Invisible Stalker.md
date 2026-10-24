@@ -1,9 +1,3 @@
----
-aliases: ["Invisible Stalker"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/AcechadorInvisible|Acechador invisible (Español)]]"
----
-
 ## Invisible Stalker
 
 *Large Elemental, Neutral*

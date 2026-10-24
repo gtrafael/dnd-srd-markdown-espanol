@@ -1,9 +1,3 @@
----
-aliases: ["Relámpago", "Lightning Bolt"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Lightning Bolt|Lightning Bolt (EN)]]"
----
-
 # Relámpago
 
 *Evocación de nivel 3 (hechicero, mago)*

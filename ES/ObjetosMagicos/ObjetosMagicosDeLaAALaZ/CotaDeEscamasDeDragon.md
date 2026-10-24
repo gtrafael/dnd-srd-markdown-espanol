@@ -1,9 +1,3 @@
----
-aliases: ["Cota de escamas de dragón", "Dragon Scale Mail"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Dragon Scale Mail|Dragon Scale Mail (EN)]]"
----
-
 # Cota de escamas de dragón
 
 *Armadura (cota de escamas), muy rara (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Señal de esperanza", "Beacon of Hope"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Beacon of Hope|Beacon of Hope (EN)]]"
----
-
 # Señal de esperanza
 
 *Abjuración de nivel 3 (clérigo)*

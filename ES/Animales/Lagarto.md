@@ -1,9 +1,3 @@
----
-aliases: ["Lagarto", "Lizard"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Lizard|Lizard (EN)]]"
----
-
 # Lagarto
 
 *Bestia Diminuta, sin alineamiento*

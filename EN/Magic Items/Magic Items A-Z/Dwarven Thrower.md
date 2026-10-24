@@ -1,9 +1,3 @@
----
-aliases: ["Dwarven Thrower"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MartilloArrojadizoEnano|Martillo arrojadizo enano (Español)]]"
----
-
 ### Dwarven Thrower
 
 *Weapon (Warhammer), Very Rare (Requires*

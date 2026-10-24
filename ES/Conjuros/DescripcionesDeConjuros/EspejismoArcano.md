@@ -1,9 +1,3 @@
----
-aliases: ["Espejismo arcano", "Mirage Arcane"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mirage Arcane|Mirage Arcane (EN)]]"
----
-
 # Espejismo arcano
 
 *Ilusionismo de nivel 7 (bardo, druida, mago)*

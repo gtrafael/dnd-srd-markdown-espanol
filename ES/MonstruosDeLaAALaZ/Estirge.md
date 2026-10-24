@@ -1,9 +1,3 @@
----
-aliases: ["Estirge", "Stirge"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Stirge|Stirge (EN)]]"
----
-
 # Estirge
 
 *Monstruosidad Diminuta, sin alineamiento*

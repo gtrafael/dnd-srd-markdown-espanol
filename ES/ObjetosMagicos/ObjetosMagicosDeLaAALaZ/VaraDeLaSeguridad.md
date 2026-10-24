@@ -1,9 +1,3 @@
----
-aliases: ["Vara de la seguridad"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Rod of Security]]"
----
-
 # Vara de la seguridad
 
 *Vara, muy rara*

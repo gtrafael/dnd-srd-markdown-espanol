@@ -1,9 +1,3 @@
----
-aliases: ["Imagen múltiple", "Mirror Image"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mirror Image|Mirror Image (EN)]]"
----
-
 # Imagen múltiple
 
 *Ilusionismo de nivel 2 (bardo, brujo, hechicero, mago)*

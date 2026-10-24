@@ -1,9 +1,3 @@
----
-aliases: ["Acelerar", "Haste"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Haste|Haste (EN)]]"
----
-
 # Acelerar
 
 *Transmutación de nivel 3 (hechicero, mago)*

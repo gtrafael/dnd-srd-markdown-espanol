@@ -1,9 +1,3 @@
----
-aliases: ["Manual of Bodily Health"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ManualDeLaSaludCorporal|Manual de la salud corporal (Español)]]"
----
-
 ### Manual of Bodily Health
 
 *Wondrous Item, Very Rare*

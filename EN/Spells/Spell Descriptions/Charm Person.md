@@ -1,9 +1,3 @@
----
-aliases: ["Charm Person"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/HechizarPersona|Hechizar persona (Español)]]"
----
-
 ### Charm Person
 
 *Level 1 Enchantment* (Bard, Druid, Sorcerer, Warlock, Wizard)

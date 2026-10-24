@@ -1,9 +1,3 @@
----
-aliases: ["Draft Horse"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/CaballoDeTiro|Caballo de tiro (Español)]]"
----
-
 ## Draft Horse
 
 *Large Beast, Unaligned*

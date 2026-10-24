@@ -1,9 +1,3 @@
----
-aliases: ["Comprehend Languages"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EntenderIdiomas|Entender idiomas (Español)]]"
----
-
 ### Comprehend Languages
 
 *Level 1 Divination* (Bard, Sorcerer, Warlock, Wizard)

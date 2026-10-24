@@ -1,9 +1,3 @@
----
-aliases: ["The Six Abilities"]
-tags: [srd, english, tag_gameplay]
-related_es: "[[ComoJugar/LasCaracteristicas|Las características (Español)]]"
----
-
 # The Six Abilities
 
 All creatures—characters and monsters—have six abilities that measure physical and mental characteristics, as shown on the Ability Descriptions table.

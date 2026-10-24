@@ -1,9 +1,3 @@
----
-aliases: ["Half-Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Semidragon|Semidragón (Español)]]"
----
-
 ## Half-Dragon
 
 *Medium Dragon, Neutral*

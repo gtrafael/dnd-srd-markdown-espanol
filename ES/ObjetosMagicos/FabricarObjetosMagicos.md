@@ -1,9 +1,3 @@
----
-aliases: ["Fabricar objetos mágicos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Crafting Magic Items|Crafting Magic Items (EN)]]"
----
-
 # Fabricar objetos mágicos
 
 El capítulo "Equipo" contiene reglas sobre cómo elaborar pociones de curación y pergaminos de conjuro. Para crear otros objetos mágicos, sigue las reglas que aparecen a continuación. El uso de la segunda persona en estas reglas se refiere al personaje que fabrica el objeto mágico.

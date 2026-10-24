@@ -1,9 +1,3 @@
----
-aliases: ["Gigante de las tormentas", "Storm Giant"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Storm Giant|Storm Giant (EN)]]"
----
-
 # Gigante de las tormentas
 
 *Gigante Enorme, caótico bueno*

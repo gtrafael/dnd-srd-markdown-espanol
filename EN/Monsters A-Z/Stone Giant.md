@@ -1,9 +1,3 @@
----
-aliases: ["Stone Giant"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GiganteDePiedra|Gigante de piedra (Español)]]"
----
-
 ## Stone Giant
 
 *Huge Giant, Neutral*

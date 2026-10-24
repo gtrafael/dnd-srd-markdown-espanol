@@ -1,9 +1,3 @@
----
-aliases: ["Ghost"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Fantasma|Fantasma (Español)]]"
----
-
 ## Ghost
 
 *Medium Undead, Neutral*

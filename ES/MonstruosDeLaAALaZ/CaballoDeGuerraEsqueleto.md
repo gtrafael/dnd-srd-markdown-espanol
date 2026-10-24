@@ -1,9 +1,3 @@
----
-aliases: ["Caballo de guerra esqueleto", "Warhorse Skeleton"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Warhorse Skeleton|Warhorse Skeleton (EN)]]"
----
-
 # Caballo de guerra esqueleto
 
 *Muerto viviente Grande, legal malvado*

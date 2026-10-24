@@ -1,9 +1,3 @@
----
-aliases: ["Telaraña", "Web"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Web|Web (EN)]]"
----
-
 # Telaraña
 
 *Conjuración de nivel 2 (hechicero, mago)*

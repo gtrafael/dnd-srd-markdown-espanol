@@ -1,9 +1,3 @@
----
-aliases: ["Vara inamovible", "Immovable Rod"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Immovable Rod|Immovable Rod (EN)]]"
----
-
 # Vara inamovible
 
 *Vara, infrecuente*

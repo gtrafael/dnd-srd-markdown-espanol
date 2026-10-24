@@ -1,9 +1,3 @@
----
-aliases: ["Vínculo protector", "Warding Bond"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Warding Bond|Warding Bond (EN)]]"
----
-
 # Vínculo protector
 
 *Abjuración de nivel 2 (clérigo, paladín)*

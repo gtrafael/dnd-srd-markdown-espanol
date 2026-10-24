@@ -1,9 +1,3 @@
----
-aliases: ["Tiefling"]
-tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/Tiefling|Tiefling (Español)]]"
----
-
 # Tiefling
 
 **Creature Type:** Humanoid

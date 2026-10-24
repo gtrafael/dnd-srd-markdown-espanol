@@ -1,9 +1,3 @@
----
-aliases: ["Hoja de fuego", "Flame Blade"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Flame Blade|Flame Blade (EN)]]"
----
-
 # Hoja de fuego
 
 *Evocación de nivel 2 (druida, hechicero)*

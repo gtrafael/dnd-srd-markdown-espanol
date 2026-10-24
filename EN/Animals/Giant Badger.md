@@ -1,9 +1,3 @@
----
-aliases: ["Giant Badger"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/TejonGigante|Tejón gigante (Español)]]"
----
-
 ## Giant Badger
 
 *Medium Beast, Unaligned*

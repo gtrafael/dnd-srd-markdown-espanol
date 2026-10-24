@@ -1,9 +1,3 @@
----
-aliases: ["Travel"]
-tags: [srd, english, tag_gamemastering]
-related_es: "[[HerramientasDelJuego/RitmoDeViaje|Viaje (Español)]]"
----
-
 # Travel Pace
 
 A group of characters can travel overland at a Normal, Fast, or Slow pace, as described in "Playing the Game." During any journey stage, the predominant terrain determines the characters' maximum travel pace, as shown in the Maximum Pace column of the Travel Terrain table. Certain factors can affect a group's travel pace.

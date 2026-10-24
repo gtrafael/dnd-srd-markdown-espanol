@@ -1,9 +1,3 @@
----
-aliases: ["Ioun Stone"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PiedraIoun]]"
----
-
 # Ioun Stone
 
 _Wondrous Item, Rarity Varies (Requires Attunement)_

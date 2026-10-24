@@ -1,9 +1,3 @@
----
-aliases: ["Sunburst"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ExplosionSolar|Explosión solar (Español)]]"
----
-
 ### Sunburst
 
 *Level 8 Evocation* (Cleric, Druid, Sorcerer, Wizard)

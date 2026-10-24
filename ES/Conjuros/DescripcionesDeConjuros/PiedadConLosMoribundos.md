@@ -1,9 +1,3 @@
----
-aliases: ["Piedad con los moribundos", "Spare the Dying"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Spare the Dying|Spare the Dying (EN)]]"
----
-
 # Piedad con los moribundos
 
 *Truco de nigromancia (clérigo, druida)*

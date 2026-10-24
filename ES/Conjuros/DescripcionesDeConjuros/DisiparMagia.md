@@ -1,9 +1,3 @@
----
-aliases: ["Disipar magia", "Dispel Magic"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Dispel Magic|Dispel Magic (EN)]]"
----
-
 # Disipar magia
 
 *Abjuración de nivel 3 (bardo, brujo, clérigo, druida, explorador, hechicero, mago, paladín)*

@@ -1,9 +1,3 @@
----
-aliases: ["Oil of Etherealness"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AceiteDeEtereidad|Aceite de etereidad (Español)]]"
----
-
 ### Oil of Etherealness
 
 *Potion, Rare*

@@ -1,9 +1,3 @@
----
-aliases: ["Lantern of Revealing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/LinternaDeRevelacion]]"
----
-
 # Lantern of Revealing
 
 _Wondrous Item, Uncommon_

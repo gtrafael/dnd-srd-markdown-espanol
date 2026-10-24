@@ -1,9 +1,3 @@
----
-aliases: ["Human"]
-tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/Humano|Humano (Español)]]"
----
-
 # Human
 
 **Creature Type:** Humanoid

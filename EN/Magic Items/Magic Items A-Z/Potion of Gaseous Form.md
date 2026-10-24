@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Gaseous Form"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeFormaGaseosa]]"
----
-
 # Potion of Gaseous Form
 
 _Potion, Rare_

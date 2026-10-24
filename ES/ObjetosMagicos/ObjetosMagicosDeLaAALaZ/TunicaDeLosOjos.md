@@ -1,9 +1,3 @@
----
-aliases: ["Túnica de los ojos", "Robe of Eyes"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Robe of Eyes|Robe of Eyes (EN)]]"
----
-
 # Túnica de los ojos
 
 *Objeto maravilloso, raro (requiere sintonización)*

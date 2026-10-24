@@ -1,9 +1,3 @@
----
-aliases: ["Move Earth"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/MoverLaTierra|Mover la tierra (Español)]]"
----
-
 ### Move Earth
 
 *Level 6 Transmutation* (Druid, Sorcerer, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Aparato del crustáceo", "Apparatus of the Crab"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Apparatus of the Crab|Apparatus of the Crab (EN)]]"
----
-
 # Aparato del crustáceo
 
 *Objeto maravilloso, legendario*

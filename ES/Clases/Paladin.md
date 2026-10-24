@@ -1,9 +1,3 @@
----
-aliases: ["Paladín"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Paladin|Paladín (EN)]]"
----
-
 # Paladín
 
 Atributos básicos de paladín

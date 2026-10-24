@@ -1,9 +1,3 @@
----
-aliases: ["Shield of Missile Attraction"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscudoDeAtraerProyectiles|Escudo de atraer proyectiles (Español)]]"
----
-
 ### Shield of Missile Attraction
 
 *Armor (Shield), Rare (Requires Attunement)*

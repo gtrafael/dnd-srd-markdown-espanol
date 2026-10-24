@@ -1,9 +1,3 @@
----
-aliases: ["Bard"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Bardo|Bardo (Español)]]"
----
-
 # Bard
 
 ## Core Bard Traits

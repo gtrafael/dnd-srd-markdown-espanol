@@ -1,9 +1,3 @@
----
-aliases: ["Elfo", "Elf"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Origins/Elf|Elf (EN)]]"
----
-
 # Elfo
 
 Tipo de criatura: humanoide

@@ -1,9 +1,3 @@
----
-aliases: ["Deck of Illusions"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BarajaDeIlusiones|Baraja de ilusiones (Español)]]"
----
-
 ### Deck of Illusions
 
 *Wondrous Item, Uncommon*

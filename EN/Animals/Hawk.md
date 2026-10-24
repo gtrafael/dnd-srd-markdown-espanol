@@ -1,9 +1,3 @@
----
-aliases: ["Hawk"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Halcon|Halcón (Español)]]"
----
-
 ## Hawk
 
 *Tiny Beast, Unaligned*

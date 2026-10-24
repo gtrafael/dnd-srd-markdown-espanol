@@ -1,9 +1,3 @@
----
-aliases: ["Desplazamiento entre planos", "Plane Shift"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Plane Shift|Plane Shift (EN)]]"
----
-
 # Desplazamiento entre planos
 
 *Conjuración de nivel 7 (brujo, clérigo, druida, hechicero, mago)*

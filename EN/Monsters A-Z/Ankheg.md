@@ -1,9 +1,3 @@
----
-aliases: ["Ankheg"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Ankheg|Ankheg (Español)]]"
----
-
 ## Ankheg
 
 *Large Monstrosity, Unaligned*

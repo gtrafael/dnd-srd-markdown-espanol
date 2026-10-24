@@ -1,9 +1,3 @@
----
-aliases: ["Folding Boat"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotePlegable|Bote plegable (Español)]]"
----
-
 # Folding Boat
 
 _Wondrous Item, Rare_

@@ -1,9 +1,3 @@
----
-aliases: ["Moonbeam"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/RayoDeLuna|Rayo de luna (Español)]]"
----
-
 ### Moonbeam
 
 *Level 2 Evocation* (Druid)

@@ -1,9 +1,3 @@
----
-aliases: ["Warhorse"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/CaballoDeGuerra|Caballo de guerra (Español)]]"
----
-
 ## Warhorse
 
 *Large Beast, Unaligned*

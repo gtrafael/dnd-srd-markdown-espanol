@@ -1,9 +1,3 @@
----
-aliases: ["Red Dragon Wyrmling"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonRojo|Cría de dragón rojo (Español)]]"
----
-
 ## Red Dragon Wyrmling
 
 *Medium Dragon (Chromatic), Chaotic Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Irresistible Dance"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/BaileIrresistible|Baile irresistible (Español)]]"
----
-
 ### Irresistible Dance
 
 *Level 6 Enchantment* (Bard, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Spike Growth"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CrecimientoEspinoso|Crecimiento espinoso (Español)]]"
----
-
 ### Spike Growth
 
 *Level 2 Transmutation* (Druid, Ranger)

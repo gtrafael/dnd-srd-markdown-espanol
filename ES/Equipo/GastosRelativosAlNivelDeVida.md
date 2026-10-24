@@ -1,9 +1,3 @@
----
-aliases: ["Gastos", "Expenses"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Lifestyle Expenses|Lifestyle Expenses (EN)]]"
----
-
 # Gastos relativos al nivel de vida
 
 Los gastos relativos al nivel de vida resumen el coste asociado a vivir en un mundo de fantasía. Abarcan el alojamiento, la comida, el mantenimiento del equipo y otras necesidades.

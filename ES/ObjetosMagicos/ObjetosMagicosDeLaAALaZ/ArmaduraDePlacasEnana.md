@@ -1,9 +1,3 @@
----
-aliases: ["Armadura de placas enana", "Dwarven Plate"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Dwarven Plate|Dwarven Plate (EN)]]"
----
-
 # Armadura de placas enana
 
 *Armadura (armadura de placas o media armadura), muy rara*

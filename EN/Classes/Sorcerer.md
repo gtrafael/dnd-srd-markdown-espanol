@@ -1,9 +1,3 @@
----
-aliases: ["Sorcerer"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Hechicero|Hechicero (Español)]]"
----
-
 # Sorcerer
 
 ## Core Sorcerer Traits

@@ -1,9 +1,3 @@
----
-aliases: ["Aventurarse", "Adventuring"]
-tags: [srd, espanol, tag_comojugar]
-related_en: "[[Playing the Game/Exploration|Exploration (EN)]]"
----
-
 # Exploración
 
 La exploración implica penetrar en lugares peligrosos y enigmáticos. Las reglas de esta sección tratan algunas de las formas en las que los aventureros pueden interactuar con el entorno en dichos lugares.

@@ -1,9 +1,3 @@
----
-aliases: ["Apariencia", "Seeming"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Seeming|Seeming (EN)]]"
----
-
 # Apariencia
 
 *Ilusionismo de nivel 5 (bardo, hechicero, mago)*

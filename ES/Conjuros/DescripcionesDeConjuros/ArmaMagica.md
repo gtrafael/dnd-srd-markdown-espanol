@@ -1,9 +1,3 @@
----
-aliases: ["Arma mágica", "Magic Weapon"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Magic Weapon|Magic Weapon (EN)]]"
----
-
 # Arma mágica
 
 *Transmutación de nivel 2 (explorador, hechicero, mago, paladín)*

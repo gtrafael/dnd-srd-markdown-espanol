@@ -1,9 +1,3 @@
----
-aliases: ["Conjurar elemental", "Conjure Elemental"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Conjure Elemental|Conjure Elemental (EN)]]"
----
-
 # Conjurar elemental
 
 *Conjuración de nivel 5 (druida, mago)*

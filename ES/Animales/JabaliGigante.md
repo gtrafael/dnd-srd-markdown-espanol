@@ -1,9 +1,3 @@
----
-aliases: ["Jabalí gigante", "Giant Boar"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Boar|Giant Boar (EN)]]"
----
-
 # Jabalí gigante
 
 *Bestia Grande, sin alineamiento*

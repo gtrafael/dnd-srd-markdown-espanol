@@ -1,9 +1,3 @@
----
-aliases: ["Capa de invisibilidad", "Cloak of Invisibility"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Cloak of Invisibility|Cloak of Invisibility (EN)]]"
----
-
 # Capa de invisibilidad
 
 *Objeto maravilloso, legendario (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Sacerdote acólito", "Priest Acolyte"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Priest Acolyte|Priest Acolyte (EN)]]"
----
-
 # Sacerdote acólito
 
 *Humanoide Mediano o Pequeño (clérigo), neutral*

@@ -1,9 +1,3 @@
----
-aliases: ["Cape of the Mountebank"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaDelCharlatan|Capa del charlatán (Español)]]"
----
-
 ### Cape of the Mountebank
 
 *Wondrous Item, Rare*

@@ -1,9 +1,3 @@
----
-aliases: ["Dragón azul adulto", "Adult Blue Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Adult Blue Dragon|Adult Blue Dragon (EN)]]"
----
-
 # Dragón azul adulto
 
 *Dragón Enorme (cromático), legal malvado*

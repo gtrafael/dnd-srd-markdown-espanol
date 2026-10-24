@@ -1,9 +1,3 @@
----
-aliases: ["Triceratops"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Triceratops|Triceratops (Español)]]"
----
-
 ## Triceratops
 
 *Huge Beast (Dinosaur), Unaligned*

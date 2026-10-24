@@ -1,9 +1,3 @@
----
-aliases: ["Campo antimagia", "Antimagic Field"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Antimagic Field|Antimagic Field (EN)]]"
----
-
 # Campo antimagia
 
 *Abjuración de nivel 8 (clérigo, mago)*

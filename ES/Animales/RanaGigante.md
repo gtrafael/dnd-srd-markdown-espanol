@@ -1,9 +1,3 @@
----
-aliases: ["Rana gigante", "Giant Frog"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Frog|Giant Frog (EN)]]"
----
-
 # Rana gigante
 
 *Bestia Mediana, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Reencarnar", "Reincarnate"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Reincarnate|Reincarnate (EN)]]"
----
-
 # Reencarnar
 
 *Nigromancia de nivel 5 (druida)*

@@ -1,9 +1,3 @@
----
-aliases: ["Panther"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Pantera|Pantera (Español)]]"
----
-
 ## Panther
 
 *Medium Beast, Unaligned*

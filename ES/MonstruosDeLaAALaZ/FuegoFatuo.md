@@ -1,9 +1,3 @@
----
-aliases: ["Fuego fatuo", "Will-o-Wisp"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Will-o-Wisp|Will-o-Wisp (EN)]]"
----
-
 # Fuego fatuo
 
 *Muerto viviente Diminuto, caótico malvado*

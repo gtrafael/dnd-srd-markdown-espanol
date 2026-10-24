@@ -1,9 +1,3 @@
----
-aliases: ["Tomo de entendimiento", "Tome of Understanding"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Tome of Understanding|Tome of Understanding (EN)]]"
----
-
 # Tomo de entendimiento
 
 *Objeto maravilloso, muy raro*

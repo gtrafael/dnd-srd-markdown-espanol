@@ -1,9 +1,3 @@
----
-aliases: ["Varita de relámpagos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wand of Lightning Bolts|Wand of Lightning Bolts (EN)]]"
----
-
 # Varita de relámpagos
 
 *Varita, rara (requiere sintonización por parte de un lanzador de conjuros)*

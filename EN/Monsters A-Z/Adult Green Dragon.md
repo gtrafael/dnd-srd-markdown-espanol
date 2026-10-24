@@ -1,9 +1,3 @@
----
-aliases: ["Adult Green Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonVerdeAdulto|Dragón verde adulto (Español)]]"
----
-
 ## Adult Green Dragon
 
 *Huge Dragon (Chromatic), Lawful Evil*

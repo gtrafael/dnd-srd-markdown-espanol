@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de libertad de acción"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Free Action]]"
----
-
 # Anillo de libertad de acción
 
 *Anillo, raro (requiere sintonización)*

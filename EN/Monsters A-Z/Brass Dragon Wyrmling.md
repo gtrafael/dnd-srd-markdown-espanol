@@ -1,9 +1,3 @@
----
-aliases: ["Brass Dragon Wyrmling"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonDeOropel|Cría de dragón de oropel (Español)]]"
----
-
 ## Brass Dragon Wyrmling
 
 *Medium Dragon (Metallic), Chaotic Good*

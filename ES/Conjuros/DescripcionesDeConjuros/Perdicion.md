@@ -1,9 +1,3 @@
----
-aliases: ["Perdición", "Bane"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Bane|Bane (EN)]]"
----
-
 # Perdición
 
 *Encantamiento de nivel 1 (bardo, brujo, clérigo)*

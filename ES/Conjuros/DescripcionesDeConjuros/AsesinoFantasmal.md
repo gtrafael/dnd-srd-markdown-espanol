@@ -1,9 +1,3 @@
----
-aliases: ["Asesino fantasmal", "Phantasmal Killer"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Phantasmal Killer|Phantasmal Killer (EN)]]"
----
-
 # Asesino fantasmal
 
 *Ilusionismo de nivel 4 (bardo, mago)*

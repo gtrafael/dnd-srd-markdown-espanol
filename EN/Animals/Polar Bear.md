@@ -1,9 +1,3 @@
----
-aliases: ["Polar Bear"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/OsoPolar|Oso polar (Español)]]"
----
-
 ## Polar Bear
 
 *Large Beast, Unaligned*

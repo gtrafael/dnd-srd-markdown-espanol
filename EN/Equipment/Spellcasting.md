@@ -1,9 +1,3 @@
----
-aliases: ["Spellcasting"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/LanzamientoDeConjuros|Lanzamiento de conjuros (Español)]]"
----
-
 # Spellcasting
 
 Most settlements contain individuals who are willing to cast spells in exchange for payment. If a spell has expensive components, add the cost of those components to the cost listed in the table. The higher the level of a desired spell, the harder it is to find someone to cast it.

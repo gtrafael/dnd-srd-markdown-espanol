@@ -1,9 +1,3 @@
----
-aliases: ["Saber-Toothed Tiger"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/TigreDientesDeSable|Tigre dientes de sable (Español)]]"
----
-
 ## Saber-Toothed Tiger
 
 *Large Beast, Unaligned*

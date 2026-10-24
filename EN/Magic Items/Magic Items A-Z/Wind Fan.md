@@ -1,9 +1,3 @@
----
-aliases: ["Wind Fan"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AbanicoDelViento|Abanico del viento (Español)]]"
----
-
 ### Wind Fan
 
 *Wondrous Item, Uncommon*

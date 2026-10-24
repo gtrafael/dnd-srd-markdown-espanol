@@ -1,9 +1,3 @@
----
-aliases: ["Crocodile"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Cocodrilo|Cocodrilo (Español)]]"
----
-
 ## Crocodile
 
 *Large Beast, Unaligned*

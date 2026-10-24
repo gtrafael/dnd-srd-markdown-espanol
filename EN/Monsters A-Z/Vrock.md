@@ -1,9 +1,3 @@
----
-aliases: ["Vrock"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Vrock|Vrock (Español)]]"
----
-
 ## Vrock
 
 *Large Fiend (Demon), Chaotic Evil*

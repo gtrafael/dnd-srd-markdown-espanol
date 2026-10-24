@@ -1,9 +1,3 @@
----
-aliases: ["Darkvision"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/VisionEnLaOscuridad|Visión en la oscuridad (Español)]]"
----
-
 ### Darkvision
 
 *Level 2 Transmutation* (Druid, Ranger, Sorcerer, Wizard)

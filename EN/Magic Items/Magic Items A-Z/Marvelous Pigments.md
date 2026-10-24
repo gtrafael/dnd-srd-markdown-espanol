@@ -1,9 +1,3 @@
----
-aliases: ["Marvelous Pigments"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PigmentosMaravillosos|Pigmentos maravillosos (Español)]]"
----
-
 ### Marvelous Pigments
 
 *Wondrous Item, Very Rare*

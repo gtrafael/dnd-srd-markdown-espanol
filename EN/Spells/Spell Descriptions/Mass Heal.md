@@ -1,9 +1,3 @@
----
-aliases: ["Mass Heal"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CurarEnMasa|Curar en masa (Español)]]"
----
-
 ### Mass Heal
 
 *Level 9 Abjuration* (Cleric)

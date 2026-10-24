@@ -1,9 +1,3 @@
----
-aliases: ["Venenos", "Poisons"]
-tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gameplay Toolbox/Poison|Poisons (EN)]]"
----
-
 # Veneno
 
 Debido a su naturaleza mortal e insidiosa, los venenos son una de las herramientas favoritas de asesinos y criaturas malvadas.

@@ -1,9 +1,3 @@
----
-aliases: ["Cinturón de fuerza de gigante"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Belt of Giant Strength]]"
----
-
 # Cinturón de fuerza de gigante
 
 *Objeto maravilloso, rareza variable (requiere sintonización)*

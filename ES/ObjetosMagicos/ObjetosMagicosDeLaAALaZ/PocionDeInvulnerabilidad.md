@@ -1,9 +1,3 @@
----
-aliases: ["Poción de invulnerabilidad"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Potion of Invulnerability]]"
----
-
 # Poción de invulnerabilidad
 
 *Poción, rara*

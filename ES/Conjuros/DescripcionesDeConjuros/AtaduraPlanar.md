@@ -1,9 +1,3 @@
----
-aliases: ["Atadura planar", "Planar Binding"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Planar Binding|Planar Binding (EN)]]"
----
-
 # Atadura planar
 
 *Abjuración de nivel 5 (bardo, brujo, clérigo, druida, mago)*

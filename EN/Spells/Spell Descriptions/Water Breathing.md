@@ -1,9 +1,3 @@
----
-aliases: ["Water Breathing"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/RespirarBajoElAgua|Respirar bajo el agua (Español)]]"
----
-
 ### Water Breathing
 
 *Level 3 Transmutation* (Druid, Ranger, Sorcerer, Wizard)

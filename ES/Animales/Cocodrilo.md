@@ -1,9 +1,3 @@
----
-aliases: ["Cocodrilo", "Crocodile"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Crocodile|Crocodile (EN)]]"
----
-
 # Cocodrilo
 
 *Bestia Grande, sin alineamiento*

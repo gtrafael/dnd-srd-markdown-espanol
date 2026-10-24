@@ -1,9 +1,3 @@
----
-aliases: ["Animated Shield"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscudoAnimado|Escudo animado (Español)]]"
----
-
 ### Animated Shield
 
 *Armor (Shield), Very Rare (Requires Attunement)*

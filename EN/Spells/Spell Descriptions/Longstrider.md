@@ -1,9 +1,3 @@
----
-aliases: ["Longstrider"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ZancadaProdigiosa|Zancada prodigiosa (Español)]]"
----
-
 ### Longstrider
 
 *Level 1 Transmutation* (Bard, Druid, Ranger, Wizard)

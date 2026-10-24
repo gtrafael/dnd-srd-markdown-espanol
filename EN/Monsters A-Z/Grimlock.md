@@ -1,9 +1,3 @@
----
-aliases: ["Grimlock"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Grimlock|Grimlock (Español)]]"
----
-
 ## Grimlock
 
 *Medium Aberration, Neutral Evil*

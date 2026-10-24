@@ -1,9 +1,3 @@
----
-aliases: ["Varita de atadura"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wand of Binding|Wand of Binding (EN)]]"
----
-
 # Varita de atadura
 
 *Varita, rara (requiere sintonización)*

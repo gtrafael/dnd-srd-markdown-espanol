@@ -1,9 +1,3 @@
----
-aliases: ["Goblin Minion"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/SecuazGoblin|Secuaz goblin (Español)]]"
----
-
 ## Goblin Minion
 
 *Small Fey (Goblinoid), Chaotic Neutral*

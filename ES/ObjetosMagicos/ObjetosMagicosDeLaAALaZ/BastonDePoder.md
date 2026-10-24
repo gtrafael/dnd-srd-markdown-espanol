@@ -1,9 +1,3 @@
----
-aliases: ["Bastón de poder"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Staff of Power]]"
----
-
 # Bastón de poder
 
 *Bastón, muy raro (requiere sintonización por parte de un brujo, hechicero o mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Mass Healing Word"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PalabraDeCuracionEnMasa|Palabra de curación en masa (Español)]]"
----
-
 ### Mass Healing Word
 
 *Level 3 Abjuration* (Bard, Cleric)

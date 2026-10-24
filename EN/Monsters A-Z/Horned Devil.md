@@ -1,9 +1,3 @@
----
-aliases: ["Horned Devil"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DiabloAstado|Diablo astado (Español)]]"
----
-
 ## Horned Devil
 
 *Large Fiend (Devil), Lawful Evil*

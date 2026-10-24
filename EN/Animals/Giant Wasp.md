@@ -1,9 +1,3 @@
----
-aliases: ["Giant Wasp"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/AvispaGigante|Avispa gigante (Español)]]"
----
-
 ## Giant Wasp
 
 *Medium Beast, Unaligned*

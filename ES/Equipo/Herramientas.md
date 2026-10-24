@@ -1,9 +1,3 @@
----
-aliases: ["Herramientas", "Tools"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Tools|Tools (EN)]]"
----
-
 # Herramientas
 
 Las herramientas te ayudan a realizar pruebas de característica especializadas, a crear determinados objetos o a ambas cosas. La descripción de una herramienta incluye su precio y su peso, además de los siguientes apartados:

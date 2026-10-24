@@ -1,9 +1,3 @@
----
-aliases: ["Dust of Dryness"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PolvoDeSequedad|Polvo de sequedad (Español)]]"
----
-
 ### Dust of Dryness
 
 *Wondrous Item, Uncommon*

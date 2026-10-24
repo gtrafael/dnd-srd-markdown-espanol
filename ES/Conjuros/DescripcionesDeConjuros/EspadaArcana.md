@@ -1,9 +1,3 @@
----
-aliases: ["Espada arcana", "Arcane Sword"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Arcane Sword|Arcane Sword (EN)]]"
----
-
 # Espada arcana
 
 *Evocación de nivel 7 (bardo, mago)*

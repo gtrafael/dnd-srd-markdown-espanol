@@ -1,9 +1,3 @@
----
-aliases: ["Mago", "Wizard"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Wizard|Wizard (EN)]]"
----
-
 # Mago
 
 Atributos básicos de mago

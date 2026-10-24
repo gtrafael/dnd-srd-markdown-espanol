@@ -1,9 +1,3 @@
----
-aliases: ["Faerie Fire"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/FuegoFeerico|Fuego feérico (Español)]]"
----
-
 ### Faerie Fire
 
 *Level 1 Evocation* (Bard, Druid)

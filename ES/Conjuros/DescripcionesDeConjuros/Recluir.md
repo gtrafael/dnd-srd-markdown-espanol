@@ -1,9 +1,3 @@
----
-aliases: ["Recluir", "Sequester"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Sequester|Sequester (EN)]]"
----
-
 # Recluir
 
 *Transmutación de nivel 7 (mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Alarm"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Alarma|Alarma (Español)]]"
----
-
 ### Alarm
 
 *Level 1 Abjuration* (Ranger, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Triceratops"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Triceratops|Triceratops (EN)]]"
----
-
 # Triceratops
 
 *Bestia Enorme (dinosaurio), sin alineamiento*

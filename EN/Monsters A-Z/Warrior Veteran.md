@@ -1,9 +1,3 @@
----
-aliases: ["Warrior Veteran"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GuerreroVeterano|Guerrero veterano (Español)]]"
----
-
 ## Warrior Veteran
 
 *Medium or Small Humanoid, Neutral*

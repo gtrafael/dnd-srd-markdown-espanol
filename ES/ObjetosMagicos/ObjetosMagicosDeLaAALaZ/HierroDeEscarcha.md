@@ -1,9 +1,3 @@
----
-aliases: ["Hierro de escarcha"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Frost Brand]]"
----
-
 # Hierro de escarcha
 
 *Arma (cimitarra, espada corta, espada larga, espadón, estoque o guja), muy rara (requiere sintonización)*

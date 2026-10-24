@@ -1,9 +1,3 @@
----
-aliases: ["Magic Missile"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ProyectilMagico|Proyectil mágico (Español)]]"
----
-
 ### Magic Missile
 
 *Level 1 Evocation* (Sorcerer, Wizard)

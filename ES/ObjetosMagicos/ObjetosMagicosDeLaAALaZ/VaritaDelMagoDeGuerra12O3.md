@@ -1,9 +1,3 @@
----
-aliases: ["Varita del mago de guerra +1, +2 o +3"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wand of the War Mage, +1, +2, or +3|Wand of the War Mage, +1, +2, or +3 (EN)]]"
----
-
 # Varita del mago de guerra +1, +2 o +3
 
 *Varita, infrecuente (+1), rara (+2) o muy rara (+3) (requiere sintonización por parte de un lanzador de conjuros)*

@@ -1,9 +1,3 @@
----
-aliases: ["Alas de vuelo", "Wings of Flying"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wings of Flying|Wings of Flying (EN)]]"
----
-
 # Alas de vuelo
 
 *Objeto maravilloso, raro (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Sphinx of Valor"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/EsfingeDelValor|Esfinge del valor (Español)]]"
----
-
 ## Sphinx of Valor
 
 *Large Celestial, Lawful Neutral*

@@ -1,9 +1,3 @@
----
-aliases: ["Detectar venenos y enfermedades", "Detect Poison and Disease"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Detect Poison and Disease|Detect Poison and Disease (EN)]]"
----
-
 # Detectar venenos y enfermedades
 
 *Adivinación de nivel 1 (clérigo, druida, explorador, paladín)*

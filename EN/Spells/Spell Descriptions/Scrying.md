@@ -1,9 +1,3 @@
----
-aliases: ["Scrying"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Escudrinar|Escudriñar (Español)]]"
----
-
 ### Scrying
 
 *Level 5 Divination* (Bard, Cleric, Druid, Warlock, Wizard)

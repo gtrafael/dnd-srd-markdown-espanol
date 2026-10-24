@@ -1,9 +1,3 @@
----
-aliases: ["Cetro de poder señorial"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Rod of Lordly Might]]"
----
-
 # Cetro de poder señorial
 
 *Vara, legendaria (requiere sintonización)*

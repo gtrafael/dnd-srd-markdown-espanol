@@ -1,9 +1,3 @@
----
-aliases: ["Manticore"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Manticora|Mantícora (Español)]]"
----
-
 ## Manticore
 
 *Large Monstrosity, Lawful Evil*

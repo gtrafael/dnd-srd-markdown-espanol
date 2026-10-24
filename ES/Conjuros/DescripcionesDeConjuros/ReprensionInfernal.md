@@ -1,9 +1,3 @@
----
-aliases: ["Reprensión infernal", "Hellish Rebuke"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Hellish Rebuke|Hellish Rebuke (EN)]]"
----
-
 # Reprensión infernal
 
 *Evocación de nivel 1 (brujo)*

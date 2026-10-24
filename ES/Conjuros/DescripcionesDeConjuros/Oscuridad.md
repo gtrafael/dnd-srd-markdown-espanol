@@ -1,9 +1,3 @@
----
-aliases: ["Oscuridad", "Darkness"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Darkness|Darkness (EN)]]"
----
-
 # Oscuridad
 
 *Evocación de nivel 2 (brujo, hechicero, mago)*

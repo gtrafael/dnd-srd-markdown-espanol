@@ -1,9 +1,3 @@
----
-aliases: ["Comadreja gigante", "Giant Weasel"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Weasel|Giant Weasel (EN)]]"
----
-
 # Comadreja gigante
 
 *Bestia Mediana, sin alineamiento*

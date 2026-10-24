@@ -1,9 +1,3 @@
----
-aliases: ["Commoner"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Plebeyo|Plebeyo (Español)]]"
----
-
 ## Commoner
 
 *Medium or Small Humanoid, Neutral*

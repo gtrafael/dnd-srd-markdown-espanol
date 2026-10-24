@@ -1,9 +1,3 @@
----
-aliases: ["Saber druídico", "Druidcraft"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Druidcraft|Druidcraft (EN)]]"
----
-
 # Saber druídico
 
 *Truco de transmutación (druida)*

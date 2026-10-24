@@ -1,9 +1,3 @@
----
-aliases: ["Winged Boots"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotasAladas|Botas aladas (Español)]]"
----
-
 ### Winged Boots
 
 *Wondrous Item, Uncommon (Requires Attunement)*

@@ -1,9 +1,3 @@
----
-aliases: ["Bead of Nourishment"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AbalorioDeNutricion|Abalorio de nutrición (Español)]]"
----
-
 ### Bead of Nourishment
 
 *Wondrous Item, Common*

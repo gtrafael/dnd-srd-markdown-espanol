@@ -1,9 +1,3 @@
----
-aliases: ["Cuervo", "Raven"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Raven|Raven (EN)]]"
----
-
 # Cuervo
 
 *Bestia Diminuta, sin alineamiento*

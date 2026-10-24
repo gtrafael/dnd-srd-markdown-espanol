@@ -1,9 +1,3 @@
----
-aliases: ["Ráfaga de viento", "Gust of Wind"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Gust of Wind|Gust of Wind (EN)]]"
----
-
 # Ráfaga de viento
 
 *Evocación de nivel 2 (druida, explorador, hechicero, mago)*

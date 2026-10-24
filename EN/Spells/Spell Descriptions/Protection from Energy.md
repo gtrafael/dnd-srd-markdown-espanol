@@ -1,9 +1,3 @@
----
-aliases: ["Protection from Energy"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ProteccionContraEnergia|Protección contra energía (Español)]]"
----
-
 ### Protection from Energy
 
 *Level 3 Abjuration* (Cleric, Druid, Ranger, Sorcerer, Wizard)

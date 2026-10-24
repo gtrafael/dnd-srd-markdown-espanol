@@ -1,9 +1,3 @@
----
-aliases: ["Muro de fuego", "Wall of Fire"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Wall of Fire|Wall of Fire (EN)]]"
----
-
 # Muro de fuego
 
 *Evocación de nivel 4 (druida, hechicero, mago)*

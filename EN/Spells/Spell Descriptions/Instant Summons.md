@@ -1,9 +1,3 @@
----
-aliases: ["Instant Summons"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/InvocacionInstantanea|Invocación instantánea (Español)]]"
----
-
 ### Instant Summons
 
 *Level 6 Conjuration* (Wizard)

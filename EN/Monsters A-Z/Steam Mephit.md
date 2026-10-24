@@ -1,9 +1,3 @@
----
-aliases: ["Steam Mephit"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/MephitDeVapor|Mephit de vapor (Español)]]"
----
-
 ## Steam Mephit
 
 *Small Elemental, Neutral Evil*

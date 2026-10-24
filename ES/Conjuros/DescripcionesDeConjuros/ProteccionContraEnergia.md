@@ -1,9 +1,3 @@
----
-aliases: ["Protección contra energía", "Protection from Energy"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Protection from Energy|Protection from Energy (EN)]]"
----
-
 # Protección contra energía
 
 *Abjuración de nivel 3 (clérigo, druida, explorador, hechicero, mago)*

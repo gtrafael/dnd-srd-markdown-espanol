@@ -1,9 +1,3 @@
----
-aliases: ["Hat of Disguise"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/SombreroDeDisfraz|Sombrero de disfraz (Español)]]"
----
-
 ### Hat of Disguise
 
 *Wondrous Item, Uncommon (Requires Attunement)*

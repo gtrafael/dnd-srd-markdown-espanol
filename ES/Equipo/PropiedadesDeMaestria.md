@@ -1,9 +1,3 @@
----
-aliases: ["Propiedades de maestría"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Mastery Properties|Mastery Properties (EN)]]"
----
-
 # Propiedades de maestría
 
 Todas las armas tienen una propiedad de maestría que solo pueden utilizar los personajes que tengan un rasgo que les permita usar la propiedad, como Maestría con armas. A continuación se definen estas propiedades.

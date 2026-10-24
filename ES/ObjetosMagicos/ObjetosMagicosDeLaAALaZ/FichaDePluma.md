@@ -1,9 +1,3 @@
----
-aliases: ["Ficha de pluma"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Feather Token]]"
----
-
 # Ficha de pluma
 
 *Objeto maravilloso, rareza variable*

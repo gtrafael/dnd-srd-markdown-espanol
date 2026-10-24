@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Wonder"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeLasMaravillas|Wand of Wonder (Español)]]"
----
-
 # Wand of Wonder
 
 _Wand, Rare (Requires Attunement)_

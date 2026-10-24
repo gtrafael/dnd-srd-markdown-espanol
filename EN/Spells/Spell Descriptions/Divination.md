@@ -1,9 +1,3 @@
----
-aliases: ["Divination"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Adivinacion|Adivinación (Español)]]"
----
-
 ### Divination
 
 *Level 4 Divination* (Cleric, Druid, Wizard)

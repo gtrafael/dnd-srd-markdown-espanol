@@ -1,9 +1,3 @@
----
-aliases: ["Dominar persona", "Dominate Person"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Dominate Person|Dominate Person (EN)]]"
----
-
 # Dominar persona
 
 *Encantamiento de nivel 5 (bardo, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Defensora", "Defender"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Defender|Defender (EN)]]"
----
-
 # Defensora
 
 *Arma (cualquier arma cuerpo a cuerpo), legendaria (requiere sintonización)*

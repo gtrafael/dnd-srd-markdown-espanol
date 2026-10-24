@@ -1,9 +1,3 @@
----
-aliases: ["Hunter Shark"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/TiburonCazador|Tiburón cazador (Español)]]"
----
-
 ## Hunter Shark
 
 *Large Beast, Unaligned*

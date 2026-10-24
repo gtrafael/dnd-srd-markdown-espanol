@@ -1,9 +1,3 @@
----
-aliases: ["Wall of Thorns"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/MuroDeEspinas|Muro de espinas (Español)]]"
----
-
 ### Wall of Thorns
 
 *Level 6 Conjuration* (Druid)

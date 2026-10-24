@@ -1,9 +1,3 @@
----
-aliases: ["Gusano púrpura", "Purple Worm"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Purple Worm|Purple Worm (EN)]]"
----
-
 # Gusano púrpura
 
 *Monstruosidad Gargantuesca, sin alineamiento*

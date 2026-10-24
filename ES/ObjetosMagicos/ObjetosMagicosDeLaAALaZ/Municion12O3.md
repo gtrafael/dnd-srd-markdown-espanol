@@ -1,9 +1,3 @@
----
-aliases: ["Munición +1, +2 o +3", "Ammunition, 1, 2, or 3"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ammunition, +1, +2, or +3]]"
----
-
 # Munición +1, +2 o +3
 
 *Arma (cualquier munición), infrecuente (+1), rara (+2) o muy rara (+3)*

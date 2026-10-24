@@ -1,9 +1,3 @@
----
-aliases: ["Resilient Sphere"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EsferaElastica|Esfera elástica (Español)]]"
----
-
 ### Resilient Sphere
 
 *Level 4 Abjuration* (Wizard)

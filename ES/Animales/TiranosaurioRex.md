@@ -1,9 +1,3 @@
----
-aliases: ["Tiranosaurio rex", "Tyrannosaurus Rex"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Tyrannosaurus Rex|Tyrannosaurus Rex (EN)]]"
----
-
 # Tiranosaurio rex
 
 *Bestia Enorme (dinosaurio), sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Armor, +1, +2, or +3"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/Armadura12O3]]"
----
-
 # Armor, +1, +2, or +3
 
 _Armor (Any Light, Medium, or Heavy), Rare (+1), Very Rare (+2), or Legendary (+3)_

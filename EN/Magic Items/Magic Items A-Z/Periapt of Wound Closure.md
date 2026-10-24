@@ -1,9 +1,3 @@
----
-aliases: ["Periapt of Wound Closure"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TalismanDeCerrarHeridas|Talismán de cerrar heridas (Español)]]"
----
-
 ### Periapt of Wound Closure
 
 *Wondrous Item, Uncommon (Requires Attunement)*

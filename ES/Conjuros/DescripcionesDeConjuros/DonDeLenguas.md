@@ -1,9 +1,3 @@
----
-aliases: ["Don de lenguas", "Tongues"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Tongues|Tongues (EN)]]"
----
-
 # Don de lenguas
 
 *Adivinación de nivel 3 (bardo, brujo, clérigo, hechicero, mago)*

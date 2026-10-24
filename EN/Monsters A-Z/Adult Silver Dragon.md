@@ -1,9 +1,3 @@
----
-aliases: ["Adult Silver Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDePlataAdulto|Dragón de plata adulto (Español)]]"
----
-
 ## Adult Silver Dragon
 
 *Huge Dragon (Metallic), Lawful Good*

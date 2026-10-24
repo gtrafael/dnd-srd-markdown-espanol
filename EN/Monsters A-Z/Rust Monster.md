@@ -1,9 +1,3 @@
----
-aliases: ["Rust Monster"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/MonstruoCorrosivo|Monstruo corrosivo (Español)]]"
----
-
 ## Rust Monster
 
 *Medium Monstrosity, Unaligned*

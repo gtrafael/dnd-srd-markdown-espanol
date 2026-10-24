@@ -1,9 +1,3 @@
----
-aliases: ["Monje", "Monk"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Monk|Monk (EN)]]"
----
-
 # Monje
 
 Atributos básicos de monje

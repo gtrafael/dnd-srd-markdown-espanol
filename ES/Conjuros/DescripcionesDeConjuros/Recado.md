@@ -1,9 +1,3 @@
----
-aliases: ["Recado", "Sending"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Sending|Sending (EN)]]"
----
-
 # Recado
 
 *Adivinación de nivel 3 (bardo, clérigo, mago)*

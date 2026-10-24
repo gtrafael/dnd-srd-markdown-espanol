@@ -1,9 +1,3 @@
----
-aliases: ["Jackal"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Chacal|Chacal (Español)]]"
----
-
 ## Jackal
 
 *Small Beast, Unaligned*

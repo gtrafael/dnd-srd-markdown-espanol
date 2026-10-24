@@ -1,9 +1,3 @@
----
-aliases: ["Sword of Life Stealing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspadaLadronaDeVida]]"
----
-
 # Sword of Life Stealing
 
 _Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Rare (Requires Attunement)_

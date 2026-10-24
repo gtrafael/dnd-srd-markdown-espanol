@@ -1,9 +1,3 @@
----
-aliases: ["Young Green Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonVerdeJoven|Dragón verde joven (Español)]]"
----
-
 ## Young Green Dragon
 
 *Large Dragon (Chromatic), Lawful Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Ranger"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Explorador|Explorador (Español)]]"
----
-
 # Ranger
 
 ## Core Ranger Traits

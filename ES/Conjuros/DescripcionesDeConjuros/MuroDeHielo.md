@@ -1,9 +1,3 @@
----
-aliases: ["Muro de hielo", "Wall of Ice"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Wall of Ice|Wall of Ice (EN)]]"
----
-
 # Muro de hielo
 
 *Evocación de nivel 6 (mago)*

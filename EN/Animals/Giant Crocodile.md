@@ -1,9 +1,3 @@
----
-aliases: ["Giant Crocodile"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/CocodriloGigante|Cocodrilo gigante (Español)]]"
----
-
 ## Giant Crocodile
 
 *Huge Beast, Unaligned*

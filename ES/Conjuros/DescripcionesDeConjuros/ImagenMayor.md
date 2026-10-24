@@ -1,9 +1,3 @@
----
-aliases: ["Imagen mayor", "Major Image"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Major Image|Major Image (EN)]]"
----
-
 # Imagen mayor
 
 *Ilusionismo de nivel 3 (bardo, brujo, hechicero, mago)*

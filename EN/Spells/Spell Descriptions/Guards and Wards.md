@@ -1,9 +1,3 @@
----
-aliases: ["Guards and Wards"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/GuardasYGuardias|Guardas y guardias (Español)]]"
----
-
 ### Guards and Wards
 
 *Level 6 Abjuration* (Bard, Wizard)

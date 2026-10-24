@@ -1,9 +1,3 @@
----
-aliases: ["Puerta dimensional", "Dimension Door"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Dimension Door|Dimension Door (EN)]]"
----
-
 # Puerta dimensional
 
 *Conjuración de nivel 4 (bardo, brujo, hechicero, mago)*

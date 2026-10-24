@@ -1,9 +1,3 @@
----
-aliases: ["Salpicadura ácida", "Acid Splash"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Acid Splash|Acid Splash (EN)]]"
----
-
 # Salpicadura ácida
 
 *Truco de evocación (hechicero, mago)*

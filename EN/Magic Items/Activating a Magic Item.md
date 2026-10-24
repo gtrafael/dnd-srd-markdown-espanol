@@ -1,9 +1,3 @@
----
-aliases: ["Activating a Magic Item"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ActivarUnObjetoMagico|Activar un objeto mágico (Español)]]"
----
-
 # Activating a Magic Item
 
 It usually takes a Magic action to activate a magic item. The item's user might also need to do something special. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.

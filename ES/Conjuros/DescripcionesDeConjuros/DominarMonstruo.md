@@ -1,9 +1,3 @@
----
-aliases: ["Dominar monstruo", "Dominate Monster"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Dominate Monster|Dominate Monster (EN)]]"
----
-
 # Dominar monstruo
 
 *Encantamiento de nivel 8 (bardo, brujo, hechicero, mago)*

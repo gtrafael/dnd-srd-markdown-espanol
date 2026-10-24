@@ -1,9 +1,3 @@
----
-aliases: ["Giant Frog"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/RanaGigante|Rana gigante (Español)]]"
----
-
 ## Giant Frog
 
 *Medium Beast, Unaligned*

@@ -1,9 +1,3 @@
----
-aliases: ["Imp"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Diablillo|Diablillo (Español)]]"
----
-
 ## Imp
 
 *Tiny Fiend (Devil), Lawful Evil*

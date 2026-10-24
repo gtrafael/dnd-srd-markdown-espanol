@@ -1,9 +1,3 @@
----
-aliases: ["Giant Slayer"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/Matagigantes|Matagigantes (Español)]]"
----
-
 ### Giant Slayer
 
 *Weapon (Any Simple or Martial), Rare*

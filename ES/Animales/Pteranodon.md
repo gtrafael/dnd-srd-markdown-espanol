@@ -1,9 +1,3 @@
----
-aliases: ["Pteranodon"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Pteranodon|Pteranodon (EN)]]"
----
-
 # Pteranodon
 
 *Bestia Mediana (dinosaurio), sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Contorno borroso", "Blur"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Blur|Blur (EN)]]"
----
-
 # Contorno borroso
 
 *Ilusionismo de nivel 2 (hechicero, mago)*

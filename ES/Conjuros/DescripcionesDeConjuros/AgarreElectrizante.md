@@ -1,9 +1,3 @@
----
-aliases: ["Agarre electrizante", "Shocking Grasp"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Shocking Grasp|Shocking Grasp (EN)]]"
----
-
 # Agarre electrizante
 
 *Truco de evocación (hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Poni", "Pony"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Pony|Pony (EN)]]"
----
-
 # Poni
 
 *Bestia Mediana, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Vampire Spawn"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/EngendroVampirico|Engendro vampírico (Español)]]"
----
-
 ## Vampire Spawn
 
 *Medium or Small Undead, Neutral Evil*

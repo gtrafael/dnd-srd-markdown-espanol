@@ -1,9 +1,3 @@
----
-aliases: ["Collar de plegarias", "Necklace of Prayer Beads"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Necklace of Prayer Beads|Necklace of Prayer Beads (EN)]]"
----
-
 # Collar de plegarias
 
 *Objeto maravilloso, raro (requiere sintonización por parte de un clérigo, druida o paladín)*

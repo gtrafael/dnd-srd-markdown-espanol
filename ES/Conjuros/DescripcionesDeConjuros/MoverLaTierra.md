@@ -1,9 +1,3 @@
----
-aliases: ["Mover la tierra", "Move Earth"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Move Earth|Move Earth (EN)]]"
----
-
 # Mover la tierra
 
 *Transmutación de nivel 6 (druida, hechicero, mago)*

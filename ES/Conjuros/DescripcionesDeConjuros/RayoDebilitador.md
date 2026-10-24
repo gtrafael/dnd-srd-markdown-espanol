@@ -1,9 +1,3 @@
----
-aliases: ["Rayo debilitador", "Ray of Enfeeblement"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Ray of Enfeeblement|Ray of Enfeeblement (EN)]]"
----
-
 # Rayo debilitador
 
 *Nigromancia de nivel 2 (brujo, mago)*

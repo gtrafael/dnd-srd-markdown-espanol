@@ -1,9 +1,3 @@
----
-aliases: ["Rociada prismática", "Prismatic Spray"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Prismatic Spray|Prismatic Spray (EN)]]"
----
-
 # Rociada prismática
 
 *Evocación de nivel 7 (bardo, hechicero, mago)*

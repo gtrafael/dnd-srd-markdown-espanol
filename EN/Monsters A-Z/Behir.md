@@ -1,9 +1,3 @@
----
-aliases: ["Behir"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Behir|Behir (Español)]]"
----
-
 ## Behir
 
 *Huge Monstrosity, Neutral Evil*

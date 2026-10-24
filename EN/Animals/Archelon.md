@@ -1,9 +1,3 @@
----
-aliases: ["Archelon"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Archelon|Archelon (Español)]]"
----
-
 ## Archelon
 
 *Huge Beast (Dinosaur), Unaligned*

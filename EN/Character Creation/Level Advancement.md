@@ -1,9 +1,3 @@
----
-aliases: ["Level Advancement"]
-tags: [srd, english, tag_character_creation]
-related_es: "[[CreacionDePersonajes/ProgresionDeNiveles|Progresión de niveles (Español)]]"
----
-
 # Level Advancement
 
 While going on adventures, your character gains experience, represented by Experience Points (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.

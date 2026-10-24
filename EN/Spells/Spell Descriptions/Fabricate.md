@@ -1,9 +1,3 @@
----
-aliases: ["Fabricate"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Fabricar|Fabricar (Español)]]"
----
-
 ### Fabricate
 
 *Level 4 Transmutation* (Wizard)

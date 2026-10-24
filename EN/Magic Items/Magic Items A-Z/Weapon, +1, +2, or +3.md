@@ -1,9 +1,3 @@
----
-aliases: ["Weapon, +1, +2, or +3"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/Arma12O3|Weapon, +1, +2, or +3 (Español)]]"
----
-
 # Weapon, +1, +2, or +3
 
 _Weapon (Any Simple or Martial), Uncommon (+1), Rare (+2), or Very Rare (+3)_

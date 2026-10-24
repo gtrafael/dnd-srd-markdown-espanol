@@ -1,9 +1,3 @@
----
-aliases: ["Dragón de oropel joven", "Young Brass Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Young Brass Dragon|Young Brass Dragon (EN)]]"
----
-
 # Dragón de oropel joven
 
 *Dragón Grande (metálico), caótico bueno*

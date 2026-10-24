@@ -1,9 +1,3 @@
----
-aliases: ["De la carne a la piedra", "Flesh to Stone"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Flesh to Stone|Flesh to Stone (EN)]]"
----
-
 # De la carne a la piedra
 
 *Transmutación de nivel 6 (druida, hechicero, mago)*

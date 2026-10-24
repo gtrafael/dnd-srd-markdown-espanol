@@ -1,9 +1,3 @@
----
-aliases: ["Círculo mágico", "Magic Circle"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Magic Circle|Magic Circle (EN)]]"
----
-
 # Círculo mágico
 
 *Abjuración de nivel 3 (brujo, clérigo, mago, paladín)*

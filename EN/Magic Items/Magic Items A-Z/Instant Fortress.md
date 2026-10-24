@@ -1,9 +1,3 @@
----
-aliases: ["Instant Fortress"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FortalezaInstantanea]]"
----
-
 # Instant Fortress
 
 _Wondrous Item, Rare (Requires Attunement)_

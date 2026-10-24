@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Mind Reading"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeLeerMentes]]"
----
-
 # Potion of Mind Reading
 
 _Potion, Rare_

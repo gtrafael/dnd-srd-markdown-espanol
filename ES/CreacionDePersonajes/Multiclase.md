@@ -1,9 +1,3 @@
----
-aliases: ["Multiclase", "Multiclassing"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Creation/Multiclassing|Multiclassing (EN)]]"
----
-
 # Multiclase
 
 La multiclase te permite subir de nivel en varias clases. Con esta regla, tienes la opción de subir de nivel en una nueva clase cada vez que subas de nivel, en lugar de subir de nivel en tu clase actual. Hacerlo te permite mezclar las características de esas clases para hacer realidad un concepto de personaje que tal vez no quede reflejado con una única clase.

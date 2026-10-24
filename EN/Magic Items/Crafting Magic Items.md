@@ -1,9 +1,3 @@
----
-aliases: ["Crafting Magic Items"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/FabricarObjetosMagicos|Fabricar objetos mágicos (Español)]]"
----
-
 # Crafting Magic Items
 
 "Equipment" contains rules on brewing _Potions of Healing_ and scribing _Spell Scrolls_. To create other magic items, follow the rules below. In these rules, "you" refers to the character crafting the magic item.

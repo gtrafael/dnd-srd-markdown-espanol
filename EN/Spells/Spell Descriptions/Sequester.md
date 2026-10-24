@@ -1,9 +1,3 @@
----
-aliases: ["Sequester"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Recluir|Recluir (Español)]]"
----
-
 ### Sequester
 
 *Level 7 Transmutation* (Wizard)

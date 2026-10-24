@@ -1,9 +1,3 @@
----
-aliases: ["Air Elemental"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/ElementalDeAire|Elemental de aire (Español)]]"
----
-
 ## Air Elemental
 
 *Large Elemental, Neutral*

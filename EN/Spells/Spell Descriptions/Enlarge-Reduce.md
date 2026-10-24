@@ -1,9 +1,3 @@
----
-aliases: ["Enlarge-Reduce"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Agrandar_reducir|Agrandar_reducir (Español)]]"
----
-
 ### Enlarge/Reduce
 
 *Level 2 Transmutation* (Bard, Druid, Sorcerer, Wizard)

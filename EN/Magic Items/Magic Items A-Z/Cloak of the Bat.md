@@ -1,9 +1,3 @@
----
-aliases: ["Cloak of the Bat"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaDeMurcielago|Capa de murciélago (Español)]]"
----
-
 ### Cloak of the Bat
 
 *Wondrous Item, Rare (Requires Attunement)*

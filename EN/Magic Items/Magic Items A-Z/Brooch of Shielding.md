@@ -1,9 +1,3 @@
----
-aliases: ["Brooch of Shielding"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BrocheEscudo|Broche escudo (Español)]]"
----
-
 ### Brooch of Shielding
 
 *Wondrous Item, Uncommon (Requires Attunement)*

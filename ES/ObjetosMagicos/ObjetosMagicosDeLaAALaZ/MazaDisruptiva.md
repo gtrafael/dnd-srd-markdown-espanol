@@ -1,9 +1,3 @@
----
-aliases: ["Maza disruptiva", "Mace of Disruption"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Mace of Disruption|Mace of Disruption (EN)]]"
----
-
 # Maza disruptiva
 
 *Arma (maza), rara (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Cría de dragón de bronce", "Bronze Dragon Wyrmling"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Bronze Dragon Wyrmling|Bronze Dragon Wyrmling (EN)]]"
----
-
 # Cría de dragón de bronce
 
 *Dragón Mediano (metálico), legal bueno*

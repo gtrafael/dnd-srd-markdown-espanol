@@ -1,9 +1,3 @@
----
-aliases: ["Tarasca", "Tarrasque"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Tarrasque|Tarrasque (EN)]]"
----
-
 # Tarasca
 
 *Monstruosidad Gargantuesca (titán), sin alineamiento*

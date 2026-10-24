@@ -1,9 +1,3 @@
----
-aliases: ["Zone of Truth"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ZonaDeLaVerdad|Zona de la verdad (Español)]]"
----
-
 ### Zone of Truth
 
 *Level 2 Enchantment* (Bard, Cleric, Paladin)

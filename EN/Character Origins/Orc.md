@@ -1,9 +1,3 @@
----
-aliases: ["Orc"]
-tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/Orco|Orco (Español)]]"
----
-
 # Orc
 
 **Creature Type:** Humanoid

@@ -1,9 +1,3 @@
----
-aliases: ["Pequeña choza", "Tiny Hut"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Tiny Hut|Tiny Hut (EN)]]"
----
-
 # Pequeña choza
 
 *Evocación de nivel 3 (bardo, mago)*

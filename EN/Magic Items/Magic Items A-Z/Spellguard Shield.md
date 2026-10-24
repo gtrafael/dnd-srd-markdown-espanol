@@ -1,9 +1,3 @@
----
-aliases: ["Spellguard Shield"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscudoDeGuardaContraConjuros]]"
----
-
 # Spellguard Shield
 
 _Armor (Shield), Very Rare (Requires Attunement)_

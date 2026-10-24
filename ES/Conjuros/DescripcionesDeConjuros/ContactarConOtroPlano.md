@@ -1,9 +1,3 @@
----
-aliases: ["Contactar con otro plano", "Contact Other Plane"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Contact Other Plane|Contact Other Plane (EN)]]"
----
-
 # Contactar con otro plano
 
 *Adivinación de nivel 5 (brujo, mago)*

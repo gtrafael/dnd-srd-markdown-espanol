@@ -1,9 +1,3 @@
----
-aliases: ["Giant Shark"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/TiburonGigante|Tiburón gigante (Español)]]"
----
-
 ## Giant Shark
 
 *Huge Beast, Unaligned*

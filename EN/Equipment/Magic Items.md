@@ -1,9 +1,3 @@
----
-aliases: ["Magic Items"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/ObjetosMagicos|Objetos mágicos (Español)]]"
----
-
 # Magic Items
 
 Adventures hold the promise — but not a guarantee — of finding magic items. Hundreds of magic items are detailed in "Magic Items" later in this document. Here's what you need to know about using magic items.

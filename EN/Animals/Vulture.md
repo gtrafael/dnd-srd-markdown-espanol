@@ -1,9 +1,3 @@
----
-aliases: ["Vulture"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Buitre|Buitre (Español)]]"
----
-
 ## Vulture
 
 *Medium Beast, Unaligned*

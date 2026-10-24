@@ -1,9 +1,3 @@
----
-aliases: ["Dominate Monster"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/DominarMonstruo|Dominar monstruo (Español)]]"
----
-
 ### Dominate Monster
 
 *Level 8 Enchantment* (Bard, Sorcerer, Warlock, Wizard)

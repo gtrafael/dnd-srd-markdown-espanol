@@ -1,9 +1,3 @@
----
-aliases: ["Thunderous Greatclub"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GarroteGrandeAtronador|Garrote grande atronador (Español)]]"
----
-
 ### Thunderous Greatclub
 
 *Weapon (Greatclub), Very Rare (Requires Attunement)*

@@ -1,9 +1,3 @@
----
-aliases: ["Murciélago gigante", "Giant Bat"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Bat|Giant Bat (EN)]]"
----
-
 # Murciélago gigante
 
 *Bestia Grande, sin alineamiento*

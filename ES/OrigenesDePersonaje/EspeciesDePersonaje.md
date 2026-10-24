@@ -1,9 +1,3 @@
----
-aliases: ["Especies de personaje", "EspeciesDePersonaje"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Origins/Character Species|Character Species (EN)]]"
----
-
 # Especies de personaje
 
 Cuando escoges la especie de tu personaje, determinas si es humano o forma parte de una especie fantástica, como los dracónidos o los gnomos.

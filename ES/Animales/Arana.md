@@ -1,9 +1,3 @@
----
-aliases: ["Araña", "Spider"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Spider|Spider (EN)]]"
----
-
 # Araña
 
 *Bestia Diminuta, sin alineamiento*

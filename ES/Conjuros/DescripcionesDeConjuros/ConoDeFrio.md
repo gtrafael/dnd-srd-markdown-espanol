@@ -1,9 +1,3 @@
----
-aliases: ["Cono de frío", "Cone of Cold"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Cone of Cold|Cone of Cold (EN)]]"
----
-
 # Cono de frío
 
 *Evocación de nivel 5 (druida, hechicero, mago)*

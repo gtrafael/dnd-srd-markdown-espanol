@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Spell Storing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeAlmacenamientoDeConjuros]]"
----
-
 # Ring of Spell Storing
 
 _Ring, Rare (Requires Attunement)_

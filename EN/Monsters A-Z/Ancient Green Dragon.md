@@ -1,9 +1,3 @@
----
-aliases: ["Ancient Green Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonVerdeAnciano|Dragón verde anciano (Español)]]"
----
-
 ## Ancient Green Dragon
 
 *Gargantuan Dragon (Chromatic), Lawful Evil*

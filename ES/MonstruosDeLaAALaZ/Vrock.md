@@ -1,9 +1,3 @@
----
-aliases: ["Vrock"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Vrock|Vrock (EN)]]"
----
-
 # Vrock
 
 *Infernal Grande (demonio), caótico malvado*

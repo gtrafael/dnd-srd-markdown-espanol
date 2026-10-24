@@ -1,9 +1,3 @@
----
-aliases: ["Trepar cual arácnido", "Spider Climb"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Spider Climb|Spider Climb (EN)]]"
----
-
 # Trepar cual arácnido
 
 *Transmutación de nivel 2 (brujo, hechicero, mago)*

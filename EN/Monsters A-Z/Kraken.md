@@ -1,9 +1,3 @@
----
-aliases: ["Kraken"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Kraken|Kraken (Español)]]"
----
-
 ## Kraken
 
 *Gargantuan Monstrosity (Titan), Chaotic Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Curses and Magical Contagions"]
-tags: [srd, english, tag_gameplay_toolbox]
-related_es: "[[HerramientasDelJuego/MaldicionesYEnfermedadesMagicas|Maldiciones y enfermedades mágicas (Español)]]"
----
-
 # Curses and Magical Contagions
 
 ## Curses

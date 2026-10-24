@@ -1,9 +1,3 @@
----
-aliases: ["Giant Hyena"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/HienaGigante|Hiena gigante (Español)]]"
----
-
 ## Giant Hyena
 
 *Large Beast, Unaligned*

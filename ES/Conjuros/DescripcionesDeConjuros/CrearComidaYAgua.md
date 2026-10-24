@@ -1,9 +1,3 @@
----
-aliases: ["Crear comida y agua", "Create Food and Water"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Create Food and Water|Create Food and Water (EN)]]"
----
-
 # Crear comida y agua
 
 *Conjuración de nivel 3 (clérigo, paladín)*

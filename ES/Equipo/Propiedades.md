@@ -1,9 +1,3 @@
----
-aliases: ["Propiedades"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Properties|Properties (EN)]]"
----
-
 # Propiedades
 
 Aquí se definen las propiedades que aparecen en la columna “Propiedades” de la tabla “Armas”.

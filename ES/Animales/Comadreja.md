@@ -1,9 +1,3 @@
----
-aliases: ["Comadreja", "Weasel"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Weasel|Weasel (EN)]]"
----
-
 # Comadreja
 
 *Bestia Diminuta, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Plane Shift"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos (Español)]]"
----
-
 ### Plane Shift
 
 *Level 7 Conjuration* (Cleric, Druid, Sorcerer, Warlock, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Piraña", "Piranha"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Piranha|Piranha (EN)]]"
----
-
 # Piraña
 
 *Bestia Diminuta, sin alineamiento*

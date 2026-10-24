@@ -1,9 +1,3 @@
----
-aliases: ["Diablo barbado", "Bearded Devil"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Bearded Devil|Bearded Devil (EN)]]"
----
-
 # Diablo barbado
 
 *Infernal Mediano (diablo), legal malvado*

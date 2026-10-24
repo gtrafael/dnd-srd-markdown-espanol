@@ -1,9 +1,3 @@
----
-aliases: ["Conjurar animales", "Conjure Animals"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Conjure Animals|Conjure Animals (EN)]]"
----
-
 # Conjurar animales
 
 *Conjuración de nivel 3 (druida, explorador)*

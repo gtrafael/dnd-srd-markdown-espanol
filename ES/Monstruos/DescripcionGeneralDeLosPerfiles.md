@@ -1,9 +1,3 @@
----
-aliases: ["Descripción general de los perfiles", "Stat Block Overview"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Stat Block Overview|Stat Block Overview (EN)]]"
----
-
 # Descripción general de los perfiles
 
 Un monstruo posee un perfil que contiene las reglas necesarias para usarlo en el juego. Los perfiles se dividen en las siguientes partes:

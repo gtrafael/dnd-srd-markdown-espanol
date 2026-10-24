@@ -1,9 +1,3 @@
----
-aliases: ["Ettercap"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Ettercap|Ettercap (Español)]]"
----
-
 ## Ettercap
 
 *Medium Monstrosity, Neutral Evil*

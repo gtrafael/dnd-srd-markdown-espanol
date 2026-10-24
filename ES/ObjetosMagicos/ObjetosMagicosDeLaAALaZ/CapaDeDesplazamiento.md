@@ -1,9 +1,3 @@
----
-aliases: ["Capa de desplazamiento", "Cloak of Displacement"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Cloak of Displacement|Cloak of Displacement (EN)]]"
----
-
 # Capa de desplazamiento
 
 *Objeto maravilloso, raro (requiere sintonización)*

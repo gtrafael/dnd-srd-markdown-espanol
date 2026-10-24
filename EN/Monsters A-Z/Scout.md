@@ -1,9 +1,3 @@
----
-aliases: ["Scout"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Batidor|Batidor (Español)]]"
----
-
 ## Scout
 
 *Medium or Small Humanoid, Neutral*

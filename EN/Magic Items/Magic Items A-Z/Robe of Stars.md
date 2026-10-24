@@ -1,9 +1,3 @@
----
-aliases: ["Robe of Stars"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TunicaDeLasEstrellas|Túnica de las estrellas (Español)]]"
----
-
 ### Robe of Stars
 
 *Wondrous Item, Very Rare (Requires Attunement)*

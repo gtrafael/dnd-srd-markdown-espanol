@@ -1,9 +1,3 @@
----
-aliases: ["Plant Growth"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CrecimientoVegetal|Crecimiento vegetal (Español)]]"
----
-
 ### Plant Growth
 
 *Level 3 Transmutation* (Bard, Druid, Ranger)

@@ -1,9 +1,3 @@
----
-aliases: ["Objetos mágicos conscientes"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Sentient Magic Items|Sentient Magic Items (EN)]]"
----
-
 # Objetos mágicos conscientes
 
 Algunos objetos mágicos tienen consciencia y personalidad. Un objeto de este tipo podría estar poseído o encantado por el espíritu de su anterior dueño o ser consciente de sí mismo gracias a la magia usada para crearlo. Un objeto consciente podría ser un apreciado aliado para su usuario o una molestia continua.

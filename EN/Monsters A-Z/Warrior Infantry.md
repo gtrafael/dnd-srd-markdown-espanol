@@ -1,9 +1,3 @@
----
-aliases: ["Warrior Infantry"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GuerreroDeInfanteria|Guerrero de infantería (Español)]]"
----
-
 ## Warrior Infantry
 
 *Medium or Small Humanoid, Neutral*

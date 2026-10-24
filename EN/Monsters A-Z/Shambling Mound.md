@@ -1,9 +1,3 @@
----
-aliases: ["Shambling Mound"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/BrozaMovediza|Broza movediza (Español)]]"
----
-
 ## Shambling Mound
 
 *Large Plant, Unaligned*

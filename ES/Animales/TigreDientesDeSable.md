@@ -1,9 +1,3 @@
----
-aliases: ["Tigre dientes de sable", "Saber-Toothed Tiger"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Saber-Toothed Tiger|Saber-Toothed Tiger (EN)]]"
----
-
 # Tigre dientes de sable
 
 *Bestia Grande, sin alineamiento*

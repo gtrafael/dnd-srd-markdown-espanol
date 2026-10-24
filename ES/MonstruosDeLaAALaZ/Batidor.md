@@ -1,9 +1,3 @@
----
-aliases: ["Batidor", "Scout"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Scout|Scout (EN)]]"
----
-
 # Batidor
 
 *Humanoide Mediano o Pequeño, neutral*

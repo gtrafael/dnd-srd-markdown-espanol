@@ -1,9 +1,3 @@
----
-aliases: ["Piedra Ioun"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ioun Stone]]"
----
-
 # Piedra Ioun
 
 *Objeto maravilloso, rareza variable (requiere sintonización)*

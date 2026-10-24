@@ -1,9 +1,3 @@
----
-aliases: ["Volar", "Fly"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Fly|Fly (EN)]]"
----
-
 # Volar
 
 *Transmutación de nivel 3 (brujo, hechicero, mago)*

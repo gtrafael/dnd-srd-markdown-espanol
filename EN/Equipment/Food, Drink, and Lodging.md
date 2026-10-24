@@ -1,9 +1,3 @@
----
-aliases: ["Food, Drink, and Lodging"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/ComidaBebidaYAlojamiento|Comida, bebida y alojamiento (Español)]]"
----
-
 # Food, Drink, and Lodging
 
 The tables give prices for food and a single night's lodging. Prices for daily lodging and meals are included in your lifestyle's expenses.

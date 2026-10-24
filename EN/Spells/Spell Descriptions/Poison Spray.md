@@ -1,9 +1,3 @@
----
-aliases: ["Poison Spray"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/RociadaVenenosa|Rociada venenosa (Español)]]"
----
-
 ### Poison Spray
 
 *Necromancy Cantrip* (Druid, Sorcerer, Warlock, Wizard)

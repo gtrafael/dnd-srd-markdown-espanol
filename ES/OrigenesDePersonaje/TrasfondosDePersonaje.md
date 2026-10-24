@@ -1,9 +1,3 @@
----
-aliases: ["Trasfondos", "Backgrounds"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Origins/Character Backgrounds|Backgrounds (EN)]]"
----
-
 # Trasfondos de personaje
 
 El trasfondo de tu personaje es una compilación de características que representan el lugar y la ocupación que hayan sido más relevantes para tu personaje antes de convertirse en aventurero.

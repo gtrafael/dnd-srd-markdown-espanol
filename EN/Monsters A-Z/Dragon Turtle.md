@@ -1,9 +1,3 @@
----
-aliases: ["Dragon Turtle"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonTortuga|Dragón tortuga (Español)]]"
----
-
 ## Dragon Turtle
 
 *Gargantuan Dragon, Neutral*

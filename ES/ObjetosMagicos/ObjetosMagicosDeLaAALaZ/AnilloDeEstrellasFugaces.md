@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de estrellas fugaces"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Shooting Stars]]"
----
-
 # Anillo de estrellas fugaces
 
 *Anillo, muy raro (requiere sintonización)*

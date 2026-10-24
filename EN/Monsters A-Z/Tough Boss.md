@@ -1,9 +1,3 @@
----
-aliases: ["Tough Boss"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/JefePendenciero|Jefe pendenciero (Español)]]"
----
-
 ## Tough Boss
 
 *Medium or Small Humanoid, Neutral*

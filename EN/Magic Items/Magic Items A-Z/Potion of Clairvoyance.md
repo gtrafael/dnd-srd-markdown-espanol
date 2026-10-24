@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Clairvoyance"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeClarividencia]]"
----
-
 # Potion of Clairvoyance
 
 _Potion, Rare_

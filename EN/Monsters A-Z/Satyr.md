@@ -1,9 +1,3 @@
----
-aliases: ["Satyr"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Satiro|Sátiro (Español)]]"
----
-
 ## Satyr
 
 *Medium Fey, Chaotic Neutral*

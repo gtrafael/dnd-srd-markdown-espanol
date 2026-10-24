@@ -1,9 +1,3 @@
----
-aliases: ["Portable Hole"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AgujeroPortatil]]"
----
-
 # Portable Hole
 
 _Wondrous Item, Rare_

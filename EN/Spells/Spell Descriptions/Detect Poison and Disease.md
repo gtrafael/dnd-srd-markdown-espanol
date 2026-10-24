@@ -1,9 +1,3 @@
----
-aliases: ["Detect Poison and Disease"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/DetectarVenenosYEnfermedades|Detectar venenos y enfermedades (Español)]]"
----
-
 ### Detect Poison and Disease
 
 *Level 1 Divination* (Cleric, Druid, Paladin, Ranger)

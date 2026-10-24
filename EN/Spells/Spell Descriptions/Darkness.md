@@ -1,9 +1,3 @@
----
-aliases: ["Darkness"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Oscuridad|Oscuridad (Español)]]"
----
-
 ### Darkness
 
 *Level 2 Evocation* (Sorcerer, Warlock, Wizard)

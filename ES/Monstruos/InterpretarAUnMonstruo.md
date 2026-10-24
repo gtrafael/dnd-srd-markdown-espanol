@@ -1,9 +1,3 @@
----
-aliases: ["Interpretar a un monstruo", "Running a Monster"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters/Running a Monster|Running a Monster (EN)]]"
----
-
 # Interpretar a un monstruo
 
 Para asegurarte de que un monstruo actúa de acuerdo con su valor de desafío, sigue estas reglas durante el combate:

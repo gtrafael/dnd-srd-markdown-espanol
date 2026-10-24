@@ -1,9 +1,3 @@
----
-aliases: ["Fuerza fantasmal", "Phantasmal Force"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Phantasmal Force|Phantasmal Force (EN)]]"
----
-
 # Fuerza fantasmal
 
 *Ilusionismo de nivel 2 (bardo, hechicero, mago)*

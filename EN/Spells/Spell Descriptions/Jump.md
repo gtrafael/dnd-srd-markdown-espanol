@@ -1,9 +1,3 @@
----
-aliases: ["Jump"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Salto|Salto (Español)]]"
----
-
 ### Jump
 
 *Level 1 Transmutation* (Druid, Ranger, Sorcerer, Wizard)

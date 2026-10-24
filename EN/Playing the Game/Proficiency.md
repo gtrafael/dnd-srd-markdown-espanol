@@ -1,9 +1,3 @@
----
-aliases: ["Proficiency"]
-tags: [srd, english, tag_gameplay]
-related_es: "[[ComoJugar/Competencia|Competencia (Español)]]"
----
-
 # Proficiency
 
 Characters and monsters are good at various things. Some are skilled with many weapons, while others can use only a few. Some are better at understanding people's motives, and others are better at unlocking the secrets of the multiverse. All creatures have a Proficiency Bonus, which reflects the impact that training has on the creature's capabilities. A character's Proficiency Bonus increases as the character gains levels (described in "Character Creation"). A monster's Proficiency Bonus is based on its Challenge Rating (see "Rules Glossary"). The Proficiency Bonus table shows how the bonus is determined.

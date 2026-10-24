@@ -1,9 +1,3 @@
----
-aliases: ["Viajar con el viento", "Wind Walk"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Wind Walk|Wind Walk (EN)]]"
----
-
 # Viajar con el viento
 
 *Transmutación de nivel 6 (druida)*

@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de calidez"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Warmth]]"
----
-
 # Anillo de calidez
 
 *Anillo, infrecuente (requiere sintonización)*

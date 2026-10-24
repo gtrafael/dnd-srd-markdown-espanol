@@ -1,9 +1,3 @@
----
-aliases: ["Centaur Trooper"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/SoldadoCentauro|Soldado centauro (Español)]]"
----
-
 ## Centaur Trooper
 
 *Large Fey, Neutral Good*

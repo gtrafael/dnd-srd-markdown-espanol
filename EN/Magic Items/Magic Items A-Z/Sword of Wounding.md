@@ -1,9 +1,3 @@
----
-aliases: ["Sword of Wounding"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspadaHiriente]]"
----
-
 # Sword of Wounding
 
 _Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Rare (Requires Attunement)_

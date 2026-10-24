@@ -1,9 +1,3 @@
----
-aliases: ["Unicorn"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Unicornio|Unicornio (Español)]]"
----
-
 ## Unicorn
 
 *Large Celestial, Lawful Good*

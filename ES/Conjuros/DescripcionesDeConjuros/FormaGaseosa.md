@@ -1,9 +1,3 @@
----
-aliases: ["Forma gaseosa", "Gaseous Form"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Gaseous Form|Gaseous Form (EN)]]"
----
-
 # Forma gaseosa
 
 *Transmutación de nivel 3 (brujo, hechicero, mago)*

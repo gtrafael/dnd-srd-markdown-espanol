@@ -1,9 +1,3 @@
----
-aliases: ["Ilusión programada", "Programmed Illusion"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Programmed Illusion|Programmed Illusion (EN)]]"
----
-
 # Ilusión programada
 
 *Ilusionismo de nivel 6 (bardo, mago)*

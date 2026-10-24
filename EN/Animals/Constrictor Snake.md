@@ -1,9 +1,3 @@
----
-aliases: ["Constrictor Snake"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/SerpienteConstrictora|Serpiente constrictora (Español)]]"
----
-
 ## Constrictor Snake
 
 *Large Beast, Unaligned*

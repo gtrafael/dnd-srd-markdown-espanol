@@ -1,9 +1,3 @@
----
-aliases: ["Potions of Healing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionesDeCuracion]]"
----
-
 # Potions of Healing
 
 _Potion, Rarity Varies_

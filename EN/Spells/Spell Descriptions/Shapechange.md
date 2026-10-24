@@ -1,9 +1,3 @@
----
-aliases: ["Shapechange"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CambiarDeForma|Cambiar de forma (Español)]]"
----
-
 ### Shapechange
 
 *Level 9 Transmutation* (Druid, Wizard)

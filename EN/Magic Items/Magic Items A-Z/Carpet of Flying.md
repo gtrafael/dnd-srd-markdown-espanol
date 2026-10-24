@@ -1,9 +1,3 @@
----
-aliases: ["Carpet of Flying"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AlfombraVoladora|Alfombra voladora (Español)]]"
----
-
 ### Carpet of Flying
 
 *Wondrous Item, Very Rare*

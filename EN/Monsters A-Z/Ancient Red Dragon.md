@@ -1,9 +1,3 @@
----
-aliases: ["Ancient Red Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonRojoAnciano|Dragón rojo anciano (Español)]]"
----
-
 ## Ancient Red Dragon
 
 *Gargantuan Dragon (Chromatic), Chaotic Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Cabra gigante", "Giant Goat"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Goat|Giant Goat (EN)]]"
----
-
 # Cabra gigante
 
 *Bestia Grande, sin alineamiento*

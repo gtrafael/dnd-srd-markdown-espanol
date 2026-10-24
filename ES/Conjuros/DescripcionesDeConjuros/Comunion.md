@@ -1,9 +1,3 @@
----
-aliases: ["Comunión", "Commune"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Commune|Commune (EN)]]"
----
-
 # Comunión
 
 *Adivinación de nivel 5 (clérigo)*

@@ -1,9 +1,3 @@
----
-aliases: ["Badger"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Tejon|Tejón (Español)]]"
----
-
 ## Badger
 
 *Tiny Beast, Unaligned*

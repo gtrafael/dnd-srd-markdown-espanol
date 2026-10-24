@@ -1,9 +1,3 @@
----
-aliases: ["Gorgon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Gorgon|Gorgon (Español)]]"
----
-
 ## Gorgon
 
 *Large Construct, Unaligned*

@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Telekinesis"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeTelequinesis]]"
----
-
 # Ring of Telekinesis
 
 _Ring, Very Rare (Requires Attunement)_

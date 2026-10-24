@@ -1,9 +1,3 @@
----
-aliases: ["Goat"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Cabra|Cabra (Español)]]"
----
-
 ## Goat
 
 *Medium Beast, Unaligned*

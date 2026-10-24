@@ -1,9 +1,3 @@
----
-aliases: ["Kraken"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Kraken|Kraken (EN)]]"
----
-
 # Kraken
 
 *Monstruosidad Gargantuesca (titán), caótica malvada*

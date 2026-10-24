@@ -1,9 +1,3 @@
----
-aliases: ["Protection from Evil and Good"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ProteccionContraElBienYElMal|Protección contra el bien y el mal (Español)]]"
----
-
 ### Protection from Evil and Good
 
 *Level 1 Abjuration* (Cleric, Druid, Paladin, Warlock, Wizard)

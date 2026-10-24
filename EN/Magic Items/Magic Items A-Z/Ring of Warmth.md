@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Warmth"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeCalidez]]"
----
-
 # Ring of Warmth
 
 _Ring, Uncommon (Requires Attunement)_

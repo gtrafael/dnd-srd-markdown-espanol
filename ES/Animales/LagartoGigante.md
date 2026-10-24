@@ -1,9 +1,3 @@
----
-aliases: ["Lagarto gigante", "Giant Lizard"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Lizard|Giant Lizard (EN)]]"
----
-
 # Lagarto gigante
 
 *Bestia Grande, sin alineamiento*

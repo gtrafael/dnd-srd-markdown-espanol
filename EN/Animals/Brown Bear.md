@@ -1,9 +1,3 @@
----
-aliases: ["Brown Bear"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/OsoPardo|Oso pardo (Español)]]"
----
-
 ## Brown Bear
 
 *Large Beast, Unaligned*

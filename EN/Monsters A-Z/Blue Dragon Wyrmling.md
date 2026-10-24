@@ -1,9 +1,3 @@
----
-aliases: ["Blue Dragon Wyrmling"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonAzul|Cría de dragón azul (Español)]]"
----
-
 ## Blue Dragon Wyrmling
 
 *Medium Dragon (Chromatic), Lawful Evil*

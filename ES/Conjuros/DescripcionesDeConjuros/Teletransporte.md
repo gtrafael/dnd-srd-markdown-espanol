@@ -1,9 +1,3 @@
----
-aliases: ["Teletransporte", "Teleport"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Teleport|Teleport (EN)]]"
----
-
 # Teletransporte
 
 *Conjuración de nivel 7 (bardo, hechicero, mago)*

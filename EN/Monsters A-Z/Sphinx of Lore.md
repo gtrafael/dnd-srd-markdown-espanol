@@ -1,9 +1,3 @@
----
-aliases: ["Sphinx of Lore"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/EsfingeDelConocimiento|Esfinge del conocimiento (Español)]]"
----
-
 ## Sphinx of Lore
 
 *Large Celestial, Lawful Neutral*

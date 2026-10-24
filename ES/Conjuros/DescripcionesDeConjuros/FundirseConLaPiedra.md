@@ -1,9 +1,3 @@
----
-aliases: ["Fundirse con la piedra", "Meld into Stone"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Meld into Stone|Meld into Stone (EN)]]"
----
-
 # Fundirse con la piedra
 
 *Transmutación de nivel 3 (clérigo, druida, explorador)*

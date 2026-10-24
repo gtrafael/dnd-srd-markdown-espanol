@@ -1,9 +1,3 @@
----
-aliases: ["Nube de oscurecimiento", "Fog Cloud"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Fog Cloud|Fog Cloud (EN)]]"
----
-
 # Nube de oscurecimiento
 
 *Conjuración de nivel 1 (druida, explorador, hechicero, mago)*

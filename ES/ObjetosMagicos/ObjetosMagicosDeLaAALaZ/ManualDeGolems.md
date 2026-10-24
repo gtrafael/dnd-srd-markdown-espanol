@@ -1,9 +1,3 @@
----
-aliases: ["Manual de gólems", "Manual of Golems"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Manual of Golems|Manual of Golems (EN)]]"
----
-
 # Manual de gólems
 
 *Objeto maravilloso, muy raro*

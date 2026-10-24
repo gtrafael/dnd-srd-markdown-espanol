@@ -1,9 +1,3 @@
----
-aliases: ["Staff of Withering"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeMarchitamiento]]"
----
-
 # Staff of Withering
 
 _Staff, Rare (Requires Attunement)_

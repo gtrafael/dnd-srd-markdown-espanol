@@ -1,9 +1,3 @@
----
-aliases: ["Mithral Armor"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaduraDeMithral|Armadura de mithral (Español)]]"
----
-
 ### Mithral Armor
 
 *Armor (Any Medium or Heavy, Except Hide Armor),*

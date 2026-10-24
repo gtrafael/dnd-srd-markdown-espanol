@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Regeneration"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeRegeneracion]]"
----
-
 # Ring of Regeneration
 
 _Ring, Very Rare (Requires Attunement)_

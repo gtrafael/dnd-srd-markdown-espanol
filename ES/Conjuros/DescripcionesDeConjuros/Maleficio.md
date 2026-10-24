@@ -1,9 +1,3 @@
----
-aliases: ["Maleficio", "Hex"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Hex|Hex (EN)]]"
----
-
 # Maleficio
 
 *Encantamiento de nivel 1 (brujo)*

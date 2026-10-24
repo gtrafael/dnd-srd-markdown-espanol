@@ -1,9 +1,3 @@
----
-aliases: ["Copper Dragon Wyrmling"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonDeCobre|Cría de dragón de cobre (Español)]]"
----
-
 ## Copper Dragon Wyrmling
 
 *Medium Dragon (Metallic), Chaotic Good*

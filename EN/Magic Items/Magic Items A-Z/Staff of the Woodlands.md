@@ -1,9 +1,3 @@
----
-aliases: ["Staff of the Woodlands"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeLosBosques]]"
----
-
 # Staff of the Woodlands
 
 _Staff, Rare (Requires Attunement by a Druid)_

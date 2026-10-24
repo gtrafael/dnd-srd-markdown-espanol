@@ -1,9 +1,3 @@
----
-aliases: ["Night Hag"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/SagaDeLaNoche|Saga de la noche (Español)]]"
----
-
 ## Night Hag
 
 *Medium Fiend, Neutral Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Immovable Rod"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaraInamovible|Vara inamovible (Español)]]"
----
-
 ### Immovable Rod
 
 *Rod, Uncommon*

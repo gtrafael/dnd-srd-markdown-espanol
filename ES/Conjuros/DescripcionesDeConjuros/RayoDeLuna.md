@@ -1,9 +1,3 @@
----
-aliases: ["Rayo de luna", "Moonbeam"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Moonbeam|Moonbeam (EN)]]"
----
-
 # Rayo de luna
 
 *Evocación de nivel 2 (druida)*

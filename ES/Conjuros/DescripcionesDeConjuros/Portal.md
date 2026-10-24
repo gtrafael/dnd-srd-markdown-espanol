@@ -1,9 +1,3 @@
----
-aliases: ["Portal", "Gate"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Gate|Gate (EN)]]"
----
-
 # Portal
 
 *Conjuración de nivel 9 (brujo, clérigo, hechicero, mago)*

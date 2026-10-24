@@ -1,9 +1,3 @@
----
-aliases: ["Rana", "Frog"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Frog|Frog (EN)]]"
----
-
 # Rana
 
 *Bestia Diminuta, sin alineamiento*

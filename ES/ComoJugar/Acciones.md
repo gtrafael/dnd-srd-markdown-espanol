@@ -1,9 +1,3 @@
----
-aliases: ["Acciones"]
-tags: [srd, espanol, tag_comojugar]
-related_en: "[[Playing the Game/Actions]]"
----
-
 # Acciones
 
 Cuando haces algo que no sea moverte o comunicarte, normalmente debes llevar a cabo una acción. La tabla “Acciones” enumera las principales acciones del juego, que se definen de forma más detallada en el capítulo “Glosario de reglas”.

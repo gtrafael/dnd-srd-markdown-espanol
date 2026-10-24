@@ -1,9 +1,3 @@
----
-aliases: ["Disfrazarse", "Disguise Self"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Disguise Self|Disguise Self (EN)]]"
----
-
 # Disfrazarse
 
 *Ilusionismo de nivel 1 (bardo, hechicero, mago)*

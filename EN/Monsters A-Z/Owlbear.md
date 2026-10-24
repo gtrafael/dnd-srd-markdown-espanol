@@ -1,9 +1,3 @@
----
-aliases: ["Owlbear"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/OsoLechuza|Oso lechuza (Español)]]"
----
-
 ## Owlbear
 
 *Large Monstrosity, Unaligned*

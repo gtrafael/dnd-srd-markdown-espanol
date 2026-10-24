@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de retorno de conjuros"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Spell Turning]]"
----
-
 # Anillo de retorno de conjuros
 
 *Anillo, legendario (requiere sintonización)*

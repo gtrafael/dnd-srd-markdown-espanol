@@ -1,9 +1,3 @@
----
-aliases: ["Urna mágica", "Magic Jar"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Magic Jar|Magic Jar (EN)]]"
----
-
 # Urna mágica
 
 *Nigromancia de nivel 6 (mago)*

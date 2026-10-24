@@ -1,9 +1,3 @@
----
-aliases: ["Esfera congelante", "Freezing Sphere"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Freezing Sphere|Freezing Sphere (EN)]]"
----
-
 # Esfera congelante
 
 *Evocación de nivel 6 (hechicero, mago)*

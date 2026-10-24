@@ -1,9 +1,3 @@
----
-aliases: ["Giant Toad"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/SapoGigante|Sapo gigante (Español)]]"
----
-
 ## Giant Toad
 
 *Large Beast, Unaligned*

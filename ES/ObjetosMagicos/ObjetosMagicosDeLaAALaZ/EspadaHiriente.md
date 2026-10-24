@@ -1,9 +1,3 @@
----
-aliases: ["Espada hiriente"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Sword of Wounding]]"
----
-
 # Espada hiriente
 
 *Arma (cimitarra, espada corta, espada larga, espadón, estoque o guja), rara (requiere sintonización)*

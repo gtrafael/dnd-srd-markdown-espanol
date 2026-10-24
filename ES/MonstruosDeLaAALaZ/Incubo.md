@@ -1,9 +1,3 @@
----
-aliases: ["Íncubo", "Incubus"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Incubus|Incubus (EN)]]"
----
-
 # Íncubo
 
 *Infernal Mediano, neutral malvado*

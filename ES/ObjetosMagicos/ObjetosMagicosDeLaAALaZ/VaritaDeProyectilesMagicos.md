@@ -1,9 +1,3 @@
----
-aliases: ["Varita de proyectiles mágicos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wand of Magic Missiles|Wand of Magic Missiles (EN)]]"
----
-
 # Varita de proyectiles mágicos
 
 *Varita, infrecuente*

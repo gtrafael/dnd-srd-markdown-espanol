@@ -1,9 +1,3 @@
----
-aliases: ["Cofre oculto", "Secret Chest"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Secret Chest|Secret Chest (EN)]]"
----
-
 # Cofre oculto
 
 *Conjuración de nivel 4 (mago)*

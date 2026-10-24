@@ -1,9 +1,3 @@
----
-aliases: ["Programmed Illusion"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/IlusionProgramada|Ilusión programada (Español)]]"
----
-
 ### Programmed Illusion
 
 *Level 6 Illusion* (Bard, Wizard)

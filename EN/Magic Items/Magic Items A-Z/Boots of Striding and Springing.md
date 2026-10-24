@@ -1,9 +1,3 @@
----
-aliases: ["Boots of Striding and Springing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotasDeZancadasYBrincos|Botas de zancadas y brincos (Español)]]"
----
-
 ### Boots of Striding and Springing
 
 *Wondrous Item, Uncommon (Requires Attunement)*

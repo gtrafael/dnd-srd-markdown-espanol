@@ -1,9 +1,3 @@
----
-aliases: ["Crear llama", "Produce Flame"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Produce Flame|Produce Flame (EN)]]"
----
-
 # Crear llama
 
 *Truco de conjuración (druida)*

@@ -1,9 +1,3 @@
----
-aliases: ["Rinoceronte", "Rhinoceros"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Rhinoceros|Rhinoceros (EN)]]"
----
-
 # Rinoceronte
 
 *Bestia Grande, sin alineamiento*

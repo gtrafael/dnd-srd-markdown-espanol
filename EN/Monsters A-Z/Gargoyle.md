@@ -1,9 +1,3 @@
----
-aliases: ["Gargoyle"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Gargola|Gárgola (Español)]]"
----
-
 ## Gargoyle
 
 *Medium Elemental, Chaotic Evil*

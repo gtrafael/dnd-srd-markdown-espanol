@@ -1,9 +1,3 @@
----
-aliases: ["Environmental Effects"]
-tags: [srd, english, tag_gamemastering]
-related_es: "[[HerramientasDelJuego/EfectosAmbientales|EfectosAmbientales (Español)]]"
----
-
 # Environmental Effects
 
 ## Deep Water

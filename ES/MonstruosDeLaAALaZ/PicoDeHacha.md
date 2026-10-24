@@ -1,9 +1,3 @@
----
-aliases: ["Pico de hacha", "Axe Beak"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Axe Beak|Axe Beak (EN)]]"
----
-
 # Pico de hacha
 
 *Monstruosidad Grande, sin alineamiento*

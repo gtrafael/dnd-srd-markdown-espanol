@@ -1,9 +1,3 @@
----
-aliases: ["Hold Monster"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/InmovilizarMonstruo|Inmovilizar monstruo (Español)]]"
----
-
 ### Hold Monster
 
 *Level 5 Enchantment* (Bard, Sorcerer, Warlock, Wizard)

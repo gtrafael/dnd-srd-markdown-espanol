@@ -1,9 +1,3 @@
----
-aliases: ["Imprisonment"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Cautiverio|Cautiverio (Español)]]"
----
-
 ### Imprisonment
 
 *Level 9 Abjuration* (Warlock, Wizard)

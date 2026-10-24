@@ -1,9 +1,3 @@
----
-aliases: ["Arco de energía", "Energy Bow"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Energy Bow|Energy Bow (EN)]]"
----
-
 # Arco de energía
 
 *Arma (arco corto o largo), muy rara (requiere sintonización)*

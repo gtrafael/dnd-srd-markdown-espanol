@@ -1,9 +1,3 @@
----
-aliases: ["Bandit Captain"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CapitanBandido|Capitán bandido (Español)]]"
----
-
 ## Bandit Captain
 
 *Medium or Small Humanoid, Neutral*

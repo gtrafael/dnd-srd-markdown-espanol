@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Vitality"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeVitalidad]]"
----
-
 # Potion of Vitality
 
 _Potion, Very Rare_

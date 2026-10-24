@@ -1,9 +1,3 @@
----
-aliases: ["Mansión magnífica", "Magnificent Mansion"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Magnificent Mansion|Magnificent Mansion (EN)]]"
----
-
 # Mansión magnífica
 
 *Conjuración de nivel 7 (bardo, mago)*

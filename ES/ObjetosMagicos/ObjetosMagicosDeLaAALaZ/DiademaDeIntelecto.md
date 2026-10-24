@@ -1,9 +1,3 @@
----
-aliases: ["Diadema de intelecto", "Headband of Intellect"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Headband of Intellect|Headband of Intellect (EN)]]"
----
-
 # Diadema de intelecto
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

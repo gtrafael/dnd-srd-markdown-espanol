@@ -1,9 +1,3 @@
----
-aliases: ["Terremoto", "Earthquake"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Earthquake|Earthquake (EN)]]"
----
-
 # Terremoto
 
 *Transmutación de nivel 8 (clérigo, druida, hechicero)*

@@ -1,9 +1,3 @@
----
-aliases: ["Imponer maldición", "Bestow Curse"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Bestow Curse|Bestow Curse (EN)]]"
----
-
 # Imponer maldición
 
 *Nigromancia de nivel 3 (bardo, clérigo, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Rope of Entanglement"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CuerdaEnredadora|Cuerda enredadora (Español)]]"
----
-
 ### Rope of Entanglement
 
 *Wondrous Item, Rare*

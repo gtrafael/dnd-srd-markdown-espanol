@@ -1,9 +1,3 @@
----
-aliases: ["Yelmo de telepatía", "Helm of Telepathy"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Helm of Telepathy|Helm of Telepathy (EN)]]"
----
-
 # Yelmo de telepatía
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Bastón de curación"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Staff of Healing]]"
----
-
 # Bastón de curación
 
 *Bastón, raro (requiere sintonización por parte de un bardo, clérigo o druida)*

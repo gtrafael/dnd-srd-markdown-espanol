@@ -1,9 +1,3 @@
----
-aliases: ["Manual of Golems"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ManualDeGolems|Manual de gólems (Español)]]"
----
-
 ### Manual of Golems
 
 *Wondrous Item, Very Rare*

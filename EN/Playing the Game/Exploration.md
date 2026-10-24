@@ -1,9 +1,3 @@
----
-aliases: ["Exploration"]
-tags: [srd, english, tag_gameplay]
-related_es: "[[ComoJugar/Exploracion|Exploración (Español)]]"
----
-
 # Exploration
 
 Exploration involves delving into places that are dangerous and full of mystery. The rules in this section detail some of the ways adventurers interact with the environment in such places.

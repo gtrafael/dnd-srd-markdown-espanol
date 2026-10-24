@@ -1,9 +1,3 @@
----
-aliases: ["Esfera elástica", "Resilient Sphere"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Resilient Sphere|Resilient Sphere (EN)]]"
----
-
 # Esfera elástica
 
 *Abjuración de nivel 4 (mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Patrón hipnótico", "Hypnotic Pattern"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Hypnotic Pattern|Hypnotic Pattern (EN)]]"
----
-
 # Patrón hipnótico
 
 *Ilusionismo de nivel 3 (bardo, brujo, hechicero, mago)*

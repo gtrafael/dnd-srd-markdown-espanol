@@ -1,9 +1,3 @@
----
-aliases: ["Dwarf"]
-tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/Enano|Enano (Español)]]"
----
-
 # Dwarf
 
 **Creature Type:** Humanoid

@@ -1,9 +1,3 @@
----
-aliases: ["Sectario", "Cultist"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Cultist|Cultist (EN)]]"
----
-
 # Sectario
 
 *Humanoide Mediano o Pequeño, neutral*

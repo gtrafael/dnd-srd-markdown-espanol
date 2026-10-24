@@ -1,9 +1,3 @@
----
-aliases: ["CrearUnTrasfondo", "Creating a Background"]
-tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gameplay Toolbox/Creating a Background|Creating a Background (EN)]]"
----
-
 # Crear un trasfondo
 
 El trasfondo de un personaje representa lo que hacía antes de convertirse en aventurero. Crear un trasfondo único o personalizar uno que ya exista puede reflejar la temática concreta de tu campaña o resaltar elementos de tu mundo. También puedes crear trasfondos para ayudar a los jugadores a elaborar las historias que están ideando para sus personajes.

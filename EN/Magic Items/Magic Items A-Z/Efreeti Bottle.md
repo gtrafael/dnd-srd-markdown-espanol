@@ -1,9 +1,3 @@
----
-aliases: ["Efreeti Bottle"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotellaDeIfrit|Botella de ifrit (Español)]]"
----
-
 ### Efreeti Bottle
 
 *Wondrous Item, Very Rare*

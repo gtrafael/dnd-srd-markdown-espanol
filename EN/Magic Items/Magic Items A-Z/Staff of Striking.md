@@ -1,9 +1,3 @@
----
-aliases: ["Staff of Striking"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeImpacto]]"
----
-
 # Staff of Striking
 
 _Staff, Very Rare (Requires Attunement)_

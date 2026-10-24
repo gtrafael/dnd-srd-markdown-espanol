@@ -1,9 +1,3 @@
----
-aliases: ["Legend Lore"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ConocerLasLeyendas|Conocer las leyendas (Español)]]"
----
-
 ### Legend Lore
 
 *Level 5 Divination* (Bard, Cleric, Wizard)

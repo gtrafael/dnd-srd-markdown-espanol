@@ -1,9 +1,3 @@
----
-aliases: ["D20 Tests"]
-tags: [srd, english, tag_gameplay]
-related_es: "[[ComoJugar/LasPruebasConD20|Las pruebas con d20 (Español)]]"
----
-
 # D20 Tests
 
 When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called D20 Tests, and they come in three kinds: ability checks, saving throws, and attack rolls. They follow these steps:

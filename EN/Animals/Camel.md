@@ -1,9 +1,3 @@
----
-aliases: ["Camel"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Camello|Camello (Español)]]"
----
-
 ## Camel
 
 _Large Beast, Unaligned_

@@ -1,9 +1,3 @@
----
-aliases: ["Elaborar pergaminos de conjuro"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Scribing Spell Scrolls|Scribing Spell Scrolls (EN)]]"
----
-
 # Elaborar pergaminos de conjuro
 
 Un lanzador de conjuros puede transcribir un conjuro en un pergamino y crear un pergamino de conjuro siguiendo las reglas que aparecen a continuación.

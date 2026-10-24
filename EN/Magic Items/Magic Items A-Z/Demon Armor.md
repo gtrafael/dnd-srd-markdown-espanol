@@ -1,9 +1,3 @@
----
-aliases: ["Demon Armor"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaduraDemoniaca|Armadura demoníaca (Español)]]"
----
-
 ### Demon Armor
 
 *Armor (Any Light, Medium, or Heavy), Very Rare (Requires Attunement)*

@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de invisibilidad"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Invisibility]]"
----
-
 # Anillo de invisibilidad
 
 *Anillo, legendario (requiere sintonización)*

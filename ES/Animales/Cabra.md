@@ -1,9 +1,3 @@
----
-aliases: ["Cabra", "Goat"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Goat|Goat (EN)]]"
----
-
 # Cabra
 
 *Bestia Mediana, sin alineamiento*

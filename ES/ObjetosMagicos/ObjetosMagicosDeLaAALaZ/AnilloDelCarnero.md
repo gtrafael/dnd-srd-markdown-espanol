@@ -1,9 +1,3 @@
----
-aliases: ["Anillo del carnero"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of the Ram]]"
----
-
 # Anillo del carnero
 
 *Anillo, raro (requiere sintonización)*

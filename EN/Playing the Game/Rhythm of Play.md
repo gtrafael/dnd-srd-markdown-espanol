@@ -1,9 +1,3 @@
----
-aliases: ["Rhythm of Play"]
-tags: [srd, english, tag_gameplay]
-related_es: "[[ComoJugar/ElRitmoDeJuego|El ritmo de juego (Español)]]"
----
-
 # Rhythm of Play
 
 The three main pillars of D&D play are social interaction, exploration, and combat. Whichever one you're experiencing, the game unfolds according to this basic pattern:

@@ -1,9 +1,3 @@
----
-aliases: ["Wall of Fire"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/MuroDeFuego|Muro de fuego (Español)]]"
----
-
 ### Wall of Fire
 
 *Level 4 Evocation* (Druid, Sorcerer, Wizard)

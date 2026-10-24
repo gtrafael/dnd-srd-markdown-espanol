@@ -1,9 +1,3 @@
----
-aliases: ["El ritmo de juego", "Gameplay"]
-tags: [srd, espanol, tag_comojugar]
-related_en: "[[Playing the Game/Rhythm of Play|Rhythm of Play (EN)]]"
----
-
 # El ritmo de juego
 
 Los tres pilares principales de las partidas de D&D son las interacciones sociales, la exploración y el combate. En cualquiera de esas situaciones, el juego emplea la siguiente estructura básica:

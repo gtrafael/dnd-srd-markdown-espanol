@@ -1,9 +1,3 @@
----
-aliases: ["Viajar mediante plantas", "Transport via Plants"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Transport via Plants|Transport via Plants (EN)]]"
----
-
 # Viajar mediante plantas
 
 *Conjuración de nivel 6 (druida)*

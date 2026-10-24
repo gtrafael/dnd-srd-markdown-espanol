@@ -1,9 +1,3 @@
----
-aliases: ["Sabueso infernal", "Hell Hound"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Hell Hound|Hell Hound (EN)]]"
----
-
 # Sabueso infernal
 
 *Infernal Mediano, legal malvado*

@@ -1,9 +1,3 @@
----
-aliases: ["Animate Dead"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/AnimarALosMuertos|Animar a los muertos (Español)]]"
----
-
 ### Animate Dead
 
 *Level 3 Necromancy* (Cleric, Wizard)

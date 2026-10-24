@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Invisibility"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeInvisibilidad]]"
----
-
 # Potion of Invisibility
 
 _Potion, Rare_

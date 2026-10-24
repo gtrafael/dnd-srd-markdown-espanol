@@ -1,9 +1,3 @@
----
-aliases: ["Coinage"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/Monedas|Monedas (Español)]]"
----
-
 # Coins
 
 Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of their material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.

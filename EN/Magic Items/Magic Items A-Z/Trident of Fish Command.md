@@ -1,9 +1,3 @@
----
-aliases: ["Trident of Fish Command"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TridenteDeComandarPeces|Tridente de comandar peces (Español)]]"
----
-
 ### Trident of Fish Command
 
 *Weapon (Trident), Uncommon (Requires Attunement)*

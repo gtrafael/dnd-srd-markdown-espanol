@@ -1,9 +1,3 @@
----
-aliases: ["Ciempiés gigante", "Giant Centipede"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Centipede|Giant Centipede (EN)]]"
----
-
 # Ciempiés gigante
 
 *Bestia Pequeña, sin alineamiento*

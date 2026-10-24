@@ -1,9 +1,3 @@
----
-aliases: ["Noble"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Noble|Noble (Español)]]"
----
-
 ## Noble
 
 *Medium or Small Humanoid, Neutral*

@@ -1,9 +1,3 @@
----
-aliases: ["Cautiverio", "Imprisonment"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Imprisonment|Imprisonment (EN)]]"
----
-
 # Cautiverio
 
 *Abjuración de nivel 9 (brujo, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Burla dañina", "Vicious Mockery"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Vicious Mockery|Vicious Mockery (EN)]]"
----
-
 # Burla dañina
 
 *Truco de encantamiento (bardo)*

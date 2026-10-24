@@ -1,9 +1,3 @@
----
-aliases: ["Bocón barbotante", "Gibbering Mouther"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Gibbering Mouther|Gibbering Mouther (EN)]]"
----
-
 # Bocón barbotante
 
 *Aberración Mediana, caótica neutral*

@@ -1,9 +1,3 @@
----
-aliases: ["Símbolo", "Symbol"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Symbol|Symbol (EN)]]"
----
-
 # Símbolo
 
 *Abjuración de nivel 7 (bardo, clérigo, druida, mago)*

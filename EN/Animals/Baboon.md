@@ -1,9 +1,3 @@
----
-aliases: ["Baboon"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Babuino|Babuino (Español)]]"
----
-
 ## Baboon
 
 *Small Beast, Unaligned*

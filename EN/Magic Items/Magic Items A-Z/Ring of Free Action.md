@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Free Action"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeLibertadDeAccion]]"
----
-
 # Ring of Free Action
 
 _Ring, Rare (Requires Attunement)_

@@ -1,9 +1,3 @@
----
-aliases: ["Barkskin"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PielRobliza|Piel robliza (Español)]]"
----
-
 ### Barkskin
 
 *Level 2 Transmutation* (Druid, Ranger)

@@ -1,9 +1,3 @@
----
-aliases: ["Lion"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Leon|León (Español)]]"
----
-
 ## Lion
 
 *Large Beast, Unaligned*

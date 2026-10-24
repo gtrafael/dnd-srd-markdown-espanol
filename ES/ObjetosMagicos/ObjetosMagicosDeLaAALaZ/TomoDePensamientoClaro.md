@@ -1,9 +1,3 @@
----
-aliases: ["Tomo de pensamiento claro", "Tome of Clear Thought"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Tome of Clear Thought|Tome of Clear Thought (EN)]]"
----
-
 # Tomo de pensamiento claro
 
 *Objeto maravilloso, muy raro*

@@ -1,9 +1,3 @@
----
-aliases: ["Rogue"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Picaro|Picaro (Español)]]"
----
-
 # Rogue
 
 ## Core Rogue Traits

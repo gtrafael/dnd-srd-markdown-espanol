@@ -1,9 +1,3 @@
----
-aliases: ["Detectar el bien y el mal", "Detect Evil and Good"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Detect Evil and Good|Detect Evil and Good (EN)]]"
----
-
 # Detectar el bien y el mal
 
 *Adivinación de nivel 1 (clérigo, paladín)*

@@ -1,9 +1,3 @@
----
-aliases: ["Manos ardientes", "Burning Hands"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Burning Hands|Burning Hands (EN)]]"
----
-
 # Manos ardientes
 
 *Evocación de nivel 1 (hechicero, mago)*

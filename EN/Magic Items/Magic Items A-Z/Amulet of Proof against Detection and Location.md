@@ -1,9 +1,3 @@
----
-aliases: ["Amulet of Proof against Detection and Location"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AmuletoAPruebaDeDeteccionYLocalizacion|Amuleto a prueba de detección y localización (Español)]]"
----
-
 ### Amulet of Proof against Detection and Location
 
 *Wondrous Item, Uncommon (Requires Attunement)*

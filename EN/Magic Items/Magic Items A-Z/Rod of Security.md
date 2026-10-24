@@ -1,9 +1,3 @@
----
-aliases: ["Rod of Security"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaraDeLaSeguridad]]"
----
-
 # Rod of Security
 
 _Rod, Very Rare_

@@ -1,9 +1,3 @@
----
-aliases: ["Fire Giant"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GiganteDeFuego|Gigante de fuego (Español)]]"
----
-
 ## Fire Giant
 
 *Huge Giant, Lawful Evil*

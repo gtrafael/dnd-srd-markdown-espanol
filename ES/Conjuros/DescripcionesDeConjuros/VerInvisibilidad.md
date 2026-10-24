@@ -1,9 +1,3 @@
----
-aliases: ["Ver invisibilidad", "See Invisibility"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/See Invisibility|See Invisibility (EN)]]"
----
-
 # Ver invisibilidad
 
 *Adivinación de nivel 2 (bardo, hechicero, mago)*

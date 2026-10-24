@@ -1,9 +1,3 @@
----
-aliases: ["Werebear"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/HombreOso|Hombre oso (Español)]]"
----
-
 ## Werebear
 
 *Medium or Small Monstrosity (Lycanthrope), Neutral Good*

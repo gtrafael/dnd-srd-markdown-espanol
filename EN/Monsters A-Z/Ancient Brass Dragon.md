@@ -1,9 +1,3 @@
----
-aliases: ["Ancient Brass Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDeOropelAnciano|Dragón de oropel anciano (Español)]]"
----
-
 ## Ancient Brass Dragon
 
 *Gargantuan Dragon (Metallic), Chaotic Good*

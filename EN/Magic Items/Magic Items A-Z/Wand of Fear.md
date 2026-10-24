@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Fear"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDelTerror|Wand of Fear (Español)]]"
----
-
 # Wand of Fear
 
 _Wand, Rare (Requires Attunement)_

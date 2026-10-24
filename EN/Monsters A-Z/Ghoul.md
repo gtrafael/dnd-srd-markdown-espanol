@@ -1,9 +1,3 @@
----
-aliases: ["Ghoul"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Gul|Gul (Español)]]"
----
-
 ## Ghoul
 
 *Medium Undead, Chaotic Evil*

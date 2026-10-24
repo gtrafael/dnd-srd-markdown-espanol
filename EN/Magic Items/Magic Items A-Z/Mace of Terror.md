@@ -1,9 +1,3 @@
----
-aliases: ["Mace of Terror"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MazaDelTerror|Maza del terror (Español)]]"
----
-
 ### Mace of Terror
 
 *Weapon (Mace), Rare (Requires Attunement)*

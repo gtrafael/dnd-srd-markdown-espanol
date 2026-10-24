@@ -1,9 +1,3 @@
----
-aliases: ["Combat Encounters"]
-tags: [srd, english, tag_gamemastering]
-related_es: "[[HerramientasDelJuego/EncuentrosDeCombate|EncuentrosDeCombate (Español)]]"
----
-
 # Combat Encounters
 
 The following features can make a combat encounter more interesting or challenging:

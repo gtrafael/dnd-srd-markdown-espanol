@@ -1,9 +1,3 @@
----
-aliases: ["Saeta guía", "Guiding Bolt"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Guiding Bolt|Guiding Bolt (EN)]]"
----
-
 # Saeta guía
 
 *Evocación de nivel 1 (clérigo)*

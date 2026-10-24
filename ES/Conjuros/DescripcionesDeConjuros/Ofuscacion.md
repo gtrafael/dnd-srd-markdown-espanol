@@ -1,9 +1,3 @@
----
-aliases: ["Ofuscación", "Befuddlement"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Befuddlement|Befuddlement (EN)]]"
----
-
 # Ofuscación
 
 *Encantamiento de nivel 8 (bardo, brujo, druida, mago)*

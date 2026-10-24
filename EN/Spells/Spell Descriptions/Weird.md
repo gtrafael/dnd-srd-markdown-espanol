@@ -1,9 +1,3 @@
----
-aliases: ["Weird"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/TerrorAbyecto|Terror abyecto (Español)]]"
----
-
 ### Weird
 
 *Level 9 Illusion* (Warlock, Wizard)

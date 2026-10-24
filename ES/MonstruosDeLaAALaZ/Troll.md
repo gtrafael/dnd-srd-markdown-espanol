@@ -1,9 +1,3 @@
----
-aliases: ["Troll"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Troll|Troll (EN)]]"
----
-
 # Troll
 
 *Gigante Grande, caótico malvado*

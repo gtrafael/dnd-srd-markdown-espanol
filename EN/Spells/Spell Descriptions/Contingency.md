@@ -1,9 +1,3 @@
----
-aliases: ["Contingency"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Contingencia|Contingencia (Español)]]"
----
-
 ### Contingency
 
 *Level 6 Abjuration* (Wizard)

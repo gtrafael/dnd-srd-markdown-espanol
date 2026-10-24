@@ -1,9 +1,3 @@
----
-aliases: ["Chain Devil"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DiabloDeLasCadenas|Diablo de las cadenas (Español)]]"
----
-
 ## Chain Devil
 
 *Medium Fiend (Devil), Lawful Evil*

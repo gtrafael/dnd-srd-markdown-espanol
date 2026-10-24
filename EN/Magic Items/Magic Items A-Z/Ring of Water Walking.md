@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Water Walking"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeCaminarSobreLasAguas]]"
----
-
 # Ring of Water Walking
 
 _Ring, Uncommon_

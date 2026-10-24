@@ -1,9 +1,3 @@
----
-aliases: ["Balor"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Balor|Balor (Español)]]"
----
-
 ## Balor
 
 *Huge Fiend (Demon), Chaotic Evil*

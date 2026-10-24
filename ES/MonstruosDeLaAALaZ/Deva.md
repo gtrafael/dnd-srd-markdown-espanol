@@ -1,9 +1,3 @@
----
-aliases: ["Deva"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Deva|Deva (EN)]]"
----
-
 # Deva
 
 *Celestial Mediano (ángel), legal bueno*

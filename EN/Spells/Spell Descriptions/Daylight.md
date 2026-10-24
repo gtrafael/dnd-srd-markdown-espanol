@@ -1,9 +1,3 @@
----
-aliases: ["Daylight"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/LuzDelDia|Luz del día (Español)]]"
----
-
 ### Daylight
 
 *Level 3 Evocation* (Cleric, Druid, Paladin, Ranger, Sorcerer)

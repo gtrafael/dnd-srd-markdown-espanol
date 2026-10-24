@@ -1,9 +1,3 @@
----
-aliases: ["Texto ilusorio", "Illusory Script"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Illusory Script|Illusory Script (EN)]]"
----
-
 # Texto ilusorio
 
 *Ilusionismo de nivel 1 (bardo, brujo, mago)*

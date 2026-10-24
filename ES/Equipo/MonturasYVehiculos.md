@@ -1,9 +1,3 @@
----
-aliases: ["Transporte", "Transportation"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Mounts and Vehicles|Mounts and Vehicles (EN)]]"
----
-
 # Monturas y vehículos
 
 Una montura puede ayudarte a viajar con mayor celeridad, pero su propósito principal es cargar con el equipo que, de lo contrario, te ralentizaría. La tabla “Monturas y otros animales” muestra la capacidad de carga de cada animal. Consulta los perfiles de los animales en el capítulo “Monstruos”.

@@ -1,9 +1,3 @@
----
-aliases: ["Orbe cromático", "Chromatic Orb"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Chromatic Orb|Chromatic Orb (EN)]]"
----
-
 # Orbe cromático
 
 *Evocación de nivel 1 (hechicero, mago)*

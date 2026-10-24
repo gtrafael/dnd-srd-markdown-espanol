@@ -1,9 +1,3 @@
----
-aliases: ["Aura sagrada", "Holy Aura"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Holy Aura|Holy Aura (EN)]]"
----
-
 # Aura sagrada
 
 *Abjuración de nivel 8 (clérigo)*

@@ -1,9 +1,3 @@
----
-aliases: ["Vara de la alerta"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Rod of Alertness]]"
----
-
 # Vara de la alerta
 
 *Vara, muy rara (requiere sintonización)*

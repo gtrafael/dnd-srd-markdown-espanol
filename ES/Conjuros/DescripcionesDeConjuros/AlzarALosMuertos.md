@@ -1,9 +1,3 @@
----
-aliases: ["Alzar a los muertos", "Raise Dead"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Raise Dead|Raise Dead (EN)]]"
----
-
 # Alzar a los muertos
 
 *Nigromancia de nivel 5 (bardo, clérigo, paladín)*

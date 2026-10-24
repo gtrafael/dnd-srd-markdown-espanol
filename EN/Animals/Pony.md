@@ -1,9 +1,3 @@
----
-aliases: ["Pony"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Poni|Poni (Español)]]"
----
-
 ## Pony
 
 *Medium Beast, Unaligned*

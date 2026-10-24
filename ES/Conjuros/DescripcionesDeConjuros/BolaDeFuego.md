@@ -1,9 +1,3 @@
----
-aliases: ["Bola de fuego", "Fireball"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Fireball|Fireball (EN)]]"
----
-
 # Bola de fuego
 
 *Evocación de nivel 3 (hechicero, mago)*

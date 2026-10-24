@@ -1,9 +1,3 @@
----
-aliases: ["Crystal Ball of True Seeing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolaDeCristalDeVisionVeraz|Bola de cristal de visión veraz (Español)]]"
----
-
 ### Crystal Ball of True Seeing
 
 *Wondrous Item, Legendary (Requires Attunement)*

@@ -1,9 +1,3 @@
----
-aliases: ["Herraduras de velocidad", "Horseshoes of Speed"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Horseshoes of Speed|Horseshoes of Speed (EN)]]"
----
-
 # Herraduras de velocidad
 
 *Objeto maravilloso, raro*

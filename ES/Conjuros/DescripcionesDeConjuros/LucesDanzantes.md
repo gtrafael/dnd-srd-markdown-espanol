@@ -1,9 +1,3 @@
----
-aliases: ["Luces danzantes", "Dancing Lights"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Dancing Lights|Dancing Lights (EN)]]"
----
-
 # Luces danzantes
 
 *Truco de ilusionismo (bardo, hechicero, mago)*

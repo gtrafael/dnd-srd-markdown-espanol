@@ -1,9 +1,3 @@
----
-aliases: ["Wings of Flying"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AlasDeVuelo|Alas de vuelo (Español)]]"
----
-
 ### Wings of Flying
 
 *Wondrous Item, Rare (Requires Attunement)*

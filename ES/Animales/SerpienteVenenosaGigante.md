@@ -1,9 +1,3 @@
----
-aliases: ["Serpiente venenosa gigante", "Giant Venomous Snake"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Venomous Snake|Giant Venomous Snake (EN)]]"
----
-
 # Serpiente venenosa gigante
 
 *Bestia Mediana, sin alineamiento*

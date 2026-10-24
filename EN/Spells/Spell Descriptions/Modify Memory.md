@@ -1,9 +1,3 @@
----
-aliases: ["Modify Memory"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/AlterarLosRecuerdos|Alterar los recuerdos (Español)]]"
----
-
 ### Modify Memory
 
 *Level 5 Enchantment* (Bard, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Mano arcana", "Arcane Hand"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Arcane Hand|Arcane Hand (EN)]]"
----
-
 # Mano arcana
 
 *Evocación de nivel 5 (hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Corcel fantasma", "Phantom Steed"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Phantom Steed|Phantom Steed (EN)]]"
----
-
 # Corcel fantasma
 
 *Ilusionismo de nivel 3 (mago)*

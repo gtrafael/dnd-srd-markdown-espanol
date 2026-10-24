@@ -1,9 +1,3 @@
----
-aliases: ["Gray Ooze"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CienoGris|Cieno gris (Español)]]"
----
-
 ## Gray Ooze
 
 *Medium Ooze, Unaligned*

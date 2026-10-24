@@ -1,9 +1,3 @@
----
-aliases: ["Prohibición", "Forbiddance"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Forbiddance|Forbiddance (EN)]]"
----
-
 # Prohibición
 
 *Abjuración de nivel 6 (clérigo)*

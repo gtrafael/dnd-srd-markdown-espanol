@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Diminution"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeEncoger]]"
----
-
 # Potion of Diminution
 
 _Potion, Rare_

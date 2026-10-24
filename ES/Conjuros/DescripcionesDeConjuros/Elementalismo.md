@@ -1,9 +1,3 @@
----
-aliases: ["Elementalismo", "Elementalism"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Elementalism|Elementalism (EN)]]"
----
-
 # Elementalismo
 
 *Truco de transmutación (druida, hechicero, mago)*

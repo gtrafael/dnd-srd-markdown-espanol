@@ -1,9 +1,3 @@
----
-aliases: ["Broom of Flying"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscobaVoladora|Escoba voladora (Español)]]"
----
-
 ### Broom of Flying
 
 *Wondrous Item, Uncommon (Requires Attunement)*

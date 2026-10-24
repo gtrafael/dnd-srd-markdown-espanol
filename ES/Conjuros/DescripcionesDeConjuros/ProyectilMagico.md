@@ -1,9 +1,3 @@
----
-aliases: ["Proyectil mágico", "Magic Missile"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Magic Missile|Magic Missile (EN)]]"
----
-
 # Proyectil mágico
 
 *Evocación de nivel 1 (hechicero, mago)*

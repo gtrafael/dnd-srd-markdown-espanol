@@ -1,9 +1,3 @@
----
-aliases: ["Medusa"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Medusa|Medusa (Español)]]"
----
-
 ## Medusa
 
 *Medium Monstrosity, Lawful Evil*

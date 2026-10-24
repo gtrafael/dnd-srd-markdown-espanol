@@ -1,9 +1,3 @@
----
-aliases: ["Cuerno del Valhalla", "Horn of Valhalla"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Horn of Valhalla|Horn of Valhalla (EN)]]"
----
-
 # Cuerno del Valhalla
 
 *Objeto maravilloso, raro (plata o latón), muy raro (bronce) o legendario (hierro)*

@@ -1,9 +1,3 @@
----
-aliases: ["Stone Shape"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/MoldearLaPiedra|Moldear la piedra (Español)]]"
----
-
 ### Stone Shape
 
 *Level 4 Transmutation* (Cleric, Druid, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Alce gigante", "Giant Elk"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Elk|Giant Elk (EN)]]"
----
-
 # Alce gigante
 
 *Celestial Enorme, neutral bueno*

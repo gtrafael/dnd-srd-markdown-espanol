@@ -1,9 +1,3 @@
----
-aliases: ["Capa de protección", "Cloak of Protection"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Cloak of Protection|Cloak of Protection (EN)]]"
----
-
 # Capa de protección
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Dimension Door"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PuertaDimensional|Puerta dimensional (Español)]]"
----
-
 ### Dimension Door
 
 *Level 4 Conjuration* (Bard, Sorcerer, Warlock, Wizard)

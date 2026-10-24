@@ -1,9 +1,3 @@
----
-aliases: ["Guiverno", "Wyvern"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Wyvern|Wyvern (EN)]]"
----
-
 # Guiverno
 
 *Dragón Grande, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Candle of Invocation"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VelaDeInvocacion|Vela de invocación (Español)]]"
----
-
 ### Candle of Invocation
 
 *Wondrous Item, Very Rare (Requires Attunement)*

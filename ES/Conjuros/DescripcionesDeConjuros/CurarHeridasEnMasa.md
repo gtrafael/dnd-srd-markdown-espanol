@@ -1,9 +1,3 @@
----
-aliases: ["Curar heridas en masa", "Mass Cure Wounds"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mass Cure Wounds|Mass Cure Wounds (EN)]]"
----
-
 # Curar heridas en masa
 
 *Abjuración de nivel 5 (bardo, clérigo, druida)*

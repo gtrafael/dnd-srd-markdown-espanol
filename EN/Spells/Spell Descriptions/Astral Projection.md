@@ -1,9 +1,3 @@
----
-aliases: ["Astral Projection"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ProyeccionAstral|Proyección astral (Español)]]"
----
-
 ### Astral Projection
 
 *Level 9 Necromancy* (Cleric, Warlock, Wizard)

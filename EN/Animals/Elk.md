@@ -1,9 +1,3 @@
----
-aliases: ["Elk"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Alce|Alce (Español)]]"
----
-
 ## Elk
 
 *Large Beast, Unaligned*

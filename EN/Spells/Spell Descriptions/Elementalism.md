@@ -1,9 +1,3 @@
----
-aliases: ["Elementalism"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Elementalismo|Elementalismo (Español)]]"
----
-
 ### Elementalism
 
 *Transmutation Cantrip* (Druid, Sorcerer, Wizard)

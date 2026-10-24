@@ -1,9 +1,3 @@
----
-aliases: ["Bag of Holding"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeContencion|Bolsa de contención (Español)]]"
----
-
 ### Bag of Holding
 
 *Wondrous Item, Uncommon*

@@ -1,9 +1,3 @@
----
-aliases: ["Mage"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Mago|Mago (Español)]]"
----
-
 ## Mage
 
 *Medium or Small Humanoid (Wizard), Neutral*

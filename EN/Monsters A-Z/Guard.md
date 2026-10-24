@@ -1,9 +1,3 @@
----
-aliases: ["Guard"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Guardia|Guardia (Español)]]"
----
-
 ## Guard
 
 *Medium or Small Humanoid, Neutral*

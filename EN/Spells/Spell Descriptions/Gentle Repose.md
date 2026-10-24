@@ -1,9 +1,3 @@
----
-aliases: ["Gentle Repose"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/DulceDescanso|Dulce descanso (Español)]]"
----
-
 ### Gentle Repose
 
 *Level 2 Necromancy* (Cleric, Paladin, Wizard)

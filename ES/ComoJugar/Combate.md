@@ -1,9 +1,3 @@
----
-aliases: ["Combate", "Combat"]
-tags: [srd, espanol, tag_comojugar]
-related_en: "[[Playing the Game/Combat|Combat (EN)]]"
----
-
 # Combate
 
 Los aventureros pueden encontrarse con muchos monstruos peligrosos y con villanos perversos. En esos momentos, suele estallar el combate.

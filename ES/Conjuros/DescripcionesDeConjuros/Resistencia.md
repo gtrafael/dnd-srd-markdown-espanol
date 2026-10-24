@@ -1,9 +1,3 @@
----
-aliases: ["Resistencia", "Resistance"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Resistance|Resistance (EN)]]"
----
-
 # Resistencia
 
 *Truco de abjuración (clérigo, druida)*

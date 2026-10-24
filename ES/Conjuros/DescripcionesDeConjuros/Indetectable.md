@@ -1,9 +1,3 @@
----
-aliases: ["Indetectable", "Nondetection"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Nondetection|Nondetection (EN)]]"
----
-
 # Indetectable
 
 *Abjuración de nivel 3 (bardo, explorador, mago)*

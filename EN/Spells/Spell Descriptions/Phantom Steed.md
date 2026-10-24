@@ -1,9 +1,3 @@
----
-aliases: ["Phantom Steed"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CorcelFantasma|Corcel fantasma (Español)]]"
----
-
 ### Phantom Steed
 
 *Level 3 Illusion* (Wizard)

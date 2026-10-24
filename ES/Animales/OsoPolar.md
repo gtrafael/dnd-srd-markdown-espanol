@@ -1,9 +1,3 @@
----
-aliases: ["Oso polar", "Polar Bear"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Polar Bear|Polar Bear (EN)]]"
----
-
 # Oso polar
 
 *Bestia Grande, sin alineamiento*

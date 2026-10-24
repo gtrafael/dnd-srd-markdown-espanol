@@ -1,9 +1,3 @@
----
-aliases: ["Jabalina del relámpago", "Javelin of Lightning"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Javelin of Lightning|Javelin of Lightning (EN)]]"
----
-
 # Jabalina del relámpago
 
 *Arma (jabalina), infrecuente*

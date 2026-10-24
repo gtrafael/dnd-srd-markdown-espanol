@@ -1,9 +1,3 @@
----
-aliases: ["Aura mágica de arcanista", "Arcanists Magic Aura"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Arcanists Magic Aura|Arcanists Magic Aura (EN)]]"
----
-
 # Aura mágica de arcanista
 
 *Ilusionismo de nivel 2 (mago)*

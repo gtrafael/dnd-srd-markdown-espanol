@@ -1,9 +1,3 @@
----
-aliases: ["Embelesar", "Enthrall"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Enthrall|Enthrall (EN)]]"
----
-
 # Embelesar
 
 *Encantamiento de nivel 2 (bardo, brujo)*

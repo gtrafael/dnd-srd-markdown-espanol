@@ -1,9 +1,3 @@
----
-aliases: ["Palabra de curación en masa", "Mass Healing Word"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mass Healing Word|Mass Healing Word (EN)]]"
----
-
 # Palabra de curación en masa
 
 *Abjuración de nivel 3 (bardo, clérigo)*

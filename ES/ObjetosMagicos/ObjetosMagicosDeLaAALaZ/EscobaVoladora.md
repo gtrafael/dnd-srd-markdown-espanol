@@ -1,9 +1,3 @@
----
-aliases: ["Escoba voladora", "Broom of Flying"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Broom of Flying|Broom of Flying (EN)]]"
----
-
 # Escoba voladora
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

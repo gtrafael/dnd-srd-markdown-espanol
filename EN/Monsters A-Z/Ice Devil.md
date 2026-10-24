@@ -1,9 +1,3 @@
----
-aliases: ["Ice Devil"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DiabloGelido|Diablo gélido (Español)]]"
----
-
 ## Ice Devil
 
 *Large Fiend (Devil), Lawful Evil*

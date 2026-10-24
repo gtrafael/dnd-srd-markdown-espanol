@@ -1,9 +1,3 @@
----
-aliases: ["Ensnaring Strike"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/GolpeApresador|Golpe apresador (Español)]]"
----
-
 ### Ensnaring Strike
 
 *Level 1 Conjuration* (Ranger)

@@ -1,9 +1,3 @@
----
-aliases: ["Viaje", "Travel", "Travel Pace"]
-tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gameplay Toolbox/Travel Pace|Travel (EN)]]"
----
-
 # Ritmo de viaje
 
 Un grupo de personajes puede viajar por tierra a un ritmo normal, rápido o lento, como se describe en “Cómo jugar”. El terreno predominante marca el ritmo máximo de viaje de los personajes en cualquier etapa del mismo, según indica la columna “Ritmo máximo” de la tabla “Terreno de viaje”. Ciertos factores pueden afectar al ritmo de viaje del grupo.

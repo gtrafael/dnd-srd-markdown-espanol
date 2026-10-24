@@ -1,9 +1,3 @@
----
-aliases: ["Philter of Love"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FiltroDeAmor|Filtro de amor (Español)]]"
----
-
 ### Philter of Love
 
 *Potion, Uncommon*

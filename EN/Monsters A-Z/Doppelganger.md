@@ -1,9 +1,3 @@
----
-aliases: ["Doppelganger"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Doppelganger|Doppelganger (Español)]]"
----
-
 ## Doppelganger
 
 *Medium Monstrosity, Neutral*

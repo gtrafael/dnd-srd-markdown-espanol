@@ -1,9 +1,3 @@
----
-aliases: ["Pegamento soberano", "Sovereign Glue"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Sovereign Glue|Sovereign Glue (EN)]]"
----
-
 # Pegamento soberano
 
 *Objeto maravilloso, legendario*

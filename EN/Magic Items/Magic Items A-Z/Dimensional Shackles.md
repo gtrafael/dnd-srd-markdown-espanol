@@ -1,9 +1,3 @@
----
-aliases: ["Dimensional Shackles"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GrilletesDimensionales|Grilletes dimensionales (Español)]]"
----
-
 ### Dimensional Shackles
 
 *Wondrous Item, Rare*

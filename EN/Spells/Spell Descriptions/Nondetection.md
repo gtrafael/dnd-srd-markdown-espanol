@@ -1,9 +1,3 @@
----
-aliases: ["Nondetection"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Indetectable|Indetectable (Español)]]"
----
-
 ### Nondetection
 
 *Level 3 Abjuration* (Bard, Ranger, Wizard)

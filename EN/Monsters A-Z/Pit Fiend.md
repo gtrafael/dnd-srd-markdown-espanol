@@ -1,9 +1,3 @@
----
-aliases: ["Pit Fiend"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DiabloDeLaSima|Diablo de la sima (Español)]]"
----
-
 ## Pit Fiend
 
 *Large Fiend (Devil), Lawful Evil*

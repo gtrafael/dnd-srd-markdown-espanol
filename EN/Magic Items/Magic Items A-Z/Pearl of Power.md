@@ -1,9 +1,3 @@
----
-aliases: ["Pearl of Power"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PerlaDePoder|Perla de poder (Español)]]"
----
-
 ### Pearl of Power
 
 *Wondrous Item, Uncommon (Requires Attunement by*

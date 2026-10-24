@@ -1,9 +1,3 @@
----
-aliases: ["Mephit de magma", "Magma Mephit"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Magma Mephit|Magma Mephit (EN)]]"
----
-
 # Mephit de magma
 
 *Elemental Pequeño, neutral malvado*

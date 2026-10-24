@@ -1,9 +1,3 @@
----
-aliases: ["Palabra de poder_ matar", "Power Word Kill"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Power Word Kill|Power Word Kill (EN)]]"
----
-
 # Palabra de poder: matar
 
 *Encantamiento de nivel 9 (bardo, brujo, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Geas"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Geas|Geas (EN)]]"
----
-
 # Geas
 
 *Encantamiento de nivel 5 (bardo, clérigo, druida, mago, paladín)*

@@ -1,9 +1,3 @@
----
-aliases: ["Aljaba eficiente", "Efficient Quiver"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Efficient Quiver|Efficient Quiver (EN)]]"
----
-
 # Aljaba eficiente
 
 *Objeto maravilloso, infrecuente*

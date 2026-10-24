@@ -1,9 +1,3 @@
----
-aliases: ["Enlace telepático", "Telepathic Bond"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Telepathic Bond|Telepathic Bond (EN)]]"
----
-
 # Enlace telepático
 
 *Adivinación de nivel 5 (bardo, mago)*

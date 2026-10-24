@@ -1,9 +1,3 @@
----
-aliases: ["Resistencia de los objetos mágicos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Item Resilience|Magic Item Resilience (EN)]]"
----
-
 # Resistencia de los objetos mágicos
 
 Un objeto mágico es como mínimo tan duradero como un objeto no mágico del mismo tipo. La mayoría de objetos mágicos, excepto las pociones y los pergaminos, tienen resistencia a todo el daño.

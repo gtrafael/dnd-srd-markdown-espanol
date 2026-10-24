@@ -1,9 +1,3 @@
----
-aliases: ["Giant Vulture"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/BuitreGigante|Buitre gigante (Español)]]"
----
-
 ## Giant Vulture
 
 *Large Monstrosity, Neutral Evil*

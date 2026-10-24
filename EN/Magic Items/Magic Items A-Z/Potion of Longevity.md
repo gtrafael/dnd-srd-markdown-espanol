@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Longevity"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeLongevidad]]"
----
-
 # Potion of Longevity
 
 _Potion, Very Rare_

@@ -1,9 +1,3 @@
----
-aliases: ["Piranha"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Pirana|Piraña (Español)]]"
----
-
 ## Piranha
 
 *Tiny Beast, Unaligned*

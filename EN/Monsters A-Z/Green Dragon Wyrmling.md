@@ -1,9 +1,3 @@
----
-aliases: ["Green Dragon Wyrmling"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonVerde|Cría de dragón verde (Español)]]"
----
-
 ## Green Dragon Wyrmling
 
 *Medium Dragon (Chromatic), Lawful Evil*

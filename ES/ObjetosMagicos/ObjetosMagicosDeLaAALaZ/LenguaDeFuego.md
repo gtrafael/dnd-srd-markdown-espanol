@@ -1,9 +1,3 @@
----
-aliases: ["Lengua de fuego", "Flame Tongue"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Flame Tongue|Flame Tongue (EN)]]"
----
-
 # Lengua de fuego
 
 *Arma (cualquier arma cuerpo a cuerpo), rara (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Ancient Silver Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDePlataAnciano|Dragón de plata anciano (Español)]]"
----
-
 ## Ancient Silver Dragon
 
 *Gargantuan Dragon (Metallic), Lawful Good*

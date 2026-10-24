@@ -1,9 +1,3 @@
----
-aliases: ["Scarab of Protection"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EscarabajoProtector|Escarabajo protector (Español)]]"
----
-
 ### Scarab of Protection
 
 *Wondrous Item, Legendary (Requires Attunement)*

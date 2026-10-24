@@ -1,9 +1,3 @@
----
-aliases: ["Poción de vuelo"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Potion of Flying]]"
----
-
 # Poción de vuelo
 
 *Poción, muy rara*

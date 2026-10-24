@@ -1,9 +1,3 @@
----
-aliases: ["Pipes of Haunting"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FlautaDeLaAparicion|Flauta de la aparición (Español)]]"
----
-
 ### Pipes of Haunting
 
 *Wondrous Item, Uncommon*

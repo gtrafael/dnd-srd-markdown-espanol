@@ -1,9 +1,3 @@
----
-aliases: ["Mastery Properties"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/PropiedadesDeMaestria|Propiedades de maestría (Español)]]"
----
-
 # Mastery Properties
 
 Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.

@@ -1,9 +1,3 @@
----
-aliases: ["Martillo arrojadizo enano", "Dwarven Thrower"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Dwarven Thrower|Dwarven Thrower (EN)]]"
----
-
 # Martillo arrojadizo enano
 
 *Arma (martillo de guerra), muy rara (requiere sintonización por parte de un enano o una criatura sintonizada con un cinturón enano)*

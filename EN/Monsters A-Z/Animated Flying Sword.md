@@ -1,9 +1,3 @@
----
-aliases: ["Animated Flying Sword"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/EspadaVoladoraAnimada|Espada voladora animada (Español)]]"
----
-
 ## Animated Flying Sword
 
 *Small Construct, Unaligned*

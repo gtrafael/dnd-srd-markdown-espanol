@@ -1,9 +1,3 @@
----
-aliases: ["Armadura demoníaca", "Demon Armor"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Demon Armor|Demon Armor (EN)]]"
----
-
 # Armadura demoníaca
 
 *Armadura (ligera, media o pesada), muy rara (requiere sintonización)*

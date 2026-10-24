@@ -1,9 +1,3 @@
----
-aliases: ["Foresight"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Presciencia|Presciencia (Español)]]"
----
-
 ### Foresight
 
 *Level 9 Divination* (Bard, Druid, Warlock, Wizard)

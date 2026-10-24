@@ -1,9 +1,3 @@
----
-aliases: ["Mastiff"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Mastin|Mastín (Español)]]"
----
-
 ## Mastiff
 
 *Medium Beast, Unaligned*

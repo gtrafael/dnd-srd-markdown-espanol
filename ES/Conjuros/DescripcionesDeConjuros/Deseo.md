@@ -1,9 +1,3 @@
----
-aliases: ["Deseo", "Wish"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Wish|Wish (EN)]]"
----
-
 # Deseo
 
 *Conjuración de nivel 9 (hechicero, mago)*

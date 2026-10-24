@@ -1,9 +1,3 @@
----
-aliases: ["Iron Golem"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GolemDeHierro|Gólem de hierro (Español)]]"
----
-
 ## Iron Golem
 
 *Large Construct, Unaligned*

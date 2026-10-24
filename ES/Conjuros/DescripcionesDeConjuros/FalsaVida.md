@@ -1,9 +1,3 @@
----
-aliases: ["Falsa vida", "False Life"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/False Life|False Life (EN)]]"
----
-
 # Falsa vida
 
 *Nigromancia de nivel 1 (hechicero, mago)*

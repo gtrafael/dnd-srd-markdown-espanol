@@ -1,9 +1,3 @@
----
-aliases: ["Retirada expeditiva", "Expeditious Retreat"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Expeditious Retreat|Expeditious Retreat (EN)]]"
----
-
 # Retirada expeditiva
 
 *Transmutación de nivel 1 (brujo, hechicero, mago)*

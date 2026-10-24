@@ -1,9 +1,3 @@
----
-aliases: ["Caballo de monta", "Riding Horse"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Riding Horse|Riding Horse (EN)]]"
----
-
 # Caballo de monta
 
 *Bestia Grande, sin alineamiento*

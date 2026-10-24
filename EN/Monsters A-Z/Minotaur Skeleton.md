@@ -1,9 +1,3 @@
----
-aliases: ["Minotaur Skeleton"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/MinotauroEsqueleto|Minotauro esqueleto (Español)]]"
----
-
 ## Minotaur Skeleton
 
 *Large Undead, Lawful Evil*

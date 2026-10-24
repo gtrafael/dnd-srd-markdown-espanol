@@ -1,9 +1,3 @@
----
-aliases: ["Vela de invocación", "Candle of Invocation"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Candle of Invocation|Candle of Invocation (EN)]]"
----
-
 # Vela de invocación
 
 *Objeto maravilloso, muy raro (requiere sintonización)*

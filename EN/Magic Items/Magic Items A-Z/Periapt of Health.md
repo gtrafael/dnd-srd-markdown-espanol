@@ -1,9 +1,3 @@
----
-aliases: ["Periapt of Health"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TalismanDeSalud|Talismán de salud (Español)]]"
----
-
 ### Periapt of Health
 
 *Wondrous Item, Uncommon (Requires Attunement)*

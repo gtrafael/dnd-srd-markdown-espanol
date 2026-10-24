@@ -1,9 +1,3 @@
----
-aliases: ["Enano", "Dwarf"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Origins/Dwarf|Dwarf (EN)]]"
----
-
 # Enano
 
 Tipo de criatura: humanoide

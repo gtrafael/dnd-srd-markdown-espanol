@@ -1,9 +1,3 @@
----
-aliases: ["Botas de las tierras invernales", "Boots of the Winterlands"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Boots of the Winterlands|Boots of the Winterlands (EN)]]"
----
-
 # Botas de las tierras invernales
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

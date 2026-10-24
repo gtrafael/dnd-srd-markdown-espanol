@@ -1,9 +1,3 @@
----
-aliases: ["Levitar", "Levitate"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Levitate|Levitate (EN)]]"
----
-
 # Levitar
 
 *Transmutación de nivel 2 (hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["EquipoGeneral", "Gear"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Adventuring Gear|Adventuring Gear (EN)]]"
----
-
 # Equipo de aventureros
 
 La tabla “Equipo de aventureros” de esta sección incluye artículos que suelen resultar útiles a los aventureros. Estos objetos se describen en orden alfabético y el precio del objeto aparece tras su nombre.

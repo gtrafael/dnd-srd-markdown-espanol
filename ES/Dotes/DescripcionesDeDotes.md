@@ -1,9 +1,3 @@
----
-aliases: ["Descripciones de dotes", "Partes de una dote", "Dotes", "Feats"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Feats/Feat Descriptions]]"
----
-
 # Descripciones de dotes
 
 Las dotes que se explican en las siguientes páginas se organizan por categoría (de origen, generales, de estilo de combate o de don épico) y se presentan en orden alfabético.

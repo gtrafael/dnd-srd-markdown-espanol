@@ -1,9 +1,3 @@
----
-aliases: ["Marchitar", "Blight"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Blight|Blight (EN)]]"
----
-
 # Marchitar
 
 *Nigromancia de nivel 4 (brujo, druida, hechicero, mago)*

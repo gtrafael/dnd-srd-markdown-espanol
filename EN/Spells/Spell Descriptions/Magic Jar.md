@@ -1,9 +1,3 @@
----
-aliases: ["Magic Jar"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/UrnaMagica|Urna mágica (Español)]]"
----
-
 ### Magic Jar
 
 *Level 6 Necromancy* (Wizard)

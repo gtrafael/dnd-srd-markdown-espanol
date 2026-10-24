@@ -1,9 +1,3 @@
----
-aliases: ["Heroism"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Heroismo|Heroísmo (Español)]]"
----
-
 ### Heroism
 
 *Level 1 Enchantment* (Bard, Paladin)

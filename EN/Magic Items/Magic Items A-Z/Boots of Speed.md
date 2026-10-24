@@ -1,9 +1,3 @@
----
-aliases: ["Boots of Speed"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotasDeVelocidad|Botas de velocidad (Español)]]"
----
-
 ### Boots of Speed
 
 *Wondrous Item, Rare (Requires Attunement)*

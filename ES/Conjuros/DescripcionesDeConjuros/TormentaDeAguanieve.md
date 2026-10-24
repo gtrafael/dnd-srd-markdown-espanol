@@ -1,9 +1,3 @@
----
-aliases: ["Tormenta de aguanieve", "Sleet Storm"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Sleet Storm|Sleet Storm (EN)]]"
----
-
 # Tormenta de aguanieve
 
 *Conjuración de nivel 3 (druida, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Boots of Elvenkind"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotasElficas|Botas élficas (Español)]]"
----
-
 ### Boots of Elvenkind
 
 *Wondrous Item, Uncommon*

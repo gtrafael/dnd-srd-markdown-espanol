@@ -1,9 +1,3 @@
----
-aliases: ["Casting Spells"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/LanzarConjuros|Lanzar conjuros (Español)]]"
----
-
 # Casting Spells
 
 Each spell description has a series of entries that provide the details needed to cast the spell. The following sections explain each of those entries, which follow a spell's name.

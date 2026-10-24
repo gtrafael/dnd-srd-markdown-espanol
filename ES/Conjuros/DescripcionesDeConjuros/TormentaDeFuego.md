@@ -1,9 +1,3 @@
----
-aliases: ["Tormenta de fuego", "Fire Storm"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Fire Storm|Fire Storm (EN)]]"
----
-
 # Tormenta de fuego
 
 *Evocación de nivel 7 (clérigo, druida, hechicero)*

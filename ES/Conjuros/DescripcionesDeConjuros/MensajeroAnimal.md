@@ -1,9 +1,3 @@
----
-aliases: ["Mensajero animal", "Animal Messenger"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Animal Messenger|Animal Messenger (EN)]]"
----
-
 # Mensajero animal
 
 *Encantamiento de nivel 2 (bardo, druida, explorador)*

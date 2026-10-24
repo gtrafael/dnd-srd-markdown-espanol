@@ -1,9 +1,3 @@
----
-aliases: ["Dragon Scale Mail"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CotaDeEscamasDeDragon|Cota de escamas de dragón (Español)]]"
----
-
 ### Dragon Scale Mail
 
 *Armor (Scale Mail), Very Rare (Requires Attunement)*

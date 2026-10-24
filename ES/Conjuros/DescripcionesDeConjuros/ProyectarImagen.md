@@ -1,9 +1,3 @@
----
-aliases: ["Proyectar imagen", "Project Image"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Project Image|Project Image (EN)]]"
----
-
 # Proyectar imagen
 
 *Ilusionismo de nivel 7 (bardo, mago)*

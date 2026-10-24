@@ -1,9 +1,3 @@
----
-aliases: ["Toque vampírico", "Vampiric Touch"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Vampiric Touch|Vampiric Touch (EN)]]"
----
-
 # Toque vampírico
 
 *Nigromancia de nivel 3 (brujo, hechicero, mago)*

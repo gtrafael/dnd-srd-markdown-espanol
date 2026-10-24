@@ -1,9 +1,3 @@
----
-aliases: ["Descarga de fuego", "Fire Bolt"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Fire Bolt|Fire Bolt (EN)]]"
----
-
 # Descarga de fuego
 
 *Truco de evocación (hechicero, mago)*

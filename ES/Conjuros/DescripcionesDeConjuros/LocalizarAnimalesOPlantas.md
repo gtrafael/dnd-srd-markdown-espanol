@@ -1,9 +1,3 @@
----
-aliases: ["Localizar animales o plantas", "Locate Animals or Plants"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Locate Animals or Plants|Locate Animals or Plants (EN)]]"
----
-
 # Localizar animales o plantas
 
 *Adivinación de nivel 2 (bardo, druida, explorador)*

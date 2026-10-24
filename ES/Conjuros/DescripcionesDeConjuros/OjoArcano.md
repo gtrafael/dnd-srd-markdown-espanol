@@ -1,9 +1,3 @@
----
-aliases: ["Ojo arcano", "Arcane Eye"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Arcane Eye|Arcane Eye (EN)]]"
----
-
 # Ojo arcano
 
 *Adivinación de nivel 4 (mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Dríade", "Dryad"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Dryad|Dryad (EN)]]"
----
-
 # Dríade
 
 *Feérico Mediano, neutral*

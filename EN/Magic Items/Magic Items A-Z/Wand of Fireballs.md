@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Fireballs"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeBolasDeFuego|Wand of Fireballs (Español)]]"
----
-
 # Wand of Fireballs
 
 _Wand, Rare (Requires Attunement by a Spellcaster)_

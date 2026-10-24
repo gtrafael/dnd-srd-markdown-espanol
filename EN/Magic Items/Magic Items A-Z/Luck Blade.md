@@ -1,9 +1,3 @@
----
-aliases: ["Luck Blade"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/FiloDeLaFortuna]]"
----
-
 # Luck Blade
 
 _Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, Sickle, or Shortsword), Legendary (Requires Attunement)_

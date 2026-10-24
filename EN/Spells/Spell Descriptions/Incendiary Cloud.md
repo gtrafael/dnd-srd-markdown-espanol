@@ -1,9 +1,3 @@
----
-aliases: ["Incendiary Cloud"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/NubeIncendiaria|Nube incendiaria (Español)]]"
----
-
 ### Incendiary Cloud
 
 *Level 8 Conjuration* (Druid, Sorcerer, Wizard)

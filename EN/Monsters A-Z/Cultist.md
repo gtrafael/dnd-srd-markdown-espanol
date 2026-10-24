@@ -1,9 +1,3 @@
----
-aliases: ["Cultist"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Sectario|Sectario (Español)]]"
----
-
 ## Cultist
 
 _Medium or Small Humanoid, Neutral_

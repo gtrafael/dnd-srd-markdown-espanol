@@ -1,9 +1,3 @@
----
-aliases: ["Glifo custodio", "Glyph of Warding"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Glyph of Warding|Glyph of Warding (EN)]]"
----
-
 # Glifo custodio
 
 *Abjuración de nivel 3 (bardo, clérigo, mago)*

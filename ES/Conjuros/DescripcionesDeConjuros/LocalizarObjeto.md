@@ -1,9 +1,3 @@
----
-aliases: ["Localizar objeto", "Locate Object"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Locate Object|Locate Object (EN)]]"
----
-
 # Localizar objeto
 
 *Adivinación de nivel 2 (bardo, clérigo, druida, explorador, mago, paladín)*

@@ -1,9 +1,3 @@
----
-aliases: ["Mending"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Reparar|Reparar (Español)]]"
----
-
 ### Mending
 
 *Transmutation Cantrip* (Bard, Cleric, Druid, Sorcerer, Wizard)

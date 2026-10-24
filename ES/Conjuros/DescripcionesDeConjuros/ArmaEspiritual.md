@@ -1,9 +1,3 @@
----
-aliases: ["Arma espiritual", "Spiritual Weapon"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Spiritual Weapon|Spiritual Weapon (EN)]]"
----
-
 # Arma espiritual
 
 *Evocación de nivel 2 (clérigo)*

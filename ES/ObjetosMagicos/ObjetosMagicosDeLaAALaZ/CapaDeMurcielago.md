@@ -1,9 +1,3 @@
----
-aliases: ["Capa de murciélago", "Cloak of the Bat"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Cloak of the Bat|Cloak of the Bat (EN)]]"
----
-
 # Capa de murciélago
 
 *Objeto maravilloso, raro (requiere sintonización)*

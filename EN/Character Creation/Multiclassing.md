@@ -1,9 +1,3 @@
----
-aliases: ["Multiclassing"]
-tags: [srd, english, tag_characterizations]
-related_es: "[[CreacionDePersonajes/Multiclase|Multiclase (Español)]]"
----
-
 # Multiclassing
 
 Multiclassing allows you to gain levels in multiple classes. With this rule, you have the option of gaining a level in a new class whenever you advance in level instead of gaining a level in your current class. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in a single class.

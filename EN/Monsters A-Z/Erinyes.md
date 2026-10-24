@@ -1,9 +1,3 @@
----
-aliases: ["Erinyes"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Erinia|Erinia (Español)]]"
----
-
 ## Erinyes
 
 *Medium Fiend (Devil), Lawful Evil*

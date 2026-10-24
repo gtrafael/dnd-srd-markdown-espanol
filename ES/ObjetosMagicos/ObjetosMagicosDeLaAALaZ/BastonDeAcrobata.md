@@ -1,9 +1,3 @@
----
-aliases: ["Bastón de acróbata", "Quarterstaff of the Acrobat"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Quarterstaff of the Acrobat|Quarterstaff of the Acrobat (EN)]]"
----
-
 # Bastón de acróbata
 
 *Arma (bastón), muy rara (requiere sintonización)*

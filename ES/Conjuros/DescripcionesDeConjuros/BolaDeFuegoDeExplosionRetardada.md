@@ -1,9 +1,3 @@
----
-aliases: ["Bola de fuego de explosión retardada", "Delayed Blast Fireball"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Delayed Blast Fireball|Delayed Blast Fireball (EN)]]"
----
-
 # Bola de fuego de explosión retardada
 
 *Evocación de nivel 7 (hechicero, mago)*

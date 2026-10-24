@@ -1,9 +1,3 @@
----
-aliases: ["Excursión etérea", "Etherealness"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Etherealness|Etherealness (EN)]]"
----
-
 # Excursión etérea
 
 *Conjuración de nivel 7 (bardo, brujo, clérigo, hechicero, mago)*

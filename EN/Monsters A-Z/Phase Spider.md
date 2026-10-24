@@ -1,9 +1,3 @@
----
-aliases: ["Phase Spider"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/AranaDeFase|Araña de fase (Español)]]"
----
-
 ## Phase Spider
 
 *Large Monstrosity, Unaligned*

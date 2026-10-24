@@ -1,9 +1,3 @@
----
-aliases: ["Drider"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Drana|Draña (Español)]]"
----
-
 ## Drider
 
 *Large Monstrosity, Chaotic Evil*

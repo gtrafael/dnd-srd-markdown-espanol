@@ -1,9 +1,3 @@
----
-aliases: ["Tarrasque"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Tarasca|Tarasca (Español)]]"
----
-
 ## Tarrasque
 
 *Gargantuan Monstrosity (Titan), Unaligned*

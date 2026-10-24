@@ -1,9 +1,3 @@
----
-aliases: ["Alce", "Elk"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Elk|Elk (EN)]]"
----
-
 # Alce
 
 *Bestia Grande, sin alineamiento*

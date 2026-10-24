@@ -1,9 +1,3 @@
----
-aliases: ["Basilisco", "Basilisk"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Basilisk|Basilisk (EN)]]"
----
-
 # Basilisco
 
 *Monstruosidad Mediana, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Águila", "Eagle"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Eagle|Eagle (EN)]]"
----
-
 # Águila
 
 *Bestia Pequeña, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Continual Flame"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/LlamaPermanente|Llama permanente (Español)]]"
----
-
 ### Continual Flame
 
 *Level 2 Evocation* (Cleric, Druid, Wizard)

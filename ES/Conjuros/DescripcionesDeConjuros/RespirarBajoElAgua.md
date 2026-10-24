@@ -1,9 +1,3 @@
----
-aliases: ["Respirar bajo el agua", "Water Breathing"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Water Breathing|Water Breathing (EN)]]"
----
-
 # Respirar bajo el agua
 
 *Transmutación de nivel 3 (druida, explorador, hechicero, mago)*

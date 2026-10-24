@@ -1,9 +1,3 @@
----
-aliases: ["Major Image"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ImagenMayor|Imagen mayor (Español)]]"
----
-
 ### Major Image
 
 *Level 3 Illusion* (Bard, Sorcerer, Warlock, Wizard)

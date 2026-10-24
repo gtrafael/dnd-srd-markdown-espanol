@@ -1,9 +1,3 @@
----
-aliases: ["Staff of Healing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeCuracion]]"
----
-
 # Staff of Healing
 
 _Staff, Rare (Requires Attunement by a Bard, Cleric, or Druid)_

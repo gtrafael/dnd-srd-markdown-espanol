@@ -1,9 +1,3 @@
----
-aliases: ["Gloves of Missile Snaring"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GuantesAtrapaflechas|Guantes atrapaflechas (Español)]]"
----
-
 ### Gloves of Missile Snaring
 
 *Wondrous Item, Uncommon (Requires Attunement)*

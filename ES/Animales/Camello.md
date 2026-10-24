@@ -1,9 +1,3 @@
----
-aliases: ["Camello", "Camel"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Camel|Camel (EN)]]"
----
-
 # Camello
 
 *Bestia Grande, sin alineamiento*

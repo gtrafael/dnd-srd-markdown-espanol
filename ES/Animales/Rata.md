@@ -1,9 +1,3 @@
----
-aliases: ["Rata", "Rat"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Rat|Rat (EN)]]"
----
-
 # Rata
 
 *Bestia Diminuta, sin alineamiento*

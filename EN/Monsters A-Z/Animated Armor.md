@@ -1,9 +1,3 @@
----
-aliases: ["Animated Armor"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/ArmaduraAnimada|Armadura animada (Español)]]"
----
-
 ## Animated Armor
 
 _Medium Construct, Unaligned_

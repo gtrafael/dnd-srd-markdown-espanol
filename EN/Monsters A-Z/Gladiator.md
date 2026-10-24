@@ -1,9 +1,3 @@
----
-aliases: ["Gladiator"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Gladiador|Gladiador (Español)]]"
----
-
 ## Gladiator
 
 *Medium or Small Humanoid, Neutral*

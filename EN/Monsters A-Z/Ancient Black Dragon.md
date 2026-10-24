@@ -1,9 +1,3 @@
----
-aliases: ["Ancient Black Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonNegroAnciano|Dragón negro anciano (Español)]]"
----
-
 ## Ancient Black Dragon
 
 *Gargantuan Dragon (Chromatic), Chaotic Evil*

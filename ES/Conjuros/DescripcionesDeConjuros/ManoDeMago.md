@@ -1,9 +1,3 @@
----
-aliases: ["Mano de mago", "Mage Hand"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mage Hand|Mage Hand (EN)]]"
----
-
 # Mano de mago
 
 *Truco de conjuración (bardo, brujo, hechicero, mago)*

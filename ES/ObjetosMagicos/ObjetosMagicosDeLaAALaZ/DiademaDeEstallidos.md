@@ -1,9 +1,3 @@
----
-aliases: ["Diadema de estallidos", "Circlet of Blasting"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Circlet of Blasting|Circlet of Blasting (EN)]]"
----
-
 # Diadema de estallidos
 
 *Objeto maravilloso, infrecuente*

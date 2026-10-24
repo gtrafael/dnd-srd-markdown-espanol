@@ -1,9 +1,3 @@
----
-aliases: ["Bracers of Archery"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BrazalesDeArqueria|Brazales de arquería (Español)]]"
----
-
 ### Bracers of Archery
 
 *Wondrous Item, Uncommon (Requires Attunement)*

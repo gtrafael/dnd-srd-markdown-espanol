@@ -1,9 +1,3 @@
----
-aliases: ["Plate Armor of Etherealness"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaduraDePlacasDeEtereidad|Armadura de placas de etereidad (Español)]]"
----
-
 ### Plate Armor of Etherealness
 
 *Armor (Half Plate Armor or Plate Armor), Legendary (Requires Attunement)*

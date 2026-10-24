@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Shooting Stars"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeEstrellasFugaces]]"
----
-
 # Ring of Shooting Stars
 
 _Ring, Very Rare (Requires Attunement)_

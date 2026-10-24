@@ -1,9 +1,3 @@
----
-aliases: ["Dragonborn"]
-tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/Draconido|Dracónido (Español)]]"
----
-
 # Dragonborn
 
 **Creature Type:** Humanoid

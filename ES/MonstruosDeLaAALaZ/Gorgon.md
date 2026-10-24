@@ -1,9 +1,3 @@
----
-aliases: ["Gorgon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Gorgon|Gorgon (EN)]]"
----
-
 # Gorgon
 
 *Autómata Grande, sin alineamiento*

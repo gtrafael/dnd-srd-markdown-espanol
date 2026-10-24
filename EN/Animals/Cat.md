@@ -1,9 +1,3 @@
----
-aliases: ["Cat"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Gato|Gato (Español)]]"
----
-
 ## Cat
 
 _Tiny Beast, Unaligned_

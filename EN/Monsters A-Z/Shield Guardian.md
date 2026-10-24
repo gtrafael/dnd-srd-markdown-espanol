@@ -1,9 +1,3 @@
----
-aliases: ["Shield Guardian"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GuardianEscudo|Guardián escudo (Español)]]"
----
-
 ## Shield Guardian
 
 *Large Construct, Unaligned*

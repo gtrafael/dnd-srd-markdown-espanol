@@ -1,9 +1,3 @@
----
-aliases: ["Halfling"]
-tags: [srd, english, tag_species]
-related_es: "[[OrigenesDePersonaje/Mediano|Mediano (Español)]]"
----
-
 # Halfling
 
 **Creature Type:** Humanoid

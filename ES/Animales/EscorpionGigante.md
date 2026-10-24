@@ -1,9 +1,3 @@
----
-aliases: ["Escorpión gigante", "Giant Scorpion"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Scorpion|Giant Scorpion (EN)]]"
----
-
 # Escorpión gigante
 
 *Bestia Grande, sin alineamiento*

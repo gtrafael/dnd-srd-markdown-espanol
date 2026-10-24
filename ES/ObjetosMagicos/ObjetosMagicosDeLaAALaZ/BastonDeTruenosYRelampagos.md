@@ -1,9 +1,3 @@
----
-aliases: ["Bastón de truenos y relámpagos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Staff of Thunder and Lightning]]"
----
-
 # Bastón de truenos y relámpagos
 
 *Bastón, muy raro (requiere sintonización)*

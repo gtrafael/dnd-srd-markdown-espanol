@@ -1,9 +1,3 @@
----
-aliases: ["Pergamino de conjuro"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Spell Scroll]]"
----
-
 # Pergamino de conjuro
 
 *Pergamino, rareza variable*

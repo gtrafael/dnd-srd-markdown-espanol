@@ -1,9 +1,3 @@
----
-aliases: ["Suggestion"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Sugestion|Sugestión (Español)]]"
----
-
 ### Suggestion
 
 *Level 2 Enchantment* (Bard, Sorcerer, Warlock, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Nightmare"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Pesadilla|Pesadilla (Español)]]"
----
-
 ## Nightmare
 
 *Large Fiend, Neutral Evil*

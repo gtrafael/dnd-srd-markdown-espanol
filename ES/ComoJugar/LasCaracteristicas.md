@@ -1,9 +1,3 @@
----
-aliases: ["Las características", "Las seis características", "Habilidades", "Abilities"]
-tags: [srd, espanol, tag_comojugar]
-related_en: "[[Playing the Game/The Six Abilities|Abilities (EN)]]"
----
-
 # Las características
 
 Todas las criaturas (personajes y monstruos) tienen seis características que definen sus capacidades físicas y mentales, tal y como se muestra en la tabla “Descripciones de las características”.

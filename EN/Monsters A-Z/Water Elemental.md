@@ -1,9 +1,3 @@
----
-aliases: ["Water Elemental"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/ElementalDeAgua|Elemental de agua (Español)]]"
----
-
 ## Water Elemental
 
 *Large Elemental, Neutral*

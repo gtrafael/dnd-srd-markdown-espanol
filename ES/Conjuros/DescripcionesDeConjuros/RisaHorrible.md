@@ -1,9 +1,3 @@
----
-aliases: ["Risa horrible", "Hideous Laughter"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Hideous Laughter|Hideous Laughter (EN)]]"
----
-
 # Risa horrible
 
 *Encantamiento de nivel 1 (bardo, brujo, mago)*

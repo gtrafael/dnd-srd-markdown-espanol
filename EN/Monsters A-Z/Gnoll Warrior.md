@@ -1,9 +1,3 @@
----
-aliases: ["Gnoll Warrior"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GuerreroGnoll|Guerrero gnoll (Español)]]"
----
-
 ## Gnoll Warrior
 
 *Medium Fiend, Chaotic Evil*

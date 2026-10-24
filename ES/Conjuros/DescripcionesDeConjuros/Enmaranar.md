@@ -1,9 +1,3 @@
----
-aliases: ["Enmarañar", "Entangle"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Entangle|Entangle (EN)]]"
----
-
 # Enmarañar
 
 *Conjuración de nivel 1 (druida, explorador)*

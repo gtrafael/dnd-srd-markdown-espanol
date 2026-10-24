@@ -1,9 +1,3 @@
----
-aliases: ["Restablecimiento mayor", "Greater Restoration"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Greater Restoration|Greater Restoration (EN)]]"
----
-
 # Restablecimiento mayor
 
 *Abjuración de nivel 5 (bardo, clérigo, druida, explorador, paladín)*

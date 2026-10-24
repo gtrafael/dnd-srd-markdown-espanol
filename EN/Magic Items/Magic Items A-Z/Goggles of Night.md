@@ -1,9 +1,3 @@
----
-aliases: ["Goggles of Night"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnteojosDeLaNoche|Anteojos de la noche (Español)]]"
----
-
 ### Goggles of Night
 
 *Wondrous Item, Uncommon*

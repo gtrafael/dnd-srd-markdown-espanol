@@ -1,9 +1,3 @@
----
-aliases: ["Sorcerous Burst"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EstallidoMagico|Estallido mágico (Español)]]"
----
-
 ### Sorcerous Burst
 
 *Evocation Cantrip* (Sorcerer)

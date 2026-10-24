@@ -1,9 +1,3 @@
----
-aliases: ["Antimagic Field"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CampoAntimagia|Campo antimagia (Español)]]"
----
-
 ### Antimagic Field
 
 *Level 8 Abjuration* (Cleric, Wizard)

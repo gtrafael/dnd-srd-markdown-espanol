@@ -1,9 +1,3 @@
----
-aliases: ["Fire Storm"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/TormentaDeFuego|Tormenta de fuego (Español)]]"
----
-
 ### Fire Storm
 
 *Level 7 Evocation* (Cleric, Druid, Sorcerer)

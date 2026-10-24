@@ -1,9 +1,3 @@
----
-aliases: ["Guerrero", "Fighter"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Fighter|Fighter (EN)]]"
----
-
 # Guerrero
 
 Atributos básicos de guerrero

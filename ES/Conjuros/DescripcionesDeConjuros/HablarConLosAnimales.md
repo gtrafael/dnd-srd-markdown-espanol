@@ -1,9 +1,3 @@
----
-aliases: ["Hablar con los animales", "Speak with Animals"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Speak with Animals|Speak with Animals (EN)]]"
----
-
 # Hablar con los animales
 
 *Adivinación de nivel 1 (bardo, brujo, druida, explorador)*

@@ -1,9 +1,3 @@
----
-aliases: ["Necklace of Prayer Beads"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CollarDePlegarias|Collar de plegarias (Español)]]"
----
-
 ### Necklace of Prayer Beads
 
 *Wondrous Item, Rare (Requires Attunement by a*

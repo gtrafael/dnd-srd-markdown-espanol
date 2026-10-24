@@ -1,9 +1,3 @@
----
-aliases: ["Cloak of the Manta Ray"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaDeLaMantarraya|Capa de la mantarraya (Español)]]"
----
-
 ### Cloak of the Manta Ray
 
 *Wondrous Item, Uncommon (Requires Attunement)*

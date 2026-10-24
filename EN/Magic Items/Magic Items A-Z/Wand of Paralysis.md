@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Paralysis"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeParalisis|Wand of Paralysis (Español)]]"
----
-
 # Wand of Paralysis
 
 _Wand, Rare (Requires Attunement by a Spellcaster)_

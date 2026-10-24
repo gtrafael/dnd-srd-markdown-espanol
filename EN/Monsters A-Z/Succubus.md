@@ -1,9 +1,3 @@
----
-aliases: ["Succubus"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Sucubo|Súcubo (Español)]]"
----
-
 ## Succubus
 
 *Medium Fiend, Neutral Evil*

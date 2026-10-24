@@ -1,9 +1,3 @@
----
-aliases: ["Gema elemental", "Elemental Gem"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Elemental Gem|Elemental Gem (EN)]]"
----
-
 # Gema elemental
 
 *Objeto maravilloso, infrecuente*

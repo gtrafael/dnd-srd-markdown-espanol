@@ -1,9 +1,3 @@
----
-aliases: ["Estallido mágico", "Sorcerous Burst"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Sorcerous Burst|Sorcerous Burst (EN)]]"
----
-
 # Estallido mágico
 
 *Truco de evocación (hechicero)*

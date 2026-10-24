@@ -1,9 +1,3 @@
----
-aliases: ["Chuul"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Chuul|Chuul (Español)]]"
----
-
 ## Chuul
 
 *Large Aberration, Chaotic Evil*

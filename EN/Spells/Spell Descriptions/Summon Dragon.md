@@ -1,9 +1,3 @@
----
-aliases: ["Summon Dragon"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/InvocarDragon|Invocar dragón (Español)]]"
----
-
 ### Summon Dragon
 
 *Level 5 Conjuration* (Wizard)

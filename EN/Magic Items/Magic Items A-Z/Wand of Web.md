@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Web"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeTelarana|Wand of Web (Español)]]"
----
-
 # Wand of Web
 
 _Wand, Uncommon (Requires Attunement by a Spellcaster)_

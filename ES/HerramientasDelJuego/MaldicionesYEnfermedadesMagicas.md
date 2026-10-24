@@ -1,9 +1,3 @@
----
-aliases: ["Maldiciones", "Curses", "Curses and Magical Contagions"]
-tags: [srd, espanol, tag_herramientasdeljuego]
-related_en: "[[Gameplay Toolbox/Curses and Magical Contagions|Curses (EN)]]"
----
-
 # Maldiciones y enfermedades mágicas
 
 Una maldición es un castigo mágico que dura un tiempo determinado o hasta que se le ponga fin de algún modo. Una enfermedad mágica es un efecto adverso de origen mágico que, por definición, resulta contagiosa.

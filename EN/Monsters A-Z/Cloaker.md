@@ -1,9 +1,3 @@
----
-aliases: ["Cloaker"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Manto|Manto (Español)]]"
----
-
 ## Cloaker
 
 *Large Aberration, Chaotic Neutral*

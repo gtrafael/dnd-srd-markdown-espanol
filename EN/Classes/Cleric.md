@@ -1,9 +1,3 @@
----
-aliases: ["Cleric"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Clerigo|Clerigo (Español)]]"
----
-
 # Cleric
 
 ## Core Cleric Traits

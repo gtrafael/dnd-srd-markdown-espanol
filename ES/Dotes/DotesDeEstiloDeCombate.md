@@ -1,9 +1,3 @@
----
-aliases: ["Dotes de estilo de combate"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Feats/Fighting Style Feats|Fighting Style Feats (EN)]]"
----
-
 # Dotes de estilo de combate
 
 ## Combate con armas a dos manos

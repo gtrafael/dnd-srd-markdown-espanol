@@ -1,9 +1,3 @@
----
-aliases: ["Locate Animals or Plants"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/LocalizarAnimalesOPlantas|Localizar animales o plantas (Español)]]"
----
-
 ### Locate Animals or Plants
 
 *Level 2 Divination* (Bard, Druid, Ranger)

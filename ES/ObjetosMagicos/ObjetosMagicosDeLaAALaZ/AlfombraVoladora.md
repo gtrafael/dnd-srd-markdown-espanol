@@ -1,9 +1,3 @@
----
-aliases: ["Alfombra voladora", "Carpet of Flying"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Carpet of Flying|Carpet of Flying (EN)]]"
----
-
 # Alfombra voladora
 
 *Objeto maravilloso, muy raro*

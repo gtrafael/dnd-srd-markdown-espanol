@@ -1,9 +1,3 @@
----
-aliases: ["Tough"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Pendenciero|Pendenciero (Español)]]"
----
-
 ## Tough
 
 *Medium or Small Humanoid, Neutral*

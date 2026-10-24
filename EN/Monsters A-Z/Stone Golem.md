@@ -1,9 +1,3 @@
----
-aliases: ["Stone Golem"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GolemDePiedra|Gólem de piedra (Español)]]"
----
-
 ## Stone Golem
 
 *Large Construct, Unaligned*

@@ -1,9 +1,3 @@
----
-aliases: ["Deer"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Ciervo|Ciervo (Español)]]"
----
-
 ## Deer
 
 _Medium Beast, Unaligned_

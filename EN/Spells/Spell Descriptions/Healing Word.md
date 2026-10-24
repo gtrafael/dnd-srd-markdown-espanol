@@ -1,9 +1,3 @@
----
-aliases: ["Healing Word"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PalabraDeCuracion|Palabra de curación (Español)]]"
----
-
 ### Healing Word
 
 *Level 1 Abjuration* (Bard, Cleric, Druid)

@@ -1,9 +1,3 @@
----
-aliases: ["Dragón blanco anciano", "Ancient White Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Ancient White Dragon|Ancient White Dragon (EN)]]"
----
-
 # Dragón blanco anciano
 
 *Dragón Gargantuesco (cromático), caótico malvado*

@@ -1,9 +1,3 @@
----
-aliases: ["Gnomo", "Gnome"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Origins/Gnome|Gnome (EN)]]"
----
-
 # Gnomo
 
 Tipo de criatura: humanoide

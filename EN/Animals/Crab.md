@@ -1,9 +1,3 @@
----
-aliases: ["Crab"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Cangrejo|Cangrejo (Español)]]"
----
-
 ## Crab
 
 *Tiny Beast, Unaligned*

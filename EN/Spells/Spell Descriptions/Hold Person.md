@@ -1,9 +1,3 @@
----
-aliases: ["Hold Person"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/InmovilizarPersona|Inmovilizar persona (Español)]]"
----
-
 ### Hold Person
 
 *Level 2 Enchantment* (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)

@@ -1,9 +1,3 @@
----
-aliases: ["Fighting Style Feats"]
-tags: [srd, english, tag_feats]
-related_es: "[[Dotes/DotesDeEstiloDeCombate|Dotes de estilo de combate (Español)]]"
----
-
 # Fighting Style Feats
 
 ## Archery

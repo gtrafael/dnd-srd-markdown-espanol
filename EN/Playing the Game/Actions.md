@@ -1,9 +1,3 @@
----
-aliases: ["Actions"]
-tags: [srd, english, tag_gameplay]
-related_es: "[[ComoJugar/Acciones|Acciones (Español)]]"
----
-
 # Actions
 
 When you do something other than moving or communicating, you typically take an action. The Action table lists the game's main actions, which are defined in more detail in "Rules Glossary."

@@ -1,9 +1,3 @@
----
-aliases: ["Xorn"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Xorn|Xorn (EN)]]"
----
-
 # Xorn
 
 *Elemental Mediano, neutral*

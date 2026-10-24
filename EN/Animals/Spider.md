@@ -1,9 +1,3 @@
----
-aliases: ["Spider"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Arana|Araña (Español)]]"
----
-
 ## Spider
 
 *Tiny Beast, Unaligned*

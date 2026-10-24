@@ -1,9 +1,3 @@
----
-aliases: ["Rod of Absorption"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaraDeLaAbsorcion]]"
----
-
 # Rod of Absorption
 
 _Rod, Very Rare (Requires Attunement)_

@@ -1,9 +1,3 @@
----
-aliases: ["Pasamuros", "Passwall"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Passwall|Passwall (EN)]]"
----
-
 # Pasamuros
 
 *Transmutación de nivel 5 (mago)*

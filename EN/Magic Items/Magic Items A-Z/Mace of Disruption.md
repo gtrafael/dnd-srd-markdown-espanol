@@ -1,9 +1,3 @@
----
-aliases: ["Mace of Disruption"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MazaDisruptiva|Maza disruptiva (Español)]]"
----
-
 ### Mace of Disruption
 
 *Weapon (Mace), Rare (Requires Attunement)*

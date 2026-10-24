@@ -1,9 +1,3 @@
----
-aliases: ["Well of Many Worlds"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PozoDeLosMuchosMundos|Pozo de los muchos mundos (Español)]]"
----
-
 ### Well of Many Worlds
 
 *Wondrous Item, Legendary*

@@ -1,9 +1,3 @@
----
-aliases: ["Flaming Sphere"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EsferaDeLlamas|Esfera de llamas (Español)]]"
----
-
 ### Flaming Sphere
 
 *Level 2 Conjuration* (Druid, Sorcerer, Wizard)

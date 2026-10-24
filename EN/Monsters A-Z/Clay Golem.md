@@ -1,9 +1,3 @@
----
-aliases: ["Clay Golem"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GolemDeArcilla|Gólem de arcilla (Español)]]"
----
-
 ## Clay Golem
 
 *Large Construct, Unaligned*

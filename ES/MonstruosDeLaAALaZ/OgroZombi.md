@@ -1,9 +1,3 @@
----
-aliases: ["Ogro zombi", "Ogre Zombie"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Ogre Zombie|Ogre Zombie (EN)]]"
----
-
 # Ogro zombi
 
 *Muerto viviente Grande, neutral malvado*

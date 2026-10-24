@@ -1,9 +1,3 @@
----
-aliases: ["Zombie"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Zombi|Zombi (Español)]]"
----
-
 ## Zombie
 
 *Medium Undead, Neutral Evil*

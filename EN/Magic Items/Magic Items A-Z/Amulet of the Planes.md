@@ -1,9 +1,3 @@
----
-aliases: ["Amulet of the Planes"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AmuletoDeLosPlanos|Amuleto de los planos (Español)]]"
----
-
 ### Amulet of the Planes
 
 *Wondrous Item, Very Rare (Requires Attunement)*

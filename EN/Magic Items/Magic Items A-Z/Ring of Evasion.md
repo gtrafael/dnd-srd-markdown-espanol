@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Evasion"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeEvasion]]"
----
-
 # Ring of Evasion
 
 _Ring, Rare (Requires Attunement)_

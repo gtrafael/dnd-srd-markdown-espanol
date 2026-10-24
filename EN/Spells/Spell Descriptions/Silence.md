@@ -1,9 +1,3 @@
----
-aliases: ["Silence"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Silencio|Silencio (Español)]]"
----
-
 ### Silence
 
 *Level 2 Illusion* (Bard, Cleric, Ranger)

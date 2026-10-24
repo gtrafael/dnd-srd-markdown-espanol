@@ -1,9 +1,3 @@
----
-aliases: ["Aspectos animales", "Animal Shapes"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Animal Shapes|Animal Shapes (EN)]]"
----
-
 # Aspectos animales
 
 *Transmutación de nivel 8 (druida)*

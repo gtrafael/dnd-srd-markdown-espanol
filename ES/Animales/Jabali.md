@@ -1,9 +1,3 @@
----
-aliases: ["Jabalí", "Boar"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Boar|Boar (EN)]]"
----
-
 # Jabalí
 
 *Bestia Mediana, sin alineamiento*

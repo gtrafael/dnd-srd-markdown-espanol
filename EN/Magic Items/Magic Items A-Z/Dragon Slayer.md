@@ -1,9 +1,3 @@
----
-aliases: ["Dragon Slayer"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/Matadragones|Matadragones (Español)]]"
----
-
 ### Dragon Slayer
 
 *Weapon (Any Simple or Martial), Rare*

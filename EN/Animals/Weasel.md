@@ -1,9 +1,3 @@
----
-aliases: ["Weasel"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Comadreja|Comadreja (Español)]]"
----
-
 ## Weasel
 
 *Tiny Beast, Unaligned*

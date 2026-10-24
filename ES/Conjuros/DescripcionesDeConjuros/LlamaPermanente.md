@@ -1,9 +1,3 @@
----
-aliases: ["Llama permanente", "Continual Flame"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Continual Flame|Continual Flame (EN)]]"
----
-
 # Llama permanente
 
 *Evocación de nivel 2 (clérigo, druida, mago)*

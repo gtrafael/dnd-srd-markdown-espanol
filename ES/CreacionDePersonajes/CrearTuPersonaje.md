@@ -1,9 +1,3 @@
----
-aliases: ["Crear tu personaje"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Creation/Create Your Character|Create Your Character (EN)]]"
----
-
 # Crear tu personaje
 
 Aquí tienes los pasos para crear un personaje, en los que profundizaremos en este capítulo:

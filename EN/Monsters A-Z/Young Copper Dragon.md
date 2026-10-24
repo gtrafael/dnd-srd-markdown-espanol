@@ -1,9 +1,3 @@
----
-aliases: ["Young Copper Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonDeCobreJoven|Dragón de cobre joven (Español)]]"
----
-
 ## Young Copper Dragon
 
 *Large Dragon (Metallic), Chaotic Good*

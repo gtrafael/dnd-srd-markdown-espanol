@@ -1,9 +1,3 @@
----
-aliases: ["Cetro de mando"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Rod of Rulership]]"
----
-
 # Cetro de mando
 
 *Vara, rara (requiere sintonización)*

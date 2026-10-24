@@ -1,9 +1,3 @@
----
-aliases: ["Talisman of the Sphere"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TalismanDeLaEsfera|Talismán de la esfera (Español)]]"
----
-
 ### Talisman of the Sphere
 
 *Wondrous Item, Legendary (Requires Attunement)*

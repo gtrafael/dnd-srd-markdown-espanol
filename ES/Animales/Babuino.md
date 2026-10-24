@@ -1,9 +1,3 @@
----
-aliases: ["Babuino", "Baboon"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Baboon|Baboon (EN)]]"
----
-
 # Babuino
 
 *Bestia Pequeña, sin alineamiento*

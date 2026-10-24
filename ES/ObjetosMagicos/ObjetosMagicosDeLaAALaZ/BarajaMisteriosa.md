@@ -1,9 +1,3 @@
----
-aliases: ["Baraja misteriosa", "Mysterious Deck"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Mysterious Deck|Mysterious Deck (EN)]]"
----
-
 # Baraja misteriosa
 
 *Objeto maravilloso, legendario*

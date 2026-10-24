@@ -1,9 +1,3 @@
----
-aliases: ["Yelmo de fulgor", "Helm of Brilliance"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Helm of Brilliance|Helm of Brilliance (EN)]]"
----
-
 # Yelmo de fulgor
 
 *Objeto maravilloso, muy raro (requiere sintonización)*

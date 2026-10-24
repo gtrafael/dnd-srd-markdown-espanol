@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Resistance"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeResistencia]]"
----
-
 # Ring of Resistance
 
 _Ring, Rare_

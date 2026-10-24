@@ -1,9 +1,3 @@
----
-aliases: ["Abanico del viento", "Wind Fan"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Wind Fan|Wind Fan (EN)]]"
----
-
 # Abanico del viento
 
 *Objeto maravilloso, infrecuente*

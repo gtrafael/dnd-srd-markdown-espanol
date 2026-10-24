@@ -1,9 +1,3 @@
----
-aliases: ["Staff of Power"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDePoder]]"
----
-
 # Staff of Power
 
 _Staff, Very Rare (Requires Attunement by a Sorcerer, Warlock, or Wizard)_

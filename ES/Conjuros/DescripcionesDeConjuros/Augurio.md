@@ -1,9 +1,3 @@
----
-aliases: ["Augurio", "Augury"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Augury|Augury (EN)]]"
----
-
 # Augurio
 
 *Adivinación de nivel 2 (clérigo, druida, mago)*

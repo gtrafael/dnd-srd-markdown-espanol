@@ -1,9 +1,3 @@
----
-aliases: ["Palabra divina", "Divine Word"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Divine Word|Divine Word (EN)]]"
----
-
 # Palabra divina
 
 *Evocación de nivel 7 (clérigo)*

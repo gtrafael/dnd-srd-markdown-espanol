@@ -1,9 +1,3 @@
----
-aliases: ["Visión veraz", "True Seeing"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/True Seeing|True Seeing (EN)]]"
----
-
 # Visión veraz
 
 *Adivinación de nivel 6 (bardo, brujo, clérigo, hechicero, mago)*

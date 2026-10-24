@@ -1,9 +1,3 @@
----
-aliases: ["Cockatrice"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Cocatriz|Cocatriz (Español)]]"
----
-
 ## Cockatrice
 
 *Small Monstrosity, Unaligned*

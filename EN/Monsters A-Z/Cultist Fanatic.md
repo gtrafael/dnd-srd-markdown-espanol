@@ -1,9 +1,3 @@
----
-aliases: ["Cultist Fanatic"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/FanaticoSectario|Fanático sectario (Español)]]"
----
-
 ## Cultist Fanatic
 
 *Medium or Small Humanoid, Neutral*

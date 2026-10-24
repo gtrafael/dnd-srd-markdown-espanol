@@ -1,9 +1,3 @@
----
-aliases: ["Levantar maldición", "Remove Curse"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Remove Curse|Remove Curse (EN)]]"
----
-
 # Levantar maldición
 
 *Abjuración de nivel 3 (brujo, clérigo, mago, paladín)*

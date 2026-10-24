@@ -1,9 +1,3 @@
----
-aliases: ["Detectar pensamientos", "Detect Thoughts"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Detect Thoughts|Detect Thoughts (EN)]]"
----
-
 # Detectar pensamientos
 
 *Adivinación de nivel 2 (bardo, hechicero, mago)*

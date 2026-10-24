@@ -1,9 +1,3 @@
----
-aliases: ["Nine Lives Stealer"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/LadronaDeNueveVidas|Ladrona de nueve vidas (Español)]]"
----
-
 ### Nine Lives Stealer
 
 *Weapon (Any Simple or Martial), Very Rare (Requires*

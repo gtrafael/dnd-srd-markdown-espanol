@@ -1,9 +1,3 @@
----
-aliases: ["Armadura de vulnerabilidad"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Armor of Vulnerability]]"
----
-
 # Armadura de vulnerabilidad
 
 *Armadura (ligera, media o pesada), rara (requiere sintonización)*

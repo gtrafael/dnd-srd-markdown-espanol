@@ -1,9 +1,3 @@
----
-aliases: ["Swarm of Piranhas"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/EnjambreDePiranas|Enjambre de pirañas (Español)]]"
----
-
 ## Swarm of Piranhas
 
 *Medium Swarm of Tiny Beasts, Unaligned*

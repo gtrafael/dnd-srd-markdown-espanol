@@ -1,9 +1,3 @@
----
-aliases: ["Abalorio de nutrición", "Bead of Nourishment"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Bead of Nourishment|Bead of Nourishment (EN)]]"
----
-
 # Abalorio de nutrición
 
 *Objeto maravilloso, común*

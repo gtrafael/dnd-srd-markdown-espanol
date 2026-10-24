@@ -1,9 +1,3 @@
----
-aliases: ["Arma de advertencia"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Weapon of Warning|Weapon of Warning (EN)]]"
----
-
 # Arma de advertencia
 
 *Arma (cualquiera sencilla o marcial), infrecuente (requiere sintonización)*

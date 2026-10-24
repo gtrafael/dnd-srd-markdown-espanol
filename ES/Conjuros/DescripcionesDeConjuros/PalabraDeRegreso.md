@@ -1,9 +1,3 @@
----
-aliases: ["Palabra de regreso", "Word of Recall"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Word of Recall|Word of Recall (EN)]]"
----
-
 # Palabra de regreso
 
 *Conjuración de nivel 6 (clérigo)*

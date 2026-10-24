@@ -1,9 +1,3 @@
----
-aliases: ["Infligir heridas", "Inflict Wounds"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Inflict Wounds|Inflict Wounds (EN)]]"
----
-
 # Infligir heridas
 
 *Nigromancia de nivel 1 (clérigo)*

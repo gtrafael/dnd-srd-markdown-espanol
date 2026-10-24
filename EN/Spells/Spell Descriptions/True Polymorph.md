@@ -1,9 +1,3 @@
----
-aliases: ["True Polymorph"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PolimorfarVerdadero|Polimorfar verdadero (Español)]]"
----
-
 ### True Polymorph
 
 *Level 9 Transmutation* (Bard, Warlock, Wizard)

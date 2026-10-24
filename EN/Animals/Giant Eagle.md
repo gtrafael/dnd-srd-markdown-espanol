@@ -1,9 +1,3 @@
----
-aliases: ["Giant Eagle"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/AguilaGigante|Águila gigante (Español)]]"
----
-
 ## Giant Eagle
 
 *Large Celestial, Neutral Good*

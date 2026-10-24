@@ -1,9 +1,3 @@
----
-aliases: ["Bardo", "Bard"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Bard|Bard (EN)]]"
----
-
 # Bardo
 
 Atributos básicos de bardo

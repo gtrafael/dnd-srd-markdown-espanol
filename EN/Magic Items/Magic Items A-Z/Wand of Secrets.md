@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Secrets"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeSecretos|Wand of Secrets (Español)]]"
----
-
 # Wand of Secrets
 
 _Wand, Uncommon_

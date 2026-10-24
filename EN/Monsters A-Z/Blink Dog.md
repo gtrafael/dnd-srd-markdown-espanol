@@ -1,9 +1,3 @@
----
-aliases: ["Blink Dog"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/PerroIntermitente|Perro intermitente (Español)]]"
----
-
 ## Blink Dog
 
 *Medium Fey, Lawful Good*

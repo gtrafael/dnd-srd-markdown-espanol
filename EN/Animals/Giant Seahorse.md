@@ -1,9 +1,3 @@
----
-aliases: ["Giant Seahorse"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/CaballitoDeMarGigante|Caballito de mar gigante (Español)]]"
----
-
 ## Giant Seahorse
 
 *Large Beast, Unaligned*

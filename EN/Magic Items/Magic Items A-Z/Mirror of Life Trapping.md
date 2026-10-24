@@ -1,9 +1,3 @@
----
-aliases: ["Mirror of Life Trapping"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspejoAtrapavidas|Espejo atrapavidas (Español)]]"
----
-
 ### Mirror of Life Trapping
 
 *Wondrous Item, Very Rare*

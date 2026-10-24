@@ -1,9 +1,3 @@
----
-aliases: ["Aura de vida", "Aura of Life"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Aura of Life|Aura of Life (EN)]]"
----
-
 # Aura de vida
 
 *Abjuración de nivel 4 (clérigo, paladín)*

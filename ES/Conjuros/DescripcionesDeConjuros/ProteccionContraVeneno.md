@@ -1,9 +1,3 @@
----
-aliases: ["Protección contra veneno", "Protection from Poison"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Protection from Poison|Protection from Poison (EN)]]"
----
-
 # Protección contra veneno
 
 *Abjuración de nivel 2 (clérigo, druida, explorador, paladín)*

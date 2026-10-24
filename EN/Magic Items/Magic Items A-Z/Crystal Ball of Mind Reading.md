@@ -1,9 +1,3 @@
----
-aliases: ["Crystal Ball of Mind Reading"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolaDeCristalDeLeerMentes|Bola de cristal de leer mentes (Español)]]"
----
-
 ### Crystal Ball of Mind Reading
 
 *Wondrous Item, Legendary (Requires Attunement)*

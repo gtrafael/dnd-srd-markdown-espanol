@@ -1,9 +1,3 @@
----
-aliases: ["Bag of Tricks"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeTrucos|Bolsa de trucos (Español)]]"
----
-
 ### Bag of Tricks
 
 _Wondrous Item, Uncommon_

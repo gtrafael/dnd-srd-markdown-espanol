@@ -1,9 +1,3 @@
----
-aliases: ["Clavo mental", "Mind Spike"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mind Spike|Mind Spike (EN)]]"
----
-
 # Clavo mental
 
 *Adivinación de nivel 2 (brujo, hechicero, mago)*

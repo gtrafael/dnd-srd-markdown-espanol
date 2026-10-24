@@ -1,9 +1,3 @@
----
-aliases: ["Helm of Comprehending Languages"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/YelmoDeEntenderIdiomas|Yelmo de entender idiomas (Español)]]"
----
-
 ### Helm of Comprehending Languages
 
 *Wondrous Item, Uncommon*

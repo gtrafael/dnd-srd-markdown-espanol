@@ -1,9 +1,3 @@
----
-aliases: ["Adult Blue Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonAzulAdulto|Dragón azul adulto (Español)]]"
----
-
 ## Adult Blue Dragon
 
 *Huge Dragon (Chromatic), Lawful Evil*

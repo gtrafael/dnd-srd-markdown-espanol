@@ -1,9 +1,3 @@
----
-aliases: ["Simio gigante", "Giant Ape"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Ape|Giant Ape (EN)]]"
----
-
 # Simio gigante
 
 *Bestia Enorme, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Caída de pluma", "Feather Fall"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Feather Fall|Feather Fall (EN)]]"
----
-
 # Caída de pluma
 
 *Transmutación de nivel 1 (bardo, hechicero, mago)*

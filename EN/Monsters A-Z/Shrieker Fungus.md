@@ -1,9 +1,3 @@
----
-aliases: ["Shrieker Fungus"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/HongoChillon|Hongo chillón (Español)]]"
----
-
 ## Shrieker Fungus
 
 *Medium Plant, Unaligned*

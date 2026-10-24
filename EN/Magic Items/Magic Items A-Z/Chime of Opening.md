@@ -1,9 +1,3 @@
----
-aliases: ["Chime of Opening"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CarillonDeApertura|Carillón de apertura (Español)]]"
----
-
 ### Chime of Opening
 
 *Wondrous Item, Rare*

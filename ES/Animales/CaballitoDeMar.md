@@ -1,9 +1,3 @@
----
-aliases: ["Caballito de mar", "Seahorse"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Seahorse|Seahorse (EN)]]"
----
-
 # Caballito de mar
 
 *Bestia Diminuta, sin alineamiento*

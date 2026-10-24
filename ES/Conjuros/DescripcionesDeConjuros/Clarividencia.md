@@ -1,9 +1,3 @@
----
-aliases: ["Clarividencia", "Clairvoyance"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Clairvoyance|Clairvoyance (EN)]]"
----
-
 # Clarividencia
 
 *Adivinación de nivel 3 (bardo, clérigo, hechicero, mago)*

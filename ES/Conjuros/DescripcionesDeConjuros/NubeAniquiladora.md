@@ -1,9 +1,3 @@
----
-aliases: ["Nube aniquiladora", "Cloudkill"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Cloudkill|Cloudkill (EN)]]"
----
-
 # Nube aniquiladora
 
 *Conjuración de nivel 5 (hechicero, mago)*

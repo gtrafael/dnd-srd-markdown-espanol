@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Binding"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeAtadura|Wand of Binding (Español)]]"
----
-
 # Wand of Binding
 
 _Wand, Rare (Requires Attunement)_

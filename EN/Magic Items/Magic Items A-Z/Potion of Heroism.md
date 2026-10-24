@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Heroism"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeHeroismo]]"
----
-
 # Potion of Heroism
 
 _Potion, Rare_

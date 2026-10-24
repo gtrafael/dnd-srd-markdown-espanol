@@ -1,9 +1,3 @@
----
-aliases: ["Killer Whale"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Orca|Orca (Español)]]"
----
-
 ## Killer Whale
 
 *Huge Beast, Unaligned*

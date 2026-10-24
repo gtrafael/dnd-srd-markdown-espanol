@@ -1,9 +1,3 @@
----
-aliases: ["Ring of X-ray Vision"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeVisionDeRayosX]]"
----
-
 # Ring of X-ray Vision
 
 _Ring, Rare (Requires Attunement)_

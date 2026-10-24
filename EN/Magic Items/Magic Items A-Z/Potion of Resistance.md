@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Resistance"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeResistencia]]"
----
-
 # Potion of Resistance
 
 _Potion, Uncommon_

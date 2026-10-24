@@ -1,9 +1,3 @@
----
-aliases: ["Sirénido", "Experto en escaramuzas sirénido", "Merfolk Skirmisher"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/ExpertoEnEscaramuzasSirenido|Sirénido (Español)]]"
----
-
 ## Merfolk Skirmisher
 
 *Medium Elemental, Neutral*

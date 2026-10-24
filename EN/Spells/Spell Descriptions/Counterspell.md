@@ -1,9 +1,3 @@
----
-aliases: ["Counterspell"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Contrahechizo|Contrahechizo (Español)]]"
----
-
 ### Counterspell
 
 *Level 3 Abjuration* (Sorcerer, Warlock, Wizard)

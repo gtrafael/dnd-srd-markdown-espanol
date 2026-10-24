@@ -1,9 +1,3 @@
----
-aliases: ["Rayo solar", "Sunbeam"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Sunbeam|Sunbeam (EN)]]"
----
-
 # Rayo solar
 
 *Evocación de nivel 6 (clérigo, druida, hechicero, mago)*

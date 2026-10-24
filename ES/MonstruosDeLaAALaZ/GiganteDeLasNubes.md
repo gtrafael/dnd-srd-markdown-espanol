@@ -1,9 +1,3 @@
----
-aliases: ["Gigante de las nubes", "Cloud Giant"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Cloud Giant|Cloud Giant (EN)]]"
----
-
 # Gigante de las nubes
 
 *Gigante Enorme, neutral*

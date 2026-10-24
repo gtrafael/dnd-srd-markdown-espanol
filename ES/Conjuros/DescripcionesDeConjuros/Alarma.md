@@ -1,9 +1,3 @@
----
-aliases: ["Alarma", "Alarm"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Alarm|Alarm (EN)]]"
----
-
 # Alarma
 
 *Abjuración de nivel 1 (explorador, mago)*

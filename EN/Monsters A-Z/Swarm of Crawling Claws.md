@@ -1,9 +1,3 @@
----
-aliases: ["Swarm of Crawling Claws"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/EnjambreDeGarrasReptantes|Enjambre de garras reptantes (Español)]]"
----
-
 ## Swarm of Crawling Claws
 
 *Medium Swarm of Tiny Undead, Neutral Evil*

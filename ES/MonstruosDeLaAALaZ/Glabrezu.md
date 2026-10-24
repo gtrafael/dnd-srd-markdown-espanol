@@ -1,9 +1,3 @@
----
-aliases: ["Glabrezu"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Glabrezu|Glabrezu (EN)]]"
----
-
 # Glabrezu
 
 *Infernal Grande (demonio), caótico malvado*

@@ -1,9 +1,3 @@
----
-aliases: ["Slippers of Spider Climbing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BabuchasDeTreparCualAracnido|Babuchas de trepar cual arácnido (Español)]]"
----
-
 ### Slippers of Spider Climbing
 
 *Wondrous Item, Uncommon (Requires Attunement)*

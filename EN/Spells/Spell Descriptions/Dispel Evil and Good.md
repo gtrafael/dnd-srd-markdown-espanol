@@ -1,9 +1,3 @@
----
-aliases: ["Dispel Evil and Good"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/DisiparElBienYElMal|Disipar el bien y el mal (Español)]]"
----
-
 ### Dispel Evil and Good
 
 *Level 5 Abjuration* (Cleric, Paladin)

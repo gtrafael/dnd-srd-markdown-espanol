@@ -1,9 +1,3 @@
----
-aliases: ["Robe of the Archmagi"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TunicaDelArchimago|Túnica del archimago (Español)]]"
----
-
 ### Robe of the Archmagi
 
 *Wondrous Item, Legendary (Requires Attunement by a*

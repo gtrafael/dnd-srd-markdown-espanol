@@ -1,9 +1,3 @@
----
-aliases: ["Bracers of Defense"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BrazalesDeDefensa|Brazales de defensa (Español)]]"
----
-
 ### Bracers of Defense
 
 *Wondrous Item, Rare (Requires Attunement)*

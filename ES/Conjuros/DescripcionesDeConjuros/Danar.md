@@ -1,9 +1,3 @@
----
-aliases: ["Dañar", "Harm"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Harm|Harm (EN)]]"
----
-
 # Dañar
 
 *Nigromancia de nivel 6 (clérigo)*

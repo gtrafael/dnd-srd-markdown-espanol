@@ -1,9 +1,3 @@
----
-aliases: ["Levitate"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Levitar|Levitar (Español)]]"
----
-
 ### Levitate
 
 *Level 2 Transmutation* (Sorcerer, Wizard)

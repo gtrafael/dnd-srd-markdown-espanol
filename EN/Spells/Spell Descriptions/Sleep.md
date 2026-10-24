@@ -1,9 +1,3 @@
----
-aliases: ["Sleep"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Dormir|Dormir (Español)]]"
----
-
 ### Sleep
 
 *Level 1 Enchantment* (Bard, Sorcerer, Wizard)

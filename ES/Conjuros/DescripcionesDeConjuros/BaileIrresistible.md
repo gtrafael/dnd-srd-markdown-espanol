@@ -1,9 +1,3 @@
----
-aliases: ["Baile irresistible", "Irresistible Dance"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Irresistible Dance|Irresistible Dance (EN)]]"
----
-
 # Baile irresistible
 
 *Encantamiento de nivel 6 (bardo, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Word of Recall"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PalabraDeRegreso|Palabra de regreso (Español)]]"
----
-
 ### Word of Recall
 
 *Level 6 Conjuration* (Cleric)

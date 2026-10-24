@@ -1,9 +1,3 @@
----
-aliases: ["Rope of Climbing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CuerdaDeEscalada|Cuerda de escalada (Español)]]"
----
-
 ### Rope of Climbing
 
 *Wondrous Item, Uncommon*

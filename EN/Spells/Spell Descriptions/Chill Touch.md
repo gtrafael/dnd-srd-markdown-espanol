@@ -1,9 +1,3 @@
----
-aliases: ["Chill Touch"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ToqueHelado|Toque helado (Español)]]"
----
-
 ### Chill Touch
 
 *Necromancy Cantrip* (Sorcerer, Warlock, Wizard)

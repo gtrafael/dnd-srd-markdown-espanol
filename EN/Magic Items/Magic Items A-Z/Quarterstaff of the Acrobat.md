@@ -1,9 +1,3 @@
----
-aliases: ["Quarterstaff of the Acrobat"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeAcrobata]]"
----
-
 # Quarterstaff of the Acrobat
 
 _Weapon (Quarterstaff), Very Rare (Requires Attunement)_

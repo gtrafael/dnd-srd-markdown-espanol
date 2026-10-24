@@ -1,9 +1,3 @@
----
-aliases: ["Hipogrifo", "Hippogriff"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Hippogriff|Hippogriff (EN)]]"
----
-
 # Hipogrifo
 
 *Monstruosidad Grande, sin alineamiento*

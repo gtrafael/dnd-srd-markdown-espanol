@@ -1,9 +1,3 @@
----
-aliases: ["Encontrar el camino", "Find the Path"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Find the Path|Find the Path (EN)]]"
----
-
 # Encontrar el camino
 
 *Adivinación de nivel 6 (bardo, clérigo, druida)*

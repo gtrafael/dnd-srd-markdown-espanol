@@ -1,9 +1,3 @@
----
-aliases: ["Wall of Force"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/MuroDeFuerza|Muro de fuerza (Español)]]"
----
-
 ### Wall of Force
 
 *Level 5 Evocation* (Wizard)

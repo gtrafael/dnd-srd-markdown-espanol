@@ -1,9 +1,3 @@
----
-aliases: ["Insecto gigante", "Giant Insect"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Giant Insect|Giant Insect (EN)]]"
----
-
 # Insecto gigante
 
 *Conjuración de nivel 4 (druida)*

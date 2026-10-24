@@ -1,9 +1,3 @@
----
-aliases: ["Nube apestosa", "Stinking Cloud"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Stinking Cloud|Stinking Cloud (EN)]]"
----
-
 # Nube apestosa
 
 *Conjuración de nivel 3 (bardo, hechicero, mago)*

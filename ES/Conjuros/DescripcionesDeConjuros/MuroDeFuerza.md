@@ -1,9 +1,3 @@
----
-aliases: ["Muro de fuerza", "Wall of Force"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Wall of Force|Wall of Force (EN)]]"
----
-
 # Muro de fuerza
 
 *Evocación de nivel 5 (mago)*

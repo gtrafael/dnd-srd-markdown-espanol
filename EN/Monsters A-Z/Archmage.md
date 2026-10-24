@@ -1,9 +1,3 @@
----
-aliases: ["Archmage"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Archimago|Archimago (Español)]]"
----
-
 ## Archmage
 
 *Medium or Small Humanoid (Wizard), Neutral*

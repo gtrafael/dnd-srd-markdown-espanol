@@ -1,9 +1,3 @@
----
-aliases: ["Spy"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Espia|Espía (Español)]]"
----
-
 ## Spy
 
 *Medium or Small Humanoid, Neutral*

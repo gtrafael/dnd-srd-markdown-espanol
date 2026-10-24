@@ -1,9 +1,3 @@
----
-aliases: ["Giant Boar"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/JabaliGigante|Jabalí gigante (Español)]]"
----
-
 ## Giant Boar
 
 *Large Beast, Unaligned*

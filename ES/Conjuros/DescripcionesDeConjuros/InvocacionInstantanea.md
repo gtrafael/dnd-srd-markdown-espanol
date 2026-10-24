@@ -1,9 +1,3 @@
----
-aliases: ["Invocación instantánea", "Instant Summons"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Instant Summons|Instant Summons (EN)]]"
----
-
 # Invocación instantánea
 
 *Conjuración de nivel 6 (mago)*

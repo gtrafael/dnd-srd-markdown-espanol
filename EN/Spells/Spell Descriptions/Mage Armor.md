@@ -1,9 +1,3 @@
----
-aliases: ["Mage Armor"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ArmaduraDeMago|Armadura de mago (Español)]]"
----
-
 ### Mage Armor
 
 *Level 1 Abjuration* (Sorcerer, Wizard)

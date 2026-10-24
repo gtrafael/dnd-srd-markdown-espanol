@@ -1,9 +1,3 @@
----
-aliases: ["Manto de resistencia a conjuros", "Mantle of Spell Resistance"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Mantle of Spell Resistance|Mantle of Spell Resistance (EN)]]"
----
-
 # Manto de resistencia a conjuros
 
 *Objeto maravilloso, raro (requiere sintonización)*

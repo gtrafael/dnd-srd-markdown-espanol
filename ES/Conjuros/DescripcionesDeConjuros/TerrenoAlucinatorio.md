@@ -1,9 +1,3 @@
----
-aliases: ["Terreno alucinatorio", "Hallucinatory Terrain"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Hallucinatory Terrain|Hallucinatory Terrain (EN)]]"
----
-
 # Terreno alucinatorio
 
 *Ilusionismo de nivel 4 (bardo, brujo, druida, mago)*

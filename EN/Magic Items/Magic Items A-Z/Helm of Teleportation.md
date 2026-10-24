@@ -1,9 +1,3 @@
----
-aliases: ["Helm of Teleportation"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/YelmoDeTeletransporte|Yelmo de teletransporte (Español)]]"
----
-
 ### Helm of Teleportation
 
 *Wondrous Item, Rare (Requires Attunement)*

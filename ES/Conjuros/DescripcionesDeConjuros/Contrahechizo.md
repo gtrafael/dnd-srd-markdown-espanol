@@ -1,9 +1,3 @@
----
-aliases: ["Contrahechizo", "Counterspell"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Counterspell|Counterspell (EN)]]"
----
-
 # Contrahechizo
 
 *Abjuración de nivel 3 (brujo, hechicero, mago)*

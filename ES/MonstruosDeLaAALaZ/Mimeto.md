@@ -1,9 +1,3 @@
----
-aliases: ["Mimeto", "Mimic"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Mimic|Mimic (EN)]]"
----
-
 # Mimeto
 
 *Monstruosidad Mediana, neutral*

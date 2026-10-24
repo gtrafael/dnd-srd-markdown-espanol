@@ -1,9 +1,3 @@
----
-aliases: ["Ettin"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Ettin|Ettin (EN)]]"
----
-
 # Ettin
 
 *Gigante Grande, caótico malvado*

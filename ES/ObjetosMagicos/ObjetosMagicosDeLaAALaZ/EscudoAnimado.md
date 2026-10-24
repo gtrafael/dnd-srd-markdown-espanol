@@ -1,9 +1,3 @@
----
-aliases: ["Escudo animado", "Animated Shield"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Animated Shield|Animated Shield (EN)]]"
----
-
 # Escudo animado
 
 *Armadura (escudo), muy rara (requiere sintonización)*

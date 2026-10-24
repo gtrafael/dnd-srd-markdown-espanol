@@ -1,9 +1,3 @@
----
-aliases: ["Hezrou"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Hezrou|Hezrou (Español)]]"
----
-
 ## Hezrou
 
 *Large Fiend (Demon), Chaotic Evil*

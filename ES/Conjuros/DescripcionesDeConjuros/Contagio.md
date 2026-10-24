@@ -1,9 +1,3 @@
----
-aliases: ["Contagio", "Contagion"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Contagion|Contagion (EN)]]"
----
-
 # Contagio
 
 *Nigromancia de nivel 5 (clérigo, druida)*

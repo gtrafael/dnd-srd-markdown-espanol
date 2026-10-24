@@ -1,9 +1,3 @@
----
-aliases: ["Amuleto de los planos", "Amulet of the Planes"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Amulet of the Planes|Amulet of the Planes (EN)]]"
----
-
 # Amuleto de los planos
 
 *Objeto maravilloso, muy raro (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Project Image"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ProyectarImagen|Proyectar imagen (Español)]]"
----
-
 ### Project Image
 
 *Level 7 Illusion* (Bard, Wizard)

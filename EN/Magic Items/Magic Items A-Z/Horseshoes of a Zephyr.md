@@ -1,9 +1,3 @@
----
-aliases: ["Horseshoes of a Zephyr"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/HerradurasDelCefiro|Herraduras del céfiro (Español)]]"
----
-
 ### Horseshoes of a Zephyr
 
 *Wondrous Item, Very Rare*

@@ -1,9 +1,3 @@
----
-aliases: ["Cangrejo", "Crab"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Crab|Crab (EN)]]"
----
-
 # Cangrejo
 
 *Bestia Diminuta, sin alineamiento*

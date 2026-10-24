@@ -1,9 +1,3 @@
----
-aliases: ["Power Word Heal"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PalabraDePoderSanar|Palabra de poder_ sanar (Español)]]"
----
-
 ### Power Word Heal
 
 *Level 9 Enchantment* (Bard, Cleric)

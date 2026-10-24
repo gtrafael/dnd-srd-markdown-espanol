@@ -1,9 +1,3 @@
----
-aliases: ["Cursed Items"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMalditos|Objetos malditos (Español)]]"
----
-
 # Cursed Items
 
 A magic item's description specifies whether it bears a curse. Most methods of identifying items, including the _Identify_ spell, fail to reveal such a curse.

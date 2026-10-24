@@ -1,9 +1,3 @@
----
-aliases: ["Decanter of Endless Water"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/DecantadorDeAguaInterminable|Decantador de agua interminable (Español)]]"
----
-
 ### Decanter of Endless Water
 
 *Wondrous Item, Uncommon*

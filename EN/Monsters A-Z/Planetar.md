@@ -1,9 +1,3 @@
----
-aliases: ["Planetar"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Planetar|Planetar (Español)]]"
----
-
 ## Planetar
 
 *Large Celestial (Angel), Lawful Good*

@@ -1,9 +1,3 @@
----
-aliases: ["Ilusión menor", "Minor Illusion"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Minor Illusion|Minor Illusion (EN)]]"
----
-
 # Ilusión menor
 
 *Truco de ilusionismo (bardo, brujo, hechicero, mago)*

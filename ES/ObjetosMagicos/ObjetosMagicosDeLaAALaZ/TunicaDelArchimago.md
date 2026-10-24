@@ -1,9 +1,3 @@
----
-aliases: ["Túnica del archimago", "Robe of the Archmagi"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Robe of the Archmagi|Robe of the Archmagi (EN)]]"
----
-
 # Túnica del archimago
 
 *Objeto maravilloso, legendario (requiere sintonización por parte de un brujo, hechicero o mago)*

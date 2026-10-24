@@ -1,9 +1,3 @@
----
-aliases: ["Dominate Person"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/DominarPersona|Dominar persona (Español)]]"
----
-
 ### Dominate Person
 
 *Level 5 Enchantment* (Bard, Sorcerer, Wizard)

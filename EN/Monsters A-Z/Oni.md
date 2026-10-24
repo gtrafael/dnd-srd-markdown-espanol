@@ -1,9 +1,3 @@
----
-aliases: ["Oni"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Oni|Oni (Español)]]"
----
-
 ## Oni
 
 *Large Fiend, Lawful Evil*

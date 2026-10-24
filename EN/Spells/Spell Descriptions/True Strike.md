@@ -1,9 +1,3 @@
----
-aliases: ["True Strike"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ImpactoCertero|Impacto certero (Español)]]"
----
-
 ### True Strike
 
 *Divination Cantrip* (Bard, Sorcerer, Warlock, Wizard)

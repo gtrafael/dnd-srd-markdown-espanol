@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de influencia animal"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Animal Influence]]"
----
-
 # Anillo de influencia animal
 
 *Anillo, raro*

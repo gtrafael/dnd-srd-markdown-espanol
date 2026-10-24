@@ -1,9 +1,3 @@
----
-aliases: ["Fantasma", "Ghost"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Ghost|Ghost (EN)]]"
----
-
 # Fantasma
 
 *Muerto viviente Mediano, neutral*

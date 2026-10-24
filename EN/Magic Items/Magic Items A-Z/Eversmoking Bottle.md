@@ -1,9 +1,3 @@
----
-aliases: ["Eversmoking Bottle"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotellaSiemprehumeante|Botella siemprehumeante (Español)]]"
----
-
 ### Eversmoking Bottle
 
 *Wondrous Item, Uncommon*

@@ -1,9 +1,3 @@
----
-aliases: ["Deva"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Deva|Deva (Español)]]"
----
-
 ## Deva
 
 *Medium Celestial (Angel), Lawful Good*

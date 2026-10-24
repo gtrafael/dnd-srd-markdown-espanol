@@ -1,9 +1,3 @@
----
-aliases: ["Fighter"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Guerrero|Guerrero (Español)]]"
----
-
 # Fighter
 
 ## Core Fighter Traits

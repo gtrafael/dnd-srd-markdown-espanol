@@ -1,9 +1,3 @@
----
-aliases: ["Plesiosaurio", "Plesiosaurus"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Plesiosaurus|Plesiosaurus (EN)]]"
----
-
 # Plesiosaurio
 
 *Bestia Grande (dinosaurio), sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Anteojos de la noche", "Goggles of Night"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Goggles of Night|Goggles of Night (EN)]]"
----
-
 # Anteojos de la noche
 
 *Objeto maravilloso, infrecuente*

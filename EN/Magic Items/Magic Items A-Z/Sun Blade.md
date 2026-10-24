@@ -1,9 +1,3 @@
----
-aliases: ["Sun Blade"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EspadaSolar|Espada solar (Español)]]"
----
-
 # Sun Blade
 
 _Weapon (Longsword), Rare (Requires Attunement)_

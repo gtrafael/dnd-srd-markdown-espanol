@@ -1,9 +1,3 @@
----
-aliases: ["Agrandar_reducir", "Enlarge-Reduce"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Enlarge-Reduce|Enlarge-Reduce (EN)]]"
----
-
 # Agrandar/reducir
 
 *Transmutación de nivel 2 (bardo, druida, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Wight"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Tumulario|Tumulario (Español)]]"
----
-
 ## Wight
 
 *Medium Undead, Neutral Evil*

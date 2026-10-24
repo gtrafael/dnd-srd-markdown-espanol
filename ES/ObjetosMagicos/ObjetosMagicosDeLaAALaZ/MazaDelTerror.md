@@ -1,9 +1,3 @@
----
-aliases: ["Maza del terror", "Mace of Terror"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Mace of Terror|Mace of Terror (EN)]]"
----
-
 # Maza del terror
 
 *Arma (maza), rara (requiere sintonización)*

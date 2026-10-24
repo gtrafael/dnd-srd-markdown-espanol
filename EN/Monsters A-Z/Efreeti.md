@@ -1,9 +1,3 @@
----
-aliases: ["Efreeti"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Ifrit|Ifrit (Español)]]"
----
-
 ## Efreeti
 
 *Large Elemental (Genie), Neutral*

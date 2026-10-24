@@ -1,9 +1,3 @@
----
-aliases: ["Halcón", "Hawk"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Hawk|Hawk (EN)]]"
----
-
 # Halcón
 
 *Bestia Diminuta, sin alineamiento*

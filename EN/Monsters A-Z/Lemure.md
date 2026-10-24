@@ -1,9 +1,3 @@
----
-aliases: ["Lemure"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Lemur|Lémur (Español)]]"
----
-
 ## Lemure
 
 *Medium Fiend (Devil), Lawful Evil*

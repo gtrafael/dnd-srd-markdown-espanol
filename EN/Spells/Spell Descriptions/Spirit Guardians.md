@@ -1,9 +1,3 @@
----
-aliases: ["Spirit Guardians"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EspiritusGuardianes|Espíritus guardianes (Español)]]"
----
-
 ### Spirit Guardians
 
 *Level 3 Conjuration* (Cleric)

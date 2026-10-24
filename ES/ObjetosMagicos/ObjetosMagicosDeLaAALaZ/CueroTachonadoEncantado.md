@@ -1,9 +1,3 @@
----
-aliases: ["Cuero tachonado encantado", "Glamoured Studded Leather"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Glamoured Studded Leather|Glamoured Studded Leather (EN)]]"
----
-
 # Cuero tachonado encantado
 
 *Armadura (armadura de cuero tachonado), rara*

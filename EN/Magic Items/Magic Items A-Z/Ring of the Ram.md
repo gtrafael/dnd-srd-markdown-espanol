@@ -1,9 +1,3 @@
----
-aliases: ["Ring of the Ram"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDelCarnero]]"
----
-
 # Ring of the Ram
 
 _Ring, Rare (Requires Attunement)_

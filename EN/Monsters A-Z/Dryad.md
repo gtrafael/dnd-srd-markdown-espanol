@@ -1,9 +1,3 @@
----
-aliases: ["Dryad"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Driade|Dríade (Español)]]"
----
-
 ## Dryad
 
 *Medium Fey, Neutral*

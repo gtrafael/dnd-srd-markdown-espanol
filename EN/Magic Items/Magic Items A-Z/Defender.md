@@ -1,9 +1,3 @@
----
-aliases: ["Defender"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/Defensora|Defensora (Español)]]"
----
-
 ### Defender
 
 *Weapon (Any Melee Weapon), Legendary (Requires*

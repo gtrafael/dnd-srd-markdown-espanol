@@ -1,9 +1,3 @@
----
-aliases: ["Knock"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Abrir|Abrir (Español)]]"
----
-
 ### Knock
 
 *Level 2 Transmutation* (Bard, Sorcerer, Wizard)

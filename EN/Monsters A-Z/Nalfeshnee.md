@@ -1,9 +1,3 @@
----
-aliases: ["Nalfeshnee"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Nalfeshnee|Nalfeshnee (Español)]]"
----
-
 ## Nalfeshnee
 
 *Large Fiend (Demon), Chaotic Evil*

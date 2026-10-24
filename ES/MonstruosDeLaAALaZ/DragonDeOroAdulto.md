@@ -1,9 +1,3 @@
----
-aliases: ["Dragón de oro adulto", "Adult Gold Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Adult Gold Dragon|Adult Gold Dragon (EN)]]"
----
-
 # Dragón de oro adulto
 
 *Dragón Enorme (metálico), legal bueno*

@@ -1,9 +1,3 @@
----
-aliases: ["Gloves of Swimming and Climbing"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GuantesDeNatacionYEscalada|Guantes de natación y escalada (Español)]]"
----
-
 ### Gloves of Swimming and Climbing
 
 *Wondrous Item, Uncommon (Requires Attunement)*

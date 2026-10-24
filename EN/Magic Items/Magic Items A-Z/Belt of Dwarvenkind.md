@@ -1,9 +1,3 @@
----
-aliases: ["Belt of Dwarvenkind"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CinturonEnano|Cinturón enano (Español)]]"
----
-
 # Belt of Dwarvenkind
 
 _Wondrous Item, Rare (Requires Attunement)_

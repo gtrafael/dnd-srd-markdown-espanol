@@ -1,9 +1,3 @@
----
-aliases: ["Simulacro", "Simulacrum"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Simulacrum|Simulacrum (EN)]]"
----
-
 # Simulacro
 
 *Ilusionismo de nivel 7 (mago)*

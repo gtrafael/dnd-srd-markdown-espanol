@@ -1,9 +1,3 @@
----
-aliases: ["Mamut", "Mammoth"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Mammoth|Mammoth (EN)]]"
----
-
 # Mamut
 
 *Bestia Enorme, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Tsunami"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Tsunami|Tsunami (Español)]]"
----
-
 ### Tsunami
 
 *Level 8 Conjuration* (Druid)

@@ -1,9 +1,3 @@
----
-aliases: ["Filo de la fortuna"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Luck Blade]]"
----
-
 # Filo de la fortuna
 
 *Arma (cimitarra, espada corta, espada larga, espadón, estoque, guja u hoz), legendaria (requiere sintonización)*

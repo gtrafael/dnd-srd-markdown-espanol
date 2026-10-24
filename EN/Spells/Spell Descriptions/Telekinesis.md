@@ -1,9 +1,3 @@
----
-aliases: ["Telekinesis"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Telequinesis|Telequinesis (Español)]]"
----
-
 ### Telekinesis
 
 *Level 5 Transmutation* (Sorcerer, Wizard)

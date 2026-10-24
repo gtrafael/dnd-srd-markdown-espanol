@@ -1,9 +1,3 @@
----
-aliases: ["Wizard"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Mago|Mago (Español)]]"
----
-
 # Wizard
 
 ## Core Wizard Traits

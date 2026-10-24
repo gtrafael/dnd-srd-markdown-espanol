@@ -1,9 +1,3 @@
----
-aliases: ["Escudo de fe", "Shield of Faith"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Shield of Faith|Shield of Faith (EN)]]"
----
-
 # Escudo de fe
 
 *Abjuración de nivel 1 (clérigo, paladín)*

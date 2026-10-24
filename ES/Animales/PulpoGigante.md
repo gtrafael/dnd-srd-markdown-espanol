@@ -1,9 +1,3 @@
----
-aliases: ["Pulpo gigante", "Giant Octopus"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Octopus|Giant Octopus (EN)]]"
----
-
 # Pulpo gigante
 
 *Bestia Grande, sin alineamiento*

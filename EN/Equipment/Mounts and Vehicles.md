@@ -1,9 +1,3 @@
----
-aliases: ["Transportation"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/MonturasYVehiculos|Transporte (Español)]]"
----
-
 # Mounts and Vehicles
 
 A mount can help you move more quickly through the wilderness, but its primary purpose is to carry gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's carrying capacity. See "Monsters" for the animals' stat blocks.

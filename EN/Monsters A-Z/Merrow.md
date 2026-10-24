@@ -1,9 +1,3 @@
----
-aliases: ["Merrow"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Merrow|Merrow (Español)]]"
----
-
 ## Merrow
 
 *Large Monstrosity, Chaotic Evil*

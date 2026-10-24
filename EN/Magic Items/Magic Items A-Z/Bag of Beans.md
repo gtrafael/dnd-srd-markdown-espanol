@@ -1,9 +1,3 @@
----
-aliases: ["Bag of Beans"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeJudias|Bolsa de judías (Español)]]"
----
-
 ### Bag of Beans
 
 *Wondrous Item, Rare*

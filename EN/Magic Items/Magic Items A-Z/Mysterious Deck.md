@@ -1,9 +1,3 @@
----
-aliases: ["Mysterious Deck"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BarajaMisteriosa|Baraja misteriosa (Español)]]"
----
-
 ### Mysterious Deck
 
 *Wondrous Item, Legendary*

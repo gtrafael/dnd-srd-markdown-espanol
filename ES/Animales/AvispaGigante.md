@@ -1,9 +1,3 @@
----
-aliases: ["Avispa gigante", "Giant Wasp"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Giant Wasp|Giant Wasp (EN)]]"
----
-
 # Avispa gigante
 
 *Bestia Mediana, sin alineamiento*

@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de comandar elementales"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Elemental Command]]"
----
-
 # Anillo de comandar elementales
 
 *Anillo, legendario (requiere sintonización)*

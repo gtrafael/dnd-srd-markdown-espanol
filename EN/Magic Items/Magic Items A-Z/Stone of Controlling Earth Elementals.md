@@ -1,9 +1,3 @@
----
-aliases: ["Stone of Controlling Earth Elementals"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PiedraDeControlarElementalesDeTierra|Piedra de controlar elementales de tierra (Español)]]"
----
-
 ### Stone of Controlling Earth Elementals
 
 *Wondrous Item, Rare*

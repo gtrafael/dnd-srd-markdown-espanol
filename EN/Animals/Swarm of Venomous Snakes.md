@@ -1,9 +1,3 @@
----
-aliases: ["Swarm of Venomous Snakes"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/EnjambreDeSerpientesVenenosas|Enjambre de serpientes venenosas (Español)]]"
----
-
 ## Swarm of Venomous Snakes
 
 *Medium Swarm of Tiny Beasts, Unaligned*

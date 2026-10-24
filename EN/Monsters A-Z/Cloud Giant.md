@@ -1,9 +1,3 @@
----
-aliases: ["Cloud Giant"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GiganteDeLasNubes|Gigante de las nubes (Español)]]"
----
-
 ## Cloud Giant
 
 *Huge Giant, Neutral*

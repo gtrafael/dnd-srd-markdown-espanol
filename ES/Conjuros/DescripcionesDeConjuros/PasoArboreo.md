@@ -1,9 +1,3 @@
----
-aliases: ["Paso arbóreo", "Tree Stride"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Tree Stride|Tree Stride (EN)]]"
----
-
 # Paso arbóreo
 
 *Conjuración de nivel 5 (druida, explorador)*

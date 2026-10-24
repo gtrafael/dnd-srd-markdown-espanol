@@ -1,9 +1,3 @@
----
-aliases: ["Potenciar característica", "Enhance Ability"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Enhance Ability|Enhance Ability (EN)]]"
----
-
 # Potenciar característica
 
 *Transmutación de nivel 2 (bardo, clérigo, druida, explorador, hechicero, mago)*

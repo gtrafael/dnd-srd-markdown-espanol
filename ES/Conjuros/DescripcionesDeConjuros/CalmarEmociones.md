@@ -1,9 +1,3 @@
----
-aliases: ["Calmar emociones", "Calm Emotions"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Calm Emotions|Calm Emotions (EN)]]"
----
-
 # Calmar emociones
 
 *Encantamiento de nivel 2 (bardo, clérigo)*

@@ -1,9 +1,3 @@
----
-aliases: ["Adult Red Dragon"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/DragonRojoAdulto|Dragón rojo adulto (Español)]]"
----
-
 ## Adult Red Dragon
 
 *Huge Dragon (Chromatic), Chaotic Evil*

@@ -1,9 +1,3 @@
----
-aliases: ["Anillo de los tres deseos"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Ring of Three Wishes]]"
----
-
 # Anillo de los tres deseos
 
 *Anillo, legendario*

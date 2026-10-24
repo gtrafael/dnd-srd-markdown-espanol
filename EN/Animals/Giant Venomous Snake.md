@@ -1,9 +1,3 @@
----
-aliases: ["Giant Venomous Snake"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/SerpienteVenenosaGigante|Serpiente venenosa gigante (Español)]]"
----
-
 ## Giant Venomous Snake
 
 *Medium Beast, Unaligned*

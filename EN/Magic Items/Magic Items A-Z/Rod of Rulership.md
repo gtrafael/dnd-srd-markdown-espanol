@@ -1,9 +1,3 @@
----
-aliases: ["Rod of Rulership"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CetroDeMando]]"
----
-
 # Rod of Rulership
 
 _Rod, Rare (Requires Attunement)_

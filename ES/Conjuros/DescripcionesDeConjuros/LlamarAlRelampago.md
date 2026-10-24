@@ -1,9 +1,3 @@
----
-aliases: ["Llamar al relámpago", "Call Lightning"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Call Lightning|Call Lightning (EN)]]"
----
-
 # Llamar al relámpago
 
 *Conjuración de nivel 3 (druida)*

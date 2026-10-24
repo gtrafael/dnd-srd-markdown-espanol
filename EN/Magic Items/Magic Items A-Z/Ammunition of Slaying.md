@@ -1,9 +1,3 @@
----
-aliases: ["Ammunition of Slaying"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/MunicionAsesina|Munición asesina (Español)]]"
----
-
 ### Ammunition of Slaying
 
 *Weapon (Any Ammunition), Very Rare*

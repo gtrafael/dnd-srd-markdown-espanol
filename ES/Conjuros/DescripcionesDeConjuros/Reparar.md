@@ -1,9 +1,3 @@
----
-aliases: ["Reparar", "Mending"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Mending|Mending (EN)]]"
----
-
 # Reparar
 
 *Truco de transmutación (bardo, clérigo, druida, hechicero, mago)*

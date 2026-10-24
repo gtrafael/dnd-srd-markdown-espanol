@@ -1,9 +1,3 @@
----
-aliases: ["Picaro", "Rogue"]
-tags: [srd, espanol, tag_clases]
-related_en: "[[Classes/Rogue|Rogue (EN)]]"
----
-
 # Pícaro
 
 Atributos básicos de pícaro

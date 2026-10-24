@@ -1,9 +1,3 @@
----
-aliases: ["Conjure Animals"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ConjurarAnimales|Conjurar animales (Español)]]"
----
-
 ### Conjure Animals
 
 *Level 3 Conjuration* (Druid, Ranger)

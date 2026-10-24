@@ -1,9 +1,3 @@
----
-aliases: ["Destierro", "Banishment"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Banishment|Banishment (EN)]]"
----
-
 # Destierro
 
 *Abjuración de nivel 4 (brujo, clérigo, hechicero, mago, paladín)*

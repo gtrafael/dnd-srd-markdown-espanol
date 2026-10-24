@@ -1,9 +1,3 @@
----
-aliases: ["Animal Shapes"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/AspectosAnimales|Aspectos animales (Español)]]"
----
-
 ### Animal Shapes
 
 *Level 8 Transmutation* (Druid)

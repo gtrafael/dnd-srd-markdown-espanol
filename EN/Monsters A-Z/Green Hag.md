@@ -1,9 +1,3 @@
----
-aliases: ["Green Hag"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/SagaCetrina|Saga cetrina (Español)]]"
----
-
 ## Green Hag
 
 *Medium Fey, Neutral Evil*

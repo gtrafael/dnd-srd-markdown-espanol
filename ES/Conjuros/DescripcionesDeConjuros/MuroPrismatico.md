@@ -1,9 +1,3 @@
----
-aliases: ["Muro prismático", "Prismatic Wall"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Prismatic Wall|Prismatic Wall (EN)]]"
----
-
 # Muro prismático
 
 *Abjuración de nivel 9 (bardo, mago)*

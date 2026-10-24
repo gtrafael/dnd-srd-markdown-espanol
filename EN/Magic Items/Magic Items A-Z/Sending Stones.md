@@ -1,9 +1,3 @@
----
-aliases: ["Sending Stones"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PiedrasMensajeras|Piedras mensajeras (Español)]]"
----
-
 ### Sending Stones
 
 *Wondrous Item, Uncommon*

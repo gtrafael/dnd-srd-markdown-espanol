@@ -1,9 +1,3 @@
----
-aliases: ["Mula", "Mule"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Mule|Mule (EN)]]"
----
-
 # Mula
 
 *Bestia Mediana, sin alineamiento*

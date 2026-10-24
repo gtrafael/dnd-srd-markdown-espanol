@@ -1,9 +1,3 @@
----
-aliases: ["Assassin"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Asesino|Asesino (Español)]]"
----
-
 ## Assassin
 
 *Medium or Small Humanoid, Neutral*

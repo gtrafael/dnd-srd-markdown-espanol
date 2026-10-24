@@ -1,9 +1,3 @@
----
-aliases: ["Fire Elemental"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/ElementalDeFuego|Elemental de fuego (Español)]]"
----
-
 ## Fire Elemental
 
 *Large Elemental, Neutral*

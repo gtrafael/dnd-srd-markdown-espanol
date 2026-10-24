@@ -1,9 +1,3 @@
----
-aliases: ["Polvo de desaparición", "Dust of Disappearance"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Dust of Disappearance|Dust of Disappearance (EN)]]"
----
-
 # Polvo de desaparición
 
 *Objeto maravilloso, infrecuente*

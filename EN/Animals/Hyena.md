@@ -1,9 +1,3 @@
----
-aliases: ["Hyena"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Hiena|Hiena (Español)]]"
----
-
 ## Hyena
 
 *Medium Beast, Unaligned*

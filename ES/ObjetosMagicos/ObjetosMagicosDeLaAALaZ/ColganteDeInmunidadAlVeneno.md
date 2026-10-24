@@ -1,9 +1,3 @@
----
-aliases: ["Colgante de inmunidad al veneno", "Periapt of Proof against Poison"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Periapt of Proof against Poison|Periapt of Proof against Poison (EN)]]"
----
-
 # Colgante de inmunidad al veneno
 
 *Objeto maravilloso, raro (requiere sintonización)*

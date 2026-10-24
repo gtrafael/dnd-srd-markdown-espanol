@@ -1,9 +1,3 @@
----
-aliases: ["Bendición", "Bless"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Bless|Bless (EN)]]"
----
-
 # Bendición
 
 *Encantamiento de nivel 1 (clérigo, paladín)*

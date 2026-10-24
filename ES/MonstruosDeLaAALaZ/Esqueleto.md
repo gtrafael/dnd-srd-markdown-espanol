@@ -1,9 +1,3 @@
----
-aliases: ["Esqueleto", "Skeleton"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Skeleton|Skeleton (EN)]]"
----
-
 # Esqueleto
 
 *Muerto viviente Mediano, legal malvado*

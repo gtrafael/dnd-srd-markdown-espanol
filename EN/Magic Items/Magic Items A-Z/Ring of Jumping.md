@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Jumping"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeSalto]]"
----
-
 # Ring of Jumping
 
 _Ring, Uncommon (Requires Attunement)_

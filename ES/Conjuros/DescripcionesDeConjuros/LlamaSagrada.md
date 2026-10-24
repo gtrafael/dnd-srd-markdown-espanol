@@ -1,9 +1,3 @@
----
-aliases: ["Llama sagrada", "Sacred Flame"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Sacred Flame|Sacred Flame (EN)]]"
----
-
 # Llama sagrada
 
 *Truco de evocación (clérigo)*

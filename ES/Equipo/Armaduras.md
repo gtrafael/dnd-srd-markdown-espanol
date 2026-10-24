@@ -1,9 +1,3 @@
----
-aliases: ["Armadura", "Armor"]
-tags: [srd, espanol, tag_equipo]
-related_en: "[[Equipment/Armor|Armor (EN)]]"
----
-
 # Armaduras
 
 La tabla “Armaduras” recoge las principales armaduras del juego. La tabla indica el precio y el peso de cada armadura, así como los siguientes detalles:

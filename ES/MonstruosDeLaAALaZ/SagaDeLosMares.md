@@ -1,9 +1,3 @@
----
-aliases: ["Saga de los mares", "Sea Hag"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Sea Hag|Sea Hag (EN)]]"
----
-
 # Saga de los mares
 
 *Feérico Mediano, caótico malvado*

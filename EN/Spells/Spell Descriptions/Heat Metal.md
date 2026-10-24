@@ -1,9 +1,3 @@
----
-aliases: ["Heat Metal"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/CalentarMetal|Calentar metal (Español)]]"
----
-
 ### Heat Metal
 
 *Level 2 Transmutation* (Bard, Druid)

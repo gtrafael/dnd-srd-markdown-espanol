@@ -1,9 +1,3 @@
----
-aliases: ["Detectar magia", "Detect Magic"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Detect Magic|Detect Magic (EN)]]"
----
-
 # Detectar magia
 
 *Adivinación de nivel 1 (bardo, brujo, clérigo, druida, explorador, hechicero, mago, paladín)*

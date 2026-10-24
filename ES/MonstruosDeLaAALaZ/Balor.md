@@ -1,9 +1,3 @@
----
-aliases: ["Balor"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Balor|Balor (EN)]]"
----
-
 # Balor
 
 *Infernal Enorme (demonio), caótico malvado*

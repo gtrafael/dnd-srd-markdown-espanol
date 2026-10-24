@@ -1,9 +1,3 @@
----
-aliases: ["Wyvern"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Guiverno|Guiverno (Español)]]"
----
-
 ## Wyvern
 
 *Large Dragon, Unaligned*

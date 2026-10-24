@@ -1,9 +1,3 @@
----
-aliases: ["Dotes de origen"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Feats/Origin Feats|Origin Feats (EN)]]"
----
-
 # Dotes de origen
 
 ## Alerta

@@ -1,9 +1,3 @@
----
-aliases: ["Giant Constrictor Snake"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/SerpienteConstrictoraGigante|Serpiente constrictora gigante (Español)]]"
----
-
 ## Giant Constrictor Snake
 
 *Huge Beast, Unaligned*

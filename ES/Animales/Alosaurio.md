@@ -1,9 +1,3 @@
----
-aliases: ["Alosaurio", "Allosaurus"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Allosaurus|Allosaurus (EN)]]"
----
-
 # Alosaurio
 
 *Bestia Grande (dinosaurio), sin alineamiento*

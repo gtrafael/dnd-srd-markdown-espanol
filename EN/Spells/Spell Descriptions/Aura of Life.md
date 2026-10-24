@@ -1,9 +1,3 @@
----
-aliases: ["Aura of Life"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/AuraDeVida|Aura de vida (Español)]]"
----
-
 ### Aura of Life
 
 *Level 4 Abjuration* (Cleric, Paladin)

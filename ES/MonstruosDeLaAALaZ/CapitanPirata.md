@@ -1,9 +1,3 @@
----
-aliases: ["Capitán pirata", "Pirate Captain"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Pirate Captain|Pirate Captain (EN)]]"
----
-
 # Capitán pirata
 
 *Humanoide Mediano o Pequeño, neutral*

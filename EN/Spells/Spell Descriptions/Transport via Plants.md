@@ -1,9 +1,3 @@
----
-aliases: ["Transport via Plants"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/ViajarMediantePlantas|Viajar mediante plantas (Español)]]"
----
-
 ### Transport via Plants
 
 *Level 6 Conjuration* (Druid)

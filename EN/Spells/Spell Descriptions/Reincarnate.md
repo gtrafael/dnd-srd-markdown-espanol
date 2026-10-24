@@ -1,9 +1,3 @@
----
-aliases: ["Reincarnate"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Reencarnar|Reencarnar (Español)]]"
----
-
 ### Reincarnate
 
 *Level 5 Necromancy* (Druid)

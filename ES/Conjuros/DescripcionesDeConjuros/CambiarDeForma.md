@@ -1,9 +1,3 @@
----
-aliases: ["Cambiar de forma", "Shapechange"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Shapechange|Shapechange (EN)]]"
----
-
 # Cambiar de forma
 
 *Transmutación de nivel 9 (druida, mago)*

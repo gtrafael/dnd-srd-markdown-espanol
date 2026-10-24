@@ -1,9 +1,3 @@
----
-aliases: ["Cubic Gate"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PortalCubico|Portal cúbico (Español)]]"
----
-
 ### Cubic Gate
 
 *Wondrous Item, Legendary*

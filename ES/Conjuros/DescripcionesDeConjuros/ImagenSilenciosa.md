@@ -1,9 +1,3 @@
----
-aliases: ["Imagen silenciosa", "Silent Image"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Silent Image|Silent Image (EN)]]"
----
-
 # Imagen silenciosa
 
 *Ilusionismo de nivel 1 (bardo, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Creación", "Creation"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Creation|Creation (EN)]]"
----
-
 # Creación
 
 *Ilusionismo de nivel 5 (hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Spider Climb"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/TreparCualAracnido|Trepar cual arácnido (Español)]]"
----
-
 ### Spider Climb
 
 *Level 2 Transmutation* (Sorcerer, Warlock, Wizard)

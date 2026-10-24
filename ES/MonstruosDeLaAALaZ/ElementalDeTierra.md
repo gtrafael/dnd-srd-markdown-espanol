@@ -1,9 +1,3 @@
----
-aliases: ["Elemental de tierra", "Earth Elemental"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Earth Elemental|Earth Elemental (EN)]]"
----
-
 # Elemental de tierra
 
 *Elemental Grande, neutral*

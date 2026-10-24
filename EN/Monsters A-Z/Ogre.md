@@ -1,9 +1,3 @@
----
-aliases: ["Ogre"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Ogro|Ogro (Español)]]"
----
-
 ## Ogre
 
 _Large Giant, Chaotic Evil_

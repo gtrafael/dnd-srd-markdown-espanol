@@ -1,9 +1,3 @@
----
-aliases: ["Dragón blanco joven", "Young White Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Young White Dragon|Young White Dragon (EN)]]"
----
-
 # Dragón blanco joven
 
 *Dragón Grande (cromático), caótico malvado*

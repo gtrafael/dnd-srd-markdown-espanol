@@ -1,9 +1,3 @@
----
-aliases: ["Contingencia", "Contingency"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Contingency|Contingency (EN)]]"
----
-
 # Contingencia
 
 *Abjuración de nivel 6 (mago)*

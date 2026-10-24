@@ -1,9 +1,3 @@
----
-aliases: ["Eyes of Charming"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnteojosDeEncantamiento|Anteojos de encantamiento (Español)]]"
----
-
 ### Eyes of Charming
 
 *Wondrous Item, Uncommon (Requires Attunement)*

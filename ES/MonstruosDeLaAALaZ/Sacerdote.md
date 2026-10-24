@@ -1,9 +1,3 @@
----
-aliases: ["Sacerdote", "Priest"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Priest|Priest (EN)]]"
----
-
 # Sacerdote
 
 *Humanoide Mediano o Pequeño (clérigo), neutral*

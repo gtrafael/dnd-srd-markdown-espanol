@@ -1,9 +1,3 @@
----
-aliases: ["Eagle"]
-tags: [srd, english, tag_animals]
-related_es: "[[Animales/Aguila|Águila (Español)]]"
----
-
 ## Eagle
 
 *Small Beast, Unaligned*

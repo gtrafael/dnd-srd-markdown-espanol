@@ -1,9 +1,3 @@
----
-aliases: ["Protección contra el bien y el mal", "Protection from Evil and Good"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Protection from Evil and Good|Protection from Evil and Good (EN)]]"
----
-
 # Protección contra el bien y el mal
 
 *Abjuración de nivel 1 (brujo, clérigo, druida, mago, paladín)*

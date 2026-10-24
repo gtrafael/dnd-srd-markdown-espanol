@@ -1,9 +1,3 @@
----
-aliases: ["Black Dragon Wyrmling"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CriaDeDragonNegro|Cría de dragón negro (Español)]]"
----
-
 ## Black Dragon Wyrmling
 
 *Medium Dragon (Chromatic), Chaotic Evil*

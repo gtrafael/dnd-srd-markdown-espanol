@@ -1,9 +1,3 @@
----
-aliases: ["Worg"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Huargo|Huargo (Español)]]"
----
-
 ## Worg
 
 *Large Fey, Neutral Evil*

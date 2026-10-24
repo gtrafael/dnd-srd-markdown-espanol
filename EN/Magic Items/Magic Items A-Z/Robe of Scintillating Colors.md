@@ -1,9 +1,3 @@
----
-aliases: ["Robe of Scintillating Colors"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TunicaDeColoresHipnoticos|Túnica de colores hipnóticos (Español)]]"
----
-
 ### Robe of Scintillating Colors
 
 *Wondrous Item, Very Rare (Requires Attunement)*

@@ -1,9 +1,3 @@
----
-aliases: ["Dwarven Plate"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArmaduraDePlacasEnana|Armadura de placas enana (Español)]]"
----
-
 ### Dwarven Plate
 
 *Armor (Half Plate Armor or Plate Armor), Very Rare*

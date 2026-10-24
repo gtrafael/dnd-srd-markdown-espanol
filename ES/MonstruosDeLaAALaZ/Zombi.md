@@ -1,9 +1,3 @@
----
-aliases: ["Zombi", "Zombie"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Zombie|Zombie (EN)]]"
----
-
 # Zombi
 
 *Muerto viviente Mediano, neutral malvado*

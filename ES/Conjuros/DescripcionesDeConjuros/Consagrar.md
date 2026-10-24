@@ -1,9 +1,3 @@
----
-aliases: ["Consagrar", "Hallow"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Hallow|Hallow (EN)]]"
----
-
 # Consagrar
 
 *Abjuración de nivel 5 (clérigo)*

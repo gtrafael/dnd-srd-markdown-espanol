@@ -1,9 +1,3 @@
----
-aliases: ["Tridente de comandar peces", "Trident of Fish Command"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Trident of Fish Command|Trident of Fish Command (EN)]]"
----
-
 # Tridente de comandar peces
 
 *Arma (tridente), infrecuente (requiere sintonización)*

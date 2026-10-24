@@ -1,9 +1,3 @@
----
-aliases: ["Tentáculos negros", "Black Tentacles"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Black Tentacles|Black Tentacles (EN)]]"
----
-
 # Tentáculos negros
 
 *Conjuración de nivel 4 (mago)*

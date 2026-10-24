@@ -1,9 +1,3 @@
----
-aliases: ["Moldear la piedra", "Stone Shape"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Stone Shape|Stone Shape (EN)]]"
----
-
 # Moldear la piedra
 
 *Transmutación de nivel 4 (clérigo, druida, mago)*

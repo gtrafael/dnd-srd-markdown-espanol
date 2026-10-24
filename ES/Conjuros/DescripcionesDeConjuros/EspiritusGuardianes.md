@@ -1,9 +1,3 @@
----
-aliases: ["Espíritus guardianes", "Spirit Guardians"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Spirit Guardians|Spirit Guardians (EN)]]"
----
-
 # Espíritus guardianes
 
 *Conjuración de nivel 3 (clérigo)*

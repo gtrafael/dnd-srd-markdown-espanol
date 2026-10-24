@@ -1,9 +1,3 @@
----
-aliases: ["Grilletes dimensionales", "Dimensional Shackles"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Dimensional Shackles|Dimensional Shackles (EN)]]"
----
-
 # Grilletes dimensionales
 
 *Objeto maravilloso, raro*

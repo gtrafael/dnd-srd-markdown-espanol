@@ -1,9 +1,3 @@
----
-aliases: ["Palabra de poder_ sanar", "Power Word Heal"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Power Word Heal|Power Word Heal (EN)]]"
----
-
 # Palabra de poder: sanar
 
 *Encantamiento de nivel 9 (bardo, clérigo)*

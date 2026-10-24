@@ -1,9 +1,3 @@
----
-aliases: ["Entender idiomas", "Comprehend Languages"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Comprehend Languages|Comprehend Languages (EN)]]"
----
-
 # Entender idiomas
 
 *Adivinación de nivel 1 (bardo, brujo, hechicero, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Encontrar familiar", "Find Familiar"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Find Familiar|Find Familiar (EN)]]"
----
-
 # Encontrar familiar
 
 *Conjuración de nivel 1 (mago)*

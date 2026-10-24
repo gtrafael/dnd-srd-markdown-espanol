@@ -1,9 +1,3 @@
----
-aliases: ["Disco flotante", "Floating Disk"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Floating Disk|Floating Disk (EN)]]"
----
-
 # Disco flotante
 
 *Conjuración de nivel 1 (mago)*

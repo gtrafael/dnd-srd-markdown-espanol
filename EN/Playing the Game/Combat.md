@@ -1,9 +1,3 @@
----
-aliases: ["Combat"]
-tags: [srd, english, tag_gameplay]
-related_es: "[[ComoJugar/Combate|Combate (Español)]]"
----
-
 # Combat
 
 Adventurers encounter many dangerous monsters and nefarious villains. In those moments, combat often breaks out.

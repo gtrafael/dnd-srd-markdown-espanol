@@ -1,9 +1,3 @@
----
-aliases: ["Find the Path"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/EncontrarElCamino|Encontrar el camino (Español)]]"
----
-
 ### Find the Path
 
 *Level 6 Divination* (Bard, Cleric, Druid)

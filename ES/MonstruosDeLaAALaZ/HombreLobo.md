@@ -1,9 +1,3 @@
----
-aliases: ["Hombre lobo", "Werewolf"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Werewolf|Werewolf (EN)]]"
----
-
 # Hombre lobo
 
 *Monstruosidad Mediana o Pequeña (licántropo), caótica malvada*

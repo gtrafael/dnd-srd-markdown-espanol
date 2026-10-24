@@ -1,9 +1,3 @@
----
-aliases: ["Invocar dragón", "Summon Dragon"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Summon Dragon|Summon Dragon (EN)]]"
----
-
 # Invocar dragón
 
 *Conjuración de nivel 5 (mago)*

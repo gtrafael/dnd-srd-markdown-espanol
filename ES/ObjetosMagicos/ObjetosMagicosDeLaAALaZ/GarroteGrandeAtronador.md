@@ -1,9 +1,3 @@
----
-aliases: ["Garrote grande atronador", "Thunderous Greatclub"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Thunderous Greatclub|Thunderous Greatclub (EN)]]"
----
-
 # Garrote grande atronador
 
 *Arma (garrote grande), muy rara (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Despertar", "Awaken"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Awaken|Awaken (EN)]]"
----
-
 # Despertar
 
 *Transmutación de nivel 5 (bardo, druida)*

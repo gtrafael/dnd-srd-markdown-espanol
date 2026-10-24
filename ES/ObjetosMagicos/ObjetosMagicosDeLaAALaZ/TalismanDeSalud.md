@@ -1,9 +1,3 @@
----
-aliases: ["Talismán de salud", "Periapt of Health"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Periapt of Health|Periapt of Health (EN)]]"
----
-
 # Talismán de salud
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

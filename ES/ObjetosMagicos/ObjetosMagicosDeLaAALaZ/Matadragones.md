@@ -1,9 +1,3 @@
----
-aliases: ["Matadragones", "Dragon Slayer"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Dragon Slayer|Dragon Slayer (EN)]]"
----
-
 # Matadragones
 
 *Arma (cualquiera sencilla o marcial), rara*

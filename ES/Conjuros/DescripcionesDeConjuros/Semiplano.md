@@ -1,9 +1,3 @@
----
-aliases: ["Semiplano", "Demiplane"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Demiplane|Demiplane (EN)]]"
----
-
 # Semiplano
 
 *Conjuración de nivel 8 (brujo, hechicero, mago)*

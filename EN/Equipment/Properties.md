@@ -1,9 +1,3 @@
----
-aliases: ["Properties"]
-tags: [srd, english, tag_equipment]
-related_es: "[[Equipo/Propiedades|Propiedades (Español)]]"
----
-
 # Properties
 
 Here are definitions of the properties in the Properties column of the Weapons table.

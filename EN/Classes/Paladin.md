@@ -1,9 +1,3 @@
----
-aliases: ["Paladin"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Paladin|Paladin (Español)]]"
----
-
 # Paladin
 
 ## Core Paladin Traits

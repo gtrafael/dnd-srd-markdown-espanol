@@ -1,9 +1,3 @@
----
-aliases: ["Tejón", "Badger"]
-tags: [srd, espanol, tag_animales]
-related_en: "[[Animals/Badger|Badger (EN)]]"
----
-
 # Tejón
 
 *Bestia Diminuta, sin alineamiento*

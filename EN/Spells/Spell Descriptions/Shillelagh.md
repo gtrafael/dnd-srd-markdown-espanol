@@ -1,9 +1,3 @@
----
-aliases: ["Shillelagh"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/Shillelagh|Shillelagh (Español)]]"
----
-
 ### Shillelagh
 
 *Transmutation Cantrip* (Druid)

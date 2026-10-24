@@ -1,9 +1,3 @@
----
-aliases: ["Bandit"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Bandido|Bandido (Español)]]"
----
-
 ## Bandit
 
 *Medium or Small Humanoid, Neutral*

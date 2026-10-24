@@ -1,9 +1,3 @@
----
-aliases: ["Dragon Orb"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/OrbeDragontino|Orbe Dragontino (Español)]]"
----
-
 ### Dragon Orb
 
 *Wondrous Item, Artifact (Requires Attunement)*

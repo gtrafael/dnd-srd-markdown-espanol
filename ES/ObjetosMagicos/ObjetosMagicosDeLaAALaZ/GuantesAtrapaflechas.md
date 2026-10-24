@@ -1,9 +1,3 @@
----
-aliases: ["Guantes atrapaflechas", "Gloves of Missile Snaring"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Gloves of Missile Snaring|Gloves of Missile Snaring (EN)]]"
----
-
 # Guantes atrapaflechas
 
 *Objeto maravilloso, infrecuente (requiere sintonización)*

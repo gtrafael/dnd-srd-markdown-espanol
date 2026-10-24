@@ -1,9 +1,3 @@
----
-aliases: ["Talisman of Pure Good"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/TalismanDelBienPuro|Talismán del bien puro (Español)]]"
----
-
 ### Talisman of Pure Good
 
 *Wondrous Item, Legendary (Requires Attunement by a*

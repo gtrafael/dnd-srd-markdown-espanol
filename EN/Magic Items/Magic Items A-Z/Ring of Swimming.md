@@ -1,9 +1,3 @@
----
-aliases: ["Ring of Swimming"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/AnilloDeNatacion]]"
----
-
 # Ring of Swimming
 
 _Ring, Uncommon_

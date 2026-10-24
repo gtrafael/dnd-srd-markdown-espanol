@@ -1,9 +1,3 @@
----
-aliases: ["Wand of Magic Missiles"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeProyectilesMagicos|Wand of Magic Missiles (Español)]]"
----
-
 # Wand of Magic Missiles
 
 _Wand, Uncommon_

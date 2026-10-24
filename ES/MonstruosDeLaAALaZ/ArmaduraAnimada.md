@@ -1,9 +1,3 @@
----
-aliases: ["Armadura animada", "Animated Armor"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Animated Armor|Animated Armor (EN)]]"
----
-
 # Armadura animada
 
 *Autómata Mediano, sin alineamiento*

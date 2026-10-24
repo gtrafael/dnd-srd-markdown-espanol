@@ -1,9 +1,3 @@
----
-aliases: ["Potion of Speed"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionDeVelocidad]]"
----
-
 # Potion of Speed
 
 _Potion, Very Rare_

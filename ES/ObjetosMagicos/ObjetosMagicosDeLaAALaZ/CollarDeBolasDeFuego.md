@@ -1,9 +1,3 @@
----
-aliases: ["Collar de bolas de fuego", "Necklace of Fireballs"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Necklace of Fireballs|Necklace of Fireballs (EN)]]"
----
-
 # Collar de bolas de fuego
 
 *Objeto maravilloso, raro*

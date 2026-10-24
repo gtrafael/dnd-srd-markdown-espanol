@@ -1,9 +1,3 @@
----
-aliases: ["Armadura de placas de etereidad", "Plate Armor of Etherealness"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Plate Armor of Etherealness|Plate Armor of Etherealness (EN)]]"
----
-
 # Armadura de placas de etereidad
 
 *Armadura (armadura de placas o media armadura), legendaria (requiere sintonización)*

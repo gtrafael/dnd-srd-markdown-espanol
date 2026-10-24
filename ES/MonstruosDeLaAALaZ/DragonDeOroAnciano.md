@@ -1,9 +1,3 @@
----
-aliases: ["Dragón de oro anciano", "Ancient Gold Dragon"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Ancient Gold Dragon|Ancient Gold Dragon (EN)]]"
----
-
 # Dragón de oro anciano
 
 *Dragón Gargantuesco (metálico), legal bueno*

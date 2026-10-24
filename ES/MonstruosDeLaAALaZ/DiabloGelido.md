@@ -1,9 +1,3 @@
----
-aliases: ["Diablo gélido", "Ice Devil"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Ice Devil|Ice Devil (EN)]]"
----
-
 # Diablo gélido
 
 *Infernal Grande (diablo), legal malvado*

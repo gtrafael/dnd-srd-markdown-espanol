@@ -1,9 +1,3 @@
----
-aliases: ["Dulce descanso", "Gentle Repose"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Gentle Repose|Gentle Repose (EN)]]"
----
-
 # Dulce descanso
 
 *Nigromancia de nivel 2 (clérigo, mago, paladín)*

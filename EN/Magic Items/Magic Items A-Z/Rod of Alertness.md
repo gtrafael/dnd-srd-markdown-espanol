@@ -1,9 +1,3 @@
----
-aliases: ["Rod of Alertness"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaraDeLaAlerta]]"
----
-
 # Rod of Alertness
 
 _Rod, Very Rare (Requires Attunement)_

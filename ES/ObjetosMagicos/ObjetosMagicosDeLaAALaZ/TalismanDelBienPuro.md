@@ -1,9 +1,3 @@
----
-aliases: ["Talismán del bien puro", "Talisman of Pure Good"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Talisman of Pure Good|Talisman of Pure Good (EN)]]"
----
-
 # Talismán del bien puro
 
 *Objeto maravilloso, legendario (requiere sintonización por parte de un clérigo o paladín)*

@@ -1,9 +1,3 @@
----
-aliases: ["Guardián de la fe", "Guardian of Faith"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Guardian of Faith|Guardian of Faith (EN)]]"
----
-
 # Guardián de la fe
 
 *Conjuración de nivel 4 (clérigo)*

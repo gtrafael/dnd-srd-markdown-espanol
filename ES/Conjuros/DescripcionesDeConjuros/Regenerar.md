@@ -1,9 +1,3 @@
----
-aliases: ["Regenerar", "Regenerate"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Regenerate|Regenerate (EN)]]"
----
-
 # Regenerar
 
 *Transmutación de nivel 7 (bardo, clérigo, druida)*

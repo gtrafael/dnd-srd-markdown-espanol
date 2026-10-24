@@ -1,9 +1,3 @@
----
-aliases: ["Jefe goblin", "Goblin Boss"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Goblin Boss|Goblin Boss (EN)]]"
----
-
 # Jefe goblin
 
 *Feérico Pequeño (trasgo), caótico neutral*

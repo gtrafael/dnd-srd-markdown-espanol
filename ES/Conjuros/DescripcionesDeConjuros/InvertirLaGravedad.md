@@ -1,9 +1,3 @@
----
-aliases: ["Invertir la gravedad", "Reverse Gravity"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Reverse Gravity|Reverse Gravity (EN)]]"
----
-
 # Invertir la gravedad
 
 *Transmutación de nivel 7 (druida, hechicero, mago)*

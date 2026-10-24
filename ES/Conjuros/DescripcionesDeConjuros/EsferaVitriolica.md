@@ -1,9 +1,3 @@
----
-aliases: ["Esfera vitriólica", "Vitriolic Sphere"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Vitriolic Sphere|Vitriolic Sphere (EN)]]"
----
-
 # Esfera vitriólica
 
 *Evocación de nivel 4 (hechicero, mago)*

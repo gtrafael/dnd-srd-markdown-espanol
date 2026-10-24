@@ -1,9 +1,3 @@
----
-aliases: ["Comunión con la naturaleza", "Commune with Nature"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Commune with Nature|Commune with Nature (EN)]]"
----
-
 # Comunión con la naturaleza
 
 *Adivinación de nivel 5 (druida, explorador)*

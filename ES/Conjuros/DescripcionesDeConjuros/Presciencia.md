@@ -1,9 +1,3 @@
----
-aliases: ["Presciencia", "Foresight"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Foresight|Foresight (EN)]]"
----
-
 # Presciencia
 
 *Adivinación de nivel 9 (bardo, brujo, druida, mago)*

@@ -1,9 +1,3 @@
----
-aliases: ["Cerradura arcana", "Arcane Lock"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Arcane Lock|Arcane Lock (EN)]]"
----
-
 # Cerradura arcana
 
 *Abjuración de nivel 2 (mago)*

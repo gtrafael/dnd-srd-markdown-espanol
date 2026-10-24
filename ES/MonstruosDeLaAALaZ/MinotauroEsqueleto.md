@@ -1,9 +1,3 @@
----
-aliases: ["Minotauro esqueleto", "Minotaur Skeleton"]
-tags: [srd, espanol, tag_monstruos]
-related_en: "[[Monsters A-Z/Minotaur Skeleton|Minotaur Skeleton (EN)]]"
----
-
 # Minotauro esqueleto
 
 *Muerto viviente Grande, legal malvado*

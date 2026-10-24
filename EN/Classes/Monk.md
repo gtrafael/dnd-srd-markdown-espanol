@@ -1,9 +1,3 @@
----
-aliases: ["Monk"]
-tags: [srd, english, tag_classes]
-related_es: "[[Clases/Monje|Monje (Español)]]"
----
-
 # Monk
 
 ## Core Monk Traits

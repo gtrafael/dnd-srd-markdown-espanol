@@ -1,9 +1,3 @@
----
-aliases: ["Trinkets"]
-tags: [srd, english, tag_characterizations]
-related_es: "[[CreacionDePersonajes/Bagatelas|Bagatelas (Español)]]"
----
-
 # Trinkets
 
 When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The GM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.

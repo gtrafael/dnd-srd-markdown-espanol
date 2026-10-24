@@ -1,9 +1,3 @@
----
-aliases: ["Warhorse Skeleton"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/CaballoDeGuerraEsqueleto|Caballo de guerra esqueleto (Español)]]"
----
-
 ## Warhorse Skeleton
 
 *Large Undead, Lawful Evil*

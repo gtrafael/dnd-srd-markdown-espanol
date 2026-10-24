@@ -1,9 +1,3 @@
----
-aliases: ["Curar", "Heal"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Heal|Heal (EN)]]"
----
-
 # Curar
 
 *Abjuración de nivel 6 (clérigo, druida)*

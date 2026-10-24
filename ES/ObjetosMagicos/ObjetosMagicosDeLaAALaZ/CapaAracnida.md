@@ -1,9 +1,3 @@
----
-aliases: ["Capa arácnida", "Cloak of Arachnida"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Cloak of Arachnida|Cloak of Arachnida (EN)]]"
----
-
 # Capa arácnida
 
 *Objeto maravilloso, muy raro (requiere sintonización)*

@@ -1,9 +1,3 @@
----
-aliases: ["Las pruebas con d20"]
-tags: [srd, espanol, tag_comojugar]
-related_en: "[[Playing the Game/D20 Tests]]"
----
-
 # Las pruebas con d20
 
 Cuando el resultado de una acción no esté claro, se tira 1d20 para determinar si esta tiene éxito o fracasa. Estas tiradas se denominan pruebas con d20 y las hay de tres tipos: pruebas de característica, tiradas de salvación y tiradas de ataque. Todas ellas siguen estos pasos:

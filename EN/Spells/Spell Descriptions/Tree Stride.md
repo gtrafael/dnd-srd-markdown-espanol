@@ -1,9 +1,3 @@
----
-aliases: ["Tree Stride"]
-tags: [srd, english, tag_spells]
-related_es: "[[Conjuros/DescripcionesDeConjuros/PasoArboreo|Paso arbóreo (Español)]]"
----
-
 ### Tree Stride
 
 *Level 5 Conjuration* (Druid, Ranger)

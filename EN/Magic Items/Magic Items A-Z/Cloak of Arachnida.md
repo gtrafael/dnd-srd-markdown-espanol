@@ -1,9 +1,3 @@
----
-aliases: ["Cloak of Arachnida"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CapaAracnida|Capa arácnida (Español)]]"
----
-
 ### Cloak of Arachnida
 
 *Wondrous Item, Very Rare (Requires Attunement)*

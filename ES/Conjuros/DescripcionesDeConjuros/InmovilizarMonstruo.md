@@ -1,9 +1,3 @@
----
-aliases: ["Inmovilizar monstruo", "Hold Monster"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Hold Monster|Hold Monster (EN)]]"
----
-
 # Inmovilizar monstruo
 
 *Encantamiento de nivel 5 (bardo, brujo, hechicero, mago)*

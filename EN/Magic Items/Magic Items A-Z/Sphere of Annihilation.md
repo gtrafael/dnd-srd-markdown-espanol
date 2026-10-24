@@ -1,9 +1,3 @@
----
-aliases: ["Sphere of Annihilation"]
-tags: [srd, english, tag_treasure]
-related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/EsferaDeAniquilacion]]"
----
-
 # Sphere of Annihilation
 
 _Wondrous Item, Legendary_

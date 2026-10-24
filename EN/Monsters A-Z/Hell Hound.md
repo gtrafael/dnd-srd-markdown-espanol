@@ -1,9 +1,3 @@
----
-aliases: ["Hell Hound"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/SabuesoInfernal|Sabueso infernal (Español)]]"
----
-
 ## Hell Hound
 
 *Medium Fiend, Lawful Evil*

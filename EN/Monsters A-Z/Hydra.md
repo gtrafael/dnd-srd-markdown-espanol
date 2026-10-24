@@ -1,9 +1,3 @@
----
-aliases: ["Hydra"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/Hidra|Hidra (Español)]]"
----
-
 ## Hydra
 
 *Huge Monstrosity, Unaligned*

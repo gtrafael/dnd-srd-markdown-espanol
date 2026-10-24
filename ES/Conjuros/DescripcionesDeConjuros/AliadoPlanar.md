@@ -1,9 +1,3 @@
----
-aliases: ["Aliado planar", "Planar Ally"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Planar Ally|Planar Ally (EN)]]"
----
-
 # Aliado planar
 
 *Conjuración de nivel 6 (clérigo)*

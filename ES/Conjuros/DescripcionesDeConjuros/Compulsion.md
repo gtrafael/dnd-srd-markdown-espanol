@@ -1,9 +1,3 @@
----
-aliases: ["Compulsión", "Compulsion"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Compulsion|Compulsion (EN)]]"
----
-
 # Compulsión
 
 *Encantamiento de nivel 4 (bardo)*

@@ -1,9 +1,3 @@
----
-aliases: ["Palabra de poder_ aturdir", "Power Word Stun"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Power Word Stun|Power Word Stun (EN)]]"
----
-
 # Palabra de poder: aturdir
 
 *Encantamiento de nivel 8 (bardo, brujo, hechicero, mago)*

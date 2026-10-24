@@ -1,9 +1,3 @@
----
-aliases: ["Cubo de fuerza", "Cube of Force"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Cube of Force|Cube of Force (EN)]]"
----
-
 # Cubo de fuerza
 
 *Objeto maravilloso, raro (requiere sintonización)*

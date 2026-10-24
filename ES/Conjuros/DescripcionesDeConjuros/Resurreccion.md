@@ -1,9 +1,3 @@
----
-aliases: ["Resurrección", "Resurrection"]
-tags: [srd, espanol, tag_conjuros]
-related_en: "[[Spells/Spell Descriptions/Resurrection|Resurrection (EN)]]"
----
-
 # Resurrección
 
 *Nigromancia de nivel 7 (bardo, clérigo)*

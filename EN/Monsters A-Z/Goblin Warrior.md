@@ -1,9 +1,3 @@
----
-aliases: ["Goblin Warrior"]
-tags: [srd, english, tag_monsters]
-related_es: "[[MonstruosDeLaAALaZ/GuerreroGoblin|Guerrero goblin (Español)]]"
----
-
 ## Goblin Warrior
 
 *Small Fey (Goblinoid), Chaotic Neutral*

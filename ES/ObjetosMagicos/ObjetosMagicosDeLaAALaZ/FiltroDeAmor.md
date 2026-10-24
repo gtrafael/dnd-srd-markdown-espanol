@@ -1,9 +1,3 @@
----
-aliases: ["Filtro de amor", "Philter of Love"]
-tags: [srd, espanol, tag_tesoro]
-related_en: "[[Magic Items/Magic Items A-Z/Philter of Love|Philter of Love (EN)]]"
----
-
 # Filtro de amor
 
 *Poción, infrecuente*

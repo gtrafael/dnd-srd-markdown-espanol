@@ -1,9 +1,3 @@
----
-aliases: ["Goliat", "Goliath"]
-tags: [srd, espanol, tag_caracterizaciones]
-related_en: "[[Character Origins/Goliath|Goliath (EN)]]"
----
-
 # Goliat
 
 Tipo de criatura: humanoide
