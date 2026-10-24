@@ -69,19 +69,31 @@ def merge_spanish_specials() -> None:
     # El archivo aislado contenía, además del recuadro, secciones normales que
     # quedaron fuera del padre durante la extracción. Se reintegran juntas.
     b = body("ES/ComoJugar/Descansar.md")
-    insert_before("ES/ComoJugar/DanoYCuracion.md", "## Mitad del daño", section("Descansar", b, 3))
+    marker = "\n#### Daño contra varios objetivos"
+    callout, regular = b.split(marker, 1)
+    block = section("Descansar", callout, 3) + "\n\n### Daño contra varios objetivos" + regular
+    insert_before("ES/ComoJugar/DanoYCuracion.md", "## Mitad del daño", block)
     (ROOT / "ES/ComoJugar/Descansar.md").unlink()
 
     b = body("ES/ComoJugar/InspiracionHeroica.md")
-    insert_before("ES/ComoJugar/LasPruebasConD20.md", "## Ventaja y desventaja", section("Inspiración heroica", b, 2))
+    marker = "\n### Clase de armadura"
+    callout, regular = b.split(marker, 1)
+    block = section("Inspiración heroica", callout, 3) + "\n\n### Clase de armadura" + regular
+    insert_before("ES/ComoJugar/LasPruebasConD20.md", "## Ventaja y desventaja", block)
     (ROOT / "ES/ComoJugar/InspiracionHeroica.md").unlink()
 
     b = body("ES/ComoJugar/OrdenDeMarcha.md")
-    insert_before("ES/ComoJugar/Exploracion.md", "## Ritmo de viaje", section("Orden de marcha", b, 2))
+    marker = "\n### Peligros"
+    callout, regular = b.split(marker, 1)
+    block = section("Orden de marcha", callout, 2) + "\n\n### Peligros" + regular
+    insert_before("ES/ComoJugar/Exploracion.md", "## Ritmo de viaje", block)
     (ROOT / "ES/ComoJugar/OrdenDeMarcha.md").unlink()
 
     b = body("ES/ComoJugar/RedondearHaciaAbajo.md")
-    append("ES/ComoJugar/LasCaracteristicas.md", section("Redondear hacia abajo", b, 3))
+    marker = "\n#### Modificadores por característica"
+    callout, regular = b.split(marker, 1)
+    block = section("Redondear hacia abajo", callout, 3) + "\n\n## Modificadores por característica" + regular
+    append("ES/ComoJugar/LasCaracteristicas.md", block)
     (ROOT / "ES/ComoJugar/RedondearHaciaAbajo.md").unlink()
 
     # Jugar con cuadrícula: el archivo absorbió la continuación de "Tu turno".
@@ -90,7 +102,9 @@ def merge_spanish_specials() -> None:
     if marker not in raw:
         raise SystemExit("No se reconoce la frontera de JugarConUnaCuadricula")
     callout, regular = raw.split(marker, 1)
-    regular = "aparece más adelante en “Cómo jugar”" + regular
+    regular = ("aparece más adelante en “Cómo jugar”" + regular).replace(
+        "#### Terminar el combate", "### Terminar el combate"
+    )
     parent = read("ES/ComoJugar/Combate.md")
     needle = "El apartado “Movimiento y posición”, que\n\n## Movimiento y posición"
     if needle not in parent:
@@ -109,7 +123,9 @@ def merge_spanish_specials() -> None:
     if marker not in raw:
         raise SystemExit("No se reconoce la frontera de NoquearAUnaCriatura")
     callout, regular = raw.split(marker, 1)
-    regular = "golpe máximos, pero ahora le quedan 6" + regular
+    regular = ("golpe máximos, pero ahora le quedan 6" + regular).replace(
+        "#### Caer inconsciente", "### Caer inconsciente"
+    )
     parent = read("ES/ComoJugar/DanoYCuracion.md")
     needle = "Por ejemplo, si tu personaje tiene 12 puntos de\n\n## Tiradas de salvación contra muerte"
     if needle not in parent:
