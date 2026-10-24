@@ -1,7 +1,5 @@
 # Animales A-C
 
-**Entradas:** 33
-
 - [[Animales/Alce|Alce]]
 - [[Animales/AlceGigante|Alce gigante]]
 - [[Animales/Alosaurio|Alosaurio]]

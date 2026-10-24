@@ -19,6 +19,14 @@ The Weapons table in this section shows the game's main weapons. The table lists
 
 **Mastery.** Each weapon has a mastery property, which is defined in the "Mastery Properties" section. To use that property, you must have a feature that lets you use it.
 
+## Improvised Weapons
+
+If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "Improvised Weapons" in "Rules Glossary." Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
+
+## Selling Equipment
+
+Equipment fetches half its cost when sold. In contrast, trade goods and valuables — like gems and art objects — retain their full value in the marketplace. "Magic Items" has prices for magic items.
+
 ## Weapon Proficiency
 
 Anyone can wield a weapon, but you must have proficiency with it to add your Proficiency Bonus to an attack roll you make with it. A player character's features can provide weapon proficiencies. A monster is proficient with any weapon in its stat block.

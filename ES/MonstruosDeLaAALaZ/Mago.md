@@ -2,16 +2,6 @@
 aliases: ["Mago", "Mage"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Mage|Mage (EN)]]"
-wikilinks_auto:
-  - "[[Clases/Mago|Mago]]"
-  - "[[Conjuros/ArmaduraDeMago|Armadura de mago]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/ManoDeMago|Mano de mago]]"
-  - "[[Conjuros/BolaDeFuego|Bola de fuego]]"
-  - "[[Conjuros/ConoDeFrio|Cono de frío]]"
-  - "[[Conjuros/PasoBrumoso|Paso brumoso]]"
-  - "[[Conjuros/Contrahechizo|Contrahechizo]]"
-  - "[[Conjuros/Escudo|Escudo]]"
 ---
 
 # Mago

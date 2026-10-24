@@ -2,8 +2,6 @@
 aliases: ["Dragón de cobre joven", "Young Copper Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Young Copper Dragon|Young Copper Dragon (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Dragón de cobre joven

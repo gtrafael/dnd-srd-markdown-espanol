@@ -2,58 +2,6 @@
 aliases: ["Paladín"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Paladin|Paladín (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Creacion|Creación]]"
-  - "[[Conjuros/CurarHeridas|Curar heridas]]"
-  - "[[Conjuros/CastigoAbrasador|Castigo abrasador]]"
-  - "[[Conjuros/Heroismo|Heroísmo]]"
-  - "[[Conjuros/CastigoDivino|Castigo divino]]"
-  - "[[Clases/Guerrero|Guerrero]]"
-  - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/Guia|Guía]]"
-  - "[[Conjuros/LlamaSagrada|Llama sagrada]]"
-  - "[[Conjuros/Consagrar|Consagrar]]"
-  - "[[Conjuros/HallarCorcel|Hallar corcel]]"
-  - "[[Conjuros/Bendicion|Bendición]]"
-  - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/DetectarVenenosYEnfermedades|Detectar venenos y enfermedades]]"
-  - "[[Conjuros/EscudoDeFe|Escudo de fe]]"
-  - "[[Conjuros/FavorDivino|Favor divino]]"
-  - "[[Conjuros/OrdenImperiosa|Orden imperiosa]]"
-  - "[[Conjuros/ProteccionContraElBienYElMal|Protección contra el bien y el mal]]"
-  - "[[Conjuros/PurificarComidaYBebida|Purificar comida y bebida]]"
-  - "[[Conjuros/ArmaMagica|Arma mágica]]"
-  - "[[Conjuros/Auxilio|Auxilio]]"
-  - "[[Conjuros/CastigoBrillante|Castigo brillante]]"
-  - "[[Conjuros/DulceDescanso|Dulce descanso]]"
-  - "[[Conjuros/LocalizarObjeto|Localizar objeto]]"
-  - "[[Conjuros/PlegariaDeCuracion|Plegaria de curación]]"
-  - "[[Conjuros/ProteccionContraVeneno|Protección contra veneno]]"
-  - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
-  - "[[Conjuros/VinculoProtector|Vínculo protector]]"
-  - "[[Conjuros/ZonaDeLaVerdad|Zona de la verdad]]"
-  - "[[Conjuros/CirculoMagico|Círculo mágico]]"
-  - "[[Conjuros/CrearComidaYAgua|Crear comida y agua]]"
-  - "[[Conjuros/DisiparMagia|Disipar magia]]"
-  - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
-  - "[[Conjuros/LuzDelDia|Luz del día]]"
-  - "[[Conjuros/Revivir|Revivir]]"
-  - "[[Conjuros/AuraDeVida|Aura de vida]]"
-  - "[[Conjuros/Destierro|Destierro]]"
-  - "[[Conjuros/GuardaContraLaMuerte|Guarda contra la muerte]]"
-  - "[[Conjuros/LocalizarCriatura|Localizar criatura]]"
-  - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"
-  - "[[Conjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
-  - "[[Conjuros/Geas|Geas]]"
-  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
-  - "[[MonstruosDeLaAALaZ/Caballero|Caballero]]"
-  - "[[Conjuros/SenalDeEsperanza|Señal de esperanza]]"
-  - "[[Conjuros/GuardianDeLaFe|Guardián de la fe]]"
-  - "[[Conjuros/LibertadDeMovimiento|Libertad de movimiento]]"
-  - "[[Conjuros/Comunion|Comunión]]"
-  - "[[Conjuros/GolpeFlamigero|Golpe flamígero]]"
-  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
 ---
 
 # Paladín
@@ -155,6 +103,14 @@ Siempre tienes el conjuro castigo divino preparado. Además, puedes lanzarlo sin
 Obtienes una dote de estilo de combate de tu elección (consulta las dotes en el capítulo “Dotes”). En lugar de elegir una de esas dotes, puedes elegir la opción presentada a continuación.
 
 Guerrero bendito. Aprendes dos trucos de clérigo de tu elección (consulta la sección de la clase clérigo para ver la lista de conjuros de clérigo). Se recomiendan guía y llama sagrada. Los trucos elegidos cuentan como conjuros de paladín para ti y el Carisma es tu aptitud mágica para lanzarlos. Cada vez que subas un nivel de paladín, puedes sustituir uno de estos trucos por otro truco de clérigo.
+
+#### Romper tu juramento
+
+Los paladines siempre intentan alcanzar los más altos estándares de conducta, pero incluso los más entregados pueden fallar. A veces, un paladín quebranta su juramento.
+
+Un paladín que rompe sus votos tiende a buscar la absolución. Para ello, y en señal de penitencia, pasa la noche en vela o lleva a cabo un ayuno. Tras finalizar el rito del perdón, el paladín puede hacer borrón y cuenta nueva.
+
+Si tu paladín rompe su juramento y no se arrepiente, habla con tu GM. Tu paladín probablemente debería buscar una subclase más apropiada o incluso abandonar la clase y adoptar otra.
 
 ### Nivel 3: Canalizar divinidad
 

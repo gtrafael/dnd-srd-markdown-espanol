@@ -2,21 +2,6 @@
 aliases: ["Glosario de reglas", "Rules Glossary"]
 tags: [srd, espanol, tag_glosariodereglas]
 related_en: "[[Rules Glossary/Rules Glossary|Rules Glossary (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Polimorfar|Polimorfar]]"
-  - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
-  - "[[MonstruosDeLaAALaZ/Guardia|Guardia]]"
-  - "[[Conjuros/Escudo|Escudo]]"
-  - "[[Conjuros/Levitar|Levitar]]"
-  - "[[Conjuros/Volar|Volar]]"
-  - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
-  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
-  - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"
-  - "[[Conjuros/Revivir|Revivir]]"
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/ProteccionContraElBienYElMal|Protección contra el bien y el mal]]"
-  - "[[Conjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
-  - "[[MonstruosDeLaAALaZ/Zombi|Zombi]]"
 ---
 
 # Glosario de reglas

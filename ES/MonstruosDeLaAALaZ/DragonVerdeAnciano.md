@@ -2,11 +2,6 @@
 aliases: ["Dragón verde anciano", "Ancient Green Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Green Dragon|Ancient Green Dragon (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/ClavoMental|Clavo mental]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/AlterarLosRecuerdos|Alterar los recuerdos]]"
 ---
 
 # Dragón verde anciano

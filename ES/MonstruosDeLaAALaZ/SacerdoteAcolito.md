@@ -2,12 +2,6 @@
 aliases: ["Sacerdote acólito", "Priest Acolyte"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Priest Acolyte|Priest Acolyte (EN)]]"
-wikilinks_auto:
-  - "[[Clases/Clerigo|Clérigo]]"
-  - "[[MonstruosDeLaAALaZ/Sacerdote|Sacerdote]]"
-  - "[[Conjuros/Bendicion|Bendición]]"
-  - "[[Conjuros/PalabraDeCuracion|Palabra de curación]]"
-  - "[[Conjuros/Santuario|Santuario]]"
 ---
 
 # Sacerdote acólito

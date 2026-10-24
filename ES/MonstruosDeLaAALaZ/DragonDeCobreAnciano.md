@@ -2,15 +2,6 @@
 aliases: ["Dragón de cobre anciano", "Ancient Copper Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Copper Dragon|Ancient Copper Dragon (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/ClavoMental|Clavo mental]]"
-  - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/IlusionMenor|Ilusión menor]]"
-  - "[[Conjuros/ImagenMayor|Imagen mayor]]"
-  - "[[Conjuros/ProyectarImagen|Proyectar imagen]]"
-  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
 ---
 
 # Dragón de cobre anciano

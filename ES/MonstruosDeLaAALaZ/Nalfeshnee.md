@@ -2,8 +2,6 @@
 aliases: ["Nalfeshnee"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Nalfeshnee|Nalfeshnee (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Nalfeshnee

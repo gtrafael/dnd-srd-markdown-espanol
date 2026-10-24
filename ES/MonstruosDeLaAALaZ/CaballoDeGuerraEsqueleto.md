@@ -2,9 +2,6 @@
 aliases: ["Caballo de guerra esqueleto", "Warhorse Skeleton"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Warhorse Skeleton|Warhorse Skeleton (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[MonstruosDeLaAALaZ/Esqueleto|Esqueleto]]"
 ---
 
 # Caballo de guerra esqueleto

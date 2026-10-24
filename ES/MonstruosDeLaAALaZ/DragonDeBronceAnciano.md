@@ -2,18 +2,6 @@
 aliases: ["Dragón de bronce anciano", "Ancient Bronze Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ancient Bronze Dragon|Ancient Bronze Dragon (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/SaetaGuia|Saeta guía]]"
-  - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/HablarConLosAnimales|Hablar con los animales]]"
-  - "[[Conjuros/Taumaturgia|Taumaturgia]]"
-  - "[[Conjuros/ControlarAgua|Controlar agua]]"
-  - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
-  - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
-  - "[[Conjuros/Luz|Luz]]"
-  - "[[Conjuros/Guia|Guía]]"
 ---
 
 # Dragón de bronce anciano

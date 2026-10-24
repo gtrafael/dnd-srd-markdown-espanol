@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
-"""Audita que la estructura ES siga el índice/TOC oficial.
+"""Audita que main siga el TOC oficial y las reglas canónicas del proyecto.
 
 Convención:
 - capítulo de nivel superior -> carpeta;
-- entrada directa del capítulo con contenido propio -> archivo;
-- niveles inferiores -> pueden permanecer como encabezados dentro del archivo padre;
-- recuadros/callouts son excepciones permitidas;
-- notas hoja de catálogos también son permitidas.
-
-No modifica archivos.
+- entrada directa del capítulo -> archivo;
+- catálogos grandes del TOC -> subcarpeta contenedora;
+- niveles inferiores -> encabezados dentro del archivo padre;
+- la maquetación visual (incluidos recuadros) nunca crea archivos;
+- toda carpeta canónica tiene un único 00-*-Index.md generado.
 """
 
 from __future__ import annotations
@@ -31,14 +30,16 @@ MAPA_CARPETAS = {
     "Herramientas del juego": "HerramientasDelJuego",
     "Objetos mágicos": "ObjetosMagicos",
     "Monstruos": "Monstruos",
+    "Monstruos de la A a la Z": "MonstruosDeLaAALaZ",
+    "Animales": "Animales",
 }
 
 CATALOGOS = {
-    ("Conjuros", "Descripciones de conjuros"),
-    ("Objetos mágicos", "Objetos mágicos de la A a la Z"),
+    ("Conjuros", "Descripciones de conjuros"): "DescripcionesDeConjuros",
+    ("Objetos mágicos", "Objetos mágicos de la A a la Z"): "ObjetosMagicosDeLaAALaZ",
 }
 
-CARPETAS_CON_ENTIDADES = {"Conjuros", "ObjetosMagicos"}
+CARPETAS_ENTIDADES = {"MonstruosDeLaAALaZ", "Animales"}
 
 
 def clave(texto: str) -> str:
@@ -62,11 +63,6 @@ def primer_h1(texto: str) -> str | None:
     return None
 
 
-def es_recuadro(texto: str) -> bool:
-    fm = frontmatter(texto).casefold()
-    return "recuadro" in fm or "callout" in fm
-
-
 def titulos_descendientes(meta: dict) -> set[str]:
     out: set[str] = set()
     children = meta.get("children", {})
@@ -79,9 +75,34 @@ def titulos_descendientes(meta: dict) -> set[str]:
     return out
 
 
+def indice_esperado(folder: Path) -> str:
+    return f"00-{folder.name}-Index.md"
+
+
+def auditar_indices(raiz: Path) -> list[dict]:
+    fallos = []
+    for folder in sorted(p for p in raiz.rglob("*") if p.is_dir() and "(Alt)" not in p.name):
+        indices = [p.name for p in folder.glob("*-Index.md")]
+        esperado = indice_esperado(folder)
+        if indices != [esperado]:
+            fallos.append({"carpeta": str(folder), "indices": indices, "esperado": esperado})
+    return fallos
+
+
 def auditar(indice: dict, raiz: Path) -> dict:
     capitulos = []
     total_fallos = 0
+
+    recuadros = []
+    for p in raiz.rglob("*.md"):
+        if "(Alt)" in p.as_posix() or p.name.endswith("-Index.md"):
+            continue
+        fm = frontmatter(p.read_text(encoding="utf-8")).casefold()
+        if "recuadro" in fm or "callout" in fm:
+            recuadros.append(str(p.relative_to(raiz)))
+
+    fallos_indices = auditar_indices(raiz)
+    total_fallos += len(recuadros) + len(fallos_indices)
 
     for capitulo, carpeta in MAPA_CARPETAS.items():
         meta = indice.get(capitulo)
@@ -90,84 +111,72 @@ def auditar(indice: dict, raiz: Path) -> dict:
             total_fallos += 1
             continue
 
+        root = raiz / carpeta
+        if not root.exists():
+            capitulos.append({"capitulo": capitulo, "carpeta": carpeta, "error": "carpeta_no_existe"})
+            total_fallos += 1
+            continue
+
         children = meta.get("children", {})
         if not isinstance(children, dict):
             children = {}
 
-        root = raiz / carpeta
         archivos = {}
-        if root.exists():
-            for p in sorted(root.glob("*.md")):
-                if p.name.endswith("-Index.md"):
-                    continue
-                raw = p.read_text(encoding="utf-8")
-                h1 = primer_h1(raw)
-                archivos[p.name] = {
-                    "path": p,
-                    "h1": h1,
-                    "clave_h1": clave(h1 or ""),
-                    "recuadro": es_recuadro(raw),
-                }
+        for p in sorted(root.glob("*.md")):
+            if p.name.endswith("-Index.md"):
+                continue
+            h1 = primer_h1(p.read_text(encoding="utf-8"))
+            archivos[p.name] = {"path": p, "h1": h1, "clave_h1": clave(h1 or "")}
 
-        requeridos = []
         faltantes = []
-        nombres_incoherentes = []
         duplicados = []
+        extras = []
+        catalogos_faltantes = []
 
         claves_hijos = {clave(x) for x in children}
+        descendientes = titulos_descendientes(meta)
 
         for titulo in children:
-            if (capitulo, titulo) in CATALOGOS:
+            catalogo = CATALOGOS.get((capitulo, titulo))
+            if catalogo:
+                sub = root / catalogo
+                if not sub.is_dir():
+                    catalogos_faltantes.append({"titulo": titulo, "carpeta": catalogo})
                 continue
+
             k = clave(titulo)
             matches = [x for x in archivos.values() if x["clave_h1"] == k]
-            requeridos.append(titulo)
             if not matches:
                 faltantes.append(titulo)
-                continue
-            if len(matches) > 1:
-                duplicados.append({
-                    "titulo": titulo,
-                    "archivos": [m["path"].name for m in matches],
-                })
-                continue
-            stem = matches[0]["path"].stem
-            if clave(stem) != k:
-                nombres_incoherentes.append({
-                    "titulo": titulo,
-                    "archivo": matches[0]["path"].name,
-                })
+            elif len(matches) > 1:
+                duplicados.append({"titulo": titulo, "archivos": [m["path"].name for m in matches]})
 
-        descendientes = titulos_descendientes(meta)
-        extras = []
         for nombre, info in archivos.items():
-            if info["recuadro"]:
-                continue
             k = info["clave_h1"]
-            if k == clave(capitulo):
+            if k == clave(capitulo) or k in claves_hijos or k in descendientes:
                 continue
-            if k in claves_hijos:
-                continue
-            if k in descendientes:
-                continue
-            if carpeta in CARPETAS_CON_ENTIDADES:
+            if carpeta in CARPETAS_ENTIDADES:
                 continue
             extras.append({"archivo": nombre, "h1": info["h1"]})
 
-        fallos = len(faltantes) + len(nombres_incoherentes) + len(duplicados) + len(extras)
+        fallos = len(faltantes) + len(duplicados) + len(extras) + len(catalogos_faltantes)
         total_fallos += fallos
         capitulos.append({
             "capitulo": capitulo,
             "carpeta": carpeta,
-            "requeridos": requeridos,
             "faltantes": faltantes,
-            "nombres_incoherentes": nombres_incoherentes,
             "duplicados": duplicados,
+            "catalogos_faltantes": catalogos_faltantes,
             "extras_no_toc": extras,
             "fallos": fallos,
         })
 
-    return {"fallos": total_fallos, "capitulos": capitulos}
+    return {
+        "fallos": total_fallos,
+        "recuadros_separados": recuadros,
+        "indices_incorrectos": fallos_indices,
+        "capitulos": capitulos,
+    }
 
 
 def main() -> int:
@@ -182,12 +191,16 @@ def main() -> int:
     args.salida.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     print("Fallos estructurales:", out["fallos"])
+    if out["recuadros_separados"]:
+        print("Recuadros separados:", out["recuadros_separados"])
+    if out["indices_incorrectos"]:
+        print("Índices incorrectos:", out["indices_incorrectos"])
     for c in out["capitulos"]:
         if c.get("fallos"):
             print(c["capitulo"], json.dumps({
                 "faltantes": c["faltantes"],
-                "nombres_incoherentes": c["nombres_incoherentes"],
                 "duplicados": c["duplicados"],
+                "catalogos_faltantes": c["catalogos_faltantes"],
                 "extras_no_toc": c["extras_no_toc"],
             }, ensure_ascii=False))
     return 1 if out["fallos"] else 0

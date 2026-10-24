@@ -1,7 +1,5 @@
 # Monsters A-Z A-C
 
-**Entradas:** 63
-
 - [[Monsters A-Z/Aboleth|Aboleth]]
 - [[Monsters A-Z/Adult Black Dragon|Adult Black Dragon]]
 - [[Monsters A-Z/Adult Blue Dragon|Adult Blue Dragon]]

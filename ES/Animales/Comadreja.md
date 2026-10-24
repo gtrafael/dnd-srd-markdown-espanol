@@ -2,8 +2,6 @@
 aliases: ["Comadreja", "Weasel"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Weasel|Weasel (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Comadreja

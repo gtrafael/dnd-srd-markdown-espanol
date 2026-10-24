@@ -1,3 +1,0 @@
-# Glosario de reglas
-
-- [[GlosarioDeReglas]]

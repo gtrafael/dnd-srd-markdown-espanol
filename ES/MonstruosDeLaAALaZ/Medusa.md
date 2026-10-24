@@ -2,8 +2,6 @@
 aliases: ["Medusa"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Medusa|Medusa (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Medusa

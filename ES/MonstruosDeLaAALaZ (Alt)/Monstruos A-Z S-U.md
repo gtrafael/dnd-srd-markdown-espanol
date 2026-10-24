@@ -1,7 +1,5 @@
 # Monstruos A-Z S-U
 
-**Entradas:** 21
-
 - [[MonstruosDeLaAALaZ/SabuesoInfernal|Sabueso infernal]]
 - [[MonstruosDeLaAALaZ/Sacerdote|Sacerdote]]
 - [[MonstruosDeLaAALaZ/SacerdoteAcolito|Sacerdote acólito]]

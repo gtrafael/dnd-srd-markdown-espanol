@@ -2,8 +2,6 @@
 aliases: ["Dracónido", "Dragonborn"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Dragonborn|Dragonborn (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Dracónido

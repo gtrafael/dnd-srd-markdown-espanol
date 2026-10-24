@@ -2,13 +2,6 @@
 aliases: ["Trampas", "Traps"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Traps|Traps (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Abrir|Abrir]]"
-  - "[[Clases/Mago|Mago]]"
-  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/CerraduraArcana|Cerradura arcana]]"
-  - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 
 # Trampas

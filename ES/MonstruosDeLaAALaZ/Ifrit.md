@@ -2,16 +2,6 @@
 aliases: ["Ifrit", "Efreeti"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Efreeti|Efreeti (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Deseo|Deseo]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
-  - "[[Conjuros/DonDeLenguas|Don de lenguas]]"
-  - "[[Conjuros/FormaGaseosa|Forma gaseosa]]"
-  - "[[Conjuros/ImagenMayor|Imagen mayor]]"
-  - "[[Conjuros/MuroDeFuego|Muro de fuego]]"
 ---
 
 # Ifrit

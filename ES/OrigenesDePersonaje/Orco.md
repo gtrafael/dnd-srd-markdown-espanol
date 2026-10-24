@@ -2,8 +2,6 @@
 aliases: ["Orco", "Orc"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Orc|Orc (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Orco

@@ -2,8 +2,6 @@
 aliases: ["Búho", "Owl"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Owl|Owl (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Búho

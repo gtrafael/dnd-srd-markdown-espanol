@@ -2,13 +2,6 @@
 aliases: ["Dragón negro adulto", "Adult Black Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Adult Black Dragon|Adult Black Dragon (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/FlechaAcida|Flecha ácida]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/EsferaVitriolica|Esfera vitriólica]]"
-  - "[[Conjuros/HablarConLosMuertos|Hablar con los muertos]]"
-  - "[[Conjuros/Terror|Terror]]"
 ---
 
 # Dragón negro adulto

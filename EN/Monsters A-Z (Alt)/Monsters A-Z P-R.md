@@ -1,7 +1,5 @@
 # Monsters A-Z P-R
 
-**Entradas:** 17
-
 - [[Monsters A-Z/Pegasus|Pegasus]]
 - [[Monsters A-Z/Phase Spider|Phase Spider]]
 - [[Monsters A-Z/Pirate|Pirate]]

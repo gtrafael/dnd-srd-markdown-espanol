@@ -2,8 +2,6 @@
 aliases: ["Guerrero goblin", "Goblin Warrior"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Goblin Warrior|Goblin Warrior (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Guerrero goblin

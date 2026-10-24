@@ -2,8 +2,6 @@
 aliases: ["Picaro", "Rogue"]
 tags: [srd, espanol, tag_clases]
 related_en: "[[Classes/Rogue|Rogue (EN)]]"
-wikilinks_auto:
-  - "[[Clases/Explorador|Explorador]]"
 ---
 
 # Pícaro

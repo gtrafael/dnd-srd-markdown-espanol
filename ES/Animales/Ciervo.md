@@ -2,8 +2,6 @@
 aliases: ["Ciervo", "Deer"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Deer|Deer (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Ciervo

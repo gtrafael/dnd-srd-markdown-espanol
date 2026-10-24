@@ -2,8 +2,6 @@
 aliases: ["Grick"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Grick|Grick (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Grick

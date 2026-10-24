@@ -2,8 +2,6 @@
 aliases: ["Escorpión gigante", "Giant Scorpion"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Scorpion|Giant Scorpion (EN)]]"
-wikilinks_auto:
-  - "[[Animales/Escorpion|Escorpión]]"
 ---
 
 # Escorpión gigante

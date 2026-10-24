@@ -2,21 +2,6 @@
 aliases: ["Archimago", "Archmage"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Archmage|Archmage (EN)]]"
-wikilinks_auto:
-  - "[[Clases/Mago|Mago]]"
-  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Conjuros/MenteEnBlanco|Mente en blanco]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/ArmaduraDeMago|Armadura de mago]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
-  - "[[Conjuros/ManoDeMago|Mano de mago]]"
-  - "[[Conjuros/ConoDeFrio|Cono de frío]]"
-  - "[[Conjuros/Escudrinar|Escudriñar]]"
-  - "[[Conjuros/Teletransporte|Teletransporte]]"
-  - "[[Conjuros/PasoBrumoso|Paso brumoso]]"
-  - "[[Conjuros/Contrahechizo|Contrahechizo]]"
-  - "[[Conjuros/Escudo|Escudo]]"
 ---
 
 # Archimago

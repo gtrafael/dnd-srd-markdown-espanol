@@ -2,8 +2,6 @@
 aliases: ["Sapo gigante", "Giant Toad"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Toad|Giant Toad (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Sapo gigante

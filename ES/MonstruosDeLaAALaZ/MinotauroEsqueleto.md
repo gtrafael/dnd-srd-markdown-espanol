@@ -2,9 +2,6 @@
 aliases: ["Minotauro esqueleto", "Minotaur Skeleton"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Minotaur Skeleton|Minotaur Skeleton (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[MonstruosDeLaAALaZ/Esqueleto|Esqueleto]]"
 ---
 
 # Minotauro esqueleto

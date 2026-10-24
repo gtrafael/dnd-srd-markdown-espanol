@@ -2,9 +2,6 @@
 aliases: ["Hombre lobo", "Werewolf"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Werewolf|Werewolf (EN)]]"
-wikilinks_auto:
-  - "[[Animales/Lobo|Lobo]]"
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Hombre lobo

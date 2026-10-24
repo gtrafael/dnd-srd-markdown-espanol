@@ -2,8 +2,6 @@
 aliases: ["Dragón de oropel joven", "Young Brass Dragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Young Brass Dragon|Young Brass Dragon (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Dragón de oropel joven

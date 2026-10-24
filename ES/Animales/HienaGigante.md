@@ -2,9 +2,6 @@
 aliases: ["Hiena gigante", "Giant Hyena"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Hyena|Giant Hyena (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Animales/Hiena|Hiena]]"
 ---
 
 # Hiena gigante

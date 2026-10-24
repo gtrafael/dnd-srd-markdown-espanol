@@ -2,9 +2,6 @@
 aliases: ["Piraña", "Piranha"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Piranha|Piranha (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Piraña

@@ -2,8 +2,6 @@
 aliases: ["Ettin"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Ettin|Ettin (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Ettin

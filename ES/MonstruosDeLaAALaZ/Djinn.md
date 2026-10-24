@@ -2,18 +2,6 @@
 aliases: ["Djinn", "Djinni"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Djinni|Djinni (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Deseo|Deseo]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/CrearComidaYAgua|Crear comida y agua]]"
-  - "[[Conjuros/DonDeLenguas|Don de lenguas]]"
-  - "[[Conjuros/ViajarConElViento|Viajar con el viento]]"
-  - "[[Conjuros/DesplazamientoEntrePlanos|Desplazamiento entre planos]]"
-  - "[[Conjuros/FormaGaseosa|Forma gaseosa]]"
-  - "[[Conjuros/ImagenMayor|Imagen mayor]]"
 ---
 
 # Djinn

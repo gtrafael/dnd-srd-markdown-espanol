@@ -2,15 +2,6 @@
 aliases: ["Transporte", "Transportation"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Mounts and Vehicles|Mounts and Vehicles (EN)]]"
-wikilinks_auto:
-  - "[[Animales/CaballoDeGuerra|Caballo de guerra]]"
-  - "[[Animales/CaballoDeMonta|Caballo de monta]]"
-  - "[[Animales/CaballoDeTiro|Caballo de tiro]]"
-  - "[[Animales/Camello|Camello]]"
-  - "[[Animales/Elefante|Elefante]]"
-  - "[[Animales/Mastin|Mastín]]"
-  - "[[Animales/Mula|Mula]]"
-  - "[[Animales/Poni|Poni]]"
 ---
 
 # Monturas y vehículos

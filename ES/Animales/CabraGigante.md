@@ -2,9 +2,6 @@
 aliases: ["Cabra gigante", "Giant Goat"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Goat|Giant Goat (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Animales/Cabra|Cabra]]"
 ---
 
 # Cabra gigante

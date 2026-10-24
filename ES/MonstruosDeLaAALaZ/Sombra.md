@@ -2,9 +2,6 @@
 aliases: ["Sombra", "Shadow"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Shadow|Shadow (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
 ---
 
 # Sombra

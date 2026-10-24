@@ -2,13 +2,6 @@
 aliases: ["Draña", "Drider"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Drider|Drider (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
-  - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
-  - "[[Animales/Arana|Araña]]"
-  - "[[Conjuros/FuegoFeerico|Fuego feérico]]"
-  - "[[Conjuros/Telarana|Telaraña]]"
 ---
 
 # Draña

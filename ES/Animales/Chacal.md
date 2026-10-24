@@ -2,8 +2,6 @@
 aliases: ["Chacal", "Jackal"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Jackal|Jackal (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Chacal

@@ -2,75 +2,116 @@
 
 Este repositorio mantiene el **SRD 5.2.1 en español e inglés** que usa el proyecto `dungeon-agent`.
 
-## Cómo funciona
+## Modelo del repositorio
 
 ```
-main               ← fuente humana canónica y rama por defecto
-  ES/              ← referencia estructural primaria
-  EN/              ← espejo inglés
-   │
-   └── CI valida, genera índices y limpia
-            │
-            ▼
-corpus             ← salida generada para IA
+main
+├── ES/                         fuente humana canónica
+├── EN/                         espejo inglés
+├── 00-*-Index.md               navegación humana derivada
+└── *(Alt)/                     navegación alfabética derivada
+        │
+        └── CI valida y limpia
+                │
+                ▼
+corpus                           contenido canónico para IA
 ```
 
 ### `main`
 
 Es la única rama que se corrige a mano.
 
-- `ES/`: referencia estructural del proyecto.
-- `EN/`: equivalente inglés de ES.
-- conserva frontmatter, aliases y wikilinks para Obsidian.
-- puede contener índices `(Alt)` generados para navegación; deben ser simétricos ES/EN y no contienen texto normativo.
+- Los PDF oficiales SRD 5.2.1 ES/EN son la autoridad normativa.
+- El **índice/TOC oficial define la estructura documental**.
+- ES es la referencia estructural y EN mantiene su espejo conceptual.
+- Los recuadros del PDF permanecen dentro de su capítulo o subcapítulo; la maquetación visual no crea notas independientes.
+- Las entidades de catálogo sí tienen notas hoja individuales.
 
-Los PDF oficiales SRD 5.2.1 ES/EN son la autoridad sobre el contenido. Si ES y EN difieren estructuralmente, la diferencia debe estar justificada por el PDF oficial EN; no se conserva una diferencia solo porque existiera en las fuentes históricas.
+Los grandes catálogos reflejan también sus contenedores del TOC. Por ejemplo:
+
+```
+Conjuros/
+├── 00-Conjuros-Index.md
+├── Conjuros.md
+├── ObtenerConjuros.md
+├── LanzarConjuros.md
+└── DescripcionesDeConjuros/
+    ├── 00-DescripcionesDeConjuros-Index.md
+    └── ...
+
+ObjetosMagicos/
+├── 00-ObjetosMagicos-Index.md
+├── ...
+└── ObjetosMagicosDeLaAALaZ/
+    ├── 00-ObjetosMagicosDeLaAALaZ-Index.md
+    └── ...
+```
+
+### Navegación humana
+
+Toda carpeta canónica tiene exactamente un índice generado `00-<Nombre>-Index.md`.
+
+Estos índices:
+
+- contienen únicamente enlaces;
+- no contienen números de archivos ni totales;
+- se regeneran automáticamente;
+- no son contenido normativo.
+
+Los catálogos grandes —conjuros, objetos mágicos, monstruos A-Z y animales— tienen además una vista `(Alt)` por bloques alfabéticos. Es una segunda forma de **navegar**, no una segunda estructura canónica.
+
+Por tanto:
+
+- `00-*-Index.md` = mapa estructural de una carpeta;
+- `(Alt)` = navegación alfabética cómoda para humanos;
+- ninguno de los dos pasa a `corpus`.
 
 ### `corpus`
 
 Se genera automáticamente desde `main`.
 
-Elimina metadatos de Obsidian, wikilinks e índices de navegación, incluidos los `(Alt)`. **No se edita a mano.**
+Elimina:
 
-El workflow **Generar índices Obsidian** reconstruye automáticamente los `(Alt)` en `main`. El workflow **Generar corpus** publica la variante limpia en `corpus`.
+- frontmatter y metadatos de Obsidian;
+- todos los índices `00-*-Index.md`;
+- todas las carpetas `(Alt)`;
+- wikilinks como sintaxis de navegación.
+
+Conserva solo el contenido canónico útil para procesamiento automático. **No se edita a mano.**
 
 ## Relación con las fuentes originales
 
-El proyecto ya no sincroniza automáticamente cambios de upstream. La procedencia queda fijada mediante una referencia histórica:
+El proyecto ya no sincroniza automáticamente cambios de upstream. La procedencia queda fijada mediante:
 
 `upstream-baseline-2026-10-23`
 
-A partir de ese baseline, `main` es nuestra fuente canónica. Cualquier corrección externa que interese se revisa y se incorpora de forma deliberada como un cambio propio, nunca mediante un merge automático de upstream.
+Cualquier corrección externa relevante se contrasta con los PDF oficiales y se incorpora deliberadamente a `main`.
 
-Consulta [docs/FORK.md](docs/FORK.md) para la política de procedencia, ramas y versionado.
+Consulta [docs/FORK.md](docs/FORK.md) para la política de procedencia y [docs/CRITERIOS_CORPUS.md](docs/CRITERIOS_CORPUS.md) para las reglas estructurales.
 
 ## Al modificar contenido
 
 1. Corrige primero ES en `main`.
-2. Revisa su equivalente EN.
-3. Mantén `related_en` / `related_es` o una relación a sección cuando corresponda.
-4. Deja que CI regenere `corpus`.
+2. Revisa el equivalente EN.
+3. Mantén las relaciones `related_en` / `related_es` o a sección cuando corresponda.
+4. Deja que CI regenere los índices y `corpus`.
 5. Comprueba que los workflows queden en verde.
 
 Los controles principales son:
 
-- **rápidos, en cada cambio:** TOC ES, simetría ES → EN, tablas y generación de `corpus`;
+- **rápidos:** TOC, simetría ES → EN, tablas e índices;
 - **completo:** comparación con los PDF, estructura visual, cobertura, lineage y duplicados.
 
-El workflow **Validar corpus completo** debe quedar en verde antes de aprobar una candidata. Sus informes son artefactos temporales de CI: no hay que mantenerlos ni versionarlos.
-
-Las reglas estructurales están resumidas en [docs/CRITERIOS_CORPUS.md](docs/CRITERIOS_CORPUS.md).
+No se preparan datasets de entrenamiento hasta aprobar el corpus.
 
 ## Releases y reproducibilidad
 
-Las releases propias se etiquetan sobre `main`, que representa el estado humano canónico. Los consumidores automáticos deben fijar además el commit exacto de `corpus` que corresponde a la candidata aprobada.
-
-De esta forma una release identifica la fuente mantenida y un commit de `corpus` identifica sin ambigüedad el material consumido por datasets, entrenamientos y benchmarks.
+Las releases propias se etiquetan sobre `main`. Los consumidores automáticos fijan además el commit exacto de `corpus` utilizado, de modo que datasets, entrenamientos y benchmarks sean reproducibles aunque `main` continúe evolucionando.
 
 ## Para agentes
 
-Lee [AGENTS.md](AGENTS.md). Contiene únicamente el modelo mental y las reglas necesarias para trabajar en el repositorio.
+Lee [AGENTS.md](AGENTS.md).
 
 ## Licencia y procedencia
 
-El contenido SRD se publica bajo **CC-BY-4.0**. Consulta [License.md](License.md) y [Legal.md](Legal.md) para atribución y detalles de procedencia.
+El contenido SRD se publica bajo **CC-BY-4.0**. Consulta [License.md](License.md) y [Legal.md](Legal.md).

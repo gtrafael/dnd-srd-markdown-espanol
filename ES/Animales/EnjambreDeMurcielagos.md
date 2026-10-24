@@ -2,8 +2,6 @@
 aliases: ["Enjambre de murciélagos", "Swarm of Bats"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Swarm of Bats|Swarm of Bats (EN)]]"
-wikilinks_auto:
-  - "[[Animales/Murcielago|Murciélago]]"
 ---
 
 # Enjambre de murciélagos

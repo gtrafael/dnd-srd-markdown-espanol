@@ -2,10 +2,6 @@
 aliases: ["Trasfondos", "Backgrounds"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Origins/Character Backgrounds|Backgrounds (EN)]]"
-wikilinks_auto:
-  - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Clases/Mago|Mago]]"
-  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
 ---
 
 # Trasfondos de personaje

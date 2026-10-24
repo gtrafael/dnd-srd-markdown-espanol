@@ -2,11 +2,6 @@
 aliases: ["Engendro vampírico", "Vampire Spawn"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Vampire Spawn|Vampire Spawn (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[MonstruosDeLaAALaZ/Vampiro|Vampiro]]"
-  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
-  - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
 ---
 
 # Engendro vampírico

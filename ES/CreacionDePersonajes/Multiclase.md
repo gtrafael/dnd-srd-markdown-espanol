@@ -2,21 +2,6 @@
 aliases: ["Multiclase", "Multiclassing"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Creation/Multiclassing|Multiclassing (EN)]]"
-wikilinks_auto:
-  - "[[Clases/Barbaro|Bárbaro]]"
-  - "[[Clases/Druida|Druida]]"
-  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Clases/Guerrero|Guerrero]]"
-  - "[[Clases/Paladin|Paladín]]"
-  - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Clases/Monje|Monje]]"
-  - "[[Clases/Brujo|Brujo]]"
-  - "[[Clases/Bardo|Bardo]]"
-  - "[[Clases/Mago|Mago]]"
-  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Clases/Explorador|Explorador]]"
-  - "[[Conjuros/ManosArdientes|Manos ardientes]]"
 ---
 
 # Multiclase

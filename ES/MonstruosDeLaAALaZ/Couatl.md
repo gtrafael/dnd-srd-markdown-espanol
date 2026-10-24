@@ -2,15 +2,6 @@
 aliases: ["Couatl"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Couatl|Couatl (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
-  - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
-  - "[[Conjuros/DetectarMagia|Detectar magia]]"
-  - "[[Conjuros/DetectarPensamientos|Detectar pensamientos]]"
-  - "[[Conjuros/CrearComidaYAgua|Crear comida y agua]]"
-  - "[[Conjuros/RestablecimientoMayor|Restablecimiento mayor]]"
-  - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
-  - "[[Conjuros/Santuario|Santuario]]"
 ---
 
 # Couatl

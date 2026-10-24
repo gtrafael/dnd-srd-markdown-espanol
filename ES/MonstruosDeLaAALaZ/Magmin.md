@@ -2,8 +2,6 @@
 aliases: ["Magmin"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Magmin|Magmin (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Magmin

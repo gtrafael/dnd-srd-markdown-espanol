@@ -2,9 +2,6 @@
 aliases: ["Pseudodragón", "Pseudodragon"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Pseudodragon|Pseudodragon (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Pseudodragón

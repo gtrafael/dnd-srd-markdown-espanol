@@ -1,7 +1,5 @@
 # Animales P-R
 
-**Entradas:** 12
-
 - [[Animales/Pantera|Pantera]]
 - [[Animales/Pirana|Piraña]]
 - [[Animales/Plesiosaurio|Plesiosaurio]]

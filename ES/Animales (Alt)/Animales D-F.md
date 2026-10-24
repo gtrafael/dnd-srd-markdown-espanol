@@ -1,7 +1,5 @@
 # Animales D-F
 
-**Entradas:** 10
-
 - [[Animales/Elefante|Elefante]]
 - [[Animales/EnjambreDeCuervos|Enjambre de cuervos]]
 - [[Animales/EnjambreDeInsectos|Enjambre de insectos]]

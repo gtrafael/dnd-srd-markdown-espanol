@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Aplica a custom/main correcciones mecánicas ya verificadas contra el SRD oficial.
+"""Aplica a main correcciones mecánicas ya verificadas contra el SRD oficial.
 
 Conserva frontmatter, aliases, tags y wikilinks de Obsidian.
 No decide jerarquía, no mueve secciones y no reconstruye tablas a partir del PDF.
-Esas tareas pertenecen al QA estructural de dungeon-agent.
+La jerarquía se valida contra el TOC oficial mediante los gates del repositorio.
 """
 
 from __future__ import annotations

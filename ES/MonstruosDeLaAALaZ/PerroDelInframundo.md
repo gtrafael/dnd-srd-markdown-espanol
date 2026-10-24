@@ -2,8 +2,6 @@
 aliases: ["Perro del inframundo", "Death Dog"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Death Dog|Death Dog (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Perro del inframundo

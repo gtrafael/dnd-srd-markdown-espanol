@@ -2,8 +2,6 @@
 aliases: ["Cría de dragón de bronce", "Bronze Dragon Wyrmling"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Bronze Dragon Wyrmling|Bronze Dragon Wyrmling (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Cría de dragón de bronce

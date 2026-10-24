@@ -17,9 +17,9 @@ TOKENS_FUERA_PDF_PERMITIDOS_ES = {
     ("abreviatura", "GlosarioDeReglas/ConvencionesDelGlosario.md"),
     ("encarnan", "Clases/Paladin.md"),
     ("asegura", "ComoJugar/ElRitmoDeJuego.md"),
-    ("tratado", "Conjuros/PolimorfarVerdadero.md"),
-    ("parpadeantes", "Conjuros/RociadaDeColor.md"),
-    ("susurrará", "ObjetosMagicos/ArcoJuramentado.md"),
+    ("tratado", "Conjuros/DescripcionesDeConjuros/PolimorfarVerdadero.md"),
+    ("parpadeantes", "Conjuros/DescripcionesDeConjuros/RociadaDeColor.md"),
+    ("susurrará", "ObjetosMagicos/ObjetosMagicosDeLaAALaZ/ArcoJuramentado.md"),
 }
 
 

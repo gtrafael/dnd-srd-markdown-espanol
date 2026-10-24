@@ -1,0 +1,13 @@
+---
+aliases: ["Wand of Fireballs"]
+tags: [srd, english, tag_treasure]
+related_es: "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeBolasDeFuego|Wand of Fireballs (Español)]]"
+---
+
+# Wand of Fireballs
+
+_Wand, Rare (Requires Attunement by a Spellcaster)_
+
+This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast _Fireball_ (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell's level by 1 for each additional charge you expend.
+
+_**Regaining Charges.**_ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.

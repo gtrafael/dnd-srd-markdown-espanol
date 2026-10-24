@@ -2,9 +2,6 @@
 aliases: ["Lobo terrible", "Dire Wolf"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Dire Wolf|Dire Wolf (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Animales/Lobo|Lobo]]"
 ---
 
 # Lobo terrible

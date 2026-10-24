@@ -2,19 +2,15 @@
 aliases: ["Lanzar conjuros", "Spellcasting"]
 tags: [srd, espanol, tag_conjuros]
 related_en: "[[Spells/Casting Spells]]"
-wikilinks_auto:
-  - "[[Conjuros/ProyectilMagico|Proyectil mágico]]"
-  - "[[Conjuros/CurarHeridas|Curar heridas]]"
-  - "[[Conjuros/Mensaje|Mensaje]]"
-  - "[[Conjuros/Silencio|Silencio]]"
-  - "[[Conjuros/OlaAtronadora|Ola atronadora]]"
-  - "[[Conjuros/Relampago|Relámpago]]"
-  - "[[Conjuros/Bendicion|Bendición]]"
 ---
 
 # Lanzar conjuros
 
 *La descripción de cada conjuro tiene una serie de apartados con todos los detalles necesarios para lanzarlo. Las próximas secciones explican cada uno de esos apartados, que van después del nombre del conjuro.*
+
+## Lanzar conjuros con armadura
+
+Debes tener entrenamiento con la armadura que llevas para lanzar conjuros vistiéndola. De lo contrario, la armadura será un lastre excesivo para lanzar conjuros.
 
 ## Nivel del conjuro
 
@@ -142,6 +138,12 @@ Elegirte como objetivo. Si un conjuro tiene como objetivo a una criatura de tu e
 Conciencia de ser objetivo. Salvo que un conjuro tenga un efecto perceptible, el objetivo no sabrá que se está lanzando un conjuro sobre él. Será obvio que efectos muy llamativos, como un relámpago, provienen de un conjuro, mientras que otros más sutiles, como un intento de leer pensamientos, pasarán desapercibidos, salvo que la descripción del conjuro especifique lo contrario.
 
 Objetivos no válidos. Si lanzas un conjuro sobre alguien o algo que no pueda verse afectado por él, no le pasará nada. Sin embargo, si has usado un espacio de conjuro para lanzarlo, ese espacio se gastará igualmente.
+
+### Identificar un conjuro activo
+
+Si aún está activo, puedes intentar identificar un conjuro no instantáneo por sus efectos observables. Para ello, debes llevar a cabo una acción de estudiar y superar una prueba de Inteligencia (Conocimiento arcano) con CD 15.
+
+Si un conjuro normalmente no tiene efecto sobre un objetivo que supere una tirada de salvación, un objetivo no válido parecerá haber superado su tirada de salvación, aunque no haya hecho una (no dará indicios de que no es un objetivo válido). De lo contrario, percibirás que el conjuro no le ha hecho nada al objetivo.
 
 ## Tiradas de salvación
 

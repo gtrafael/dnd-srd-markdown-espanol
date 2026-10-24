@@ -2,12 +2,6 @@
 aliases: ["Sacerdote", "Priest"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Priest|Priest (EN)]]"
-wikilinks_auto:
-  - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Conjuros/EspiritusGuardianes|Espíritus guardianes]]"
-  - "[[Conjuros/DisiparMagia|Disipar magia]]"
-  - "[[Conjuros/PalabraDeCuracion|Palabra de curación]]"
-  - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
 ---
 
 # Sacerdote

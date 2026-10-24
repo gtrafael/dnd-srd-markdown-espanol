@@ -2,9 +2,6 @@
 aliases: ["Viaje", "Travel", "Travel Pace"]
 tags: [srd, espanol, tag_herramientasdeljuego]
 related_en: "[[Gameplay Toolbox/Travel Pace|Travel (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/ViajarConElViento|Viajar con el viento]]"
-  - "[[ObjetosMagicos/AlfombraVoladora|Alfombra voladora]]"
 ---
 
 # Ritmo de viaje

@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
-"""Genera índices auxiliares (Alt) para navegar custom/main en Obsidian.
+"""Genera índices de navegación para main.
 
-Los (Alt) contienen solo wikilinks hacia notas canónicas. No contienen texto
-normativo y custom/corpus los descarta por completo.
+Principios:
+- cada carpeta canónica tiene exactamente un 00-*-Index.md;
+- los índices contienen solo enlaces, nunca contadores;
+- los grandes catálogos usan una vista (Alt) alfabética para humanos;
+- todos estos índices son derivados y no forman parte de corpus.
 """
 
 from __future__ import annotations
@@ -15,7 +18,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-# Ocho rangos compartidos por ES y EN para mantener la misma vista de navegación.
 RANGOS = [
     ("A-C", "A", "C"),
     ("D-F", "D", "F"),
@@ -33,48 +35,114 @@ class Catalogo:
     origen: str
     destino: str
     nombre: str
-    excluir: frozenset[str] = frozenset()
 
 
 CATALOGOS = [
     Catalogo("ES/Animales", "ES/Animales (Alt)", "Animales"),
     Catalogo("EN/Animals", "EN/Animals (Alt)", "Animals"),
     Catalogo(
-        "ES/Conjuros", "ES/Conjuros (Alt)", "Conjuros",
-        frozenset({"Conjuros", "ObtenerConjuros", "LanzarConjuros"}),
+        "ES/Conjuros/DescripcionesDeConjuros",
+        "ES/Conjuros (Alt)",
+        "Conjuros",
     ),
     Catalogo(
-        "EN/Spells", "EN/Spells (Alt)", "Spells",
-        frozenset({"Spells", "Gaining Spells", "Casting Spells"}),
-    ),
-    Catalogo("ES/MonstruosDeLaAALaZ", "ES/MonstruosDeLaAALaZ (Alt)", "Monstruos A-Z"),
-    Catalogo("EN/Monsters A-Z", "EN/Monsters A-Z (Alt)", "Monsters A-Z"),
-    Catalogo(
-        "ES/ObjetosMagicos", "ES/ObjetosMagicos (Alt)", "Objetos mágicos",
-        frozenset({
-            "ObjetosMagicos", "CategoriasDeObjetosMagicos", "RarezaDeLosObjetosMagicos",
-            "ActivarUnObjetoMagico", "ElSiguienteAmanecer", "ObjetosMalditos",
-            "ResistenciaDeLosObjetosMagicos", "FabricarObjetosMagicos",
-            "ObjetosMagicosConscientes", "ReglasDeObjetosMagicos",
-        }),
+        "EN/Spells/Spell Descriptions",
+        "EN/Spells (Alt)",
+        "Spells",
     ),
     Catalogo(
-        "EN/Magic Items", "EN/Magic Items (Alt)", "Magic Items",
-        frozenset({
-            "Magic Items", "Magic Item Categories", "Magic Item Rarity",
-            "Activating a Magic Item", "The Next Dawn", "Cursed Items",
-            "Magic Item Resilience", "Crafting Magic Items",
-            "Sentient Magic Items", "Magic Item Rules",
-        }),
+        "ES/MonstruosDeLaAALaZ",
+        "ES/MonstruosDeLaAALaZ (Alt)",
+        "Monstruos A-Z",
+    ),
+    Catalogo(
+        "EN/Monsters A-Z",
+        "EN/Monsters A-Z (Alt)",
+        "Monsters A-Z",
+    ),
+    Catalogo(
+        "ES/ObjetosMagicos/ObjetosMagicosDeLaAALaZ",
+        "ES/ObjetosMagicos (Alt)",
+        "Objetos mágicos",
+    ),
+    Catalogo(
+        "EN/Magic Items/Magic Items A-Z",
+        "EN/Magic Items (Alt)",
+        "Magic Items",
     ),
 ]
 
+ALT_POR_ORIGEN = {c.origen: c for c in CATALOGOS}
 
-def frontmatter(texto: str) -> str:
-    if not texto.startswith("---\n"):
-        return ""
-    fin = texto.find("\n---\n", 4)
-    return texto[4:fin] if fin >= 0 else ""
+FOLDER_LABELS = {
+    "ES": {
+        "ComoJugar": "Cómo jugar",
+        "CreacionDePersonajes": "Creación de personajes",
+        "Clases": "Clases",
+        "OrigenesDePersonaje": "Orígenes de personaje",
+        "Dotes": "Dotes",
+        "Equipo": "Equipo",
+        "Conjuros": "Conjuros",
+        "DescripcionesDeConjuros": "Descripciones de conjuros",
+        "GlosarioDeReglas": "Glosario de reglas",
+        "HerramientasDelJuego": "Herramientas del juego",
+        "ObjetosMagicos": "Objetos mágicos",
+        "ObjetosMagicosDeLaAALaZ": "Objetos mágicos de la A a la Z",
+        "Monstruos": "Monstruos",
+        "MonstruosDeLaAALaZ": "Monstruos de la A a la Z",
+        "Animales": "Animales",
+    },
+    "EN": {
+        "Playing the Game": "Playing the Game",
+        "Character Creation": "Character Creation",
+        "Classes": "Classes",
+        "Character Origins": "Character Origins",
+        "Feats": "Feats",
+        "Equipment": "Equipment",
+        "Spells": "Spells",
+        "Spell Descriptions": "Spell Descriptions",
+        "Rules Glossary": "Rules Glossary",
+        "Gameplay Toolbox": "Gameplay Toolbox",
+        "Magic Items": "Magic Items",
+        "Magic Items A-Z": "Magic Items A-Z",
+        "Monsters": "Monsters",
+        "Monsters A-Z": "Monsters A-Z",
+        "Animals": "Animals",
+    },
+}
+
+ROOT_LABELS = {
+    "ES": {
+        "ComoJugar": "Cómo jugar",
+        "CreacionDePersonajes": "Creación de personajes",
+        "Clases": "Clases",
+        "OrigenesDePersonaje": "Orígenes de personaje",
+        "Dotes": "Dotes",
+        "Equipo": "Equipo",
+        "Conjuros": "Conjuros",
+        "GlosarioDeReglas": "Glosario de reglas",
+        "HerramientasDelJuego": "Herramientas del juego",
+        "ObjetosMagicos": "Objetos mágicos",
+        "Monstruos": "Monstruos",
+        "MonstruosDeLaAALaZ": "Monstruos de la A a la Z",
+        "Animales": "Animales",
+    },
+    "EN": {
+        "Playing the Game": "Playing the Game",
+        "Character Creation": "Character Creation",
+        "Classes": "Classes",
+        "Character Origins": "Character Origins",
+        "Feats": "Feats",
+        "Equipment": "Equipment",
+        "Spells": "Spells",
+        "Rules Glossary": "Rules Glossary",
+        "Gameplay Toolbox": "Gameplay Toolbox",
+        "Magic Items": "Magic Items",
+        "Monsters": "Monsters",
+        "Monsters A-Z": "Monsters A-Z",
+        "Animals": "Animals",
+    },
+}
 
 
 def titulo(path: Path) -> str:
@@ -84,11 +152,6 @@ def titulo(path: Path) -> str:
         if m:
             return re.sub(r"[*_]", "", m.group(1)).strip()
     return path.stem
-
-
-def es_callout(path: Path) -> bool:
-    fm = frontmatter(path.read_text(encoding="utf-8"))
-    return bool(re.search(r"tags:\s*\[[^\]]*\b(?:recuadro|callout)\b", fm, re.IGNORECASE))
 
 
 def inicial(texto: str) -> str:
@@ -106,54 +169,140 @@ def rango_de(texto: str) -> str:
     return "V-Z"
 
 
-def generar(catalogo: Catalogo) -> None:
+def index_name(folder: Path) -> str:
+    return f"00-{folder.name}-Index.md"
+
+
+def rel_wikilink(lang_root: Path, target: Path, label: str) -> str:
+    rel = target.relative_to(lang_root).with_suffix("").as_posix()
+    return f"[[{rel}|{label}]]"
+
+
+def limpiar_indices_generados() -> None:
+    for lang in ("ES", "EN"):
+        root = ROOT / lang
+        for p in root.rglob("*.md"):
+            if any("(Alt)" in parte for parte in p.parts):
+                continue
+            if p.name.startswith("00-") and p.name.endswith("-Index.md"):
+                p.unlink()
+            elif p.name.endswith("-Index.md"):
+                p.unlink()
+
+        for nombre in ("Espanol.md", "English.md"):
+            p = root / nombre
+            if p.exists():
+                p.unlink()
+
+
+def generar_alt(catalogo: Catalogo) -> None:
     origen = ROOT / catalogo.origen
     destino = ROOT / catalogo.destino
-
     if destino.exists():
         shutil.rmtree(destino)
-    destino.mkdir(parents=True)
+    destino.mkdir(parents=True, exist_ok=True)
 
-    grupos: dict[str, list[tuple[str, str]]] = {r[0]: [] for r in RANGOS}
+    lang_root = ROOT / catalogo.origen.split("/", 1)[0]
+    grupos: dict[str, list[tuple[str, Path]]] = {r[0]: [] for r in RANGOS}
 
     for path in sorted(origen.glob("*.md")):
-        if path.name.endswith("-Index.md") or path.stem in catalogo.excluir or es_callout(path):
+        if path.name.endswith("-Index.md"):
             continue
         nombre = titulo(path)
-        grupos[rango_de(nombre)].append((nombre, path.stem))
+        grupos[rango_de(nombre)].append((nombre, path))
 
-    raiz = [
-        f"# {catalogo.nombre} — índice alternativo",
-        "",
-        "Índice generado para navegación en Obsidian. No contiene texto normativo.",
-        "",
-    ]
+    raiz = [f"# {catalogo.nombre} — índice alfabético", ""]
 
     for rango, _, _ in RANGOS:
         archivo = f"{catalogo.nombre} {rango}"
         entradas = sorted(grupos[rango], key=lambda x: x[0].casefold())
-        cuerpo = [
-            f"# {archivo}",
+        cuerpo = [f"# {archivo}", ""]
+        cuerpo += [f"- {rel_wikilink(lang_root, path, nombre)}" for nombre, path in entradas]
+        cuerpo.append("")
+        (destino / f"{archivo}.md").write_text("\n".join(cuerpo), encoding="utf-8")
+        rel = (destino / f"{archivo}.md").relative_to(lang_root).with_suffix("").as_posix()
+        raiz.append(f"- [[{rel}|{rango}]]")
+
+    raiz.append("")
+    (destino / f"00-{catalogo.nombre} (Alt)-Index.md").write_text(
+        "\n".join(raiz), encoding="utf-8"
+    )
+
+
+def etiqueta_carpeta(lang: str, folder: Path) -> str:
+    return FOLDER_LABELS.get(lang, {}).get(folder.name, folder.name)
+
+
+def generar_indice_carpeta(lang: str, folder: Path) -> None:
+    lang_root = ROOT / lang
+    rel_folder = folder.relative_to(ROOT).as_posix()
+    etiqueta = etiqueta_carpeta(lang, folder)
+
+    if rel_folder in ALT_POR_ORIGEN:
+        alt = ROOT / ALT_POR_ORIGEN[rel_folder].destino
+        alt_index = alt / f"00-{ALT_POR_ORIGEN[rel_folder].nombre} (Alt)-Index.md"
+        contenido = [
+            f"# {etiqueta}",
             "",
-            f"**Entradas:** {len(entradas)}",
-            "",
-            *[
-                f"- [[{catalogo.origen.split('/', 1)[1]}/{stem}|{nombre}]]"
-                for nombre, stem in entradas
-            ],
+            f"- {rel_wikilink(lang_root, alt_index, 'Índice alfabético' if lang == 'ES' else 'Alphabetical index')}",
             "",
         ]
-        (destino / f"{archivo}.md").write_text("\n".join(cuerpo), encoding="utf-8")
-        raiz.append(f"- [[{catalogo.destino.split('/', 1)[1]}/{archivo}|{rango}]]")
+    else:
+        notas = [
+            p for p in folder.glob("*.md")
+            if not p.name.endswith("-Index.md") and not p.name.startswith("00-")
+        ]
+        subdirs = [
+            p for p in folder.iterdir()
+            if p.is_dir() and "(Alt)" not in p.name
+        ]
+        enlaces: list[tuple[str, str]] = []
+        for p in notas:
+            enlaces.append((titulo(p), rel_wikilink(lang_root, p, titulo(p))))
+        for d in subdirs:
+            idx = d / index_name(d)
+            label = etiqueta_carpeta(lang, d)
+            enlaces.append((label, rel_wikilink(lang_root, idx, label)))
+        enlaces.sort(key=lambda x: x[0].casefold())
+        contenido = [f"# {etiqueta}", ""] + [f"- {link}" for _, link in enlaces] + [""]
 
-    raiz += ["", f"**Total:** {sum(len(x) for x in grupos.values())}", ""]
-    (destino / f"{catalogo.nombre} (Alt).md").write_text("\n".join(raiz), encoding="utf-8")
+    (folder / index_name(folder)).write_text("\n".join(contenido), encoding="utf-8")
+
+
+def generar_indices_normales() -> None:
+    for lang in ("ES", "EN"):
+        lang_root = ROOT / lang
+        dirs = sorted(
+            (
+                p for p in lang_root.rglob("*")
+                if p.is_dir() and "(Alt)" not in p.name
+            ),
+            key=lambda p: len(p.parts),
+            reverse=True,
+        )
+        for folder in dirs:
+            generar_indice_carpeta(lang, folder)
+
+        labels = ROOT_LABELS[lang]
+        titulo_raiz = "Español" if lang == "ES" else "English"
+        raiz = [f"# {titulo_raiz}", ""]
+        for folder_name, label in labels.items():
+            folder = lang_root / folder_name
+            if not folder.exists():
+                raise SystemExit(f"Falta carpeta raíz esperada: {folder}")
+            idx = folder / index_name(folder)
+            raiz.append(f"- {rel_wikilink(lang_root, idx, label)}")
+        raiz.append("")
+        root_file = lang_root / ("00-Espanol-Index.md" if lang == "ES" else "00-English-Index.md")
+        root_file.write_text("\n".join(raiz), encoding="utf-8")
 
 
 def main() -> int:
+    limpiar_indices_generados()
     for catalogo in CATALOGOS:
-        generar(catalogo)
-    print("Índices Obsidian (Alt) regenerados de forma simétrica.")
+        generar_alt(catalogo)
+    generar_indices_normales()
+    print("Índices de navegación regenerados sin contadores.")
     return 0
 
 

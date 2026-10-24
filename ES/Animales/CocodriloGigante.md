@@ -2,8 +2,6 @@
 aliases: ["Cocodrilo gigante", "Giant Crocodile"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Crocodile|Giant Crocodile (EN)]]"
-wikilinks_auto:
-  - "[[Animales/Cocodrilo|Cocodrilo]]"
 ---
 
 # Cocodrilo gigante

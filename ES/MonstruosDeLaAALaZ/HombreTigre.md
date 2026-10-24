@@ -2,9 +2,6 @@
 aliases: ["Hombre tigre", "Weretiger"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Weretiger|Weretiger (EN)]]"
-wikilinks_auto:
-  - "[[Animales/Tigre|Tigre]]"
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Hombre tigre

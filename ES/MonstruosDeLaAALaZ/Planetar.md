@@ -2,16 +2,6 @@
 aliases: ["Planetar"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Planetar|Planetar (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Resistencia|Resistencia]]"
-  - "[[Conjuros/DetectarElBienYElMal|Detectar el bien y el mal]]"
-  - "[[Conjuros/AlzarALosMuertos|Alzar a los muertos]]"
-  - "[[Conjuros/ControlarElClima|Controlar el clima]]"
-  - "[[Conjuros/DisiparElBienYElMal|Disipar el bien y el mal]]"
-  - "[[Conjuros/CurarHeridas|Curar heridas]]"
-  - "[[Conjuros/Invisibilidad|Invisibilidad]]"
-  - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
-  - "[[Conjuros/RestablecimientoMenor|Restablecimiento menor]]"
 ---
 
 # Planetar

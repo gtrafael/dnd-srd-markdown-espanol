@@ -2,8 +2,6 @@
 aliases: ["Aventurarse", "Adventuring"]
 tags: [srd, espanol, tag_comojugar]
 related_en: "[[Playing the Game/Exploration|Exploration (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Exploración
@@ -77,6 +75,30 @@ Normalmente, puedes llevar tu equipo y los tesoros sin preocuparte del peso de e
 #### Romper objetos
 
 Como acción, puedes romper automáticamente o destruir de algún modo un objeto no mágico frágil, como un recipiente de cristal o un trozo de papel. Si tratas de dañar algo más resistente, tu GM podría aplicar las reglas sobre romper objetos del capítulo “Glosario de reglas”.
+
+## Orden de marcha
+
+Los aventureros deberían establecer un orden de marcha cuando se desplazan, ya sea por interiores o exteriores. El orden de marcha facilita determinar qué personajes se ven afectados por las trampas, quiénes pueden detectar a los enemigos ocultos y cuáles están situados más cerca de ellos si estalla un combate. Podéis cambiar vuestro orden de marcha cuando no estéis en un combate y registrar el orden como consideréis apropiado: por ejemplo, anotadlo o representadlo con miniaturas.
+
+### Peligros
+
+Los monstruos son las principales amenazas a las que se enfrentan los personajes, pero no las únicas. En el capítulo “Glosario de reglas” se definen los siguientes peligros:
+
+Asfixia
+
+Deshidratación
+
+Fuego
+
+Caídas
+
+Desnutrición
+
+#### Viajar
+
+Durante una aventura, los personajes pueden recorrer largas distancias en viajes que tal vez duren horas o días. Tu GM puede resumir el viaje sin calcular el tiempo o la distancia exactos, o bien aplicar las reglas del ritmo de viaje que aparecen a continuación.
+
+Si quieres saber lo rápido que te puedes mover cuando el tiempo apremia, consulta las reglas de movimiento más adelante en el apartado “Combate” de “Cómo jugar”.
 
 ## Ritmo de viaje
 

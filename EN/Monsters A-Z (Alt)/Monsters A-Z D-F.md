@@ -1,7 +1,5 @@
 # Monsters A-Z D-F
 
-**Entradas:** 20
-
 - [[Monsters A-Z/Darkmantle|Darkmantle]]
 - [[Monsters A-Z/Death Dog|Death Dog]]
 - [[Monsters A-Z/Deva|Deva]]

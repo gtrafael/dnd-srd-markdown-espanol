@@ -2,8 +2,6 @@
 aliases: ["Águila gigante", "Giant Eagle"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Eagle|Giant Eagle (EN)]]"
-wikilinks_auto:
-  - "[[Animales/Aguila|Águila]]"
 ---
 
 # Águila gigante

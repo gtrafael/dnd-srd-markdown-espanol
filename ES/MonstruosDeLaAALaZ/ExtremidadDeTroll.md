@@ -2,9 +2,6 @@
 aliases: ["Extremidad de troll", "Troll Limb"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Troll Limb|Troll Limb (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[MonstruosDeLaAALaZ/Troll|Troll]]"
 ---
 
 # Extremidad de troll

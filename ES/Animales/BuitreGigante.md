@@ -2,9 +2,6 @@
 aliases: ["Buitre gigante", "Giant Vulture"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Vulture|Giant Vulture (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Animales/Buitre|Buitre]]"
 ---
 
 # Buitre gigante

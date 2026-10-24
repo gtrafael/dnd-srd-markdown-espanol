@@ -1,7 +1,5 @@
 # Monstruos A-Z A-C
 
-**Entradas:** 44
-
 - [[MonstruosDeLaAALaZ/Aboleth|Aboleth]]
 - [[MonstruosDeLaAALaZ/AcechadorInvisible|Acechador invisible]]
 - [[MonstruosDeLaAALaZ/AcechadorOsgo|Acechador osgo]]

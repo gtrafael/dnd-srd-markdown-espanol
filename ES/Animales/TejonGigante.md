@@ -2,8 +2,6 @@
 aliases: ["Tejón gigante", "Giant Badger"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Giant Badger|Giant Badger (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Tejón gigante

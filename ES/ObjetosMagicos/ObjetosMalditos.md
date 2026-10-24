@@ -2,9 +2,6 @@
 aliases: ["Objetos malditos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Cursed Items|Cursed Items (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Identificar|Identificar]]"
-  - "[[Conjuros/LevantarMaldicion|Levantar maldición]]"
 ---
 
 # Objetos malditos

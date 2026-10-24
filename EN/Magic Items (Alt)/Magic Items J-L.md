@@ -1,7 +1,5 @@
 # Magic Items J-L
 
-**Entradas:** 3
-
-- [[Magic Items/Javelin of Lightning|Javelin of Lightning]]
-- [[Magic Items/Lantern of Revealing|Lantern of Revealing]]
-- [[Magic Items/Luck Blade|Luck Blade]]
+- [[Magic Items/Magic Items A-Z/Javelin of Lightning|Javelin of Lightning]]
+- [[Magic Items/Magic Items A-Z/Lantern of Revealing|Lantern of Revealing]]
+- [[Magic Items/Magic Items A-Z/Luck Blade|Luck Blade]]

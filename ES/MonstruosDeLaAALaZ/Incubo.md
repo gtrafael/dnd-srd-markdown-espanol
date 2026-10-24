@@ -2,12 +2,6 @@
 aliases: ["Íncubo", "Incubus"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Incubus|Incubus (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[MonstruosDeLaAALaZ/Sucubo|Súcubo]]"
-  - "[[Conjuros/ExcursionEterea|Excursión etérea]]"
-  - "[[Conjuros/PatronHipnotico|Patrón hipnótico]]"
-  - "[[MonstruosDeLaAALaZ/Pesadilla|Pesadilla]]"
 ---
 
 # Íncubo

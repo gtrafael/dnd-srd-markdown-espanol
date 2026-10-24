@@ -2,15 +2,6 @@
 aliases: ["Vampiro", "Vampire"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Vampire|Vampire (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[MonstruosDeLaAALaZ/Solar|Solar]]"
-  - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
-  - "[[Conjuros/TreparCualAracnido|Trepar cual arácnido]]"
-  - "[[Animales/Murcielago|Murciélago]]"
-  - "[[MonstruosDeLaAALaZ/EngendroVampirico|Engendro vampírico]]"
-  - "[[Conjuros/HechizarPersona|Hechizar persona]]"
-  - "[[Conjuros/OrdenImperiosa|Orden imperiosa]]"
 ---
 
 # Vampiro

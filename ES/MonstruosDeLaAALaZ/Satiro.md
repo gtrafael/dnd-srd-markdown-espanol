@@ -2,8 +2,6 @@
 aliases: ["Sátiro", "Satyr"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Satyr|Satyr (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Sátiro

@@ -2,21 +2,6 @@
 aliases: ["Crear tu personaje"]
 tags: [srd, espanol, tag_caracterizaciones]
 related_en: "[[Character Creation/Create Your Character|Create Your Character (EN)]]"
-wikilinks_auto:
-  - "[[Clases/Barbaro|Bárbaro]]"
-  - "[[Clases/Bardo|Bardo]]"
-  - "[[Clases/Brujo|Brujo]]"
-  - "[[Clases/Clerigo|Clérigo]]"
-  - "[[Clases/Druida|Druida]]"
-  - "[[MonstruosDeLaAALaZ/Druida|Druida]]"
-  - "[[Clases/Explorador|Explorador]]"
-  - "[[Clases/Guerrero|Guerrero]]"
-  - "[[Clases/Hechicero|Hechicero]]"
-  - "[[Clases/Mago|Mago]]"
-  - "[[MonstruosDeLaAALaZ/Mago|Mago]]"
-  - "[[Clases/Monje|Monje]]"
-  - "[[Clases/Paladin|Paladín]]"
-  - "[[Clases/Picaro|Pícaro]]"
 ---
 
 # Crear tu personaje
@@ -266,6 +251,12 @@ Legal malvado (LM). Los seres legales malvados toman lo que les viene en gana, p
 Neutral malvado (NM). Neutral malvado es el alineamiento de las personas a las que les resulta indiferente causar daño mientras persiguen sus deseos. Une criminal que robe y asesine según le convenga probablemente sea neutral malvade.
 
 Caótico malvado (CM). Las criaturas caóticas malvadas recurren a la violencia arbitrariamente, movidas por el odio o el ansia de sangre. Un villano que maquina venganzas y siembra el caos probablemente sea caótico malvado.
+
+### Criaturas sin alineamiento
+
+La mayoría de las criaturas que carecen de raciocinio no poseen alineamiento alguno: son sin alineamiento. Los tiburones son depredadores salvajes, por ejemplo, pero no son malvados; simplemente, no tienen alineamiento.
+
+El juego da por hecho que los personajes de los jugadores no tienen un alineamiento malvado. Habla con tu GM antes de crear un personaje malvado.
 
 ### Paso 5: detalles de la creación del personaje
 

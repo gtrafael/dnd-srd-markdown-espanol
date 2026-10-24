@@ -1,7 +1,5 @@
 # Monstruos A-Z G-I
 
-**Entradas:** 46
-
 - [[MonstruosDeLaAALaZ/GelatinaOcre|Gelatina ocre]]
 - [[MonstruosDeLaAALaZ/Ghast|Ghast]]
 - [[MonstruosDeLaAALaZ/GiganteDeEscarcha|Gigante de escarcha]]

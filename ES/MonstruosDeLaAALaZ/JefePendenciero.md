@@ -2,8 +2,6 @@
 aliases: ["Jefe pendenciero", "Tough Boss"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Tough Boss|Tough Boss (EN)]]"
-wikilinks_auto:
-  - "[[MonstruosDeLaAALaZ/Pendenciero|Pendenciero]]"
 ---
 
 # Jefe pendenciero

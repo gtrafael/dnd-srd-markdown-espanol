@@ -2,9 +2,6 @@
 aliases: ["Siervo de vampiro", "Vampire Familiar"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Vampire Familiar|Vampire Familiar (EN)]]"
-wikilinks_auto:
-  - "[[MonstruosDeLaAALaZ/Vampiro|Vampiro]]"
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
 ---
 
 # Siervo de vampiro

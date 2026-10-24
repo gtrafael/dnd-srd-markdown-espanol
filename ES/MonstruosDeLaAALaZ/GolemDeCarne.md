@@ -2,10 +2,6 @@
 aliases: ["Gólem de carne", "Flesh Golem"]
 tags: [srd, espanol, tag_monstruos]
 related_en: "[[Monsters A-Z/Flesh Golem|Flesh Golem (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/VisionEnLaOscuridad|Visión en la oscuridad]]"
-  - "[[Conjuros/CambiarDeForma|Cambiar de forma]]"
-  - "[[Conjuros/Resistencia|Resistencia]]"
 ---
 
 # Gólem de carne

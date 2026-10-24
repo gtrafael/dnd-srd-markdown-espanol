@@ -5,58 +5,59 @@ Este repositorio mantiene el **corpus canónico bilingüe del SRD 5.2.1**.
 ## Modelo mental
 
 ```
-main              fuente humana canónica y rama por defecto
+main
   ES/             referencia estructural primaria
   EN/             espejo inglés de ES
-  (Alt)/          índices derivados para Obsidian, simétricos
-corpus            salida limpia generada, sin índices ni metadatos
+  00-*-Index.md   índices derivados de navegación
+  *(Alt)/         vistas alfabéticas derivadas
+
+corpus            salida limpia, sin navegación ni metadatos
 
 upstream-baseline-2026-10-23
-                  referencia histórica de procedencia; no se sincroniza
+                  referencia histórica de procedencia
 ```
 
-Los PDF oficiales ES y EN son la autoridad normativa del texto. Para la **estructura**, ES es la referencia: EN debe reflejarla salvo que el PDF oficial EN demuestre una diferencia real.
+Los PDF oficiales ES y EN son la autoridad normativa.
+
+## Regla estructural
+
+La estructura la decide el **TOC oficial**, no la maquetación del PDF.
+
+- capítulo → carpeta;
+- unidad directa del capítulo → archivo;
+- sección contenedora de catálogo → subcarpeta;
+- niveles inferiores → encabezados del archivo padre;
+- entidad de catálogo → nota hoja;
+- recuadro/callout → permanece dentro de su padre.
+
+Un recuadro no crea una nota independiente solo por estar destacado visualmente.
+
+## Navegación
+
+Toda carpeta canónica debe tener exactamente un `00-<Nombre>-Index.md` generado.
+
+Los catálogos grandes pueden tener además una carpeta `(Alt)` alfabética. Ambos son navegación humana derivada y nunca contenido normativo.
+
+No edites índices generados manualmente.
 
 ## Flujo normal
 
-1. Editar únicamente `main`.
-2. Corregir primero ES.
-3. Revisar y mantener el equivalente EN.
-4. El workflow **Generar índices Obsidian** reconstruye los `(Alt)` desde las notas canónicas.
-5. Los workflows validan estructura, tablas y simetría.
-6. `corpus` se genera desde `main` sin índices ni metadatos.
+1. Edita únicamente `main`.
+2. Corrige primero ES.
+3. Revisa el equivalente EN.
+4. Mantén las relaciones bilingües.
+5. Regenera los índices.
+6. Ejecuta los gates de estructura, simetría y tablas.
+7. `corpus` se genera automáticamente.
 
 **Nunca edites `corpus` a mano.**
 
 ## Relación con upstream
 
-No se hacen merges ni rebases automáticos desde upstream. Si una fuente externa publica una corrección útil, se contrasta con los PDF oficiales y se incorpora deliberadamente en `main` mediante un commit propio.
-
-La referencia `upstream-baseline-2026-10-23` conserva el punto histórico desde el que se consolidó el proyecto.
-
-## Qué debe cumplir una corrección
-
-- respetar el TOC oficial;
-- no convertir maquetación visual en estructura falsa;
-- mantener tablas con semántica correcta;
-- conservar cada recuadro normativo como nota propia;
-- mantener las relaciones `related_en` / `related_es`;
-- contrastar cualquier duda con el PDF oficial.
-
-Las reglas detalladas están en `docs/CRITERIOS_CORPUS.md`.
-
-## Regla de simetría
-
-La simetría se comprueba **ES → EN**.
-
-Una nota normativa ES debe tener equivalente EN como archivo o sección. Si no lo tiene, se considera una incidencia hasta demostrar que el SRD inglés es realmente distinto.
-
-Los índices `(Alt)` son una vista derivada: deben existir con la misma forma en ES y EN, pero nunca se consideran contenido normativo.
-
-No se mantiene una estructura inglesa independiente solo porque las fuentes históricas estuvieran organizadas de otra manera.
+No se hacen merges ni rebases automáticos desde upstream. Una corrección externa útil se contrasta con los PDF oficiales y se incorpora deliberadamente como un cambio propio.
 
 ## Antes de terminar
 
-Comprueba los workflows de `main`. Si un nuevo tipo de error puede repetirse, añade una regresión sencilla al repositorio.
+Comprueba los workflows de `main`. Si un nuevo tipo de error puede repetirse, añade una regresión sencilla.
 
-No añadas infraestructura, manifests o estados manuales si Git + los archivos Markdown permiten reconstruir la información.
+No añadas estados manuales, contadores ni infraestructura si Git y los Markdown permiten reconstruirlos.

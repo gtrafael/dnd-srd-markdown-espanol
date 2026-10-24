@@ -2,8 +2,6 @@
 aliases: ["Tiburón de arrecife", "Reef Shark"]
 tags: [srd, espanol, tag_animales]
 related_en: "[[Animals/Reef Shark|Reef Shark (EN)]]"
-wikilinks_auto:
-  - "[[Conjuros/RespirarBajoElAgua|Respirar bajo el agua]]"
 ---
 
 # Tiburón de arrecife

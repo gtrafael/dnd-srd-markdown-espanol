@@ -1,7 +1,5 @@
 # Animals A-C
 
-**Entradas:** 16
-
 - [[Animals/Allosaurus|Allosaurus]]
 - [[Animals/Ankylosaurus|Ankylosaurus]]
 - [[Animals/Ape|Ape]]
