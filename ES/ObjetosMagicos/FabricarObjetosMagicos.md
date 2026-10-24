@@ -2,6 +2,9 @@
 aliases: ["Fabricar objetos mágicos"]
 tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Crafting Magic Items|Crafting Magic Items (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionesDeCuracion|Pociones de curación]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PergaminoDeConjuro|Pergamino de conjuro]]"
 ---
 
 # Fabricar objetos mágicos

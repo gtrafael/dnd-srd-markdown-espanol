@@ -2,6 +2,8 @@
 aliases: ["EquipoGeneral", "Gear"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Adventuring Gear|Adventuring Gear (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PergaminoDeConjuro|Pergamino de conjuro]]"
 ---
 
 # Equipo de aventureros

@@ -4,6 +4,8 @@ tags: [srd, espanol, tag_tesoro]
 related_en: "[[Magic Items/Magic Items A-Z/Robe of Useful Items|Robe of Useful Items (EN)]]"
 wikilinks_auto:
   - "[[Animales/CaballoDeMonta|Caballo de monta]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionesDeCuracion|Pociones de curación]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PergaminoDeConjuro|Pergamino de conjuro]]"
 ---
 
 # Túnica de objetos útiles

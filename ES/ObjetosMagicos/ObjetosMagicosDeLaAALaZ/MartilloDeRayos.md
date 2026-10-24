@@ -5,6 +5,7 @@ related_en: "[[Magic Items/Magic Items A-Z/Hammer of Thunderbolts|Hammer of Thun
 wikilinks_auto:
   - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/Matagigantes|Matagigantes]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/CinturonDeFuerzaDeGigante|Cinturón de fuerza de gigante]]"
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/GuanteletesDeFuerzaDeOgro|Guanteletes de fuerza de ogro]]"
 ---
 

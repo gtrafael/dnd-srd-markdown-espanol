@@ -16,6 +16,7 @@ wikilinks_auto:
   - "[[Conjuros/DescripcionesDeConjuros/Dormir|Dormir]]"
   - "[[Conjuros/DescripcionesDeConjuros/OlaAtronadora|Ola atronadora]]"
   - "[[Conjuros/DescripcionesDeConjuros/ProyectilMagico|Proyectil mágico]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PergaminoDeConjuro|Pergamino de conjuro]]"
   - "[[Conjuros/DescripcionesDeConjuros/AgarreElectrizante|Agarre electrizante]]"
   - "[[Conjuros/DescripcionesDeConjuros/DescargaDeFuego|Descarga de fuego]]"
   - "[[Conjuros/DescripcionesDeConjuros/Elementalismo|Elementalismo]]"

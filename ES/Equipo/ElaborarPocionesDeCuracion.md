@@ -2,6 +2,8 @@
 aliases: ["Elaborar pociones de curación"]
 tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Brewing Potions of Healing|Brewing Potions of Healing (EN)]]"
+wikilinks_auto:
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionesDeCuracion|Pociones de curación]]"
 ---
 
 # Elaborar pociones de curación

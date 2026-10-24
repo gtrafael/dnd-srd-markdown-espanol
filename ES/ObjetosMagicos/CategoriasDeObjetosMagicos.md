@@ -7,6 +7,7 @@ wikilinks_auto:
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BastonDeImpacto|Bastón de impacto]]"
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BolsaDeContencion|Bolsa de contención]]"
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/BotasElficas|Botas élficas]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PergaminoDeConjuro|Pergamino de conjuro]]"
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaraInamovible|Vara inamovible]]"
   - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/VaritaDeBolasDeFuego|Varita de bolas de fuego]]"
   - "[[Conjuros/DescripcionesDeConjuros/ArmaMagica|Arma mágica]]"

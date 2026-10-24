@@ -4,6 +4,8 @@ tags: [srd, espanol, tag_equipo]
 related_en: "[[Equipment/Tools|Tools (EN)]]"
 wikilinks_auto:
   - "[[Conjuros/DescripcionesDeConjuros/Fabricar|Fabricar]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PocionesDeCuracion|Pociones de curación]]"
+  - "[[ObjetosMagicos/ObjetosMagicosDeLaAALaZ/PergaminoDeConjuro|Pergamino de conjuro]]"
 ---
 
 # Herramientas
