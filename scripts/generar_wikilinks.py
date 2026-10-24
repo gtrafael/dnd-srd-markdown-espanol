@@ -47,7 +47,7 @@ ENTITY_RULES = {
     "EN": (
         ("Classes", "class"),
         ("Animals", "animal"),
-        ("Spells", "spell"),
+        ("Spells/Spell Descriptions", "spell"),
         ("Feats", "feat"),
         ("Monsters A-Z", "monster"),
         ("Magic Items/Magic Items A-Z", "magic_item"),
@@ -149,9 +149,21 @@ def clean_title(value: str) -> str:
     return re.sub(r"\s+", " ", value)
 
 
+def first_h1(markdown: str) -> str | None:
+    match = re.search(r"(?m)^#\s+(.+?)\s*$", strip_frontmatter(markdown))
+    return clean_title(match.group(1)) if match else None
+
+
 def first_heading(markdown: str) -> str | None:
     match = HEADING_RE.search(strip_frontmatter(markdown))
     return clean_title(match.group(1)) if match else None
+
+
+def entity_title(markdown: str, language: str) -> str | None:
+    # ES conserva exactamente la semántica de v3.1: la entidad canónica usa H1.
+    # EN usa el primer encabezado porque spells, animals, monsters y magic items
+    # emplean H2/H3 de forma consistente en el corpus original.
+    return first_h1(markdown) if language == "ES" else first_heading(markdown)
 
 
 def first_heading_match(markdown: str) -> tuple[re.Match[str] | None, str]:
@@ -216,7 +228,7 @@ def is_class(markdown: str, language: str) -> bool:
 
     return bool(
         re.search(r"(?mi)^##\s+Core\s+.+?\s+Traits\s*$", body)
-        and re.search(r"(?mi)^##\s+Becoming a\s+", body)
+        and re.search(r"(?mi)^#{2,3}\s+Becoming a\s+", body)
     )
 
 
@@ -242,7 +254,34 @@ def is_spell(markdown: str, language: str) -> bool:
 
 
 def is_magic_item(markdown: str, language: str) -> bool:
-    heading, body = first_heading_match(markdown)
+    body = strip_frontmatter(markdown)
+
+    if language == "ES":
+        heading = re.search(r"(?m)^#\s+.+?\s*$", body)
+        if not heading:
+            return False
+
+        first_nonblank = next(
+            (
+                line.strip()
+                for line in body[heading.end() :].splitlines()
+                if line.strip()
+            ),
+            "",
+        )
+        if not (
+            first_nonblank.startswith("*")
+            and first_nonblank.endswith("*")
+        ):
+            return False
+
+        descriptor = first_nonblank.casefold()
+        return any(
+            word in descriptor
+            for word in RARITY_WORDS["ES"]
+        )
+
+    heading = HEADING_RE.search(body)
     if not heading:
         return False
 
@@ -255,7 +294,7 @@ def is_magic_item(markdown: str, language: str) -> bool:
 
     return any(
         re.search(rf"(?<!\w){re.escape(word)}(?!\w)", descriptor)
-        for word in RARITY_WORDS[language]
+        for word in RARITY_WORDS["EN"]
     )
 
 
@@ -310,10 +349,17 @@ def build_catalog(
                 continue
 
             markdown = path.read_text(encoding="utf-8")
-            if not is_entity(markdown, language, kind):
-                continue
 
-            title = first_heading(markdown)
+            # EN ya tiene carpetas canónicas de entidad muy limpias tras la
+            # reestructuración: Classes, Animals, Spell Descriptions,
+            # Monsters A-Z y Magic Items A-Z. La propia ubicación define la
+            # granularidad física. Feats sigue necesitando validación porque
+            # hoy contiene notas contenedoras, no una nota por dote.
+            if language == "ES" or kind == "feat":
+                if not is_entity(markdown, language, kind):
+                    continue
+
+            title = entity_title(markdown, language)
             if not title:
                 continue
 
