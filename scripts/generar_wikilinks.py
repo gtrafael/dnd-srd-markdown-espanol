@@ -42,7 +42,7 @@ ENTITY_RULES = {
         ("Conjuros", "spell"),
         ("Dotes", "feat"),
         ("MonstruosDeLaAALaZ", "monster"),
-        ("ObjetosMagicos", "magic_item"),
+        ("ObjetosMagicos/ObjetosMagicosDeLaAALaZ", "magic_item"),
     ),
     "EN": (
         ("Classes", "class"),
@@ -360,14 +360,16 @@ def build_catalog(
 
             markdown = path.read_text(encoding="utf-8")
 
-            # EN ya tiene carpetas canónicas de entidad muy limpias tras la
-            # reestructuración: Classes, Animals, Spell Descriptions,
-            # Monsters A-Z y Magic Items A-Z. La propia ubicación define la
-            # granularidad física. Feats sigue necesitando validación porque
-            # hoy contiene notas contenedoras, no una nota por dote.
-            if language == "ES" or kind == "feat":
-                if not is_entity(markdown, language, kind):
-                    continue
+            # Las carpetas A-Z de objetos mágicos son canónicas y contienen
+            # una nota física por entidad en ambos idiomas. El resto de ES
+            # mantiene sus validadores estructurales; Feats/Dotes sigue
+            # necesitando validación porque hoy contiene notas contenedoras.
+            needs_validation = (
+                kind == "feat"
+                or (language == "ES" and kind != "magic_item")
+            )
+            if needs_validation and not is_entity(markdown, language, kind):
+                continue
 
             title = entity_title(markdown, language)
             if not title:
