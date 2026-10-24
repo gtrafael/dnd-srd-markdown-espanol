@@ -108,6 +108,24 @@ No se preparan datasets de entrenamiento hasta aprobar el corpus.
 
 Las releases propias se etiquetan sobre `main`. Los consumidores automáticos fijan además el commit exacto de `corpus` utilizado, de modo que datasets, entrenamientos y benchmarks sean reproducibles aunque `main` continúe evolucionando.
 
+## Wikilinks automáticos
+
+En la rama experimental, `wikilinks_auto` representa **menciones textuales
+desambiguadas** a entidades físicas de la misma bóveda. No implica por sí solo
+una relación reglística, causalidad, pertenencia ni relevancia mecánica.
+
+Ejemplos deliberadamente válidos incluyen una mención a Murciélago/Bat desde
+Bola de fuego/Fireball cuando aparece en el componente material, o varios
+destinos cuando dos entidades físicas comparten nombre.
+
+El generador puede aplicar reglas deterministas para identificar correctamente
+la entidad mencionada (longest-match, bloqueadores estructurales y contexto
+estructurado para nombres ambiguos), pero no intenta decidir si la mención es
+"importante".
+
+Consulta [docs/experimento-wikilinks-es.md](docs/experimento-wikilinks-es.md)
+para el contrato completo y las invariantes del experimento.
+
 ## Para agentes
 
 Lee [AGENTS.md](AGENTS.md).
