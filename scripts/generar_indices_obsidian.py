@@ -74,6 +74,43 @@ CATALOGOS = [
 
 ALT_POR_ORIGEN = {c.origen: c for c in CATALOGOS}
 
+FOLDER_LABELS = {
+    "ES": {
+        "ComoJugar": "Cómo jugar",
+        "CreacionDePersonajes": "Creación de personajes",
+        "Clases": "Clases",
+        "OrigenesDePersonaje": "Orígenes de personaje",
+        "Dotes": "Dotes",
+        "Equipo": "Equipo",
+        "Conjuros": "Conjuros",
+        "DescripcionesDeConjuros": "Descripciones de conjuros",
+        "GlosarioDeReglas": "Glosario de reglas",
+        "HerramientasDelJuego": "Herramientas del juego",
+        "ObjetosMagicos": "Objetos mágicos",
+        "ObjetosMagicosDeLaAALaZ": "Objetos mágicos de la A a la Z",
+        "Monstruos": "Monstruos",
+        "MonstruosDeLaAALaZ": "Monstruos de la A a la Z",
+        "Animales": "Animales",
+    },
+    "EN": {
+        "Playing the Game": "Playing the Game",
+        "Character Creation": "Character Creation",
+        "Classes": "Classes",
+        "Character Origins": "Character Origins",
+        "Feats": "Feats",
+        "Equipment": "Equipment",
+        "Spells": "Spells",
+        "Spell Descriptions": "Spell Descriptions",
+        "Rules Glossary": "Rules Glossary",
+        "Gameplay Toolbox": "Gameplay Toolbox",
+        "Magic Items": "Magic Items",
+        "Magic Items A-Z": "Magic Items A-Z",
+        "Monsters": "Monsters",
+        "Monsters A-Z": "Monsters A-Z",
+        "Animals": "Animals",
+    },
+}
+
 ROOT_LABELS = {
     "ES": {
         "ComoJugar": "Cómo jugar",
@@ -192,15 +229,20 @@ def generar_alt(catalogo: Catalogo) -> None:
     )
 
 
+def etiqueta_carpeta(lang: str, folder: Path) -> str:
+    return FOLDER_LABELS.get(lang, {}).get(folder.name, folder.name)
+
+
 def generar_indice_carpeta(lang: str, folder: Path) -> None:
     lang_root = ROOT / lang
     rel_folder = folder.relative_to(ROOT).as_posix()
+    etiqueta = etiqueta_carpeta(lang, folder)
 
     if rel_folder in ALT_POR_ORIGEN:
         alt = ROOT / ALT_POR_ORIGEN[rel_folder].destino
         alt_index = alt / f"00-{ALT_POR_ORIGEN[rel_folder].nombre} (Alt)-Index.md"
         contenido = [
-            f"# {folder.name}",
+            f"# {etiqueta}",
             "",
             f"- {rel_wikilink(lang_root, alt_index, 'Índice alfabético' if lang == 'ES' else 'Alphabetical index')}",
             "",
@@ -219,10 +261,10 @@ def generar_indice_carpeta(lang: str, folder: Path) -> None:
             enlaces.append((titulo(p), rel_wikilink(lang_root, p, titulo(p))))
         for d in subdirs:
             idx = d / index_name(d)
-            label = d.name
+            label = etiqueta_carpeta(lang, d)
             enlaces.append((label, rel_wikilink(lang_root, idx, label)))
         enlaces.sort(key=lambda x: x[0].casefold())
-        contenido = [f"# {folder.name}", ""] + [f"- {link}" for _, link in enlaces] + [""]
+        contenido = [f"# {etiqueta}", ""] + [f"- {link}" for _, link in enlaces] + [""]
 
     (folder / index_name(folder)).write_text("\n".join(contenido), encoding="utf-8")
 
