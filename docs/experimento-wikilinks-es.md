@@ -189,21 +189,63 @@ nombres distintos.
 El workflow comprueba dinámicamente que todos los objetos mágicos físicos de las
 carpetas canónicas sean detectados, sin fijar el número 258 en el código.
 
-## Pendientes semánticos para la decisión final del grafo
+## Contrato semántico de wikilinks_auto
 
-La auditoría ha identificado relaciones léxicamente válidas o ambiguas cuya
-conveniencia depende de qué queramos que signifique una arista. No se han
-corregido todavía:
+`wikilinks_auto` representa **menciones textuales identificables de entidades
+físicas de la bóveda**, no relaciones reglísticas fuertes.
 
-- Guard/Guardia puede aparecer por expresiones ordinarias como "drop their
-  guard" o "bajar/montar guardia";
-- Spy puede aparecer por el verbo inglés "to spy";
-- el filtro contextual de spells/conjuros de una palabra todavía puede aceptar
-  Creation/Creación o Shield/Escudo cuando una referencia ordinaria queda cerca
-  de las palabras spell/conjuro en una frase larga;
-- Fireball/Bola de fuego enlaza Bat/Murciélago por el componente material
-  "bat guano/guano de murciélago", una mención literal cuya utilidad en el grafo
-  depende de la semántica que finalmente adoptemos.
+Una arista significa únicamente:
 
-Estos casos se mantienen sin cambios hasta decidir si el grafo representa
-menciones textuales o relaciones reglísticas significativas.
+> esta nota contiene una mención textual que el generador ha podido asociar de
+> forma determinista con esta entidad.
+
+Por tanto, `wikilinks_auto` no implica por sí solo pertenencia, causalidad,
+afinidad mecánica, importancia ni relevancia reglística. Esas interpretaciones
+requieren consultar el texto que origina la mención u otra capa de evidencia.
+
+Consecuencias deliberadas de este contrato:
+
+- Bola de fuego/Fireball puede enlazar Murciélago/Bat porque el componente
+  material menciona guano de murciélago/bat guano;
+- Guard/Guardia puede enlazarse cuando el texto contiene literalmente
+  guard/guardia, incluso en usos ordinarios;
+- Spy puede enlazarse cuando aparece literalmente `spy`;
+- dos entidades reales con el mismo nombre, como Mago clase y Mago monstruo,
+  reciben ambas la mención.
+
+No se añadirán excepciones para decidir si una mención textual es "suficientemente
+importante" o "reglísticamente relevante". Hacerlo convertiría el generador en
+una capa semántica difícil de mantener y gobernada por casos particulares.
+
+### Qué desambiguación sí pertenece al generador
+
+Las reglas ya implementadas se conservan porque no valoran la importancia de la
+relación: intentan determinar **qué entidad está siendo mencionada**.
+
+Se consideran válidas, por ejemplo:
+
+- longest-match, para que una expresión estructural más larga no se fragmente
+  artificialmente en otra entidad;
+- bloqueadores estructurales derivados del propio Markdown;
+- contexto de tabla para distinguir un nombre de conjuro en una columna
+  Conjuro/Spell de la misma palabra usada como Escuela/School o Maestría/Mastery;
+- contexto explícito para nombres de conjuros/spells de una sola palabra que
+  coinciden con vocabulario ordinario;
+- conservación de todos los destinos cuando existen homónimos físicos reales.
+
+Estas reglas son de **desambiguación de identidad**, no de filtrado por
+relevancia.
+
+### Implicación para consumidores del grafo
+
+Un agente o proceso posterior no debe inferir una relación reglística únicamente
+porque exista un `wikilinks_auto`. Si necesita saber por qué existe la arista,
+debe consultar el texto/evidencia que contiene la mención.
+
+En resumen:
+
+`wikilinks_auto = mención textual desambiguada`
+
+y no:
+
+`wikilinks_auto = relación reglística significativa`
