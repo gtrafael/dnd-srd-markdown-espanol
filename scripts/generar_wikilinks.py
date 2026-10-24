@@ -70,7 +70,17 @@ SPELL_MARKERS = {
 }
 
 RARITY_WORDS = {
-    "ES": ("común", "infrecuente", "raro", "muy raro", "legendario", "artefacto"),
+    "ES": (
+        "común",
+        "infrecuente",
+        "raro",
+        "rara",
+        "muy raro",
+        "muy rara",
+        "legendario",
+        "legendaria",
+        "artefacto",
+    ),
     "EN": ("common", "uncommon", "rare", "very rare", "legendary", "artifact"),
 }
 
